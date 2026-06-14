@@ -121,6 +121,13 @@ function getActiveItems() {
   return state.allItems.filter((it) => active.has(it.chapterId));
 }
 
+function getSessionItems() {
+  const items = getActiveItems();
+  const type = state.settings.sessionType || "all";
+  if (type === "all") return items;
+  return items.filter((it) => it.type === type);
+}
+
 function ensureProgressEntry(id) {
   if (!state.progress.has(id)) {
     state.progress.set(id, createProgressEntry());
@@ -160,10 +167,16 @@ function setupNav() {
 // ------------------------------------------------------------
 function renderDashboard() {
   const items = getActiveItems();
+  const sessionItems = getSessionItems();
   const now = Date.now();
 
-  const dueCount = items.filter((it) => isDue(state.progress.get(it.id), now)).length;
+  const dueCount = sessionItems.filter((it) => isDue(state.progress.get(it.id), now)).length;
   $("#due-count").textContent = dueCount;
+  $("#due-label").textContent = {
+    all: "fiches & QCM",
+    flashcard: "fiches",
+    qcm: "QCM",
+  }[state.settings.sessionType || "all"];
 
   const newCount = items.filter((it) => !state.progress.has(it.id)).length;
   const masteredCount = items.filter((it) => (state.progress.get(it.id)?.level ?? 0) >= 5).length;
@@ -247,6 +260,24 @@ function renderChapitres() {
       saveSettings(state.settings);
     });
   });
+}
+
+function renderSessionTypeSegmented() {
+  $$("#session-type-segmented button").forEach((btn) => {
+    btn.classList.toggle("is-active", btn.dataset.type === (state.settings.sessionType || "all"));
+  });
+}
+
+function setupSessionType() {
+  $$("#session-type-segmented button").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      state.settings.sessionType = btn.dataset.type;
+      saveSettings(state.settings);
+      renderSessionTypeSegmented();
+      renderDashboard();
+    });
+  });
+  renderSessionTypeSegmented();
 }
 
 // ------------------------------------------------------------
@@ -355,22 +386,98 @@ function setupReglages() {
 
 function setSyncStatus(mode) {
   const dot = $(".sync-dot");
-  dot.classList.remove("is-synced", "is-offline");
+  dot.classList.remove("is-synced", "is-offline", "is-pending", "is-error");
   if (mode === "synced") dot.classList.add("is-synced");
   if (mode === "offline") dot.classList.add("is-offline");
+  if (mode === "pending") dot.classList.add("is-pending");
+  if (mode === "error") dot.classList.add("is-error");
+}
+
+// ------------------------------------------------------------
+// Synchronisation GitHub automatique
+// ------------------------------------------------------------
+let autoPushTimer = null;
+
+function isGithubConfigured() {
+  const gh = state.settings.github;
+  return Boolean(gh && gh.token && gh.repo);
+}
+
+/**
+ * Planifie une sauvegarde sur GitHub quelques secondes après la
+ * dernière modification (regroupe les réponses successives en un
+ * seul appel API).
+ */
+function scheduleAutoPush() {
+  if (!isGithubConfigured()) return;
+  setSyncStatus("pending");
+  if (autoPushTimer) clearTimeout(autoPushTimer);
+  autoPushTimer = setTimeout(async () => {
+    try {
+      const payload = exportProgressPayload(state.progress);
+      await pushProgress(state.settings.github, payload);
+      setSyncStatus("synced");
+    } catch (err) {
+      console.error("Échec de la synchronisation automatique GitHub", err);
+      setSyncStatus("error");
+    }
+  }, 4000);
+}
+
+/**
+ * Au démarrage : récupère la progression distante (s'il y en a une)
+ * et la fusionne avec la progression locale.
+ */
+async function autoPullOnStartup() {
+  if (!isGithubConfigured()) {
+    setSyncStatus("offline");
+    return;
+  }
+  setSyncStatus("pending");
+  try {
+    const payload = await pullProgress(state.settings.github);
+    if (payload) {
+      state.progress = mergeProgress(state.progress, payload);
+      saveProgress(state.progress);
+    }
+    setSyncStatus("synced");
+  } catch (err) {
+    console.error("Échec de la synchronisation automatique GitHub", err);
+    setSyncStatus("error");
+  }
+}
+
+/**
+ * Force l'envoi immédiat d'une sauvegarde en attente (utilisé
+ * lorsque l'utilisateur quitte/masque la page, pour ne pas perdre
+ * une synchronisation programmée par scheduleAutoPush).
+ */
+function flushAutoPush() {
+  if (!autoPushTimer) return;
+  clearTimeout(autoPushTimer);
+  autoPushTimer = null;
+  if (!isGithubConfigured()) return;
+  const payload = exportProgressPayload(state.progress);
+  pushProgress(state.settings.github, payload)
+    .then(() => setSyncStatus("synced"))
+    .catch((err) => {
+      console.error("Échec de la synchronisation GitHub", err);
+      setSyncStatus("error");
+    });
 }
 
 // ------------------------------------------------------------
 // Session de révision
 // ------------------------------------------------------------
 function startSession() {
-  const items = getActiveItems();
+  const items = getSessionItems();
   const limit = state.settings.sessionSize || 0;
   const queue = buildSessionQueue(items, state.progress, { limit });
 
   if (queue.length === 0) {
     showView("accueil");
-    alert("Rien à réviser pour le moment — tous les items actifs sont à jour. Revenez plus tard, ou ajoutez/activez d'autres chapitres.");
+    const typeLabel = { all: "fiches et QCM", flashcard: "fiches", qcm: "QCM" }[state.settings.sessionType || "all"];
+    alert(`Rien à réviser pour le moment (${typeLabel}) — tous les items actifs sont à jour. Revenez plus tard, changez de type de session, ou activez d'autres chapitres.`);
     return;
   }
 
@@ -528,6 +635,7 @@ function recordResult(item, correct) {
   const updated = applyResult(entry, correct);
   state.progress.set(item.id, updated);
   saveProgress(state.progress);
+  scheduleAutoPush();
 }
 
 function advanceSession(item, correct) {
@@ -581,19 +689,24 @@ async function init() {
   state.progress = loadProgress();
   setupNav();
   setupReglages();
+  setupSessionType();
   setupFlashcardHandlers();
   setupQuitSession();
 
   $("#btn-start-session").addEventListener("click", startSession);
 
   await loadAllChapters();
+  await autoPullOnStartup();
   renderDashboard();
-
-  setSyncStatus(state.settings.github.token ? "synced" : "offline");
 
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("sw.js").catch(() => {});
   }
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "hidden") flushAutoPush();
+  });
+  window.addEventListener("pagehide", flushAutoPush);
 }
 
 init();

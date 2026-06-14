@@ -23,6 +23,11 @@
 *{ box-sizing: border-box; }
 html,body{ margin:0; padding:0; }
 
+/* Les classes définissant display:flex/block plus bas dans la feuille
+   peuvent l'emporter sur [hidden] à spécificité égale : on force ici
+   la priorité de l'attribut hidden quoi qu'il arrive. */
+[hidden]{ display:none !important; }
+
 body{
   font-family: var(--font-body);
   background: var(--parchment);
@@ -62,6 +67,9 @@ h1,h2,h3{ font-family: var(--font-display); margin: 0; }
 }
 .sync-dot.is-synced{ background: var(--seal-green); box-shadow: 0 0 0 2px rgba(63,107,74,.25); }
 .sync-dot.is-offline{ background: var(--muted); box-shadow:none; }
+.sync-dot.is-pending{ background: var(--ochre); animation: pulse-dot 1s ease-in-out infinite; }
+.sync-dot.is-error{ background: var(--garnet); box-shadow: 0 0 0 2px rgba(139,35,50,.25); }
+@keyframes pulse-dot{ 0%,100%{ opacity:1; } 50%{ opacity:.35; } }
 
 /* ===================== LAYOUT / VIEWS ===================== */
 #views{

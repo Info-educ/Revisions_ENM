@@ -19,7 +19,8 @@ Le fichier `.nojekyll` est présent pour éviter tout traitement Jekyll inutile.
 ## 2. Fonctionnement général
 
 - **Tableau de bord** : nombre d'items à réviser aujourd'hui, répartition par
-  niveau de maîtrise, vue par chapitre.
+  niveau de maîtrise, vue par chapitre, et choix du **type de session**
+  (fiches + QCM, fiches seules, ou QCM seuls).
 - **Réviser** : lance une session. Les items sont sélectionnés parmi ceux
   « dus » (jamais vus, ou dont l'intervalle de révision est écoulé), triés
   par niveau de maîtrise croissant puis mélangés.
@@ -65,22 +66,23 @@ complémentaires existent dans **Réglages** :
 
 - **Export / Import** : télécharge ou recharge un fichier `.json` de
   sauvegarde — utile pour une sauvegarde manuelle ou un transfert ponctuel.
-- **Synchronisation GitHub** : l'application peut lire/écrire
-  `data/progress.json` dans votre dépôt via l'API GitHub, avec un **jeton
-  d'accès personnel fine-grained** :
+- **Synchronisation GitHub (automatique)** : une fois configurée, l'application
+  lit `data/progress.json` au démarrage et le réécrit automatiquement quelques
+  secondes après chaque réponse, sur n'importe quel navigateur/appareil — via
+  l'API GitHub et un **jeton d'accès personnel fine-grained** :
   1. Sur GitHub : **Settings → Developer settings → Personal access tokens
      → Fine-grained tokens → Generate new token**.
   2. Limitez l'accès au seul dépôt de cette application.
   3. Permissions : **Contents → Read and write** (rien d'autre n'est requis).
-  4. Copiez le jeton dans **Réglages → Synchronisation GitHub** de
-     l'application (champ « Dépôt » au format `utilisateur/depot`).
-  5. Utilisez « Charger depuis GitHub » en arrivant sur un nouvel appareil,
-     et « Sauvegarder sur GitHub » pour publier votre progression.
+  4. Renseignez le jeton et le dépôt (`utilisateur/depot`) dans **Réglages →
+     Synchronisation GitHub**.
 
   Le jeton reste stocké uniquement dans le `localStorage` de votre
   navigateur ; il n'est envoyé qu'à `api.github.com`. La fusion entre
   progression locale et distante conserve, pour chaque item, l'entrée la
-  plus récente (`lastSeenAt`).
+  plus récente (`lastSeenAt`). Les boutons « Charger »/« Sauvegarder »
+  permettent en complément de forcer une synchronisation manuelle (utile par
+  exemple en arrivant sur un nouvel appareil, avant la première réponse).
 
   ⚠️ Si le dépôt est public, `data/progress.json` sera visible publiquement
   (ce ne sont que des statistiques de révision, sans donnée personnelle).

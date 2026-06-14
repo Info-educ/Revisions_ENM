@@ -36,7 +36,7 @@
 <main id="views">
 
   <!-- ===================== ACCUEIL ===================== -->
-  <section id="view-accueil" class="view" data-view="accueil">
+  <section id="view-accueil" class="view is-active" data-view="accueil">
     <div class="page-head">
       <h1>Tableau de bord</h1>
       <p class="page-head__lede">Vue d'ensemble de votre préparation</p>
@@ -45,8 +45,15 @@
     <div class="stamp-banner" id="due-banner">
       <div class="stamp-banner__count" id="due-count">0</div>
       <div class="stamp-banner__label">
-        <strong>fiches &amp; QCM</strong> à traiter aujourd'hui
+        <strong id="due-label">fiches &amp; QCM</strong> à traiter aujourd'hui
       </div>
+    </div>
+
+    <h2 class="section-title">Type de session</h2>
+    <div class="segmented" id="session-type-segmented">
+      <button data-type="all">Fiches + QCM</button>
+      <button data-type="flashcard">Fiches seules</button>
+      <button data-type="qcm">QCM seuls</button>
     </div>
 
     <button class="btn btn--primary btn--block" id="btn-start-session">
@@ -175,10 +182,20 @@
 
     <h2 class="section-title">Synchronisation GitHub</h2>
     <p class="hint-text">
-      Pour retrouver votre progression sur tous vos appareils, l'application peut lire et écrire un fichier
-      <code>data/progress.json</code> dans votre dépôt GitHub, via un jeton d'accès personnel
-      (<em>fine-grained</em>, permission <strong>Contents: Read and write</strong>, limité à ce dépôt).
-      Ce jeton reste stocké uniquement dans ce navigateur.
+      Une fois configurée ci-dessous, la synchronisation est <strong>automatique</strong> :
+      la progression est rechargée depuis GitHub à l'ouverture de l'application, et
+      réenregistrée sur GitHub quelques secondes après chaque réponse — sur
+      mobile comme sur ordinateur. Le fichier <code>data/progress.json</code> de votre
+      dépôt reflète donc toujours votre progression la plus récente, quel que soit
+      l'appareil utilisé. Les boutons « Charger » / « Sauvegarder » restent
+      disponibles pour forcer une synchronisation manuelle.
+    </p>
+    <p class="hint-text">
+      Pour configurer : sur GitHub, <strong>Settings → Developer settings → Personal
+      access tokens → Fine-grained tokens → Generate new token</strong>, en limitant
+      l'accès au seul dépôt de cette application, avec la permission
+      <strong>Contents: Read and write</strong>. Le jeton reste stocké uniquement
+      dans ce navigateur et n'est envoyé qu'à <code>api.github.com</code>.
     </p>
     <label class="field">
       <span>Dépôt (owner/repo)</span>

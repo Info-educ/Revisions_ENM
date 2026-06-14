@@ -10,6 +10,7 @@ const SETTINGS_KEY = "enm.settings.v1";
 
 const DEFAULT_SETTINGS = {
   sessionSize: 40, // 0 = illimité
+  sessionType: "all", // "all" | "flashcard" | "qcm"
   activeChapters: null, // null = tous les chapitres actifs
   github: {
     repo: "",
@@ -18,6 +19,10 @@ const DEFAULT_SETTINGS = {
     path: "data/progress.json",
   },
 };
+
+function clone(obj) {
+  return JSON.parse(JSON.stringify(obj));
+}
 
 /**
  * Charge la table de progression complète.
@@ -98,16 +103,16 @@ export function mergeProgress(localMap, importedPayload) {
 export function loadSettings() {
   try {
     const raw = localStorage.getItem(SETTINGS_KEY);
-    if (!raw) return structuredClone(DEFAULT_SETTINGS);
+    if (!raw) return clone(DEFAULT_SETTINGS);
     const parsed = JSON.parse(raw);
     return {
-      ...structuredClone(DEFAULT_SETTINGS),
+      ...clone(DEFAULT_SETTINGS),
       ...parsed,
-      github: { ...structuredClone(DEFAULT_SETTINGS.github), ...(parsed.github || {}) },
+      github: { ...clone(DEFAULT_SETTINGS.github), ...(parsed.github || {}) },
     };
   } catch (e) {
     console.error("Lecture réglages impossible", e);
-    return structuredClone(DEFAULT_SETTINGS);
+    return clone(DEFAULT_SETTINGS);
   }
 }
 
