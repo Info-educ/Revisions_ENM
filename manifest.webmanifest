@@ -1,0 +1,11 @@
+{
+  "name": "Cabinet ENM — Révision",
+  "short_name": "Cabinet ENM",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#1c2b4a",
+  "lang": "fr",
+  "icons": []
+}

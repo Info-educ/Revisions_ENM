@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1c2b4a">
+<title>Cabinet ENM — Révision</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar__brand">
+    <span class="topbar__seal" aria-hidden="true">⚖</span>
+    <div class="topbar__text">
+      <span class="topbar__title">Cabinet ENM</span>
+      <span class="topbar__subtitle">Salle de révision</span>
+    </div>
+  </div>
+  <nav class="desktopbar">
+    <button class="desktopbar__btn is-active" data-view="accueil">Accueil</button>
+    <button class="desktopbar__btn" data-view="session" id="nav-session-desktop">Réviser</button>
+    <button class="desktopbar__btn" data-view="chapitres">Chapitres</button>
+    <button class="desktopbar__btn" data-view="reglages">Réglages</button>
+  </nav>
+
+  <button id="sync-indicator" class="sync-indicator" title="État de synchronisation" aria-label="État de synchronisation">
+    <span class="sync-dot"></span>
+  </button>
+</header>
+
+<main id="views">
+
+  <!-- ===================== ACCUEIL ===================== -->
+  <section id="view-accueil" class="view" data-view="accueil">
+    <div class="page-head">
+      <h1>Tableau de bord</h1>
+      <p class="page-head__lede">Vue d'ensemble de votre préparation</p>
+    </div>
+
+    <div class="stamp-banner" id="due-banner">
+      <div class="stamp-banner__count" id="due-count">0</div>
+      <div class="stamp-banner__label">
+        <strong>fiches &amp; QCM</strong> à traiter aujourd'hui
+      </div>
+    </div>
+
+    <button class="btn btn--primary btn--block" id="btn-start-session">
+      Commencer la révision
+    </button>
+
+    <div class="dossier-grid">
+      <div class="dossier-card">
+        <span class="dossier-card__figure" id="stat-total">0</span>
+        <span class="dossier-card__label">Items au dossier</span>
+      </div>
+      <div class="dossier-card">
+        <span class="dossier-card__figure" id="stat-mastered">0</span>
+        <span class="dossier-card__label">Bien ancrés (niv. 5+)</span>
+      </div>
+      <div class="dossier-card">
+        <span class="dossier-card__figure" id="stat-new">0</span>
+        <span class="dossier-card__label">Jamais vus</span>
+      </div>
+      <div class="dossier-card">
+        <span class="dossier-card__figure" id="stat-chapters">0</span>
+        <span class="dossier-card__label">Chapitres chargés</span>
+      </div>
+    </div>
+
+    <h2 class="section-title">Répartition par niveau de maîtrise</h2>
+    <div class="level-bars" id="level-bars" aria-hidden="true"></div>
+
+    <h2 class="section-title">Par chapitre</h2>
+    <ul class="chapter-list" id="chapter-summary-list"></ul>
+  </section>
+
+  <!-- ===================== SESSION ===================== -->
+  <section id="view-session" class="view" data-view="session">
+    <div class="session-header">
+      <button class="icon-btn" id="btn-quit-session" aria-label="Quitter la session">✕</button>
+      <div class="session-progress">
+        <div class="session-progress__bar"><div class="session-progress__fill" id="session-progress-fill"></div></div>
+        <span class="session-progress__text" id="session-progress-text">0 / 0</span>
+      </div>
+      <span class="session-mode" id="session-mode-label"></span>
+    </div>
+
+    <div class="card-stage" id="card-stage">
+
+      <!-- Flashcard -->
+      <div class="flip-card" id="flashcard" hidden>
+        <div class="flip-card__inner" id="flashcard-inner">
+          <div class="flip-card__face flip-card__face--front">
+            <span class="card-tag" id="fc-tag-front"></span>
+            <p class="card-question" id="fc-front-text"></p>
+            <span class="card-hint">Touchez pour révéler la réponse</span>
+          </div>
+          <div class="flip-card__face flip-card__face--back">
+            <span class="card-tag" id="fc-tag-back"></span>
+            <p class="card-answer" id="fc-back-text"></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- QCM -->
+      <div class="qcm-card" id="qcm-card" hidden>
+        <span class="card-tag" id="qcm-tag"></span>
+        <p class="card-question" id="qcm-question"></p>
+        <div class="qcm-options" id="qcm-options"></div>
+        <div class="qcm-explanation" id="qcm-explanation" hidden></div>
+      </div>
+
+      <!-- Stamp overlay -->
+      <div class="stamp" id="stamp" aria-hidden="true"></div>
+    </div>
+
+    <!-- Flashcard controls (shown after flip) -->
+    <div class="answer-controls" id="fc-controls" hidden>
+      <button class="btn btn--miss" data-result="miss">À revoir</button>
+      <button class="btn btn--hit" data-result="hit">Maîtrisé</button>
+    </div>
+
+    <!-- QCM continue control -->
+    <div class="answer-controls" id="qcm-controls" hidden>
+      <button class="btn btn--primary btn--block" id="qcm-continue">Question suivante</button>
+    </div>
+
+    <!-- End of session -->
+    <div class="session-end" id="session-end" hidden>
+      <div class="session-end__stamp">DOSSIER TRAITÉ</div>
+      <p id="session-end-summary"></p>
+      <button class="btn btn--primary btn--block" id="btn-session-done">Retour au tableau de bord</button>
+    </div>
+  </section>
+
+  <!-- ===================== CHAPITRES ===================== -->
+  <section id="view-chapitres" class="view" data-view="chapitres">
+    <div class="page-head">
+      <h1>Chapitres</h1>
+      <p class="page-head__lede">Activez ou ciblez vos fiches de révision</p>
+    </div>
+    <ul class="chapter-manage-list" id="chapter-manage-list"></ul>
+    <p class="hint-text">Pour ajouter un chapitre, déposez son fichier JSON dans <code>/data</code> et référencez-le dans <code>manifest.json</code>, puis republiez le site.</p>
+  </section>
+
+  <!-- ===================== REGLAGES ===================== -->
+  <section id="view-reglages" class="view" data-view="reglages">
+    <div class="page-head">
+      <h1>Réglages</h1>
+      <p class="page-head__lede">Synchronisation et préférences</p>
+    </div>
+
+    <h2 class="section-title">Taille de session</h2>
+    <p class="hint-text">Nombre maximum d'items proposés par session (les plus prioritaires en premier).</p>
+    <div class="segmented" id="session-size-segmented">
+      <button data-size="20">20</button>
+      <button data-size="40">40</button>
+      <button data-size="60">60</button>
+      <button data-size="0">Tout</button>
+    </div>
+
+    <h2 class="section-title">Sauvegarde locale</h2>
+    <p class="hint-text">Votre progression est enregistrée automatiquement dans ce navigateur.</p>
+    <div class="btn-row">
+      <button class="btn btn--ghost" id="btn-export">Exporter (.json)</button>
+      <button class="btn btn--ghost" id="btn-import">Importer (.json)</button>
+      <input type="file" id="import-file" accept="application/json" hidden>
+    </div>
+    <button class="btn btn--danger btn--block" id="btn-reset">Réinitialiser toute la progression</button>
+
+    <h2 class="section-title">Synchronisation GitHub</h2>
+    <p class="hint-text">
+      Pour retrouver votre progression sur tous vos appareils, l'application peut lire et écrire un fichier
+      <code>data/progress.json</code> dans votre dépôt GitHub, via un jeton d'accès personnel
+      (<em>fine-grained</em>, permission <strong>Contents: Read and write</strong>, limité à ce dépôt).
+      Ce jeton reste stocké uniquement dans ce navigateur.
+    </p>
+    <label class="field">
+      <span>Dépôt (owner/repo)</span>
+      <input type="text" id="gh-repo" placeholder="ex: anne / enm-revision">
+    </label>
+    <label class="field">
+      <span>Branche</span>
+      <input type="text" id="gh-branch" placeholder="main" value="main">
+    </label>
+    <label class="field">
+      <span>Jeton d'accès personnel</span>
+      <input type="password" id="gh-token" placeholder="github_pat_...">
+    </label>
+    <div class="btn-row">
+      <button class="btn btn--ghost" id="btn-gh-pull">Charger depuis GitHub</button>
+      <button class="btn btn--primary" id="btn-gh-push">Sauvegarder sur GitHub</button>
+    </div>
+    <p class="hint-text" id="gh-status"></p>
+  </section>
+
+</main>
+
+<nav class="bottombar">
+  <button class="bottombar__btn is-active" data-view="accueil">
+    <span class="bottombar__icon" aria-hidden="true">⌂</span>
+    <span>Accueil</span>
+  </button>
+  <button class="bottombar__btn" data-view="session" id="nav-session">
+    <span class="bottombar__icon" aria-hidden="true">▣</span>
+    <span>Réviser</span>
+  </button>
+  <button class="bottombar__btn" data-view="chapitres">
+    <span class="bottombar__icon" aria-hidden="true">▤</span>
+    <span>Chapitres</span>
+  </button>
+  <button class="bottombar__btn" data-view="reglages">
+    <span class="bottombar__icon" aria-hidden="true">✦</span>
+    <span>Réglages</span>
+  </button>
+</nav>
+
+<script type="module" src="assets/js/app.js"></script>
+</body>
+</html>
