@@ -1,0 +1,3 @@
+# Empêche l'indexation de ce site par les moteurs de recherche.
+User-agent: *
+Disallow: /

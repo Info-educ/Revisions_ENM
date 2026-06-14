@@ -16,6 +16,21 @@ inspiré de la méthode Leitner. Conçue pour GitHub Pages, mobile-first.
 
 Le fichier `.nojekyll` est présent pour éviter tout traitement Jekyll inutile.
 
+### Confidentialité / non-référencement
+
+Le site inclut des balises `<meta name="robots" content="noindex, nofollow, ...">`
+et un fichier `robots.txt` qui interdit toute exploration par les robots des
+moteurs de recherche. Cela empêche Google, Bing, etc. d'indexer ou d'afficher
+ce site dans leurs résultats.
+
+⚠️ Ces mécanismes **ne remplacent pas un vrai contrôle d'accès** : tant que le
+dépôt est public, le site reste accessible à quiconque connaît ou devine son
+URL `https://<utilisateur>.github.io/<depot>/`. Pour une confidentialité
+réelle (accès restreint), seules ces options fonctionnent :
+- héberger le dépôt en **privé** avec GitHub Pages (nécessite un plan GitHub
+  payant : Pro, Team ou Enterprise) ;
+- ou choisir une URL difficile à deviner et ne la partager avec personne.
+
 ## 2. Fonctionnement général
 
 - **Tableau de bord** : nombre d'items à réviser aujourd'hui, répartition par
