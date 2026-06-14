@@ -23,7 +23,6 @@
   </div>
   <nav class="desktopbar">
     <button class="desktopbar__btn is-active" data-view="accueil">Accueil</button>
-    <button class="desktopbar__btn" data-view="session" id="nav-session-desktop">Réviser</button>
     <button class="desktopbar__btn" data-view="chapitres">Chapitres</button>
     <button class="desktopbar__btn" data-view="reglages">Réglages</button>
   </nav>
@@ -54,6 +53,19 @@
       <button data-type="all">Fiches + QCM</button>
       <button data-type="flashcard">Fiches seules</button>
       <button data-type="qcm">QCM seuls</button>
+    </div>
+
+    <h2 class="section-title">Nombre de questions par session</h2>
+    <p class="hint-text">
+      Nombre de fiches/QCM proposés en une session, en commençant par ceux que
+      vous maîtrisez le moins. S'il en reste au-delà de cette limite, ils
+      seront proposés lors d'une prochaine session.
+    </p>
+    <div class="segmented" id="session-size-segmented">
+      <button data-size="10">10</button>
+      <button data-size="20">20</button>
+      <button data-size="40">40</button>
+      <button data-size="0">Tout</button>
     </div>
 
     <button class="btn btn--primary btn--block" id="btn-start-session">
@@ -162,15 +174,6 @@
       <p class="page-head__lede">Synchronisation et préférences</p>
     </div>
 
-    <h2 class="section-title">Taille de session</h2>
-    <p class="hint-text">Nombre maximum d'items proposés par session (les plus prioritaires en premier).</p>
-    <div class="segmented" id="session-size-segmented">
-      <button data-size="20">20</button>
-      <button data-size="40">40</button>
-      <button data-size="60">60</button>
-      <button data-size="0">Tout</button>
-    </div>
-
     <h2 class="section-title">Sauvegarde locale</h2>
     <p class="hint-text">Votre progression est enregistrée automatiquement dans ce navigateur.</p>
     <div class="btn-row">
@@ -222,10 +225,6 @@
   <button class="bottombar__btn is-active" data-view="accueil">
     <span class="bottombar__icon" aria-hidden="true">⌂</span>
     <span>Accueil</span>
-  </button>
-  <button class="bottombar__btn" data-view="session" id="nav-session">
-    <span class="bottombar__icon" aria-hidden="true">▣</span>
-    <span>Réviser</span>
   </button>
   <button class="bottombar__btn" data-view="chapitres">
     <span class="bottombar__icon" aria-hidden="true">▤</span>

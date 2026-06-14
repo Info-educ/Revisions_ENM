@@ -152,13 +152,7 @@ function showView(name) {
 
 function setupNav() {
   $$(".bottombar__btn, .desktopbar__btn").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      if (btn.dataset.view === "session" && !state.session) {
-        startSession();
-        return;
-      }
-      showView(btn.dataset.view);
-    });
+    btn.addEventListener("click", () => showView(btn.dataset.view));
   });
 }
 
@@ -219,9 +213,6 @@ function renderDashboard() {
     `;
     list.appendChild(li);
   }
-
-  // Pastille "à réviser" sur la navigation
-  $$("[data-view='session']").forEach((btn) => btn.classList.toggle("has-due", dueCount > 0));
 }
 
 // ------------------------------------------------------------
@@ -280,27 +271,33 @@ function setupSessionType() {
   renderSessionTypeSegmented();
 }
 
+function renderSessionSizeSegmented() {
+  $$("#session-size-segmented button").forEach((btn) => {
+    btn.classList.toggle("is-active", Number(btn.dataset.size) === state.settings.sessionSize);
+  });
+}
+
+function setupSessionSize() {
+  $$("#session-size-segmented button").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      state.settings.sessionSize = Number(btn.dataset.size);
+      saveSettings(state.settings);
+      renderSessionSizeSegmented();
+    });
+  });
+  renderSessionSizeSegmented();
+}
+
 // ------------------------------------------------------------
 // Vue Réglages
 // ------------------------------------------------------------
 function renderReglages() {
-  $$("#session-size-segmented button").forEach((btn) => {
-    btn.classList.toggle("is-active", Number(btn.dataset.size) === state.settings.sessionSize);
-  });
   $("#gh-repo").value = state.settings.github.repo || "";
   $("#gh-branch").value = state.settings.github.branch || "main";
   $("#gh-token").value = state.settings.github.token || "";
 }
 
 function setupReglages() {
-  $$("#session-size-segmented button").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      state.settings.sessionSize = Number(btn.dataset.size);
-      saveSettings(state.settings);
-      renderReglages();
-    });
-  });
-
   $("#btn-export").addEventListener("click", () => {
     const payload = exportProgressPayload(state.progress);
     const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
@@ -690,6 +687,7 @@ async function init() {
   setupNav();
   setupReglages();
   setupSessionType();
+  setupSessionSize();
   setupFlashcardHandlers();
   setupQuitSession();
 
