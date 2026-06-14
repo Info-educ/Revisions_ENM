@@ -1,0 +1,173 @@
+{
+  "id": "application-loi-penale-espace",
+  "title": "L'application de la loi pénale dans l'espace",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "espace-fc-001",
+      "front": "Quels sont les quatre systèmes de résolution des conflits de lois pénales dans l'espace ?",
+      "back": "La territorialité (loi du lieu de commission), la personnalité active (loi de la nationalité de l'auteur), la personnalité passive (loi de la nationalité de la victime) et la compétence universelle (loi du lieu d'arrestation).",
+      "tags": ["conflits de lois", "territorialité"]
+    },
+    {
+      "id": "espace-fc-002",
+      "front": "Quel est le principe retenu par le droit français pour les infractions commises en France, et sur quel article repose-t-il ?",
+      "back": "Le principe de territorialité : la loi pénale française s'applique à toute infraction commise sur le territoire de la République (art. 113-2 al. 1 C. pén.).",
+      "tags": ["territorialité", "article 113-2"]
+    },
+    {
+      "id": "espace-fc-003",
+      "front": "Qu'est-ce que le territoire français au sens du droit pénal (art. 113-1 à 113-3) ?",
+      "back": "Il comprend le territoire terrestre, la mer territoriale (12 milles marins), l'espace aérien correspondant, ainsi que les navires et aéronefs sous pavillon français, où qu'ils se trouvent.",
+      "tags": ["territoire", "article 113-1"]
+    },
+    {
+      "id": "espace-fc-004",
+      "front": "Que prévoit l'article 113-2 alinéa 2 du Code pénal quant à la localisation de l'infraction ?",
+      "back": "Il suffit qu'un seul fait constitutif de l'infraction ait eu lieu sur le territoire français pour que cette infraction soit réputée commise en France ; la notion de « faits constitutifs » est interprétée largement par la jurisprudence (actes préparatoires, condition préalable...).",
+      "tags": ["article 113-2", "localisation infraction"]
+    },
+    {
+      "id": "espace-fc-005",
+      "front": "Quelles sont les conditions pour poursuivre en France un Français ayant commis un délit à l'étranger (personnalité active, art. 113-6) ?",
+      "back": "Le fait doit être puni par la loi étrangère (réciprocité d'incrimination) et l'auteur doit résider en France ou avoir fait l'objet d'une plainte/dénonciation entraînant la reprise de poursuites — pour les crimes, la punissabilité est automatique, sans condition de réciprocité.",
+      "tags": ["personnalité active", "article 113-6"]
+    },
+    {
+      "id": "espace-fc-006",
+      "front": "Quelles conditions pose l'article 113-7 pour réprimer en France une infraction commise à l'étranger contre une victime française (personnalité passive) ?",
+      "back": "Il faut que le fait soit un crime ou un délit puni d'au moins cinq ans d'emprisonnement ; aucune réciprocité d'incrimination n'est exigée.",
+      "tags": ["personnalité passive", "article 113-7"]
+    },
+    {
+      "id": "espace-fc-007",
+      "front": "Quelle double condition pose l'article 113-8 pour la mise en œuvre des compétences extraterritoriales fondées sur la nationalité ?",
+      "back": "Il faut une plainte de la victime ou une dénonciation officielle des autorités du pays où le fait a été commis, et la présence en France de l'auteur.",
+      "tags": ["article 113-8", "poursuites"]
+    },
+    {
+      "id": "espace-fc-008",
+      "front": "Quelle règle protectrice pose l'article 113-9 du Code pénal ?",
+      "back": "La règle non bis in idem : aucune poursuite ne peut être engagée en France contre une personne déjà jugée définitivement à l'étranger pour les mêmes faits.",
+      "tags": ["article 113-9", "non bis in idem"]
+    },
+    {
+      "id": "espace-fc-009",
+      "front": "Sur quel fondement et pour quels crimes l'article 113-12 prévoit-il une compétence universelle des juridictions françaises ?",
+      "back": "Une compétence universelle peut être prévue par une convention internationale, pour des crimes tels que les crimes de guerre, les crimes contre l'humanité ou les détournements d'aéronefs, indépendamment du lieu de commission et de la nationalité des protagonistes.",
+      "tags": ["compétence universelle", "article 113-12"]
+    },
+    {
+      "id": "espace-fc-010",
+      "front": "Quelles sont les quatre conditions de fond classiques d'une extradition ?",
+      "back": "L'existence d'une convention d'extradition, l'absence d'extradition de ses propres nationaux, l'absence de qualité de réfugié, et la double incrimination, à l'exclusion des infractions politiques et militaires.",
+      "tags": ["extradition", "conditions de fond"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "espace-qcm-001",
+      "question": "Un Français commet un meurtre en Espagne. Les juridictions françaises peuvent-elles le poursuivre ?",
+      "options": [
+        "Non, jamais, car le crime a été commis à l'étranger",
+        "Oui, automatiquement, car les crimes commis par un Français à l'étranger sont toujours punissables en France",
+        "Oui, mais seulement si la victime est également française",
+        "Oui, mais seulement si l'Espagne en fait la demande"
+      ],
+      "answer": 1,
+      "explanation": "En application de l'art. 113-6 C. pén., les crimes commis par un Français à l'étranger sont toujours punissables en France, sans condition de réciprocité d'incrimination, à la différence des délits qui exigent réciprocité et résidence en France ou plainte/dénonciation.",
+      "tags": ["personnalité active", "article 113-6"]
+    },
+    {
+      "id": "espace-qcm-002",
+      "question": "Un Français commet à l'étranger un délit qui n'est pas réprimé par la loi de ce pays. Peut-il être poursuivi en France à son retour sur le fondement de la personnalité active ?",
+      "options": [
+        "Oui, car la nationalité française de l'auteur suffit toujours, quelle que soit l'infraction",
+        "Non, car en l'absence de réciprocité d'incrimination, la poursuite d'un délit commis par un Français à l'étranger est exclue (art. 113-6 al. 2)",
+        "Oui, à condition que la victime soit française",
+        "Non, sauf si une convention internationale le prévoit expressément"
+      ],
+      "answer": 1,
+      "explanation": "Pour les délits, l'art. 113-6 al. 2 exige une réciprocité d'incrimination (le fait doit être puni par la loi du pays où il a été commis), ainsi que la résidence en France de l'auteur ou une plainte/dénonciation entraînant la reprise des poursuites. Sans réciprocité, aucune poursuite n'est possible en France au titre de la personnalité active.",
+      "tags": ["personnalité active", "réciprocité"]
+    },
+    {
+      "id": "espace-qcm-003",
+      "question": "Une escroquerie est préparée en France mais consommée en Belgique. Les juridictions françaises sont-elles compétentes ?",
+      "options": [
+        "Non, seul le lieu de consommation de l'infraction déterminerait la compétence",
+        "Oui, car la jurisprudence considère qu'un seul fait constitutif sur le territoire français (même un acte préparatoire) suffit à fonder la compétence française (art. 113-2 al. 2)",
+        "Oui, mais uniquement si l'auteur est de nationalité française",
+        "Non, sauf accord de coopération judiciaire franco-belge"
+      ],
+      "answer": 1,
+      "explanation": "L'art. 113-2 al. 2 retient la commission de l'infraction en France dès qu'un fait constitutif y a eu lieu ; la jurisprudence interprète largement cette notion, incluant les actes préparatoires, ce qui suffit à fonder la compétence territoriale française, indépendamment de la nationalité de l'auteur.",
+      "tags": ["territorialité", "localisation infraction"]
+    },
+    {
+      "id": "espace-qcm-004",
+      "question": "Un État étranger demande l'extradition d'un ressortissant français résidant en France. Quelle est la règle applicable ?",
+      "options": [
+        "L'extradition doit être accordée si la double incrimination est remplie, quelle que soit la nationalité",
+        "L'extradition doit en principe être refusée car la France n'extrade pas ses propres nationaux",
+        "L'extradition est facultative et dépend uniquement de la peine encourue",
+        "L'extradition est automatique dès qu'une convention bilatérale existe"
+      ],
+      "answer": 1,
+      "explanation": "Parmi les conditions de fond classiques de l'extradition figure le refus d'extrader ses propres nationaux. Dans une telle hypothèse, c'est éventuellement la compétence extraterritoriale française (personnalité active, art. 113-6) qui pourra prendre le relais des poursuites.",
+      "tags": ["extradition", "nationaux"]
+    },
+    {
+      "id": "espace-qcm-005",
+      "question": "Un État requérant pratique la peine de mort pour l'infraction visée par sa demande d'extradition. Quelle conséquence en tire la jurisprudence européenne ?",
+      "options": [
+        "L'extradition est automatiquement nulle et non avenue de plein droit",
+        "L'extradition peut être refusée sur le fondement de l'article 3 de la Convention EDH, conformément à l'arrêt Soering c/ Royaume-Uni (CEDH, 1989)",
+        "Cela n'a aucune incidence, l'extradition reste de droit",
+        "Seul le Conseil constitutionnel peut s'opposer à l'extradition dans ce cas"
+      ],
+      "answer": 1,
+      "explanation": "Dans l'arrêt Soering c/ Royaume-Uni (CEDH, 1989), la Cour européenne des droits de l'homme a jugé que l'exposition à la peine de mort, ou aux conditions de détention qui l'accompagnent, peut constituer un traitement inhumain ou dégradant prohibé par l'article 3 de la Convention, justifiant un refus d'extradition.",
+      "tags": ["extradition", "arrêt soering"]
+    },
+    {
+      "id": "espace-qcm-006",
+      "question": "La chambre de l'instruction rend un avis défavorable à une demande d'extradition. Quelle est la portée de cet avis ?",
+      "options": [
+        "L'avis est purement consultatif, le gouvernement décide librement",
+        "L'avis défavorable s'impose : la libération de la personne réclamée est obligatoire",
+        "L'avis défavorable peut être surmonté par un simple décret du Premier ministre",
+        "L'avis défavorable n'a d'effet que si la personne réclamée est de nationalité étrangère"
+      ],
+      "answer": 1,
+      "explanation": "À la différence de l'avis favorable, qui reste facultatif et laisse le gouvernement libre de refuser l'extradition pour des motifs d'opportunité ou diplomatiques, un avis défavorable de la chambre de l'instruction est impératif et impose la libération de la personne réclamée.",
+      "tags": ["extradition", "chambre de l'instruction"]
+    },
+    {
+      "id": "espace-qcm-007",
+      "question": "Que désigne-t-on, en matière d'extradition, par un « simulacre », illustré par les affaires Argoud et Klaus Barbie ?",
+      "options": [
+        "Une procédure d'extradition accélérée prévue par la Convention de Schengen",
+        "Une expulsion ou un enlèvement déguisé en extradition, permettant de contourner les garanties procédurales normales",
+        "Une extradition refusée pour absence de double incrimination",
+        "Une remise volontaire de la personne par l'État requis, sans aucune procédure"
+      ],
+      "answer": 1,
+      "explanation": "Les affaires Argoud et Klaus Barbie illustrent des cas où une personne a été remise à la France en contournant la procédure d'extradition régulière (enlèvement ou expulsion déguisée), ce que la jurisprudence a critiqué, rappelant que seule une procédure régulière protège effectivement l'extradé.",
+      "tags": ["extradition", "affaire argoud"]
+    },
+    {
+      "id": "espace-qcm-008",
+      "question": "Depuis la loi Perben II (9 mars 2004), comment s'organisent les remises de personnes poursuivies entre États membres de l'Union européenne ?",
+      "options": [
+        "La procédure d'extradition classique reste seule applicable, sans changement",
+        "Le mandat d'arrêt européen remplace l'extradition classique entre États membres, avec une procédure simplifiée et accélérée",
+        "Seule la Cour pénale internationale est compétente pour ces remises",
+        "Les États membres doivent systématiquement recourir à la voie diplomatique de l'article 696-8 C. pr. pén."
+      ],
+      "answer": 1,
+      "explanation": "La loi Perben II du 9 mars 2004, faisant suite à la Convention de Schengen de 1990, instaure le mandat d'arrêt européen, qui se substitue à la procédure d'extradition classique entre États membres de l'UE par une procédure simplifiée et accélérée.",
+      "tags": ["mandat d'arrêt européen", "loi perben ii"]
+    }
+  ]
+}
