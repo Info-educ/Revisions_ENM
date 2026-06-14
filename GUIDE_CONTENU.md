@@ -48,6 +48,18 @@ chapitre). GitHub Pages se met à jour automatiquement.
 }
 ```
 
+Cette entrée s'ajoute au tableau `chapters` du fichier `data/manifest.json`,
+dont la structure globale est :
+
+```json
+{
+  "chapters": [
+    { "id": "...", "file": "...", "title": "...", "category": "..." },
+    { "id": "...", "file": "...", "title": "...", "category": "..." }
+  ]
+}
+```
+
 ### 3.2 Fichier `data/<id-chapitre>.json`
 
 ```json
@@ -158,6 +170,7 @@ et la cohérence des catégories.
 | --- | --- | --- | --- |
 | `intro-` | Introduction générale — Droit pénal et procédure pénale | Droit pénal général | `intro-droit-penal-procedure.json` |
 | `legalite-` | Le principe de légalité des délits et des peines | Droit pénal général | `legalite-delits-peines.json` |
+| `espace-` | L'application de la loi pénale dans l'espace | Droit pénal général | `application-loi-penale-espace.json` |
 
 ---
 
