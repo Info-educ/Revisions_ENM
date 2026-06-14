@@ -156,15 +156,18 @@ Règles importantes :
 
 ## 7. Méthode de travail avec Claude pour générer le contenu
 
-Pour chaque chapitre :
+Le détail complet (schéma, conventions d'identifiants, règles de
+complémentarité flashcards/QCM, registre des chapitres) est dans
+[`GUIDE_CONTENU.md`](GUIDE_CONTENU.md). En résumé, pour chaque chapitre :
 
 1. Envoyer **l'intégralité** des pages/images du chapitre (pas d'envoi
    partiel — attendre que tout le matériau soit transmis avant génération).
 2. Préciser le **nombre de flashcards** et le **nombre de QCM** souhaités.
 3. Claude génère le fichier `data/<id-chapitre>.json` complet
    (flashcards + QCM, complémentaires et non redondants, avec explications
-   pour les QCM), met à jour `data/manifest.json`, et fournit les fichiers
-   prêts à être poussés sur GitHub.
+   pour les QCM), met à jour `data/manifest.json` et `GUIDE_CONTENU.md`
+   (registre des chapitres), et fournit les fichiers prêts à être poussés sur
+   GitHub.
 
 ## 8. Structure du dépôt
 
@@ -174,6 +177,8 @@ Pour chaque chapitre :
 ├── manifest.webmanifest
 ├── sw.js
 ├── .nojekyll
+├── README.md
+├── GUIDE_CONTENU.md
 ├── assets/
 │   ├── css/style.css
 │   └── js/
