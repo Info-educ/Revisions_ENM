@@ -155,15 +155,15 @@ h1,h2,h3{ font-family: var(--font-display); margin: 0; }
 .level-bar-row:nth-child(5) .level-fill{ background: var(--seal-green); }
 .level-bar-row:nth-child(6) .level-fill{ background: var(--ink); }
 
-/* ===================== CHAPTER LISTS ===================== */
-.chapter-list, .chapter-manage-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:8px; }
-.chapter-list li, .chapter-manage-list li{
+/* ===================== CHAPTER MANAGEMENT LIST ===================== */
+.chapter-manage-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:8px; }
+.chapter-manage-list li{
   background: var(--paper); border:1px solid var(--paper-edge); border-radius: var(--radius);
   padding: 12px 14px; display:flex; align-items:center; justify-content:space-between; gap:10px;
   box-shadow: var(--shadow-card);
 }
-.chapter-list__title, .chapter-manage-list__title{ font-weight:700; font-size:.92rem; }
-.chapter-list__meta, .chapter-manage-list__meta{ font-size:.74rem; color: var(--muted); font-family: var(--font-mono); }
+.chapter-manage-list__title{ font-weight:700; font-size:.92rem; }
+.chapter-manage-list__meta{ font-size:.74rem; color: var(--muted); font-family: var(--font-mono); }
 .chapter-due-badge{
   font-family: var(--font-mono); font-size:.78rem; font-weight:600;
   background: var(--garnet); color:#fff; border-radius:999px; padding:3px 10px; min-width:28px; text-align:center;

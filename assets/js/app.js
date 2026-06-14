@@ -195,24 +195,6 @@ function renderDashboard() {
     `;
     levelBars.appendChild(row);
   });
-
-  // Résumé par chapitre
-  const list = $("#chapter-summary-list");
-  list.innerHTML = "";
-  for (const ch of state.chaptersMeta) {
-    const chItems = items.filter((it) => it.chapterId === ch.id);
-    if (chItems.length === 0) continue;
-    const due = chItems.filter((it) => isDue(state.progress.get(it.id), now)).length;
-    const li = document.createElement("li");
-    li.innerHTML = `
-      <div>
-        <div class="chapter-list__title">${escapeHtml(ch.title)}</div>
-        <div class="chapter-list__meta">${ch.counts.fc} fiches · ${ch.counts.qcm} QCM</div>
-      </div>
-      <span class="chapter-due-badge ${due === 0 ? "is-zero" : ""}">${due}</span>
-    `;
-    list.appendChild(li);
-  }
 }
 
 // ------------------------------------------------------------
