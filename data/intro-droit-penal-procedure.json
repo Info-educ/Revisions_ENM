@@ -1,0 +1,117 @@
+{
+  "id": "intro-droit-penal-procedure",
+  "title": "Introduction générale — Droit pénal et procédure pénale",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "intro-fc-001",
+      "front": "Quelles sont les 4 conditions cumulatives d'une infraction pénale ?",
+      "back": "1) Un fait matériel positif (en principe) ; 2) Une atteinte à l'ordre social (aux valeurs protégées par le groupe) ; 3) Un fait prévu par un texte de loi (légalité criminelle) ; 4) Une sanction étatique (monopole de l'État de punir). Ces 4 conditions sont cumulatives, afin de préserver les libertés individuelles.",
+      "tags": ["infraction pénale", "définition"]
+    },
+    {
+      "id": "intro-fc-002",
+      "front": "Pourquoi dit-on qu'il n'y a « pas d'infraction sans activité matérielle » ? Cette règle connaît-elle des exceptions ?",
+      "back": "La simple pensée n'est jamais punissable (liberté de penser) : il faut en principe un fait matériel positif. L'abstention (un comportement passif) ne suffit en principe pas à constituer une infraction, sauf exceptions prévues par la loi.",
+      "tags": ["fait matériel", "principe"]
+    },
+    {
+      "id": "intro-fc-003",
+      "front": "Qui est Cesare Lombroso et quelle est sa thèse principale ?",
+      "back": "Médecin italien (1835-1909), l'un des fondateurs de la criminologie. Auteur de « L'homme criminel » (1895). Théorie du « criminel-né » : les causes de la criminalité seraient biologiques et morphologiques. Conséquence pratique : il faut soigner l'individu plutôt que simplement le punir.",
+      "tags": ["criminologie", "Lombroso"]
+    },
+    {
+      "id": "intro-fc-004",
+      "front": "Qui est Enrico Ferri et qu'apporte-t-il à la criminologie ?",
+      "back": "Professeur de droit et avocat italien (1856-1929). Auteur de « La sociologie criminelle » (1881) : selon lui, le crime résulte de la combinaison de plusieurs facteurs (biologiques ET sociaux), et non d'une cause unique comme chez Lombroso.",
+      "tags": ["criminologie", "Ferri"]
+    },
+    {
+      "id": "intro-fc-005",
+      "front": "Comment définir le droit pénal, et quelle est sa nature juridique ?",
+      "back": "Le droit pénal est l'ensemble des règles de droit ayant pour but la sanction des infractions. Sa nature est mixte : il concerne les rapports entre l'individu et la société (proche du droit public, car le droit de punir est mis en œuvre par l'État), mais il est traditionnellement rattaché au droit privé car il met en jeu la liberté individuelle, protégée par l'autorité judiciaire (art. 66 al. 2 de la Constitution de 1958).",
+      "tags": ["droit pénal", "définition", "article 66"]
+    },
+    {
+      "id": "intro-fc-006",
+      "front": "Quelle est la différence entre droit pénal général et droit pénal spécial ?",
+      "back": "Le droit pénal spécial étudie les éléments constitutifs et la répression propres à chaque infraction (vol, escroquerie, meurtre...) : c'est la branche la plus ancienne. Le droit pénal général étudie les principes généraux communs à l'incrimination et à la sanction (« droit des grands principes ») : il est apparu après le droit pénal spécial.",
+      "tags": ["droit pénal général", "droit pénal spécial"]
+    },
+    {
+      "id": "intro-fc-007",
+      "front": "Comment définir la procédure pénale et quelles sont ses quatre phases ?",
+      "back": "La procédure pénale est l'ensemble des règles relatives à la constatation de l'infraction, à la recherche des participants (auteurs, coauteurs, complices), à leur poursuite et à leur jugement. Elle régit quatre phases : l'enquête, l'instruction, le jugement et l'exécution.",
+      "tags": ["procédure pénale", "définition"]
+    },
+    {
+      "id": "intro-fc-008",
+      "front": "Quels sont les deux modèles historiques de procès pénal, et quelles sont leurs caractéristiques ?",
+      "back": "Le modèle accusatoire : le procès est un litige entre deux parties (accusateur et accusé), tranché par un juge arbitre ; il est oral, public et contradictoire, et privilégie les libertés individuelles. Le modèle inquisitoire : l'État poursuit et juge (le juge est aussi enquêteur) ; il est écrit et secret, et privilégie l'efficacité de la répression et l'intérêt général. Ces deux modèles sont aujourd'hui transcendés par celui du procès équitable.",
+      "tags": ["modèle accusatoire", "modèle inquisitoire"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "intro-qcm-001",
+      "question": "Parmi les propositions suivantes, laquelle ne fait PAS partie des 4 conditions cumulatives de l'infraction pénale ?",
+      "options": [
+        "Un fait matériel, en principe positif",
+        "Une intention de nuire systématiquement requise en tant que condition autonome",
+        "Une atteinte à l'ordre social",
+        "Une sanction étatique prévue par un texte de loi"
+      ],
+      "answer": 1,
+      "explanation": "Les 4 conditions cumulatives sont : un fait matériel (en principe positif), une atteinte à l'ordre social, un fait prévu par un texte de loi, et une sanction étatique. Cette définition générale ne pose pas d'« intention de nuire systématique » comme condition autonome de l'infraction.",
+      "tags": ["infraction pénale"]
+    },
+    {
+      "id": "intro-qcm-002",
+      "question": "Selon la fiche, qui est présenté comme le troisième fondateur de l'école positiviste italienne de criminologie, aux côtés de Lombroso et Ferri ?",
+      "options": ["Beccaria", "Garofalo", "Durkheim", "Tarde"],
+      "answer": 1,
+      "explanation": "La fiche cite trois fondateurs italiens de la criminologie : Lombroso (théorie du « criminel-né »), Ferri (« sociologie criminelle ») et Garofalo, présenté comme le troisième fondateur de l'école positiviste italienne.",
+      "tags": ["criminologie", "Garofalo"]
+    },
+    {
+      "id": "intro-qcm-003",
+      "question": "Qu'entend-on par « inflation pénale », phénomène apparu depuis la seconde moitié du XXe siècle ?",
+      "options": [
+        "La hausse continue du nombre de gardes des sceaux successifs",
+        "L'augmentation du montant des amendes pénales du seul fait de l'inflation monétaire",
+        "L'extension du droit pénal à des domaines tels que le droit du travail, de la concurrence ou de la consommation",
+        "La multiplication des peines de prison à vie"
+      ],
+      "answer": 2,
+      "explanation": "L'« inflation pénale » désigne l'extension du droit pénal à d'autres domaines (droit du travail, de la concurrence, de la consommation...) depuis la seconde moitié du XXe siècle. Ce phénomène est critiqué par la doctrine, qui y voit une banalisation de la matière, détournée de son objet initial : les « grands interdits ».",
+      "tags": ["inflation pénale"]
+    },
+    {
+      "id": "intro-qcm-004",
+      "question": "La procédure pénale doit concilier deux intérêts contradictoires. Lesquels ?",
+      "options": [
+        "L'intérêt des victimes et l'intérêt des assureurs",
+        "L'intérêt général (réaction efficace contre le crime) et la protection des personnes contre les investigations et condamnations abusives",
+        "L'intérêt de l'État et l'intérêt des collectivités territoriales",
+        "L'intérêt du parquet et l'intérêt de la défense uniquement"
+      ],
+      "answer": 1,
+      "explanation": "La procédure pénale doit concilier deux intérêts contradictoires : d'une part l'intérêt général, qui exige une réaction efficace contre le crime, et d'autre part la protection des personnes contre les investigations intempestives et les condamnations abusives.",
+      "tags": ["procédure pénale", "intérêts contradictoires"]
+    },
+    {
+      "id": "intro-qcm-005",
+      "question": "Un système dans lequel le procès est écrit et secret, où le même juge enquête et juge, et qui privilégie l'efficacité de la répression, correspond à quel modèle ?",
+      "options": [
+        "Le modèle accusatoire",
+        "Le modèle inquisitoire",
+        "Le modèle adversarial anglo-saxon",
+        "Le modèle du jury populaire"
+      ],
+      "answer": 1,
+      "explanation": "Il s'agit du modèle inquisitoire : l'État poursuit et juge (le juge est aussi enquêteur), la procédure est écrite et secrète, et ce modèle privilégie l'efficacité de la répression et l'intérêt général — à l'inverse du modèle accusatoire (oral, public, contradictoire), qui privilégie les libertés individuelles.",
+      "tags": ["modèle inquisitoire", "modèle accusatoire"]
+    }
+  ]
+}
