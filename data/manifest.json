@@ -1,20 +1,22 @@
-[
-  {
-    "id": "intro-droit-penal-procedure",
-    "file": "intro-droit-penal-procedure.json",
-    "title": "Introduction générale — Droit pénal et procédure pénale",
-    "category": "Droit pénal général"
-  },
-  {
-    "id": "legalite-delits-peines",
-    "file": "legalite-delits-peines.json",
-    "title": "Le principe de légalité des délits et des peines",
-    "category": "Droit pénal général"
-  },
-  {
-    "id": "application-loi-penale-espace",
-    "file": "application-loi-penale-espace.json",
-    "title": "L'application de la loi pénale dans l'espace",
-    "category": "Droit pénal général"
-  }
-]
+{
+  "chapters": [
+    {
+      "id": "intro-droit-penal-procedure",
+      "file": "intro-droit-penal-procedure.json",
+      "title": "Introduction générale — Droit pénal et procédure pénale",
+      "category": "Droit pénal général"
+    },
+    {
+      "id": "legalite-delits-peines",
+      "file": "legalite-delits-peines.json",
+      "title": "Le principe de légalité des délits et des peines",
+      "category": "Droit pénal général"
+    },
+    {
+      "id": "application-loi-penale-espace",
+      "file": "application-loi-penale-espace.json",
+      "title": "L'application de la loi pénale dans l'espace",
+      "category": "Droit pénal général"
+    }
+  ]
+}
