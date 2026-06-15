@@ -35,6 +35,18 @@
       "file": "controle-validite-norme-penale.json",
       "title": "Le contrôle de la validité de la norme pénale",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "conseil-constitutionnel",
+      "file": "conseil-constitutionnel.json",
+      "title": "Le Conseil constitutionnel",
+      "category": "Droit constitutionnel"
+    },
+    {
+      "id": "justice-francaise-organisation",
+      "file": "justice-francaise-organisation.json",
+      "title": "La justice française — organisation, acteurs et procédure",
+      "category": "Institutions judiciaires"
     }
   ]
 }
