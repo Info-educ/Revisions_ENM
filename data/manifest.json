@@ -17,6 +17,12 @@
       "file": "application-loi-penale-espace.json",
       "title": "L'application de la loi pénale dans l'espace",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "qualification-faits",
+      "file": "qualification-faits.json",
+      "title": "La Qualification des faits",
+      "category": "Droit pénal général"
     }
   ]
 }
