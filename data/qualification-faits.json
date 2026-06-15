@@ -168,6 +168,71 @@
       "answer": 1,
       "explanation": "Le principe selon lequel le tribunal ne peut statuer ultra petita signifie ici qu'il est lié par les faits qui lui sont soumis, mais conserve la faculté de retenir une qualification juridique différente de celle initialement proposée par le parquet, sous réserve du respect du contradictoire.",
       "tags": ["ultra petita", "qualification"]
+    },
+    {
+      "id": "qualif-qcm-009",
+      "question": "Un prévenu soutient que les faits qui lui sont reprochés « ressemblent » globalement à ceux visés par le texte d'incrimination, sans toutefois en réunir exactement tous les éléments constitutifs. Comment la Cour de cassation impose-t-elle au juge du fond de procéder ?",
+      "options": [
+        "Se contenter de cette ressemblance globale, suffisante pour caractériser l'infraction",
+        "Vérifier, selon une approche téléologique fondée sur la finalité répressive du texte, que chaque élément constitutif est exactement réalisé",
+        "Retenir automatiquement la qualification la plus favorable au prévenu en cas de doute",
+        "Renvoyer l'affaire devant le législateur pour clarification du texte"
+      ],
+      "answer": 1,
+      "explanation": "Le caractère nécessaire de la qualification impose une correspondance point par point entre les faits et les éléments constitutifs du texte, appréciée selon la finalité répressive du texte (approche téléologique), et non une simple ressemblance globale entre les faits et l'infraction.",
+      "tags": ["qualification nécessaire", "examen téléologique"]
+    },
+    {
+      "id": "qualif-qcm-010",
+      "question": "Une personne obtient la remise d'un bien en trompant la victime sur son identité. Une évolution de la jurisprudence conduit, en cours de procédure, à requalifier les faits sur le fondement de l'article 313-1 du Code pénal, alors qu'une autre qualification avait initialement été retenue. De quelle cause de changement de qualification s'agit-il ?",
+      "options": [
+        "D'une découverte de faits nouveaux",
+        "D'une évolution jurisprudentielle d'une qualification existante",
+        "De l'intervention d'une loi nouvelle",
+        "D'une exception au principe d'unicité de l'arrêt Roux"
+      ],
+      "answer": 1,
+      "explanation": "Parmi les trois causes de changement de qualification, l'évolution jurisprudentielle d'une qualification existante (par exemple en matière d'escroquerie, art. 313-1, ou d'extorsion, art. 312-1) constitue une cause à part entière, distincte de la découverte de faits nouveaux ou de l'intervention d'une loi nouvelle.",
+      "tags": ["changement de qualification", "article 313-1"]
+    },
+    {
+      "id": "qualif-qcm-011",
+      "question": "Un salarié détourne des fonds confiés par son employeur (abus de confiance) tout en falsifiant des documents comptables pour le dissimuler (faux). Ces deux infractions protègent des intérêts distincts et sont retenues ensemble par le juge. De quel type de conflit de qualifications s'agit-il ?",
+      "options": [
+        "Un conflit de qualifications alternatives",
+        "Un conflit de qualifications cumulatives",
+        "Un conflit de qualifications incompatibles",
+        "Il ne s'agit pas d'un conflit de qualifications, faute de pluralité de textes applicables"
+      ],
+      "answer": 1,
+      "explanation": "Lorsque deux qualifications fondées sur des textes distincts, protégeant des valeurs sociales différentes, peuvent être retenues ensemble pour les mêmes faits, il s'agit d'un conflit de qualifications cumulatives, dont la pluralité a été consacrée par l'arrêt Ben Haddadi (Crim. 2019).",
+      "tags": ["qualifications cumulatives"]
+    },
+    {
+      "id": "qualif-qcm-012",
+      "question": "Après cassation, la Cour de cassation estime que les faits, souverainement constatés par les juges du fond, caractérisent une autre infraction que celle retenue. Que peut-elle faire ?",
+      "options": [
+        "Elle ne peut que renvoyer l'affaire devant une autre juridiction pour qu'elle requalifie elle-même les faits",
+        "Elle peut substituer la qualification exacte aux faits, dès lors que ceux-ci ont été souverainement constatés et appréciés par les juges du fond",
+        "Elle doit annuler l'ensemble de la procédure et ordonner un nouveau procès",
+        "Elle ne peut se prononcer sur la qualification, cette appréciation relevant exclusivement des juges du fond"
+      ],
+      "answer": 1,
+      "explanation": "La Cour de cassation peut substituer une qualification exacte à une qualification erronée, dès lors que les faits ont été souverainement constatés et appréciés par les juges du fond et qu'elle se contente d'en tirer les conséquences juridiques exactes, sans rejuger les faits eux-mêmes.",
+      "tags": ["cour de cassation", "substitution de qualification"]
+    },
+    {
+      "id": "qualif-qcm-013",
+      "question": "Un individu détourne un hélicoptère et prend l'équipage en otage. Le détournement d'aéronef et la prise d'otage portent atteinte à deux valeurs sociales différentes. Comment ces qualifications seront-elles traitées ?",
+      "options": [
+        "Comme des qualifications alternatives, seule la plus sévère étant retenue (arrêt Roux)",
+        "Comme des qualifications incompatibles, seule la qualification la plus haute étant retenue",
+        "Comme des qualifications cumulatives, retenues ensemble en application de l'exception Ben Haddadi",
+        "Elles ne peuvent donner lieu à aucune poursuite, faute de texte unique les regroupant"
+      ],
+      "answer": 2,
+      "explanation": "L'exemple du détournement d'hélicoptère combiné à une prise d'otage illustre l'exception Ben Haddadi : la pluralité de qualifications cumulatives est admise dès lors que les infractions portent atteinte à deux valeurs sociales différentes, à la différence de l'unicité de l'arrêt Roux, propre aux qualifications alternatives.",
+      "tags": ["qualifications cumulatives", "arrêt ben haddadi"]
     }
   ]
 }
