@@ -34,8 +34,8 @@ réelle (accès restreint), seules ces options fonctionnent :
 ## 2. Fonctionnement général
 
 - **Tableau de bord** : nombre d'items **jamais réussis** (jamais répondus
-  correctement), vue par chapitre, et choix du **type de session** (fiches +
-  QCM, fiches seules, ou QCM seuls).
+  correctement), vue par chapitre, et choix du **type de session** (Flashcards +
+  QCM, Flashcards seules, ou QCM seuls).
 - **Réviser** (écran d'accueil) : lance une session d'apprentissage initial.
   Seuls les items **auxquels vous n'avez jamais répondu correctement** sont
   proposés, dans un ordre aléatoire. Dès qu'un item est réussi une première
@@ -54,7 +54,7 @@ réelle (accès restreint), seules ces options fonctionnent :
   révisions (ex. ne travailler qu'un ou deux chapitres). Le badge affiche le
   nombre d'items jamais réussis du chapitre.
 - **Révisions** : entraînement sur **l'ensemble** des items (y compris ceux
-  déjà réussis), par thématiques choisies et type de contenu (fiches, QCM,
+  déjà réussis), par thématiques choisies et type de contenu (Flashcards, QCM,
   ou les deux). Le tirage est aléatoire mais privilégie les items les moins
   maîtrisés, sans jamais exclure totalement les autres — un item bien
   maîtrisé peut donc revenir, même le jour même d'une bonne réponse,

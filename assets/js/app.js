@@ -203,8 +203,8 @@ function renderDashboard() {
   ).length;
   $("#due-count").textContent = unlearnedCount;
   $("#due-label").textContent = {
-    all: "fiches & QCM",
-    flashcard: "fiches",
+    all: "Flashcards & QCM",
+    flashcard: "Flashcards",
     qcm: "QCM",
   }[state.settings.sessionType || "all"];
 
@@ -234,7 +234,7 @@ function renderChapitres() {
         <input type="checkbox" data-chapter="${ch.id}" ${activeSet.has(ch.id) ? "checked" : ""}>
         <span class="chapter-toggle__text">
           <span class="chapter-manage-list__title">${escapeHtml(ch.title)}</span>
-          <span class="chapter-manage-list__meta">${ch.counts.fc} fiches · ${ch.counts.qcm} QCM${ch.category ? " · " + escapeHtml(ch.category) : ""}</span>
+          <span class="chapter-manage-list__meta">${ch.counts.fc} Flashcards · ${ch.counts.qcm} QCM${ch.category ? " · " + escapeHtml(ch.category) : ""}</span>
         </span>
       </label>
       <span class="chapter-due-badge ${unlearned === 0 ? "is-zero" : ""}" title="Items jamais réussis">${unlearned}</span>
@@ -306,7 +306,7 @@ function renderRevisions() {
         <input type="checkbox" data-chapter="${ch.id}" ${selected.has(ch.id) ? "checked" : ""}>
         <span class="chapter-toggle__text">
           <span class="chapter-manage-list__title">${escapeHtml(ch.title)}</span>
-          <span class="chapter-manage-list__meta">${ch.counts.fc} fiches · ${ch.counts.qcm} QCM${ch.category ? " · " + escapeHtml(ch.category) : ""}</span>
+          <span class="chapter-manage-list__meta">${ch.counts.fc} Flashcards · ${ch.counts.qcm} QCM${ch.category ? " · " + escapeHtml(ch.category) : ""}</span>
         </span>
       </label>
     `;
@@ -341,7 +341,7 @@ function renderRevisionsSummary() {
     return;
   }
 
-  const total = `${items.length} item${items.length > 1 ? "s" : ""} (${fc} fiche${fc > 1 ? "s" : ""}, ${qcm} QCM) au total pour cette sélection.`;
+  const total = `${items.length} item${items.length > 1 ? "s" : ""} (${fc} Flashcard${fc > 1 ? "s" : ""}, ${qcm} QCM) au total pour cette sélection.`;
 
   if (limit > 0 && limit < items.length) {
     $("#revision-summary").textContent =
@@ -609,7 +609,7 @@ function startSession() {
 
   if (queue.length === 0) {
     showView("accueil");
-    const typeLabel = { all: "fiches et QCM", flashcard: "fiches", qcm: "QCM" }[state.settings.sessionType || "all"];
+    const typeLabel = { all: "Flashcards et QCM", flashcard: "Flashcards", qcm: "QCM" }[state.settings.sessionType || "all"];
     if (items.length === 0) {
       alert(`Aucun item disponible (${typeLabel}) — activez au moins un chapitre dans l'onglet Chapitres, ou changez de type de session.`);
     } else {
@@ -667,7 +667,7 @@ function nextCard() {
   // Met à jour la barre de progression
   $("#session-progress-fill").style.width = `${(session.validatedCount / session.total) * 100}%`;
   $("#session-progress-text").textContent = `${session.validatedCount} / ${session.total}`;
-  $("#session-mode-label").textContent = item.type === "flashcard" ? "Fiche" : "QCM";
+  $("#session-mode-label").textContent = item.type === "flashcard" ? "Flashcard" : "QCM";
 
   $("#stamp").className = "stamp";
 
