@@ -23,6 +23,12 @@
       "file": "qualification-faits.json",
       "title": "La Qualification des faits",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "faits-justificatifs",
+      "file": "faits-justificatifs.json",
+      "title": "Les faits justificatifs",
+      "category": "Droit pénal général"
     }
   ]
 }
