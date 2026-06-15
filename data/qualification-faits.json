@@ -1,0 +1,173 @@
+{
+  "id": "qualification-faits",
+  "title": "La qualification des faits",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "qualif-fc-001",
+      "front": "Pourquoi la qualification pénale doit-elle être « nécessaire » ?",
+      "back": "Parce que le juge doit vérifier une correspondance point par point entre les faits commis et chacun des éléments constitutifs prévus par le texte d'incrimination. La Cour de cassation impose un examen téléologique, selon la finalité répressive du texte, et non une simple ressemblance globale entre les faits et l'infraction.",
+      "tags": ["qualification", "éléments constitutifs"]
+    },
+    {
+      "id": "qualif-fc-002",
+      "front": "En quoi la qualification est-elle « préalable aux poursuites », et que se passe-t-il en son absence ?",
+      "back": "La qualification doit intervenir avant toute mise en mouvement de l'action publique. À défaut de qualification préalable, la procédure est nulle, car les libertés individuelles seraient directement menacées par des poursuites engagées sans fondement légal identifié.",
+      "tags": ["qualification", "nullité"]
+    },
+    {
+      "id": "qualif-fc-003",
+      "front": "Qui dispose du pouvoir de qualifier les faits, et quel est le rôle de la victime ?",
+      "back": "Le pouvoir de qualifier appartient au ministère public, au juge d'instruction et à la juridiction de jugement. La victime, en revanche, ne qualifie pas les faits : elle se limite à les exposer.",
+      "tags": ["acteurs du procès pénal"]
+    },
+    {
+      "id": "qualif-fc-004",
+      "front": "Qu'est-ce qu'une « norme extra-pénale » et comment le juge pénal l'apprécie-t-il ?",
+      "back": "De nombreuses infractions renvoient à une notion définie hors du droit pénal (ex. : le vol, art. 311-1, suppose la notion de propriété en droit civil ; l'homicide, art. 221-1, suppose la notion de mort). Le juge pénal apprécie lui-même cette notion extra-pénale, parfois de façon différente du droit civil.",
+      "tags": ["norme extra-pénale"]
+    },
+    {
+      "id": "qualif-fc-005",
+      "front": "Quels sont les trois types de conflits de qualifications ?",
+      "back": "Les qualifications alternatives, qui s'excluent mutuellement ; les qualifications cumulatives, retenues ensemble lorsqu'elles protègent des valeurs sociales différentes ; et les qualifications incompatibles, pour lesquelles seule la qualification la plus haute est retenue.",
+      "tags": ["conflits de qualifications"]
+    },
+    {
+      "id": "qualif-fc-006",
+      "front": "Qualifications alternatives : quel principe et quel arrêt fondateur ?",
+      "back": "Lorsque deux qualifications s'excluent mutuellement, le juge retient la plus spéciale et la plus sévèrement réprimée (ex. : le vol qualifié prime le vol simple), en application du principe d'unicité de la qualification consacré par l'arrêt Roux (Crim. 1921).",
+      "tags": ["qualifications alternatives", "arrêt roux"]
+    },
+    {
+      "id": "qualif-fc-007",
+      "front": "Qualifications cumulatives : que permettent-elles et depuis quel arrêt ?",
+      "back": "Un même fait peut être saisi par deux textes distincts protégeant des valeurs sociales différentes (ex. : homicide et non-assistance à personne en danger). Ces qualifications sont alors retenues ensemble, la pluralité de qualifications ayant été consacrée par l'arrêt Ben Haddadi (Crim. 2019).",
+      "tags": ["qualifications cumulatives", "arrêt ben haddadi"]
+    },
+    {
+      "id": "qualif-fc-008",
+      "front": "Qualifications incompatibles : quelle règle de résolution s'applique ?",
+      "back": "En cas de conflit entre une qualification criminelle et une qualification délictuelle, le juge retient la qualification la plus haute, ce qui entraîne la compétence de la cour d'assises et le prononcé de la peine la plus sévère (C. pén., art. 132-3).",
+      "tags": ["qualifications incompatibles", "article 132-3"]
+    },
+    {
+      "id": "qualif-fc-009",
+      "front": "Quelles sont les trois causes possibles d'un changement de qualification en cours de procédure ?",
+      "back": "La découverte de faits nouveaux (ex. : un vol devient une extorsion), l'évolution jurisprudentielle d'une qualification existante (ex. art. 312-1 ou 313-1), et l'intervention d'une loi nouvelle modifiant la qualification applicable.",
+      "tags": ["changement de qualification"]
+    },
+    {
+      "id": "qualif-fc-010",
+      "front": "Le tribunal est-il lié par la qualification retenue par le parquet, et quelle garantie s'impose en cas de requalification ?",
+      "back": "Non : le tribunal est lié par les faits, pas par la qualification proposée par le parquet — il ne peut statuer ultra petita mais peut requalifier, et la Cour de cassation peut elle-même substituer une qualification. Toute requalification, même défavorable à l'accusé, doit respecter le principe du contradictoire (article préliminaire du Code de procédure pénale) : l'accusé doit être informé et pouvoir présenter ses observations, sous peine de nullité.",
+      "tags": ["contradictoire", "ultra petita"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "qualif-qcm-001",
+      "question": "Une personne dérobe un téléphone après avoir menacé sa victime avec un couteau. Le ministère public avait initialement retenu la qualification de vol simple. Que doit-il se passer ?",
+      "options": [
+        "Le tribunal doit obligatoirement juger sur la base du vol simple, car il est lié par la qualification initiale du parquet",
+        "Les faits doivent être requalifiés en extorsion, le tribunal n'étant pas lié par la qualification du parquet mais par les faits",
+        "La victime peut elle-même requalifier les faits en extorsion lors de l'audience",
+        "Aucune requalification n'est possible une fois la procédure engagée"
+      ],
+      "answer": 1,
+      "explanation": "Le tribunal est lié par les faits, non par la qualification retenue par le parquet (interdiction de statuer ultra petita) : la présence d'une menace caractérise une extorsion et impose une requalification, dans le respect du contradictoire. La victime n'a en aucun cas le pouvoir de qualifier les faits.",
+      "tags": ["requalification", "extorsion"]
+    },
+    {
+      "id": "qualif-qcm-002",
+      "question": "Parmi les personnes suivantes, laquelle n'a PAS le pouvoir de qualifier juridiquement les faits ?",
+      "options": [
+        "Le ministère public",
+        "Le juge d'instruction",
+        "La juridiction de jugement",
+        "La victime"
+      ],
+      "answer": 3,
+      "explanation": "Le pouvoir de qualifier appartient au ministère public, au juge d'instruction et à la juridiction de jugement. La victime se limite à exposer les faits, sans pouvoir les qualifier elle-même.",
+      "tags": ["acteurs", "qualification"]
+    },
+    {
+      "id": "qualif-qcm-003",
+      "question": "Dans une affaire de vol (art. 311-1 C. pén.), une contestation porte sur la qualité de « propriétaire » de la chose dérobée au sens du droit civil. Comment le juge pénal doit-il procéder ?",
+      "options": [
+        "Il doit obligatoirement attendre une décision préalable du juge civil sur la propriété",
+        "Il est tenu d'appliquer strictement la définition civile de la propriété, sans aucune marge d'appréciation",
+        "Il apprécie lui-même la notion de propriété, quitte à s'écarter de la solution qu'aurait retenue le juge civil",
+        "La notion de propriété étant extra-pénale, elle est sans incidence sur la qualification de vol"
+      ],
+      "answer": 2,
+      "explanation": "Lorsqu'une infraction renvoie à une notion extra-pénale (ici la propriété pour le vol), le juge pénal l'apprécie lui-même et peut retenir une solution différente de celle du droit civil, sans qu'une décision préjudicielle soit requise et sans être tenu par la définition civile. Cette notion reste en revanche déterminante pour la qualification.",
+      "tags": ["norme extra-pénale", "vol"]
+    },
+    {
+      "id": "qualif-qcm-004",
+      "question": "Un individu commet un vol avec effraction. Deux qualifications sont envisageables, vol simple et vol aggravé, et elles s'excluent mutuellement. Quelle qualification doit retenir le juge, et selon quel principe ?",
+      "options": [
+        "Le vol simple, par application du principe de faveur",
+        "Le vol qualifié, par application du principe d'unicité issu de l'arrêt Roux (Crim. 1921)",
+        "Les deux qualifications cumulativement, par application de l'arrêt Ben Haddadi",
+        "Aucune des deux : le juge doit retenir une qualification incompatible relevant de la cour d'assises"
+      ],
+      "answer": 1,
+      "explanation": "En cas de qualifications alternatives s'excluant mutuellement, le juge retient la plus spéciale et la plus sévèrement réprimée — ici le vol qualifié — en application du principe d'unicité consacré par l'arrêt Roux (Crim. 1921). L'arrêt Ben Haddadi concerne au contraire les qualifications cumulatives, et non ce cas de figure.",
+      "tags": ["qualifications alternatives", "arrêt roux"]
+    },
+    {
+      "id": "qualif-qcm-005",
+      "question": "Un automobiliste percute un piéton et prend la fuite sans porter secours ; le piéton décède. Le ministère public retient à la fois l'homicide involontaire et la non-assistance à personne en danger. Cette pluralité de qualifications est-elle possible ?",
+      "options": [
+        "Non, car une seule qualification peut être retenue par fait, selon le principe d'unicité de l'arrêt Roux",
+        "Oui, car ces deux infractions protègent des valeurs sociales différentes, conformément à l'arrêt Ben Haddadi (Crim. 2019)",
+        "Non, car la non-assistance est nécessairement absorbée par l'homicide involontaire",
+        "Oui, mais uniquement si une loi nouvelle l'a expressément prévu"
+      ],
+      "answer": 1,
+      "explanation": "Les qualifications cumulatives sont admises lorsque les infractions protègent des valeurs sociales différentes (ici la vie et l'obligation de porter secours), conformément à la pluralité de qualifications consacrée par l'arrêt Ben Haddadi (Crim. 2019). Le principe d'unicité de l'arrêt Roux concerne les qualifications alternatives, qui s'excluent, et ne s'applique donc pas ici.",
+      "tags": ["qualifications cumulatives", "arrêt ben haddadi"]
+    },
+    {
+      "id": "qualif-qcm-006",
+      "question": "Les faits poursuivis peuvent recevoir soit une qualification criminelle, soit une qualification délictuelle, ces deux qualifications étant incompatibles entre elles. Quelle règle s'applique ?",
+      "options": [
+        "Le juge retient les deux qualifications cumulativement",
+        "Le juge retient la qualification la plus basse pour favoriser l'accusé",
+        "Le juge retient la qualification la plus haute, la juridiction et la peine les plus sévères étant alors applicables",
+        "Le juge renvoie l'affaire devant le juge civil pour trancher le conflit"
+      ],
+      "answer": 2,
+      "explanation": "En cas de qualifications incompatibles, le juge retient la qualification la plus haute : la cour d'assises est compétente en cas de conflit crime/délit, et la peine la plus sévère est prononcée, conformément à l'article 132-3 du Code pénal.",
+      "tags": ["qualifications incompatibles", "article 132-3"]
+    },
+    {
+      "id": "qualif-qcm-007",
+      "question": "Au cours de l'instruction, de nouveaux éléments font apparaître que les faits initialement qualifiés de vol simple constituent en réalité une extorsion, qualification plus sévèrement punie. Le tribunal envisage cette requalification. Que doit-il impérativement faire avant de statuer ?",
+      "options": [
+        "Informer l'accusé de la nouvelle qualification envisagée et lui permettre de présenter ses observations",
+        "Renvoyer obligatoirement le dossier au ministère public pour qu'il modifie lui-même la qualification",
+        "S'abstenir de toute requalification, car elle serait nécessairement défavorable à l'accusé",
+        "Appliquer directement la nouvelle qualification sans formalité, la peine prononcée restant fondée sur l'ancienne qualification"
+      ],
+      "answer": 0,
+      "explanation": "Une requalification, même défavorable à l'accusé (aggravante), doit respecter le principe du contradictoire (article préliminaire du Code de procédure pénale) : l'accusé doit être informé et pouvoir se défendre sur la nouvelle qualification, à défaut de quoi la procédure est nulle. La peine prononcée doit en outre correspondre à la nouvelle qualification, et non à l'ancienne.",
+      "tags": ["contradictoire", "requalification"]
+    },
+    {
+      "id": "qualif-qcm-008",
+      "question": "Que signifie le fait que le tribunal ne puisse pas statuer « ultra petita » en matière de qualification ?",
+      "options": [
+        "Le tribunal ne peut prononcer une peine supérieure au maximum légal prévu par le texte",
+        "Le tribunal est lié par les faits dont il est saisi, mais pas par la qualification juridique initialement proposée par le parquet",
+        "Le tribunal ne peut juger que les personnes expressément visées par l'acte de poursuite",
+        "Le tribunal ne peut statuer sans la présence du ministère public à l'audience"
+      ],
+      "answer": 1,
+      "explanation": "Le principe selon lequel le tribunal ne peut statuer ultra petita signifie ici qu'il est lié par les faits qui lui sont soumis, mais conserve la faculté de retenir une qualification juridique différente de celle initialement proposée par le parquet, sous réserve du respect du contradictoire.",
+      "tags": ["ultra petita", "qualification"]
+    }
+  ]
+}
