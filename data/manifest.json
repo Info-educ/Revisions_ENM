@@ -47,6 +47,12 @@
       "file": "justice-francaise-organisation.json",
       "title": "La justice française — organisation, acteurs et procédure",
       "category": "Institutions judiciaires"
+    },
+    {
+      "id": "hierarchie-normes",
+      "file": "hierarchie-normes.json",
+      "title": "La hiérarchie des normes",
+      "category": "Droit constitutionnel"
     }
   ]
 }
