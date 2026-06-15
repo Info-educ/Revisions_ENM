@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781532166580,
+  "updatedAt": 1781532175324,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -42,12 +42,11 @@
       "lastSeenAt": 1781520111402
     },
     "intro-qcm-001": {
-      "level": 1,
-      "dueAt": 1781606526664,
-      "seenCount": 1,
-      "correctCount": 1,
+      "level": 2,
+      "seenCount": 2,
+      "correctCount": 2,
       "lastResult": "hit",
-      "lastSeenAt": 1781520126664
+      "lastSeenAt": 1781532171322
     },
     "legalite-qcm-006": {
       "level": 1,
