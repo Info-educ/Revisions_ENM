@@ -29,6 +29,12 @@
       "file": "faits-justificatifs.json",
       "title": "Les faits justificatifs",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "controle-validite-norme-penale",
+      "file": "controle-validite-norme-penale.json",
+      "title": "Le contrôle de la validité de la norme pénale",
+      "category": "Droit pénal général"
     }
   ]
 }
