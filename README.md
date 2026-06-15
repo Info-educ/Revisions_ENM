@@ -33,57 +33,66 @@ réelle (accès restreint), seules ces options fonctionnent :
 
 ## 2. Fonctionnement général
 
-- **Tableau de bord** : nombre d'items peu maîtrisés, vue par chapitre, et
-  choix du **type de session** (fiches + QCM, fiches seules, ou QCM seuls).
-- **Réviser** : lance une session. Tous les items des chapitres actifs sont
-  éligibles — aucun n'est jamais totalement écarté — mais un tirage
-  aléatoire pondéré privilégie les items les moins maîtrisés : plus le
-  niveau de maîtrise d'un item est élevé, moins il a de chances d'être tiré,
-  sans jamais tomber à zéro. Un item peut donc réapparaître le jour même où
-  vous y avez bien répondu, simplement moins souvent.
+- **Tableau de bord** : nombre d'items **jamais réussis** (jamais répondus
+  correctement), vue par chapitre, et choix du **type de session** (fiches +
+  QCM, fiches seules, ou QCM seuls).
+- **Réviser** (écran d'accueil) : lance une session d'apprentissage initial.
+  Seuls les items **auxquels vous n'avez jamais répondu correctement** sont
+  proposés, dans un ordre aléatoire. Dès qu'un item est réussi une première
+  fois, il **disparaît définitivement** de cet écran (mais reste disponible
+  dans l'onglet « Révisions »).
   - **Flashcard** : on touche la carte pour révéler la réponse, puis on
     indique « Maîtrisé » ou « À revoir ».
   - **QCM** : 4 propositions affichées dans un ordre aléatoire à chaque
     présentation (la bonne réponse n'est donc jamais systématiquement à la
     même position), explication affichée immédiatement après la réponse.
   - Une réponse correcte **valide** l'item pour la session : il ne revient
-    plus *dans cette session*. Une réponse incorrecte le replace plus loin
-    dans la file : il devra être retraité avant la fin de la session.
+    plus *dans cette session* (ni dans les suivantes, voir ci-dessus). Une
+    réponse incorrecte le replace plus loin dans la file : il devra être
+    retraité avant la fin de la session.
 - **Chapitres** : active/désactive des chapitres entiers pour cibler ses
   révisions (ex. ne travailler qu'un ou deux chapitres). Le badge affiche le
-  nombre d'items peu maîtrisés (niveau ≤ 2) du chapitre.
-- **Révisions** : parcours complet, indépendant du niveau de maîtrise. On
-  choisit une ou plusieurs thématiques (chapitres) et un type de contenu
-  (fiches, QCM, ou les deux), et **tous** les items correspondants sont
-  proposés, dans un ordre aléatoire — utile pour une relecture exhaustive
-  avant l'épreuve, sans que les items déjà bien maîtrisés soient filtrés.
+  nombre d'items jamais réussis du chapitre.
+- **Révisions** : entraînement sur **l'ensemble** des items (y compris ceux
+  déjà réussis), par thématiques choisies et type de contenu (fiches, QCM,
+  ou les deux). Le tirage est aléatoire mais privilégie les items les moins
+  maîtrisés, sans jamais exclure totalement les autres — un item bien
+  maîtrisé peut donc revenir, même le jour même d'une bonne réponse,
+  simplement moins souvent. Une limite (10 / 20 / 40 / Tout) permet de
+  choisir entre une session courte ciblée ou un accès à la totalité des
+  items de la sélection.
 - **Réglages** : taille de session, export/import de la progression,
   réinitialisation, synchronisation GitHub.
 
 ## 3. Algorithme de sélection des items
 
-Chaque item (flashcard ou QCM) a un **niveau de maîtrise** de 0 à 7, qui
-évolue à chaque réponse :
+Chaque item (flashcard ou QCM) a un **niveau de maîtrise** de 0 à 7 et un
+compteur de bonnes réponses (`correctCount`), qui évoluent à chaque
+réponse :
 
-- Réponse correcte → le niveau **monte** d'un cran (max 7).
+- Réponse correcte → le niveau **monte** d'un cran (max 7) et
+  `correctCount` est incrémenté.
 - Réponse incorrecte → le niveau **descend** de deux crans (min 0).
 
-Pour construire une session, chaque item reçoit un **poids** dépendant de
-son niveau (plus le niveau est bas, plus le poids est élevé), puis un tirage
-aléatoire pondéré sans remise sélectionne les items de la session. Aucun
-item n'est donc jamais totalement exclu : les items mal maîtrisés
-apparaissent beaucoup plus souvent, les items bien ancrés beaucoup plus
-rarement, mais tous restent susceptibles de revenir — y compris le jour même
-d'une bonne réponse.
+### Écran d'accueil — apprentissage initial
 
-La taille de session (réglable : 10 / 20 / 40 / illimité) limite le nombre
-d'items proposés en une fois. S'il existe plus d'items actifs que la limite,
-les items les moins maîtrisés ont une probabilité plus forte d'être inclus,
-mais le choix reste partiellement aléatoire à chaque session.
+La session ne contient que les items dont `correctCount` est encore à 0,
+c'est-à-dire ceux auxquels vous n'avez **jamais** répondu correctement. Ils
+sont mélangés aléatoirement. Dès qu'un item est réussi une première fois, il
+sort définitivement de cette liste.
 
-L'onglet **Révisions** contourne entièrement ce tirage pondéré : il propose
-l'ensemble des items des thématiques choisies, sans aucune sélection liée au
-niveau de maîtrise.
+### Onglet Révisions — entraînement complet pondéré
+
+Tous les items des thématiques choisies sont éligibles, sans condition sur
+`correctCount`. Chaque item reçoit un **poids** dépendant de son niveau de
+maîtrise (plus le niveau est bas, plus le poids est élevé), puis un tirage
+aléatoire pondéré sans remise détermine l'ordre — et, si une limite est
+choisie, la sélection — des items de la session. Aucun item n'est donc
+jamais totalement exclu : les items mal maîtrisés apparaissent beaucoup plus
+souvent, les items bien ancrés beaucoup plus rarement, mais tous restent
+susceptibles de revenir, y compris le jour même d'une bonne réponse. Avec
+« Tout », l'ensemble des items de la sélection est proposé, dans cet ordre
+pondéré.
 
 ## 4. Sauvegarde de la progression
 

@@ -5,8 +5,9 @@ import {
   createProgressEntry,
   applyResult,
   buildSessionQueue,
+  buildLearningQueue,
+  isUnlearned,
   requeueAfterMiss,
-  shuffle,
   shuffleQcmOptions,
 } from "./scheduler.js";
 import {
@@ -195,12 +196,12 @@ function renderDashboard() {
   const items = getActiveItems();
   const sessionItems = getSessionItems();
 
-  // Items "prioritaires" : peu ou pas maîtrisés (niveau ≤ 2).
-  // N'exclut rien de la session — sert uniquement d'indicateur.
-  const priorityCount = sessionItems.filter(
-    (it) => (state.progress.get(it.id)?.level ?? 0) <= 2
+  // Items "non encore appris" : aucune bonne réponse donnée jusqu'ici.
+  // C'est exactement le contenu de la session d'accueil.
+  const unlearnedCount = sessionItems.filter(
+    (it) => isUnlearned(state.progress.get(it.id))
   ).length;
-  $("#due-count").textContent = priorityCount;
+  $("#due-count").textContent = unlearnedCount;
   $("#due-label").textContent = {
     all: "fiches & QCM",
     flashcard: "fiches",
@@ -226,7 +227,7 @@ function renderChapitres() {
 
   for (const ch of state.chaptersMeta) {
     const chItems = state.allItems.filter((it) => it.chapterId === ch.id);
-    const priority = chItems.filter((it) => (state.progress.get(it.id)?.level ?? 0) <= 2).length;
+    const unlearned = chItems.filter((it) => isUnlearned(state.progress.get(it.id))).length;
     const li = document.createElement("li");
     li.innerHTML = `
       <label class="chapter-toggle">
@@ -236,7 +237,7 @@ function renderChapitres() {
           <span class="chapter-manage-list__meta">${ch.counts.fc} fiches · ${ch.counts.qcm} QCM${ch.category ? " · " + escapeHtml(ch.category) : ""}</span>
         </span>
       </label>
-      <span class="chapter-due-badge ${priority === 0 ? "is-zero" : ""}" title="Items peu maîtrisés">${priority}</span>
+      <span class="chapter-due-badge ${unlearned === 0 ? "is-zero" : ""}" title="Items jamais réussis">${unlearned}</span>
     `;
     list.appendChild(li);
   }
@@ -289,8 +290,9 @@ function setupSessionSize() {
 }
 
 // ------------------------------------------------------------
-// Vue Révisions (parcours complet par thématiques, sans tenir
-// compte du niveau de maîtrise)
+// Vue Révisions (parcours par thématiques avec tirage pondéré :
+// privilégie les items les moins maîtrisés sans jamais exclure
+// totalement les autres)
 // ------------------------------------------------------------
 function renderRevisions() {
   const list = $("#revision-chapter-list");
@@ -324,6 +326,7 @@ function renderRevisions() {
   });
 
   renderRevisionTypeSegmented();
+  renderRevisionSizeSegmented();
   renderRevisionsSummary();
 }
 
@@ -331,15 +334,33 @@ function renderRevisionsSummary() {
   const items = getRevisionItems();
   const fc = items.filter((it) => it.type === "flashcard").length;
   const qcm = items.filter((it) => it.type === "qcm").length;
-  $("#revision-summary").textContent =
-    items.length === 0
-      ? "Aucun item ne correspond à cette sélection."
-      : `${items.length} item${items.length > 1 ? "s" : ""} (${fc} fiche${fc > 1 ? "s" : ""}, ${qcm} QCM) seront proposés, dans un ordre aléatoire.`;
+  const limit = state.settings.revisionSize || 0;
+
+  if (items.length === 0) {
+    $("#revision-summary").textContent = "Aucun item ne correspond à cette sélection.";
+    return;
+  }
+
+  const total = `${items.length} item${items.length > 1 ? "s" : ""} (${fc} fiche${fc > 1 ? "s" : ""}, ${qcm} QCM) au total pour cette sélection.`;
+
+  if (limit > 0 && limit < items.length) {
+    $("#revision-summary").textContent =
+      `${total} ${limit} seront proposés cette fois-ci, le tirage privilégiant les items les moins maîtrisés sans en exclure aucun définitivement.`;
+  } else {
+    $("#revision-summary").textContent =
+      `${total} Tous seront proposés, dans un ordre privilégiant les items les moins maîtrisés.`;
+  }
 }
 
 function renderRevisionTypeSegmented() {
   $$("#revision-type-segmented button").forEach((btn) => {
     btn.classList.toggle("is-active", btn.dataset.type === (state.settings.revisionType || "all"));
+  });
+}
+
+function renderRevisionSizeSegmented() {
+  $$("#revision-size-segmented button").forEach((btn) => {
+    btn.classList.toggle("is-active", Number(btn.dataset.size) === (state.settings.revisionSize ?? 0));
   });
 }
 
@@ -349,6 +370,15 @@ function setupRevisions() {
       state.settings.revisionType = btn.dataset.type;
       saveSettings(state.settings);
       renderRevisionTypeSegmented();
+      renderRevisionsSummary();
+    });
+  });
+
+  $$("#revision-size-segmented button").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      state.settings.revisionSize = Number(btn.dataset.size);
+      saveSettings(state.settings);
+      renderRevisionSizeSegmented();
       renderRevisionsSummary();
     });
   });
@@ -376,13 +406,15 @@ function startRevisionSession() {
     return;
   }
 
-  const queue = shuffle(items);
+  const limit = state.settings.revisionSize || 0;
+  const queue = buildSessionQueue(items, state.progress, { limit });
 
   state.session = {
     queue,
     total: queue.length,
     validatedCount: 0,
     current: null,
+    mode: "revision",
   };
 
   showView("session");
@@ -573,12 +605,16 @@ function flushAutoPush() {
 function startSession() {
   const items = getSessionItems();
   const limit = state.settings.sessionSize || 0;
-  const queue = buildSessionQueue(items, state.progress, { limit });
+  const queue = buildLearningQueue(items, state.progress, { limit });
 
   if (queue.length === 0) {
     showView("accueil");
     const typeLabel = { all: "fiches et QCM", flashcard: "fiches", qcm: "QCM" }[state.settings.sessionType || "all"];
-    alert(`Aucun item disponible (${typeLabel}) — activez au moins un chapitre dans l'onglet Chapitres, ou changez de type de session.`);
+    if (items.length === 0) {
+      alert(`Aucun item disponible (${typeLabel}) — activez au moins un chapitre dans l'onglet Chapitres, ou changez de type de session.`);
+    } else {
+      alert(`Bravo, vous avez déjà répondu correctement au moins une fois à toutes les ${typeLabel} actives ! Utilisez l'onglet « Révisions » pour continuer à vous entraîner sur l'ensemble du contenu.`);
+    }
     return;
   }
 
@@ -587,6 +623,7 @@ function startSession() {
     total: queue.length,
     validatedCount: 0,
     current: null,
+    mode: "learning",
   };
 
   showView("session");
@@ -604,9 +641,12 @@ function endSession() {
 
   const end = $("#session-end");
   end.hidden = false;
-  $("#session-end-summary").textContent =
-    `${state.session.total} item${state.session.total > 1 ? "s" : ""} traité${state.session.total > 1 ? "s" : ""}. ` +
-    `Revenez quand vous voulez pour une nouvelle session : les items les moins maîtrisés reviendront plus souvent.`;
+  const count = `${state.session.total} item${state.session.total > 1 ? "s" : ""} traité${state.session.total > 1 ? "s" : ""}.`;
+  const followUp =
+    state.session.mode === "revision"
+      ? "Revenez quand vous voulez pour une nouvelle session de révision."
+      : "Les items réussis pour la première fois ne reviendront plus dans cet écran — retrouvez-les dans l'onglet « Révisions ».";
+  $("#session-end-summary").textContent = `${count} ${followUp}`;
 
   $("#session-progress-fill").style.width = "100%";
   $("#session-progress-text").textContent = `${state.session.total} / ${state.session.total}`;

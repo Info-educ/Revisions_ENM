@@ -70,6 +70,37 @@ export function weightForLevel(level) {
 }
 
 /**
+ * Un item est "non encore appris" s'il n'a jamais été répondu
+ * correctement (aucune entrée de progression, ou correctCount
+ * encore à 0).
+ */
+export function isUnlearned(entry) {
+  return !entry || (entry.correctCount ?? 0) === 0;
+}
+
+/**
+ * Construit la file d'attente de l'écran d'accueil : uniquement
+ * les items pour lesquels aucune bonne réponse n'a encore été
+ * donnée. Dès qu'un item est réussi une première fois, il
+ * disparaît définitivement de cette file (mais reste disponible
+ * dans l'onglet « Révisions »).
+ *
+ * @param {Array} items - items éligibles (flashcards + QCM mélangés)
+ * @param {Map} progressMap - id -> entrée de progression
+ * @param {object} opts
+ *   - limit: nombre maximal d'items dans la session (0 = illimité)
+ * @returns {Array} file d'items non encore appris, ordre aléatoire
+ */
+export function buildLearningQueue(items, progressMap, opts = {}) {
+  const limit = opts.limit ?? 0;
+  let ordered = shuffle(items.filter((item) => isUnlearned(progressMap.get(item.id))));
+  if (limit > 0 && ordered.length > limit) {
+    ordered = ordered.slice(0, limit);
+  }
+  return ordered;
+}
+
+/**
  * Construit la file d'attente d'une session de révision par
  * tirage aléatoire pondéré sans remise (algorithme « A-Res » de
  * Efraimidis & Spirakis) : chaque item reçoit une clé aléatoire

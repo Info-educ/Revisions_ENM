@@ -12,6 +12,9 @@ const DEFAULT_SETTINGS = {
   sessionSize: 40, // 0 = illimité
   sessionType: "all", // "all" | "flashcard" | "qcm"
   activeChapters: null, // null = tous les chapitres actifs
+  revisionChapters: null, // null = tous les chapitres sélectionnés (onglet Révisions)
+  revisionType: "all", // "all" | "flashcard" | "qcm" (onglet Révisions)
+  revisionSize: 0, // 0 = illimité (onglet Révisions)
   github: {
     repo: "",
     branch: "main",
