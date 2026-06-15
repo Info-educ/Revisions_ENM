@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781523419406,
+  "updatedAt": 1781523910386,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -169,70 +169,6 @@
       "correctCount": 1,
       "lastResult": "hit",
       "lastSeenAt": 1781520674963
-    },
-    "qualif-qcm-002": {
-      "level": 1,
-      "dueAt": 1781609745484,
-      "seenCount": 2,
-      "correctCount": 1,
-      "lastResult": "hit",
-      "lastSeenAt": 1781523345484
-    },
-    "qualif-qcm-008": {
-      "level": 1,
-      "dueAt": 1781609650192,
-      "seenCount": 2,
-      "correctCount": 1,
-      "lastResult": "hit",
-      "lastSeenAt": 1781523250192
-    },
-    "qualif-qcm-003": {
-      "level": 1,
-      "dueAt": 1781609738178,
-      "seenCount": 2,
-      "correctCount": 1,
-      "lastResult": "hit",
-      "lastSeenAt": 1781523338178
-    },
-    "qualif-qcm-007": {
-      "level": 1,
-      "dueAt": 1781609802003,
-      "seenCount": 2,
-      "correctCount": 1,
-      "lastResult": "hit",
-      "lastSeenAt": 1781523402003
-    },
-    "qualif-qcm-001": {
-      "level": 1,
-      "dueAt": 1781609710589,
-      "seenCount": 1,
-      "correctCount": 1,
-      "lastResult": "hit",
-      "lastSeenAt": 1781523310589
-    },
-    "qualif-qcm-005": {
-      "level": 1,
-      "dueAt": 1781609727007,
-      "seenCount": 1,
-      "correctCount": 1,
-      "lastResult": "hit",
-      "lastSeenAt": 1781523327007
-    },
-    "qualif-qcm-006": {
-      "level": 1,
-      "dueAt": 1781609811950,
-      "seenCount": 2,
-      "correctCount": 1,
-      "lastResult": "hit",
-      "lastSeenAt": 1781523411950
-    },
-    "qualif-qcm-004": {
-      "level": 1,
-      "dueAt": 1781609787176,
-      "seenCount": 1,
-      "correctCount": 1,
-      "lastResult": "hit",
-      "lastSeenAt": 1781523387176
     }
   }
 }
