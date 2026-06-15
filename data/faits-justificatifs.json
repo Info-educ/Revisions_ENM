@@ -1,0 +1,261 @@
+{
+  "id": "faits-justificatifs",
+  "title": "Les faits justificatifs",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "faits-just-fc-001",
+      "front": "Qu'est-ce qu'un fait justificatif et où sont-ils prévus dans le Code pénal ?",
+      "back": "Circonstance objective, indépendante de la psychologie de l'auteur, qui efface le caractère punissable de l'acte et procure une impunité. Prévus aux articles 122-4 à 122-7 du Code pénal.",
+      "tags": ["faits justificatifs", "définition"]
+    },
+    {
+      "id": "faits-just-fc-002",
+      "front": "Comment les faits justificatifs se distinguent-ils des causes de non-imputabilité ?",
+      "back": "Les faits justificatifs sont des circonstances objectives liées à l'acte, qui profitent à tous les participants à l'infraction. Les causes de non-imputabilité sont personnelles à l'agent et n'effacent l'infraction qu'à son égard.",
+      "tags": ["faits justificatifs", "imputabilité"]
+    },
+    {
+      "id": "faits-just-fc-003",
+      "front": "Quels sont les quatre faits justificatifs prévus par le Code pénal ?",
+      "back": "L'accomplissement d'un devoir (art. 122-4 al. 1), l'exercice d'un droit (extension jurisprudentielle), la légitime défense (art. 122-5 et 122-6) et l'état de nécessité (art. 122-7).",
+      "tags": ["faits justificatifs", "liste"]
+    },
+    {
+      "id": "faits-just-fc-004",
+      "front": "Quelles sont les conditions de l'accomplissement d'un devoir prescrit par l'autorité légitime (art. 122-4 al. 1) ?",
+      "back": "Un ordre de la loi ou du règlement, ou un commandement de l'autorité légitime, et un comportement de l'auteur conforme à l'ordre reçu. Le commandement manifestement illégal ne justifie pas l'acte (art. 122-4 al. 2).",
+      "tags": ["accomplissement d'un devoir", "article 122-4"]
+    },
+    {
+      "id": "faits-just-fc-005",
+      "front": "Quelle décision admet le commandement légitime de l'autorité comme fait justificatif ?",
+      "back": "Crim. 16 février 1989, qui reconnaît le commandement de l'autorité légitime comme justificatif lorsque l'agent s'y conforme.",
+      "tags": ["accomplissement d'un devoir", "jurisprudence"]
+    },
+    {
+      "id": "faits-just-fc-006",
+      "front": "L'exercice d'un droit constitue-t-il toujours un fait justificatif sans condition ?",
+      "back": "Non. Il faut un droit reconnu par la loi, exercé avec proportionnalité et sans abus (ex. liberté d'expression, droit de grève). Le droit de correction parental a été aboli par la loi du 26 décembre 2019.",
+      "tags": ["exercice d'un droit"]
+    },
+    {
+      "id": "faits-just-fc-007",
+      "front": "Le consentement de la victime est-il un fait justificatif en droit pénal ?",
+      "back": "Non, sauf exceptions légales expresses : à la différence du droit civil, le consentement de la victime ne constitue pas en principe un fait justificatif en droit pénal.",
+      "tags": ["consentement de la victime", "exercice d'un droit"]
+    },
+    {
+      "id": "faits-just-fc-008",
+      "front": "Quelles sont les conditions de la légitime défense relatives à l'agression (art. 122-5/122-6) ?",
+      "back": "L'agression doit être actuelle ou imminente, injuste et réelle.",
+      "tags": ["légitime défense", "article 122-5"]
+    },
+    {
+      "id": "faits-just-fc-009",
+      "front": "Quelles sont les conditions de la légitime défense relatives à la riposte ?",
+      "back": "La riposte doit être nécessaire, proportionnée à la gravité de l'agression, et simultanée à celle-ci.",
+      "tags": ["légitime défense", "proportionnalité"]
+    },
+    {
+      "id": "faits-just-fc-010",
+      "front": "Que prévoit la présomption légale de l'article 122-6 du Code pénal ?",
+      "back": "Une présomption de légitime défense est posée lorsque l'acte est accompli de nuit, dans un lieu habité, en repoussant l'entrée par effraction, violence ou ruse, ou pour se défendre contre les auteurs de vols ou pillages exécutés avec violence.",
+      "tags": ["légitime défense", "article 122-6", "présomption"]
+    },
+    {
+      "id": "faits-just-fc-011",
+      "front": "Qu'est-ce que la légitime défense putative et depuis quel arrêt est-elle admise ?",
+      "back": "C'est la légitime défense exercée en réaction à une agression qui n'existait pas réellement mais que l'auteur croyait réelle. Elle est admise si l'erreur est invincible, depuis l'arrêt Crim. 21 avril 1975 (Ménahem).",
+      "tags": ["légitime défense", "erreur", "ménahem"]
+    },
+    {
+      "id": "faits-just-fc-012",
+      "front": "Quelles sont les quatre conditions cumulatives de l'état de nécessité (art. 122-7) ?",
+      "back": "Un danger actuel ou imminent menaçant l'auteur, autrui ou un bien ; l'absence de faute préalable de l'agent ; un acte nécessaire pour faire cesser le danger (pas d'autre moyen) ; et une utilité sociale supérieure au dommage causé (intérêt sauvegardé supérieur au préjudice).",
+      "tags": ["état de nécessité", "article 122-7"]
+    },
+    {
+      "id": "faits-just-fc-013",
+      "front": "Quel arrêt fondateur illustre l'état de nécessité et quels faits concernait-il ?",
+      "back": "Crim. 22 avril 1898 (affaire Ménard) : le vol de pain commis pour nourrir un enfant mourant de faim a été reconnu comme un état de nécessité.",
+      "tags": ["état de nécessité", "ménard", "jurisprudence"]
+    },
+    {
+      "id": "faits-just-fc-014",
+      "front": "Qui doit prouver l'absence de fait justificatif et sur quel fondement ?",
+      "back": "En vertu de la présomption d'innocence (art. 6 §2 CEDH), c'est au parquet de rapporter la preuve que le prévenu ne bénéficie d'aucun fait justificatif ; l'accusé n'a pas à prouver lui-même le fait justificatif.",
+      "tags": ["preuve", "présomption d'innocence"]
+    },
+    {
+      "id": "faits-just-fc-015",
+      "front": "Quel est l'effet pénal de la reconnaissance d'un fait justificatif sur l'élément légal de l'infraction ?",
+      "back": "Le fait justificatif neutralise l'élément légal : le texte d'incrimination est neutralisé et les actes ne sont plus punissables, ce qui aboutit à un classement sans suite, un non-lieu ou un acquittement selon la phase procédurale, sans peine ni mesure de sûreté.",
+      "tags": ["effets", "élément légal"]
+    },
+    {
+      "id": "faits-just-fc-016",
+      "front": "L'état de nécessité exclut-il systématiquement la responsabilité civile de l'auteur ?",
+      "back": "Non. À la différence des autres faits justificatifs, l'auteur peut rester civilement responsable du préjudice causé en état de nécessité, car la victime n'est coupable d'aucune faute (Civ. 2e, 22 avril 1992 ; Crim. 16 juin 2015).",
+      "tags": ["état de nécessité", "responsabilité civile"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "faits-just-qcm-001",
+      "question": "Un policier exécute un ordre de sa hiérarchie qu'il sait manifestement illégal. Peut-il invoquer l'accomplissement d'un devoir comme fait justificatif ?",
+      "options": [
+        "Oui, l'ordre hiérarchique justifie toujours l'acte",
+        "Non, le commandement manifestement illégal ne justifie pas l'acte (art. 122-4 al. 2)",
+        "Oui, mais uniquement si l'ordre provient d'un magistrat",
+        "Non, car l'accomplissement d'un devoir ne concerne que les militaires"
+      ],
+      "answer": 1,
+      "explanation": "L'article 122-4 alinéa 2 du Code pénal exclut expressément la justification lorsque le commandement de l'autorité légitime est manifestement illégal. Le caractère manifeste de l'illégalité fait obstacle au jeu du fait justificatif, peu importe le grade de l'autorité émettrice.",
+      "tags": ["accomplissement d'un devoir", "article 122-4"]
+    },
+    {
+      "id": "faits-just-qcm-002",
+      "question": "Une personne consent à subir des violences dans un cadre purement privé. Ce consentement constitue-t-il un fait justificatif au sens du droit pénal ?",
+      "options": [
+        "Oui, le consentement de la victime efface systématiquement l'infraction",
+        "Non, sauf exceptions légales expresses, le consentement de la victime n'est pas un fait justificatif en droit pénal",
+        "Oui, mais uniquement si la victime est majeure",
+        "Non, car le consentement n'a aucune incidence en matière pénale ou civile"
+      ],
+      "answer": 1,
+      "explanation": "À la différence du droit civil, le consentement de la victime ne constitue en principe pas un fait justificatif en droit pénal français, sauf hypothèses prévues par la loi. La réponse D est erronée car le consentement peut avoir des incidences (notamment civiles), il n'est simplement pas, par principe, un fait justificatif pénal.",
+      "tags": ["consentement de la victime"]
+    },
+    {
+      "id": "faits-just-qcm-003",
+      "question": "M. X riposte à une agression qu'il croyait réelle alors qu'elle ne l'était pas, son erreur étant invincible. Que retient la jurisprudence depuis l'arrêt Ménahem ?",
+      "options": [
+        "La légitime défense putative est exclue car l'agression n'était pas réelle",
+        "La légitime défense putative peut être admise si l'erreur est invincible",
+        "L'état de nécessité s'applique automatiquement à la place de la légitime défense",
+        "La présomption de l'article 122-6 s'applique d'office"
+      ],
+      "answer": 1,
+      "explanation": "Crim. 21 avril 1975 (Ménahem) admet la légitime défense putative lorsque l'erreur de l'agent sur la réalité de l'agression est invincible, c'est-à-dire insurmontable pour toute personne placée dans les mêmes circonstances. La condition d'agression réelle classique est ainsi assouplie dans ce cas précis.",
+      "tags": ["légitime défense", "ménahem", "erreur"]
+    },
+    {
+      "id": "faits-just-qcm-004",
+      "question": "Dans le cadre de la présomption de légitime défense de l'article 122-6 du Code pénal, sur qui repose la charge de la preuve ?",
+      "options": [
+        "Sur l'accusé, qui doit prouver qu'il était en situation de légitime défense",
+        "Sur le parquet, qui doit démontrer l'absence des conditions de la légitime défense",
+        "Sur la victime, qui doit prouver que l'agression n'était pas injuste",
+        "Sur le juge, qui statue d'office sans qu'aucune partie ait à rapporter de preuve"
+      ],
+      "answer": 1,
+      "explanation": "L'article 122-6 institue une présomption en cas d'agression nocturne dans un lieu habité avec violences. La charge de la preuve est alors inversée : c'est au parquet de démontrer l'absence des conditions de la légitime défense, et non à l'accusé de prouver qu'il a agi en état de légitime défense.",
+      "tags": ["légitime défense", "article 122-6", "preuve"]
+    },
+    {
+      "id": "faits-just-qcm-005",
+      "question": "Parmi les quatre conditions de l'état de nécessité (art. 122-7), laquelle suppose qu'aucun autre moyen n'était disponible pour faire cesser le danger ?",
+      "options": [
+        "L'absence de faute préalable de l'agent",
+        "La condition d'utilité sociale supérieure au dommage causé",
+        "Le caractère nécessaire de l'acte accompli pour faire cesser le danger",
+        "Le caractère actuel ou imminent du danger"
+      ],
+      "answer": 2,
+      "explanation": "La condition de nécessité de l'acte implique qu'aucun autre moyen que la commission de l'infraction n'était disponible pour faire cesser le danger. Les autres conditions concernent respectivement le comportement antérieur de l'agent, le bilan coûts/avantages de l'acte, et la temporalité du danger.",
+      "tags": ["état de nécessité", "article 122-7"]
+    },
+    {
+      "id": "faits-just-qcm-006",
+      "question": "Une personne en état de nécessité détruit le bien d'un tiers innocent pour échapper à un danger. Quelle est la conséquence sur sa responsabilité civile ?",
+      "options": [
+        "Elle est totalement exonérée, comme pour les autres faits justificatifs",
+        "Elle peut rester tenue d'indemniser la victime, qui n'est coupable d'aucune faute",
+        "Seule la légitime défense ouvre droit à indemnisation de la victime",
+        "La responsabilité civile ne se pose qu'en cas d'accomplissement d'un devoir"
+      ],
+      "answer": 1,
+      "explanation": "Contrairement au principe général selon lequel le fait justificatif exclut la responsabilité civile (acte non fautif), l'état de nécessité fait exception : l'auteur peut rester civilement responsable car la victime, elle, n'a commis aucune faute (Civ. 2e, 22 avril 1992 ; Crim. 16 juin 2015).",
+      "tags": ["état de nécessité", "responsabilité civile"]
+    },
+    {
+      "id": "faits-just-qcm-007",
+      "question": "Quelle est la principale différence entre un fait justificatif et une cause de non-imputabilité quant aux personnes concernées ?",
+      "options": [
+        "Le fait justificatif ne profite qu'à l'auteur principal, la cause de non-imputabilité à tous les participants",
+        "Le fait justificatif est objectif et profite à tous les participants à l'infraction, la cause de non-imputabilité est personnelle à l'agent",
+        "Les deux notions ont des effets identiques et sont interchangeables",
+        "La cause de non-imputabilité supprime l'infraction pour tous, le fait justificatif uniquement pour l'auteur"
+      ],
+      "answer": 1,
+      "explanation": "Les faits justificatifs sont des circonstances objectives qui effacent le caractère punissable de l'acte lui-même : l'impunité est donc communiquée à tous les participants (auteur, coauteur, complice). À l'inverse, une cause de non-imputabilité tient à la situation personnelle d'un agent et ne profite qu'à celui-ci.",
+      "tags": ["faits justificatifs", "imputabilité"]
+    },
+    {
+      "id": "faits-just-qcm-008",
+      "question": "Une infraction est commise dans un cadre couvert par un fait justificatif. Quelle qualification procédurale n'est PAS une issue possible de cette neutralisation de l'élément légal ?",
+      "options": [
+        "Le classement sans suite",
+        "Le non-lieu",
+        "L'acquittement",
+        "Le prononcé d'une dispense de peine avec maintien de la condamnation"
+      ],
+      "answer": 3,
+      "explanation": "Le fait justificatif neutralise l'élément légal de l'infraction : les actes ne sont plus punissables. Selon la phase procédurale, cela aboutit à un classement sans suite, un non-lieu ou un acquittement, mais jamais à une condamnation, même assortie d'une dispense de peine, puisqu'il n'y a plus d'infraction caractérisée.",
+      "tags": ["effets", "élément légal"]
+    },
+    {
+      "id": "faits-just-qcm-009",
+      "question": "Le droit de correction parental, autrefois admis comme exercice d'un droit, a connu quelle évolution ?",
+      "options": [
+        "Il a été codifié et renforcé par la loi du 26 décembre 2019",
+        "Il a été aboli par la loi du 26 décembre 2019",
+        "Il demeure un fait justificatif autonome distinct de l'exercice d'un droit",
+        "Il n'a jamais été reconnu en droit français"
+      ],
+      "answer": 1,
+      "explanation": "Le droit de correction parental, qui relevait de l'exercice d'un droit, a été aboli par la loi du 26 décembre 2019. Il ne peut donc plus être invoqué comme fait justificatif fondé sur l'exercice d'un droit.",
+      "tags": ["exercice d'un droit"]
+    },
+    {
+      "id": "faits-just-qcm-010",
+      "question": "Dans l'arrêt Crim. 15 juin 2022 relatif aux « décrocheurs de portraits », pourquoi l'état de nécessité a-t-il été écarté ?",
+      "options": [
+        "Parce que les décrocheurs n'avaient invoqué aucun fait justificatif",
+        "Parce qu'il n'existait pas de danger actuel justifiant l'acte",
+        "Parce que la légitime défense était seule applicable",
+        "Parce que l'acte avait été commis de nuit dans un lieu habité"
+      ],
+      "answer": 1,
+      "explanation": "Dans cette affaire, la Cour de cassation a écarté l'état de nécessité au motif de l'absence de danger actuel justifiant les faits reprochés, l'une des conditions cumulatives de l'article 122-7 n'étant pas remplie.",
+      "tags": ["état de nécessité", "jurisprudence"]
+    },
+    {
+      "id": "faits-just-qcm-011",
+      "question": "Quel est le fondement textuel commun de la légitime défense des biens et des personnes ?",
+      "options": [
+        "Articles 122-5 et 122-6 du Code pénal",
+        "Article 122-4 du Code pénal uniquement",
+        "Article 122-7 du Code pénal",
+        "Article 121-3 du Code pénal"
+      ],
+      "answer": 0,
+      "explanation": "La légitime défense est régie par les articles 122-5 (conditions générales, applicable aux personnes et aux biens) et 122-6 (présomption légale dans certaines hypothèses), à la différence de l'article 122-4 (accomplissement d'un devoir) et de l'article 122-7 (état de nécessité).",
+      "tags": ["légitime défense", "article 122-5", "article 122-6"]
+    },
+    {
+      "id": "faits-just-qcm-012",
+      "question": "Une riposte à une agression est jugée excessive par rapport à la gravité de celle-ci, bien qu'elle soit immédiate. Quelle condition de la légitime défense fait défaut ?",
+      "options": [
+        "Le caractère injuste de l'agression",
+        "Le caractère actuel de l'agression",
+        "La proportionnalité de la riposte",
+        "Le caractère réel de l'agression"
+      ],
+      "answer": 2,
+      "explanation": "La riposte doit être nécessaire, proportionnée et simultanée à l'agression. Une riposte disproportionnée par rapport à la gravité de l'agression, même immédiate, fait défaut à la condition de proportionnalité et ne peut être couverte par la légitime défense (Crim. 6 juin 2018).",
+      "tags": ["légitime défense", "proportionnalité"]
+    }
+  ]
+}
