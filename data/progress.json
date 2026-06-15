@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781523910386,
+  "updatedAt": 1781523279843,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -169,6 +169,38 @@
       "correctCount": 1,
       "lastResult": "hit",
       "lastSeenAt": 1781520674963
+    },
+    "qualif-qcm-002": {
+      "level": 0,
+      "dueAt": 1781523159181,
+      "seenCount": 1,
+      "correctCount": 0,
+      "lastResult": "miss",
+      "lastSeenAt": 1781523159181
+    },
+    "qualif-qcm-008": {
+      "level": 1,
+      "dueAt": 1781609650192,
+      "seenCount": 2,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781523250192
+    },
+    "qualif-qcm-003": {
+      "level": 0,
+      "dueAt": 1781523219651,
+      "seenCount": 1,
+      "correctCount": 0,
+      "lastResult": "miss",
+      "lastSeenAt": 1781523219651
+    },
+    "qualif-qcm-007": {
+      "level": 0,
+      "dueAt": 1781523275841,
+      "seenCount": 1,
+      "correctCount": 0,
+      "lastResult": "miss",
+      "lastSeenAt": 1781523275841
     }
   }
 }

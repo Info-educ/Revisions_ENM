@@ -141,20 +141,6 @@ h1,h2,h3{ font-family: var(--font-display); margin: 0; }
 .dossier-card__figure{ font-family: var(--font-mono); font-size:1.6rem; font-weight:600; color: var(--ink); }
 .dossier-card__label{ font-size:.76rem; color: var(--muted); text-transform:uppercase; letter-spacing:.06em; }
 
-/* ===================== LEVEL BARS ===================== */
-.level-bars{ display:flex; flex-direction:column; gap:8px; }
-.level-bar-row{ display:flex; align-items:center; gap:10px; font-size:.78rem; }
-.level-bar-row .level-name{ width:84px; color: var(--muted); font-family: var(--font-mono); flex-shrink:0; }
-.level-bar-row .level-track{ flex:1; height:8px; border-radius:4px; background: var(--paper-edge); overflow:hidden; }
-.level-bar-row .level-fill{ height:100%; background: var(--ink); border-radius:4px; }
-.level-bar-row .level-count{ font-family: var(--font-mono); width:34px; text-align:right; color: var(--charcoal); }
-.level-bar-row:nth-child(1) .level-fill{ background: var(--garnet); }
-.level-bar-row:nth-child(2) .level-fill{ background: #b5612f; }
-.level-bar-row:nth-child(3) .level-fill{ background: var(--ochre); }
-.level-bar-row:nth-child(4) .level-fill{ background: #8a9b4e; }
-.level-bar-row:nth-child(5) .level-fill{ background: var(--seal-green); }
-.level-bar-row:nth-child(6) .level-fill{ background: var(--ink); }
-
 /* ===================== CHAPTER MANAGEMENT LIST ===================== */
 .chapter-manage-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:8px; }
 .chapter-manage-list li{

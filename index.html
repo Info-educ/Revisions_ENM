@@ -28,6 +28,7 @@
   <nav class="desktopbar">
     <button class="desktopbar__btn is-active" data-view="accueil">Accueil</button>
     <button class="desktopbar__btn" data-view="chapitres">Chapitres</button>
+    <button class="desktopbar__btn" data-view="revisions">Révisions</button>
     <button class="desktopbar__btn" data-view="reglages">Réglages</button>
   </nav>
 
@@ -48,7 +49,7 @@
     <div class="stamp-banner" id="due-banner">
       <div class="stamp-banner__count" id="due-count">0</div>
       <div class="stamp-banner__label">
-        <strong id="due-label">fiches &amp; QCM</strong> à traiter aujourd'hui
+        <strong id="due-label">fiches &amp; QCM</strong> peu maîtrisé(s) — toujours mélangé(s) au reste
       </div>
     </div>
 
@@ -61,9 +62,10 @@
 
     <h2 class="section-title">Nombre de questions par session</h2>
     <p class="hint-text">
-      Nombre de fiches/QCM proposés en une session, en commençant par ceux que
-      vous maîtrisez le moins. S'il en reste au-delà de cette limite, ils
-      seront proposés lors d'une prochaine session.
+      Nombre de fiches/QCM proposés en une session. Le tirage est aléatoire
+      mais privilégie ceux que vous maîtrisez le moins — sans jamais
+      exclure totalement les autres, qui peuvent donc revenir, même le
+      jour même d'une bonne réponse, simplement moins souvent.
     </p>
     <div class="segmented" id="session-size-segmented">
       <button data-size="10">10</button>
@@ -94,9 +96,6 @@
         <span class="dossier-card__label">Chapitres chargés</span>
       </div>
     </div>
-
-    <h2 class="section-title">Répartition par niveau de maîtrise</h2>
-    <div class="level-bars" id="level-bars" aria-hidden="true"></div>
   </section>
 
   <!-- ===================== SESSION ===================== -->
@@ -168,6 +167,34 @@
     <p class="hint-text">Pour ajouter un chapitre, déposez son fichier JSON dans <code>/data</code> et référencez-le dans <code>manifest.json</code>, puis republiez le site.</p>
   </section>
 
+  <!-- ===================== REVISIONS ===================== -->
+  <section id="view-revisions" class="view" data-view="revisions">
+    <div class="page-head">
+      <h1>Révisions</h1>
+      <p class="page-head__lede">Parcourez toutes les fiches et QCM d'une ou plusieurs thématiques, sans tenir compte de votre niveau de maîtrise</p>
+    </div>
+
+    <h2 class="section-title">Type de contenu</h2>
+    <div class="segmented" id="revision-type-segmented">
+      <button data-type="all">Fiches + QCM</button>
+      <button data-type="flashcard">Fiches seules</button>
+      <button data-type="qcm">QCM seuls</button>
+    </div>
+
+    <h2 class="section-title">Thématiques</h2>
+    <div class="btn-row">
+      <button class="btn btn--ghost" id="btn-select-all-chapters">Tout sélectionner</button>
+      <button class="btn btn--ghost" id="btn-select-none-chapters">Tout désélectionner</button>
+    </div>
+    <ul class="chapter-manage-list" id="revision-chapter-list"></ul>
+
+    <p class="hint-text" id="revision-summary"></p>
+
+    <button class="btn btn--primary btn--block" id="btn-start-revision">
+      Commencer la révision complète
+    </button>
+  </section>
+
   <!-- ===================== REGLAGES ===================== -->
   <section id="view-reglages" class="view" data-view="reglages">
     <div class="page-head">
@@ -230,6 +257,10 @@
   <button class="bottombar__btn" data-view="chapitres">
     <span class="bottombar__icon" aria-hidden="true">▤</span>
     <span>Chapitres</span>
+  </button>
+  <button class="bottombar__btn" data-view="revisions">
+    <span class="bottombar__icon" aria-hidden="true">↻</span>
+    <span>Révisions</span>
   </button>
   <button class="bottombar__btn" data-view="reglages">
     <span class="bottombar__icon" aria-hidden="true">✦</span>

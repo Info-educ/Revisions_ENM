@@ -6,9 +6,8 @@ import {
   applyResult,
   buildSessionQueue,
   requeueAfterMiss,
-  levelDistribution,
-  LEVEL_LABELS,
-  isDue,
+  shuffle,
+  shuffleQcmOptions,
 } from "./scheduler.js";
 import {
   loadProgress,
@@ -114,6 +113,23 @@ async function loadAllChapters() {
     }
     if (changed) saveSettings(state.settings);
   }
+
+  // Initialise la liste des chapitres sélectionnés pour l'onglet
+  // « Révisions » (indépendante des chapitres actifs des sessions).
+  if (!state.settings.revisionChapters) {
+    state.settings.revisionChapters = chaptersMeta.map((c) => c.id);
+    saveSettings(state.settings);
+  } else {
+    const known = new Set(state.settings.revisionChapters);
+    let changed = false;
+    for (const c of chaptersMeta) {
+      if (!known.has(c.id)) {
+        state.settings.revisionChapters.push(c.id);
+        changed = true;
+      }
+    }
+    if (changed) saveSettings(state.settings);
+  }
 }
 
 function getActiveItems() {
@@ -126,6 +142,21 @@ function getSessionItems() {
   const type = state.settings.sessionType || "all";
   if (type === "all") return items;
   return items.filter((it) => it.type === type);
+}
+
+/**
+ * Items pour l'onglet « Révisions » : tous les items des chapitres
+ * sélectionnés pour cet onglet, filtrés par type, sans tenir
+ * compte du niveau de maîtrise.
+ */
+function getRevisionItems() {
+  const selected = new Set(state.settings.revisionChapters || []);
+  const type = state.settings.revisionType || "all";
+  return state.allItems.filter((it) => {
+    if (!selected.has(it.chapterId)) return false;
+    if (type !== "all" && it.type !== type) return false;
+    return true;
+  });
 }
 
 function ensureProgressEntry(id) {
@@ -146,6 +177,7 @@ function showView(name) {
   });
   if (name === "accueil") renderDashboard();
   if (name === "chapitres") renderChapitres();
+  if (name === "revisions") renderRevisions();
   if (name === "reglages") renderReglages();
   window.scrollTo(0, 0);
 }
@@ -162,10 +194,13 @@ function setupNav() {
 function renderDashboard() {
   const items = getActiveItems();
   const sessionItems = getSessionItems();
-  const now = Date.now();
 
-  const dueCount = sessionItems.filter((it) => isDue(state.progress.get(it.id), now)).length;
-  $("#due-count").textContent = dueCount;
+  // Items "prioritaires" : peu ou pas maîtrisés (niveau ≤ 2).
+  // N'exclut rien de la session — sert uniquement d'indicateur.
+  const priorityCount = sessionItems.filter(
+    (it) => (state.progress.get(it.id)?.level ?? 0) <= 2
+  ).length;
+  $("#due-count").textContent = priorityCount;
   $("#due-label").textContent = {
     all: "fiches & QCM",
     flashcard: "fiches",
@@ -179,22 +214,6 @@ function renderDashboard() {
   $("#stat-mastered").textContent = masteredCount;
   $("#stat-new").textContent = newCount;
   $("#stat-chapters").textContent = state.chaptersMeta.length;
-
-  // Répartition par niveau
-  const dist = levelDistribution(items, state.progress);
-  const maxVal = Math.max(1, ...dist);
-  const levelBars = $("#level-bars");
-  levelBars.innerHTML = "";
-  dist.forEach((count, lvl) => {
-    const row = document.createElement("div");
-    row.className = "level-bar-row";
-    row.innerHTML = `
-      <span class="level-name">${LEVEL_LABELS[lvl]}</span>
-      <span class="level-track"><span class="level-fill" style="width:${(count / maxVal) * 100}%"></span></span>
-      <span class="level-count">${count}</span>
-    `;
-    levelBars.appendChild(row);
-  });
 }
 
 // ------------------------------------------------------------
@@ -203,12 +222,11 @@ function renderDashboard() {
 function renderChapitres() {
   const list = $("#chapter-manage-list");
   list.innerHTML = "";
-  const now = Date.now();
   const activeSet = new Set(state.settings.activeChapters || []);
 
   for (const ch of state.chaptersMeta) {
     const chItems = state.allItems.filter((it) => it.chapterId === ch.id);
-    const due = chItems.filter((it) => isDue(state.progress.get(it.id), now)).length;
+    const priority = chItems.filter((it) => (state.progress.get(it.id)?.level ?? 0) <= 2).length;
     const li = document.createElement("li");
     li.innerHTML = `
       <label class="chapter-toggle">
@@ -218,7 +236,7 @@ function renderChapitres() {
           <span class="chapter-manage-list__meta">${ch.counts.fc} fiches · ${ch.counts.qcm} QCM${ch.category ? " · " + escapeHtml(ch.category) : ""}</span>
         </span>
       </label>
-      <span class="chapter-due-badge ${due === 0 ? "is-zero" : ""}">${due}</span>
+      <span class="chapter-due-badge ${priority === 0 ? "is-zero" : ""}" title="Items peu maîtrisés">${priority}</span>
     `;
     list.appendChild(li);
   }
@@ -268,6 +286,110 @@ function setupSessionSize() {
     });
   });
   renderSessionSizeSegmented();
+}
+
+// ------------------------------------------------------------
+// Vue Révisions (parcours complet par thématiques, sans tenir
+// compte du niveau de maîtrise)
+// ------------------------------------------------------------
+function renderRevisions() {
+  const list = $("#revision-chapter-list");
+  list.innerHTML = "";
+  const selected = new Set(state.settings.revisionChapters || []);
+
+  for (const ch of state.chaptersMeta) {
+    const li = document.createElement("li");
+    li.innerHTML = `
+      <label class="chapter-toggle">
+        <input type="checkbox" data-chapter="${ch.id}" ${selected.has(ch.id) ? "checked" : ""}>
+        <span class="chapter-toggle__text">
+          <span class="chapter-manage-list__title">${escapeHtml(ch.title)}</span>
+          <span class="chapter-manage-list__meta">${ch.counts.fc} fiches · ${ch.counts.qcm} QCM${ch.category ? " · " + escapeHtml(ch.category) : ""}</span>
+        </span>
+      </label>
+    `;
+    list.appendChild(li);
+  }
+
+  $$("#revision-chapter-list input[type=checkbox]").forEach((cb) => {
+    cb.addEventListener("change", () => {
+      const id = cb.dataset.chapter;
+      const set = new Set(state.settings.revisionChapters || []);
+      if (cb.checked) set.add(id);
+      else set.delete(id);
+      state.settings.revisionChapters = [...set];
+      saveSettings(state.settings);
+      renderRevisionsSummary();
+    });
+  });
+
+  renderRevisionTypeSegmented();
+  renderRevisionsSummary();
+}
+
+function renderRevisionsSummary() {
+  const items = getRevisionItems();
+  const fc = items.filter((it) => it.type === "flashcard").length;
+  const qcm = items.filter((it) => it.type === "qcm").length;
+  $("#revision-summary").textContent =
+    items.length === 0
+      ? "Aucun item ne correspond à cette sélection."
+      : `${items.length} item${items.length > 1 ? "s" : ""} (${fc} fiche${fc > 1 ? "s" : ""}, ${qcm} QCM) seront proposés, dans un ordre aléatoire.`;
+}
+
+function renderRevisionTypeSegmented() {
+  $$("#revision-type-segmented button").forEach((btn) => {
+    btn.classList.toggle("is-active", btn.dataset.type === (state.settings.revisionType || "all"));
+  });
+}
+
+function setupRevisions() {
+  $$("#revision-type-segmented button").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      state.settings.revisionType = btn.dataset.type;
+      saveSettings(state.settings);
+      renderRevisionTypeSegmented();
+      renderRevisionsSummary();
+    });
+  });
+
+  $("#btn-select-all-chapters").addEventListener("click", () => {
+    state.settings.revisionChapters = state.chaptersMeta.map((c) => c.id);
+    saveSettings(state.settings);
+    renderRevisions();
+  });
+
+  $("#btn-select-none-chapters").addEventListener("click", () => {
+    state.settings.revisionChapters = [];
+    saveSettings(state.settings);
+    renderRevisions();
+  });
+
+  $("#btn-start-revision").addEventListener("click", startRevisionSession);
+}
+
+function startRevisionSession() {
+  const items = getRevisionItems();
+
+  if (items.length === 0) {
+    alert("Aucun item ne correspond à cette sélection. Cochez au moins un chapitre.");
+    return;
+  }
+
+  const queue = shuffle(items);
+
+  state.session = {
+    queue,
+    total: queue.length,
+    validatedCount: 0,
+    current: null,
+  };
+
+  showView("session");
+  $("#session-end").hidden = true;
+  $("#fc-controls").hidden = true;
+  $("#qcm-controls").hidden = true;
+  nextCard();
 }
 
 // ------------------------------------------------------------
@@ -456,7 +578,7 @@ function startSession() {
   if (queue.length === 0) {
     showView("accueil");
     const typeLabel = { all: "fiches et QCM", flashcard: "fiches", qcm: "QCM" }[state.settings.sessionType || "all"];
-    alert(`Rien à réviser pour le moment (${typeLabel}) — tous les items actifs sont à jour. Revenez plus tard, changez de type de session, ou activez d'autres chapitres.`);
+    alert(`Aucun item disponible (${typeLabel}) — activez au moins un chapitre dans l'onglet Chapitres, ou changez de type de session.`);
     return;
   }
 
@@ -484,7 +606,7 @@ function endSession() {
   end.hidden = false;
   $("#session-end-summary").textContent =
     `${state.session.total} item${state.session.total > 1 ? "s" : ""} traité${state.session.total > 1 ? "s" : ""}. ` +
-    `Revenez quand de nouveaux items seront dus pour ancrer durablement vos connaissances.`;
+    `Revenez quand vous voulez pour une nouvelle session : les items les moins maîtrisés reviendront plus souvent.`;
 
   $("#session-progress-fill").style.width = "100%";
   $("#session-progress-text").textContent = `${state.session.total} / ${state.session.total}`;
@@ -546,11 +668,16 @@ function renderQcm(item) {
   explanation.hidden = true;
   explanation.innerHTML = "";
 
+  // Mélange l'ordre des propositions à chaque présentation, afin
+  // que la bonne réponse ne soit pas toujours à la même position.
+  const display = shuffleQcmOptions(item);
+  state.session.currentDisplay = display;
+
   const optionsEl = $("#qcm-options");
   optionsEl.innerHTML = "";
   const letters = ["A", "B", "C", "D", "E", "F"];
 
-  item.options.forEach((opt, idx) => {
+  display.options.forEach((opt, idx) => {
     const btn = document.createElement("button");
     btn.className = "qcm-option";
     btn.innerHTML = `<span class="qcm-option__letter">${letters[idx] || idx + 1}</span><span>${escapeHtml(opt)}</span>`;
@@ -560,12 +687,14 @@ function renderQcm(item) {
 }
 
 function handleQcmAnswer(item, chosenIdx) {
-  const correct = chosenIdx === item.answer;
+  const display = state.session.currentDisplay;
+  const correctIdx = display ? display.answer : item.answer;
+  const correct = chosenIdx === correctIdx;
   const buttons = $$("#qcm-options .qcm-option");
   buttons.forEach((btn, idx) => {
     btn.classList.add("is-disabled");
-    if (idx === item.answer) btn.classList.add("is-correct");
-    if (idx === chosenIdx && idx !== item.answer) btn.classList.add("is-incorrect");
+    if (idx === correctIdx) btn.classList.add("is-correct");
+    if (idx === chosenIdx && idx !== correctIdx) btn.classList.add("is-incorrect");
   });
 
   if (item.explanation) {
@@ -670,6 +799,7 @@ async function init() {
   setupReglages();
   setupSessionType();
   setupSessionSize();
+  setupRevisions();
   setupFlashcardHandlers();
   setupQuitSession();
 
