@@ -59,6 +59,12 @@
       "file": "tentative.json",
       "title": "La tentative",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "complicite",
+      "file": "complicite.json",
+      "title": "La complicité",
+      "category": "Droit pénal général"
     }
   ]
 }
