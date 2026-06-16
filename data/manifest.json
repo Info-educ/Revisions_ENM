@@ -71,6 +71,12 @@
       "file": "element-moral-infraction.json",
       "title": "L'élément moral de l'infraction",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "imputabilite-delinquant",
+      "file": "imputabilite-delinquant.json",
+      "title": "L'imputabilité du délinquant",
+      "category": "Droit pénal général"
     }
   ]
 }
