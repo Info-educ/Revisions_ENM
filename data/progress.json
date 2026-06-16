@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781614226333,
+  "updatedAt": 1781614249287,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -815,6 +815,13 @@
       "correctCount": 0,
       "lastResult": "miss",
       "lastSeenAt": 1781614222331
+    },
+    "justice-fr-qcm-021": {
+      "level": 1,
+      "seenCount": 1,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781614245285
     }
   }
 }
