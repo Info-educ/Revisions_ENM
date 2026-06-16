@@ -65,6 +65,12 @@
       "file": "complicite.json",
       "title": "La complicité",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "element-moral-infraction",
+      "file": "element-moral-infraction.json",
+      "title": "L'élément moral de l'infraction",
+      "category": "Droit pénal général"
     }
   ]
 }
