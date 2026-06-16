@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781624494240,
+  "updatedAt": 1781624499077,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -1104,11 +1104,11 @@
       "lastSeenAt": 1781624422520
     },
     "imputabilite-qcm-004": {
-      "level": 0,
-      "seenCount": 3,
-      "correctCount": 0,
-      "lastResult": "miss",
-      "lastSeenAt": 1781624484297
+      "level": 1,
+      "seenCount": 4,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781624495072
     }
   }
 }
