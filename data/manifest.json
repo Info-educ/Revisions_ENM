@@ -53,6 +53,12 @@
       "file": "hierarchie-normes.json",
       "title": "La hiérarchie des normes",
       "category": "Droit constitutionnel"
+    },
+    {
+      "id": "tentative",
+      "file": "tentative.json",
+      "title": "La tentative",
+      "category": "Droit pénal général"
     }
   ]
 }

@@ -1,0 +1,187 @@
+{
+  "id": "tentative",
+  "title": "La tentative",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "tentative-fc-001",
+      "front": "Qu'est-ce que l'iter criminis et à partir de quel stade le droit pénal intervient-il ?",
+      "back": "L'iter criminis désigne le cheminement en 6 étapes vers la commission d'une infraction : résolution criminelle, décision, extériorisation, actes préparatoires, commencement d'exécution, consommation. Le droit pénal n'intervient qu'à partir du commencement d'exécution (5e stade) : c'est un choix de politique pénale qui privilégie la protection de la société (punir avant que l'infraction ne soit consommée) tout en respectant la liberté individuelle (les simples pensées et actes préparatoires restent impunis).",
+      "tags": ["iter criminis", "commencement d'exécution"]
+    },
+    {
+      "id": "tentative-fc-002",
+      "front": "Quelles sont les deux conditions cumulatives posées par l'article 121-5 du Code pénal pour caractériser la tentative interrompue ?",
+      "back": "L'article 121-5 du Code pénal exige la réunion de deux conditions cumulatives : (1) un commencement d'exécution et (2) une interruption due à des circonstances indépendantes de la volonté de l'auteur (interruption involontaire). À défaut de la seconde condition — si l'auteur renonce librement — la tentative n'est pas punissable (désistement volontaire).",
+      "tags": ["article 121-5", "tentative interrompue"]
+    },
+    {
+      "id": "tentative-fc-003",
+      "front": "Quels sont les quatre systèmes doctrinaux et jurisprudentiels proposés pour définir le commencement d'exécution ?",
+      "back": "Système objectif (Ortolan, Chauveau) : l'acte matériel doit constituer un élément constitutif ou une circonstance aggravante de l'infraction. Système subjectif (Donnedieu de Vabres) : ce qui compte est l'intention irrévocable de l'agent. Système mixte (Garraud, Carrara) : un acte matériel doit révéler une intention irrévocable (combine objectif et subjectif). Position de la jurisprudence (Crim.) : un acte tendant directement à la consommation, accompagné de l'intention de commettre l'infraction.",
+      "tags": ["commencement d'exécution", "doctrine"]
+    },
+    {
+      "id": "tentative-fc-004",
+      "front": "Qu'est-ce que l'interruption involontaire et quel est son effet sur la tentative ?",
+      "back": "C'est l'arrêt du projet criminel provoqué par une cause extérieure à la volonté de l'auteur (par exemple l'arrivée de la police ou la résistance de la victime). Dès lors que le commencement d'exécution est caractérisé, cette interruption laisse la tentative punissable : les éléments constitutifs de l'infraction tentée sont réunis dès ce stade, même si l'arrêt survient tôt.",
+      "tags": ["interruption involontaire"]
+    },
+    {
+      "id": "tentative-fc-005",
+      "front": "Qu'est-ce que le désistement volontaire et à quelle condition de moment doit-il intervenir pour entraîner l'impunité ?",
+      "back": "Le désistement volontaire est la renonciation spontanée et libre de l'auteur à poursuivre son projet criminel jusqu'à son terme. Ce qui importe, selon l'article 121-5, c'est la décision d'arrêter — quels qu'en soient les motifs. Pour entraîner l'impunité, ce désistement doit intervenir avant la consommation de l'infraction.",
+      "tags": ["désistement volontaire", "article 121-5"]
+    },
+    {
+      "id": "tentative-fc-006",
+      "front": "Qu'est-ce que le repentir actif et quelle conséquence juridique entraîne-t-il ?",
+      "back": "Le repentir actif est le fait, pour l'auteur, de revenir sur son acte après que l'infraction a déjà été consommée (le désistement volontaire n'est alors plus possible). Il n'entraîne pas l'impunité, mais peut ouvrir droit à une dispense de peine ou une exemption dans certains cas prévus par la loi (par exemple art. 132-59 et 450-2 du Code pénal).",
+      "tags": ["repentir actif"]
+    },
+    {
+      "id": "tentative-fc-007",
+      "front": "Quelle distinction la jurisprudence opère-t-elle entre impossibilité de fait et impossibilité de droit en matière de tentative infructueuse, et avec quelle conséquence ?",
+      "back": "L'impossibilité de fait (l'objet de l'infraction est absent ou inadapté, par exemple un coffre-fort vide) est traitée comme une tentative punissable selon la jurisprudence (arrêts Époux Fleury, Joâo). L'impossibilité de droit (le comportement n'est tout simplement pas incriminé dans la situation considérée, par exemple un avortement pratiqué sur une femme qui n'est pas enceinte) impose en revanche l'impunité, en application du principe de légalité.",
+      "tags": ["infraction impossible", "impossibilité de fait", "impossibilité de droit"]
+    },
+    {
+      "id": "tentative-fc-008",
+      "front": "Quelles sont les deux thèses doctrinales classiques sur la répression de la tentative infructueuse (infraction impossible) ?",
+      "back": "La doctrine objectiviste (Rossi, Chauveau et Hélie) refuse toute répression : si le résultat était matériellement impossible, il n'y a aucun trouble social à sanctionner. La doctrine subjectiviste (Saleilles) défend au contraire une répression systématique, car l'acte révèle un état dangereux chez son auteur — seul le hasard a empêché la réalisation de l'infraction.",
+      "tags": ["tentative infructueuse", "doctrine"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "tentative-qcm-001",
+      "question": "Quelle est la principale critique adressée au système objectif (Ortolan, Chauveau) de définition du commencement d'exécution ?",
+      "options": [
+        "Il punit la simple pensée criminelle dès le premier stade de l'iter criminis",
+        "Il trace une frontière trop floue avec les actes préparatoires, au détriment de la sécurité juridique",
+        "Il est trop tardif et laisse impunies des conduites manifestement délictueuses, comme une soustraction frauduleuse restée au stade de l'acte préparatoire",
+        "Il ne permet pas de distinguer la tentative interrompue de la tentative infructueuse"
+      ],
+      "answer": 2,
+      "explanation": "Le système objectif exige un acte matériel constitutif ou aggravant de l'infraction : il est donc critiqué comme trop tardif, laissant impunis des comportements pourtant clairement délictueux (ex. soustraction frauduleuse non encore réalisée). La critique tenant à la punition de la simple pensée criminelle vise en réalité le système subjectif, et celle portant sur une frontière floue avec les actes préparatoires vise le système mixte.",
+      "tags": ["commencement d'exécution", "système objectif"]
+    },
+    {
+      "id": "tentative-qcm-002",
+      "question": "Dans l'affaire Lacour, un individu remet une somme d'argent à un tiers pour que celui-ci tue une personne déterminée. La Cour de cassation a-t-elle retenu un commencement d'exécution du meurtre ?",
+      "options": [
+        "Non, la remise de fonds ne constitue pas un commencement d'exécution du meurtre lui-même, faute d'acte tendant directement à sa consommation",
+        "Oui, la remise des fonds constitue en elle-même un acte tendant directement à la consommation du meurtre",
+        "Oui, car l'intention irrévocable de l'instigateur suffit à elle seule à caractériser le commencement d'exécution",
+        "Non, car aucune tentative de meurtre ne peut être imputée à un instigateur, quelles que soient les circonstances"
+      ],
+      "answer": 0,
+      "explanation": "Dans l'arrêt Lacour, la chambre criminelle refuse de voir dans la simple remise de fonds destinés à rémunérer un homicide un commencement d'exécution du meurtre lui-même : cet acte ne tend pas directement à la consommation de l'infraction visée. Affirmer que la seule intention irrévocable de l'instigateur suffirait revient à appliquer le critère purement subjectif, écarté par la jurisprudence au profit du critère mixte (acte + intention).",
+      "tags": ["lacour", "commencement d'exécution"]
+    },
+    {
+      "id": "tentative-qcm-003",
+      "question": "Dans l'affaire dite des Magasins du Louvre, des individus arrivent armés et déguisés sur les lieux d'un hold-up préparé, juste avant de passer à l'action. Comment la jurisprudence qualifie-t-elle ces faits ?",
+      "options": [
+        "Une infraction impossible, faute d'objet à dérober",
+        "De simples actes préparatoires, car aucun coup de feu n'a encore été tiré",
+        "Un désistement volontaire, les faits n'ayant pas été consommés",
+        "Un commencement d'exécution du vol à main armée"
+      ],
+      "answer": 3,
+      "explanation": "À la différence de l'affaire Lacour, les circonstances ici (préparation aboutie, présence sur les lieux, armement) caractérisent un acte tendant directement à la consommation du vol à main armée : la jurisprudence retient un commencement d'exécution, sans attendre que le premier coup de feu soit tiré.",
+      "tags": ["magasins du louvre", "commencement d'exécution"]
+    },
+    {
+      "id": "tentative-qcm-004",
+      "question": "Un individu renonce à poursuivre son projet délictueux après avoir appris une information qui l'inquiète, mais sans qu'aucune intervention extérieure ne l'empêche matériellement d'agir. Selon la solution retenue dans l'arrêt Berchem, ce désistement est-il volontaire ?",
+      "options": [
+        "Non, dès qu'un facteur extérieur a influencé la décision, le désistement est nécessairement involontaire",
+        "Oui, ce qui compte est que la décision d'arrêter reste propre à l'agent, quel qu'en soit le motif déclenchant",
+        "Non, seul un désistement motivé par un remords moral peut être qualifié de volontaire",
+        "Cela dépend uniquement de la gravité de l'infraction projetée"
+      ],
+      "answer": 1,
+      "explanation": "L'arrêt Berchem précise qu'un motif d'origine externe n'exclut pas la qualification de désistement volontaire, tant que la décision d'arrêter reste celle de l'agent lui-même : l'article 121-5 ne distingue pas selon les motifs de cette décision. Une contrainte matérielle empêchant réellement l'action caractériserait en revanche une interruption involontaire, non un désistement.",
+      "tags": ["berchem", "désistement volontaire"]
+    },
+    {
+      "id": "tentative-qcm-005",
+      "question": "Un voleur s'empare d'un bien puis, pris de remords, le restitue à sa victime le lendemain. Peut-il invoquer le désistement volontaire pour échapper à toute condamnation ?",
+      "options": [
+        "Oui, la restitution spontanée équivaut à un désistement volontaire",
+        "Oui, dès lors que la victime ne subit plus aucun préjudice",
+        "Non, le vol était déjà consommé au moment de la restitution : il s'agit d'un repentir actif, qui n'efface pas l'infraction mais peut seulement ouvrir droit à une atténuation dans les cas prévus par la loi",
+        "Non, car le repentir actif est toujours sans aucune incidence sur la peine"
+      ],
+      "answer": 2,
+      "explanation": "Le désistement volontaire ne peut intervenir qu'avant la consommation de l'infraction. Une fois le vol consommé, la restitution ultérieure relève du repentir actif, qui ne fait pas disparaître l'infraction mais peut, dans certains cas prévus par la loi (par ex. art. 132-59, 450-2 C. pén.), permettre une dispense de peine — il serait donc inexact d'affirmer que le repentir actif est toujours sans incidence sur la peine.",
+      "tags": ["repentir actif", "désistement volontaire"]
+    },
+    {
+      "id": "tentative-qcm-006",
+      "question": "Un cambrioleur force un coffre-fort qui se révèle vide. Comment la jurisprudence traite-t-elle cette hypothèse d'infraction impossible ?",
+      "options": [
+        "Comme une impossibilité de fait : la tentative est punissable si les conditions de la tentative interrompue sont par ailleurs réunies",
+        "Comme une impossibilité de droit, entraînant l'impunité",
+        "Comme un désistement volontaire, faute de préjudice causé",
+        "Comme un fait justificatif excluant toute responsabilité pénale"
+      ],
+      "answer": 0,
+      "explanation": "L'absence de contenu dans le coffre est une impossibilité purement factuelle et circonstancielle (impossibilité de fait) : l'objet du vol existe en principe, le hasard a seulement voulu qu'il soit absent ici. Depuis les arrêts Époux Fleury et Joâo, la jurisprudence punit ce type de tentative dès que le commencement d'exécution et l'absence de désistement volontaire sont par ailleurs caractérisés.",
+      "tags": ["impossibilité de fait", "infraction impossible"]
+    },
+    {
+      "id": "tentative-qcm-007",
+      "question": "Une personne pratique une manœuvre abortive sur une femme qui, en réalité, n'est pas enceinte. Pourquoi cette hypothèse est-elle classiquement analysée comme une impossibilité de droit conduisant à l'impunité ?",
+      "options": [
+        "Parce que l'auteur n'avait pas l'intention de commettre une infraction",
+        "Parce que la victime n'a subi aucun dommage corporel",
+        "Parce que la tentative d'avortement n'est jamais punissable, quelles que soient les circonstances",
+        "Parce que l'absence de grossesse retire au comportement tout élément constitutif de l'infraction d'avortement, qui ne peut alors être incriminé en tant que tel"
+      ],
+      "answer": 3,
+      "explanation": "Contrairement à l'impossibilité de fait, l'impossibilité de droit tient à l'absence même d'un élément requis par le texte d'incrimination (ici la grossesse) : le comportement n'entre dans aucune qualification pénale existante, et le principe de légalité interdit de le réprimer par analogie. Ce raisonnement ne concerne que cette configuration précise, et non l'ensemble des tentatives d'avortement.",
+      "tags": ["impossibilité de droit", "infraction impossible"]
+    },
+    {
+      "id": "tentative-qcm-008",
+      "question": "Dans l'affaire Perdereau, un individu porte des coups mortels à une personne qu'il croit vivante mais qui est en réalité déjà décédée. Quelle solution la chambre criminelle retient-elle, et quelle difficulté cela soulève-t-il au regard du principe de légalité ?",
+      "options": [
+        "L'impunité, car aucun texte n'incrimine le « meurtre » d'un cadavre",
+        "La condamnation pour tentative de meurtre, en raison de l'intention irrévocable de l'auteur — solution critiquée (notamment par Pradel) car aucune incrimination spéciale ne vise expressément ce cas",
+        "La requalification automatique des faits en violences sur autrui sans intention de tuer",
+        "Le renvoi de l'affaire devant le législateur pour création d'une incrimination spécifique"
+      ],
+      "answer": 1,
+      "explanation": "La chambre criminelle condamne pour tentative de meurtre, retenant que l'intention irrévocable de tuer suffit malgré l'impossibilité matérielle du résultat. Cette solution est discutée : une partie de la doctrine, dont Pradel, souligne la tension avec le principe de légalité, puisqu'aucun texte n'incrimine spécifiquement le fait de porter des coups mortels à un cadavre.",
+      "tags": ["perdereau", "tension légalité"]
+    },
+    {
+      "id": "tentative-qcm-009",
+      "question": "Pour produire un effet impunissant, à quel moment précis le désistement volontaire doit-il intervenir ?",
+      "options": [
+        "Avant la consommation de l'infraction",
+        "Avant le commencement d'exécution",
+        "Entre la décision et l'extériorisation du projet criminel",
+        "À tout moment, y compris après la consommation, dès lors que le repentir est sincère"
+      ],
+      "answer": 0,
+      "explanation": "Le désistement volontaire suppose nécessairement qu'un commencement d'exécution ait déjà eu lieu (sinon il n'y a pas même de tentative à apprécier) ; il doit intervenir avant la consommation de l'infraction pour entraîner l'impunité. Passé ce stade, on bascule dans le repentir actif, qui ne produit pas le même effet d'impunité.",
+      "tags": ["désistement volontaire", "article 121-5"]
+    },
+    {
+      "id": "tentative-qcm-010",
+      "question": "Un cambrioleur escalade le mur d'une propriété, prêt à s'introduire dans les lieux, puis renonce de lui-même à entrer, sans qu'aucune intervention extérieure ne l'en ait empêché. Quelle est la qualification pénale de ces faits ?",
+      "options": [
+        "Infraction consommée, dès l'escalade du mur",
+        "Infraction impossible, faute d'objet déterminé",
+        "Tentative punissable, car le commencement d'exécution est caractérisé",
+        "Tentative impunie, car le désistement volontaire fait obstacle à la seconde condition cumulative posée par l'article 121-5"
+      ],
+      "answer": 3,
+      "explanation": "Si l'escalade peut caractériser un commencement d'exécution, la seconde condition cumulative exigée par l'article 121-5 — l'interruption involontaire — fait ici défaut : l'auteur a renoncé librement, sans cause extérieure. Ce désistement volontaire fait obstacle à la répression, quand bien même le commencement d'exécution serait établi.",
+      "tags": ["désistement volontaire", "tentative interrompue"]
+    }
+  ]
+}
