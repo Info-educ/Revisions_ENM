@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781624426523,
+  "updatedAt": 1781624432454,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -566,10 +566,10 @@
     },
     "tentative-qcm-005": {
       "level": 0,
-      "seenCount": 1,
+      "seenCount": 2,
       "correctCount": 0,
       "lastResult": "miss",
-      "lastSeenAt": 1781613189503
+      "lastSeenAt": 1781624428452
     },
     "element-moral-qcm-008": {
       "level": 1,
