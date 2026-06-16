@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781624464725,
+  "updatedAt": 1781624488299,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -1083,11 +1083,11 @@
       "lastSeenAt": 1781624305316
     },
     "imputabilite-qcm-009": {
-      "level": 0,
-      "seenCount": 1,
-      "correctCount": 0,
-      "lastResult": "miss",
-      "lastSeenAt": 1781624390121
+      "level": 1,
+      "seenCount": 2,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781624482225
     },
     "controle-norme-qcm-002": {
       "level": 1,
@@ -1105,10 +1105,10 @@
     },
     "imputabilite-qcm-004": {
       "level": 0,
-      "seenCount": 2,
+      "seenCount": 3,
       "correctCount": 0,
       "lastResult": "miss",
-      "lastSeenAt": 1781624460722
+      "lastSeenAt": 1781624484297
     }
   }
 }
