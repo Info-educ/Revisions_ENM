@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781617607590,
+  "updatedAt": 1781617620645,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -915,11 +915,11 @@
       "lastSeenAt": 1781617545578
     },
     "justice-fr-qcm-026": {
-      "level": 0,
-      "seenCount": 1,
-      "correctCount": 0,
-      "lastResult": "miss",
-      "lastSeenAt": 1781617563877
+      "level": 1,
+      "seenCount": 2,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781617616643
     },
     "controle-norme-qcm-009": {
       "level": 1,
@@ -927,6 +927,13 @@
       "correctCount": 1,
       "lastResult": "hit",
       "lastSeenAt": 1781617594441
+    },
+    "faits-just-qcm-012": {
+      "level": 1,
+      "seenCount": 1,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781617612766
     }
   }
 }
