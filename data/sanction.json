@@ -1,0 +1,276 @@
+{
+  "id": "sanction",
+  "title": "La sanction",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "sanction-fc-001",
+      "front": "Quelle est la différence fondamentale entre une peine et une mesure de sûreté ?",
+      "back": "La peine est une réaction sociale contre le responsable pénal, destinée à lui faire subir un mal (caractère afflictif et infamant). La mesure de sûreté est une mesure de protection sociale à finalité préventive, destinée à neutraliser l'état dangereux d'une personne ; elle n'a pas de caractère afflictif, infamant ou définitif et reste révisable selon l'évolution de la dangerosité.",
+      "tags": ["peine", "mesure de sûreté"]
+    },
+    {
+      "id": "sanction-fc-002",
+      "front": "Quels sont les cinq caractères de la peine énoncés à l'article 131-1 du Code pénal ?",
+      "back": "La peine est afflictive, infamante, légale, égalitaire et personnelle. Elle est prononcée par la juridiction de jugement.",
+      "tags": ["article 131-1", "caractères de la peine"]
+    },
+    {
+      "id": "sanction-fc-003",
+      "front": "Quelles sont les quatre fonctions traditionnellement attribuées à la peine ?",
+      "back": "La fonction rétributive (rendre le mal pour le mal, fonction principale mais critiquée), la fonction d'intimidation/prévention générale (détourner les tiers de l'infraction), la fonction d'amendement/réadaptation (réinsérer le condamné) et la fonction d'élimination (disparition progressive, par exemple la suppression de la peine de mort en 1981).",
+      "tags": ["fonctions de la peine"]
+    },
+    {
+      "id": "sanction-fc-004",
+      "front": "Quelles sont les peines principales encourues en matière criminelle selon l'article 131-1 du Code pénal ?",
+      "back": "La réclusion ou la détention criminelle, d'une durée minimale de 10 ans en principe et pouvant aller jusqu'à la perpétuité (30 ans maximum pour la criminelle à temps), ainsi qu'une amende pouvant atteindre 150 000 € et plus. La peine de mort a été abolie par la loi du 9 octobre 1981.",
+      "tags": ["crimes", "article 131-1"]
+    },
+    {
+      "id": "sanction-fc-005",
+      "front": "Comment se décompose l'échelle des peines d'emprisonnement encourues pour un délit ?",
+      "back": "L'emprisonnement délictuel comporte deux degrés et s'échelonne selon un maximum de 10 ans, puis 5 ans, 3 ans, 2 ans et 6 mois selon la gravité du délit, dans le cadre fixé par l'article 131-3 du Code pénal.",
+      "tags": ["délits", "article 131-3"]
+    },
+    {
+      "id": "sanction-fc-006",
+      "front": "Quel est le montant de l'amende contraventionnelle encouru selon la classe de la contravention ?",
+      "back": "38 € pour la 1ʳᵉ classe, 150 € pour la 2ᵉ, 450 € pour la 3ᵉ, 750 € pour la 4ᵉ et 1 500 € pour la 5ᵉ classe (portée à 3 000 € en cas de récidive), conformément à l'article 131-12 du Code pénal. Aucune peine privative de liberté n'est encourue pour une contravention.",
+      "tags": ["contraventions", "article 131-12"]
+    },
+    {
+      "id": "sanction-fc-007",
+      "front": "Qu'est-ce que la détention à domicile sous surveillance électronique (DDSE) ?",
+      "back": "Issue de la loi Belloubet du 23 mars 2019, c'est une peine autonome d'une durée comprise entre 15 jours et 6 mois, qui s'inscrit dans le mouvement de développement des peines de substitution à l'emprisonnement pour les délits (avec le TIG, le jour-amende et le stage de citoyenneté).",
+      "tags": ["ddse", "loi belloubet 2019"]
+    },
+    {
+      "id": "sanction-fc-008",
+      "front": "Que prévoit l'article 132-1 du Code pénal sur le choix de la peine par le juge ?",
+      "back": "La juridiction de jugement dispose d'une liberté discrétionnaire dans la limite du maximum légal et détermine la peine en fonction des circonstances de l'infraction et de la personnalité de son auteur (art. 132-1 al. 3).",
+      "tags": ["article 132-1", "individualisation"]
+    },
+    {
+      "id": "sanction-fc-009",
+      "front": "Quelles sont les conditions du sursis simple prévu à l'article 132-29 du Code pénal ?",
+      "back": "Le sursis simple suspend l'exécution de la peine pour une durée de 5 ans pour les crimes et délits, 2 ans pour certains délits, et au maximum pour les contraventions de la 4ᵉ classe, à condition que le condamné ne commette pas de nouvelle infraction pendant ce délai.",
+      "tags": ["sursis simple", "article 132-29"]
+    },
+    {
+      "id": "sanction-fc-010",
+      "front": "Qu'est-ce que le sursis probatoire et en quoi se distingue-t-il du sursis simple ?",
+      "back": "Issu de la loi Belloubet du 23 mars 2019 (art. 132-40 et suivants, ex-sursis avec mise à l'épreuve), il soumet le condamné à des obligations fixées par la juridiction de jugement (formation professionnelle, soins, indemnisation de la victime) sous un suivi pluridisciplinaire et évolutif, alors que le sursis simple ne comporte aucune obligation particulière.",
+      "tags": ["sursis probatoire", "article 132-40"]
+    },
+    {
+      "id": "sanction-fc-011",
+      "front": "Qu'est-ce que la période de sûreté prévue à l'article 132-23 du Code pénal ?",
+      "back": "C'est une période pendant laquelle toute mesure de clémence est interdite, correspondant en principe aux deux tiers de la peine ou à 18 ans en cas de réclusion à perpétuité. Elle est obligatoire pour certaines infractions graves (assassinat, viol, proxénétisme aggravé...) et peut être relevée si des gages sérieux de réadaptation sont apportés.",
+      "tags": ["période de sûreté", "article 132-23"]
+    },
+    {
+      "id": "sanction-fc-012",
+      "front": "Quels sont les six modes d'extinction de la sanction pénale ?",
+      "back": "L'exécution (mode normal), le décès du condamné ou la dissolution de la personne morale, la prescription de la peine, la grâce, l'amnistie et la réhabilitation.",
+      "tags": ["extinction de la peine"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "sanction-qcm-001",
+      "question": "Une personne est condamnée pour une infraction au code de la route à la fois à une amende et à la suppression de son permis de conduire. Que démontre cette situation ?",
+      "options": [
+        "La coexistence d'une peine (amende) et d'une mesure de sûreté (suppression du permis) est possible malgré leur opposition de nature",
+        "Les deux sanctions sont nécessairement des peines au sens strict, ce qui serait contraire au principe non bis in idem",
+        "La suppression du permis se substitue obligatoirement à l'amende en vertu du principe de proportionnalité",
+        "Une telle situation est irrégulière, une seule sanction pouvant être prononcée par décision de justice"
+      ],
+      "answer": 0,
+      "explanation": "Bien que la peine et la mesure de sûreté soient radicalement opposées par leur nature (afflictive/personnelle vs préventive/révisable), leur coexistence est admise par le Code pénal, qui prévoit même un quantum doublé en pareille hypothèse (art. 131-11 C. pén.). La suppression du permis de conduire relève ici d'une mesure de sûreté distincte de l'amende.",
+      "tags": ["peine", "mesure de sûreté"]
+    },
+    {
+      "id": "sanction-qcm-002",
+      "question": "Quelle est la durée maximale de la réclusion criminelle à temps prévue par le Code pénal ?",
+      "options": [
+        "20 ans",
+        "30 ans",
+        "25 ans",
+        "Aucune limite, hors hypothèse de perpétuité"
+      ],
+      "answer": 1,
+      "explanation": "La réclusion ou détention criminelle à temps est encadrée par un maximum de 30 ans, au-delà duquel seule la perpétuité peut être prononcée (art. 131-1 C. pén.). La confusion fréquente consiste à retenir 20 ou 25 ans, durées qui ne correspondent à aucun seuil légal général en la matière.",
+      "tags": ["crimes", "réclusion criminelle"]
+    },
+    {
+      "id": "sanction-qcm-003",
+      "question": "Quel est le montant maximal de l'amende délictuelle encourue en matière de blanchiment ?",
+      "options": [
+        "45 000 €",
+        "375 000 €",
+        "7 500 000 €",
+        "150 000 €"
+      ],
+      "answer": 2,
+      "explanation": "Si l'amende délictuelle de droit commun est de 45 000 € (art. 131-3 C. pén.), elle est portée à 375 000 € pour les infractions à la législation sur les stupéfiants et jusqu'à 7 500 000 € en matière de blanchiment, illustrant la modulation du quantum selon la gravité économique de l'infraction.",
+      "tags": ["délits", "amende"]
+    },
+    {
+      "id": "sanction-qcm-004",
+      "question": "Depuis la loi Belloubet du 23 mars 2019, quelle règle encadre le prononcé d'une peine d'emprisonnement sans sursis pour un délit ?",
+      "options": [
+        "Elle ne peut être inférieure à 6 mois",
+        "Elle doit obligatoirement être assortie d'un sursis probatoire",
+        "Elle est réservée aux récidivistes",
+        "Elle ne peut être inférieure à 1 mois, sauf impossibilité justifiée"
+      ],
+      "answer": 3,
+      "explanation": "L'article 132-19 alinéa 2 du Code pénal, modifié par la loi Belloubet, interdit en principe de prononcer une peine d'emprisonnement ferme inférieure à un mois, sauf impossibilité justifiée. Cette règle s'accompagne d'une obligation de motivation renforcée de la peine d'emprisonnement sans sursis.",
+      "tags": ["loi belloubet 2019", "article 132-19"]
+    },
+    {
+      "id": "sanction-qcm-005",
+      "question": "Que peut-on dire de la peine de contrainte pénale instaurée par la loi Taubira du 15 août 2014 ?",
+      "options": [
+        "Elle a été supprimée en 2020 et remplacée par des mécanismes de sursis et de travail d'intérêt général",
+        "Elle demeure applicable et concurrence directement le sursis probatoire",
+        "Elle a été transformée en peine criminelle par la loi Belloubet",
+        "Elle ne s'appliquait qu'aux contraventions de 5ᵉ classe"
+      ],
+      "answer": 0,
+      "explanation": "La contrainte pénale (art. 132-40 et suivants), qui soumettait le condamné à des obligations sous contrôle du juge de l'application des peines pendant une durée de 6 mois à 5 ans, a été supprimée en 2020 ; les mécanismes de sursis et de travail d'intérêt général ont pris le relais pour les situations qu'elle visait.",
+      "tags": ["contrainte pénale", "loi taubira 2014"]
+    },
+    {
+      "id": "sanction-qcm-006",
+      "question": "À quelle(s) condition(s) la juridiction de jugement peut-elle prononcer une dispense de peine sur le fondement de l'article 132-58 du Code pénal ?",
+      "options": [
+        "Uniquement si le condamné est primo-délinquant",
+        "Si le reclassement du condamné est acquis, le dommage réparé ou le trouble causé par l'infraction a cessé",
+        "Si la victime renonce expressément à toute réparation",
+        "Si la peine encourue est inférieure à six mois d'emprisonnement"
+      ],
+      "answer": 1,
+      "explanation": "L'article 132-58 permet la dispense de peine lorsque le reclassement du condamné est acquis, que le dommage causé est réparé ou que le trouble résultant de l'infraction a cessé — conditions alternatives qui ne sont liées ni au statut de primo-délinquant ni au quantum encouru.",
+      "tags": ["dispense de peine", "article 132-58"]
+    },
+    {
+      "id": "sanction-qcm-007",
+      "question": "Au-delà de la peine d'emprisonnement sans sursis, quelles autres peines la jurisprudence (Crim. 2017-2023) a-t-elle soumises à une obligation impérative de motivation ?",
+      "options": [
+        "Uniquement les peines criminelles",
+        "Seules les peines complémentaires prononcées en matière contraventionnelle",
+        "L'amende, le suivi socio-judiciaire, l'injonction de soins, la confiscation et l'inéligibilité",
+        "Aucune autre peine, la motivation restant propre à l'emprisonnement sans sursis"
+      ],
+      "answer": 2,
+      "explanation": "La Cour de cassation a progressivement étendu l'obligation de motivation, initialement centrée sur l'emprisonnement sans sursis (Crim. 22 mars 2011), à d'autres peines telles que l'amende, le suivi socio-judiciaire, l'injonction de soins, la confiscation et l'inéligibilité.",
+      "tags": ["motivation de la peine", "jurisprudence"]
+    },
+    {
+      "id": "sanction-qcm-008",
+      "question": "Quel est l'effet d'une nouvelle condamnation prononcée pendant le délai d'un sursis simple ?",
+      "options": [
+        "Elle est sans incidence sur le sursis déjà accordé",
+        "Elle suspend le délai du sursis jusqu'à son terme initial",
+        "Elle transforme automatiquement le sursis simple en sursis probatoire",
+        "Elle entraîne la révocation automatique du sursis, sauf décision contraire spécialement motivée"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'article 132-29 et la jurisprudence (Crim. 6 mars 2018), une nouvelle infraction commise pendant le délai du sursis entraîne en principe la révocation automatique de celui-ci ; le juge peut toutefois, par une décision spécialement motivée, décider de ne pas la prononcer.",
+      "tags": ["sursis simple", "révocation"]
+    },
+    {
+      "id": "sanction-qcm-009",
+      "question": "Quelle est la durée de la période de sûreté applicable au meurtre d'un enfant précédé d'un viol ?",
+      "options": [
+        "Illimitée (hypothèse de perpétuité réelle)",
+        "30 ans au maximum",
+        "Les deux tiers de la peine",
+        "18 ans"
+      ],
+      "answer": 0,
+      "explanation": "Si la période de sûreté de droit commun correspond aux deux tiers de la peine ou à 18 ans pour la perpétuité (art. 132-23), elle peut être portée à 30 ans, voire devenir illimitée dans les hypothèses de perpétuité réelle, notamment pour le meurtre d'un enfant précédé d'un viol ou le meurtre d'un agent dépositaire de l'autorité publique.",
+      "tags": ["période de sûreté", "article 132-23"]
+    },
+    {
+      "id": "sanction-qcm-010",
+      "question": "Quelle condition principale pose l'article 729 du Code de procédure pénale pour l'octroi d'une libération conditionnelle ?",
+      "options": [
+        "L'accord exprès de la victime",
+        "L'existence de gages sérieux de réinsertion du condamné",
+        "L'exécution préalable de la moitié de la peine, sans exception possible",
+        "L'absence de toute période de sûreté en cours"
+      ],
+      "answer": 1,
+      "explanation": "L'article 729 du Code de procédure pénale subordonne la libération conditionnelle à l'existence de gages sérieux de réinsertion du condamné, appréciés par le juge de l'application des peines ; la loi Belloubet de 2019 a par ailleurs généralisé l'aménagement obligatoire ab initio pour certains quantums de peine.",
+      "tags": ["libération conditionnelle", "article 729"]
+    },
+    {
+      "id": "sanction-qcm-011",
+      "question": "Quel est le délai de prescription de la peine prononcée pour un délit, selon l'article 133-2 du Code pénal ?",
+      "options": [
+        "3 ans",
+        "20 ans",
+        "6 ans",
+        "10 ans"
+      ],
+      "answer": 2,
+      "explanation": "L'article 133-2 fixe le délai de prescription de la peine à 20 ans pour les crimes, 6 ans pour les délits et 3 ans pour les contraventions, le point de départ étant le jour du prononcé de la décision.",
+      "tags": ["prescription de la peine", "article 133-2"]
+    },
+    {
+      "id": "sanction-qcm-012",
+      "question": "Quelle est la principale différence entre la grâce et l'amnistie quant à leur effet sur la condamnation ?",
+      "options": [
+        "La grâce efface la condamnation tandis que l'amnistie se limite à dispenser de son exécution",
+        "Les deux mécanismes produisent des effets strictement identiques sur la condamnation",
+        "Seule l'amnistie constitue une prérogative individuelle du chef de l'État",
+        "La grâce dispense d'exécuter tout ou partie de la peine sans effacer la condamnation, tandis que l'amnistie fait disparaître la condamnation elle-même"
+      ],
+      "answer": 3,
+      "explanation": "La grâce (art. 133-7), prérogative individuelle du chef de l'État, dispense d'exécuter tout ou partie de la peine ou opère une commutation, sans effacer la condamnation. L'amnistie (art. 133-9), résultant d'une loi, retire au contraire aux faits leur caractère infractionnel et fait disparaître la condamnation ainsi que les peines.",
+      "tags": ["grâce", "amnistie"]
+    },
+    {
+      "id": "sanction-qcm-013",
+      "question": "Quel effet la réhabilitation produit-elle en cas de récidive postérieure, selon la jurisprudence récente (Crim. 7 mai 2025) ?",
+      "options": [
+        "Bien qu'elle efface la condamnation du casier, celle-ci peut être prise en compte pour caractériser la récidive lors d'une nouvelle infraction",
+        "La condamnation réhabilitée ne peut plus jamais être prise en compte, en toute hypothèse",
+        "La réhabilitation empêche systématiquement toute caractérisation ultérieure de récidive",
+        "La réhabilitation ne produit aucun effet sur le bulletin n° 2 du casier judiciaire"
+      ],
+      "answer": 0,
+      "explanation": "La réhabilitation efface la condamnation et la fait disparaître du casier judiciaire (bulletin n° 2), mais son effet n'est pas total : la Chambre criminelle a confirmé que la condamnation réhabilitée peut néanmoins être prise en compte pour caractériser une récidive lors d'une infraction ultérieure (Crim. 7 mai 2025).",
+      "tags": ["réhabilitation", "récidive"]
+    },
+    {
+      "id": "sanction-qcm-014",
+      "question": "Qu'introduit la loi n° 2024-449 du 21 mai 2024 en matière de sanctions complémentaires ?",
+      "options": [
+        "La suppression de la confiscation pour les délits commis en ligne",
+        "La création d'une peine complémentaire de suspension des comptes d'accès aux services de plateforme en ligne (art. 131-35-1 C. pén.)",
+        "L'instauration d'un stage obligatoire pour tous les délits informatiques",
+        "L'extension de la période de sûreté aux délits commis en ligne"
+      ],
+      "answer": 1,
+      "explanation": "La loi n° 2024-449 du 21 mai 2024 a créé une peine complémentaire de suspension des comptes d'accès aux services de plateforme en ligne (art. 131-35-1 C. pén.), spécifiquement destinée à sanctionner certains délits commis en ligne.",
+      "tags": ["loi 2024-449", "peines complémentaires"]
+    },
+    {
+      "id": "sanction-qcm-015",
+      "question": "Quel est l'effet du décès du condamné sur l'amende qu'il devait acquitter ?",
+      "options": [
+        "L'amende s'éteint systématiquement, comme la peine privative de liberté",
+        "L'amende est automatiquement transformée en mesure de confiscation des biens",
+        "L'amende se transmet aux héritiers, sauf s'ils ont répudié la succession",
+        "L'amende ne peut jamais être recouvrée après le décès, quelle que soit la situation des héritiers"
+      ],
+      "answer": 2,
+      "explanation": "Si le décès met fin à la privation de liberté (art. 133-1), l'amende suit un régime distinct : elle peut se transmettre aux héritiers, sous réserve qu'ils n'aient pas répudié la succession (art. 133-1 al. 2 C. pén.), ce qui la distingue nettement de la peine privative de liberté.",
+      "tags": ["décès", "extinction de la peine"]
+    }
+  ]
+}

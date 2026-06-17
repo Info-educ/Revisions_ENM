@@ -77,6 +77,12 @@
       "file": "imputabilite-delinquant.json",
       "title": "L'imputabilité du délinquant",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "sanction",
+      "file": "sanction.json",
+      "title": "La sanction",
+      "category": "Droit pénal général"
     }
   ]
 }
