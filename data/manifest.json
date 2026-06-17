@@ -83,6 +83,12 @@
       "file": "sanction.json",
       "title": "La sanction",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "juridictions-repressives",
+      "file": "juridictions-repressives.json",
+      "title": "Les juridictions répressives — organisation, principes et compétence",
+      "category": "Institutions judiciaires"
     }
   ]
 }
