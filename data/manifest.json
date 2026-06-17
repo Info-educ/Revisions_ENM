@@ -89,6 +89,12 @@
       "file": "juridictions-repressives.json",
       "title": "Les juridictions répressives — organisation, principes et compétence",
       "category": "Institutions judiciaires"
+    },
+    {
+      "id": "preuve-penale",
+      "file": "preuve-penale.json",
+      "title": "La preuve pénale",
+      "category": "Droit pénal général"
     }
   ]
 }
