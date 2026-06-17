@@ -95,6 +95,12 @@
       "file": "preuve-penale.json",
       "title": "La preuve pénale",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "phase-policiere",
+      "file": "phase-policiere.json",
+      "title": "La phase policière — autorités, enquêtes et garde à vue",
+      "category": "Droit pénal général"
     }
   ]
 }
