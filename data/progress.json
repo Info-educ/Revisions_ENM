@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781719208971,
+  "updatedAt": 1781719214604,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -1251,11 +1251,11 @@
       "lastSeenAt": 1781719098462
     },
     "preuve-penale-qcm-004": {
-      "level": 0,
-      "seenCount": 1,
-      "correctCount": 0,
-      "lastResult": "miss",
-      "lastSeenAt": 1781719123876
+      "level": 1,
+      "seenCount": 2,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781719210602
     },
     "sanction-qcm-014": {
       "level": 1,
