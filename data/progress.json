@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781719606438,
+  "updatedAt": 1781719621420,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -1361,6 +1361,13 @@
       "correctCount": 1,
       "lastResult": "hit",
       "lastSeenAt": 1781719595833
+    },
+    "juridictions-repressives-qcm-007": {
+      "level": 1,
+      "seenCount": 1,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781719617418
     }
   }
 }
