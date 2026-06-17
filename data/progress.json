@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781719841487,
+  "updatedAt": 1781719869802,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -1452,6 +1452,13 @@
       "correctCount": 1,
       "lastResult": "hit",
       "lastSeenAt": 1781719825495
+    },
+    "phase-policiere-qcm-003": {
+      "level": 0,
+      "seenCount": 1,
+      "correctCount": 0,
+      "lastResult": "miss",
+      "lastSeenAt": 1781719865800
     }
   }
 }
