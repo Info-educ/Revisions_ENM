@@ -107,6 +107,12 @@
       "file": "action-publique.json",
       "title": "L'action publique — Mise en œuvre, exercice et extinction",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "action-civile",
+      "file": "action-civile.json",
+      "title": "L'action civile — Sujets, exercice et extinction",
+      "category": "Droit pénal général"
     }
   ]
 }
