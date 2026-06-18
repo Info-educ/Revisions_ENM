@@ -119,6 +119,12 @@
       "file": "instruction-ji.json",
       "title": "L'instruction par le juge d'instruction — Pouvoirs, mise en examen et clôture",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "chambre-instruction",
+      "file": "chambre-instruction.json",
+      "title": "La chambre de l'instruction — Révision, réformation et annulation",
+      "category": "Droit pénal général"
     }
   ]
 }

@@ -1,0 +1,320 @@
+{
+  "id": "chambre-instruction",
+  "title": "La chambre de l'instruction — Révision, réformation et annulation",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "chambre-instruction-fc-001",
+      "front": "Qu'est-ce que la chambre de l'instruction et quels sont ses trois pouvoirs principaux ?",
+      "back": "C'est la juridiction d'instruction du second degré, organe collégial de la cour d'appel qui contrôle l'activité du juge d'instruction ; elle dispose de trois pouvoirs complémentaires : la révision, la réformation par la voie de l'appel, et l'annulation des actes irréguliers.",
+      "tags": [
+        "chambre de l'instruction"
+      ]
+    },
+    {
+      "id": "chambre-instruction-fc-002",
+      "front": "En quoi consiste le pouvoir de révision de la chambre de l'instruction ?",
+      "back": "Saisine facultative pour les parties depuis une réforme de 2000, elle permet à la chambre, dès qu'elle dispose de l'intégralité du dossier et quelle que soit la nature de l'infraction, de réviser la qualification des faits, de statuer sur la détention provisoire ou de refuser une mise en liberté.",
+      "tags": [
+        "pouvoir de révision"
+      ]
+    },
+    {
+      "id": "chambre-instruction-fc-003",
+      "front": "Quels actes la chambre de l'instruction peut-elle accomplir au stade de la révision, et comment clôture-t-elle son examen ?",
+      "back": "Elle peut ordonner tout acte d'information complémentaire, apprécier et modifier les charges, et étendre la saisine in rem ; elle rend ensuite un arrêt de clôture, qui prend la forme d'un non-lieu, d'un renvoi devant le tribunal correctionnel ou de police, ou d'une mise en accusation devant la cour d'assises.",
+      "tags": [
+        "pouvoir de révision",
+        "arrêt de clôture"
+      ]
+    },
+    {
+      "id": "chambre-instruction-fc-004",
+      "front": "Qu'est-ce que l'évocation par la chambre de l'instruction ?",
+      "back": "C'est la faculté, en toute matière, de dessaisir le juge d'instruction pour instruire elle-même l'affaire, à la suite par exemple d'une annulation d'acte, d'une infirmation d'une ordonnance de détention provisoire ou d'une demande d'acte des parties privées.",
+      "tags": [
+        "évocation"
+      ]
+    },
+    {
+      "id": "chambre-instruction-fc-005",
+      "front": "Comment se distingue le droit d'appel du ministère public de celui des parties privées contre les ordonnances du juge d'instruction ?",
+      "back": "Le ministère public dispose d'un droit d'appel général sur toutes les ordonnances juridictionnelles du juge d'instruction ou du juge des libertés et de la détention, tandis que les parties privées (mis en examen, partie civile) ne disposent que d'un droit d'appel limité à certaines ordonnances déterminées.",
+      "tags": [
+        "réformation",
+        "droit d'appel"
+      ]
+    },
+    {
+      "id": "chambre-instruction-fc-006",
+      "front": "Quelle différence existe-t-il entre l'effet suspensif et l'effet dévolutif de l'appel devant la chambre de l'instruction ?",
+      "back": "L'effet suspensif, qui s'applique en principe à l'appel des parties privées, suspend l'exécution de l'ordonnance attaquée jusqu'à la décision de la chambre ; l'effet dévolutif signifie que la chambre n'est saisie que des points sur lesquels l'ordonnance contestée a statué, sauf nécessité d'aller au-delà dans le cadre de son pouvoir d'évocation.",
+      "tags": [
+        "effets de l'appel"
+      ]
+    },
+    {
+      "id": "chambre-instruction-fc-007",
+      "front": "Qui peut saisir la chambre de l'instruction aux fins d'annulation d'un acte irrégulier, et qui en est exclu ?",
+      "back": "Le ministère public et les parties privées peuvent saisir la chambre de l'instruction d'une requête en annulation ; en revanche, le juge d'instruction lui-même ne peut pas la saisir à cette fin, puisqu'il a la possibilité de substituer directement l'acte irrégulier.",
+      "tags": [
+        "pouvoir d'annulation"
+      ]
+    },
+    {
+      "id": "chambre-instruction-fc-008",
+      "front": "Quelle est la différence entre les nullités textuelles et les nullités substantielles, et quel principe commun les gouverne ?",
+      "back": "Les nullités textuelles sont expressément prévues par un texte, tandis que les nullités substantielles sont dégagées par la jurisprudence ; dans les deux cas, le principe « pas de nullité sans grief » s'applique en principe, exigeant une atteinte aux intérêts de la personne ou à une règle d'ordre public.",
+      "tags": [
+        "nullités",
+        "grief"
+      ]
+    },
+    {
+      "id": "chambre-instruction-fc-009",
+      "front": "Quels sont les effets de l'annulation d'un acte de l'instruction par la chambre de l'instruction ?",
+      "back": "L'acte irrégulier est annulé et retiré du dossier, placé au greffe de la cour d'appel sans pouvoir être invoqué par les parties ; l'annulation peut s'étendre aux actes subséquents lorsqu'un lien de causalité les relie à l'acte annulé, et la substance de l'acte annulé ne peut être reconstituée.",
+      "tags": [
+        "effets de l'annulation"
+      ]
+    },
+    {
+      "id": "chambre-instruction-fc-010",
+      "front": "Quelle distinction faut-il opérer entre un acte juridictionnel et un acte non juridictionnel rendu par le juge d'instruction ?",
+      "back": "Un acte ou une ordonnance juridictionnel tranche une contestation, comme une ordonnance de placement en détention provisoire, tandis qu'un acte non juridictionnel relève de la pure administration de l'instruction, comme un transport sur les lieux.",
+      "tags": [
+        "acte juridictionnel"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "chambre-instruction-qcm-001",
+      "question": "Quelle juridiction est compétente pour contrôler, par la voie de la cassation, les décisions rendues par la chambre de l'instruction ?",
+      "options": [
+        "Le tribunal correctionnel territorialement compétent pour l'infraction poursuivie",
+        "La chambre criminelle de la Cour de cassation, juridiction du droit compétente",
+        "La cour d'assises devant laquelle l'affaire a finalement été renvoyée pour jugement",
+        "Le premier président de la cour d'appel, statuant seul en référé d'urgence simple"
+      ],
+      "answer": 1,
+      "explanation": "Les décisions de la chambre de l'instruction, juridiction du second degré, sont contrôlées par la chambre criminelle de la Cour de cassation, qui veille à la bonne application du droit sans réexaminer les faits.",
+      "tags": [
+        "chambre de l'instruction"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-002",
+      "question": "La chambre de l'instruction qui évoque une affaire pour se substituer au juge d'instruction est-elle nécessairement tenue d'évoquer l'intégralité du dossier ?",
+      "options": [
+        "Oui, une évocation portant sur une partie seulement du dossier est toujours irrégulière",
+        "Oui, l'évocation partielle reste strictement interdite par les textes applicables",
+        "Non, une évocation partielle est désormais admise depuis un revirement récent",
+        "Non, mais elle doit alors immédiatement dessaisir totalement le juge d'instruction"
+      ],
+      "answer": 2,
+      "explanation": "Un arrêt de la chambre criminelle du 25 février 2025 a admis la possibilité d'une évocation partielle, permettant à la chambre de l'instruction de ne se substituer au juge d'instruction que pour une partie déterminée du dossier.",
+      "tags": [
+        "évocation"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-003",
+      "question": "Dans quel délai le premier président de la cour d'appel doit-il statuer sur une demande de référé-détention ?",
+      "options": [
+        "Dans un délai de quinze jours suivant l'enregistrement officiel de la demande",
+        "Dans un délai d'un mois entier, identique à celui prévu pour l'appel ordinaire",
+        "Sans délai légalement fixé, selon la disponibilité de son agenda judiciaire",
+        "Dans un délai de deux jours ouvrables seulement, à compter de sa saisine effective"
+      ],
+      "answer": 3,
+      "explanation": "Le référé-détention constitue un mécanisme d'urgence permettant de demander la mise en liberté d'une personne placée en détention provisoire ; le premier président de la cour d'appel doit statuer dans un délai de deux jours ouvrables.",
+      "tags": [
+        "référé-détention"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-004",
+      "question": "Face à une demande de référé-liberté, entre quelles voies le premier président de la cour d'appel doit-il choisir ?",
+      "options": [
+        "La mise en liberté, le maintien en détention provisoire, ou le renvoi à la chambre",
+        "Le seul maintien en détention provisoire, aucune autre issue n'étant envisageable",
+        "La transmission obligatoire du dossier à la chambre criminelle de cassation",
+        "La désignation immédiate d'un nouveau juge d'instruction pour réexaminer l'affaire"
+      ],
+      "answer": 0,
+      "explanation": "Saisi d'un référé-liberté contre une ordonnance de placement en détention provisoire, le premier président doit choisir entre trois voies : ordonner la mise en liberté, maintenir la détention provisoire, ou renvoyer l'affaire à la chambre de l'instruction.",
+      "tags": [
+        "référé-liberté"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-005",
+      "question": "Le débat contradictoire devant la chambre statuant sur un référé-liberté suppose-t-il le consentement de la personne détenue ?",
+      "options": [
+        "Oui, aucun débat ne peut avoir lieu sans le consentement exprès de la personne",
+        "Non, le débat contradictoire se déroule sans qu'un consentement soit nécessaire",
+        "Oui, mais seulement lorsque la personne est représentée par un avocat choisi",
+        "Non, mais la personne doit alors renoncer formellement à toute voie de recours"
+      ],
+      "answer": 1,
+      "explanation": "Le référé-liberté, examiné dès le lendemain de la décision de placement en détention provisoire, donne lieu à un débat contradictoire devant la chambre, sans qu'un quelconque consentement de la personne détenue soit requis pour son organisation.",
+      "tags": [
+        "référé-liberté"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-006",
+      "question": "Que se passe-t-il si la chambre de l'instruction ne statue pas sur un appel de mise en accusation dans le délai légal de quatre mois ?",
+      "options": [
+        "L'appel devient automatiquement caduc et l'ordonnance attaquée devient définitive",
+        "Le dossier est transmis d'office à la chambre criminelle de la Cour de cassation",
+        "La personne détenue doit alors être remise en liberté d'office par les autorités",
+        "Un nouveau délai de quatre mois recommence à courir à compter de cette date"
+      ],
+      "answer": 2,
+      "explanation": "La chambre de l'instruction doit statuer dans les quatre mois de la déclaration d'appel en matière de mise en accusation ; à défaut, la personne placée en détention provisoire doit être remise en liberté d'office.",
+      "tags": [
+        "délais de l'appel"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-007",
+      "question": "Le droit d'appel général reconnu au ministère public peut-il être exercé par le procureur général près la cour d'appel ?",
+      "options": [
+        "Non, seul le procureur de la République près le tribunal judiciaire le peut",
+        "Non, ce droit appartient exclusivement au juge des libertés et de la détention",
+        "Oui, mais uniquement lorsque l'affaire concerne un crime puni de la réclusion",
+        "Oui, ce droit d'appel général peut être exercé par l'un ou l'autre magistrat"
+      ],
+      "answer": 3,
+      "explanation": "Le droit d'appel général contre les ordonnances juridictionnelles du juge d'instruction ou du juge des libertés et de la détention appartient au ministère public, qu'il soit exercé par le procureur de la République ou par le procureur général.",
+      "tags": [
+        "droit d'appel"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-008",
+      "question": "Une partie civile peut-elle interjeter appel d'une ordonnance de non-lieu rendue par le juge d'instruction ?",
+      "options": [
+        "Oui, l'ordonnance de non-lieu figure parmi les décisions qu'elle peut attaquer",
+        "Non, seul le mis en examen dispose d'un droit d'appel contre cette ordonnance",
+        "Non, le non-lieu ne peut jamais faire l'objet d'un appel par aucune des parties",
+        "Oui, mais seulement si elle obtient au préalable l'accord du ministère public"
+      ],
+      "answer": 0,
+      "explanation": "Le droit d'appel de la partie civile, bien que réduit, lui permet d'attaquer notamment les ordonnances de non-lieu ainsi que celles faisant grief à ses intérêts civils ou fixant une consignation abusivement élevée.",
+      "tags": [
+        "droit d'appel",
+        "partie civile"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-009",
+      "question": "L'effet suspensif attaché en principe à l'appel des parties privées peut-il être écarté ?",
+      "options": [
+        "Non, cet effet s'applique de façon absolue dans tous les cas sans aucune exception",
+        "Oui, sur décision contraire prise par le premier président de la cour d'appel",
+        "Oui, mais uniquement à la demande expresse formulée par le ministère public",
+        "Non, sauf lorsque l'appel porte seulement sur une simple ordonnance de transport"
+      ],
+      "answer": 1,
+      "explanation": "L'effet suspensif de l'appel des parties privées, qui retarde l'exécution de l'ordonnance attaquée jusqu'à la décision de la chambre, peut être écarté sur décision contraire du premier président de la cour d'appel.",
+      "tags": [
+        "effets de l'appel"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-010",
+      "question": "Dans quel délai la requête en annulation doit-elle en principe être formulée lorsque la chambre est saisie en cours d'instruction ?",
+      "options": [
+        "Dans un délai de quinze jours suivant la notification régulière de l'acte contesté",
+        "Dans un délai de six mois à compter de l'ouverture de l'information judiciaire",
+        "Dans un délai compris entre un et trois mois, selon la nature des actes concernés",
+        "Dans un délai d'une année entière à compter de la mise en examen initiale prononcée"
+      ],
+      "answer": 2,
+      "explanation": "Lorsque la chambre de l'instruction est saisie d'une requête en annulation pendant le déroulement de l'instruction, cette requête doit en principe être formulée dans un délai compris entre un et trois mois.",
+      "tags": [
+        "requête en annulation"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-011",
+      "question": "Une nullité textuelle, expressément prévue par un texte, peut-elle être prononcée sans qu'aucun grief ne soit caractérisé ?",
+      "options": [
+        "Oui, la seule violation du texte applicable suffit toujours à justifier l'annulation",
+        "Oui, à condition que cette violation soit expressément relevée par le ministère public",
+        "Non, mais le grief est alors présumé de manière irréfragable dans tous les cas",
+        "Non, un grief reste en principe exigé, même lorsqu'il s'agit d'une nullité textuelle"
+      ],
+      "answer": 3,
+      "explanation": "Même lorsqu'une nullité est expressément prévue par un texte, la jurisprudence exige en principe la caractérisation d'un grief ; ainsi, la méconnaissance de simples formalités lors de la garde à vue n'entraîne pas la nullité sans atteinte aux droits de la défense.",
+      "tags": [
+        "nullités",
+        "grief"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-012",
+      "question": "Pourquoi la méconnaissance de la règle de publicité des débats devant la juridiction de jugement constitue-t-elle un exemple de nullité d'ordre public ?",
+      "options": [
+        "Parce que le grief y est présumé, sans que la personne doive en démontrer l'existence",
+        "Parce qu'elle ne peut jamais être invoquée par les parties privées au procès",
+        "Parce qu'elle ne concerne que les audiences tenues devant la cour d'assises",
+        "Parce qu'elle exige systématiquement la preuve d'un préjudice matériel chiffré"
+      ],
+      "answer": 0,
+      "explanation": "À la différence des nullités d'ordre privé, où le grief doit être prouvé, les nullités d'ordre public comme la méconnaissance de la publicité des débats bénéficient d'une présomption de grief, conformément à une jurisprudence désormais bien établie.",
+      "tags": [
+        "nullités",
+        "ordre public"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-013",
+      "question": "Quelle conséquence encourt la partie qui invoquerait, devant la juridiction de jugement, un acte annulé et retiré du dossier ?",
+      "options": [
+        "Aucune, l'acte annulé demeure pleinement utilisable par l'ensemble des parties au dossier",
+        "Une sanction disciplinaire, l'acte ne pouvant plus être invoqué après son retrait",
+        "Une amende civile prononcée directement par le juge d'instruction saisi de l'affaire",
+        "La nullité automatique de l'ensemble de la procédure d'instruction en cours"
+      ],
+      "answer": 1,
+      "explanation": "L'acte annulé, retiré du dossier et placé au greffe de la cour d'appel, ne peut plus être invoqué par les parties ; toute invocation de cet acte expose son auteur à des sanctions disciplinaires.",
+      "tags": [
+        "effets de l'annulation"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-014",
+      "question": "Sur quel critère la chambre de l'instruction se fonde-t-elle pour étendre une annulation à un acte subséquent ?",
+      "options": [
+        "La seule proximité chronologique entre l'acte annulé et l'acte subséquent visé",
+        "La gravité de l'infraction poursuivie, indépendamment de tout autre élément",
+        "L'existence d'un lien de causalité entre l'acte annulé et l'acte subséquent",
+        "La qualité particulière de la personne ayant accompli matériellement l'acte subséquent"
+      ],
+      "answer": 2,
+      "explanation": "L'acte subséquent est celui auquel l'annulation est étendue en raison du lien de causalité qui le relie à l'acte initialement annulé ; la chambre de l'instruction vérifie systématiquement l'existence de ce lien avant d'étendre les effets de l'annulation.",
+      "tags": [
+        "acte subséquent"
+      ]
+    },
+    {
+      "id": "chambre-instruction-qcm-015",
+      "question": "Quel effet produit un arrêt de mise en accusation rendu par la chambre de l'instruction ?",
+      "options": [
+        "Il prononce un non-lieu définitif, mettant fin à toute poursuite contre la personne",
+        "Il renvoie l'affaire devant le tribunal correctionnel pour y être jugée comme délit",
+        "Il annule purement et simplement l'ensemble de la procédure d'instruction menée",
+        "Il renvoie la personne devant la cour d'assises pour y être jugée comme crime"
+      ],
+      "answer": 3,
+      "explanation": "L'arrêt de mise en accusation est celui par lequel la chambre de l'instruction, estimant les charges suffisantes, renvoie la personne devant la cour d'assises ; il présente les mêmes caractéristiques que l'ordonnance de mise en accusation rendue par le juge d'instruction.",
+      "tags": [
+        "arrêt de mise en accusation"
+      ]
+    }
+  ]
+}
