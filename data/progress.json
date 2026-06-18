@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781796939515,
+  "updatedAt": 1781796946570,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -1839,11 +1839,11 @@
       "lastSeenAt": 1781796809799
     },
     "chambre-instruction-qcm-013": {
-      "level": 0,
-      "seenCount": 1,
-      "correctCount": 0,
-      "lastResult": "miss",
-      "lastSeenAt": 1781796856271
+      "level": 1,
+      "seenCount": 2,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781796942567
     },
     "chambre-instruction-qcm-006": {
       "level": 1,
