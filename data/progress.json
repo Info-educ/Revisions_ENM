@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781783819643,
+  "updatedAt": 1781783827372,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -1503,11 +1503,11 @@
       "lastSeenAt": 1781783594119
     },
     "action-publique-qcm-004": {
-      "level": 0,
-      "seenCount": 1,
-      "correctCount": 0,
-      "lastResult": "miss",
-      "lastSeenAt": 1781783622430
+      "level": 1,
+      "seenCount": 2,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781783823369
     },
     "action-civile-qcm-003": {
       "level": 1,
