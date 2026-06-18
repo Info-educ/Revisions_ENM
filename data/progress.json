@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781819310811,
+  "updatedAt": 1781819343009,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -1921,6 +1921,13 @@
       "correctCount": 0,
       "lastResult": "miss",
       "lastSeenAt": 1781819306808
+    },
+    "controle-norme-fc-009": {
+      "level": 0,
+      "seenCount": 1,
+      "correctCount": 0,
+      "lastResult": "miss",
+      "lastSeenAt": 1781819339005
     }
   }
 }
