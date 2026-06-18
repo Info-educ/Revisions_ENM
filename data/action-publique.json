@@ -1,0 +1,328 @@
+{
+  "id": "action-publique",
+  "title": "L'action publique — Mise en œuvre, exercice et extinction",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "action-publique-fc-001",
+      "front": "Qu'est-ce que l'action publique et quel est son rapport avec l'action civile ?",
+      "back": "L'infraction fait naître deux actions : l'action publique, à titre principal, qui vise à faire appliquer les peines légales à l'auteur, et l'action civile, qui en est l'accessoire et vise à réparer le dommage causé à la victime.",
+      "tags": [
+        "action publique",
+        "action civile"
+      ]
+    },
+    {
+      "id": "action-publique-fc-002",
+      "front": "En quoi consiste le principe de l'opportunité des poursuites ?",
+      "back": "À l'inverse du principe de légalité des poursuites retenu par certains droits étrangers, le droit français laisse au procureur de la République, en présence d'une infraction, le libre choix entre poursuivre, classer sans suite ou recourir à une mesure alternative.",
+      "tags": [
+        "opportunité des poursuites",
+        "ministère public"
+      ]
+    },
+    {
+      "id": "action-publique-fc-003",
+      "front": "Pour quelles infractions le procureur ne peut-il agir sans plainte préalable de la victime ?",
+      "back": "Pour les diffamations et injures envers les particuliers, ainsi que pour les atteintes à la vie privée commises par voie de presse, le caractère privé de l'intérêt en jeu justifie cette exigence de plainte préalable de la victime.",
+      "tags": [
+        "plainte préalable",
+        "obstacles aux poursuites"
+      ]
+    },
+    {
+      "id": "action-publique-fc-004",
+      "front": "Quel avis préalable conditionne en principe la plainte de l'administration fiscale ?",
+      "back": "La plainte de l'administration fiscale doit en principe être précédée de l'avis conforme de la Commission des infractions fiscales, sauf pour les infractions les plus graves, qui en dispensent l'administration depuis une réforme de 2018.",
+      "tags": [
+        "avis préalable",
+        "infractions fiscales"
+      ]
+    },
+    {
+      "id": "action-publique-fc-005",
+      "front": "Quelle protection bénéficie aux parlementaires face aux mesures privatives de liberté ?",
+      "back": "L'inviolabilité parlementaire impose l'autorisation préalable du bureau de l'assemblée à laquelle appartient le parlementaire pour toute mesure privative ou restrictive de liberté prise contre lui pendant la session, sauf crime ou délit flagrant ou condamnation définitive.",
+      "tags": [
+        "inviolabilité parlementaire",
+        "obstacles aux poursuites"
+      ]
+    },
+    {
+      "id": "action-publique-fc-006",
+      "front": "Quel est l'objectif de la médiation pénale ?",
+      "back": "Avec l'accord des parties, le procureur peut différer sa décision sur l'action publique en mettant en œuvre une médiation, dès lors que celle-ci paraît susceptible de réparer le dommage, de mettre fin au trouble causé par l'infraction ou de favoriser le reclassement de l'auteur des faits.",
+      "tags": [
+        "médiation pénale",
+        "alternatives aux poursuites"
+      ]
+    },
+    {
+      "id": "action-publique-fc-007",
+      "front": "Quelles sont les conditions principales de la composition pénale ?",
+      "back": "Réservée aux délits punis d'une peine d'emprisonnement inférieure ou égale à 5 ans (et à certaines contraventions), elle est proposée par le procureur, suppose l'accord de l'auteur des faits et doit être validée par le président du tribunal judiciaire.",
+      "tags": [
+        "composition pénale",
+        "alternatives aux poursuites"
+      ]
+    },
+    {
+      "id": "action-publique-fc-008",
+      "front": "Quelles personnes peuvent faire l'objet d'une convention judiciaire d'intérêt public (CJIP) ?",
+      "back": "La CJIP, issue de la loi Sapin II, est réservée aux personnes morales mises en cause pour certains délits comme la corruption, la fraude fiscale ou les atteintes à l'environnement ; elle est validée par ordonnance du président du tribunal judiciaire.",
+      "tags": [
+        "CJIP",
+        "personnes morales"
+      ]
+    },
+    {
+      "id": "action-publique-fc-009",
+      "front": "Quel est le principe de la comparution sur reconnaissance préalable de culpabilité (CRPC) ?",
+      "back": "Inspirée du plaider-coupable américain, la CRPC permet au procureur de proposer, pour des délits punis d'au plus 5 ans d'emprisonnement, une peine à une personne reconnaissant les faits, l'emprisonnement proposé ne pouvant excéder la moitié de la peine encourue ni un an.",
+      "tags": [
+        "CRPC",
+        "plaider coupable"
+      ]
+    },
+    {
+      "id": "action-publique-fc-010",
+      "front": "Quels sont les délais de droit commun de prescription de l'action publique selon la nature de l'infraction ?",
+      "back": "Sauf régimes dérogatoires, le délai est de 20 ans pour les crimes (30 ans pour le terrorisme et le trafic de stupéfiants), de 6 ans pour les délits (8 à 20 ans pour certains délits terroristes ou de trafic de stupéfiants), et de 1 an pour les contraventions.",
+      "tags": [
+        "prescription",
+        "délais"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "action-publique-qcm-001",
+      "question": "Le principe de l'opportunité des poursuites confère-t-il au procureur de la République un pouvoir totalement discrétionnaire ?",
+      "options": [
+        "Oui, il peut classer librement sans aucune justification ni contrôle possible",
+        "Non, il reste tenu par la légalité des peines et doit motiver ses classements",
+        "Oui, il peut créer une incrimination nouvelle si l'intérêt public le justifie",
+        "Non, chaque classement doit recevoir l'aval préalable du juge d'instruction"
+      ],
+      "answer": 1,
+      "explanation": "Le parquet reste tenu par le principe de légalité des délits et des peines et par l'égalité devant la loi ; il ne peut ni créer d'incrimination ni modifier le quantum des peines, et ses décisions de classement doivent pouvoir être motivées, avec un recours hiérarchique possible (art. 40-3 CPP).",
+      "tags": [
+        "opportunité des poursuites"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-002",
+      "question": "Un particulier victime d'une injure peut-il obliger le procureur à poursuivre l'auteur sans avoir lui-même déposé plainte ?",
+      "options": [
+        "Non, la plainte préalable de la victime conditionne ici la poursuite de l'infraction",
+        "Oui, le procureur peut toujours poursuivre d'office dès qu'il a connaissance des faits",
+        "Oui, mais seulement si l'auteur des faits reconnaît spontanément sa responsabilité",
+        "Non, seule une plainte déposée par une association agréée peut déclencher l'action"
+      ],
+      "answer": 0,
+      "explanation": "Pour les diffamations et injures envers les particuliers, comme pour les atteintes à la vie privée commises par voie de presse, le procureur ne peut agir sans une plainte préalable de la victime, en raison du caractère privé de l'intérêt en jeu (loi du 29 juillet 1881, art. 226-6 et 226-10 du Code pénal).",
+      "tags": [
+        "plainte préalable"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-003",
+      "question": "Dans quel cas l'administration fiscale peut-elle déposer plainte sans recueillir l'avis de la Commission des infractions fiscales ?",
+      "options": [
+        "Jamais, cet avis conforme est requis sans aucune exception possible en la matière",
+        "Lorsque l'auteur présumé occupe une fonction publique au moment des faits reprochés",
+        "Pour les infractions les plus graves, une réforme récente en dispense l'administration",
+        "Uniquement lorsque le montant de la fraude reprochée dépasse un seuil fixé par décret"
+      ],
+      "answer": 2,
+      "explanation": "En matière d'infractions fiscales, la plainte de l'administration doit en principe être précédée de l'avis conforme de la Commission des infractions fiscales, sauf pour les infractions les plus graves, qui en dispensent l'administration depuis la loi du 23 octobre 2018.",
+      "tags": [
+        "avis préalable",
+        "infractions fiscales"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-004",
+      "question": "Un parlementaire surpris en train de commettre un délit flagrant peut-il être placé en garde à vue sans autorisation préalable ?",
+      "options": [
+        "Non, l'autorisation du bureau de son assemblée demeure indispensable en toute hypothèse",
+        "Non, seule une autorisation donnée par le garde des Sceaux permettrait cette mesure",
+        "Oui, mais uniquement si le parlementaire renonce expressément à son immunité personnelle",
+        "Oui, la flagrance constitue une exception à l'exigence d'autorisation préalable ici"
+      ],
+      "answer": 3,
+      "explanation": "L'inviolabilité parlementaire impose en principe l'autorisation préalable du bureau de l'assemblée concernée pour les mesures privatives ou restrictives de liberté prises contre un parlementaire pendant la session, sauf en cas de crime ou délit flagrant, ou de condamnation définitive (art. 26 de la Constitution).",
+      "tags": [
+        "inviolabilité parlementaire"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-005",
+      "question": "Quelle différence essentielle distingue la médiation pénale de la composition pénale dans leur mise en œuvre ?",
+      "options": [
+        "La médiation pénale exige elle aussi une homologation du tribunal correctionnel saisi",
+        "Seule la composition pénale nécessite une validation par le président du tribunal",
+        "Seule la médiation pénale peut être proposée aux personnes morales mises en cause",
+        "La composition pénale ne peut jamais s'appliquer aux auteurs de simples contraventions"
+      ],
+      "answer": 1,
+      "explanation": "La médiation pénale repose sur un simple accord des parties organisé par le procureur, sans validation judiciaire formelle, tandis que la composition pénale, elle, suppose l'accord de l'auteur des faits puis une validation par le président du tribunal judiciaire pour produire ses effets.",
+      "tags": [
+        "médiation pénale",
+        "composition pénale"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-006",
+      "question": "Que se passe-t-il lorsque l'auteur d'un délit accepte une composition pénale puis n'exécute pas les mesures proposées ?",
+      "options": [
+        "La poursuite des faits devant la juridiction de jugement redevient alors possible",
+        "L'action publique est définitivement éteinte dès l'acceptation de la mesure proposée",
+        "Le président du tribunal judiciaire prononce alors automatiquement la peine proposée",
+        "Seule une nouvelle composition pénale peut être proposée par le procureur compétent"
+      ],
+      "answer": 0,
+      "explanation": "La mise en œuvre de la composition pénale interrompt l'action publique et son exécution complète l'éteint, mais en cas d'échec de la mesure, la poursuite des faits devant la juridiction de jugement redevient possible pour le procureur de la République.",
+      "tags": [
+        "composition pénale"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-007",
+      "question": "Quel est l'effet sur l'action publique de l'exécution complète des obligations prévues par une convention judiciaire d'intérêt public ?",
+      "options": [
+        "Elle suspend seulement l'action publique, qui reprendra son cours plus tard de plein droit",
+        "Elle n'emporte aucun effet juridique tant qu'aucune décision de justice n'est intervenue",
+        "Elle éteint l'action publique engagée contre la personne morale ayant respecté la mesure",
+        "Elle transforme automatiquement l'action publique restante en une simple action civile"
+      ],
+      "answer": 2,
+      "explanation": "L'exécution de la convention suspend d'abord l'action publique pendant son déroulement, puis l'exécution complète des obligations prévues l'éteint définitivement à l'égard de la personne morale concernée, sans qu'aucune déclaration de culpabilité n'intervienne (art. 41-1-2 CPP).",
+      "tags": [
+        "CJIP"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-008",
+      "question": "Quelle est la limite maximale de la peine d'emprisonnement que le procureur peut proposer dans le cadre d'une CRPC ?",
+      "options": [
+        "La totalité de la peine d'emprisonnement encourue pour le délit reproché à la personne",
+        "La moitié de la peine encourue, sans pouvoir dépasser un an d'emprisonnement au total",
+        "Un quart de la peine encourue, quelle que soit la durée maximale légalement prévue",
+        "Deux tiers de la peine encourue, dans la limite de dix-huit mois d'emprisonnement"
+      ],
+      "answer": 1,
+      "explanation": "Dans le cadre de la comparution sur reconnaissance préalable de culpabilité, l'emprisonnement proposé par le procureur ne peut excéder la moitié de la peine encourue, ni dépasser un an, conformément à l'article 495-7 et suivants du Code de procédure pénale.",
+      "tags": [
+        "CRPC"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-009",
+      "question": "Que se passe-t-il lorsque le président du tribunal judiciaire refuse d'homologuer la peine proposée dans une CRPC ?",
+      "options": [
+        "La personne est immédiatement libérée et l'action publique se trouve éteinte",
+        "Le refus d'homologation est insusceptible de recours et clôt définitivement le dossier",
+        "Une nouvelle CRPC doit obligatoirement être proposée avec une peine plus sévère",
+        "La procédure reprend son cours normal, par citation directe ou renvoi au correctionnel"
+      ],
+      "answer": 3,
+      "explanation": "Lorsque le président du tribunal judiciaire refuse l'homologation de la ou des peines proposées, la procédure reprend son cours normal, par citation directe ou par renvoi devant le tribunal correctionnel, l'ordonnance d'homologation ayant elle-même les effets d'un jugement susceptible d'appel.",
+      "tags": [
+        "CRPC"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-010",
+      "question": "Pour quel type d'infraction le réquisitoire introductif saisissant un juge d'instruction est-il obligatoire ?",
+      "options": [
+        "En matière de crime, alors qu'il reste seulement facultatif en matière de délit complexe",
+        "Pour toute contravention dès que les faits présentent une particulière gravité sociale",
+        "Pour tout délit, l'instruction reste systématiquement requise quelle que soit sa nature",
+        "Uniquement lorsque la victime en formule expressément la demande auprès du parquet"
+      ],
+      "answer": 0,
+      "explanation": "Le réquisitoire introductif, qui saisit le juge d'instruction, est obligatoire en matière de crime, tandis qu'il reste seulement possible en matière de délit lorsque la complexité du dossier le justifie ; à défaut, la citation directe ou la convocation permettent de saisir directement la juridiction de jugement.",
+      "tags": [
+        "procédures d'introduction"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-011",
+      "question": "Un prévenu peut-il être déféré en comparution immédiate pour un délit flagrant puni de huit mois d'emprisonnement ?",
+      "options": [
+        "Non, le seuil de deux ans d'emprisonnement s'applique sans distinction selon la flagrance",
+        "Oui, le seuil applicable en présence de flagrance est ici fixé à six mois d'emprisonnement",
+        "Oui, mais uniquement si le prévenu renonce expressément à l'assistance d'un avocat",
+        "Non, la comparution immédiate est par principe exclue pour tout délit flagrant"
+      ],
+      "answer": 1,
+      "explanation": "La comparution immédiate suppose, pour les délits flagrants, une peine encourue d'au moins deux ans d'emprisonnement, ce seuil étant abaissé à six mois en l'absence de flagrance ; un délit flagrant puni de huit mois dépasse donc le seuil applicable de six mois (art. 395 CPP).",
+      "tags": [
+        "comparution immédiate"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-012",
+      "question": "Une fois mise en mouvement par le procureur de la République, l'action publique peut-elle être librement retirée ?",
+      "options": [
+        "Oui, le procureur conserve à tout moment un droit de retrait discrétionnaire et sans motif",
+        "Oui, à condition que la victime donne son accord express au retrait de la poursuite",
+        "Non, sauf hypothèses très limitées de désistement dans des actions exclusivement civiles",
+        "Non, seul le garde des Sceaux peut autoriser un retrait de l'action déjà engagée"
+      ],
+      "answer": 2,
+      "explanation": "Une fois mise en mouvement, l'action publique échappe à la libre disposition du procureur de la République, qui ne peut plus la retirer ni y renoncer, sauf dans des hypothèses très limitées de désistement de la partie civile dans des actions exclusivement civiles.",
+      "tags": [
+        "exercice de l'action publique"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-013",
+      "question": "Le juge peut-il refuser de relever d'office la prescription de l'action publique lorsqu'elle est acquise ?",
+      "options": [
+        "Oui, la prescription ne peut jamais être relevée d'office par la juridiction saisie",
+        "Oui, seule la victime peut soulever utilement la prescription devant le tribunal",
+        "Non, mais seulement lorsque l'infraction poursuivie constitue un crime contre l'humanité",
+        "Non, la prescription étant d'ordre public, le juge doit en principe la relever d'office"
+      ],
+      "answer": 3,
+      "explanation": "La prescription de l'action publique est d'ordre public : exception péremptoire, elle peut être soulevée à tout moment par les parties et le juge doit en principe la relever d'office, sauf pour la première fois devant la Cour de cassation, sauf constatations suffisantes des juges du fond.",
+      "tags": [
+        "prescription"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-014",
+      "question": "Quelle différence essentielle distingue l'interruption de la suspension du délai de prescription de l'action publique ?",
+      "options": [
+        "L'interruption fait courir un nouveau délai entier, la suspension le délai en cours",
+        "Seule la suspension peut produire un effet erga omnes à l'égard des coauteurs et complices",
+        "L'interruption ne concerne que les crimes, la suspension ne concerne que les délits",
+        "Seule l'interruption peut résulter d'un obstacle de fait insurmontable empêchant d'agir"
+      ],
+      "answer": 0,
+      "explanation": "Tout acte de poursuite ou d'instruction interrompt la prescription et fait courir un nouveau délai de même durée que le délai initial, alors qu'un obstacle insurmontable suspend seulement le délai, qui reprend son cours là où il en était à la disparition de cet obstacle.",
+      "tags": [
+        "prescription",
+        "interruption",
+        "suspension"
+      ]
+    },
+    {
+      "id": "action-publique-qcm-015",
+      "question": "Quel événement entraîne l'extinction de l'action publique tout en laissant subsister l'action civile contre les héritiers ?",
+      "options": [
+        "L'abrogation pure et simple de la loi pénale incriminant les faits poursuivis",
+        "L'amnistie réelle accordée par une loi spéciale postérieure aux faits jugés",
+        "Le décès de l'auteur des faits, en vertu du principe de personnalité des peines",
+        "La survenance d'une décision définitive ayant déjà statué sur exactement les mêmes faits"
+      ],
+      "answer": 2,
+      "explanation": "En vertu du principe de personnalité des peines, le décès de l'auteur des faits éteint l'action publique, qui ne peut être dirigée contre ses héritiers ; l'action civile, en revanche, peut se poursuivre contre eux pour la réparation du dommage causé.",
+      "tags": [
+        "extinction de l'action publique"
+      ]
+    }
+  ]
+}

@@ -101,6 +101,12 @@
       "file": "phase-policiere.json",
       "title": "La phase policière — autorités, enquêtes et garde à vue",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "action-publique",
+      "file": "action-publique.json",
+      "title": "L'action publique — Mise en œuvre, exercice et extinction",
+      "category": "Droit pénal général"
     }
   ]
 }
