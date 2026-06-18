@@ -113,6 +113,12 @@
       "file": "action-civile.json",
       "title": "L'action civile — Sujets, exercice et extinction",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "instruction-ji",
+      "file": "instruction-ji.json",
+      "title": "L'instruction par le juge d'instruction — Pouvoirs, mise en examen et clôture",
+      "category": "Droit pénal général"
     }
   ]
 }
