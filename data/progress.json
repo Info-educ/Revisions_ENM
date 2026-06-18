@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781819427553,
+  "updatedAt": 1781819445623,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -1942,6 +1942,13 @@
       "correctCount": 0,
       "lastResult": "miss",
       "lastSeenAt": 1781819423550
+    },
+    "faits-just-fc-014": {
+      "level": 0,
+      "seenCount": 1,
+      "correctCount": 0,
+      "lastResult": "miss",
+      "lastSeenAt": 1781819441619
     }
   }
 }
