@@ -137,6 +137,12 @@
       "file": "voies-recours.json",
       "title": "Les voies de recours",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "autorite-chose-jugee",
+      "file": "autorite-chose-jugee.json",
+      "title": "L'autorité de la chose jugée",
+      "category": "Droit pénal général"
     }
   ]
 }
