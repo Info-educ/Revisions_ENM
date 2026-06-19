@@ -3,10 +3,58 @@
 // Persistance locale (localStorage) de la progression et des
 // réglages. Le format est volontairement simple (JSON) afin de
 // pouvoir être exporté / importé / synchronisé avec GitHub.
+//
+// MULTI-THÉMATIQUE : chaque thématique (civil / penal / culture-g)
+// possède sa propre progression et ses propres réglages, isolées
+// les unes des autres via un préfixe de clé localStorage.
+// L'ancien format mono-thématique (clés sans thème) est migré
+// automatiquement vers la thématique « penal » au premier accès.
 // ============================================================
 
-const PROGRESS_KEY = "enm.progress.v1";
-const SETTINGS_KEY = "enm.settings.v1";
+const PROGRESS_PREFIX = "enm.progress.v1";
+const SETTINGS_PREFIX = "enm.settings.v1";
+
+// Thématique active courante (définie par l'application au démarrage,
+// une fois que l'utilisateur a choisi sur la page d'accueil).
+let CURRENT_THEME = "penal";
+
+export function setCurrentTheme(themeId) {
+  CURRENT_THEME = themeId || "penal";
+  migrateLegacyKeysIfNeeded(CURRENT_THEME);
+}
+
+export function getCurrentTheme() {
+  return CURRENT_THEME;
+}
+
+function progressKey(themeId = CURRENT_THEME) {
+  return `${PROGRESS_PREFIX}.${themeId}`;
+}
+
+function settingsKey(themeId = CURRENT_THEME) {
+  return `${SETTINGS_PREFIX}.${themeId}`;
+}
+
+// ------------------------------------------------------------
+// Migration de l'ancien format (mono-thématique) vers « penal ».
+// Les anciennes clés "enm.progress.v1" / "enm.settings.v1" (sans
+// suffixe de thème) correspondaient au contenu pénal historique.
+// ------------------------------------------------------------
+function migrateLegacyKeysIfNeeded(themeId) {
+  if (themeId !== "penal") return;
+  try {
+    const legacyProgress = localStorage.getItem(PROGRESS_PREFIX);
+    if (legacyProgress && !localStorage.getItem(progressKey("penal"))) {
+      localStorage.setItem(progressKey("penal"), legacyProgress);
+    }
+    const legacySettings = localStorage.getItem(SETTINGS_PREFIX);
+    if (legacySettings && !localStorage.getItem(settingsKey("penal"))) {
+      localStorage.setItem(settingsKey("penal"), legacySettings);
+    }
+  } catch (e) {
+    console.warn("Migration des clés héritées impossible", e);
+  }
+}
 
 const DEFAULT_SETTINGS = {
   sessionSize: 40, // 0 = illimité
@@ -28,12 +76,12 @@ function clone(obj) {
 }
 
 /**
- * Charge la table de progression complète.
+ * Charge la table de progression complète pour la thématique courante.
  * @returns {Map<string,object>} id -> entrée de progression
  */
 export function loadProgress() {
   try {
-    const raw = localStorage.getItem(PROGRESS_KEY);
+    const raw = localStorage.getItem(progressKey());
     if (!raw) return new Map();
     const obj = JSON.parse(raw);
     return new Map(Object.entries(obj.items || {}));
@@ -44,7 +92,7 @@ export function loadProgress() {
 }
 
 /**
- * Sauvegarde la table de progression complète.
+ * Sauvegarde la table de progression complète pour la thématique courante.
  * @param {Map<string,object>} progressMap
  */
 export function saveProgress(progressMap) {
@@ -54,10 +102,11 @@ export function saveProgress(progressMap) {
   }
   const payload = {
     version: 1,
+    theme: CURRENT_THEME,
     updatedAt: Date.now(),
     items,
   };
-  localStorage.setItem(PROGRESS_KEY, JSON.stringify(payload));
+  localStorage.setItem(progressKey(), JSON.stringify(payload));
   return payload;
 }
 
@@ -72,6 +121,7 @@ export function exportProgressPayload(progressMap) {
   }
   return {
     version: 1,
+    theme: CURRENT_THEME,
     updatedAt: Date.now(),
     items,
   };
@@ -101,11 +151,11 @@ export function mergeProgress(localMap, importedPayload) {
 }
 
 /**
- * Charge les réglages utilisateur.
+ * Charge les réglages utilisateur pour la thématique courante.
  */
 export function loadSettings() {
   try {
-    const raw = localStorage.getItem(SETTINGS_KEY);
+    const raw = localStorage.getItem(settingsKey());
     if (!raw) return clone(DEFAULT_SETTINGS);
     const parsed = JSON.parse(raw);
     return {
@@ -120,14 +170,14 @@ export function loadSettings() {
 }
 
 /**
- * Sauvegarde les réglages utilisateur.
+ * Sauvegarde les réglages utilisateur pour la thématique courante.
  */
 export function saveSettings(settings) {
-  localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings));
+  localStorage.setItem(settingsKey(), JSON.stringify(settings));
 }
 
 export function resetAll() {
-  localStorage.removeItem(PROGRESS_KEY);
+  localStorage.removeItem(progressKey());
   // On conserve les réglages (notamment le jeton GitHub) lors d'une
   // réinitialisation de la progression.
 }

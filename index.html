@@ -18,13 +18,13 @@
 <body>
 
 <header class="topbar">
-  <div class="topbar__brand">
-    <span class="topbar__seal" aria-hidden="true">⚖</span>
+  <button class="topbar__brand" id="btn-back-to-themes" title="Changer de matière" aria-label="Changer de matière">
+    <span class="topbar__seal" id="topbar-seal" aria-hidden="true">⚖</span>
     <div class="topbar__text">
-      <span class="topbar__title">Cabinet ENM</span>
-      <span class="topbar__subtitle">Salle de révision</span>
+      <span class="topbar__title" id="topbar-title">Cabinet ENM</span>
+      <span class="topbar__subtitle" id="topbar-subtitle">Salle de révision</span>
     </div>
-  </div>
+  </button>
   <nav class="desktopbar">
     <button class="desktopbar__btn is-active" data-view="accueil">Accueil</button>
     <button class="desktopbar__btn" data-view="chapitres">Chapitres</button>
@@ -39,8 +39,17 @@
 
 <main id="views">
 
+  <!-- ===================== CHOIX THÉMATIQUE ===================== -->
+  <section id="view-themes" class="view is-active" data-view="themes">
+    <div class="page-head page-head--center">
+      <h1>Cabinet ENM</h1>
+      <p class="page-head__lede">Choisissez votre matière de révision</p>
+    </div>
+    <div class="theme-grid" id="theme-grid"><!-- rempli dynamiquement --></div>
+  </section>
+
   <!-- ===================== ACCUEIL ===================== -->
-  <section id="view-accueil" class="view is-active" data-view="accueil">
+  <section id="view-accueil" class="view" data-view="accueil">
     <div class="page-head">
       <h1>Tableau de bord</h1>
       <p class="page-head__lede">Vue d'ensemble de votre préparation</p>
@@ -165,7 +174,7 @@
       <p class="page-head__lede">Activez ou ciblez vos Flashcards de révision</p>
     </div>
     <ul class="chapter-manage-list" id="chapter-manage-list"></ul>
-    <p class="hint-text">Pour ajouter un chapitre, déposez son fichier JSON dans <code>/data</code> et référencez-le dans <code>manifest.json</code>, puis republiez le site.</p>
+    <p class="hint-text">Pour ajouter un chapitre, déposez son fichier JSON dans le dossier de la matière courante (<code id="hint-theme-dir">data/penal</code>) et référencez-le dans le <code>manifest.json</code> de ce dossier, puis republiez le site.</p>
   </section>
 
   <!-- ===================== REVISIONS ===================== -->

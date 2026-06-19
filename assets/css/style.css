@@ -344,3 +344,69 @@ h1,h2,h3{ font-family: var(--font-display); margin: 0; }
 @media (prefers-reduced-motion: reduce){
   .flip-card__inner, .stamp, .view{ transition:none !important; animation:none !important; }
 }
+
+/* ===================== CHOIX THÉMATIQUE ===================== */
+/* La page de choix de matière masque les barres de navigation et
+   l'indicateur de synchronisation : l'utilisateur doit d'abord
+   choisir une matière avant d'entrer dans le tableau de bord. */
+.topbar__brand{
+  background:none; border:none; cursor:pointer; color:inherit;
+  font:inherit; text-align:left; padding:4px; border-radius:8px;
+  transition: background .15s ease;
+}
+.topbar__brand:hover{ background: rgba(255,255,255,.06); }
+
+body.is-theme-picker{ padding-bottom: 28px; }
+body.is-theme-picker .bottombar,
+body.is-theme-picker .desktopbar,
+body.is-theme-picker #sync-indicator{ display:none !important; }
+/* Sur l'écran de choix, le bandeau-marque n'est pas un retour : on
+   neutralise le curseur cliquable pour éviter toute confusion. */
+body.is-theme-picker .topbar__brand{ cursor:default; pointer-events:none; }
+
+.page-head--center{ text-align:center; margin-top: 24px; margin-bottom: 28px; }
+
+.theme-grid{
+  display:grid; gap:16px;
+  grid-template-columns: 1fr;
+  max-width: 460px; margin: 0 auto;
+}
+@media (min-width: 720px){
+  .theme-grid{ grid-template-columns: repeat(3, 1fr); max-width:none; }
+}
+
+.theme-card{
+  position:relative;
+  display:flex; flex-direction:column; align-items:center; text-align:center;
+  gap:12px; padding: 26px 20px;
+  background: var(--paper);
+  border:1px solid var(--paper-edge);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  cursor:pointer;
+  font:inherit; color:inherit;
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.theme-card:hover{
+  transform: translateY(-3px);
+  border-color: var(--ochre);
+  box-shadow: 0 6px 16px rgba(28,43,74,.14), 0 18px 40px -20px rgba(28,43,74,.45);
+}
+.theme-card__seal{
+  font-size: 30px; line-height:1;
+  width:64px; height:64px; border-radius:50%;
+  display:flex; align-items:center; justify-content:center;
+  border:2px solid var(--ochre); color: var(--garnet);
+  background: var(--parchment);
+}
+.theme-card__title{ font-family: var(--font-display); font-weight:600; font-size:1.25rem; color: var(--ink); }
+.theme-card__subtitle{ font-size:.85rem; color: var(--muted); line-height:1.35; }
+.theme-card__count{
+  margin-top: 4px;
+  font-family: var(--font-mono); font-size:.72rem;
+  text-transform:uppercase; letter-spacing:.1em;
+  color: var(--ink-light);
+  padding: 3px 10px; border-radius: 999px;
+  background: rgba(28,43,74,.06);
+}
+.theme-card__count.is-empty{ color: var(--muted); }

@@ -1,0 +1,25 @@
+{
+  "themes": [
+    {
+      "id": "civil",
+      "title": "Droit Civil",
+      "subtitle": "Personnes, biens, obligations, contrats",
+      "seal": "§",
+      "dir": "data/civil"
+    },
+    {
+      "id": "penal",
+      "title": "Droit Pénal",
+      "subtitle": "Droit pénal général & procédure pénale",
+      "seal": "⚖",
+      "dir": "data/penal"
+    },
+    {
+      "id": "culture-g",
+      "title": "Culture générale",
+      "subtitle": "Connaissances générales & actualité",
+      "seal": "✦",
+      "dir": "data/culture-g"
+    }
+  ]
+}

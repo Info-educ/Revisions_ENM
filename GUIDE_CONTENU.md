@@ -1,8 +1,19 @@
 # Guide de rédaction des chapitres (flashcards & QCM)
 
 Ce document est la référence à fournir à Claude (ou à suivre soi-même) pour
-produire de nouveaux fichiers `data/<chapitre>.json` qui s'intègrent
+produire de nouveaux fichiers `data/<matière>/<chapitre>.json` qui s'intègrent
 directement dans Cabinet ENM, sans réglage supplémentaire.
+
+> **Structure multi-matières.** Le contenu est désormais rangé par matière :
+> `data/penal/`, `data/civil/`, `data/culture-g/`. Chaque dossier possède son
+> propre `manifest.json` listant ses chapitres. La matière « Droit Pénal » est
+> déjà remplie ; « Droit Civil » et « Culture générale » sont vides et prêtes à
+> recevoir des chapitres. Pour ajouter du contenu à une matière, déposez le
+> fichier de chapitre dans le dossier correspondant et référencez-le dans le
+> `manifest.json` **de ce dossier**.
+>
+> Pour ajouter une matière supplémentaire : créez un dossier `data/<id>/` avec
+> son `manifest.json`, puis ajoutez une entrée dans `data/themes.json`.
 
 ---
 

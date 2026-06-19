@@ -1,0 +1,320 @@
+{
+  "id": "action-civile",
+  "title": "L'action civile — Sujets, exercice et extinction",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "action-civile-fc-001",
+      "front": "Qu'est-ce que l'action civile et devant quelles juridictions peut-elle être exercée ?",
+      "back": "C'est l'action en réparation du dommage causé par l'infraction, exercée par la victime soit devant les juridictions civiles, à titre principal, soit devant les juridictions pénales, à titre accessoire de l'action publique.",
+      "tags": [
+        "action civile",
+        "réparation"
+      ]
+    },
+    {
+      "id": "action-civile-fc-002",
+      "front": "Quelles sont les trois conditions du préjudice exigées pour qu'une victime immédiate puisse se constituer partie civile ?",
+      "back": "Le préjudice invoqué doit être personnel (intérêt à agir personnel et légitime), direct (lien de causalité avec le fait dommageable) et certain et actuel, c'est-à-dire non purement éventuel ou hypothétique.",
+      "tags": [
+        "recevabilité",
+        "préjudice"
+      ]
+    },
+    {
+      "id": "action-civile-fc-003",
+      "front": "Qui sont les victimes par ricochet et quel revirement jurisprudentiel a élargi leur recevabilité ?",
+      "back": "Ce sont les proches d'une victime décédée ou blessée, qui subissent un préjudice personnel résultant de celui de la victime directe ; un revirement de jurisprudence a rendu leur recevabilité indépendante de l'existence d'une faute commise par la victime directe.",
+      "tags": [
+        "victime par ricochet"
+      ]
+    },
+    {
+      "id": "action-civile-fc-004",
+      "front": "Comment se distinguent les syndicats et les associations lorsqu'ils agissent comme partie civile sans être eux-mêmes victimes ?",
+      "back": "Les syndicats sont recevables pour défendre l'intérêt collectif de la profession, tandis que les associations ne peuvent agir qu'en vertu d'un texte spécifique le prévoyant expressément pour l'infraction concernée ; aucun de ces acteurs ne peut néanmoins déclencher lui-même un procès pénal.",
+      "tags": [
+        "partie civile",
+        "associations"
+      ]
+    },
+    {
+      "id": "action-civile-fc-005",
+      "front": "Outre l'auteur de l'infraction, quelles autres personnes peuvent être défenderesses à l'action civile ?",
+      "back": "L'action civile peut également viser les héritiers de l'auteur (la dette de réparation se transmettant dans la succession), les personnes civilement responsables (parents pour leurs enfants mineurs, commettants pour leurs préposés) et l'assureur du délinquant.",
+      "tags": [
+        "défendeurs",
+        "action civile"
+      ]
+    },
+    {
+      "id": "action-civile-fc-006",
+      "front": "Quel principe gouverne le choix de la victime entre la voie civile et la voie pénale ?",
+      "back": "La victime choisit librement entre la voie civile et la voie pénale ; cette liberté de principe connaît cependant des exceptions ponctuelles, pour certaines infractions, dans un sens comme dans l'autre, qui imposent alors une voie unique.",
+      "tags": [
+        "option de la victime"
+      ]
+    },
+    {
+      "id": "action-civile-fc-007",
+      "front": "Que signifie le principe « electa una via, non datur recursus ad alteram » ?",
+      "back": "Une fois la voie civile ou la voie pénale choisie par la victime, ce choix devient en principe irrévocable, afin de protéger la personne poursuivie contre le risque d'une double poursuite pour les mêmes faits.",
+      "tags": [
+        "electa una via"
+      ]
+    },
+    {
+      "id": "action-civile-fc-008",
+      "front": "Quelle est la différence essentielle entre la citation directe et la plainte avec constitution de partie civile ?",
+      "back": "La citation directe permet à la victime de saisir directement la juridiction de jugement lorsque l'instruction n'est pas nécessaire, tandis que la plainte avec constitution de partie civile est adressée au juge d'instruction lorsque l'auteur est inconnu ou que les faits requièrent une instruction.",
+      "tags": [
+        "citation directe",
+        "constitution de partie civile"
+      ]
+    },
+    {
+      "id": "action-civile-fc-009",
+      "front": "Que signifie la règle selon laquelle « le criminel tient le civil en l'état » ?",
+      "back": "Le juge civil doit surseoir à statuer tant que l'action publique reste pendante, afin de préserver l'autorité de la chose jugée au pénal sur le civil ; cette règle a toutefois été assouplie pour devenir facultative dans certains cas.",
+      "tags": [
+        "criminel tient le civil en l'état"
+      ]
+    },
+    {
+      "id": "action-civile-fc-010",
+      "front": "Quel délai de prescription s'applique à l'action civile selon la juridiction devant laquelle elle est exercée ?",
+      "back": "Devant les juridictions répressives, l'action civile se prescrit comme l'action publique, par souci d'unité des deux actions ; devant les juridictions civiles, elle obéit en revanche au délai de prescription civile de droit commun, indépendamment de la prescription pénale.",
+      "tags": [
+        "prescription"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "action-civile-qcm-001",
+      "question": "Une concubine peut-elle se constituer partie civile à la suite du décès accidentel de son compagnon ?",
+      "options": [
+        "Oui, la jurisprudence reconnaît sa recevabilité depuis un revirement déjà ancien",
+        "Non, seul un lien de mariage ou de parenté ouvre droit à constitution de partie civile",
+        "Oui, mais seulement si le couple avait conclu récemment un pacte civil de solidarité",
+        "Non, le concubinage demeure dépourvu de toute reconnaissance par le droit pénal"
+      ],
+      "answer": 0,
+      "explanation": "Depuis un arrêt d'assemblée plénière du 27 février 1970, opérant un revirement par rapport à une jurisprudence antérieure plus restrictive, la concubine est recevable à se constituer partie civile, sur le fondement de la maxime nemo auditur propriam turpitudinem allegans.",
+      "tags": [
+        "victime immédiate"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-002",
+      "question": "Le créancier d'une victime de vol peut-il se constituer partie civile en tant que victime par ricochet ?",
+      "options": [
+        "Oui, dès lors que sa créance demeure impayée en raison de l'infraction subie",
+        "Non, sa qualité de simple créancier ne suffit pas à caractériser un préjudice par ricochet",
+        "Oui, à condition que la dette ait été contractée avant la commission du vol reproché",
+        "Non, seule une juridiction civile peut statuer sur la créance d'un tiers au procès pénal"
+      ],
+      "answer": 1,
+      "explanation": "Le préjudice par ricochet suppose un lien personnel et direct avec la victime directe, comme c'est le cas pour les héritiers ; un simple rapport de créance, distinct de ce lien, ne suffit pas à fonder la recevabilité du créancier comme victime par ricochet.",
+      "tags": [
+        "victime par ricochet"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-003",
+      "question": "Pendant combien d'années une association doit-elle généralement justifier d'une déclaration régulière pour pouvoir se constituer partie civile ?",
+      "options": [
+        "Aucune durée minimale n'est jamais exigée, le texte spécial visant seulement son objet",
+        "Une durée de dix ans, alignée sur le délai de prescription civile de droit commun",
+        "Une durée d'au moins cinq ans, lorsque le texte spécial l'exige expressément",
+        "Une durée de trois ans, identique à celle requise pour les organismes professionnels"
+      ],
+      "answer": 2,
+      "explanation": "Les textes spéciaux ouvrant l'action civile aux associations, en matière de racisme, d'enfance en danger ou de délinquance routière par exemple, exigent le plus souvent une déclaration régulière depuis au moins cinq ans à la date des faits poursuivis.",
+      "tags": [
+        "associations"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-004",
+      "question": "Dans quelle hypothèse l'assureur du délinquant intervient-il le plus fréquemment dans l'action civile ?",
+      "options": [
+        "Lorsque le délinquant est insolvable et qu'aucun proche ne peut indemniser la victime",
+        "Lorsque l'infraction reprochée constitue un délit puni d'une peine correctionnelle lourde",
+        "Lorsque la victime renonce expressément à se constituer partie civile contre l'auteur",
+        "En matière d'accidents de la circulation, où son intervention est fréquente et organisée"
+      ],
+      "answer": 3,
+      "explanation": "L'assureur du délinquant peut intervenir volontairement ou être mis en cause de force dans l'action civile, cette intervention étant particulièrement fréquente et organisée en matière d'accidents de la circulation, depuis la loi du 5 juillet 1985.",
+      "tags": [
+        "défendeurs",
+        "assureur"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-005",
+      "question": "Pour quelles infractions la victime est-elle privée du libre choix et contrainte d'agir devant le juge civil ?",
+      "options": [
+        "Les infractions relevant de la Cour de justice de la République et les actes de terrorisme",
+        "Toutes les contraventions, quelle que soit la gravité du préjudice subi par la victime",
+        "Les infractions commises par un mineur de moins de treize ans au moment des faits",
+        "Les délits routiers n'ayant entraîné que des dommages matériels sans préjudice corporel"
+      ],
+      "answer": 0,
+      "explanation": "La voie civile est rendue obligatoire pour les infractions relevant de la compétence de la Cour de justice de la République, ainsi que pour les actes de terrorisme, la victime ne pouvant alors exercer son action que devant le juge civil.",
+      "tags": [
+        "option de la victime"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-006",
+      "question": "Pourquoi la diffamation envers une administration publique impose-t-elle la voie pénale à la victime ?",
+      "options": [
+        "Parce que le juge civil est incompétent pour connaître de toute infraction de presse",
+        "Parce que la réparation de ce préjudice n'est alors possible que devant le juge répressif",
+        "Parce qu'une administration publique ne peut jamais agir devant une juridiction civile",
+        "Parce que la prescription civile serait alors plus courte que la prescription pénale"
+      ],
+      "answer": 1,
+      "explanation": "Pour la diffamation envers une administration publique, un parlementaire, un juré ou un témoin, l'action en réparation n'est ouverte que devant le juge répressif, ce qui impose à la victime la voie pénale à l'exclusion de la voie civile.",
+      "tags": [
+        "option de la victime"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-007",
+      "question": "Dans quel cas la victime peut-elle changer de voie après avoir initialement saisi le juge civil ?",
+      "options": [
+        "Jamais, le principe electa una via s'applique de façon absolue et sans aucune exception",
+        "Uniquement si l'auteur de l'infraction donne expressément son accord à ce changement",
+        "Lorsque la juridiction civile saisie s'avère incompétente pour connaître du litige",
+        "Uniquement si le montant du préjudice réclamé dépasse un seuil fixé par la loi"
+      ],
+      "answer": 2,
+      "explanation": "Le principe electa una via connaît des exceptions, notamment lorsque la juridiction civile initialement saisie se révèle incompétente, ou lorsque l'annulation d'un contrat révèle un vice du consentement à l'origine d'une escroquerie poursuivie.",
+      "tags": [
+        "electa una via"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-008",
+      "question": "Quelle obligation pèse sur la victime qui saisit directement la juridiction de jugement par citation directe ?",
+      "options": [
+        "Elle doit obtenir l'accord préalable du procureur pour pouvoir engager la citation",
+        "Elle doit attendre l'issue d'une instruction préalable menée par un juge d'instruction",
+        "Elle doit recueillir l'accord de l'auteur des faits avant toute saisine de la juridiction",
+        "Elle doit consigner une somme garantissant une éventuelle amende civile en cas d'abus"
+      ],
+      "answer": 3,
+      "explanation": "La citation directe suppose une consignation préalable garantissant le paiement d'une amende civile si la procédure engagée par la victime se révèle abusive, ce mode de saisine n'étant possible que lorsque l'instruction n'est pas nécessaire.",
+      "tags": [
+        "citation directe"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-009",
+      "question": "Quelle condition la victime doit-elle remplir avant de pouvoir déposer une plainte avec constitution de partie civile ?",
+      "options": [
+        "Avoir préalablement déposé une plainte simple auprès du procureur restée sans suite",
+        "Avoir obtenu l'accord du juge d'instruction avant le dépôt formel de sa plainte",
+        "Avoir renoncé par avance à toute indemnisation devant les juridictions civiles",
+        "Avoir fait constater les faits par un huissier de justice dans un délai de trois mois"
+      ],
+      "answer": 0,
+      "explanation": "Parmi les conditions de recevabilité de la plainte avec constitution de partie civile figure l'exigence d'une plainte simple préalablement déposée auprès du procureur de la République et restée sans suite, outre la qualité de victime et la consignation.",
+      "tags": [
+        "constitution de partie civile"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-010",
+      "question": "Quelle conséquence le juge d'instruction peut-il tirer d'un non-lieu prononcé après une plainte avec constitution de partie civile ?",
+      "options": [
+        "Il doit obligatoirement classer le dossier sans pouvoir prononcer aucune sanction civile",
+        "Il peut prononcer une amende civile à l'encontre de la partie civile ayant saisi le juge",
+        "Il doit automatiquement transmettre le dossier à la juridiction civile compétente",
+        "Il peut condamner l'auteur des faits à indemniser la partie civile malgré le non-lieu"
+      ],
+      "answer": 1,
+      "explanation": "Lorsqu'un non-lieu est prononcé à l'issue de l'instruction ouverte sur plainte avec constitution de partie civile, le juge d'instruction peut prononcer une amende civile à l'encontre de la partie civile, en sanction d'une procédure abusive.",
+      "tags": [
+        "constitution de partie civile"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-011",
+      "question": "Une victime peut-elle se constituer partie civile en formulant une simple demande de dommages-intérêts auprès d'un officier de police judiciaire ?",
+      "options": [
+        "Non, seule une déclaration écrite déposée auprès du greffe du tribunal est recevable",
+        "Non, la constitution de partie civile suppose toujours l'intervention d'un avocat",
+        "Oui, une telle demande formulée pendant l'enquête vaut constitution de partie civile",
+        "Oui, mais uniquement si l'officier de police judiciaire en informe immédiatement le juge"
+      ],
+      "answer": 2,
+      "explanation": "Une demande de dommages et intérêts formulée par la victime auprès d'un officier de police judiciaire pendant l'enquête vaut constitution de partie civile par voie d'intervention dans l'action publique déjà mise en mouvement.",
+      "tags": [
+        "intervention"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-012",
+      "question": "Quel inconvénient procédural subit la victime qui se constitue partie civile devant la juridiction répressive ?",
+      "options": [
+        "Elle perd la qualité de témoin et ne peut plus être entendue sous serment à l'audience",
+        "Elle perd définitivement le droit de demander la réparation de son préjudice moral",
+        "Elle doit nécessairement être assistée d'un avocat pour pouvoir comparaître à l'audience",
+        "Elle ne peut plus bénéficier des preuves recueillies au cours de l'enquête pénale"
+      ],
+      "answer": 0,
+      "explanation": "En se constituant partie civile devant la juridiction répressive, la victime acquiert la qualité de partie au procès, ce qui lui fait perdre la qualité de témoin et l'empêche désormais d'être entendue sous serment à l'audience.",
+      "tags": [
+        "conséquences procédurales"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-013",
+      "question": "Dans quel cas le sursis à statuer du juge civil devient-il facultatif plutôt qu'obligatoire ?",
+      "options": [
+        "Lorsque l'auteur des faits a déjà été condamné par une juridiction étrangère compétente",
+        "Lorsque la juridiction pénale a omis de se prononcer sur la demande de partie civile",
+        "Lorsque la victime renonce expressément par écrit au bénéfice de la règle correspondante",
+        "Lorsque l'infraction poursuivie constitue une simple contravention de faible gravité"
+      ],
+      "answer": 1,
+      "explanation": "Depuis l'assouplissement de la règle selon laquelle le criminel tient le civil en l'état, le sursis à statuer devient facultatif lorsque la juridiction pénale, déjà saisie, a omis de se prononcer sur la demande de la partie civile.",
+      "tags": [
+        "criminel tient le civil en l'état"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-014",
+      "question": "Quel effet produit sur l'action civile déjà engagée l'extinction ultérieure de l'action publique par décès du prévenu ?",
+      "options": [
+        "L'action civile s'éteint automatiquement et définitivement avec l'action publique",
+        "L'action civile doit être réintroduite devant une juridiction civile distincte",
+        "L'action civile engagée survit en principe à cette extinction de l'action publique",
+        "L'action civile reste suspendue jusqu'à ce que les héritiers du prévenu soient identifiés"
+      ],
+      "answer": 2,
+      "explanation": "Une fois engagée, l'action civile survit en principe à l'extinction ultérieure de l'action publique, qu'elle résulte du décès du prévenu, de la prescription, de l'abrogation de la loi pénale ou d'une amnistie.",
+      "tags": [
+        "extinction de l'action civile"
+      ]
+    },
+    {
+      "id": "action-civile-qcm-015",
+      "question": "Le désistement de la victime de son action civile produit-il un effet sur l'action publique déjà engagée ?",
+      "options": [
+        "Oui, il entraîne systématiquement l'extinction immédiate et complète de l'action publique",
+        "Oui, mais seulement lorsque la victime renonce également à la qualité de partie civile",
+        "Non, mais il suspend l'action publique jusqu'à ce qu'une nouvelle victime se présente",
+        "Non, le désistement de la victime reste sans incidence sur l'action publique en cours"
+      ],
+      "answer": 3,
+      "explanation": "Le désistement de la victime, qui éteint son action civile par simple renonciation, relève des causes propres au droit commun et demeure sans incidence sur l'action publique, laquelle continue de suivre son cours devant la juridiction répressive.",
+      "tags": [
+        "extinction de l'action civile"
+      ]
+    }
+  ]
+}

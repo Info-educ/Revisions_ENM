@@ -1,0 +1,137 @@
+{
+  "id": "conseil-constitutionnel",
+  "title": "Le Conseil constitutionnel",
+  "category": "Droit constitutionnel",
+  "flashcards": [
+    {
+      "id": "conseil-const-fc-001",
+      "front": "Quelle est la composition du Conseil constitutionnel et sur quel fondement ?",
+      "back": "9 membres nommés pour un mandat de 9 ans non renouvelable, renouvelé par tiers tous les 3 ans : 3 par le Président de la République, 3 par le Président de l'Assemblée nationale, 3 par le Président du Sénat (art. 56 et 57 de la Constitution).",
+      "tags": [
+        "composition",
+        "article 56",
+        "article 57"
+      ]
+    },
+    {
+      "id": "conseil-const-fc-003",
+      "front": "Quelle est la différence entre le contrôle a priori (art. 61) et la QPC (art. 61-1) quant au moment et à l'objet du contrôle ?",
+      "back": "Le contrôle a priori (art. 61) porte sur une loi non encore promulguée ; la QPC (art. 61-1, depuis 2008/2010) porte sur une loi déjà en vigueur, soulevée par tout justiciable au cours d'un procès si elle porte atteinte aux droits et libertés garantis par la Constitution.",
+      "tags": [
+        "QPC",
+        "article 61",
+        "article 61-1"
+      ]
+    },
+    {
+      "id": "conseil-const-fc-006",
+      "front": "Comment une QPC parvient-elle au Conseil constitutionnel et quelles peuvent être ses issues ?",
+      "back": "La QPC est transmise via un filtrage par le Conseil d'État ou la Cour de cassation. Son issue peut être l'abrogation immédiate ou différée de la disposition jugée inconstitutionnelle.",
+      "tags": [
+        "QPC",
+        "filtrage",
+        "abrogation"
+      ]
+    },
+    {
+      "id": "conseil-const-fc-009",
+      "front": "Que comprend le bloc de constitutionnalité ?",
+      "back": "La Constitution de 1958 et son Préambule, la Déclaration des droits de l'homme et du citoyen de 1789, le Préambule de la Constitution de 1946, et la Charte de l'environnement de 2004.",
+      "tags": [
+        "bloc de constitutionnalité"
+      ]
+    },
+    {
+      "id": "conseil-const-fc-010",
+      "front": "Quelle est la portée de la décision du Conseil constitutionnel du 16 juillet 1971 sur la liberté d'association ?",
+      "back": "Cette décision fondatrice marque la reconnaissance par le Conseil de sa compétence pour contrôler la conformité des lois aux droits et libertés du Préambule, élargissant ainsi le bloc de constitutionnalité et affirmant le Conseil comme protecteur des libertés fondamentales.",
+      "tags": [
+        "16 juillet 1971",
+        "liberté d'association",
+        "bloc de constitutionnalité"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "conseil-const-qcm-001",
+      "question": "Combien de membres compte le Conseil constitutionnel et quelle est la durée de leur mandat ?",
+      "options": [
+        "Sept membres nommés pour un mandat de six ans renouvelable par les autorités compétentes",
+        "Neuf membres nommés pour un mandat de neuf ans non renouvelable, renouvelé par tiers",
+        "Neuf membres nommés pour un mandat de six ans renouvelable une fois par chaque autorité",
+        "Douze membres dont le mandat de neuf ans est renouvelable à hauteur de la moitié du siège"
+      ],
+      "answer": 1,
+      "explanation": "L'article 56 de la Constitution fixe la composition du Conseil constitutionnel à 9 membres nommés pour un mandat de 9 ans non renouvelable, renouvelé par tiers tous les 3 ans (3 par chacune des trois autorités de nomination : Président de la République, Président de l'AN, Président du Sénat).",
+      "tags": [
+        "composition",
+        "article 56"
+      ]
+    },
+    {
+      "id": "conseil-const-qcm-002",
+      "question": "Une loi organique a été votée par le Parlement et n'est pas encore promulguée. Quel contrôle de constitutionnalité s'applique nécessairement ?",
+      "options": [
+        "Aucun contrôle n'est requis pour les lois organiques, qui relèvent du seul Parlement",
+        "Le contrôle a priori est obligatoire et automatique avant la promulgation de la loi",
+        "Seule la voie de la question prioritaire de constitutionnalité est ouverte après vigueur",
+        "Le contrôle est facultatif et ne peut être déclenché que par soixante parlementaires"
+      ],
+      "answer": 1,
+      "explanation": "Contrairement aux lois ordinaires pour lesquelles le contrôle a priori est facultatif, ce contrôle est obligatoire pour les lois organiques et les règlements des assemblées : elles doivent être soumises au Conseil constitutionnel avant leur promulgation.",
+      "tags": [
+        "contrôle a priori",
+        "lois organiques"
+      ]
+    },
+    {
+      "id": "conseil-const-qcm-003",
+      "question": "Au cours d'un procès, une partie soulève que la loi appliquée à son litige porte atteinte à un droit garanti par la Constitution. Quelle voie est ouverte et depuis quand ?",
+      "options": [
+        "Le contrôle préventif exercé avant la promulgation, ouvert depuis la Constitution de 1958",
+        "La question prioritaire de constitutionnalité, instaurée en 2008 et en vigueur depuis 2010",
+        "Un recours direct devant la Cour européenne des droits de l'homme sans filtrage préalable",
+        "Une saisine directe du Conseil d'État statuant au fond sur la constitutionnalité du texte"
+      ],
+      "answer": 1,
+      "explanation": "La question prioritaire de constitutionnalité (QPC), instaurée par la révision constitutionnelle de 2008 et entrée en vigueur en 2010 (art. 61-1), permet à tout justiciable de soulever, au cours d'un procès, l'inconstitutionnalité d'une loi déjà en vigueur portant atteinte à ses droits et libertés.",
+      "tags": [
+        "QPC",
+        "article 61-1"
+      ]
+    },
+    {
+      "id": "conseil-const-qcm-004",
+      "question": "Une QPC est soulevée devant un tribunal judiciaire. Par quelle juridiction sera-t-elle filtrée avant transmission éventuelle au Conseil constitutionnel ?",
+      "options": [
+        "Le Conseil d'État, compétent quel que soit l'ordre juridictionnel dans lequel née la QPC",
+        "La Cour de cassation, juridiction suprême de l'ordre judiciaire auquel appartient le juge",
+        "La cour d'appel territorialement compétente, en tant que juridiction supérieure du premier",
+        "Directement le Conseil constitutionnel, la QPC lui étant transmise sans aucun filtrage"
+      ],
+      "answer": 1,
+      "explanation": "Le filtrage de la QPC s'opère par la juridiction suprême de l'ordre juridictionnel saisi : la Cour de cassation pour l'ordre judiciaire et le Conseil d'État pour l'ordre administratif, avant transmission éventuelle au Conseil constitutionnel, qui doit alors statuer dans un délai de 3 mois.",
+      "tags": [
+        "QPC",
+        "filtrage",
+        "cour de cassation"
+      ]
+    },
+    {
+      "id": "conseil-const-qcm-005",
+      "question": "Le bloc de constitutionnalité comprend-il la Charte de l'environnement ?",
+      "options": [
+        "Non, seules la Constitution de 1958 et la Déclaration des droits de l'homme en font partie",
+        "Oui, depuis 2004 : Constitution et préambule, DDHC, préambule de 1946 et Charte de 2004",
+        "Non, la Charte de l'environnement relève exclusivement du droit international non interne",
+        "Oui, mais la Charte de l'environnement ne peut être invoquée que dans le cadre de la QPC"
+      ],
+      "answer": 1,
+      "explanation": "Le bloc de constitutionnalité comprend la Constitution de 1958 et son Préambule, la Déclaration des droits de l'homme et du citoyen de 1789, le Préambule de la Constitution de 1946, ainsi que la Charte de l'environnement de 2004. Il s'applique aux deux voies de contrôle, a priori comme a posteriori.",
+      "tags": [
+        "bloc de constitutionnalité"
+      ]
+    }
+  ]
+}

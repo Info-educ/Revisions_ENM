@@ -18,6 +18,8 @@ import {
   exportProgressPayload,
   mergeProgress,
   resetAll,
+  setCurrentTheme,
+  getCurrentTheme,
 } from "./storage.js";
 import { pullProgress, pushProgress } from "./github-sync.js";
 
@@ -25,10 +27,12 @@ import { pullProgress, pushProgress } from "./github-sync.js";
 // État global
 // ------------------------------------------------------------
 const state = {
+  themes: [],         // [{id, title, subtitle, seal, dir}]
+  theme: null,        // thématique courante {id, title, ...}
   chaptersMeta: [],   // [{id, title, category, counts:{fc, qcm}}]
   allItems: [],       // [{id, type, chapterId, chapterTitle, ...payload}]
   progress: new Map(),
-  settings: loadSettings(),
+  settings: null,     // chargé après le choix de la thématique
   session: null,      // { queue, total, validatedCount, current }
 };
 
@@ -39,12 +43,13 @@ const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
 // Chargement des données
 // ------------------------------------------------------------
 async function loadAllChapters() {
+  const dir = state.theme?.dir || "data/penal";
   let manifest;
   try {
-    const res = await fetch("data/manifest.json");
+    const res = await fetch(`${dir}/manifest.json`);
     manifest = await res.json();
   } catch (e) {
-    console.error("Impossible de charger data/manifest.json", e);
+    console.error(`Impossible de charger ${dir}/manifest.json`, e);
     manifest = { chapters: [] };
   }
 
@@ -53,7 +58,7 @@ async function loadAllChapters() {
 
   for (const entry of manifest.chapters || []) {
     try {
-      const res = await fetch(`data/${entry.file}`);
+      const res = await fetch(`${dir}/${entry.file}`);
       const chapter = await res.json();
 
       const flashcards = chapter.flashcards || [];
@@ -171,11 +176,13 @@ function ensureProgressEntry(id) {
 // Navigation entre vues
 // ------------------------------------------------------------
 function showView(name) {
+  document.body.classList.toggle("is-theme-picker", name === "themes");
   $$(".view").forEach((v) => v.classList.toggle("is-active", v.dataset.view === name));
   $$("[data-view]").forEach((btn) => {
     if (btn.id === "btn-start-session") return;
     btn.classList.toggle("is-active", btn.dataset.view === name);
   });
+  if (name === "themes") renderThemePicker();
   if (name === "accueil") renderDashboard();
   if (name === "chapitres") renderChapitres();
   if (name === "revisions") renderRevisions();
@@ -187,6 +194,132 @@ function setupNav() {
   $$(".bottombar__btn, .desktopbar__btn").forEach((btn) => {
     btn.addEventListener("click", () => showView(btn.dataset.view));
   });
+}
+
+// ------------------------------------------------------------
+// Choix de la thématique (page d'accueil)
+// ------------------------------------------------------------
+async function loadThemesRegistry() {
+  try {
+    const res = await fetch("data/themes.json");
+    const data = await res.json();
+    state.themes = data.themes || [];
+  } catch (e) {
+    console.error("Impossible de charger data/themes.json", e);
+    // Repli minimal : au moins le pénal reste accessible.
+    state.themes = [
+      { id: "penal", title: "Droit Pénal", subtitle: "", seal: "⚖", dir: "data/penal" },
+    ];
+  }
+}
+
+/**
+ * Compte rapidement les items (fc + qcm) d'une thématique en lisant
+ * son manifest puis chaque chapitre. Utilisé uniquement pour
+ * l'affichage indicatif sur les cartes de choix.
+ */
+async function countThemeItems(theme) {
+  try {
+    const res = await fetch(`${theme.dir}/manifest.json`);
+    const manifest = await res.json();
+    const chapters = manifest.chapters || [];
+    let fc = 0;
+    let qcm = 0;
+    await Promise.all(
+      chapters.map(async (entry) => {
+        try {
+          const r = await fetch(`${theme.dir}/${entry.file}`);
+          const ch = await r.json();
+          fc += (ch.flashcards || []).length;
+          qcm += (ch.qcm || []).length;
+        } catch (_) { /* chapitre illisible : ignoré */ }
+      })
+    );
+    return { chapters: chapters.length, fc, qcm };
+  } catch (e) {
+    return { chapters: 0, fc: 0, qcm: 0 };
+  }
+}
+
+function renderThemePicker() {
+  const grid = $("#theme-grid");
+  if (!grid) return;
+  grid.innerHTML = "";
+
+  for (const theme of state.themes) {
+    const card = document.createElement("button");
+    card.className = "theme-card";
+    card.type = "button";
+    card.dataset.theme = theme.id;
+    card.innerHTML = `
+      <span class="theme-card__seal" aria-hidden="true">${escapeHtml(theme.seal || "⚖")}</span>
+      <span class="theme-card__title">${escapeHtml(theme.title)}</span>
+      <span class="theme-card__subtitle">${escapeHtml(theme.subtitle || "")}</span>
+      <span class="theme-card__count" data-count-for="${theme.id}">…</span>
+    `;
+    card.addEventListener("click", () => enterTheme(theme.id));
+    grid.appendChild(card);
+
+    // Renseigne le compteur de façon asynchrone (n'empêche pas le clic).
+    countThemeItems(theme).then(({ chapters, fc, qcm }) => {
+      const el = grid.querySelector(`[data-count-for="${theme.id}"]`);
+      if (!el) return;
+      const total = fc + qcm;
+      if (total === 0) {
+        el.textContent = "À compléter";
+        el.classList.add("is-empty");
+      } else {
+        el.textContent = `${chapters} chap. · ${fc} FC · ${qcm} QCM`;
+      }
+    });
+  }
+}
+
+/**
+ * Entre dans une thématique : bascule le stockage, recharge les
+ * réglages et les données propres à cette matière, puis affiche le
+ * tableau de bord.
+ */
+async function enterTheme(themeId) {
+  const theme = state.themes.find((t) => t.id === themeId) || state.themes[0];
+  if (!theme) return;
+
+  state.theme = theme;
+  setCurrentTheme(theme.id);
+
+  // Réglages + progression propres à la thématique.
+  state.settings = loadSettings();
+  state.progress = loadProgress();
+
+  // Chaque matière synchronise son propre fichier de progression sur
+  // GitHub afin d'éviter toute collision entre matières.
+  state.settings.github.path = `data/progress-${theme.id}.json`;
+  saveSettings(state.settings);
+
+  // Met à jour l'en-tête (sceau + titre de la matière).
+  $("#topbar-seal").textContent = theme.seal || "⚖";
+  $("#topbar-title").textContent = theme.title;
+  $("#topbar-subtitle").textContent = "Salle de révision";
+  const hintDir = $("#hint-theme-dir");
+  if (hintDir) hintDir.textContent = theme.dir;
+
+  // Charge les chapitres de la matière, puis synchronise et affiche.
+  await loadAllChapters();
+  // Réinitialise les segmented controls selon les réglages rechargés.
+  renderSessionTypeSegmented();
+  renderSessionSizeSegmented();
+  await autoPullOnStartup();
+
+  showView("accueil");
+}
+
+function backToThemes() {
+  if (state.session && state.session.queue && state.session.queue.length > 0) {
+    if (!confirm("Quitter cette matière ? La session en cours sera abandonnée (la progression déjà enregistrée est conservée).")) return;
+  }
+  state.session = null;
+  state.theme = null;
+  showView("themes");
 }
 
 // ------------------------------------------------------------
@@ -255,8 +388,9 @@ function renderChapitres() {
 }
 
 function renderSessionTypeSegmented() {
+  const t = state.settings?.sessionType || "all";
   $$("#session-type-segmented button").forEach((btn) => {
-    btn.classList.toggle("is-active", btn.dataset.type === (state.settings.sessionType || "all"));
+    btn.classList.toggle("is-active", btn.dataset.type === t);
   });
 }
 
@@ -273,8 +407,9 @@ function setupSessionType() {
 }
 
 function renderSessionSizeSegmented() {
+  const size = state.settings?.sessionSize ?? 40;
   $$("#session-size-segmented button").forEach((btn) => {
-    btn.classList.toggle("is-active", Number(btn.dataset.size) === state.settings.sessionSize);
+    btn.classList.toggle("is-active", Number(btn.dataset.size) === size);
   });
 }
 
@@ -834,7 +969,6 @@ function escapeHtml(str) {
 // Initialisation
 // ------------------------------------------------------------
 async function init() {
-  state.progress = loadProgress();
   setupNav();
   setupReglages();
   setupSessionType();
@@ -844,10 +978,10 @@ async function init() {
   setupQuitSession();
 
   $("#btn-start-session").addEventListener("click", startSession);
+  $("#btn-back-to-themes").addEventListener("click", backToThemes);
 
-  await loadAllChapters();
-  await autoPullOnStartup();
-  renderDashboard();
+  await loadThemesRegistry();
+  showView("themes");
 
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("sw.js").catch(() => {});

@@ -1,0 +1,332 @@
+{
+  "id": "phase-jugement",
+  "title": "La phase de jugement — Principes, procédures et décision",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "phase-jugement-fc-001",
+      "front": "Quel est le principe de la saisine in rem de la juridiction de jugement et quelles en sont les conséquences ?",
+      "back": "La juridiction de jugement est saisie des faits et non des personnes : elle ne peut statuer que sur les faits dont elle est saisie, sauf nouvelles qualifications, et ne peut juger une personne qui ne lui a pas été régulièrement déférée ; une fois compétente, elle ne se dessaisit qu'à l'issue du jugement sur le fond.",
+      "tags": [
+        "saisine in rem"
+      ]
+    },
+    {
+      "id": "phase-jugement-fc-002",
+      "front": "Dans quels cas le huis clos peut-il être ordonné lors des débats, et pour quel public reste-t-il obligatoire ?",
+      "back": "Le huis clos peut être décidé d'office ou sur demande, motivé par une atteinte à l'ordre public, aux bonnes mœurs, à la dignité de la personne, ou pour des raisons de protection ou de santé ; il est obligatoire de plein droit pour les mineurs délinquants, sauf demande contraire d'un majeur poursuivi.",
+      "tags": [
+        "publicité des débats",
+        "huis clos"
+      ]
+    },
+    {
+      "id": "phase-jugement-fc-003",
+      "front": "Qu'impose le principe d'oralité des débats et en quoi est-il particulièrement fort devant la cour d'assises ?",
+      "back": "Ce principe impose que la juridiction fonde sa décision sur ce qui a été dit et entendu à l'audience, et non sur le seul dossier écrit ; il est particulièrement fort devant la cour d'assises car les jurés n'ont normalement pas accès au dossier de l'instruction et l'accusé ne peut pas lire un support écrit.",
+      "tags": [
+        "oralité des débats"
+      ]
+    },
+    {
+      "id": "phase-jugement-fc-004",
+      "front": "Quel est l'ordre des plaidoiries à l'audience devant la cour d'assises ?",
+      "back": "À la cour d'assises, les plaidoiries se déroulent dans l'ordre suivant : la partie civile plaide en premier, le ministère public ensuite, et la défense (avocat de l'accusé) en dernier, ce qui garantit à l'accusé le droit d'avoir le dernier mot.",
+      "tags": [
+        "plaidoiries",
+        "cour d'assises"
+      ]
+    },
+    {
+      "id": "phase-jugement-fc-005",
+      "front": "Quelles majorités sont requises pour la culpabilité et pour le maximum de la peine devant la cour d'assises en première instance ?",
+      "back": "En première instance, un minimum de sept voix sur neuf est requis pour déclarer l'accusé coupable, tandis qu'une majorité absolue est requise pour prononcer le maximum de la peine encourue ; les bulletins blancs ou nuls profitent à l'accusé.",
+      "tags": [
+        "délibéré",
+        "majorité"
+      ]
+    },
+    {
+      "id": "phase-jugement-fc-006",
+      "front": "En quoi le défaut criminel diffère-t-il de l'ancienne contumace ?",
+      "back": "Depuis la loi du 9 mars 2004, l'accusé absent et non excusé est jugé en son absence mais représenté par un avocat ; à la différence de la contumace, le jugement par défaut criminel n'est pas anéanti si l'accusé se présente ou est arrêté — seul l'appel reste ouvert si l'arrêt n'est pas définitif.",
+      "tags": [
+        "défaut criminel",
+        "contumace"
+      ]
+    },
+    {
+      "id": "phase-jugement-fc-007",
+      "front": "Quelles procédures simplifiées sans débat existent devant le tribunal correctionnel ?",
+      "back": "Des procédures simplifiées sans débat contradictoire existent devant le tribunal correctionnel, notamment l'ordonnance pénale et l'amende forfaitaire délictuelle, réservées à des infractions d'une certaine catégorie et permettant d'éviter une audience ordinaire.",
+      "tags": [
+        "procédures simplifiées"
+      ]
+    },
+    {
+      "id": "phase-jugement-fc-008",
+      "front": "Dans quel cas le tribunal correctionnel peut-il examiner les nullités de l'instruction ?",
+      "back": "En principe, le tribunal correctionnel n'examine pas les nullités de l'instruction ; par exception, il le peut lorsqu'un vice substantiel d'ordre public n'a pas été purgé, ou lorsqu'une exception de nullité n'a pas été soulevée in limine litis devant la chambre de l'instruction alors que celle-ci était saisie.",
+      "tags": [
+        "nullités",
+        "tribunal correctionnel"
+      ]
+    },
+    {
+      "id": "phase-jugement-fc-009",
+      "front": "Qu'est-ce que le défaut de base légale et dans quelle hypothèse se retrouve-t-on face à ce vice ?",
+      "back": "Le défaut de base légale désigne le vice affectant une décision dont la motivation est insuffisante pour permettre à la Cour de cassation d'exercer son contrôle ; l'insuffisance de motifs équivaut à une absence de motifs et constitue un défaut de base légale sanctionné par la chambre criminelle.",
+      "tags": [
+        "motivation",
+        "défaut de base légale"
+      ]
+    },
+    {
+      "id": "phase-jugement-fc-010",
+      "front": "Depuis quand et pour quelles décisions l'exigence de motivation a-t-elle été étendue au choix de la peine ?",
+      "back": "La loi du 23 mars 2019 a réécrit l'article 485-1 du Code de procédure pénale pour étendre l'exigence de motivation au choix de la peine elle-même, y compris les peines complémentaires, l'aménagement et la rétention de sûreté, prolongeant ainsi la décision QPC du 2 mars 2018.",
+      "tags": [
+        "motivation",
+        "choix de la peine"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "phase-jugement-qcm-001",
+      "question": "Le huis clos est-il ordonné automatiquement lorsque le prévenu est un mineur délinquant ?",
+      "options": [
+        "Non, le huis clos doit impérativement être demandé par l'une des parties en cause",
+        "Non, le huis clos reste toujours facultatif et à l'appréciation de la juridiction",
+        "Oui, il est obligatoire de plein droit lorsque le prévenu est un mineur délinquant",
+        "Oui, mais seulement si le mineur délinquant en fait expressément la demande"
+      ],
+      "answer": 2,
+      "explanation": "Le huis clos est en principe facultatif pour la juridiction, mais il devient obligatoire de plein droit lorsque le prévenu est un mineur délinquant, sauf demande contraire d'un majeur également poursuivi dans la même procédure.",
+      "tags": [
+        "publicité des débats",
+        "huis clos"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-002",
+      "question": "L'enregistrement audiovisuel d'une audience pénale est-il librement autorisé dès lors que les débats sont publics ?",
+      "options": [
+        "Oui, tout enregistrement est librement autorisé dès lors que le jugement est public",
+        "Non, il est interdit sans exception afin de protéger la sérénité des débats",
+        "Non, l'enregistrement reste exceptionnel, soumis à autorisation et à un motif public",
+        "Oui, à condition que toutes les parties donnent leur accord exprès avant l'audience"
+      ],
+      "answer": 2,
+      "explanation": "Malgré la publicité des audiences, l'enregistrement audiovisuel reste exceptionnel et doit répondre à un motif d'intérêt public, faire l'objet d'une autorisation, et n'être diffusé qu'après le prononcé du jugement, conformément à la loi du 22 décembre 2021.",
+      "tags": [
+        "publicité des débats"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-003",
+      "question": "Les jurés de la cour d'assises ont-ils normalement accès au dossier de l'instruction pour délibérer ?",
+      "options": [
+        "Non, les jurés n'ont normalement pas accès au dossier de l'instruction en délibéré",
+        "Oui, les jurés ont normalement accès au dossier de l'instruction pour délibérer",
+        "Oui, sauf pour les actes des parties civiles qui leur sont systématiquement remis",
+        "Non, mais le président leur en fait la lecture intégrale avant le délibéré secret"
+      ],
+      "answer": 0,
+      "explanation": "Le principe d'oralité est particulièrement fort devant la cour d'assises : les jurés n'ont normalement pas accès au dossier de l'instruction et doivent fonder leur conviction uniquement sur ce qui a été dit et entendu à l'audience.",
+      "tags": [
+        "oralité des débats",
+        "cour d'assises"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-004",
+      "question": "La comparution personnelle de l'accusé est-elle obligatoire devant la cour d'assises ?",
+      "options": [
+        "Non, le prévenu présent peut toujours se dispenser de comparaître devant cette cour",
+        "Non, seul le ministère public doit toujours être présent, pas le prévenu lui-même",
+        "Oui, mais il peut demander à être représenté par son avocat si sa présence est difficile",
+        "Oui, la comparution personnelle de l'accusé est obligatoire devant la cour d'assises"
+      ],
+      "answer": 3,
+      "explanation": "Contrairement à la procédure devant le tribunal correctionnel où des dispenses de comparution sont admises, la comparution personnelle de l'accusé est obligatoire devant la cour d'assises, sauf dans le cadre de la procédure du défaut criminel.",
+      "tags": [
+        "contradictoire",
+        "cour d'assises"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-005",
+      "question": "Quelles sont les majorités requises pour déclarer un accusé coupable et pour prononcer le maximum de la peine devant la cour d'assises en première instance ?",
+      "options": [
+        "Six voix sur neuf pour la culpabilité ; majorité absolue pour le maximum de la peine",
+        "Sept voix sur neuf pour la culpabilité ; majorité absolue pour le maximum de la peine",
+        "Unanimité des voix exigée pour la culpabilité ; majorité simple pour la peine ensuite",
+        "Majorité absolue pour la culpabilité ; unanimité exigée pour le maximum de la peine"
+      ],
+      "answer": 1,
+      "explanation": "La culpabilité requiert une majorité de sept voix sur neuf en première instance ; prononcer le maximum de la peine encourue nécessite ensuite une majorité absolue des membres de la cour d'assises, magistrats et jurés réunis.",
+      "tags": [
+        "délibéré",
+        "majorité"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-006",
+      "question": "Dans quel délai la feuille de motivation de la cour d'assises doit-elle être rédigée après la condamnation ?",
+      "options": [
+        "Dans les quinze jours suivant le prononcé de la condamnation à l'audience publique",
+        "Dans les huit jours suivant la décision, délai de rigueur prévu par les textes",
+        "Dans les trois jours suivant la condamnation, ce délai étant fixé par la loi",
+        "Avant la lecture du délibéré, la motivation devant précéder la décision elle-même"
+      ],
+      "answer": 2,
+      "explanation": "La motivation de l'arrêt de condamnation de la cour d'assises, rendue obligatoire par la loi du 10 août 2011 et étendue au choix de la peine par la loi du 23 mars 2019, doit être rédigée dans les trois jours suivant la condamnation.",
+      "tags": [
+        "motivation",
+        "cour d'assises"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-007",
+      "question": "Que se passe-t-il lorsqu'un accusé jugé par défaut criminel est finalement arrêté, si l'arrêt n'est pas encore définitif ?",
+      "options": [
+        "Il rend l'arrêt par défaut nul et non avenu, toute la procédure recommençant à zéro",
+        "Il peut interjeter appel de l'arrêt si celui-ci n'est pas encore devenu définitif",
+        "Il est immédiatement rejugé au fond par la même formation de la cour d'assises",
+        "Il bénéficie automatiquement d'une réduction de peine en raison de sa reddition"
+      ],
+      "answer": 1,
+      "explanation": "Contrairement à l'ancienne contumace, le défaut criminel ne rend pas la décision nulle si l'accusé se présente ou est arrêté : seule la voie de l'appel reste ouverte lorsque l'arrêt n'est pas encore définitif, la décision conservant sinon son autorité.",
+      "tags": [
+        "défaut criminel"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-008",
+      "question": "Le tribunal correctionnel peut-il en principe soulever les nullités de procédure affectant l'instruction préparatoire ?",
+      "options": [
+        "Oui, il peut les soulever à tout moment, même pour la première fois devant lui",
+        "Non, ces nullités ne peuvent être examinées que par le seul juge d'instruction",
+        "Non, sauf vice substantiel d'ordre public non purgé ou exception non soulevée en temps",
+        "Oui, mais seulement celles tirées d'actes accomplis au cours de la phase policière"
+      ],
+      "answer": 2,
+      "explanation": "En principe, le tribunal correctionnel n'examine pas les nullités de l'instruction ; il le peut par exception lorsqu'un vice substantiel d'ordre public n'a pas été purgé, ou lorsqu'une exception de nullité n'a pas été soulevée in limine litis devant la chambre de l'instruction.",
+      "tags": [
+        "nullités",
+        "tribunal correctionnel"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-009",
+      "question": "À quel stade de la procédure devant le tribunal correctionnel une exception de nullité doit-elle impérativement être soulevée ?",
+      "options": [
+        "Avant toute discussion sur le fond, in limine litis, sous peine d'irrecevabilité",
+        "Après la clôture des plaidoiries mais avant le prononcé définitif du jugement",
+        "À tout moment avant le délibéré, sans aucune condition de délai ni de procédure",
+        "Uniquement par voie d'appel, après que le jugement sur le fond a été prononcé"
+      ],
+      "answer": 0,
+      "explanation": "L'exception de nullité doit être soulevée avant toute défense au fond, in limine litis, sous peine d'être déclarée irrecevable ; le tribunal a alors l'obligation d'y répondre par une décision avant de statuer sur le fond de l'affaire.",
+      "tags": [
+        "nullités",
+        "in limine litis"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-010",
+      "question": "Comment sont pris en compte les bulletins blancs ou nuls lors du délibéré de la cour d'assises ?",
+      "options": [
+        "Ils comptent en faveur de la personne jugée et lui profitent dans la délibération",
+        "Ils sont considérés comme des votes en faveur de la condamnation de la personne",
+        "Ils sont écartés du décompte et le vote recommence jusqu'à obtention d'un résultat",
+        "Ils entraînent automatiquement la dissolution du jury et la reprise complète du procès"
+      ],
+      "answer": 0,
+      "explanation": "Les bulletins blancs ou nuls profitent à la personne jugée lors du délibéré de la cour d'assises, car ils ne constituent pas des votes en faveur de la culpabilité et s'ajoutent donc, de fait, aux voix favorables à l'accusé.",
+      "tags": [
+        "délibéré"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-011",
+      "question": "L'insuffisance de motivation d'une décision pénale produit-elle les mêmes effets qu'une absence totale de motivation ?",
+      "options": [
+        "Elle est régulière et la décision demeure valable malgré cette insuffisance partielle",
+        "Elle constitue un défaut de base légale sanctionné par la chambre criminelle",
+        "Elle n'est sanctionnée que si la partie lésée en fait grief expressément lors de l'appel",
+        "Elle ne constitue un défaut de base légale que pour les crimes et non pour les délits"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence de la chambre criminelle assimile l'insuffisance de motifs à une absence de motifs : ce défaut de base légale prive la Cour de cassation de la possibilité d'exercer son contrôle et entraîne la cassation de la décision.",
+      "tags": [
+        "motivation",
+        "défaut de base légale"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-012",
+      "question": "Le tribunal correctionnel demeure-t-il compétent pour statuer sur les intérêts civils après une relaxe pour infraction non intentionnelle ?",
+      "options": [
+        "Non, la relaxe entraîne systématiquement la perte de toute compétence sur les intérêts",
+        "Non, la victime doit alors impérativement saisir le juge civil pour obtenir réparation",
+        "Oui, mais seulement si la partie civile avait formé sa demande avant la relaxe",
+        "Oui, sur le fondement de la faute civile distincte, en application du droit civil"
+      ],
+      "answer": 3,
+      "explanation": "Même en cas de relaxe pour infraction non intentionnelle, le tribunal correctionnel demeure compétent pour statuer sur les intérêts civils sur le fondement de la faute civile, distincte de la faute pénale, en application des règles du droit civil.",
+      "tags": [
+        "décision",
+        "intérêts civils"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-013",
+      "question": "Une dispense de peine prononcée par un tribunal pénal est-elle systématiquement inscrite au casier judiciaire du condamné ?",
+      "options": [
+        "Elle est toujours inscrite au casier judiciaire, indépendamment des autres peines",
+        "Elle peut ne pas être inscrite sur avis du juge et disparaît au bout de trois ans",
+        "Elle n'est jamais inscrite au casier judiciaire afin d'éviter tout effet stigmatisant",
+        "Elle est inscrite au casier judiciaire mais en est effacée dans un délai de six mois"
+      ],
+      "answer": 1,
+      "explanation": "Une dispense de peine peut ne pas être notée au casier judiciaire si le juge l'ordonne expressément ; dans tous les cas, l'inscription, si elle existe, disparaît au bout de trois ans.",
+      "tags": [
+        "dispense de peine",
+        "casier judiciaire"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-014",
+      "question": "Sur quels points portent les questions posées au jury de la cour d'assises après la clôture des débats ?",
+      "options": [
+        "La culpabilité de l'accusé, les circonstances aggravantes et les causes d'irresponsabilité",
+        "La responsabilité civile de l'accusé, le quantum de la peine et les frais de procédure",
+        "La qualification retenue, la récidive et la nature de la peine complémentaire applicable",
+        "La dangerosité de l'accusé, son profil psychiatrique et sa capacité à se réinsérer"
+      ],
+      "answer": 0,
+      "explanation": "Après la clôture des débats, des questions sont posées au jury sur la culpabilité de l'accusé, les circonstances aggravantes éventuelles et les causes d'irresponsabilité, conformément aux articles 349 et suivants du Code de procédure pénale.",
+      "tags": [
+        "jury",
+        "questions"
+      ]
+    },
+    {
+      "id": "phase-jugement-qcm-015",
+      "question": "Quelle est la compétence spécifique de la cour criminelle départementale par rapport à la cour d'assises ?",
+      "options": [
+        "Elle juge uniquement les crimes passibles de plus de vingt ans de réclusion criminelle",
+        "Elle juge les crimes les plus graves, comme la cour d'assises, avec la présence de jurés",
+        "Elle juge les délits punis de plus de dix ans par des magistrats professionnels seuls",
+        "Elle juge les crimes punis de cinq à vingt ans de réclusion, sans présence de jurés"
+      ],
+      "answer": 3,
+      "explanation": "La cour criminelle départementale juge les crimes punis de cinq à vingt ans de réclusion criminelle, uniquement par des magistrats professionnels sans jury populaire, se distinguant ainsi de la cour d'assises qui juge les crimes les plus graves en présence de jurés.",
+      "tags": [
+        "cour criminelle départementale"
+      ]
+    }
+  ]
+}
