@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781881840625,
+  "updatedAt": 1781881874010,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -2522,6 +2522,13 @@
       "correctCount": 1,
       "lastResult": "hit",
       "lastSeenAt": 1781881836620
+    },
+    "chosejugee-qcm-006": {
+      "level": 0,
+      "seenCount": 1,
+      "correctCount": 0,
+      "lastResult": "miss",
+      "lastSeenAt": 1781881870007
     }
   }
 }
