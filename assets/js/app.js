@@ -300,14 +300,11 @@ async function enterTheme(themeId) {
   state.theme = theme;
   setCurrentTheme(theme.id);
 
-  // Réglages + progression propres à la thématique.
-  state.settings = loadSettings();
+  // Les réglages (dont la config GitHub) sont partagés entre toutes
+  // les matières : un seul fichier data/progress.json sur le dépôt.
+  // On ne recharge les réglages qu'à la première entrée dans une matière.
+  if (!state.settings) state.settings = loadSettings();
   state.progress = loadProgress();
-
-  // Chaque matière synchronise son propre fichier de progression sur
-  // GitHub afin d'éviter toute collision entre matières.
-  state.settings.github.path = `data/progress-${theme.id}.json`;
-  saveSettings(state.settings);
 
   // Met à jour l'en-tête (sceau + titre de la matière).
   $("#topbar-seal").textContent = theme.seal || "⚖";
