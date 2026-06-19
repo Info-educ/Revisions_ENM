@@ -125,6 +125,12 @@
       "file": "chambre-instruction.json",
       "title": "La chambre de l'instruction — Révision, réformation et annulation",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "phase-jugement",
+      "file": "phase-jugement.json",
+      "title": "La phase de jugement — Principes, procédures et décision",
+      "category": "Droit pénal général"
     }
   ]
 }
