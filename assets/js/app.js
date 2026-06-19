@@ -246,6 +246,20 @@ function renderThemePicker() {
   if (!grid) return;
   grid.innerHTML = "";
 
+  // Délégation d'événement posée une seule fois sur la grille : plus
+  // robuste que des écouteurs par carte (qui peuvent être perdus si la
+  // grille est re-rendue), et fiable au tap sur mobile.
+  if (!grid.dataset.bound) {
+    const handler = (e) => {
+      const card = e.target.closest(".theme-card");
+      if (!card || !grid.contains(card)) return;
+      const id = card.dataset.theme;
+      if (id) enterTheme(id);
+    };
+    grid.addEventListener("click", handler);
+    grid.dataset.bound = "1";
+  }
+
   for (const theme of state.themes) {
     const card = document.createElement("button");
     card.className = "theme-card";
@@ -257,7 +271,6 @@ function renderThemePicker() {
       <span class="theme-card__subtitle">${escapeHtml(theme.subtitle || "")}</span>
       <span class="theme-card__count" data-count-for="${theme.id}">…</span>
     `;
-    card.addEventListener("click", () => enterTheme(theme.id));
     grid.appendChild(card);
 
     // Renseigne le compteur de façon asynchrone (n'empêche pas le clic).
@@ -984,7 +997,28 @@ async function init() {
   showView("themes");
 
   if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("sw.js").catch(() => {});
+    // Enregistre le service worker et force la prise en compte d'une
+    // nouvelle version : dès qu'un nouveau SW prend le contrôle, on
+    // recharge une fois la page pour servir le code à jour (évite la
+    // page d'accueil « figée » après mise à jour, notamment sur mobile).
+    try {
+      let refreshing = false;
+      if (typeof navigator.serviceWorker.addEventListener === "function") {
+        navigator.serviceWorker.addEventListener("controllerchange", () => {
+          if (refreshing) return;
+          refreshing = true;
+          window.location.reload();
+        });
+      }
+      navigator.serviceWorker
+        .register("sw.js")
+        .then((reg) => {
+          reg.update().catch(() => {});
+        })
+        .catch(() => {});
+    } catch (e) {
+      /* environnement sans support complet : on ignore. */
+    }
   }
 
   document.addEventListener("visibilitychange", () => {

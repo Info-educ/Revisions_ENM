@@ -385,12 +385,24 @@ body.is-theme-picker .topbar__brand{ cursor:default; pointer-events:none; }
   box-shadow: var(--shadow-card);
   cursor:pointer;
   font:inherit; color:inherit;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-user-select: none; user-select: none;
   transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
 }
-.theme-card:hover{
-  transform: translateY(-3px);
+/* Les éléments internes ne doivent pas intercepter le tap à la place
+   du bouton (sécurité supplémentaire sur certains navigateurs mobiles). */
+.theme-card > *{ pointer-events: none; }
+@media (hover: hover){
+  .theme-card:hover{
+    transform: translateY(-3px);
+    border-color: var(--ochre);
+    box-shadow: 0 6px 16px rgba(28,43,74,.14), 0 18px 40px -20px rgba(28,43,74,.45);
+  }
+}
+.theme-card:active{
+  transform: translateY(-1px) scale(.99);
   border-color: var(--ochre);
-  box-shadow: 0 6px 16px rgba(28,43,74,.14), 0 18px 40px -20px rgba(28,43,74,.45);
 }
 .theme-card__seal{
   font-size: 30px; line-height:1;
