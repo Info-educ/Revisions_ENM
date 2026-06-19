@@ -131,6 +131,12 @@
       "file": "phase-jugement.json",
       "title": "La phase de jugement — Principes, procédures et décision",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "voies-recours",
+      "file": "voies-recours.json",
+      "title": "Les voies de recours",
+      "category": "Droit pénal général"
     }
   ]
 }
