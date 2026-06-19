@@ -57,10 +57,10 @@
       "id": "conseil-const-qcm-001",
       "question": "Combien de membres compte le Conseil constitutionnel et quelle est la durée de leur mandat ?",
       "options": [
-        "7 membres, mandat de 6 ans renouvelable",
-        "9 membres, mandat de 9 ans non renouvelable",
-        "9 membres, mandat de 6 ans renouvelable une fois",
-        "12 membres, mandat de 9 ans renouvelable par moitié"
+        "Sept membres nommés pour un mandat de six ans renouvelable par les autorités compétentes",
+        "Neuf membres nommés pour un mandat de neuf ans non renouvelable, renouvelé par tiers",
+        "Neuf membres nommés pour un mandat de six ans renouvelable une fois par chaque autorité",
+        "Douze membres dont le mandat de neuf ans est renouvelable à hauteur de la moitié du siège"
       ],
       "answer": 1,
       "explanation": "L'article 56 de la Constitution fixe la composition du Conseil constitutionnel à 9 membres nommés pour un mandat de 9 ans non renouvelable, renouvelé par tiers tous les 3 ans (3 par chacune des trois autorités de nomination : Président de la République, Président de l'AN, Président du Sénat).",
@@ -73,10 +73,10 @@
       "id": "conseil-const-qcm-002",
       "question": "Une loi organique a été votée par le Parlement et n'est pas encore promulguée. Quel contrôle de constitutionnalité s'applique nécessairement ?",
       "options": [
-        "Aucun contrôle n'est requis pour les lois organiques",
-        "Le contrôle a priori est obligatoire pour les lois organiques (art. 61)",
-        "Seule la voie de la QPC est ouverte, après son entrée en vigueur",
-        "Le contrôle est facultatif, sur saisine de 60 parlementaires uniquement"
+        "Aucun contrôle n'est requis pour les lois organiques, qui relèvent du seul Parlement",
+        "Le contrôle a priori est obligatoire et automatique avant la promulgation de la loi",
+        "Seule la voie de la question prioritaire de constitutionnalité est ouverte après vigueur",
+        "Le contrôle est facultatif et ne peut être déclenché que par soixante parlementaires"
       ],
       "answer": 1,
       "explanation": "Contrairement aux lois ordinaires pour lesquelles le contrôle a priori est facultatif, ce contrôle est obligatoire pour les lois organiques et les règlements des assemblées : elles doivent être soumises au Conseil constitutionnel avant leur promulgation.",
@@ -89,10 +89,10 @@
       "id": "conseil-const-qcm-003",
       "question": "Au cours d'un procès, une partie soulève que la loi appliquée à son litige porte atteinte à un droit garanti par la Constitution. Quelle voie est ouverte et depuis quand ?",
       "options": [
-        "Le contrôle a priori de l'article 61, ouvert depuis 1958",
-        "La QPC de l'article 61-1, ouverte depuis 2008/2010",
-        "Un recours direct devant la CEDH, sans filtrage préalable",
-        "Une saisine directe du Conseil d'État statuant au fond"
+        "Le contrôle préventif exercé avant la promulgation, ouvert depuis la Constitution de 1958",
+        "La question prioritaire de constitutionnalité, instaurée en 2008 et en vigueur depuis 2010",
+        "Un recours direct devant la Cour européenne des droits de l'homme sans filtrage préalable",
+        "Une saisine directe du Conseil d'État statuant au fond sur la constitutionnalité du texte"
       ],
       "answer": 1,
       "explanation": "La question prioritaire de constitutionnalité (QPC), instaurée par la révision constitutionnelle de 2008 et entrée en vigueur en 2010 (art. 61-1), permet à tout justiciable de soulever, au cours d'un procès, l'inconstitutionnalité d'une loi déjà en vigueur portant atteinte à ses droits et libertés.",
@@ -105,10 +105,10 @@
       "id": "conseil-const-qcm-004",
       "question": "Une QPC est soulevée devant un tribunal judiciaire. Par quelle juridiction sera-t-elle filtrée avant transmission éventuelle au Conseil constitutionnel ?",
       "options": [
-        "Le Conseil d'État, quel que soit l'ordre juridictionnel",
-        "La Cour de cassation",
-        "La Cour d'appel territorialement compétente",
-        "Directement le Conseil constitutionnel, sans filtrage"
+        "Le Conseil d'État, compétent quel que soit l'ordre juridictionnel dans lequel née la QPC",
+        "La Cour de cassation, juridiction suprême de l'ordre judiciaire auquel appartient le juge",
+        "La cour d'appel territorialement compétente, en tant que juridiction supérieure du premier",
+        "Directement le Conseil constitutionnel, la QPC lui étant transmise sans aucun filtrage"
       ],
       "answer": 1,
       "explanation": "Le filtrage de la QPC s'opère par la juridiction suprême de l'ordre juridictionnel saisi : la Cour de cassation pour l'ordre judiciaire et le Conseil d'État pour l'ordre administratif, avant transmission éventuelle au Conseil constitutionnel, qui doit alors statuer dans un délai de 3 mois.",
@@ -122,10 +122,10 @@
       "id": "conseil-const-qcm-005",
       "question": "Le bloc de constitutionnalité comprend-il la Charte de l'environnement ?",
       "options": [
-        "Non, seules la Constitution et la DDHC en font partie",
-        "Oui, depuis 2004, avec la Constitution de 1958, son Préambule, la DDHC de 1789 et le Préambule de 1946",
-        "Non, la Charte de l'environnement relève uniquement du droit international",
-        "Oui, mais uniquement pour le contrôle a posteriori (QPC)"
+        "Non, seules la Constitution de 1958 et la Déclaration des droits de l'homme en font partie",
+        "Oui, depuis 2004 : Constitution et préambule, DDHC, préambule de 1946 et Charte de 2004",
+        "Non, la Charte de l'environnement relève exclusivement du droit international non interne",
+        "Oui, mais la Charte de l'environnement ne peut être invoquée que dans le cadre de la QPC"
       ],
       "answer": 1,
       "explanation": "Le bloc de constitutionnalité comprend la Constitution de 1958 et son Préambule, la Déclaration des droits de l'homme et du citoyen de 1789, le Préambule de la Constitution de 1946, ainsi que la Charte de l'environnement de 2004. Il s'applique aux deux voies de contrôle, a priori comme a posteriori.",

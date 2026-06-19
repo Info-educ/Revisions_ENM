@@ -7,31 +7,47 @@
       "id": "hierarchie-fc-001",
       "front": "Selon Kelsen, comment l'ordre juridique est-il organisé ?",
       "back": "Sous forme d'une pyramide de normes : chaque norme tire sa validité de sa conformité à la norme qui lui est immédiatement supérieure.",
-      "tags": ["kelsen", "pyramide des normes"]
+      "tags": [
+        "kelsen",
+        "pyramide des normes"
+      ]
     },
     {
       "id": "hierarchie-fc-002",
       "front": "Que comprend le bloc de constitutionnalité ?",
       "back": "La Constitution du 4 octobre 1958, son Préambule de 1958, la Déclaration des droits de l'homme et du citoyen de 1789, le Préambule de 1946 et la Charte de l'environnement de 2004. C'est la norme suprême de l'ordre interne, contrôlée par le Conseil constitutionnel sur le fondement des articles 61 et 61-1.",
-      "tags": ["bloc de constitutionnalité", "conseil constitutionnel"]
+      "tags": [
+        "bloc de constitutionnalité",
+        "conseil constitutionnel"
+      ]
     },
     {
       "id": "hierarchie-fc-003",
       "front": "Que recouvre le bloc de conventionnalité et quelle est sa place dans la hiérarchie ?",
       "back": "Les traités et accords internationaux régulièrement ratifiés (art. 55 C.) ainsi que le droit de l'Union européenne. Ils ont une valeur supra-législative mais infra-constitutionnelle. Le contrôle de conventionnalité est exercé par le juge ordinaire, et non par le Conseil constitutionnel.",
-      "tags": ["bloc de conventionnalité", "article 55"]
+      "tags": [
+        "bloc de conventionnalité",
+        "article 55"
+      ]
     },
     {
       "id": "hierarchie-fc-004",
       "front": "Qu'est-ce que la théorie de l'écran législatif et a-t-elle été abandonnée ?",
       "back": "Elle désignait le refus du juge ordinaire de contrôler la conformité d'une loi à un traité, la loi faisant écran. Elle a été abandonnée : le juge écarte désormais une loi contraire à un traité, même postérieure à celui-ci (Cass., Jacques Vabre, 1975 ; CE, Nicolo, 1989).",
-      "tags": ["écran législatif", "jacques vabre", "nicolo"]
+      "tags": [
+        "écran législatif",
+        "jacques vabre",
+        "nicolo"
+      ]
     },
     {
       "id": "hierarchie-fc-005",
       "front": "Comment se répartissent les compétences entre Conseil constitutionnel et juges ordinaires pour le contrôle des normes ?",
       "back": "Le Conseil constitutionnel contrôle la conformité des lois à la Constitution (constitutionnalité), tandis que les juges ordinaires (judiciaire et administratif) contrôlent la conformité aux traités et au droit de l'UE (conventionnalité).",
-      "tags": ["conseil constitutionnel", "contrôle de conventionnalité"]
+      "tags": [
+        "conseil constitutionnel",
+        "contrôle de conventionnalité"
+      ]
     }
   ],
   "qcm": [
@@ -39,92 +55,116 @@
       "id": "hierarchie-qcm-001",
       "question": "Quelle est la valeur du droit de l'Union européenne et des traités régulièrement ratifiés dans l'ordre interne français ?",
       "options": [
-        "Une valeur infra-législative",
-        "Une valeur supra-législative mais infra-constitutionnelle",
-        "Une valeur supra-constitutionnelle",
-        "Une valeur strictement égale à celle de la Constitution"
+        "Une valeur infra-législative, inférieure aux lois votées par le Parlement en France",
+        "Une valeur supra-législative mais infra-constitutionnelle dans l'ordre juridique interne",
+        "Une valeur supra-constitutionnelle, primant même sur la Constitution dans l'ordre interne",
+        "Une valeur strictement équivalente à celle que détient la Constitution française de 1958"
       ],
       "answer": 1,
       "explanation": "L'article 55 de la Constitution confère aux traités régulièrement ratifiés une autorité supérieure à celle des lois, mais le juge français (CE, Sarran, 1998 ; Cass., Fraisse, 2000) refuse de leur reconnaître une supériorité sur la Constitution, qui demeure la norme suprême de l'ordre interne.",
-      "tags": ["article 55", "sarran", "fraisse"]
+      "tags": [
+        "article 55",
+        "sarran",
+        "fraisse"
+      ]
     },
     {
       "id": "hierarchie-qcm-002",
       "question": "Quel arrêt de la CJUE a posé le principe de primauté du droit de l'Union européenne sur le droit interne des États membres ?",
       "options": [
-        "CJUE, Costa c. ENEL, 1964",
-        "CE, Nicolo, 1989",
-        "Cass., Jacques Vabre, 1975",
-        "Cons. const., IVG, 1975"
+        "La Cour de justice de l'Union, dans l'arrêt Costa contre ENEL rendu en 1964 au Luxembourg",
+        "Le Conseil d'État français, qui a consacré la primauté du droit de l'Union en 1989",
+        "La Cour de cassation française, qui a affirmé cette primauté dans l'arrêt Vabre en 1975",
+        "Le Conseil constitutionnel français, dans sa décision IVG de 1975 relative à l'avortement"
       ],
       "answer": 0,
       "explanation": "L'arrêt Costa c. ENEL (CJUE, 1964) consacre la primauté du droit de l'Union sur les droits nationaux. Les arrêts Nicolo et Jacques Vabre concernent l'abandon de la théorie de l'écran législatif par les juges français, et la décision IVG porte sur le partage des compétences de contrôle.",
-      "tags": ["costa c. enel", "primauté du droit de l'ue"]
+      "tags": [
+        "costa c. enel",
+        "primauté du droit de l'ue"
+      ]
     },
     {
       "id": "hierarchie-qcm-003",
       "question": "Quelle juridiction est compétente pour exercer le contrôle de conventionnalité d'une loi ?",
       "options": [
-        "Le Conseil constitutionnel uniquement",
-        "Le juge ordinaire (judiciaire ou administratif)",
-        "Le Conseil d'État statuant en formation plénière uniquement",
-        "Le Parlement lui-même, par voie de réexamen"
+        "Le Conseil constitutionnel uniquement, compétent pour ce contrôle via la procédure QPC",
+        "Le juge ordinaire, judiciaire ou administratif, qui écarte la loi contraire au traité",
+        "Le seul Conseil d'État en formation plénière, compétent pour tout contrôle de l'ordre",
+        "Le Parlement lui-même, par voie de réexamen et de réforme du texte législatif contesté"
       ],
       "answer": 1,
       "explanation": "Le Conseil constitutionnel a refusé, dans sa décision IVG de 1975, de contrôler la conventionnalité des lois. Ce contrôle relève donc du juge ordinaire, qui peut écarter une loi contraire à un traité (Jacques Vabre, Nicolo), à la différence du contrôle de constitutionnalité qui reste réservé au Conseil constitutionnel.",
-      "tags": ["contrôle de conventionnalité", "ivg 1975"]
+      "tags": [
+        "contrôle de conventionnalité",
+        "ivg 1975"
+      ]
     },
     {
       "id": "hierarchie-qcm-004",
       "question": "Sur quel fondement constitutionnel le pouvoir réglementaire autonome est-il exercé ?",
       "options": [
-        "Article 34 de la Constitution",
-        "Article 55 de la Constitution",
-        "Article 37 de la Constitution",
-        "Article 61-1 de la Constitution"
+        "Sur le fondement du domaine réservé à la loi, qui encadre le domaine réglementaire",
+        "Sur le fondement des traités qui accordent un pouvoir réglementaire résiduel à l'exécutif",
+        "Sur le fondement de la disposition constitutionnelle délimitant le domaine réglementaire",
+        "Sur le fondement de la disposition constitutionnelle instaurant le contrôle a posteriori"
       ],
       "answer": 2,
       "explanation": "L'article 37 de la Constitution attribue au pouvoir réglementaire une compétence autonome dans toutes les matières qui ne relèvent pas du domaine de la loi défini à l'article 34. L'article 55 concerne la place des traités, et l'article 61-1 fonde la QPC.",
-      "tags": ["article 37", "pouvoir réglementaire autonome"]
+      "tags": [
+        "article 37",
+        "pouvoir réglementaire autonome"
+      ]
     },
     {
       "id": "hierarchie-qcm-005",
       "question": "Lorsqu'une loi est contestée à la fois pour inconstitutionnalité (via QPC) et pour inconventionnalité, quelle règle de priorité s'applique en principe ?",
       "options": [
-        "Le juge doit toujours examiner d'abord le moyen tiré de l'inconventionnalité",
-        "Le juge doit examiner en priorité la QPC, sous réserve de l'urgence ou de l'effet direct du droit de l'UE en cause",
-        "Le juge transmet automatiquement les deux questions à la CJUE",
-        "Le juge choisit librement l'ordre d'examen sans aucune règle de priorité"
+        "Le juge doit toujours examiner d'abord le moyen d'inconventionnalité, sans exception",
+        "Le juge examine en priorité la QPC, sauf urgence ou effet direct du droit de l'UE en cause",
+        "Le juge transmet automatiquement les deux questions à la Cour de justice européenne",
+        "Le juge choisit librement l'ordre d'examen des deux questions, sans règle de priorité"
       ],
       "answer": 1,
       "explanation": "La priorité est donnée à l'examen de la QPC, mais cette priorité n'est pas absolue : elle cède en cas d'urgence ou lorsque l'effet direct du droit de l'Union européenne en cause impose un traitement immédiat de la question de conventionnalité.",
-      "tags": ["qpc", "priorité", "effet direct"]
+      "tags": [
+        "qpc",
+        "priorité",
+        "effet direct"
+      ]
     },
     {
       "id": "hierarchie-qcm-006",
       "question": "Quel type d'acte est contrôlé par le juge administratif via le recours pour excès de pouvoir, en vérifiant sa légalité externe et interne ?",
       "options": [
-        "Les lois organiques",
-        "Les traités internationaux",
-        "Les décrets et arrêtés",
-        "La Constitution"
+        "Les lois organiques, qui occupent le sommet de la hiérarchie au-dessus des lois ordinaires",
+        "Les traités internationaux, que la CJUE considère supérieurs à la Constitution nationale",
+        "Les décrets et arrêtés, actes du pouvoir réglementaire soumis au contrôle administratif",
+        "La Constitution elle-même, dont la place au sommet de la pyramide ne peut être contestée"
       ],
       "answer": 2,
       "explanation": "Les décrets et arrêtés, pris en application des lois ou sur le fondement de l'article 37 C., relèvent du pouvoir réglementaire et sont contrôlés par le juge administratif par le recours pour excès de pouvoir, qui porte sur la légalité externe (compétence, procédure, forme) et interne (motifs, but) de l'acte.",
-      "tags": ["recours pour excès de pouvoir", "règlements"]
+      "tags": [
+        "recours pour excès de pouvoir",
+        "règlements"
+      ]
     },
     {
       "id": "hierarchie-qcm-007",
       "question": "Que jugent CE, Sarran (1998) et Cass., Fraisse (2000) concernant le rapport entre la Constitution et le droit de l'Union européenne ou les traités ?",
       "options": [
-        "Que le droit de l'UE et les traités priment toujours sur la Constitution",
-        "Que la Constitution demeure la norme suprême dans l'ordre interne, sans qu'un traité ou le droit de l'UE puisse prévaloir sur elle",
-        "Que la Constitution doit être révisée systématiquement avant la ratification de tout traité",
-        "Qu'il n'existe aucune hiérarchie entre la Constitution et les traités"
+        "Que le droit de l'Union européenne et les traités priment en toutes circonstances sur elle",
+        "Que la Constitution reste la norme suprême dans l'ordre interne, primant sur tout traité",
+        "Que la Constitution doit être révisée préalablement à la ratification de tout traité",
+        "Qu'il n'existe aucune hiérarchie entre la Constitution et les traités en droit interne"
       ],
       "answer": 1,
       "explanation": "Ces arrêts affirment la primauté de la Constitution dans l'ordre juridique interne : le juge français (Conseil d'État puis Cour de cassation) refuse de faire prévaloir un engagement international ou le droit de l'UE sur la norme constitutionnelle, ce qui contraste avec la primauté du droit de l'UE et des traités sur la loi posée par l'article 55.",
-      "tags": ["sarran", "fraisse", "primauté de la constitution"]
+      "tags": [
+        "sarran",
+        "fraisse",
+        "primauté de la constitution"
+      ]
     },
     {
       "id": "hierarchie-qcm-008",
@@ -132,12 +172,15 @@
       "options": [
         "Bloc de conventionnalité, bloc de constitutionnalité, lois, règlements, actes individuels",
         "Bloc de constitutionnalité, bloc de conventionnalité, lois, règlements, actes individuels",
-        "Lois, bloc de constitutionnalité, bloc de conventionnalité, règlements, actes individuels",
-        "Bloc de constitutionnalité, lois, bloc de conventionnalité, actes individuels, règlements"
+        "Lois ordinaires, bloc de constitutionnalité, bloc de conventionnalité, règlements, actes",
+        "Bloc de constitutionnalité, lois ordinaires, bloc de conventionnalité, actes, règlements"
       ],
       "answer": 1,
       "explanation": "Le bloc de constitutionnalité occupe le sommet de la pyramide en tant que norme suprême de l'ordre interne. Vient ensuite le bloc de conventionnalité (valeur supra-législative mais infra-constitutionnelle), puis les lois, les règlements, et enfin les actes individuels qui doivent respecter l'ensemble des normes supérieures.",
-      "tags": ["pyramide des normes", "ordre hiérarchique"]
+      "tags": [
+        "pyramide des normes",
+        "ordre hiérarchique"
+      ]
     }
   ]
 }

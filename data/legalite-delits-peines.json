@@ -7,61 +7,91 @@
       "id": "legalite-fc-001",
       "front": "Quel est l'adage latin exprimant le principe de légalité des délits et des peines, et où est-il consacré dans le Code pénal ?",
       "back": "L'adage est « Nullum crimen, nulla poena sine lege » (pas de crime, pas de peine sans loi). Il est consacré à l'article 111-3 du Code pénal.",
-      "tags": ["principe de légalité", "article 111-3"]
+      "tags": [
+        "principe de légalité",
+        "article 111-3"
+      ]
     },
     {
       "id": "legalite-fc-002",
       "front": "Quelle est la valeur juridique du principe de légalité des délits et des peines ?",
       "back": "Le principe a une valeur constitutionnelle, reconnue par le Conseil constitutionnel dans sa décision des 19-20 janvier 1981, et une valeur conventionnelle, consacrée par l'article 7 de la CEDH et l'article 15 du PIDCP.",
-      "tags": ["valeur constitutionnelle", "CEDH", "PIDCP"]
+      "tags": [
+        "valeur constitutionnelle",
+        "CEDH",
+        "PIDCP"
+      ]
     },
     {
       "id": "legalite-fc-003",
       "front": "Quelles sont les quatre justifications classiques du principe de légalité des délits et des peines ?",
       "back": "1) La protection individuelle (prévisibilité : chacun doit connaître les conséquences pénales de sa conduite avant d'agir) ; 2) Le rempart contre l'arbitraire (du juge et de l'exécutif, les règles pénales devant être fixées par la loi) ; 3) La fonction intimidante (rôle éducatif, intériorisation de la norme pénale) ; 4) La séparation des pouvoirs (seul le peuple souverain, via la loi, peut limiter les libertés).",
-      "tags": ["justifications", "principe de légalité"]
+      "tags": [
+        "justifications",
+        "principe de légalité"
+      ]
     },
     {
       "id": "legalite-fc-004",
       "front": "En quoi le principe de légalité constitue-t-il un « rempart contre l'arbitraire » ?",
       "back": "Il protège contre l'arbitraire du juge et celui du pouvoir exécutif : les règles pénales doivent être fixées par la loi, c'est-à-dire par la volonté générale, et non par l'administration.",
-      "tags": ["rempart contre l'arbitraire"]
+      "tags": [
+        "rempart contre l'arbitraire"
+      ]
     },
     {
       "id": "legalite-fc-005",
       "front": "Quelle est la « fonction intimidante » du principe de légalité, et quel article du Code pénal l'illustre ?",
       "back": "Le principe de légalité joue un rôle éducatif : la connaissance et l'intériorisation de la norme pénale constituent le meilleur outil de prévention de l'infraction. L'article 227-17 du Code pénal est cité comme illustration de cette fonction.",
-      "tags": ["fonction intimidante", "article 227-17"]
+      "tags": [
+        "fonction intimidante",
+        "article 227-17"
+      ]
     },
     {
       "id": "legalite-fc-006",
       "front": "Que signifie la règle « Nullum crimen sine lege » et quelles en sont les conséquences pour le juge ?",
       "back": "« Pas de crime sans loi » : seul le législateur peut créer des infractions. Le juge ne peut ni créer d'infractions nouvelles, ni refuser d'appliquer un texte d'incrimination au motif qu'il serait tombé en désuétude.",
-      "tags": ["nullum crimen sine lege"]
+      "tags": [
+        "nullum crimen sine lege"
+      ]
     },
     {
       "id": "legalite-fc-007",
       "front": "Que signifie la règle « Nulla poena sine lege » et quelles en sont les conséquences pour le juge ?",
       "back": "« Pas de peine sans loi » : seul le législateur fixe les peines et les mesures de sûreté. Le juge ne peut prononcer que la peine prévue par le texte d'incrimination : il ne peut ni en inventer, ni en aggraver une de son propre chef.",
-      "tags": ["nulla poena sine lege"]
+      "tags": [
+        "nulla poena sine lege"
+      ]
     },
     {
       "id": "legalite-fc-008",
       "front": "Qu'est-ce que la « rétroactivité in mitius » et comment distingue-t-on lois de fond et lois de forme à cet égard ?",
       "back": "Le principe de non-rétroactivité des lois pénales (art. 112-1 C. pén.) connaît une exception : la rétroactivité in mitius, c'est-à-dire l'application immédiate d'une loi de fond plus douce aux affaires en cours. Les lois de forme (procédurales), elles, s'appliquent immédiatement même aux faits antérieurs à leur entrée en vigueur.",
-      "tags": ["rétroactivité in mitius", "article 112-1"]
+      "tags": [
+        "rétroactivité in mitius",
+        "article 112-1"
+      ]
     },
     {
       "id": "legalite-fc-009",
       "front": "Que prévoit l'article 111-4 du Code pénal sur l'interprétation de la loi pénale par le juge, et quelles en sont les exceptions ?",
       "back": "L'article 111-4 du Code pénal impose au juge une interprétation stricte de la loi pénale : il ne peut ni créer de nouvelles incriminations, ni aggraver les peines par analogie. Exceptions : si le texte est obscur, le juge peut faire un effort d'élucidation ; si le texte est absurde, le juge retrouve une liberté d'interprétation (Crim. 8 mars 1930).",
-      "tags": ["article 111-4", "interprétation stricte", "Crim. 8 mars 1930"]
+      "tags": [
+        "article 111-4",
+        "interprétation stricte",
+        "Crim. 8 mars 1930"
+      ]
     },
     {
       "id": "legalite-fc-010",
       "front": "En quoi consiste le « déclin politique » du principe de légalité depuis 1958 ?",
       "back": "Depuis la Constitution de 1958, on est passé d'une exigence de légalité formelle (la loi) à une simple légalité matérielle : le décret peut désormais créer des contraventions. Ce déclin se traduit aussi par la suppression des peines plancher (2014), rendant la peine plus imprévisible, et par le recours aux amendes proportionnelles, dont le maximum dépend de critères variables (ex. budget publicitaire du délinquant).",
-      "tags": ["déclin politique", "Constitution de 1958", "peines plancher"]
+      "tags": [
+        "déclin politique",
+        "Constitution de 1958",
+        "peines plancher"
+      ]
     }
   ],
   "qcm": [
@@ -69,139 +99,177 @@
       "id": "legalite-qcm-001",
       "question": "Quelle décision a reconnu une valeur constitutionnelle au principe de légalité des délits et des peines ?",
       "options": [
-        "La décision du Conseil constitutionnel des 19-20 janvier 1981",
-        "La décision du Conseil constitutionnel du 16 juillet 1971",
-        "La décision du Conseil constitutionnel du 22 janvier 1990",
-        "La décision du Conseil constitutionnel du 9 août 1999"
+        "La décision du Conseil constitutionnel des 19 et 20 janvier 1981 sur la sécurité",
+        "La décision du Conseil constitutionnel du 16 juillet 1971 sur la liberté d'association",
+        "La décision du Conseil constitutionnel du 22 janvier 1990 sur le droit pénal douanier",
+        "La décision du Conseil constitutionnel du 9 août 1999 sur les mesures de sûreté pénale"
       ],
       "answer": 0,
       "explanation": "C'est la décision du Conseil constitutionnel des 19-20 janvier 1981 qui a reconnu une valeur constitutionnelle au principe de légalité des délits et des peines. Sur le plan conventionnel, ce principe est par ailleurs consacré par l'article 7 de la CEDH et l'article 15 du PIDCP.",
-      "tags": ["valeur constitutionnelle", "Conseil constitutionnel"]
+      "tags": [
+        "valeur constitutionnelle",
+        "Conseil constitutionnel"
+      ]
     },
     {
       "id": "legalite-qcm-002",
       "question": "Un juge refuse d'appliquer un texte d'incrimination ancien, estimant qu'il est tombé en désuétude et ne correspond plus aux mœurs actuelles. Cette décision est-elle conforme au principe de légalité ?",
       "options": [
-        "Oui, le juge peut écarter une loi pénale devenue obsolète",
-        "Non : seul le législateur peut abroger un texte ; le juge ne peut refuser de l'appliquer pour désuétude",
-        "Oui, mais seulement si la peine encourue est une contravention",
-        "Non, sauf si la Cour de cassation l'y autorise expressément"
+        "Oui, le juge peut écarter une loi pénale devenue manifestement obsolète ou désuète",
+        "Non, seul le législateur peut abroger un texte ; le juge ne peut refuser de l'appliquer",
+        "Oui, mais seulement si la peine prévue est une contravention de faible montant",
+        "Non, le juge ne peut s'y soustraire sauf autorisation expresse de la haute juridiction"
       ],
       "answer": 1,
       "explanation": "En vertu de la règle « Nullum crimen sine lege », seul le législateur crée — et peut abroger — les infractions. Le juge ne peut ni créer d'infractions nouvelles, ni refuser d'appliquer un texte d'incrimination au motif qu'il serait tombé en désuétude.",
-      "tags": ["nullum crimen sine lege", "désuétude"]
+      "tags": [
+        "nullum crimen sine lege",
+        "désuétude"
+      ]
     },
     {
       "id": "legalite-qcm-003",
       "question": "Une personne est poursuivie pour des faits commis avant l'entrée en vigueur d'une nouvelle loi qui réduit la peine encourue pour cette infraction. Que se passe-t-il, en application de la rétroactivité in mitius ?",
       "options": [
-        "La nouvelle loi, plus douce, ne s'applique pas : seule la loi en vigueur au moment des faits compte",
-        "La nouvelle loi plus douce s'applique immédiatement à cette affaire en cours",
-        "Le juge choisit librement la loi la plus sévère",
-        "La rétroactivité in mitius ne concerne que les lois de procédure"
+        "La nouvelle loi, plus douce, ne s'applique pas : seule la loi au moment des faits compte",
+        "La nouvelle loi plus douce s'applique immédiatement à toute affaire en cours de jugement",
+        "Le juge choisit librement la loi qu'il juge la plus adaptée à la gravité des faits",
+        "La rétroactivité favorable ne concerne que les lois de procédure et non les lois de fond"
       ],
       "answer": 1,
       "explanation": "La rétroactivité in mitius est l'exception au principe de non-rétroactivité des lois pénales (art. 112-1 C. pén.) : une loi de fond plus douce que celle en vigueur au moment des faits s'applique immédiatement aux affaires en cours.",
-      "tags": ["rétroactivité in mitius"]
+      "tags": [
+        "rétroactivité in mitius"
+      ]
     },
     {
       "id": "legalite-qcm-004",
       "question": "Quel article du Code pénal pose le principe de non-rétroactivité des lois pénales, sous réserve de la rétroactivité in mitius ?",
-      "options": ["Article 111-3", "Article 111-4", "Article 112-1", "Article 227-17"],
+      "options": [
+        "La disposition codifiée posant le principe de nécessité des incriminations et des peines",
+        "La disposition codifiée consacrant le principe d'interprétation stricte de la loi pénale",
+        "La disposition codifiée régissant l'application de la loi pénale dans le temps en général",
+        "La disposition codifiée relative à la responsabilité pénale des mineurs de dix-huit ans"
+      ],
       "answer": 2,
       "explanation": "L'article 112-1 du Code pénal pose le principe de non-rétroactivité des lois pénales, l'exception étant la rétroactivité in mitius (application immédiate d'une loi de fond plus douce). L'article 111-3 énonce le principe de légalité lui-même ; l'article 111-4 impose l'interprétation stricte de la loi pénale par le juge.",
-      "tags": ["article 112-1", "non-rétroactivité"]
+      "tags": [
+        "article 112-1",
+        "non-rétroactivité"
+      ]
     },
     {
       "id": "legalite-qcm-005",
       "question": "Avant sa réforme de 2012, l'article 222-33 du Code pénal réprimait le harcèlement sexuel sans en donner de définition précise. Cet exemple illustre quel phénomène ?",
       "options": [
-        "Le déclin politique du principe de légalité",
-        "La rétroactivité in mitius",
-        "Le déclin juridique du principe de légalité, par le recours à des formules insuffisamment précises",
-        "L'inflation pénale, au sens de l'extension du droit pénal à de nouveaux domaines"
+        "Le déclin politique du principe de légalité, lié à l'évolution constitutionnelle de 1958",
+        "La rétroactivité in mitius, exception favorable au principe de non-rétroactivité de la loi",
+        "Le déclin juridique du principe de légalité, par le recours à des textes trop imprécis",
+        "L'inflation pénale, au sens de l'extension du droit pénal à de nouveaux domaines sociaux"
       ],
       "answer": 2,
       "explanation": "Cet exemple illustre le déclin juridique du principe de légalité : le législateur recourt parfois à des formules vagues ou à des textes insuffisamment précis, ce qui atteint la prévisibilité de la loi pénale pour le justiciable. Le déclin politique, lui, renvoie au passage d'une légalité formelle à une légalité matérielle depuis 1958.",
-      "tags": ["déclin juridique", "article 222-33"]
+      "tags": [
+        "déclin juridique",
+        "article 222-33"
+      ]
     },
     {
       "id": "legalite-qcm-006",
       "question": "Un texte d'incrimination est rédigé de façon absurde, rendant son application littérale incohérente. Que peut faire le juge, selon la jurisprudence Crim. 8 mars 1930 ?",
       "options": [
-        "Rien : il doit appliquer le texte à la lettre, même absurde",
-        "Créer une nouvelle incrimination de substitution",
-        "Retrouver une liberté d'interprétation pour donner un sens cohérent au texte",
-        "Renvoyer systématiquement la question au Conseil constitutionnel"
+        "Rien : il est tenu d'appliquer le texte à la lettre, même si le résultat est absurde",
+        "Créer une nouvelle incrimination de substitution, mieux adaptée à la réalité des faits",
+        "Retrouver sa liberté d'interprétation afin de donner au texte un sens raisonnable",
+        "Renvoyer systématiquement la question au Conseil constitutionnel pour avis conforme"
       ],
       "answer": 2,
       "explanation": "L'article 111-4 du Code pénal impose au juge une interprétation stricte de la loi pénale. Toutefois, lorsque le texte est absurde, la jurisprudence (Crim. 8 mars 1930) admet que le juge retrouve une liberté d'interprétation, afin d'éviter une application littérale incohérente — à distinguer du cas du texte simplement obscur, où le juge se limite à un effort d'élucidation.",
-      "tags": ["article 111-4", "Crim. 8 mars 1930", "interprétation"]
+      "tags": [
+        "article 111-4",
+        "Crim. 8 mars 1930",
+        "interprétation"
+      ]
     },
     {
       "id": "legalite-qcm-007",
       "question": "Selon la fiche, quel texte impose au législateur de rédiger les lois pénales en des termes précis ?",
       "options": [
-        "L'article 8 de la Déclaration des droits de l'homme et du citoyen de 1789",
-        "L'article 111-4 du Code pénal",
-        "L'article 112-1 du Code pénal",
-        "L'article 7 de la CEDH"
+        "La disposition de la Déclaration des droits de l'homme et du citoyen adoptée en 1789",
+        "La disposition du Code pénal consacrant le principe d'interprétation stricte de la loi",
+        "La disposition du Code pénal régissant l'application de la loi dans le temps en matière",
+        "La disposition de la Convention européenne des droits de l'homme relative aux peines"
       ],
       "answer": 0,
       "explanation": "L'article 8 DDHC de 1789 impose au législateur de légiférer par des textes précis. À distinguer de l'article 111-4 (interprétation stricte par le juge), de l'article 112-1 (non-rétroactivité) et de l'article 7 CEDH (valeur conventionnelle du principe de légalité).",
-      "tags": ["article 8 DDHC", "obligations du législateur"]
+      "tags": [
+        "article 8 DDHC",
+        "obligations du législateur"
+      ]
     },
     {
       "id": "legalite-qcm-008",
       "question": "Un justiciable affirme qu'il devait pouvoir savoir, avant d'agir, si son comportement était licite ou non, faute de quoi la loi pénale serait inéquitable. Quelle justification du principe de légalité correspond à cette exigence ?",
       "options": [
-        "La fonction intimidante",
-        "La protection individuelle (prévisibilité de la loi pénale)",
-        "Le rempart contre l'arbitraire du juge",
-        "La séparation des pouvoirs"
+        "La fonction d'intimidation générale, en dissuadant par avance les auteurs potentiels",
+        "La protection individuelle, qui garantit la prévisibilité de la loi pénale pour chacun",
+        "La fonction de rempart contre l'arbitraire judiciaire, en encadrant le pouvoir du juge",
+        "La séparation des pouvoirs, en réservant au seul législateur le soin de définir les peines"
       ],
       "answer": 1,
       "explanation": "La protection individuelle exige que chacun connaisse, avant d'agir, les conséquences pénales de sa conduite (prévisibilité) ; le principe de légalité trace ainsi la frontière entre le licite et l'illicite.",
-      "tags": ["protection individuelle", "prévisibilité"]
+      "tags": [
+        "protection individuelle",
+        "prévisibilité"
+      ]
     },
     {
       "id": "legalite-qcm-009",
       "question": "En vertu de la justification tirée de la séparation des pouvoirs, qui peut créer de nouvelles incriminations limitant les libertés individuelles ?",
       "options": [
-        "Le pouvoir exécutif, par décret",
-        "Le juge, par voie d'interprétation",
-        "Le peuple souverain, par la loi",
-        "Les autorités administratives indépendantes"
+        "Le pouvoir exécutif, qui peut créer des infractions par voie de décret en toute matière",
+        "Le juge, dont le pouvoir d'interprétation lui permet d'étendre l'incrimination de fait",
+        "Le peuple souverain, qui exprime sa volonté par la loi votée au Parlement en son nom",
+        "Les autorités administratives indépendantes, pour les infractions relevant de leur domaine"
       ],
       "answer": 2,
       "explanation": "Seul le peuple souverain, via la loi, peut limiter les libertés : il est interdit aux juges de « se légiférer », c'est-à-dire de créer eux-mêmes des incriminations.",
-      "tags": ["séparation des pouvoirs"]
+      "tags": [
+        "séparation des pouvoirs"
+      ]
     },
     {
       "id": "legalite-qcm-010",
       "question": "Le principe de légalité des délits et des peines ne s'applique-t-il qu'aux infractions elles-mêmes ?",
       "options": [
-        "Oui, seules les infractions sont concernées",
-        "Non : il s'applique aussi aux états dangereux et à l'ensemble des sanctions, qu'il s'agisse de peines ou de mesures de sûreté",
-        "Non, il ne s'applique qu'aux peines, jamais aux infractions",
-        "Oui, mais uniquement pour les crimes, à l'exclusion des délits et contraventions"
+        "Oui, seules les infractions elles-mêmes relèvent du domaine de la légalité criminelle",
+        "Non, il s'étend aussi aux états dangereux et à toutes les sanctions, peines ou sûreté",
+        "Non, le principe ne concerne que les peines et ne s'applique jamais aux infractions",
+        "Oui, mais uniquement pour les crimes, à l'exclusion des délits et des contraventions"
       ],
       "answer": 1,
       "explanation": "Le principe de légalité couvre un domaine large : toutes les infractions, mais aussi les états dangereux et l'ensemble des sanctions (peines et mesures de sûreté), conformément à la règle « nulla poena sine lege ».",
-      "tags": ["domaine d'application", "mesures de sûreté"]
+      "tags": [
+        "domaine d'application",
+        "mesures de sûreté"
+      ]
     },
     {
       "id": "legalite-qcm-011",
       "question": "Quelle est la différence entre le déclin politique et le déclin juridique du principe de légalité ?",
       "options": [
-        "Le déclin politique tient au passage d'une légalité formelle (la loi) à une légalité matérielle (le décret peut créer des contraventions depuis 1958) ; le déclin juridique tient au manque de précision des textes répressifs eux-mêmes",
-        "Le déclin politique ne concerne que les crimes, le déclin juridique que les délits",
-        "Le déclin politique est antérieur à 1958, le déclin juridique lui est postérieur à 2012",
-        "Il n'existe aucune différence : les deux expressions désignent le même phénomène"
+        "Déclin politique : délégation au règlement ; déclin juridique : imprécision des textes",
+        "Le déclin politique ne touche que les crimes ; le déclin juridique, uniquement les délits",
+        "Le déclin politique serait antérieur à 1958 et le déclin juridique lui serait postérieur",
+        "Il n'y a aucune différence : les deux expressions visent exactement le même phénomène"
       ],
       "answer": 0,
       "explanation": "Le déclin politique renvoie au passage d'une légalité formelle (réservée à la loi) à une légalité matérielle (le décret peut créer des contraventions depuis la Constitution de 1958), avec des effets sur les sanctions (suppression des peines plancher en 2014, amendes proportionnelles). Le déclin juridique renvoie, lui, au recours par le législateur à des formules vagues ou des textes insuffisamment précis (ex. art. 222-33 C. pén. avant 2012).",
-      "tags": ["déclin politique", "déclin juridique", "synthèse"]
+      "tags": [
+        "déclin politique",
+        "déclin juridique",
+        "synthèse"
+      ]
     }
   ]
 }

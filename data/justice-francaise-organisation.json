@@ -7,121 +7,177 @@
       "id": "justice-fr-fc-001",
       "front": "Quels sont les trois principes fondamentaux sur lesquels repose la justice française ?",
       "back": "L'indépendance (les juges ne reçoivent d'ordres ni du gouvernement, ni des politiques, ni des parties), l'impartialité (le juge ne prend parti pour aucune partie) et la contradiction (chaque partie a le droit de connaître et de discuter les arguments de l'autre).",
-      "tags": ["principes fondamentaux"]
+      "tags": [
+        "principes fondamentaux"
+      ]
     },
     {
       "id": "justice-fr-fc-002",
       "front": "Quelle est la différence essentielle entre la justice civile et la justice pénale ?",
       "back": "La justice civile règle les conflits entre personnes privées (l'État ne punit personne, il tranche un désaccord). La justice pénale sanctionne les comportements interdits par la loi : l'État poursuit et punit, la victime n'étant pas obligée de porter plainte pour que des poursuites soient engagées.",
-      "tags": ["justice civile", "justice pénale"]
+      "tags": [
+        "justice civile",
+        "justice pénale"
+      ]
     },
     {
       "id": "justice-fr-fc-003",
       "front": "Quelles sont les trois catégories d'infractions pénales, leur peine maximale et le tribunal compétent ?",
       "back": "La contravention (peine maximale 1 500 €, voire 3 000 € en récidive ; tribunal de police), le délit (jusqu'à 10 ans de prison et 150 000 € d'amende ; tribunal correctionnel) et le crime (réclusion criminelle à perpétuité ; cour d'assises ou cour criminelle départementale).",
-      "tags": ["contravention", "délit", "crime"]
+      "tags": [
+        "contravention",
+        "délit",
+        "crime"
+      ]
     },
     {
       "id": "justice-fr-fc-004",
       "front": "Qu'est-ce qui caractérise un magistrat du siège, et quelle garantie protège son indépendance ?",
       "back": "Le magistrat du siège rend des décisions en toute indépendance lors des audiences. Sa garantie fondamentale est l'inamovibilité : il ne peut pas être muté contre son gré, ce qui le protège de toute pression politique ou hiérarchique.",
-      "tags": ["magistrat du siège", "inamovibilité"]
+      "tags": [
+        "magistrat du siège",
+        "inamovibilité"
+      ]
     },
     {
       "id": "justice-fr-fc-005",
       "front": "Quel est le rôle du juge des libertés et de la détention (JLD) ?",
       "back": "Le JLD contrôle les atteintes aux libertés individuelles : il autorise ou refuse la détention provisoire, les prolongations de garde à vue, les perquisitions de nuit, les écoutes téléphoniques et les hospitalisations sous contrainte.",
-      "tags": ["JLD", "détention provisoire"]
+      "tags": [
+        "JLD",
+        "détention provisoire"
+      ]
     },
     {
       "id": "justice-fr-fc-006",
       "front": "Quelles sont les principales missions du juge d'instruction ?",
       "back": "Le juge d'instruction instruit les affaires complexes : il enquête à charge et à décharge, ordonne perquisitions et expertises, peut placer en détention provisoire (via le JLD), met en examen ou renvoie en jugement, et clôt l'instruction par une ordonnance de renvoi ou de non-lieu.",
-      "tags": ["juge d'instruction"]
+      "tags": [
+        "juge d'instruction"
+      ]
     },
     {
       "id": "justice-fr-fc-007",
       "front": "Quelle est la double mission du juge des enfants ?",
       "back": "Le juge des enfants juge les mineurs de 10 à 18 ans auteurs d'infractions et protège les mineurs en danger, en privilégiant une approche éducative en lien avec les éducateurs de la PJJ.",
-      "tags": ["juge des enfants", "PJJ"]
+      "tags": [
+        "juge des enfants",
+        "PJJ"
+      ]
     },
     {
       "id": "justice-fr-fc-008",
       "front": "Comment est composée la cour d'assises en première instance et en appel ?",
       "back": "La cour d'assises est composée de 3 magistrats professionnels (président et 2 assesseurs) et de 6 jurés populaires en première instance, et de 9 jurés populaires en appel. Les jurés délibèrent avec les magistrats et votent à bulletin secret, une majorité qualifiée étant requise pour condamner.",
-      "tags": ["cour d'assises", "jurés"]
+      "tags": [
+        "cour d'assises",
+        "jurés"
+      ]
     },
     {
       "id": "justice-fr-fc-009",
       "front": "Quelles sont les caractéristiques de la cour criminelle départementale créée en 2023 ?",
       "back": "Elle juge certains crimes punis de 15 à 20 ans, sans jury populaire, composée uniquement de magistrats professionnels (1 président et 4 assesseurs, délibérant à 5 à la majorité absolue). L'accusé conserve le droit absolu de demander à être jugé par une cour d'assises classique.",
-      "tags": ["cour criminelle départementale"]
+      "tags": [
+        "cour criminelle départementale"
+      ]
     },
     {
       "id": "justice-fr-fc-010",
       "front": "Quelle est la différence entre les rôles du parquet et du siège à l'audience ?",
       "back": "Le parquet « parle debout » : ses magistrats requièrent (demandent une peine) lors de leurs réquisitions, tout en restant libres dans leurs réquisitions orales malgré les instructions hiérarchiques reçues. Le siège « siège » et décide : il rend les décisions en toute indépendance.",
-      "tags": ["parquet", "siège"]
+      "tags": [
+        "parquet",
+        "siège"
+      ]
     },
     {
       "id": "justice-fr-fc-011",
       "front": "Quelles sont les compétences nationales exclusives du PNF et du PNAT ?",
       "back": "Le Procureur de la République financier (PNF), au sein du parquet national financier, est spécialisé dans les affaires financières complexes (grande corruption, fraude fiscale internationale, blanchiment) avec compétence nationale. Le Procureur antiterroriste (PNAT) a une compétence nationale exclusive pour le terrorisme, les crimes contre l'humanité et les crimes de guerre.",
-      "tags": ["PNF", "PNAT"]
+      "tags": [
+        "PNF",
+        "PNAT"
+      ]
     },
     {
       "id": "justice-fr-fc-012",
       "front": "Quel est le rôle du greffier et quelle est la conséquence de son absence ?",
       "back": "Le greffier est un fonctionnaire rattaché au ministère de la Justice qui assiste le juge à toutes les audiences, rédige et authentifie les actes, tient les registres officiels et conserve les jugements. Sans le greffier, un acte peut être nul.",
-      "tags": ["greffier"]
+      "tags": [
+        "greffier"
+      ]
     },
     {
       "id": "justice-fr-fc-013",
       "front": "Quelle est la différence entre un officier de police judiciaire (OPJ) et un agent de police judiciaire (APJ) ?",
       "back": "L'OPJ peut placer en garde à vue, pratiquer des perquisitions, conduire des interrogatoires sous serment et saisir des biens ; il rédige les procès-verbaux constituant le dossier pénal. L'APJ assiste l'OPJ et peut recueillir des déclarations et constater certaines infractions, mais sans ces pouvoirs propres.",
-      "tags": ["OPJ", "APJ", "police judiciaire"]
+      "tags": [
+        "OPJ",
+        "APJ",
+        "police judiciaire"
+      ]
     },
     {
       "id": "justice-fr-fc-014",
       "front": "À quelle juridiction le Tribunal des conflits est-il rattaché et quel est son rôle ?",
       "back": "Le Tribunal des conflits n'appartient ni à l'ordre judiciaire ni à l'ordre administratif : il tranche les conflits de compétence lorsqu'on ne sait pas laquelle des deux voies (judiciaire ou administrative) est compétente pour un litige.",
-      "tags": ["tribunal des conflits", "ordres juridictionnels"]
+      "tags": [
+        "tribunal des conflits",
+        "ordres juridictionnels"
+      ]
     },
     {
       "id": "justice-fr-fc-015",
       "front": "Quelle est la durée de la garde à vue de droit commun et son régime dérogatoire pour les infractions graves ?",
       "back": "La garde à vue dure 24 heures, renouvelable une fois, soit 48 heures maximum en droit commun. Pour les infractions graves (terrorisme, trafic de drogue...), elle peut être prolongée jusqu'à 96 ou 144 heures.",
-      "tags": ["garde à vue", "durée"]
+      "tags": [
+        "garde à vue",
+        "durée"
+      ]
     },
     {
       "id": "justice-fr-fc-016",
       "front": "Quels sont les droits garantis à toute personne placée en garde à vue ?",
       "back": "Être informée des raisons de la mesure, contacter un proche ou son employeur, être examinée par un médecin, bénéficier d'un avocat dès la première heure (entretien confidentiel de 30 minutes), être assistée d'un interprète si nécessaire, et garder le silence sans être obligée de s'auto-incriminer.",
-      "tags": ["garde à vue", "droits de la défense"]
+      "tags": [
+        "garde à vue",
+        "droits de la défense"
+      ]
     },
     {
       "id": "justice-fr-fc-017",
       "front": "Quelles sont les principales décisions que peut prendre le procureur à l'issue de l'enquête ?",
       "back": "Le classement sans suite, le rappel à la loi, la composition pénale, la médiation pénale, les travaux d'intérêt général comme alternative, le renvoi devant le tribunal, ou l'ouverture d'une information judiciaire confiée à un juge d'instruction.",
-      "tags": ["décisions du procureur"]
+      "tags": [
+        "décisions du procureur"
+      ]
     },
     {
       "id": "justice-fr-fc-018",
       "front": "Que signifie « mise en examen » et quels droits sont attachés à ce statut ?",
       "back": "La mise en examen signifie qu'il existe des indices sérieux qu'une personne a commis une infraction, sans préjuger de sa culpabilité. La personne mise en examen a le droit d'être assistée d'un avocat à tous les actes, de consulter le dossier, de demander des actes supplémentaires et de contester les décisions du juge d'instruction.",
-      "tags": ["mise en examen"]
+      "tags": [
+        "mise en examen"
+      ]
     },
     {
       "id": "justice-fr-fc-019",
       "front": "Quels sont les délais de l'appel et du pourvoi en cassation en matière pénale ?",
       "back": "L'appel en matière pénale doit être formé dans un délai de 10 jours, et le pourvoi en cassation dans un délai de 5 jours après l'arrêt d'appel. L'appel permet un rejugement complet par la cour d'appel, tandis que le pourvoi en cassation est un contrôle de la légalité, et non des faits.",
-      "tags": ["voies de recours", "délais"]
+      "tags": [
+        "voies de recours",
+        "délais"
+      ]
     },
     {
       "id": "justice-fr-fc-020",
       "front": "Quelle est la différence entre la grâce présidentielle et l'amnistie ?",
       "back": "La grâce présidentielle, accordée après une condamnation définitive, réduit ou supprime la peine sans effacer la condamnation elle-même. L'amnistie, décidée par le Parlement par une loi spéciale, efface la condamnation ; elle est très rare depuis les années 2000.",
-      "tags": ["grâce présidentielle", "amnistie"]
+      "tags": [
+        "grâce présidentielle",
+        "amnistie"
+      ]
     }
   ],
   "qcm": [
@@ -129,391 +185,483 @@
       "id": "justice-fr-qcm-001",
       "question": "Une affaire de vol simple est jugée. De quel type d'infraction s'agit-il et quelle juridiction est compétente ?",
       "options": [
-        "Une contravention, jugée par le tribunal de police",
-        "Un délit, jugé par le tribunal correctionnel",
-        "Un crime, jugé par la cour d'assises",
-        "Une contravention, jugée par le tribunal correctionnel"
+        "Une contravention, passible de l'amende et jugée par le tribunal de police compétent",
+        "Un délit, sanctionné par une peine d'emprisonnement et jugé par le tribunal correctionnel",
+        "Un crime, passible de la réclusion criminelle et jugé par la cour d'assises compétente",
+        "Une contravention de cinquième classe, mais jugée exceptionnellement par le correctionnel"
       ],
       "answer": 1,
       "explanation": "Le vol figure parmi les exemples de délits, punis jusqu'à 10 ans de prison et 150 000 € d'amende, et relevant du tribunal correctionnel. La contravention concerne des infractions légères (excès de vitesse, tapage nocturne) et le crime des infractions graves comme le meurtre.",
-      "tags": ["délit", "tribunal correctionnel"]
+      "tags": [
+        "délit",
+        "tribunal correctionnel"
+      ]
     },
     {
       "id": "justice-fr-qcm-002",
       "question": "Selon le mémo des « 3 C » présenté dans le guide, à quoi correspond la lettre « C » de « Correction » ?",
       "options": [
-        "À la contravention, jugée au tribunal de police",
-        "Au délit, jugé au tribunal correctionnel",
-        "Au crime, jugé en cour d'assises",
-        "À la correction parentale, notion de droit civil"
+        "À la contravention, infraction la moins grave sanctionnée par une amende au tribunal",
+        "Au délit, infraction intermédiaire punie d'un emprisonnement devant le correctionnel",
+        "Au crime, infraction la plus grave punie de la réclusion devant la cour d'assises",
+        "À la peine correctionnelle réservée au seul juge des enfants, notion de droit pénal"
       ],
       "answer": 1,
       "explanation": "Le mémo des « 3 C » associe Contravention (infraction légère), Correction (délit, jugé par le tribunal correctionnel) et Crime (jugé par la cour d'assises), classés par ordre croissant de gravité et de solennité du tribunal.",
-      "tags": ["3 C", "tribunal correctionnel"]
+      "tags": [
+        "3 C",
+        "tribunal correctionnel"
+      ]
     },
     {
       "id": "justice-fr-qcm-003",
       "question": "Un magistrat du siège refuse une mutation proposée par sa hiérarchie. Quel principe lui permet de s'y opposer ?",
       "options": [
-        "Le principe d'impartialité",
-        "Le principe de la contradiction",
-        "L'inamovibilité, garantie de son indépendance",
-        "La présomption d'innocence"
+        "Le principe d'impartialité, qui exige que le juge ne soit pas lié à l'une des parties",
+        "Le principe de la contradiction, garantissant à chaque partie le droit de débattre",
+        "L'inamovibilité des magistrats du siège, garantie fondamentale de leur indépendance",
+        "La présomption d'innocence, protégeant la personne jusqu'à sa condamnation définitive"
       ],
       "answer": 2,
       "explanation": "L'inamovibilité est la garantie fondamentale du magistrat du siège : il ne peut pas être muté contre son gré, ce qui le protège de toute pression politique ou hiérarchique et assure son indépendance dans l'exercice de ses fonctions.",
-      "tags": ["inamovibilité", "magistrat du siège"]
+      "tags": [
+        "inamovibilité",
+        "magistrat du siège"
+      ]
     },
     {
       "id": "justice-fr-qcm-004",
       "question": "Une perquisition de nuit est envisagée dans le cadre d'une enquête. Quel magistrat doit, en principe, l'autoriser ?",
       "options": [
-        "Le juge aux affaires familiales (JAF)",
-        "Le juge des libertés et de la détention (JLD)",
-        "Le juge de l'application des peines (JAP)",
-        "Le juge des contentieux de la protection (JCP)"
+        "Le juge aux affaires familiales, compétent pour le divorce et l'autorité parentale",
+        "Le juge des libertés et de la détention, compétent pour la détention provisoire",
+        "Le juge de l'application des peines, chargé du suivi de l'exécution des condamnations",
+        "Le juge des contentieux de la protection, compétent pour les tutelles et curatelles"
       ],
       "answer": 1,
       "explanation": "Le JLD contrôle les atteintes aux libertés individuelles : il autorise ou refuse notamment la détention provisoire, les prolongations de garde à vue, les perquisitions de nuit et les écoutes téléphoniques.",
-      "tags": ["JLD", "perquisition de nuit"]
+      "tags": [
+        "JLD",
+        "perquisition de nuit"
+      ]
     },
     {
       "id": "justice-fr-qcm-005",
       "question": "Au sein du tribunal judiciaire, qui suit le déroulement d'une affaire civile entre la saisine et l'audience, en veillant à l'échange des pièces entre avocats ?",
       "options": [
-        "Le juge de la mise en état (JME)",
-        "Le juge des référés",
-        "Le juge de l'application des peines (JAP)",
-        "Le juge chargé du tribunal correctionnel"
+        "Le juge de la mise en état, chargé de préparer l'affaire civile avant l'audience",
+        "Le juge des référés, compétent pour statuer en urgence sur des mesures provisoires",
+        "Le juge de l'application des peines, qui suit l'exécution des condamnations pénales",
+        "Le juge chargé du suivi de l'audience correctionnelle en matière de délinquance"
       ],
       "answer": 0,
       "explanation": "Le juge de la mise en état (JME) suit l'instruction du dossier civil entre la saisine et l'audience, veille à l'échange des pièces entre avocats et statue sur les incidents de procédure, à la différence du juge des référés qui statue en urgence sur des mesures provisoires.",
-      "tags": ["JME", "tribunal judiciaire"]
+      "tags": [
+        "JME",
+        "tribunal judiciaire"
+      ]
     },
     {
       "id": "justice-fr-qcm-006",
       "question": "Une personne condamnée à de la prison ferme souhaite obtenir une libération conditionnelle. Quel magistrat est compétent pour suivre l'exécution de sa peine et accorder cet aménagement ?",
       "options": [
-        "Le juge d'instruction",
-        "Le juge de l'application des peines (JAP)",
-        "Le juge des contentieux de la protection (JCP)",
-        "Le juge des référés"
+        "Le juge d'instruction, chargé de l'information judiciaire dans les affaires pénales",
+        "Le juge de l'application des peines, chargé du suivi des condamnations en cours",
+        "Le juge des contentieux de la protection, compétent pour tutelles, curatelles et baux",
+        "Le juge des référés, compétent pour prendre des mesures conservatoires en urgence"
       ],
       "answer": 1,
       "explanation": "Le juge de l'application des peines (JAP) suit l'exécution des peines et accorde les aménagements tels que la libération conditionnelle, le bracelet électronique, la semi-liberté ou les permissions de sortir, et peut révoquer un sursis en cas de récidive.",
-      "tags": ["JAP", "aménagement de peine"]
+      "tags": [
+        "JAP",
+        "aménagement de peine"
+      ]
     },
     {
       "id": "justice-fr-qcm-007",
       "question": "Devant la cour d'assises, qui participe au délibéré sur la culpabilité et la peine ?",
       "options": [
-        "Uniquement les 3 magistrats professionnels",
-        "Uniquement les jurés populaires, séparément des magistrats",
-        "Les magistrats professionnels et les jurés populaires délibèrent ensemble",
-        "Le seul président de la cour d'assises"
+        "Uniquement les trois magistrats professionnels composant la cour d'assises délibèrent",
+        "Uniquement les jurés populaires, séparément des magistrats professionnels de carrière",
+        "Les magistrats professionnels et les jurés populaires délibèrent ensemble sur le fond",
+        "Le seul président de la cour d'assises prend la décision finale après les débats"
       ],
       "answer": 2,
       "explanation": "Les jurés populaires (6 en première instance, 9 en appel) délibèrent avec les magistrats professionnels, et non séparément, sur la culpabilité et la peine, en votant à bulletin secret avec une majorité qualifiée requise pour condamner.",
-      "tags": ["cour d'assises", "jurés", "délibéré"]
+      "tags": [
+        "cour d'assises",
+        "jurés",
+        "délibéré"
+      ]
     },
     {
       "id": "justice-fr-qcm-008",
       "question": "Une personne jugée par la cour criminelle départementale demande à être jugée à la place par une cour d'assises classique avec jury populaire. Cette demande peut-elle être refusée ?",
       "options": [
-        "Oui, le tribunal apprécie librement l'opportunité d'un tel renvoi",
-        "Non, ce droit est absolu",
-        "Oui, sauf si la peine encourue dépasse 20 ans",
-        "Non, mais seulement si la victime y consent également"
+        "Oui, le tribunal apprécie librement l'opportunité de renvoyer vers une juridiction pénale",
+        "Non, le droit au renvoi correctionnel est absolu et ne peut jamais être refusé",
+        "Oui, sauf si la peine susceptible d'être prononcée dépasse vingt années d'emprisonnement",
+        "Non, mais seulement à condition que la victime constituée partie civile y consente aussi"
       ],
       "answer": 1,
       "explanation": "Le guide précise que l'accusé jugé par la cour criminelle départementale peut demander à être jugé par une cour d'assises classique, avec jury populaire, et que ce droit est absolu : il ne peut donc pas être refusé par la juridiction.",
-      "tags": ["cour criminelle départementale", "droit au jury"]
+      "tags": [
+        "cour criminelle départementale",
+        "droit au jury"
+      ]
     },
     {
       "id": "justice-fr-qcm-009",
       "question": "Quelle formule résume la distinction entre le rôle du parquet et celui du siège à l'audience ?",
       "options": [
-        "Le parquet décide, le siège requiert",
-        "Le parquet « parle debout » et requiert, le siège « siège » et décide",
-        "Le parquet et le siège exercent des fonctions identiques",
-        "Seul le siège peut prendre la parole à l'audience"
+        "Le parquet décide au fond des affaires, le siège se charge de requérir les peines",
+        "Le parquet requiert et poursuit « debout », le siège siège et tranche « assis »",
+        "Le parquet et le siège exercent des fonctions de même nature et peuvent être permutés",
+        "Seul le siège peut prendre la parole lors des débats, le parquet ne pouvant qu'écrire"
       ],
       "answer": 1,
       "explanation": "Le mémo du guide indique que le parquet « parle debout » à l'audience et requiert (demande une peine), tandis que le siège « siège » et décide : l'un requiert, l'autre décide, ce qui résume la séparation des rôles entre magistrats du parquet et du siège.",
-      "tags": ["parquet", "siège"]
+      "tags": [
+        "parquet",
+        "siège"
+      ]
     },
     {
       "id": "justice-fr-qcm-010",
       "question": "Une affaire concerne un trafic de drogue international avec des ramifications de blanchiment financier complexe. Quel parquet spécialisé est susceptible d'intervenir pour le volet financier ?",
       "options": [
-        "Le Parquet national antiterroriste (PNAT)",
-        "Le Parquet national financier (PNF)",
-        "Le procureur de la République territorialement compétent uniquement",
-        "Le procureur général de la Cour de cassation"
+        "Le Parquet national antiterroriste, compétent pour les actes de terrorisme en France",
+        "Le Parquet national financier, compétent pour la grande délinquance financière et fiscale",
+        "Le procureur de la République territorialement compétent selon le lieu des faits commis",
+        "Le procureur général près la Cour de cassation, compétent pour les crimes organisés"
       ],
       "answer": 1,
       "explanation": "Le Procureur de la République financier (PNF), au sein du parquet national financier, est spécialisé dans les affaires financières complexes telles que la grande corruption, la fraude fiscale internationale et le blanchiment, avec une compétence nationale, à la différence du PNAT compétent pour le terrorisme et les crimes contre l'humanité.",
-      "tags": ["PNF", "compétence nationale"]
+      "tags": [
+        "PNF",
+        "compétence nationale"
+      ]
     },
     {
       "id": "justice-fr-qcm-011",
       "question": "Un acte de procédure a été rédigé lors d'une audience sans la présence du greffier. Quelle conséquence le guide indique-t-il ?",
       "options": [
-        "L'acte reste valable, le greffier n'a qu'un rôle administratif",
-        "L'acte peut être nul, la présence du greffier étant indispensable",
-        "Seul le président de l'audience peut valider l'acte sans greffier",
-        "L'acte devient automatiquement un acte civil"
+        "L'acte reste valable, le greffier n'ayant en matière judiciaire qu'un rôle administratif",
+        "L'acte peut être nul, la présence et la signature du greffier étant indispensables",
+        "Seul le président de l'audience peut valider un acte passé en l'absence de son greffier",
+        "L'acte perd automatiquement sa nature judiciaire et devient un simple acte civil"
       ],
       "answer": 1,
       "explanation": "Le guide précise que le greffier assiste le juge à toutes les audiences, rédige et authentifie les actes, et que sans le greffier, un acte peut être nul, ce qui souligne le caractère indispensable de sa présence.",
-      "tags": ["greffier", "nullité"]
+      "tags": [
+        "greffier",
+        "nullité"
+      ]
     },
     {
       "id": "justice-fr-qcm-012",
       "question": "Lors d'une enquête, un OPJ rédige les procès-verbaux constituant le dossier pénal. Quel acteur ne dispose PAS de ce pouvoir propre, selon le guide ?",
       "options": [
-        "L'agent de police judiciaire (APJ), qui assiste l'OPJ",
-        "L'officier de police judiciaire (OPJ) lui-même",
-        "Le procureur de la République",
-        "Le juge d'instruction"
+        "L'agent de police judiciaire, qui assiste l'OPJ dans ses missions d'enquête pénale",
+        "L'officier de police judiciaire, seul habilité à dresser des procès-verbaux d'enquête",
+        "Le procureur de la République, qui dirige la police judiciaire sous son autorité",
+        "Le juge d'instruction, qui conduit personnellement les actes d'enquête en flagrance"
       ],
       "answer": 0,
       "explanation": "L'APJ assiste l'OPJ et peut recueillir des déclarations et constater certaines infractions, mais c'est l'OPJ qui dispose du pouvoir propre de placer en garde à vue, perquisitionner, interroger sous serment et rédiger les procès-verbaux constituant le dossier pénal.",
-      "tags": ["OPJ", "APJ"]
+      "tags": [
+        "OPJ",
+        "APJ"
+      ]
     },
     {
       "id": "justice-fr-qcm-013",
       "question": "Un litige opposant un commerçant à un fonctionnaire concernant une décision de licenciement par l'administration relève de quel ordre de juridiction ?",
       "options": [
-        "L'ordre judiciaire, devant le conseil de prud'hommes",
-        "L'ordre administratif, devant le tribunal administratif",
-        "L'ordre judiciaire, devant le tribunal de commerce",
-        "Le Tribunal des conflits, en première instance"
+        "L'ordre judiciaire, devant la juridiction prud'homale pour les conflits du travail",
+        "L'ordre administratif, devant le tribunal administratif du ressort territorial compétent",
+        "L'ordre judiciaire, devant le tribunal de commerce compétent pour les actes de commerce",
+        "Le Tribunal des conflits, compétent en première instance pour trancher ce type de litige"
       ],
       "answer": 1,
       "explanation": "Le licenciement d'un fonctionnaire est cité comme exemple de litige avec l'administration relevant du tribunal administratif (1re instance de l'ordre administratif), à la différence des litiges entre employeurs et salariés privés qui relèvent du conseil de prud'hommes.",
-      "tags": ["ordre administratif", "tribunal administratif"]
+      "tags": [
+        "ordre administratif",
+        "tribunal administratif"
+      ]
     },
     {
       "id": "justice-fr-qcm-014",
       "question": "Une juridiction hésite à se déclarer compétente, ne sachant pas si un litige relève de l'ordre judiciaire ou de l'ordre administratif. Quelle juridiction tranche ce conflit ?",
       "options": [
-        "La Cour de cassation",
-        "Le Conseil d'État",
-        "Le Tribunal des conflits",
-        "Le Conseil constitutionnel"
+        "La Cour de cassation, qui unifie le droit en cassant les décisions contraires à la loi",
+        "Le Conseil d'État, juridiction suprême administrative et conseiller du gouvernement",
+        "Le Tribunal des conflits, qui tranche les conflits de compétence entre les deux ordres",
+        "Le Conseil constitutionnel, qui contrôle la constitutionnalité des lois et des normes"
       ],
       "answer": 2,
       "explanation": "Le guide précise que le Tribunal des conflits tranche lorsqu'on ne sait pas laquelle des deux voies (ordre judiciaire ou ordre administratif) est compétente, à la différence de la Cour de cassation (sommet de l'ordre judiciaire) et du Conseil d'État (sommet de l'ordre administratif).",
-      "tags": ["tribunal des conflits"]
+      "tags": [
+        "tribunal des conflits"
+      ]
     },
     {
       "id": "justice-fr-qcm-015",
       "question": "Une personne est interpellée en flagrant délit. Quelle est la durée maximale de l'enquête de flagrance mentionnée par le guide ?",
       "options": [
-        "24 heures",
-        "48 heures, prolongeable",
-        "72 heures sans prolongation possible",
-        "96 heures dans tous les cas"
+        "La garde à vue est limitée à vingt-quatre heures sans aucune possibilité de prolongation",
+        "La garde à vue dure quarante-huit heures, prolongeable selon les infractions concernées",
+        "La garde à vue est de soixante-douze heures, non renouvelable en toute hypothèse",
+        "La garde à vue est de quatre-vingt-seize heures dans tous les cas sans exception"
       ],
       "answer": 1,
       "explanation": "L'enquête de flagrance, déclenchée lors d'un flagrant délit, dure 48 heures maximum, prolongeable, et confère des pouvoirs élargis aux enquêteurs (perquisitions sans accord, saisies immédiates), à la différence de l'enquête préliminaire qui nécessite souvent l'accord de la personne ou une autorisation du JLD.",
-      "tags": ["enquête de flagrance", "durée"]
+      "tags": [
+        "enquête de flagrance",
+        "durée"
+      ]
     },
     {
       "id": "justice-fr-qcm-016",
       "question": "Une personne est placée en garde à vue pour une infraction de droit commun, sans prolongation exceptionnelle. Quelle est la durée maximale de cette mesure ?",
       "options": [
-        "24 heures, non renouvelable",
-        "48 heures maximum (24 heures renouvelables une fois)",
-        "72 heures dans tous les cas",
-        "96 heures, quelle que soit l'infraction"
+        "La garde à vue est de vingt-quatre heures, sans renouvellement possible en droit commun",
+        "La garde à vue est de quarante-huit heures maximum, soit vingt-quatre heures renouvelables",
+        "La garde à vue est de soixante-douze heures dans toutes les hypothèses sans exception",
+        "La garde à vue est de quatre-vingt-seize heures quelle que soit la nature de l'infraction"
       ],
       "answer": 1,
       "explanation": "La garde à vue dure 24 heures, renouvelable une fois, soit 48 heures maximum en droit commun. Les durées de 96 ou 144 heures sont réservées aux infractions graves comme le terrorisme ou le trafic de drogue.",
-      "tags": ["garde à vue", "durée"]
+      "tags": [
+        "garde à vue",
+        "durée"
+      ]
     },
     {
       "id": "justice-fr-qcm-017",
       "question": "Une personne gardée à vue souhaite s'entretenir avec un avocat dès le début de la mesure. Que prévoit le guide quant à ce droit ?",
       "options": [
-        "L'avocat n'intervient qu'à l'issue de la garde à vue",
-        "Un entretien confidentiel de 30 minutes est possible dès la 1re heure",
-        "L'entretien avec l'avocat est limité à 5 minutes",
-        "Seul un avocat commis d'office peut intervenir en garde à vue"
+        "L'avocat n'intervient qu'à l'issue de la garde à vue, lors de la présentation au parquet",
+        "Un entretien confidentiel d'une demi-heure est possible dès le début de la garde à vue",
+        "L'entretien avec l'avocat est strictement limité à cinq minutes non renouvelables",
+        "Seul un avocat commis d'office peut intervenir lors d'une garde à vue, à l'exclusion"
       ],
       "answer": 1,
       "explanation": "Parmi les droits garantis à toute personne gardée à vue figure le bénéfice d'un avocat dès la première heure, sous forme d'un entretien confidentiel de 30 minutes, ce droit étant rappelé à la fois pour la garde à vue et pour le rôle de l'avocat de la défense pénale.",
-      "tags": ["garde à vue", "droit à l'avocat"]
+      "tags": [
+        "garde à vue",
+        "droit à l'avocat"
+      ]
     },
     {
       "id": "justice-fr-qcm-018",
       "question": "À l'issue d'une enquête, le procureur propose à l'auteur des faits une sanction (amende, stage) sans procès, qui doit être validée par un juge. De quelle décision s'agit-il ?",
       "options": [
-        "Le rappel à la loi",
-        "La composition pénale",
-        "Le classement sans suite",
-        "L'ouverture d'une information judiciaire"
+        "Le rappel à la loi, mesure avertissement sans suite judiciaire adressé à l'auteur",
+        "La composition pénale, mesure négociée avec le parquet permettant d'éviter le procès",
+        "Le classement sans suite, qui met fin à l'affaire sans engagement de poursuite",
+        "L'ouverture d'une information judiciaire confiée à un juge d'instruction compétent"
       ],
       "answer": 1,
       "explanation": "La composition pénale consiste, pour le procureur, à proposer une sanction (amende, stage) que l'auteur accepte sans procès, sanction qui doit ensuite être validée par un juge. Le rappel à la loi est un simple avertissement officiel, sans sanction de ce type.",
-      "tags": ["décisions du procureur", "composition pénale"]
+      "tags": [
+        "décisions du procureur",
+        "composition pénale"
+      ]
     },
     {
       "id": "justice-fr-qcm-019",
       "question": "Pour une affaire pénale complexe nécessitant des expertises et des écoutes téléphoniques, quelle est la voie procédurale décrite par le guide ?",
       "options": [
-        "Le classement sans suite systématique",
-        "Le procureur saisit un juge d'instruction qui mène une information judiciaire",
-        "Le tribunal correctionnel mène directement l'enquête",
-        "Seul le JLD peut ordonner de telles mesures sans juge d'instruction"
+        "Le classement sans suite systématique de toutes les affaires impliquant de tels actes",
+        "Le procureur saisit un juge d'instruction qui mène une information judiciaire approfondie",
+        "Le tribunal correctionnel mène directement l'enquête et statue en premier ressort",
+        "Seul le juge des libertés peut ordonner de telles mesures sans passer par un instructeur"
       ],
       "answer": 1,
       "explanation": "Pour les affaires complexes ou les crimes, le procureur peut saisir un juge d'instruction, magistrat indépendant qui mène une enquête approfondie pouvant comporter perquisitions, écoutes téléphoniques, surveillances et expertises (ADN, psychiatrique, comptable...).",
-      "tags": ["juge d'instruction", "information judiciaire"]
+      "tags": [
+        "juge d'instruction",
+        "information judiciaire"
+      ]
     },
     {
       "id": "justice-fr-qcm-020",
       "question": "Une personne est mise en examen dans le cadre d'une instruction. Que signifie ce statut selon le guide ?",
       "options": [
-        "Elle est déclarée coupable par le juge d'instruction",
-        "Il existe des indices sérieux qu'elle a commis une infraction, sans préjuger de sa culpabilité",
-        "Elle ne peut plus être assistée d'un avocat",
-        "Son dossier est automatiquement classé sans suite"
+        "Elle est déclarée coupable par le juge d'instruction à l'issue de l'information judiciaire",
+        "Il existe des indices graves ou concordants contre elle, sans déclaration de culpabilité",
+        "Elle ne peut plus du tout être assistée d'un avocat pour la suite de la procédure",
+        "Son dossier est automatiquement classé sans suite dès la mise en examen prononcée"
       ],
       "answer": 1,
       "explanation": "Le guide précise explicitement que la mise en examen signifie qu'il existe des indices sérieux qu'une personne a commis une infraction, sans signifier qu'elle est coupable — c'est le tribunal qui décidera. La personne mise en examen conserve par ailleurs le droit d'être assistée d'un avocat.",
-      "tags": ["mise en examen"]
+      "tags": [
+        "mise en examen"
+      ]
     },
     {
       "id": "justice-fr-qcm-021",
       "question": "Le JLD peut-il placer directement une personne en détention provisoire de sa propre initiative, sans intervention d'un autre magistrat ?",
       "options": [
-        "Oui, le JLD agit toujours seul et spontanément",
-        "Non, c'est le juge d'instruction qui demande au JLD de placer la personne en détention provisoire",
-        "Non, seul le procureur peut décider d'une détention provisoire",
-        "Oui, mais uniquement pour les contraventions"
+        "Oui, le juge des libertés agit toujours seul et spontanément pour prononcer la détention",
+        "Non, c'est le juge d'instruction qui saisit le JLD pour qu'il statue sur la détention",
+        "Non, la détention provisoire ne peut être ordonnée que par le procureur de la République",
+        "Oui, mais le JLD ne peut ordonner la détention provisoire que pour les contraventions"
       ],
       "answer": 1,
       "explanation": "Selon le guide, le juge d'instruction peut demander au JLD de placer la personne mise en examen en détention provisoire : c'est donc une articulation entre les deux magistrats, le JLD statuant sur la demande du juge d'instruction, dans un cadre exceptionnel et strictement encadré.",
-      "tags": ["JLD", "détention provisoire", "juge d'instruction"]
+      "tags": [
+        "JLD",
+        "détention provisoire",
+        "juge d'instruction"
+      ]
     },
     {
       "id": "justice-fr-qcm-022",
       "question": "À la fin de l'audience pénale, dans quel ordre se déroulent le réquisitoire du procureur et la plaidoirie de la défense ?",
       "options": [
-        "La plaidoirie de la défense précède le réquisitoire du procureur",
-        "Le réquisitoire du procureur précède la plaidoirie de la défense",
-        "Les deux interviennent simultanément",
-        "Seule la plaidoirie de la défense est prévue à l'audience"
+        "La plaidoirie de la défense précède systématiquement le réquisitoire du procureur",
+        "Le réquisitoire du procureur précède la plaidoirie de la défense, qui a le dernier mot",
+        "Les réquisitions et la plaidoirie sont présentées simultanément et en même temps",
+        "Seule la plaidoirie de la défense est prévue à l'audience, le parquet n'intervenant pas"
       ],
       "answer": 1,
       "explanation": "Selon le déroulement de l'audience décrit par le guide, les réquisitions du procureur (étape 5) précèdent la plaidoirie de la défense (étape 6), elle-même suivie de la dernière parole accordée au prévenu avant le délibéré.",
-      "tags": ["audience", "réquisitoire", "plaidoirie"]
+      "tags": [
+        "audience",
+        "réquisitoire",
+        "plaidoirie"
+      ]
     },
     {
       "id": "justice-fr-qcm-023",
       "question": "Une personne condamnée à de la prison ferme purge sa peine à domicile sous surveillance électronique. De quelle modalité s'agit-il ?",
       "options": [
-        "La semi-liberté",
-        "Le sursis probatoire",
-        "Le bracelet électronique (DDSE)",
-        "La libération conditionnelle"
+        "La semi-liberté, permettant au condamné de travailler à l'extérieur et de rentrer la nuit",
+        "Le sursis probatoire, assorti d'obligations et d'un suivi par le service de probation",
+        "Le bracelet électronique, dit détention à domicile sous surveillance électronique",
+        "La libération conditionnelle, permettant une sortie anticipée sous conditions strictes"
       ],
       "answer": 2,
       "explanation": "Le bracelet électronique (DDSE) permet à la personne condamnée de purger sa peine à domicile sous surveillance électronique, à la différence de la semi-liberté (sorties en journée et retour en prison le soir) ou de la libération conditionnelle (sortie anticipée sous conditions et suivi).",
-      "tags": ["bracelet électronique", "aménagement de peine"]
+      "tags": [
+        "bracelet électronique",
+        "aménagement de peine"
+      ]
     },
     {
       "id": "justice-fr-qcm-024",
       "question": "Un condamné souhaite contester la légalité de l'arrêt rendu en appel, sans remettre en cause l'appréciation des faits. Quelle voie de recours est appropriée et dans quel délai ?",
       "options": [
-        "L'appel, dans un délai de 10 jours",
-        "Le pourvoi en cassation, dans un délai de 5 jours après l'arrêt d'appel",
-        "La révision, sans condition de délai",
-        "La grâce présidentielle, immédiatement après la condamnation"
+        "L'appel, voie de recours ordinaire à exercer dans un délai de dix jours après le jugement",
+        "Le pourvoi en cassation, à former dans un délai de cinq jours suivant l'arrêt d'appel",
+        "La révision, voie extraordinaire ouverte sans délai après une condamnation définitive",
+        "La grâce présidentielle, accordée immédiatement après la condamnation définitive rendue"
       ],
       "answer": 1,
       "explanation": "Le pourvoi en cassation, ouvert au prévenu et au procureur général dans un délai de 5 jours après l'arrêt d'appel, permet un contrôle de la légalité de la décision et non un rejugement des faits, à la différence de l'appel qui permet un rejugement complet.",
-      "tags": ["pourvoi en cassation", "délais"]
+      "tags": [
+        "pourvoi en cassation",
+        "délais"
+      ]
     },
     {
       "id": "justice-fr-qcm-025",
       "question": "Un condamné définitif découvre un fait nouveau prouvant son innocence plusieurs années après sa condamnation. Quelle voie de recours, sans condition de délai, lui permet de demander la réouverture du dossier ?",
       "options": [
-        "L'appel",
-        "Le pourvoi en cassation",
-        "La révision",
-        "L'amnistie"
+        "L'appel, voie ordinaire qui donne lieu à un nouvel examen du fond de l'affaire",
+        "Le pourvoi en cassation, qui contrôle l'application du droit sans rejuger le fond",
+        "La révision, voie extraordinaire permettant de rejuger l'affaire sur des faits nouveaux",
+        "L'amnistie, acte législatif qui efface les infractions pour une catégorie d'auteurs"
       ],
       "answer": 2,
       "explanation": "La révision, ouverte au condamné ou à ses proches sans condition de délai, permet la réouverture du dossier lorsqu'un fait nouveau prouve l'innocence du condamné, à la différence de l'amnistie qui résulte d'une loi spéciale du Parlement et efface la condamnation pour des motifs distincts.",
-      "tags": ["révision", "voies de recours"]
+      "tags": [
+        "révision",
+        "voies de recours"
+      ]
     },
     {
       "id": "justice-fr-qcm-026",
       "question": "Un détenu condamné à moins de 2 ans restant à subir est affecté dans un établissement pénitentiaire. Lequel correspond à son profil selon le guide ?",
       "options": [
-        "La maison centrale (MC)",
-        "Le centre de détention (CD)",
-        "La maison d'arrêt (MA)",
-        "L'établissement pour mineurs (EPM)"
+        "La maison centrale, établissement à sécurité maximale pour les condamnés dangereux",
+        "Le centre de détention, établissement à régime ouvert pour les condamnés en fin de peine",
+        "La maison d'arrêt, établissement pour les prévenus et condamnés à courte peine",
+        "L'établissement pour mineurs, structure spécifique pour les jeunes délinquants condamnés"
       ],
       "answer": 2,
       "explanation": "La maison d'arrêt (MA) accueille les personnes en détention provisoire ainsi que les condamnés à moins de 2 ans restant à subir, tandis que le centre de détention concerne les condamnés à plus de 2 ans avec perspectives de réinsertion et la maison centrale les longues peines ou profils dangereux.",
-      "tags": ["établissements pénitentiaires", "maison d'arrêt"]
+      "tags": [
+        "établissements pénitentiaires",
+        "maison d'arrêt"
+      ]
     },
     {
       "id": "justice-fr-qcm-027",
       "question": "Selon le guide, depuis 2020, quelle démarche est obligatoire avant de saisir un tribunal pour un litige civil jusqu'à 5 000 € (sauf exceptions) ?",
       "options": [
-        "Une tentative de médiation ou de conciliation",
-        "Le dépôt d'une plainte auprès du procureur",
-        "La désignation obligatoire d'un avocat aux Conseils",
-        "Le recours systématique à l'arbitrage"
+        "Une tentative de médiation ou de conciliation entre les parties avant toute saisine",
+        "Le dépôt d'une plainte auprès du procureur de la République pour saisir la juridiction",
+        "La désignation obligatoire d'un avocat aux Conseils pour assister les parties au litige",
+        "Le recours préalable et systématique à l'arbitrage comme mode alternatif de règlement"
       ],
       "answer": 0,
       "explanation": "Depuis 2020, pour les litiges civils jusqu'à 5 000 €, une tentative de médiation ou de conciliation est obligatoire avant de saisir un tribunal (sauf exceptions), afin d'éviter des procès inutiles, conformément aux alternatives au procès présentées dans le guide.",
-      "tags": ["médiation", "conciliation", "litige civil"]
+      "tags": [
+        "médiation",
+        "conciliation",
+        "litige civil"
+      ]
     },
     {
       "id": "justice-fr-qcm-028",
       "question": "Une personne perçoit environ 1 300 € nets par mois et souhaite être assistée par un avocat sans en supporter l'intégralité du coût. À quel type d'aide juridictionnelle peut-elle prétendre selon les tranches indiquées dans le guide ?",
       "options": [
-        "L'aide juridictionnelle totale",
-        "L'aide juridictionnelle partielle",
-        "Aucune aide, le plafond étant dépassé",
-        "Une aide réservée aux seules victimes de crimes graves"
+        "L'aide juridictionnelle totale, prenant en charge l'intégralité des frais de procédure",
+        "L'aide juridictionnelle partielle, prenant en charge une part proportionnelle des frais",
+        "Aucune aide n'est accordée, les ressources de la personne dépassant le plafond légal",
+        "Une aide exceptionnelle exclusivement réservée aux victimes de crimes violents graves"
       ],
       "answer": 1,
       "explanation": "Le guide situe l'AJ totale en dessous de 1 100 € nets par mois et l'AJ partielle entre 1 100 € et 1 650 € nets par mois. Une personne percevant environ 1 300 € relève donc de l'AJ partielle, qui prend en charge une partie des frais d'avocat et de procédure.",
-      "tags": ["aide juridictionnelle"]
+      "tags": [
+        "aide juridictionnelle"
+      ]
     },
     {
       "id": "justice-fr-qcm-029",
       "question": "Dans le glossaire du guide, quelle est la différence entre « prévenu » et « accusé » ?",
       "options": [
-        "Les deux termes sont strictement synonymes",
-        "« Prévenu » désigne la personne accusée d'un délit, « accusé » celle poursuivie pour un crime",
-        "« Accusé » désigne la personne poursuivie en matière civile",
-        "« Prévenu » s'applique uniquement devant la cour d'assises"
+        "Les deux termes sont strictement synonymes et désignent la même situation juridique",
+        "Le terme prévenu désigne la personne en délits, accusé celle poursuivie pour un crime",
+        "L'accusé désigne la personne dont la responsabilité civile est engagée dans le procès",
+        "Le terme prévenu ne s'emploie que devant la cour d'assises, accusé devant le correctionnel"
       ],
       "answer": 1,
       "explanation": "Selon le glossaire, on parle de « prévenu » pour une personne poursuivie pour un délit devant le tribunal correctionnel, et d'« accusé » pour une personne poursuivie pour un crime devant la cour d'assises ou la cour criminelle départementale.",
-      "tags": ["glossaire", "prévenu", "accusé"]
+      "tags": [
+        "glossaire",
+        "prévenu",
+        "accusé"
+      ]
     },
     {
       "id": "justice-fr-qcm-030",
       "question": "Selon le glossaire, que signifie le principe « in dubio pro reo » ?",
       "options": [
-        "Le doute profite à l'accusé : en cas d'incertitude, on acquitte",
-        "Le doute profite à la victime, qui obtient réparation",
-        "Le procureur doit toujours requérir la peine maximale",
-        "Le juge ne peut jamais relaxer un prévenu en cas de doute"
+        "Le doute profite à l'accusé : en cas d'incertitude sur la culpabilité, le juge acquitte",
+        "Le doute profite à la victime, qui obtient automatiquement réparation en cas d'incertitude",
+        "Le procureur est tenu de requérir la peine maximale encourue en cas de doute sur les faits",
+        "Le juge ne peut jamais prononcer une relaxe ou un acquittement en cas de doute persistant"
       ],
       "answer": 0,
       "explanation": "Le glossaire définit le principe « in dubio pro reo » comme le principe selon lequel le doute profite à l'accusé : en cas d'incertitude sur sa culpabilité, le tribunal doit l'acquitter ou le relaxer, ce qui découle également de la présomption d'innocence et de la charge de la preuve incombant à l'accusation.",
-      "tags": ["in dubio pro reo", "présomption d'innocence"]
+      "tags": [
+        "in dubio pro reo",
+        "présomption d'innocence"
+      ]
     }
   ]
 }
