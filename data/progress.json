@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1781878211599,
+  "updatedAt": 1781878219358,
   "items": {
     "legalite-fc-002": {
       "level": 0,
@@ -2105,11 +2105,11 @@
       "lastSeenAt": 1781878128959
     },
     "phase-jugement-qcm-005": {
-      "level": 0,
-      "seenCount": 1,
-      "correctCount": 0,
-      "lastResult": "miss",
-      "lastSeenAt": 1781878162060
+      "level": 1,
+      "seenCount": 2,
+      "correctCount": 1,
+      "lastResult": "hit",
+      "lastSeenAt": 1781878215355
     },
     "phase-jugement-qcm-006": {
       "level": 1,
