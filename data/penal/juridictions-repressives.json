@@ -7,61 +7,89 @@
       "id": "juridictions-repressives-fc-001",
       "front": "En quoi consiste le principe de séparation des fonctions dans le procès pénal, et quel texte lui a donné une portée générale ?",
       "back": "Il signifie qu'à chaque étape du procès pénal correspond une autorité distincte : le ministère public déclenche et exerce l'action publique, le juge d'instruction instruit à charge et à décharge sans pouvoir juger, la juridiction de jugement statue sur la culpabilité et la peine sans avoir instruit, et le juge de l'application des peines gère l'exécution. La loi du 15 juin 2000 en a fait un principe à portée générale, fondé sur la protection des libertés individuelles.",
-      "tags": ["séparation des fonctions", "loi du 15 juin 2000"]
+      "tags": [
+        "séparation des fonctions",
+        "loi du 15 juin 2000"
+      ]
     },
     {
       "id": "juridictions-repressives-fc-002",
       "front": "Quelles sont les trois principales limites légales au principe de séparation des fonctions ?",
       "back": "La chambre de l'instruction, qui peut en appel connaître des actes d'instruction et statuer au fond ; le juge des enfants, qui cumule historiquement instruction et jugement (atténué depuis le CJPM par la césure du procès) ; et les juridictions à juge unique de l'article 398-1 CPP, où un même magistrat préside et juge pour certains délits.",
-      "tags": ["séparation des fonctions", "exceptions"]
+      "tags": [
+        "séparation des fonctions",
+        "exceptions"
+      ]
     },
     {
       "id": "juridictions-repressives-fc-003",
       "front": "Quelle différence fait-on entre l'impartialité subjective et l'impartialité objective du tribunal ?",
       "back": "L'impartialité subjective est l'absence de préjugé ou de parti pris personnel du juge, présumée jusqu'à preuve contraire. L'impartialité objective consiste en des garanties suffisantes pour exclure tout doute légitime (théorie des apparences), approche retenue par la CEDH depuis l'arrêt Piersack c/ Belgique du 1ᵉʳ octobre 1982.",
-      "tags": ["impartialité", "article 6 cedh"]
+      "tags": [
+        "impartialité",
+        "article 6 cedh"
+      ]
     },
     {
       "id": "juridictions-repressives-fc-004",
       "front": "Qu'est-ce que la collégialité et quelle évolution a-t-elle connue depuis les années 1990-2000 ?",
       "back": "La collégialité est le principe selon lequel une formation de jugement est composée d'un nombre impair de magistrats, en général trois, ce qui garantit la qualité du délibéré et limite les risques d'erreur. Elle est en recul face aux exigences de célérité, comme l'illustre l'ordonnance du 25 mars 2020, au profit d'exceptions de juge unique encadrées par la loi.",
-      "tags": ["collégialité"]
+      "tags": [
+        "collégialité"
+      ]
     },
     {
       "id": "juridictions-repressives-fc-005",
       "front": "Qu'est-ce que le double degré de juridiction, et depuis quand s'applique-t-il à la cour d'assises ?",
       "back": "C'est le principe selon lequel toute décision peut être réexaminée par une juridiction hiérarchiquement supérieure (art. 2 du protocole n°7 CEDH, art. préliminaire CPP). Longtemps absent pour la cour d'assises, l'appel des arrêts d'assises est ouvert depuis la loi du 15 juin 2000, devant une autre cour d'assises en formation élargie à 9 jurés.",
-      "tags": ["double degré de juridiction", "loi du 15 juin 2000"]
+      "tags": [
+        "double degré de juridiction",
+        "loi du 15 juin 2000"
+      ]
     },
     {
       "id": "juridictions-repressives-fc-006",
       "front": "Quelles sont les juridictions de jugement de droit commun statuant en premier degré ?",
       "back": "Le tribunal de police pour les contraventions, le tribunal correctionnel pour les délits (en principe collégial, sauf juge unique de l'article 398-1 CPP), et la cour d'assises ainsi que la cour criminelle départementale, créée en 2019 pour les crimes punis de 15 à 20 ans commis sans récidive.",
-      "tags": ["juridictions de droit commun", "premier degré"]
+      "tags": [
+        "juridictions de droit commun",
+        "premier degré"
+      ]
     },
     {
       "id": "juridictions-repressives-fc-007",
       "front": "Comment est composée la chambre de l'instruction et quel est son rôle ?",
       "back": "Organe de la cour d'appel composé d'un président et de deux conseillers, elle juge l'appel des ordonnances rendues par le juge d'instruction et par le juge des libertés et de la détention (JLD), au second degré.",
-      "tags": ["chambre de l'instruction"]
+      "tags": [
+        "chambre de l'instruction"
+      ]
     },
     {
       "id": "juridictions-repressives-fc-008",
       "front": "Quelles sont les principales juridictions compétentes pour juger les mineurs, et depuis quand le CJPM est-il en vigueur ?",
       "back": "Le juge des enfants (premier degré, instruction et jugement), le tribunal pour enfants, la cour d'assises des mineurs et la chambre spéciale des mineurs en cour d'appel. Leur régime est fixé par le Code de la justice pénale des mineurs (CJPM), entré en vigueur le 30 septembre 2021.",
-      "tags": ["juridictions pour mineurs", "cjpm"]
+      "tags": [
+        "juridictions pour mineurs",
+        "cjpm"
+      ]
     },
     {
       "id": "juridictions-repressives-fc-009",
       "front": "Quelle différence sépare la Haute Cour de la Cour de justice de la République ?",
       "back": "La Haute Cour (art. 67-68 Const.) peut destituer le Président de la République en cas de manquement à ses devoirs manifestement incompatible avec l'exercice de son mandat. La Cour de justice de la République juge les ministres pour des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis.",
-      "tags": ["haute cour", "cour de justice de la république"]
+      "tags": [
+        "haute cour",
+        "cour de justice de la république"
+      ]
     },
     {
       "id": "juridictions-repressives-fc-010",
       "front": "Quels sont les trois critères de détermination de la compétence des juridictions répressives ?",
       "back": "La compétence matérielle (ratione materiae), fondée sur la qualification légale de l'infraction ; la compétence personnelle (ratione personae), fondée sur la qualité de la personne poursuivie ; et la compétence territoriale (ratione loci), fondée notamment sur le lieu de l'infraction, de résidence ou d'arrestation du prévenu.",
-      "tags": ["compétence", "ratione materiae"]
+      "tags": [
+        "compétence",
+        "ratione materiae"
+      ]
     }
   ],
   "qcm": [
@@ -69,157 +97,188 @@
       "id": "juridictions-repressives-qcm-001",
       "question": "Que prévoit l'article 398-1 du Code de procédure pénale ?",
       "options": [
-        "Il autorise, pour certains délits limitativement énumérés (circulation routière, délits maritimes, violences conjugales notamment), un même magistrat à présider l'audience et à juger seul",
-        "Il impose la collégialité pour tous les délits relevant du tribunal correctionnel",
-        "Il confie au juge des enfants la compétence exclusive pour les délits commis par des majeurs",
-        "Il supprime toute possibilité de juge unique devant le tribunal de police"
+        "Il autorise, pour certains délits limitativement énumérés, un magistrat seul à juger",
+        "Il généralise la collégialité en supprimant le juge unique devant le correctionnel",
+        "Il confie au juge des enfants la compétence pour les délits commis par des majeurs",
+        "Il interdit toute audience de juge unique au tribunal de police comme au correctionnel"
       ],
       "answer": 0,
       "explanation": "L'article 398-1 CPP constitue une exception légale, encadrée et limitée, au principe de collégialité : il permet au tribunal correctionnel de statuer à juge unique pour une liste de délits déterminés par la loi (notamment circulation routière, délits maritimes, violences conjugales), la collégialité restant le principe pour les autres délits.",
-      "tags": ["article 398-1 cpp", "juge unique"]
+      "tags": [
+        "article 398-1 cpp",
+        "juge unique"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-002",
       "question": "Comment la réforme du Code de la justice pénale des mineurs (CJPM, 2021) a-t-elle traité le cumul historique des fonctions d'instruction et de jugement du juge des enfants, critiqué par la CEDH (Adamkiewicz c/ Pologne, 2010) ?",
       "options": [
-        "Elle a supprimé la fonction de juge des enfants au profit d'un juge unique spécialisé",
-        "Elle a maintenu la compétence du juge des enfants mais introduit une césure du procès séparant l'audience sur la culpabilité de l'audience sur la sanction (art. L. 521-1 et L. 11-3 CJPM)",
-        "Elle a transféré l'intégralité du contentieux des mineurs au tribunal correctionnel",
-        "Elle a interdit au juge des enfants d'instruire les dossiers, cette fonction étant désormais réservée au juge d'instruction"
+        "Elle a supprimé le tribunal pour enfants et le remplacé par une juridiction spécialisée",
+        "Elle a maintenu le juge des enfants et introduit une césure entre culpabilité et sanction",
+        "Elle a fusionné le parquet des mineurs avec le parquet général pour les poursuites",
+        "Elle a interdit au juge des enfants d'instruire les dossiers des mineurs de seize ans"
       ],
       "answer": 1,
       "explanation": "Le CJPM, entré en vigueur le 30 septembre 2021, a maintenu la compétence du juge des enfants en matière d'instruction et de jugement, mais a introduit la césure du procès pénal des mineurs : l'audience statuant sur la culpabilité est désormais distincte de celle statuant sur la sanction, ce qui atténue le cumul de fonctions critiqué par la CEDH.",
-      "tags": ["cjpm", "juge des enfants"]
+      "tags": [
+        "cjpm",
+        "juge des enfants"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-003",
       "question": "Qu'a jugé la Chambre criminelle (Crim. 28 juin 2022, n°22-82698) à propos d'un magistrat ayant précédemment statué comme juge d'instruction dans une affaire ?",
       "options": [
-        "Il peut siéger comme juge du fond en appel, mais pas en première instance",
-        "Il peut siéger comme juge du fond, sous réserve d'en informer les parties",
-        "Il ne peut ensuite siéger comme juge du fond dans cette même affaire, ni en première instance ni en appel",
-        "Il ne peut siéger dans la même affaire que s'il statue en formation collégiale"
+        "Il peut siéger comme juge du fond en appel, non en première instance pour la même affaire",
+        "Il peut siéger comme juge du fond dans la même affaire sous réserve d'un avis aux parties",
+        "Il ne peut siéger comme juge du fond dans la même affaire, à quelque degré que ce soit",
+        "Il peut siéger dans toute formation dès lors que son rapport a été communiqué aux parties"
       ],
       "answer": 2,
       "explanation": "Cette décision illustre l'exigence d'impartialité objective (théorie des apparences, CEDH Piersack c/ Belgique, 1ᵉʳ octobre 1982) : un magistrat ayant déjà statué comme juge d'instruction dans une affaire ne peut ensuite y siéger comme juge du fond, ni en première instance ni en appel.",
-      "tags": ["impartialité objective", "crim. 28 juin 2022"]
+      "tags": [
+        "impartialité objective",
+        "crim. 28 juin 2022"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-004",
       "question": "Quels crimes relèvent de la compétence de la cour criminelle départementale, créée en 2019 ?",
       "options": [
-        "Tous les crimes, en remplacement définitif de la cour d'assises",
-        "Les crimes commis par des mineurs uniquement",
-        "Les crimes punis de la réclusion à perpétuité",
-        "Les crimes punis de 15 à 20 ans de réclusion, commis sans récidive"
+        "Tous les crimes, se substituant définitivement à la cour d'assises dans tous les cas",
+        "Les crimes commis uniquement par des mineurs, à l'exclusion de tous les majeurs concernés",
+        "Les crimes passibles de la réclusion criminelle à perpétuité comme peine maximale encou.",
+        "Les crimes punis de quinze à vingt ans de réclusion, commis sans état de récidive légale"
       ],
       "answer": 3,
       "explanation": "La cour criminelle départementale, créée en 2019, est compétente pour juger les crimes punis d'une peine de 15 à 20 ans de réclusion lorsqu'ils sont commis sans récidive ; elle coexiste avec la cour d'assises, qui demeure compétente pour les autres crimes, notamment ceux punis de la perpétuité ou commis en récidive.",
-      "tags": ["cour criminelle départementale"]
+      "tags": [
+        "cour criminelle départementale"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-005",
       "question": "Depuis 2022, quelle est la particularité du tribunal judiciaire de Nanterre en matière pénale ?",
       "options": [
-        "Il dispose d'une compétence spécialisée pour les crimes sériels ou non élucidés (art. 706-106-1 CPP)",
-        "Il est devenu l'unique juridiction compétente pour juger les crimes commis par des mineurs",
-        "Il a remplacé la chambre criminelle de la Cour de cassation pour le contrôle de la légalité des décisions",
-        "Il centralise l'ensemble des pourvois en cassation en matière pénale"
+        "Il dispose d'une compétence nationale spécialisée pour les crimes sériels ou non élucidés",
+        "Il est compétent en priorité pour les crimes commis à l'étranger par des Français",
+        "Il a remplacé la chambre criminelle pour le contrôle de légalité des décisions pénales",
+        "Il centralise l'ensemble des pourvois en cassation formés en matière pénale et criminelle"
       ],
       "answer": 0,
       "explanation": "Depuis 2022, le tribunal judiciaire de Nanterre dispose d'une compétence spécialisée, prévue à l'article 706-106-1 du Code de procédure pénale, pour les crimes sériels ou non élucidés, illustrant le développement des pôles spécialisés au sein des juridictions de droit commun.",
-      "tags": ["tribunal judiciaire de nanterre"]
+      "tags": [
+        "tribunal judiciaire de nanterre"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-006",
       "question": "Quelle est la principale différence entre la connexité (art. 203 CPP) et l'indivisibilité (art. 382 CPP) ?",
       "options": [
-        "La connexité suppose une unité d'infraction, alors que l'indivisibilité suppose une pluralité d'infractions liées",
-        "La connexité entraîne une jonction facultative des procédures, tandis que l'indivisibilité, fondée sur l'unité d'infraction, entraîne une jonction obligatoire",
-        "Seule l'indivisibilité permet de proroger la compétence territoriale d'une juridiction",
-        "La connexité et l'indivisibilité produisent rigoureusement les mêmes effets procéduraux"
+        "La connexité suppose des infractions liées entre elles ; l'indivisibilité une unité",
+        "La connexité entraîne une jonction obligatoire, l'indivisibilité une jonction facultative",
+        "La connexité et l'indivisibilité ont exactement les mêmes effets, sans aucune différence",
+        "L'indivisibilité suppose une pluralité d'infractions, la connexité une seule infraction"
       ],
       "answer": 1,
       "explanation": "La connexité suppose une pluralité d'infractions liées par un lien de temps, de lieu ou de cause à effet et n'entraîne qu'une prorogation facultative de compétence, tandis que l'indivisibilité repose sur l'unité d'infraction (coauteurs ou complices d'un même fait) et impose une jonction obligatoire des procédures.",
-      "tags": ["connexité", "indivisibilité"]
+      "tags": [
+        "connexité",
+        "indivisibilité"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-007",
       "question": "À qui appartient le règlement d'un conflit de compétence entre deux juridictions du premier degré ?",
       "options": [
-        "Au ministère public, qui choisit la juridiction de poursuite",
-        "À la chambre criminelle de la Cour de cassation, quel que soit le degré des juridictions en conflit",
-        "À la juridiction hiérarchiquement supérieure et commune aux deux juridictions, soit la chambre de l'instruction pour des juridictions de premier degré",
-        "Aux parties elles-mêmes, par accord amiable sur la juridiction saisie"
+        "Au ministère public, qui désigne discrétionnairement la juridiction de poursuite",
+        "À la chambre criminelle, compétente pour tout conflit entre juridictions pénales",
+        "À la juridiction supérieure commune aux deux en conflit, soit la chambre de l'instruction",
+        "Aux parties elles-mêmes, qui peuvent s'accorder amiablement sur la juridiction à saisir"
       ],
       "answer": 2,
       "explanation": "Le règlement d'un conflit de compétence, positif ou négatif, appartient à la juridiction hiérarchiquement supérieure et commune aux juridictions en conflit : la chambre de l'instruction pour des juridictions du premier degré, et la chambre criminelle de la Cour de cassation lorsque les juridictions en conflit sont de degrés différents.",
-      "tags": ["conflit de compétence"]
+      "tags": [
+        "conflit de compétence"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-008",
       "question": "Selon le principe « le juge de l'exception est juge de l'action », dans quel cas le juge pénal ne peut-il pas statuer lui-même sur une question préjudicielle extra-pénale soulevée par la défense ?",
       "options": [
-        "Lorsque la question préjudicielle porte sur un point de droit du travail",
-        "Lorsque la question préjudicielle porte sur un contrat commercial",
-        "Lorsque la question préjudicielle porte sur le droit de la consommation",
-        "Lorsque la question préjudicielle porte sur l'état civil, la propriété immobilière, la nationalité ou la bigamie"
+        "Lorsque la question préjudicielle porte sur un point de droit du travail stricto sensu",
+        "Lorsque la question préjudicielle porte sur l'interprétation d'un contrat commercial",
+        "Lorsque la question préjudicielle porte sur une règle relevant du droit de la consommation",
+        "Lorsque la question préjudicielle porte sur l'état civil, la propriété ou la nationalité"
       ],
       "answer": 3,
       "explanation": "Le principe selon lequel le juge pénal saisi de l'action publique peut statuer sur les questions préjudicielles civiles ou administratives soulevées par la défense connaît des exceptions textuelles ou jurisprudentielles, notamment lorsque la question porte sur l'état civil, la propriété immobilière, la nationalité ou la bigamie.",
-      "tags": ["questions préjudicielles"]
+      "tags": [
+        "questions préjudicielles"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-009",
       "question": "Comment se détermine la compétence matérielle (ratione materiae) d'une juridiction de jugement ?",
       "options": [
-        "Par la qualification légale de l'infraction (contravention, délit ou crime), indépendamment de la qualification retenue par le juge d'instruction lors de la saisine",
-        "Par la qualité de la personne poursuivie, notamment sa minorité ou son statut militaire",
-        "Par le lieu de commission de l'infraction ou de résidence du prévenu",
-        "Par le choix discrétionnaire du ministère public au moment des poursuites"
+        "Par la qualification légale de l'infraction, indépendamment de la qualification instruite",
+        "Par le lieu du domicile du prévenu ou de la victime, librement choisi par le parquet",
+        "Par le lieu de commission de l'infraction ou par le lieu de résidence du prévenu en cause",
+        "Par le choix discrétionnaire du ministère public au moment de l'engagement des poursuites"
       ],
       "answer": 0,
       "explanation": "La compétence matérielle est déterminée par la qualification légale de l'infraction (contravention, délit, crime), qui fixe la juridiction de jugement compétente indépendamment de la qualification initialement retenue par le juge d'instruction au moment de sa saisine. La compétence personnelle et la compétence territoriale répondent à des critères distincts.",
-      "tags": ["compétence matérielle"]
+      "tags": [
+        "compétence matérielle"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-010",
       "question": "Quelle majorité est requise pour qu'une décision défavorable à l'accusé soit prononcée par la cour d'assises statuant en premier ressort ?",
       "options": [
-        "Une majorité simple, soit 5 voix sur 9",
-        "Une majorité qualifiée de 6 voix sur 9",
-        "L'unanimité des 9 jurés et magistrats",
-        "Une majorité de 8 voix sur 9"
+        "Une majorité simple de cinq voix sur neuf suffit pour toute décision de la cour d'assises",
+        "Une majorité qualifiée de six voix sur neuf pour toute décision sur la culpabilité",
+        "L'unanimité des neuf jurés et des trois magistrats est exigée en toute matière",
+        "Une majorité renforcée de huit voix sur neuf est requise pour prononcer une condamnation"
       ],
       "answer": 1,
       "explanation": "En premier ressort, la cour d'assises est composée de 6 jurés et 3 magistrats (9 au total) ; toute décision défavorable à l'accusé requiert une majorité qualifiée de 6 voix sur 9 (art. 359 CPP), garantie supplémentaire conforme à la présomption d'innocence.",
-      "tags": ["cour d'assises", "article 359 cpp"]
+      "tags": [
+        "cour d'assises",
+        "article 359 cpp"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-011",
       "question": "Quelle est la composition de la cour d'assises statuant en appel, et quelle majorité est requise pour une décision défavorable à l'accusé ?",
       "options": [
-        "9 jurés et 3 magistrats (12 au total), majorité de 6 voix sur 12",
-        "12 jurés et 3 magistrats (15 au total), majorité de 8 voix sur 15",
-        "9 jurés et 3 magistrats (12 au total), majorité qualifiée de 8 voix sur 12",
-        "6 jurés et 3 magistrats (9 au total), comme en premier ressort"
+        "Neuf jurés et trois magistrats (douze au total), avec une majorité de six voix sur douze",
+        "Douze jurés et trois magistrats (quinze au total), majorité de huit voix sur quinze",
+        "Neuf jurés et trois magistrats (douze au total), avec une majorité de huit voix sur douze",
+        "Six jurés et trois magistrats, soit neuf membres, composition identique au premier ressort"
       ],
       "answer": 2,
       "explanation": "En appel, la cour d'assises est composée de 9 jurés et 3 magistrats, soit 12 au total ; toute décision défavorable à l'accusé requiert une majorité qualifiée de 8 voix sur 12 (art. 362 CPP), supérieure à celle exigée en premier ressort (6 voix sur 9).",
-      "tags": ["cour d'assises", "article 362 cpp"]
+      "tags": [
+        "cour d'assises",
+        "article 362 cpp"
+      ]
     },
     {
       "id": "juridictions-repressives-qcm-012",
       "question": "Quel est le rôle de la chambre criminelle de la Cour de cassation à l'égard des décisions des juridictions répressives ?",
       "options": [
-        "Elle réexamine les faits et peut substituer sa propre appréciation de la culpabilité à celle des juges du fond",
-        "Elle ne statue que sur les pourvois formés contre les décisions de la cour d'assises",
-        "Elle constitue un troisième degré de juridiction statuant sur le fond des affaires pénales",
-        "Elle ne juge pas le fait mais contrôle, sur pourvoi, la légalité des décisions rendues par les juridictions du fond"
+        "Elle réexamine les faits et peut substituer son appréciation de la culpabilité au fond",
+        "Elle ne contrôle que la régularité de la procédure sans examiner le fond de l'affaire",
+        "Elle rejuge uniquement la peine sans remettre en cause la déclaration de culpabilité",
+        "Elle contrôle exclusivement le droit sur pourvoi, sans rejuger les faits ni la culpabilité"
       ],
       "answer": 3,
       "explanation": "La chambre criminelle de la Cour de cassation n'est pas un troisième degré de juridiction statuant sur les faits : saisie par la voie du pourvoi, elle contrôle uniquement la légalité des décisions rendues par les juridictions de jugement, sans réexaminer l'appréciation des faits ou de la culpabilité.",
-      "tags": ["cour de cassation", "pourvoi"]
+      "tags": [
+        "cour de cassation",
+        "pourvoi"
+      ]
     }
   ]
 }

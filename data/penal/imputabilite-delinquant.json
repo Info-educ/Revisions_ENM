@@ -7,61 +7,91 @@
       "id": "imputabilite-fc-001",
       "front": "Qu'est-ce que l'imputabilité et quelles sont ses deux conditions cumulatives ?",
       "back": "L'imputabilité est la possibilité de mettre une faute au passif du délinquant : elle suppose le libre arbitre, c'est-à-dire la capacité de choisir librement entre le licite et l'illicite. Elle requiert deux conditions cumulatives : la liberté du comportement pénal et la lucidité du comportement pénal. Une personne non-imputable n'est pas responsable pénalement (pas de peine), mais elle peut rester civilement responsable.",
-      "tags": ["imputabilité", "libre arbitre"]
+      "tags": [
+        "imputabilité",
+        "libre arbitre"
+      ]
     },
     {
       "id": "imputabilite-fc-002",
       "front": "Quels sont les quatre types de contrainte envisagés au titre de la liberté du comportement pénal (art. 122-2 C. pén.), et quel est l'effet de chacun sur l'imputabilité ?",
       "back": "La contrainte physique externe (pression extérieure sur le corps de l'agent) et la contrainte physique interne (maladie privant de liberté de vouloir, à condition d'être involontaire et imprévisible) sont causes de non-imputabilité — mais cette impunité reste personnelle : elle ne profite pas aux co-auteurs ou complices. La contrainte morale externe (menaces ou pressions d'un tiers) n'est admise que prudemment, à condition d'être irrésistible et appréciée in abstracto. La contrainte morale interne (passion, jeu, convictions) est en revanche refusée : elle n'abolit pas la volonté et peut même aggraver la répression.",
-      "tags": ["contrainte", "article 122-2"]
+      "tags": [
+        "contrainte",
+        "article 122-2"
+      ]
     },
     {
       "id": "imputabilite-fc-003",
       "front": "Qu'est-ce que le trouble psychique ou neuropsychique au sens de l'article 122-1 du Code pénal, et quelle condition de gravité doit-il remplir ?",
       "back": "Cette notion, plus large que l'ancien terme de « démence » (1810), inclut tous les troubles mentaux : arriération, schizophrénie, paranoïa, épilepsie, ainsi que les intoxications volontaires (dont l'inclusion reste discutée). Son appréciation relève du pouvoir souverain des juges du fond. Le trouble doit être suffisamment grave pour retentir sur la lucidité de l'agent au moment des faits.",
-      "tags": ["trouble psychique", "article 122-1"]
+      "tags": [
+        "trouble psychique",
+        "article 122-1"
+      ]
     },
     {
       "id": "imputabilite-fc-004",
       "front": "Quelle différence de régime existe entre le trouble psychique total et le trouble psychique partiel (art. 122-1 C. pén.) ?",
       "back": "En cas de trouble total (al. 1), l'irresponsabilité pénale est totale : une déclaration d'irresponsabilité est prononcée par la chambre de l'instruction ou la juridiction de jugement, une hospitalisation d'office restant possible. En cas de trouble partiel (al. 2), seul le discernement est altéré : la responsabilité pénale est maintenue, mais la peine est atténuée (minoration d'un tiers selon la loi Taubira de 2014, principe partiellement remis en cause par une réforme de 2024). Sur le plan civil, l'auteur reste responsable des dommages causés (art. 414-3 C. civ.).",
-      "tags": ["trouble psychique", "irresponsabilité pénale"]
+      "tags": [
+        "trouble psychique",
+        "irresponsabilité pénale"
+      ]
     },
     {
       "id": "imputabilite-fc-005",
       "front": "Quel régime pénal s'applique aux mineurs selon qu'ils ont moins de 13 ans ou entre 13 et 18 ans ?",
       "back": "Avant 13 ans, aucune peine n'est applicable (CJPM, art. L. 11-4) : seules des mesures éducatives sont possibles (retour aux parents, admonestration, placement), sur le fondement d'une présomption simple de non-discernement. Entre 13 et 18 ans, le principe éducatif reste prioritaire, mais des peines atténuées deviennent possibles (au maximum la moitié de la peine prévue pour un majeur, pour les 13-16 ans) ; pour les 16-18 ans, l'excuse de minorité devient facultative.",
-      "tags": ["mineurs", "cjpm"]
+      "tags": [
+        "mineurs",
+        "cjpm"
+      ]
     },
     {
       "id": "imputabilite-fc-006",
       "front": "Qu'est-ce que la présomption de discernement des mineurs consacrée par la loi du 9 septembre 2002, et quelle en est la conséquence pénale ?",
       "back": "Depuis cette loi (codifiée à l'art. L. 11-1 CJPM, qui consacre la solution de l'arrêt Djouab, Ass. plén. 9 mai 1984), une présomption simple de discernement s'applique à partir de 13 ans. Les mineurs capables de discernement sont pénalement responsables (art. 122-8 C. pén.), ce qui concerne en particulier les mineurs récidivistes, qui ne bénéficient alors pas d'atténuation de peine.",
-      "tags": ["discernement", "mineurs"]
+      "tags": [
+        "discernement",
+        "mineurs"
+      ]
     },
     {
       "id": "imputabilite-fc-007",
       "front": "Quelles sont les deux thèses doctrinales classiquement opposées sur la responsabilité pénale des personnes morales ?",
       "back": "La théorie de la fiction (doctrine classique du XIXe siècle) considère la personne morale comme une création utilitaire abstraite, dépourvue de libre arbitre et de conscience : aucune infraction ne pourrait matériellement lui être imputée, et les peines (amende, privation de liberté) seraient inadaptées. La théorie de la réalité (doctrine moderne) reconnaît au contraire à la personne morale une personnalité distincte de ses membres, une organisation et des intérêts collectifs propres, ainsi qu'une volonté collective résultant des décisions de ses organes délibérants — ce qui rend l'imputation possible et les peines adaptées (amende sur le patrimoine social, dissolution, interdictions d'exercer).",
-      "tags": ["personnes morales", "théorie de la réalité"]
+      "tags": [
+        "personnes morales",
+        "théorie de la réalité"
+      ]
     },
     {
       "id": "imputabilite-fc-008",
       "front": "Quel est le domaine de la responsabilité pénale des personnes morales (art. 121-2 C. pén.), et comment a-t-il évolué depuis la loi Perben II ?",
       "back": "Le principe général concerne toutes les personnes morales (sociétés, associations, syndicats, fondations…), à but lucratif ou non, de droit public ou privé, françaises ou étrangères. L'État en est exclu, et les collectivités territoriales ne sont responsables que pour les activités susceptibles de délégation de service public (art. 121-2 al. 2). Avant la loi Perben II (9 mars 2004), seules certaines infractions spécialement prévues étaient concernées (principe de spécialité) ; depuis cette loi, un principe de généralité s'applique : toutes les infractions sont désormais concernées.",
-      "tags": ["article 121-2", "personnes morales"]
+      "tags": [
+        "article 121-2",
+        "personnes morales"
+      ]
     },
     {
       "id": "imputabilite-fc-009",
       "front": "Quelles sont les deux conditions cumulatives exigées par l'article 121-2 du Code pénal pour engager la responsabilité pénale d'une personne morale ?",
       "back": "L'infraction doit avoir été commise par un organe (gérant, conseil d'administration, directeur général, président…) ou un représentant (mandataire, salarié titulaire d'une délégation de pouvoir) de la personne morale, et avoir été commise pour le compte de celle-ci — c'est-à-dire dans le cadre de ses activités, de son organisation ou de son fonctionnement, et dans son intérêt (profit ou évitement d'une perte).",
-      "tags": ["article 121-2", "personnes morales"]
+      "tags": [
+        "article 121-2",
+        "personnes morales"
+      ]
     },
     {
       "id": "imputabilite-fc-010",
       "front": "Quelles sont les principales sanctions applicables aux personnes morales, et le cumul avec la responsabilité des personnes physiques est-il obligatoire ?",
       "back": "L'amende (art. 131-38 C. pén.), portée au quintuple de celle prévue pour les personnes physiques, et la dissolution — parfois qualifiée de « peine de mort » de la personne morale — réservée aux infractions les plus graves, constituent les sanctions principales. S'y ajoutent des sanctions complémentaires (interdiction d'exercer, fermeture d'établissement, confiscation, interdiction d'émettre des chèques, interdiction d'accès aux marchés publics). Le cumul de la responsabilité de la personne morale avec celle des personnes physiques auteurs ou complices des mêmes faits est possible (art. 121-2 al. 3), mais non obligatoire.",
-      "tags": ["sanctions", "personnes morales"]
+      "tags": [
+        "sanctions",
+        "personnes morales"
+      ]
     }
   ],
   "qcm": [
@@ -69,157 +99,193 @@
       "id": "imputabilite-qcm-001",
       "question": "Dans l'affaire Trémintin (Crim. 29 janv. 1921), une tempête avait fait s'écrouler une maison sur la voie publique, empêchant un piéton de respecter une obligation légale. Quel est l'effet de cette contrainte physique externe, et profite-t-elle également aux éventuels co-auteurs des mêmes faits ?",
       "options": [
-        "Elle constitue une cause de non-imputabilité supprimant la liberté d'action, mais cette impunité reste personnelle et ne profite pas aux co-auteurs ou complices",
-        "Elle constitue une cause de non-imputabilité qui profite automatiquement à tous les co-auteurs et complices des mêmes faits",
-        "Elle n'a aucun effet sur l'imputabilité, la contrainte physique externe étant systématiquement écartée par la jurisprudence",
-        "Elle constitue un simple fait justificatif qui se communique à l'ensemble des participants à l'infraction"
+        "Elle constitue une cause de non-imputabilité personnelle, ne profitant pas aux coauteurs",
+        "Elle constitue une cause de non-imputabilité qui profite automatiquement aux coauteurs",
+        "Elle est sans effet sur l'imputabilité, la contrainte externe étant toujours rejetée",
+        "Elle constitue un simple fait justificatif se communiquant à l'ensemble des participants"
       ],
       "answer": 0,
       "explanation": "La contrainte physique externe, lorsqu'elle supprime effectivement la liberté d'action de l'agent, constitue une cause de non-imputabilité entraînant l'impunité pénale. Cette impunité demeure toutefois strictement personnelle à celui qui l'a subie : à la différence des faits justificatifs, causes objectives qui se communiquent à l'ensemble des participants, elle ne profite pas aux co-auteurs ou complices qui n'auraient pas eux-mêmes subi la contrainte.",
-      "tags": ["contrainte physique externe", "trémintin"]
+      "tags": [
+        "contrainte physique externe",
+        "trémintin"
+      ]
     },
     {
       "id": "imputabilite-qcm-002",
       "question": "Un conducteur s'endort au volant et provoque un accident (Crim. 15 nov. 2005). Si ce même conducteur savait, avant de prendre la route, qu'il était sujet à des endormissements soudains et fréquents, la contrainte physique interne pourrait-elle malgré tout être retenue ?",
       "options": [
-        "Oui, la prévisibilité de la contrainte est indifférente dès lors qu'elle prive effectivement l'agent de sa liberté de vouloir",
-        "Non, la contrainte physique interne ne produit le même effet que la contrainte externe que si elle est à la fois involontaire et imprévisible",
-        "Oui, car seule l'absence de volonté du conducteur au moment des faits est prise en compte, indépendamment de toute prévisibilité",
-        "Non, car la contrainte physique interne n'est jamais retenue par la jurisprudence, quelles que soient les circonstances"
+        "Oui, la prévisibilité est indifférente dès lors que la contrainte prive l'agent de volonté",
+        "Non, la contrainte physique interne doit être à la fois involontaire et imprévisible",
+        "Oui, seule l'absence de volonté au moment des faits compte, sans égard à la prévisibilité",
+        "Non, la contrainte physique interne n'est jamais retenue en jurisprudence, sans exception"
       ],
       "answer": 1,
       "explanation": "La contrainte physique interne ne produit le même effet exonératoire que la contrainte externe qu'à la double condition d'être involontaire et imprévisible. Si le conducteur savait qu'il était sujet à des endormissements soudains, le caractère imprévisible fait défaut : il aurait dû s'abstenir de conduire, ce qui exclut alors le bénéfice de la contrainte.",
-      "tags": ["contrainte physique interne", "imprévisibilité"]
+      "tags": [
+        "contrainte physique interne",
+        "imprévisibilité"
+      ]
     },
     {
       "id": "imputabilite-qcm-003",
       "question": "Une personne agit sous l'effet de pressions économiques précaires exercées par un tiers (Crim. 8 mars 2023), tandis qu'une autre invoque ses convictions politiques personnelles pour justifier son comportement (Colmar, 8 déc. 1987). Ces deux situations sont-elles traitées de la même manière par la jurisprudence ?",
       "options": [
-        "Non, seules les convictions politiques peuvent être retenues comme cause de non-imputabilité, la pression économique étant indifférente",
-        "Oui, les deux situations sont systématiquement écartées par la jurisprudence, faute de contrainte irrésistible",
-        "Non, la contrainte morale externe peut être admise prudemment si elle est irrésistible et appréciée in abstracto, alors que la contrainte morale interne (convictions) est refusée car elle n'abolit pas la volonté",
-        "Oui, les deux situations sont admises sans difficulté dès qu'un sentiment de contrainte est invoqué par l'agent"
+        "Non, seules les convictions politiques peuvent fonder une cause de non-imputabilité morale",
+        "Oui, les deux situations sont systématiquement écartées faute de contrainte irrésistible",
+        "Non, la contrainte externe peut être admise si irrésistible ; pas la contrainte interne",
+        "Oui, les deux sont admises dès lors qu'un sentiment subjectif de contrainte est invoqué"
       ],
       "answer": 2,
       "explanation": "La contrainte morale externe, résultant de pressions exercées par un tiers, peut être admise — prudemment — à condition d'être irrésistible et appréciée in abstracto, c'est-à-dire au regard du comportement qu'aurait eu un individu moyen placé dans les mêmes circonstances (Crim. 8 fév. 1936, Rozoff). La contrainte morale interne, comme des convictions politiques ou religieuses, est en revanche systématiquement refusée : elle n'abolit pas la volonté de l'agent et peut même, dans le cas de la passion, aggraver la répression.",
-      "tags": ["contrainte morale externe", "contrainte morale interne"]
+      "tags": [
+        "contrainte morale externe",
+        "contrainte morale interne"
+      ]
     },
     {
       "id": "imputabilite-qcm-004",
       "question": "L'intoxication volontaire d'une personne (alcool, stupéfiants) peut-elle être prise en compte au titre du trouble psychique ou neuropsychique de l'article 122-1 du Code pénal ?",
       "options": [
-        "Non, l'intoxication volontaire est systématiquement exclue de la notion de trouble psychique ou neuropsychique",
-        "Oui, l'intoxication volontaire produit systématiquement les mêmes effets qu'un trouble psychique total, quelles que soient les circonstances",
-        "Non, car seuls les troubles d'origine pathologique, à l'exclusion de toute substance, peuvent être pris en compte",
-        "Oui, son inclusion reste discutée en doctrine, et la loi du 24 janvier 2022 a introduit des dispositions spécifiques sur le rôle de la consommation volontaire de substances psychoactives (art. 122-1 et 122-1-1 C. pén.)"
+        "Non, l'intoxication volontaire est exclue de la notion de trouble mental ou neuropsychique",
+        "Oui, l'intoxication volontaire produit les mêmes effets qu'un trouble total sans exception",
+        "Non, seuls les troubles d'origine pathologique peuvent être pris en compte, sans exception",
+        "Son inclusion reste discutée en doctrine et a conduit à des dispositions légales récentes"
       ],
       "answer": 3,
       "explanation": "La question de l'intoxication volontaire au regard du trouble psychique ou neuropsychique reste débattue en doctrine. Le législateur est intervenu par la loi du 24 janvier 2022, qui a introduit deux dispositions spécifiques (art. 122-1 et 122-1-1 C. pén.) encadrant précisément le rôle de la consommation volontaire de substances psychoactives dans l'appréciation de la responsabilité pénale, sans pour autant l'exclure ni l'assimiler purement et simplement à un trouble pathologique.",
-      "tags": ["trouble psychique", "intoxication volontaire"]
+      "tags": [
+        "trouble psychique",
+        "intoxication volontaire"
+      ]
     },
     {
       "id": "imputabilite-qcm-005",
       "question": "Un individu atteint d'un trouble psychique au moment des faits voit son discernement seulement altéré, et non aboli. Quelle conséquence cela entraîne-t-il sur sa responsabilité pénale, par opposition à un trouble ayant totalement aboli son discernement ?",
       "options": [
-        "Sa responsabilité pénale est maintenue, mais sa peine est atténuée, alors qu'un trouble total aurait entraîné une déclaration d'irresponsabilité pénale",
-        "Sa responsabilité pénale est totalement écartée dans les deux cas, seule la modalité de la mesure de sûreté différant",
-        "Sa responsabilité pénale est maintenue sans aucune atténuation, l'altération du discernement étant indifférente à la peine prononcée",
-        "Sa responsabilité pénale est écartée, mais il reste néanmoins tenu de purger une peine atténuée à titre de mesure de sûreté"
+        "Sa responsabilité est maintenue et atténuée ; un trouble total entraîne l'irresponsabilité",
+        "Sa responsabilité pénale est totalement écartée dans les deux cas, seule la mesure diffère",
+        "Sa responsabilité est maintenue sans atténuation : l'altération du discernement est neutre",
+        "Sa responsabilité est écartée mais il purge néanmoins une peine atténuée à titre de sûreté"
       ],
       "answer": 0,
       "explanation": "L'article 122-1 du Code pénal distingue le trouble ayant totalement aboli le discernement (al. 1), qui entraîne une irresponsabilité pénale totale et peut donner lieu à une hospitalisation d'office, du trouble ayant seulement altéré le discernement (al. 2), qui laisse la responsabilité pénale intacte tout en justifiant une atténuation de la peine prononcée.",
-      "tags": ["trouble psychique", "altération du discernement"]
+      "tags": [
+        "trouble psychique",
+        "altération du discernement"
+      ]
     },
     {
       "id": "imputabilite-qcm-006",
       "question": "Un mineur de 11 ans commet des faits matériellement constitutifs d'une infraction. Une peine peut-elle lui être appliquée ?",
       "options": [
-        "Oui, une peine atténuée de moitié peut lui être appliquée, comme pour les mineurs de 13 à 16 ans",
-        "Non, aucune peine n'est applicable avant 13 ans (CJPM, art. L. 11-4) : seules des mesures éducatives peuvent être prononcées",
-        "Oui, une peine identique à celle d'un majeur peut lui être appliquée si le juge constate son discernement",
-        "Non, mais uniquement si le mineur a déjà fait l'objet d'une mesure éducative antérieure"
+        "Oui, une peine atténuée de moitié peut lui être appliquée comme pour les treize-seize ans",
+        "Non, aucune peine n'est applicable avant treize ans, seules des mesures éducatives le sont",
+        "Oui, une peine identique à celle d'un majeur est possible si son discernement est constaté",
+        "Non, tout mineur est pénalement irresponsable jusqu'à l'âge de dix-huit ans sans exception"
       ],
       "answer": 1,
       "explanation": "Avant 13 ans, le code de la justice pénale des mineurs exclut toute peine (art. L. 11-4 CJPM) : seules des mesures éducatives (retour aux parents, admonestration, placement) peuvent être prononcées, sur le fondement d'une présomption simple de non-discernement instaurée par l'ordonnance du 9 septembre 2002.",
-      "tags": ["mineurs", "présomption de non-discernement"]
+      "tags": [
+        "mineurs",
+        "présomption de non-discernement"
+      ]
     },
     {
       "id": "imputabilite-qcm-007",
       "question": "Un mineur de 15 ans, reconnu capable de discernement et déjà connu pour plusieurs récidives, commet une nouvelle infraction. Peut-il bénéficier automatiquement d'une atténuation de peine en raison de sa minorité ?",
       "options": [
-        "Oui, l'excuse de minorité s'applique automatiquement et de façon absolue à tout mineur, quel que soit son passé judiciaire",
-        "Non, un mineur capable de discernement est traité exactement comme un majeur, sans aucune disposition spécifique de la justice pénale des mineurs",
-        "Non, dès lors que le discernement du mineur est établi (art. 122-8 C. pén., consacrant la solution de l'arrêt Djouab), il est pénalement responsable et l'atténuation de peine n'est pas systématiquement acquise, notamment pour les récidivistes",
-        "Oui, mais uniquement si le mineur a moins de 13 ans au moment des faits"
+        "Oui, l'excuse de minorité s'applique automatiquement à tout mineur quel que soit son passé",
+        "Non, le discernement établi d'un mineur ne lui applique pas le régime des majeurs",
+        "Non, le discernement établi engage sa responsabilité ; l'atténuation n'est pas automatique",
+        "Oui, mais uniquement si le mineur est âgé de moins de treize ans lors des faits commis"
       ],
       "answer": 2,
       "explanation": "Depuis la consécration légale de la solution de l'arrêt Djouab (Ass. plén. 9 mai 1984) par la loi du 9 septembre 2002, les mineurs capables de discernement sont pénalement responsables (art. 122-8 C. pén.). Si le principe éducatif demeure prioritaire, la fiche souligne que les mineurs récidivistes ne bénéficient pas nécessairement d'une atténuation de peine, contrairement à une application automatique et systématique de l'excuse de minorité.",
-      "tags": ["discernement", "djouab"]
+      "tags": [
+        "discernement",
+        "djouab"
+      ]
     },
     {
       "id": "imputabilite-qcm-008",
       "question": "Une commune organise, dans le cadre d'une activité susceptible de délégation de service public, des faits constitutifs d'une infraction. Sa responsabilité pénale peut-elle être engagée sur le fondement de l'article 121-2 du Code pénal, et celle de l'État pourrait-elle l'être dans les mêmes conditions ?",
       "options": [
-        "Non pour la commune ni pour l'État, ces deux personnes morales étant exclues de tout principe de responsabilité pénale",
-        "Oui pour la commune et pour l'État, le principe général de responsabilité pénale des personnes morales s'appliquant sans exception",
-        "Non pour la commune, sauf si l'activité concernée ne peut faire l'objet d'aucune délégation de service public ; oui pour l'État dans tous les cas",
-        "Oui pour la commune, dans cette hypothèse précise ; non pour l'État, qui est exclu de tout principe de responsabilité pénale au titre de l'article 121-2"
+        "Non pour les deux : commune et État sont exclus de tout principe de responsabilité pénale",
+        "Oui pour les deux : le principe général s'applique sans exception aux personnes morales",
+        "Non pour la commune sauf hors délégation de service public ; pas pour l'État en revanche",
+        "Oui pour la commune dans cette hypothèse précise ; non pour l'État, exclu du principe"
       ],
       "answer": 3,
       "explanation": "L'article 121-2 du Code pénal pose un principe général de responsabilité pénale pour toutes les personnes morales, à l'exception de l'État, qui en est totalement exclu. Les collectivités territoriales et leurs groupements ne sont quant à elles responsables que pour les activités susceptibles de faire l'objet d'une délégation de service public (art. 121-2 al. 2), ce qui correspond précisément à l'hypothèse envisagée pour la commune.",
-      "tags": ["article 121-2", "personnes morales"]
+      "tags": [
+        "article 121-2",
+        "personnes morales"
+      ]
     },
     {
       "id": "imputabilite-qcm-009",
       "question": "Un salarié, bien qu'aucun document écrit ne formalise précisément sa délégation de pouvoir, exerce effectivement et de manière précise des responsabilités de direction au sein de l'entreprise. Une telle délégation de fait peut-elle permettre d'engager la responsabilité pénale de la personne morale en cas d'infraction commise par ce salarié ?",
       "options": [
-        "Oui, la jurisprudence admet la délégation de pouvoir de fait, à condition qu'elle soit effective et précise (Crim. 17 oct. 2023 ; Crim. 7 janv. 2020)",
-        "Non, seule une délégation de pouvoir formalisée par un écrit précis peut être prise en compte par la Cour de cassation",
-        "Non, seuls les organes de la personne morale (gérant, conseil d'administration, président…) peuvent engager sa responsabilité pénale, à l'exclusion de tout représentant",
-        "Oui, mais uniquement si le salarié occupe un poste de direction générale au sein de l'entreprise"
+        "Oui, la délégation de fait est admise si effective, précise et conférant un pouvoir réel",
+        "Non, seule une délégation formalisée par écrit peut être retenue par la jurisprudence",
+        "Non, seuls les organes de la personne morale peuvent engager sa responsabilité pénale",
+        "Oui, mais uniquement si le salarié occupe un poste de direction générale dans l'entreprise"
       ],
       "answer": 0,
       "explanation": "La Cour de cassation identifie, au titre des conditions de mise en œuvre de la responsabilité pénale des personnes morales, l'infraction commise par un organe ou par un représentant. Elle admet à ce titre la délégation de pouvoir de fait, sans exiger un formalisme écrit particulier, à condition que cette délégation soit effective et suffisamment précise.",
-      "tags": ["délégation de pouvoir", "article 121-2"]
+      "tags": [
+        "délégation de pouvoir",
+        "article 121-2"
+      ]
     },
     {
       "id": "imputabilite-qcm-010",
       "question": "Une faute de simple négligence, commise par l'auteur indirect d'un dommage, suffit-elle à engager la responsabilité pénale d'une personne morale, alors qu'une telle faute ne suffirait pas à engager celle d'une personne physique auteur indirect du même dommage ?",
       "options": [
-        "Non, les mêmes exigences de faute qualifiée s'appliquent identiquement aux personnes physiques et aux personnes morales auteurs indirects",
-        "Oui, selon Crim. 28 avr. 2009, une faute de négligence de l'auteur indirect suffit à elle seule à engager la responsabilité pénale de la personne morale, à la différence de la personne physique qui doit caractériser une faute délibérée ou caractérisée",
-        "Non, la responsabilité pénale des personnes morales exige au contraire une faute plus grave que celle exigée des personnes physiques",
-        "Oui, mais uniquement si la personne morale a déjà fait l'objet d'une précédente condamnation pénale"
+        "Non, les mêmes exigences de faute qualifiée s'appliquent également aux personnes morales",
+        "Oui, une simple faute de négligence suffit pour engager la personne morale auteur indirect",
+        "Non, la faute exigée des personnes morales est plus grave que pour les personnes physiques",
+        "Oui, mais uniquement si la personne morale a déjà fait l'objet d'une condamnation pénale"
       ],
       "answer": 1,
       "explanation": "Alors que la loi Fauchon du 10 juillet 2000 exige, pour les auteurs indirects personnes physiques, une faute délibérée ou une faute caractérisée d'une gravité telle qu'ils ne pouvaient l'ignorer, la chambre criminelle a retenu, dans un arrêt du 28 avril 2009, qu'une simple faute de négligence de l'auteur indirect suffit à elle seule à engager la responsabilité pénale de la personne morale — une exigence donc moins stricte que celle posée pour les personnes physiques.",
-      "tags": ["faute de négligence", "personnes morales"]
+      "tags": [
+        "faute de négligence",
+        "personnes morales"
+      ]
     },
     {
       "id": "imputabilite-qcm-011",
       "question": "Une société absorbe une autre société qui avait commis une infraction avant l'opération de fusion-absorption. La responsabilité pénale de la société absorbée peut-elle être transmise à la société absorbante ?",
       "options": [
-        "Non, la responsabilité pénale d'une personne morale s'éteint nécessairement avec sa disparition juridique, quelle que soit l'opération en cause",
-        "Oui, mais uniquement si la société absorbante avait connaissance de l'infraction au moment de l'absorption",
-        "Oui, un revirement de jurisprudence remarqué (Crim. 25 nov. 2020) a admis la transmissibilité de la responsabilité pénale d'une personne morale à une autre en cas d'absorption",
-        "Non, seule une transmission de la responsabilité civile est envisageable dans une telle hypothèse"
+        "Non, la responsabilité pénale s'éteint avec la disparition de la personne morale",
+        "Oui, mais uniquement si la société absorbante connaissait l'infraction lors du rachat",
+        "Oui, un revirement jurisprudentiel a admis la transmissibilité en cas d'absorption",
+        "Non, seule une transmission de responsabilité civile est envisageable dans cette hypothèse"
       ],
       "answer": 2,
       "explanation": "Par un revirement de jurisprudence remarqué (Crim. 25 nov. 2020), la chambre criminelle a admis que la responsabilité pénale d'une personne morale puisse être transmise à une autre personne morale en cas d'absorption, alors que la disparition juridique de la société absorbée aurait pu, selon la solution antérieure, faire obstacle à toute poursuite.",
-      "tags": ["transmissibilité", "absorption"]
+      "tags": [
+        "transmissibilité",
+        "absorption"
+      ]
     },
     {
       "id": "imputabilite-qcm-012",
       "question": "Une infraction est imputée à la fois à une personne morale et à son dirigeant, personne physique, pour les mêmes faits. Le cumul des deux responsabilités pénales est-il systématiquement requis par les juridictions ?",
       "options": [
-        "Oui, le cumul des deux responsabilités est une obligation légale absolue dès lors que les conditions de chacune sont réunies",
-        "Non, la responsabilité de la personne morale exclut nécessairement et systématiquement celle de la personne physique pour les mêmes faits",
-        "Oui, mais uniquement lorsque l'infraction concernée est qualifiée de crime",
-        "Non, l'article 121-2 alinéa 3 du Code pénal n'exclut pas la responsabilité des personnes physiques auteurs ou complices, mais ce cumul n'est pas obligatoire, ce qu'ont confirmé la CEDH (20 mai 2014) et la CJUE (5 avr. 2017)"
+        "Oui, le cumul constitue une obligation légale absolue dès que les conditions sont réunies",
+        "Non, la responsabilité de la personne morale exclut celle de la personne physique",
+        "Oui, mais uniquement lorsque l'infraction concernée est qualifiée de crime par les textes",
+        "Non, ce cumul n'est pas obligatoire, ainsi que l'ont confirmé la CEDH et la CJUE"
       ],
       "answer": 3,
       "explanation": "L'article 121-2 alinéa 3 du Code pénal précise que la responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, ce qui permet un cumul des deux responsabilités. Ce cumul reste néanmoins facultatif et non obligatoire, comme l'ont confirmé tant la Cour européenne des droits de l'homme (20 mai 2014) que la Cour de justice de l'Union européenne (5 avr. 2017), la chambre criminelle veillant simplement à l'absence de contradiction de motifs entre les deux responsabilités retenues.",
-      "tags": ["cumul", "personnes morales"]
+      "tags": [
+        "cumul",
+        "personnes morales"
+      ]
     }
   ]
 }
