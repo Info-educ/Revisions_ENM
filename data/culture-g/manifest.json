@@ -17,6 +17,12 @@
       "file": "laicite-etat-religions.json",
       "title": "Laïcité : l'État face aux religions",
       "category": "Culture générale"
+    },
+    {
+      "id": "influence-chine-monde",
+      "file": "influence-chine-monde.json",
+      "title": "L'influence croissante de la Chine dans le monde",
+      "category": "Culture générale"
     }
   ]
 }

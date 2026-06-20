@@ -1,0 +1,41 @@
+{
+  "id": "influence-chine-monde",
+  "title": "L'influence croissante de la Chine dans le monde",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "chine-fc-001",
+      "front": "Quelles sont les principales étapes de l'ouverture économique de la Chine depuis 1978 ?",
+      "back": "En décembre 1978, Deng Xiaoping lance des réformes pour ouvrir et libéraliser l'économie, en autorisant les entreprises étrangères à produire en Chine contre des transferts de technologie. En décembre 2001, la Chine rejoint l'OMC, s'engageant à ouvrir son territoire aux investissements en contrepartie d'une levée progressive des quotas d'importation. En 2015, le programme « Made in China 2025 » vise à faire du pays le numéro un mondial des hautes technologies en 2049.",
+      "tags": ["ouverture économique", "omc", "made in china 2025"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "chine-qcm-001",
+      "question": "Quelle est la place de la Chine dans l'économie mondiale selon les indicateurs cités pour 2024 ?",
+      "options": [
+        "Deuxième puissance économique mondiale par le PIB, juste après les États-Unis",
+        "Première puissance économique mondiale par le PIB, devant les États-Unis eux-mêmes",
+        "Troisième puissance économique mondiale, après les États-Unis et le Japon réunis",
+        "Quatrième puissance économique mondiale, loin derrière l'Inde et l'Allemagne"
+      ],
+      "answer": 0,
+      "explanation": "Avec un PIB de plus de 18 488 milliards de dollars en 2024, la Chine est la deuxième puissance économique mondiale après les États-Unis (22 569 milliards) et devant le Japon (4 606 milliards), tout en étant le deuxième pays le plus peuplé après l'Inde.",
+      "tags": ["pib", "économie chinoise"]
+    },
+    {
+      "id": "chine-qcm-002",
+      "question": "Quel est l'objectif affiché par la Chine à travers le programme « Made in China 2025 » ?",
+      "options": [
+        "Devenir en 2049 le numéro un mondial incontesté des hautes technologies civiles",
+        "Atteindre une autosuffisance alimentaire totale et complète avant l'année 2030",
+        "Réduire de moitié l'ensemble de ses émissions de gaz à effet de serre avant 2025",
+        "Quitter purement et simplement l'Organisation mondiale du commerce d'ici 2030"
+      ],
+      "answer": 0,
+      "explanation": "Lancé en mai 2015, le programme « Made in China 2025 » vise à faire passer le pays d'une économie du « fabriqué en Chine » à celle du « imaginé en Chine », avec pour objectif de devenir en 2049, pour le centenaire de la République populaire, le numéro un mondial des hautes technologies.",
+      "tags": ["made in china 2025", "hautes technologies"]
+    }
+  ]
+}
