@@ -1,0 +1,560 @@
+{
+  "id": "culture-generale-enm",
+  "title": "Culture générale ENM — Actualité judiciaire et institutionnelle",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "cg-fc-001",
+      "front": "Qu'est-ce que l'OLJ (Observatoire des litiges judiciaires) et quel est son intérêt ?",
+      "back": "L'OLJ permet de transmettre de manière transparente à l'ensemble des juridictions des informations anonymisées sur les différentes affaires, afin d'accélérer le traitement de la justice et d'éviter des décisions fragmentées ou des contentieux qui perdurent pendant des années.",
+      "tags": [
+        "transparence judiciaire",
+        "olj"
+      ]
+    },
+    {
+      "id": "cg-fc-002",
+      "front": "Quelles sont les grandes étapes de l'affaire Dreyfus (1894-1906) ?",
+      "back": "1894 : condamnation du capitaine Dreyfus pour espionnage au profit de l'Allemagne (bordereau). 1896 : le colonel Picquart découvre le vrai coupable, Esterhazy, acquitté en 1898. 1898 : Émile Zola publie « J'accuse…! » dans L'Aurore. 1899 : second procès à Rennes, nouvelle condamnation puis grâce présidentielle. 1906 : réhabilitation totale par la Cour de cassation, sans renvoi.",
+      "tags": [
+        "affaire dreyfus",
+        "histoire judiciaire"
+      ]
+    },
+    {
+      "id": "cg-fc-003",
+      "front": "Pourquoi l'affaire Dreyfus est-elle restée une référence en matière de droits de la défense ?",
+      "back": "Le conseil de guerre de 1894 avait condamné Dreyfus sur la base d'un dossier secret communiqué aux juges sans que la défense en ait connaissance, ce qui constitue une violation flagrante du principe du contradictoire. La révision de 1906 a révélé que des pièces avaient été fabriquées par les services de renseignement.",
+      "tags": [
+        "affaire dreyfus",
+        "contradictoire"
+      ]
+    },
+    {
+      "id": "cg-fc-004",
+      "front": "Quelles conséquences institutionnelles durables l'affaire Dreyfus a-t-elle eues sur la société française ?",
+      "back": "Réforme de la justice militaire, accélération de la loi de séparation des Églises et de l'État (1905), naissance de la figure de l'intellectuel engagé (fondation de la Ligue des droits de l'homme en 1898), et renforcement de l'autorité de la Cour de cassation comme gardienne des droits fondamentaux.",
+      "tags": [
+        "affaire dreyfus",
+        "loi 1905"
+      ]
+    },
+    {
+      "id": "cg-fc-005",
+      "front": "Quel est le rôle de l'Arcom dans le domaine audiovisuel ?",
+      "back": "L'Arcom est l'autorité publique de régulation de l'audiovisuel et du numérique. Elle veille notamment à ce que les radios et télévisions assurent une représentation équilibrée des différentes forces politiques.",
+      "tags": [
+        "arcom",
+        "régulation audiovisuelle"
+      ]
+    },
+    {
+      "id": "cg-fc-006",
+      "front": "Que retenir de l'affaire d'Outreau (2004) sur la parole de l'enfant ?",
+      "back": "L'affaire d'Outreau a conduit à une remise en question de la fiabilité accordée à la parole de l'enfant en 2004, alors qu'en 1998 (création de la « salle Mélanie » pour le recueil de la parole de l'enfant) on lui accordait une grande importance. Le délai de prescription, alors de 10 ans, a ensuite été porté à 30 ans par la loi Schiappa (2018) pour les crimes sexuels sur mineurs.",
+      "tags": [
+        "affaire outreau",
+        "prescription",
+        "parole de l'enfant"
+      ]
+    },
+    {
+      "id": "cg-fc-007",
+      "front": "Quelle est la composition et la mission du G7 ?",
+      "back": "Le G7 réunit 7 grandes démocraties industrialisées (Allemagne, Canada, États-Unis, France, Italie, Japon, Royaume-Uni). C'est un forum informel créé en 1975 pour coordonner les politiques économiques et discuter des grands enjeux mondiaux (économie, sécurité, climat, énergie, développement, géopolitique).",
+      "tags": [
+        "g7",
+        "institutions internationales"
+      ]
+    },
+    {
+      "id": "cg-fc-008",
+      "front": "Quelle est la composition et la mission du G20, et en quoi diffère-t-il du G7 ?",
+      "back": "Le G20, créé en 1999, rassemble 19 pays plus l'Union africaine et l'Union européenne. C'est le principal forum de coopération économique internationale, orienté vers la stabilité financière mondiale et la gouvernance économique globale. À la différence du G7, plus restreint et centré sur la concertation politique entre démocraties avancées, le G20 est plus représentatif de l'économie mondiale.",
+      "tags": [
+        "g20",
+        "institutions internationales"
+      ]
+    },
+    {
+      "id": "cg-fc-009",
+      "front": "Qu'est-ce que l'accord de Schengen (1995) ?",
+      "back": "L'accord de Schengen, entré en application en 1995, permet la circulation libre des personnes entre les États membres de l'espace Schengen, sans contrôle aux frontières intérieures.",
+      "tags": [
+        "schengen",
+        "union européenne"
+      ]
+    },
+    {
+      "id": "cg-fc-010",
+      "front": "Qui décide de l'entrée d'une personnalité au Panthéon, et qui y est entré en 2026 ?",
+      "back": "Depuis 1958, c'est le président de la République qui décide par décret de l'entrée d'une personnalité au Panthéon. En 2026, l'historien et résistant Marc Bloch, cofondateur de l'École des Annales, y est entré le 23 juin.",
+      "tags": [
+        "panthéon",
+        "marc bloch"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "cg-qcm-001",
+      "question": "Selon le premier président de la Cour de cassation, que permet la justice dans une société ?",
+      "options": [
+        "D'éviter que ce soit la loi du plus fort qui l'emporte dans tous les litiges",
+        "De garantir que toutes les décisions de justice soient rendues à l'unanimité",
+        "De remplacer durablement et entièrement le pouvoir législatif dans les lois",
+        "De supprimer tout recours possible contre les décisions déjà rendues en appel"
+      ],
+      "answer": 0,
+      "explanation": "M. Christophe Soulard a rappelé que sans la justice, représentant un tiers dans tout litige, ce serait la loi du plus fort qui l'emporterait dans la société. La justice doit trancher en faveur d'une loi plutôt qu'une autre tout en expliquant les raisons en toute transparence.",
+      "tags": [
+        "transparence judiciaire"
+      ]
+    },
+    {
+      "id": "cg-qcm-002",
+      "question": "Depuis quand les audiences d'assemblées plénières et de chambres de la Cour de cassation sont-elles filmées ?",
+      "options": [
+        "Depuis le mois de mars 2023, en application d'une loi sur la transparence judiciaire",
+        "Depuis la toute première création de la Cour de cassation, dès le XIXe siècle déjà",
+        "Depuis le vote de la loi Schiappa de 2018, relative aux violences sexuelles commises",
+        "Depuis la grande réforme constitutionnelle de la justice intervenue en 1995"
+      ],
+      "answer": 0,
+      "explanation": "Depuis mars 2023, toutes les audiences d'assemblées plénières et de chambres de la Cour de cassation sont filmées en vertu d'une loi pour la transparence judiciaire, distincte du dispositif de l'OLJ.",
+      "tags": [
+        "transparence judiciaire"
+      ]
+    },
+    {
+      "id": "cg-qcm-003",
+      "question": "Quel est l'objectif principal de l'Observatoire des litiges judiciaires (OLJ) ?",
+      "options": [
+        "Transmettre des données anonymisées aux juridictions pour accélérer le traitement",
+        "Sanctionner financièrement chaque année les juridictions jugées trop lentes",
+        "Remplacer entièrement les pourvois en cassation par une procédure simplifiée",
+        "Filmer en direct la totalité des audiences correctionnelles dans tout le pays"
+      ],
+      "answer": 0,
+      "explanation": "L'OLJ transmet de manière transparente aux juridictions des informations anonymisées sur les affaires, afin d'accélérer les processus de justice et d'éviter des décisions fragmentées et des contentieux qui perdurent pendant des années.",
+      "tags": [
+        "olj"
+      ]
+    },
+    {
+      "id": "cg-qcm-004",
+      "question": "Selon M. Rémy Heitz à propos de la liberté d'expression et de l'institution judiciaire, que rappelle la référence à Beaumarchais ?",
+      "options": [
+        "La liberté d'expression n'autorise pas à discréditer l'institution judiciaire",
+        "La liberté d'expression devrait toujours primer sur l'autorité même des juges",
+        "Les magistrats ne pourraient jamais être critiqués publiquement par la presse",
+        "Le théâtre français du XVIIIe siècle a directement inspiré le code pénal actuel"
+      ],
+      "answer": 0,
+      "explanation": "M. Rémy Heitz cite l'affaire Dreyfus jugée par la Cour de cassation et rappelle, via Beaumarchais, que la liberté d'expression n'autorise pas à apporter du discrédit sur l'institution judiciaire.",
+      "tags": [
+        "transparence judiciaire"
+      ]
+    },
+    {
+      "id": "cg-qcm-005",
+      "question": "Quel document central a permis la condamnation initiale du capitaine Dreyfus en 1894 ?",
+      "options": [
+        "Un bordereau retrouvé dans la corbeille de l'ambassade allemande à Paris même",
+        "Un témoignage direct du commandant Esterhazy donné devant le conseil de guerre",
+        "Une lettre manuscrite signée et personnellement authentifiée par Dreyfus lui-même",
+        "Un rapport officiel rédigé en personne par le colonel Picquart à cette époque"
+      ],
+      "answer": 0,
+      "explanation": "La preuve centrale de l'accusation était un bordereau retrouvé dans la corbeille de l'ambassade allemande à Paris, document dont l'attribution à Dreyfus s'est révélée erronée.",
+      "tags": [
+        "affaire dreyfus"
+      ]
+    },
+    {
+      "id": "cg-qcm-006",
+      "question": "Qui a découvert dès 1896 que le véritable auteur de l'espionnage était le commandant Esterhazy ?",
+      "options": [
+        "Le colonel Picquart, dont la découverte fut d'abord étouffée par la hiérarchie",
+        "Émile Zola, qui publia immédiatement cette découverte dans la presse nationale",
+        "Le président de la République de l'époque, informé par les services secrets",
+        "Le capitaine Dreyfus lui-même, depuis son lieu de détention en Guyane française"
+      ],
+      "answer": 0,
+      "explanation": "Dès 1896, le colonel Picquart découvre que le vrai traître est le commandant Esterhazy, mais la hiérarchie militaire enterre l'affaire pour ne pas admettre son erreur ; Esterhazy sera pourtant acquitté en 1898.",
+      "tags": [
+        "affaire dreyfus"
+      ]
+    },
+    {
+      "id": "cg-qcm-007",
+      "question": "Dans quel journal Émile Zola publie-t-il son célèbre texte « J'accuse…! » en janvier 1898 ?",
+      "options": [
+        "L'Aurore, en mettant directement en cause nommément les généraux jugés responsables",
+        "Le Figaro, sous la forme d'un long éditorial collectif resté volontairement anonyme",
+        "Le Monde, un journal qui pourtant n'existait pas encore du tout à cette époque",
+        "La Croix, un journal qui soutenait alors ouvertement la cause des dreyfusards"
+      ],
+      "answer": 0,
+      "explanation": "En janvier 1898, Émile Zola publie « J'accuse…! » dans L'Aurore, mettant en cause nommément les généraux responsables et provoquant la fracture entre dreyfusards et anti-dreyfusards.",
+      "tags": [
+        "affaire dreyfus"
+      ]
+    },
+    {
+      "id": "cg-qcm-008",
+      "question": "Quelle a été l'issue du procès en révision de Dreyfus tenu à Rennes en 1899 ?",
+      "options": [
+        "Une nouvelle condamnation avec circonstances atténuantes, suivie d'une grâce",
+        "Un acquittement pur et simple confirmant immédiatement son innocence totale",
+        "Le renvoi pur et simple de l'affaire devant la Cour de cassation, sans jugement",
+        "La condamnation définitive à la peine capitale, sans possibilité de recours"
+      ],
+      "answer": 0,
+      "explanation": "En 1899, malgré des preuves d'innocence accablantes, Dreyfus est rejugé à Rennes et à nouveau condamné, mais avec des circonstances atténuantes, avant d'être gracié par le président Loubet. Sa réhabilitation totale n'interviendra qu'en 1906.",
+      "tags": [
+        "affaire dreyfus"
+      ]
+    },
+    {
+      "id": "cg-qcm-009",
+      "question": "En quoi la réhabilitation de Dreyfus par la Cour de cassation en 1906 est-elle exceptionnelle ?",
+      "options": [
+        "Elle est prononcée sans renvoi, la Cour jugeant elle-même le fond de l'affaire",
+        "Elle nécessite un renvoi successif devant trois cours d'appel bien différentes",
+        "Elle est votée directement par le Parlement tout entier réuni en Congrès à Versailles",
+        "Elle n'intervient finalement qu'après la mort en exil du capitaine Dreyfus lui-même"
+      ],
+      "answer": 0,
+      "explanation": "La réhabilitation de 1906 est prononcée par la Cour de cassation sans renvoi : elle juge elle-même le fond de l'affaire, chose exceptionnelle qui renforce son autorité comme gardienne des droits fondamentaux.",
+      "tags": [
+        "affaire dreyfus",
+        "cour de cassation"
+      ]
+    },
+    {
+      "id": "cg-qcm-010",
+      "question": "Quel événement législatif de 1905 est directement accéléré par l'affaire Dreyfus ?",
+      "options": [
+        "La loi de séparation des Églises et de l'État, achevant l'œuvre laïque de la République",
+        "La loi instaurant le suffrage universel masculin pour toutes les élections nationales",
+        "La loi créant des conseils de guerre permanents au sein de l'armée française",
+        "La loi encadrant strictement la liberté de la presse et le droit de réunion"
+      ],
+      "answer": 0,
+      "explanation": "L'Église catholique s'étant massivement rangée du côté des anti-dreyfusards, l'affaire accélère directement l'adoption de la loi de séparation des Églises et de l'État en 1905, achevant l'œuvre laïque de la République.",
+      "tags": [
+        "affaire dreyfus",
+        "loi 1905"
+      ]
+    },
+    {
+      "id": "cg-qcm-011",
+      "question": "Quelle figure historique majeure du mouvement sioniste a été marquée par l'affaire Dreyfus ?",
+      "options": [
+        "Theodor Herzl, présent comme journaliste lors de la dégradation de Dreyfus en 1895",
+        "Émile Zola, qui aurait lui-même fondé le mouvement sioniste cette même année",
+        "Le colonel Picquart, qui serait devenu par la suite ministre de la Guerre en personne",
+        "Le commandant Esterhazy, qui se serait converti après avoir été acquitté en 1898"
+      ],
+      "answer": 0,
+      "explanation": "L'affaire révèle la contamination de la procédure judiciaire par des préjugés antisémites et alimente directement la pensée de Theodor Herzl, présent comme journaliste à la dégradation de Dreyfus en 1895, qui fondera le mouvement sioniste la même année.",
+      "tags": [
+        "affaire dreyfus"
+      ]
+    },
+    {
+      "id": "cg-qcm-012",
+      "question": "Quel écart de salaire entre hommes et femmes est mentionné comme persistant en France ?",
+      "options": [
+        "Environ 12 %, contre une moyenne européenne tournant autour de 11 % seulement",
+        "Environ 25 %, soit à peu près le double de la moyenne européenne constatée actuellement",
+        "Environ 5 % seulement, la France figurant parmi les meilleurs élèves européens",
+        "Environ 18 %, ce qui ferait de la France le pays le plus inégalitaire d'Europe"
+      ],
+      "answer": 0,
+      "explanation": "L'écart de salaire entre hommes et femmes en France est d'environ 12 %, contre 11 % en moyenne en Europe, ce qui traduit un non-respect de la directive européenne de 2023 sur la transparence salariale.",
+      "tags": [
+        "égalité salariale"
+      ]
+    },
+    {
+      "id": "cg-qcm-013",
+      "question": "Quel pays européen constitue une exception notable concernant l'écart de salaire entre les sexes ?",
+      "options": [
+        "Le Luxembourg, seul pays où les femmes gagnent en moyenne plus que les hommes",
+        "La Suède, premier pays européen à instaurer la parité salariale obligatoire",
+        "L'Islande, qui aurait supprimé tout écart de rémunération depuis l'année 2010",
+        "La France, qui aurait déjà atteint l'égalité salariale parfaite depuis 2023"
+      ],
+      "answer": 0,
+      "explanation": "Le Luxembourg constitue l'exception notable en Europe : c'est le seul pays où les femmes gagnent en moyenne plus que les hommes, à l'inverse de la tendance générale observée dans l'Union européenne.",
+      "tags": [
+        "égalité salariale"
+      ]
+    },
+    {
+      "id": "cg-qcm-014",
+      "question": "Quelle proportion de femmes siège actuellement au Sénat et à l'Assemblée générale (AG) selon les données évoquées ?",
+      "options": [
+        "Environ 36 % dans chacune des deux assemblées concernées par ce constat précis",
+        "Environ 50 %, la parité étant désormais pleinement atteinte dans les deux cas",
+        "Environ 20 % seulement, soit un net recul par rapport aux mandats précédents",
+        "Environ 45 % au Sénat, contre seulement 15 % à l'Assemblée générale elle-même"
+      ],
+      "answer": 0,
+      "explanation": "Les chiffres évoqués indiquent une proportion d'environ 36 % de femmes tant au Sénat qu'à l'Assemblée générale, illustrant une représentation encore inégale malgré les avancées en matière de parité.",
+      "tags": [
+        "représentation politique"
+      ]
+    },
+    {
+      "id": "cg-qcm-015",
+      "question": "Quel rôle joue l'Arcom dans le paysage audiovisuel français ?",
+      "options": [
+        "Veiller à la représentation équilibrée des forces politiques sur les ondes nationales",
+        "Fixer chaque année le montant exact de la redevance audiovisuelle nationale",
+        "Nommer directement les présidents de l'ensemble des chaînes publiques françaises",
+        "Censurer par avance tout contenu jugé politiquement sensible avant diffusion"
+      ],
+      "answer": 0,
+      "explanation": "L'Arcom, autorité publique de régulation de l'audiovisuel, impose aux radios et télévisions d'assurer une représentation équilibrée des différentes forces politiques, sans pour autant exercer de censure préalable.",
+      "tags": [
+        "arcom"
+      ]
+    },
+    {
+      "id": "cg-qcm-016",
+      "question": "Combien de fois par an l'Assemblée nationale peut-elle au maximum être dissoute par le président ?",
+      "options": [
+        "Une seule fois par an au maximum, quelle que soit la situation politique du moment",
+        "Deux fois par an, à condition que chaque dissolution soit dûment motivée par décret",
+        "Sans aucune limite fixée par les textes constitutionnels actuellement en vigueur",
+        "Trois fois au maximum au cours d'un même mandat présidentiel pris dans sa totalité"
+      ],
+      "answer": 0,
+      "explanation": "La dissolution de l'Assemblée nationale est limitée à une fois par an au maximum, ce qui encadre ce pouvoir présidentiel pour éviter une instabilité institutionnelle répétée à court terme.",
+      "tags": [
+        "dissolution assemblée"
+      ]
+    },
+    {
+      "id": "cg-qcm-017",
+      "question": "Quelle idée philosophique est associée à la citation attribuée à Héraclite évoquée en culture générale ?",
+      "options": [
+        "Rien n'est permanent dans le monde qui nous entoure, sauf le changement lui-même",
+        "L'homme serait la mesure de toute chose qui existe réellement ici-bas selon lui",
+        "Connais-toi toi-même avant même de songer à juger les autres hommes autour de soi",
+        "La justice constituerait la vertu suprême de toute cité humaine bien organisée"
+      ],
+      "answer": 0,
+      "explanation": "La pensée attribuée à Héraclite retenue ici est que rien n'est permanent sauf le changement, une formule classique de philosophie générale susceptible d'être mobilisée dans une dissertation ou un grand oral.",
+      "tags": [
+        "héraclite",
+        "philosophie"
+      ]
+    },
+    {
+      "id": "cg-qcm-018",
+      "question": "Que permet concrètement l'accord de Schengen signé en 1995 ?",
+      "options": [
+        "La circulation libre des personnes entre États membres, sans contrôle aux frontières",
+        "L'harmonisation totale des systèmes fiscaux de l'ensemble des pays signataires",
+        "La création d'une monnaie unique commune à tous les États membres concernés",
+        "La suppression définitive des visas pour tous les ressortissants étrangers concernés"
+      ],
+      "answer": 0,
+      "explanation": "L'accord de Schengen, entré en application en 1995, permet la circulation libre des personnes entre les États membres de l'espace Schengen, sans contrôle aux frontières intérieures, ce qui le distingue de l'union monétaire ou fiscale.",
+      "tags": [
+        "schengen"
+      ]
+    },
+    {
+      "id": "cg-qcm-019",
+      "question": "Qu'est-ce que la « salle Mélanie », mise en place en 1998 dans le contexte de l'affaire d'Outreau ?",
+      "options": [
+        "Un dispositif destiné spécifiquement au recueil de la parole de l'enfant victime",
+        "Un service hospitalier spécialisé dans la prise en charge des agresseurs sexuels",
+        "Une juridiction spécialisée jugeant exclusivement les crimes commis sur mineurs",
+        "Un fonds d'indemnisation des victimes de violences commises au sein de la famille"
+      ],
+      "answer": 0,
+      "explanation": "La « salle Mélanie », créée en 1998, est un dispositif dédié au recueil de la parole de l'enfant, témoignant de l'importance accordée à cette parole avant que l'affaire d'Outreau, en 2004, ne vienne la remettre en question.",
+      "tags": [
+        "affaire outreau",
+        "parole de l'enfant"
+      ]
+    },
+    {
+      "id": "cg-qcm-020",
+      "question": "Quel délai de prescription la loi Schiappa de 2018 a-t-elle fixé pour les crimes sexuels sur mineurs ?",
+      "options": [
+        "30 ans, contre seulement 10 ans auparavant pour ce même type de crime grave",
+        "20 ans, contre 15 ans auparavant pour les mêmes faits commis sur des mineurs",
+        "Une imprescriptibilité totale, sans aucun délai applicable quel qu'il soit ici",
+        "10 ans, ce qui constituerait au contraire une réduction par rapport à l'ancien délai"
+      ],
+      "answer": 0,
+      "explanation": "La loi Schiappa de 2018 a allongé le délai de prescription des crimes sexuels sur mineurs à 30 ans, contre 10 ans auparavant, dans la continuité des débats ouverts par l'affaire d'Outreau.",
+      "tags": [
+        "loi schiappa",
+        "prescription"
+      ]
+    },
+    {
+      "id": "cg-qcm-021",
+      "question": "Quelle question centrale l'actualité judiciaire récente concernant la protection des mineurs pose-t-elle pour l'ENM ?",
+      "options": [
+        "Celle d'une éventuelle défaillance individuelle ou structurelle de la chaîne pénale",
+        "Celle de la suppression pure et simple du classement sans suite déjà existant",
+        "Celle de la création d'un tribunal entièrement spécialisé pour les seuls mineurs",
+        "Celle de l'abrogation totale du délai de prescription pour tous les crimes existants"
+      ],
+      "answer": 0,
+      "explanation": "Au-delà des faits eux-mêmes, l'actualité relance le débat sur les délais de traitement des plaintes et le classement sans suite, posant la question d'une erreur individuelle ou d'un dysfonctionnement structurel de la chaîne pénale et judiciaire.",
+      "tags": [
+        "chaîne pénale",
+        "classement sans suite"
+      ]
+    },
+    {
+      "id": "cg-qcm-022",
+      "question": "Quel constat institutionnel ressort des plaintes déposées avant un fait grave dans l'actualité récente sur la protection des mineurs ?",
+      "options": [
+        "Une plainte classée sans suite, et une autre restée sans audition du suspect",
+        "L'absence totale de toute plainte préalable visant déjà le suspect identifié",
+        "Une condamnation définitive prononcée plusieurs années avant les faits eux-mêmes",
+        "Le retrait volontaire de la plainte initiale par la victime présumée elle-même"
+      ],
+      "answer": 0,
+      "explanation": "Une plainte pour viol sur mineure déposée plusieurs années auparavant avait été classée sans suite, et une autre plainte plus récente n'avait pas encore abouti à l'audition du suspect au moment des faits, alimentant le débat sur les délais de traitement.",
+      "tags": [
+        "classement sans suite",
+        "chaîne pénale"
+      ]
+    },
+    {
+      "id": "cg-qcm-023",
+      "question": "Quels sont les 7 pays membres du G7 ?",
+      "options": [
+        "Allemagne, Canada, États-Unis, France, Italie, Japon et Royaume-Uni, sept pays",
+        "Allemagne, Chine, États-Unis, France, Inde, Japon et Royaume-Uni réunis ici",
+        "Brésil, Canada, États-Unis, France, Italie, Japon et Russie réunis ensemble",
+        "Allemagne, Canada, Espagne, France, Italie, Japon et Royaume-Uni réunis ici"
+      ],
+      "answer": 0,
+      "explanation": "Le G7 réunit sept grandes démocraties industrialisées : Allemagne, Canada, États-Unis, France, Italie, Japon et Royaume-Uni, à l'exclusion de la Chine, de la Russie ou de l'Inde, qui ne participent qu'au G20.",
+      "tags": [
+        "g7"
+      ]
+    },
+    {
+      "id": "cg-qcm-024",
+      "question": "En quelle année le G7 a-t-il été créé et dans quel but principal ?",
+      "options": [
+        "1975, afin de coordonner les politiques économiques entre grandes démocraties",
+        "1999, pour répondre directement à la crise financière asiatique de cette époque",
+        "1945, au sortir de la Seconde Guerre mondiale, à l'image de l'ONU naissante",
+        "1989, à la suite immédiate de la chute du mur de Berlin survenue cette année"
+      ],
+      "answer": 0,
+      "explanation": "Le G7 a été créé en 1975 comme forum informel destiné à coordonner les politiques économiques et à discuter des grands enjeux mondiaux entre démocraties industrialisées, bien avant la création du G20 en 1999.",
+      "tags": [
+        "g7"
+      ]
+    },
+    {
+      "id": "cg-qcm-025",
+      "question": "En quelle année le G20 a-t-il été créé, et combien de membres rassemble-t-il ?",
+      "options": [
+        "1999, en rassemblant 19 pays ainsi que deux grandes organisations régionales",
+        "1975, en rassemblant uniquement les sept pays fondateurs du G7 d'origine connus",
+        "2008, en rassemblant 25 pays à la suite de la grande crise financière mondiale",
+        "1999, en rassemblant 30 pays membres permanents officiellement reconnus comme tels"
+      ],
+      "answer": 0,
+      "explanation": "Le G20 a été créé en 1999 et rassemble 19 pays ainsi que l'Union africaine et l'Union européenne, ce qui le rend plus représentatif de l'économie mondiale que le G7, plus restreint.",
+      "tags": [
+        "g20"
+      ]
+    },
+    {
+      "id": "cg-qcm-026",
+      "question": "Quelle est la principale distinction entre le G7 et le G20 à retenir pour l'ENM ?",
+      "options": [
+        "Le G7 vise la concertation politique, le G20 la gouvernance économique globale",
+        "Le G7 n'existerait plus du tout depuis la création officielle du G20 en 1999",
+        "Le G20 ne traiterait que des questions militaires, à la différence du G7 actuel",
+        "Le G7 inclurait la Chine et la Russie, ce qui le distinguerait nettement du G20"
+      ],
+      "answer": 0,
+      "explanation": "Le G7 est plus restreint et davantage centré sur la concertation politique entre démocraties avancées, tandis que le G20 est plus représentatif de l'économie mondiale et orienté vers la gouvernance économique globale.",
+      "tags": [
+        "g7",
+        "g20"
+      ]
+    },
+    {
+      "id": "cg-qcm-027",
+      "question": "En juin 2026, quelle décision a prise l'Agence internationale de l'énergie (AIE) face aux tensions au détroit d'Ormuz ?",
+      "options": [
+        "Le déblocage de 400 millions de barils de pétrole, une mesure jugée inédite",
+        "L'instauration d'un embargo total visant les importations de pétrole iranien",
+        "La fermeture définitive de l'ensemble des réserves stratégiques mondiales existantes",
+        "Une hausse généralisée et concertée des prix mondiaux du pétrole brut partout"
+      ],
+      "answer": 0,
+      "explanation": "En juin 2026, l'AIE a débloqué 400 millions de barils de pétrole, une mesure du jamais vu, pour compenser le blocage des échanges au détroit d'Ormuz, qui représente environ 20 % des exportations mondiales de pétrole.",
+      "tags": [
+        "aie",
+        "détroit d'ormuz"
+      ]
+    },
+    {
+      "id": "cg-qcm-028",
+      "question": "Quelle proportion des exportations mondiales de pétrole transite, selon les chiffres évoqués, par le détroit d'Ormuz ?",
+      "options": [
+        "Environ 20 % des exportations mondiales de pétrole brut, selon ces chiffres précis",
+        "Environ 50 % des exportations mondiales de pétrole brut, selon ces chiffres précis",
+        "Environ 5 % seulement, un volume jugé globalement marginal par la plupart des experts",
+        "Environ 80 %, ce qui en ferait un point de passage quasiment incontournable"
+      ],
+      "answer": 0,
+      "explanation": "Le détroit d'Ormuz représente environ 20 % des exportations mondiales de pétrole, ce qui explique l'ampleur de la réaction de l'AIE lors du blocage évoqué en juin 2026.",
+      "tags": [
+        "détroit d'ormuz"
+      ]
+    },
+    {
+      "id": "cg-qcm-029",
+      "question": "Depuis quelle année le président de la République décide-t-il par décret de l'entrée d'une personnalité au Panthéon ?",
+      "options": [
+        "Depuis 1958, année de l'instauration de la Constitution de la Ve République",
+        "Depuis 1905, année du vote de la loi de séparation des Églises et de l'État",
+        "Depuis 1981, année marquée par l'alternance politique survenue alors en France",
+        "Depuis 1995, année correspondant à l'entrée en vigueur des accords de Schengen"
+      ],
+      "answer": 0,
+      "explanation": "Depuis 1958, c'est le président de la République qui décide par décret de l'entrée d'une personnalité au Panthéon, prérogative liée à l'instauration de la Ve République.",
+      "tags": [
+        "panthéon"
+      ]
+    },
+    {
+      "id": "cg-qcm-030",
+      "question": "Quelle personnalité est entrée au Panthéon en 2026, selon l'actualité évoquée ?",
+      "options": [
+        "Marc Bloch, historien et résistant, cofondateur de l'École des Annales connue",
+        "Robert Badinter, ancien garde des Sceaux entré au Panthéon dès l'année 2021",
+        "Joséphine Baker, artiste et résistante, figure de l'engagement antiraciste connu",
+        "René Cassin, juriste et corédacteur de la Déclaration des droits de l'homme"
+      ],
+      "answer": 0,
+      "explanation": "C'est l'historien et résistant Marc Bloch, cofondateur de l'École des Annales et fusillé par la Gestapo en 1944, qui est entré au Panthéon en 2026, distinct des personnalités déjà panthéonisées comme Badinter, Baker ou Cassin.",
+      "tags": [
+        "panthéon",
+        "marc bloch"
+      ]
+    }
+  ]
+}

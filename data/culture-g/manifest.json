@@ -1,3 +1,10 @@
 {
-  "chapters": []
+  "chapters": [
+    {
+      "id": "culture-generale-enm",
+      "file": "culture-generale-enm.json",
+      "title": "Culture générale ENM — Actualité judiciaire et institutionnelle",
+      "category": "Culture générale"
+    }
+  ]
 }
