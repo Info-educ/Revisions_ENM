@@ -23,6 +23,12 @@
       "file": "influence-chine-monde.json",
       "title": "L'influence croissante de la Chine dans le monde",
       "category": "Culture générale"
+    },
+    {
+      "id": "arctique-region-strategique",
+      "file": "arctique-region-strategique.json",
+      "title": "L'Arctique, une région stratégique convoitée",
+      "category": "Culture générale"
     }
   ]
 }

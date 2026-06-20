@@ -1,0 +1,41 @@
+{
+  "id": "arctique-region-strategique",
+  "title": "L'Arctique, une région stratégique convoitée",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "arctique-fc-001",
+      "front": "Quels sont les huit pays traversés par le cercle arctique, et lesquels disposent d'une ZEE dans l'océan Arctique ?",
+      "back": "Les huit pays traversés par le cercle arctique sont le Canada, les États-Unis (Alaska), le Danemark (Groenland), l'Islande, la Norvège, la Suède, la Finlande et la Russie. Parmi eux, cinq disposent d'une zone économique exclusive (ZEE) dans l'océan Arctique : le Canada, le Danemark, les États-Unis, la Norvège et la Russie.",
+      "tags": ["cercle arctique", "zee"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "arctique-qcm-001",
+      "question": "Quelle est la fonction du Conseil de l'Arctique, fondé en 1996 par la déclaration d'Ottawa ?",
+      "options": [
+        "Renforcer la coopération entre États arctiques sans traiter de questions militaires",
+        "Trancher par un vote majoritaire tous les différends territoriaux de la région",
+        "Constituer une force militaire commune chargée de défendre l'ensemble de la zone",
+        "Délivrer des licences d'exploitation pétrolière aux entreprises de tous les pays"
+      ],
+      "answer": 0,
+      "explanation": "La déclaration d'Ottawa précise que le Conseil de l'Arctique n'a pas mandat pour traiter des questions militaires ; il vise à renforcer la coopération entre les États arctiques et les peuples autochtones, fonctionne par consensus à l'unanimité et n'a conclu à ce jour que trois accords contraignants.",
+      "tags": ["conseil de l'arctique"]
+    },
+    {
+      "id": "arctique-qcm-002",
+      "question": "Sur quoi porte la revendication exprimée par la Russie en plantant un drapeau sous le pôle Nord en 2007 ?",
+      "options": [
+        "Que la dorsale de Lomonossov appartiendrait au plateau continental sibérien",
+        "Que l'intégralité de l'océan Arctique appartiendrait aux eaux territoriales russes",
+        "Que le passage du Nord-Ouest devrait être placé sous administration russe exclusive",
+        "Que l'Alaska devrait être restitué à la Russie qui l'avait vendu en 1867 déjà"
+      ],
+      "answer": 0,
+      "explanation": "L'expédition russe de 2007 visait à démontrer, par des prélèvements géologiques, que la dorsale de Lomonossov constitue le prolongement du plateau continental sibérien, une revendication contestée par le Canada et le Danemark, qui estiment chacun qu'elle prolonge leur propre plateau continental.",
+      "tags": ["dorsale de lomonossov", "russie"]
+    }
+  ]
+}
