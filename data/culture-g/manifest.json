@@ -29,6 +29,12 @@
       "file": "arctique-region-strategique.json",
       "title": "L'Arctique, une région stratégique convoitée",
       "category": "Culture générale"
+    },
+    {
+      "id": "pantheonisations-resistants",
+      "file": "pantheonisations-resistants.json",
+      "title": "Le Panthéon : qui y entre, et pourquoi",
+      "category": "Culture générale"
     }
   ]
 }

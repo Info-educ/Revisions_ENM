@@ -1,0 +1,41 @@
+{
+  "id": "pantheonisations-resistants",
+  "title": "Le Panthéon : qui y entre, et pourquoi",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "pantheon-fc-001",
+      "front": "Qui décide de l'entrée d'une personnalité au Panthéon, et selon quel critère ?",
+      "back": "Depuis 1958, c'est le président de la République qui décide par décret qui entre au Panthéon, monument national où sont distinguées des personnalités ayant « incarné de manière exemplaire » les valeurs de la République. Marc Bloch, panthéonisé en 2026, est le premier historien à y entrer.",
+      "tags": ["panthéon", "décret présidentiel"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "pantheon-qcm-001",
+      "question": "Quel résistant de la Seconde Guerre mondiale a été le premier à entrer au Panthéon, en 1949 ?",
+      "options": [
+        "Félix Éboué, ancien gouverneur de colonies ayant rejoint la France libre dès 1940",
+        "Jean Moulin, figure historique de l'unification de la Résistance intérieure",
+        "Mélinée et Missak Manouchian, résistants panthéonisés ensemble en 2024 seulement",
+        "André Malraux, écrivain et ancien ministre panthéonisé sous Jacques Chirac en 1996"
+      ],
+      "answer": 0,
+      "explanation": "Félix Éboué, ancien gouverneur de colonies françaises qui a rejoint la France libre en 1940, est le premier résistant panthéonisé en 1949, bien avant Jean Moulin (1964) ou les autres personnalités citées, entrées plus tardivement sous la Ve République.",
+      "tags": ["félix éboué", "panthéonisation"]
+    },
+    {
+      "id": "pantheon-qcm-002",
+      "question": "Quel constat peut-on faire sur le nombre de panthéonisations organisées par les présidents de la Ve République ?",
+      "options": [
+        "Plusieurs présidents, comme Pompidou ou Sarkozy, n'en ont organisé aucune du tout",
+        "Chaque président de la Ve République a organisé au moins une panthéonisation",
+        "Seul le général de Gaulle a eu le pouvoir de panthéoniser une personnalité connue",
+        "Les panthéonisations seraient strictement réparties à raison d'une par mandat"
+      ],
+      "answer": 0,
+      "explanation": "Plusieurs présidents de la Ve République, dont Georges Pompidou, Valéry Giscard d'Estaing et Nicolas Sarkozy, n'ont organisé aucune entrée au Panthéon durant leur mandat, tandis qu'Emmanuel Macron en a organisé le plus grand nombre, avec huit entrées.",
+      "tags": ["panthéonisation", "ve république"]
+    }
+  ]
+}
