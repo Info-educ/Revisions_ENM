@@ -5,6 +5,12 @@
       "file": "culture-generale-enm.json",
       "title": "Culture générale ENM — Actualité judiciaire et institutionnelle",
       "category": "Culture générale"
+    },
+    {
+      "id": "regimes-executifs-legislatifs",
+      "file": "regimes-executifs-legislatifs.json",
+      "title": "Systèmes exécutifs et législatifs — France, Europe, Suisse, États-Unis",
+      "category": "Institutions politiques comparées"
     }
   ]
 }

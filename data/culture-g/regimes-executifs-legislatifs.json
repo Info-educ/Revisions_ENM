@@ -1,0 +1,60 @@
+{
+  "id": "regimes-executifs-legislatifs",
+  "title": "Systèmes exécutifs et législatifs — France, Europe, Suisse, États-Unis",
+  "category": "Institutions politiques comparées",
+  "flashcards": [
+    {
+      "id": "regimes-fc-001",
+      "front": "Quelle est la différence fondamentale entre un régime présidentiel et un régime parlementaire ?",
+      "back": "Dans un régime présidentiel, le président est élu séparément du Parlement, n'en est pas issu et ne peut pas le dissoudre ; le Parlement ne peut pas non plus le renverser (sauf impeachment). Dans un régime parlementaire, l'exécutif (premier ministre ou chancelier) émane de la majorité parlementaire et reste responsable devant elle, qui peut le renverser par une motion de censure.",
+      "tags": ["régime présidentiel", "régime parlementaire"]
+    },
+    {
+      "id": "regimes-fc-002",
+      "front": "En quoi le régime semi-présidentiel français se distingue-t-il des régimes présidentiel et parlementaire classiques ?",
+      "back": "En France, le président est élu au suffrage universel direct et dispose de pouvoirs réels (diplomatie, défense, dissolution de l'Assemblée nationale), mais coexiste avec un premier ministre responsable devant le Parlement. La répartition réelle du pouvoir dépend de la concordance des majorités : en cohabitation, le président perd l'essentiel de son pouvoir effectif au profit du premier ministre.",
+      "tags": ["régime semi-présidentiel", "cohabitation"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "regimes-qcm-001",
+      "question": "Qu'est-ce qui caractérise principalement le régime présidentiel, comme celui des États-Unis ?",
+      "options": [
+        "Une séparation stricte des pouvoirs, sans dissolution ni renversement réciproque",
+        "Un premier ministre responsable devant le Parlement, qui peut donc le renverser",
+        "Un exécutif collégial composé de plusieurs membres élus, sans hiérarchie réelle",
+        "Un président sans pouvoirs réels, purement honorifique et largement protocolaire"
+      ],
+      "answer": 0,
+      "explanation": "Le régime présidentiel se caractérise par une séparation stricte des pouvoirs : le président est élu indépendamment du Parlement, ne peut pas le dissoudre, et le Parlement ne peut pas le renverser, sauf procédure d'impeachment. Chaque pouvoir dispose de contre-pouvoirs sur l'autre.",
+      "tags": ["régime présidentiel"]
+    },
+    {
+      "id": "regimes-qcm-002",
+      "question": "Qu'est-ce que la « motion de censure constructive » pratiquée en Allemagne ?",
+      "options": [
+        "Un mécanisme exigeant d'élire un successeur pour pouvoir renverser le chancelier",
+        "Un vote qui dissout automatiquement le Bundestag en cas d'adoption du texte",
+        "Une procédure réservée exclusivement au président fédéral allemand lui-même",
+        "Un référendum populaire obligatoire avant toute destitution du chancelier en place"
+      ],
+      "answer": 0,
+      "explanation": "En Allemagne, la motion de censure constructive impose au Bundestag d'élire simultanément un successeur pour pouvoir renverser le chancelier en exercice, ce qui limite l'instabilité gouvernementale par rapport à une simple motion de censure classique.",
+      "tags": ["allemagne", "motion de censure"]
+    },
+    {
+      "id": "regimes-qcm-003",
+      "question": "Comment fonctionne l'exécutif fédéral suisse, le Conseil fédéral, par rapport aux autres régimes comparés ?",
+      "options": [
+        "Sept conseillers égaux dirigent collectivement, sans chef de l'État distinct",
+        "Un président élu au suffrage universel direct nomme librement ses ministres",
+        "Un chancelier responsable devant le Bundestag dirige seul tout le gouvernement",
+        "Un monarque héréditaire partage le pouvoir avec un premier ministre élu librement"
+      ],
+      "answer": 0,
+      "explanation": "Le Conseil fédéral suisse est composé de sept conseillers élus par l'Assemblée fédérale, qui dirigent collectivement le pays sans hiérarchie réelle et sans distinction entre chef de l'État et chef du gouvernement, à la différence de tous les autres régimes comparés dans ce document.",
+      "tags": ["suisse", "régime collégial"]
+    }
+  ]
+}
