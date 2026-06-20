@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1781948314277,
+  "updatedAt": 1781948349047,
   "themes": {
     "penal": {
       "items": {
@@ -2888,6 +2888,13 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1781948310271
+        },
+        "legalite-fc-006": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1781948345041
         }
       }
     }
