@@ -1,0 +1,41 @@
+{
+  "id": "laicite-etat-religions",
+  "title": "Laïcité : l'État face aux religions",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "laicite-fc-001",
+      "front": "Quels sont les deux principes complémentaires posés par la loi du 9 décembre 1905 ?",
+      "back": "La loi pose d'abord que « la République assure la liberté de conscience » (croire, ne pas croire, changer de religion ou n'en avoir aucune), et ensuite que « la République ne reconnaît, ne salarie ni ne subventionne aucun culte ». Les cultes s'organisent seuls, selon la formule de Victor Hugo : « L'Église chez elle et l'État chez lui ».",
+      "tags": ["loi de 1905", "liberté de conscience"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "laicite-qcm-001",
+      "question": "À qui s'impose précisément le principe de neutralité religieuse issu de la laïcité ?",
+      "options": [
+        "Aux seuls élus et agents publics, mais pas aux usagers des services publics",
+        "Uniquement aux usagers des services publics, et jamais aux agents eux-mêmes",
+        "À l'ensemble des citoyens français, y compris dans leur espace privé strict",
+        "Aux seuls ministres du culte reconnus officiellement par l'État français lui-même"
+      ],
+      "answer": 0,
+      "explanation": "La neutralité de l'État, des collectivités territoriales et des services publics s'impose aux élus et aux agents publics, qui ne doivent manifester aucune appartenance ni préférence religieuse dans l'exercice de leurs fonctions ; elle ne s'impose en revanche pas aux usagers des services publics.",
+      "tags": ["neutralité de l'état"]
+    },
+    {
+      "id": "laicite-qcm-002",
+      "question": "Quelle modification la loi de 2021 « contre les séparatismes » a-t-elle apportée à la loi de 1905 ?",
+      "options": [
+        "L'obligation de déclarer les dons étrangers dépassant 10 000 euros aux cultes",
+        "La suppression totale du principe de neutralité pour tous les agents publics",
+        "L'interdiction pure et simple de toute construction de nouveaux lieux de culte",
+        "Le remplacement intégral de la loi de 1905 par un texte entièrement nouveau"
+      ],
+      "answer": 0,
+      "explanation": "La loi de 2021 modifie la loi de 1905 en imposant aux associations gérant des lieux de culte de déclarer les dons étrangers de plus de 10 000 euros, ainsi que la cession de lieux de culte à un État étranger, à laquelle le préfet peut s'opposer.",
+      "tags": ["loi séparatismes 2021"]
+    }
+  ]
+}

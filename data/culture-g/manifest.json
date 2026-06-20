@@ -11,6 +11,12 @@
       "file": "regimes-executifs-legislatifs.json",
       "title": "Systèmes exécutifs et législatifs — France, Europe, Suisse, États-Unis",
       "category": "Institutions politiques comparées"
+    },
+    {
+      "id": "laicite-etat-religions",
+      "file": "laicite-etat-religions.json",
+      "title": "Laïcité : l'État face aux religions",
+      "category": "Culture générale"
     }
   ]
 }
