@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1781947881402,
+  "updatedAt": 1781947915204,
   "themes": {
     "penal": {
       "items": {
@@ -2832,6 +2832,13 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1781947877396
+        },
+        "chosejugee-fc-007": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1781947911198
         }
       }
     }
