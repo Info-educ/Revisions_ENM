@@ -1,0 +1,47 @@
+{
+  "id": "retour-protectionnisme",
+  "title": "Le retour du protectionnisme",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "protec-fc-001",
+      "front": "Quelle est la différence entre mesures protectionnistes tarifaires et non tarifaires ?",
+      "back": "Les mesures tarifaires consistent à augmenter les droits de douane appliqués aux produits importés. Les mesures non tarifaires comprennent l'instauration de quotas limitant les importations, ou l'octroi de subventions aux producteurs domestiques pour baisser le prix de leurs produits face à la concurrence étrangère.",
+      "tags": ["protectionnisme", "droits de douane"]
+    },
+    {
+      "id": "protec-fc-002",
+      "front": "Qu'est-ce que le protectionnisme et que risque-t-il de déclencher entre partenaires commerciaux ?",
+      "back": "Le protectionnisme désigne l'ensemble des mesures visant à protéger l'économie d'un territoire contre la concurrence étrangère. Une escalade peut survenir lorsque des partenaires commerciaux répondent par des mesures de rétorsion symétriques, donnant lieu à une « guerre commerciale » dont l'objectif est d'affecter le plus possible l'adversaire, jusqu'à ce qu'il s'effondre.",
+      "tags": ["protectionnisme", "guerre commerciale"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "protec-qcm-001",
+      "question": "Pourquoi l'organe d'appel de l'OMC est-il paralysé depuis fin 2019 ?",
+      "options": [
+        "Faute de juges, la présidence Trump bloquant toute nomination depuis 2017 déjà",
+        "Parce que les 166 États membres de l'OMC ont voté sa suppression définitive",
+        "En raison d'un manque de financement décidé collectivement par les États membres",
+        "À cause d'une cyberattaque ayant détruit ses dossiers et bases de données internes"
+      ],
+      "answer": 0,
+      "explanation": "Les juges de l'organe d'appel, nommés par consensus, ne peuvent plus être renouvelés car la présidence de Donald Trump bloque toute nomination depuis 2017, son cabinet reprochant à l'organe des interprétations jugées erronées des accords de l'OMC.",
+      "tags": ["omc", "organe d'appel"]
+    },
+    {
+      "id": "protec-qcm-002",
+      "question": "Selon l'étude de l'institut allemand IfW Kiel publiée en janvier 2026, qui paie réellement les droits de douane imposés par les États-Unis en 2025 ?",
+      "options": [
+        "Les consommateurs américains, à hauteur de 96 % du montant total qui est payé",
+        "Les pays étrangers exportateurs, qui en supportent la quasi-totalité du coût",
+        "Le budget fédéral américain, qui en finance l'essentiel grâce à ses réserves",
+        "Les entreprises chinoises exportatrices, principales cibles visées par la mesure"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'étude de l'IfW Kiel, 96 % du montant des droits de douane imposés par les États-Unis en 2025 ont été payés par les consommateurs américains, les exportateurs étrangers n'ayant pas réduit significativement leurs prix pour compenser la hausse.",
+      "tags": ["droits de douane", "consommateurs"]
+    }
+  ]
+}

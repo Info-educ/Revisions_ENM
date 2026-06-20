@@ -35,6 +35,12 @@
       "file": "pantheonisations-resistants.json",
       "title": "Le Panthéon : qui y entre, et pourquoi",
       "category": "Culture générale"
+    },
+    {
+      "id": "retour-protectionnisme",
+      "file": "retour-protectionnisme.json",
+      "title": "Le retour du protectionnisme",
+      "category": "Culture générale"
     }
   ]
 }
