@@ -41,6 +41,24 @@
       "file": "retour-protectionnisme.json",
       "title": "Le retour du protectionnisme",
       "category": "Culture générale"
+    },
+    {
+      "id": "guerre-ukraine-russie",
+      "file": "guerre-ukraine-russie.json",
+      "title": "La guerre en Ukraine",
+      "category": "Culture générale"
+    },
+    {
+      "id": "conflit-israelo-palestinien",
+      "file": "conflit-israelo-palestinien.json",
+      "title": "Le conflit israélo-palestinien",
+      "category": "Culture générale"
+    },
+    {
+      "id": "conflit-iran-etats-unis",
+      "file": "conflit-iran-etats-unis.json",
+      "title": "Le conflit entre l'Iran et les États-Unis et la crise du détroit d'Ormuz",
+      "category": "Culture générale"
     }
   ]
 }

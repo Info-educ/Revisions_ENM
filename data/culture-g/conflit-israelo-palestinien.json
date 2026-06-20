@@ -1,0 +1,169 @@
+{
+  "id": "conflit-israelo-palestinien",
+  "title": "Le conflit israélo-palestinien",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "israel-fc-001",
+      "front": "Qu'est-ce que la Nakba de 1948 et en quoi marque-t-elle le début du conflit israélo-palestinien ?",
+      "back": "La Nakba (« catastrophe » en arabe) désigne l'exode de plusieurs centaines de milliers de Palestiniens consécutif à la proclamation de l'État d'Israël le 14 mai 1948 et à la première guerre israélo-arabe qui a suivi. Cet événement, qui fait suite au plan de partage de la Palestine adopté par l'ONU en novembre 1947, marque le point de départ du conflit israélo-palestinien tel qu'il se poursuit aujourd'hui.",
+      "tags": ["nakba", "1948"]
+    },
+    {
+      "id": "israel-fc-002",
+      "front": "Quelles conséquences territoriales la guerre des Six Jours de 1967 a-t-elle eues pour Israël ?",
+      "back": "En 1967, lors de la guerre des Six Jours, Israël a occupé par la force la Cisjordanie, la bande de Gaza, le Sinaï égyptien et le plateau du Golan syrien. Cette guerre constitue un moment charnière du conflit, à l'origine de l'occupation de territoires palestiniens qui structure encore aujourd'hui les négociations diplomatiques, souvent référencées aux frontières antérieures au 4 juin 1967.",
+      "tags": ["guerre des six jours", "1967"]
+    },
+    {
+      "id": "israel-fc-003",
+      "front": "Qu'ont prévu les accords d'Oslo signés en 1993 et 1995, et pourquoi n'ont-ils pas abouti à un État palestinien ?",
+      "back": "Les accords d'Oslo, signés en 1993 puis 1995 entre Yasser Arafat et Yitzhak Rabin, ont créé l'Autorité palestinienne et prévu une période de transition de cinq ans devant aboutir à un État palestinien. Cette période n'a jamais été menée à son terme : l'assassinat de Rabin en 1995, l'échec du sommet de Camp David en 2000 et l'expansion continue des colonies israéliennes en Cisjordanie ont progressivement vidé le processus de sa substance.",
+      "tags": ["accords d'oslo", "autorité palestinienne"]
+    },
+    {
+      "id": "israel-fc-004",
+      "front": "Quel événement du 7 octobre 2023 a déclenché la guerre à Gaza, et quelles en ont été les premières conséquences ?",
+      "back": "Le 7 octobre 2023, le mouvement islamiste Hamas a lancé une attaque depuis la bande de Gaza contre le territoire israélien, tuant environ 1 200 personnes et enlevant 251 otages. En réponse, Israël a lancé une offensive militaire d'ampleur sur la bande de Gaza, provoquant un nombre élevé de victimes civiles palestiniennes et une crise humanitaire majeure dénoncée par plusieurs organisations internationales.",
+      "tags": ["7 octobre 2023", "hamas", "gaza"]
+    },
+    {
+      "id": "israel-fc-005",
+      "front": "Quelles sont les grandes étapes du cessez-le-feu à Gaza entré en vigueur en octobre 2025 ?",
+      "back": "Un accord de cessez-le-feu et de libération des otages est entré en vigueur à Gaza le 10 octobre 2025, après une première trêve début 2025 rompue en mars. La restitution des corps des derniers otages s'est achevée le 26 janvier 2026, tandis qu'un Comité technocratique palestinien a été mis en place en janvier 2026 pour engager la démilitarisation et la reconstruction de l'enclave, dont le coût est estimé à plusieurs dizaines de milliards de dollars sur dix ans.",
+      "tags": ["cessez-le-feu", "reconstruction de gaza"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "israel-qcm-001",
+      "question": "Quelle agence onusienne a vu ses activités restreintes par des lois votées par la Knesset entrées en vigueur début 2025 ?",
+      "options": [
+        "L'UNRWA, principal fournisseur d'aide humanitaire à Gaza avant ces restrictions",
+        "Le HCR, agence chargée exclusivement de l'accueil des réfugiés en Europe entière",
+        "L'OMS, dont les capacités médicales auraient été transférées directement à Israël",
+        "L'Unesco, accusée d'avoir cessé toute activité culturelle dans la région entière"
+      ],
+      "answer": 0,
+      "explanation": "Des lois adoptées par la Knesset pour empêcher l'UNRWA d'opérer en Israël et dans le territoire occupé sont entrées en vigueur début 2025 ; les autorités israéliennes ont depuis empêché le personnel international de l'agence d'entrer à Gaza, alors que l'UNRWA était jusqu'alors le principal fournisseur d'aide humanitaire.",
+      "tags": ["unrwa", "aide humanitaire"]
+    },
+    {
+      "id": "israel-qcm-002",
+      "question": "Sur quelles frontières de référence s'appuient plusieurs déclarations diplomatiques internationales pour évoquer un futur État palestinien ?",
+      "options": [
+        "Les frontières antérieures au 4 juin 1967, veille de la guerre des Six Jours",
+        "Les frontières issues du plan de partage de l'ONU adopté en 1947 précisément",
+        "Les frontières actuelles, incluant l'ensemble des colonies déjà bien existantes",
+        "Les frontières fixées par les accords d'Oslo, qui furent signés en 1993 puis 1995"
+      ],
+      "answer": 0,
+      "explanation": "Plusieurs déclarations diplomatiques, dont une déclaration conjointe de février 2026, réaffirment un engagement à la solution à deux États fondée sur les frontières du 4 juin 1967, c'est-à-dire celles existant la veille du déclenchement de la guerre des Six Jours.",
+      "tags": ["frontières 1967", "diplomatie"]
+    },
+    {
+      "id": "israel-qcm-003",
+      "question": "Quelle conséquence économique majeure le Programme alimentaire mondial a-t-il mise en avant concernant Gaza et la Cisjordanie ?",
+      "options": [
+        "Treize années seraient nécessaires à Gaza pour retrouver son PIB d'avant-guerre",
+        "L'économie de Gaza aurait déjà entièrement retrouvé son niveau d'avant 2023",
+        "La Cisjordanie n'aurait subi aucun impact économique du fait de ce conflit régional",
+        "Le PIB de Gaza aurait doublé depuis le début du conflit en raison de l'aide reçue"
+      ],
+      "answer": 0,
+      "explanation": "Le Programme alimentaire mondial a mis en garde sur l'effondrement économique connu par Gaza et la Cisjordanie, l'un des plus graves de l'histoire récente, estimant qu'il faudrait treize ans à Gaza et trois ans à la Cisjordanie pour retrouver les niveaux de PIB réel d'avant le conflit.",
+      "tags": ["économie", "aide humanitaire"]
+    },
+    {
+      "id": "israel-qcm-004",
+      "question": "Que reflètent les votes successifs au Conseil de sécurité de l'ONU sur un cessez-le-feu à Gaza avant octobre 2025 ?",
+      "options": [
+        "Des blocages liés à l'usage du droit de veto par certains membres permanents",
+        "Un consensus systématique entre tous les membres permanents du Conseil entier",
+        "L'absence totale de tout projet de résolution proposé sur ce sujet précis là",
+        "Une adoption unanime de chaque résolution proposée depuis le début du conflit"
+      ],
+      "answer": 0,
+      "explanation": "Plusieurs projets de résolution sur l'instauration d'un cessez-le-feu à Gaza n'ont pas pu être adoptés au Conseil de sécurité en raison de l'usage du droit de veto par un membre permanent, ce dernier estimant qu'une résolution donnée ne reconnaissait pas le droit d'Israël à se défendre.",
+      "tags": ["conseil de sécurité", "veto"]
+    },
+    {
+      "id": "israel-qcm-005",
+      "question": "Quel constat le rapport mondial 2026 sur les droits humains formule-t-il à propos des écoles gérées par l'UNRWA à Jérusalem-Est ?",
+      "options": [
+        "Leur fermeture aurait empêché leur réouverture en septembre 2025, touchant des enfants",
+        "Elles auraient rouvert sans aucune difficulté particulière à la rentrée 2025",
+        "Elles auraient été transférées avec succès sous gestion israélienne directe",
+        "Aucune école de l'UNRWA n'existerait à Jérusalem-Est depuis plusieurs décennies"
+      ],
+      "answer": 0,
+      "explanation": "Selon le rapport mondial 2026 sur les droits humains, la fermeture ordonnée des écoles opérées par l'UNRWA à Jérusalem-Est les a empêchées d'ouvrir en septembre 2025, affectant ainsi près de 800 enfants qui n'ont pas tous pu s'inscrire dans d'autres établissements scolaires.",
+      "tags": ["unrwa", "jérusalem-est"]
+    },
+    {
+      "id": "israel-qcm-006",
+      "question": "Quel événement de 1947-1948 est à l'origine du conflit israélo-palestinien, selon la chronologie historique de référence ?",
+      "options": [
+        "Le plan de partage de l'ONU, suivi de la proclamation de l'État d'Israël et de la Nakba",
+        "La signature directe et immédiate des accords d'Oslo entre les deux parties concernées",
+        "La guerre des Six Jours, qui aurait eu lieu plusieurs années avant cette période donnée",
+        "La création du Hamas, mouvement islamiste fondé dès cette période historique précise"
+      ],
+      "answer": 0,
+      "explanation": "Le 29 novembre 1947, le plan de partage de l'ONU prévoit la création de deux États ; la proclamation de l'État d'Israël le 14 mai 1948 est aussitôt suivie de la première guerre israélo-arabe et de l'exode des Palestiniens connu sous le nom de Nakba, marquant le début du conflit.",
+      "tags": ["nakba", "plan de partage"]
+    },
+    {
+      "id": "israel-qcm-007",
+      "question": "En quelle année le mouvement islamiste Hamas a-t-il été créé, et dans quel contexte ?",
+      "options": [
+        "En 1987, durant la première Intifada, en opposition aux processus de paix négociés",
+        "En 1948, immédiatement après la proclamation de l'État d'Israël cette même année",
+        "En 1993, en réaction directe et immédiate à la signature des accords d'Oslo",
+        "En 2006, à l'occasion de sa victoire aux élections législatives à Gaza cette année-là"
+      ],
+      "answer": 0,
+      "explanation": "Le Hamas a été créé en 1987, durant la première Intifada, aussi appelée « guerre des pierres » ; ce mouvement préconise la lutte armée et s'oppose dès l'origine aux processus de paix tels que les accords d'Oslo négociés six ans plus tard, en 1993.",
+      "tags": ["hamas", "première intifada"]
+    },
+    {
+      "id": "israel-qcm-008",
+      "question": "Quel bilan le cessez-le-feu entré en vigueur le 10 octobre 2025 a-t-il permis d'atteindre concernant les otages détenus à Gaza ?",
+      "options": [
+        "La restitution du dernier corps d'otage identifié et rapatrié le 26 janvier 2026",
+        "La libération immédiate de l'ensemble des otages dès le tout premier jour de la trêve",
+        "L'absence totale de toute restitution de corps ou de libération d'otages vivants",
+        "Le maintien en détention de tous les otages jusqu'à la fin du conflit en 2026"
+      ],
+      "answer": 0,
+      "explanation": "Après plusieurs semaines de recherches dans les décombres de Gaza, le dernier corps d'otage israélien a été identifié dans un cimetière de la bande de Gaza et rapatrié en Israël le 26 janvier 2026, marquant l'achèvement de la restitution des otages prévue par l'accord.",
+      "tags": ["otages", "cessez-le-feu"]
+    },
+    {
+      "id": "israel-qcm-009",
+      "question": "Quel est l'ordre de grandeur du coût estimé de la reconstruction de Gaza, selon une évaluation conjointe de l'ONU, de l'UE et de la Banque mondiale ?",
+      "options": [
+        "Plus de 70 milliards de dollars sur dix ans, dont une vingtaine dès les premières années",
+        "Moins d'un milliard de dollars, la reconstruction restant d'ampleur très limitée",
+        "Un coût jugé nul, l'essentiel des infrastructures n'ayant subi aucun dommage",
+        "Un montant resté impossible à estimer en l'absence de toute évaluation internationale"
+      ],
+      "answer": 0,
+      "explanation": "Selon une évaluation conjointe de l'ONU, de l'UE et de la Banque mondiale, la reconstruction de Gaza nécessitera environ 71,4 milliards de dollars sur dix ans, dont plus de 26 milliards devant être mobilisés immédiatement pour remettre en marche les services essentiels.",
+      "tags": ["reconstruction de gaza", "coût"]
+    },
+    {
+      "id": "israel-qcm-010",
+      "question": "Qu'est devenue la bande de Gaza dans le cadre du plan de paix mis en œuvre depuis fin 2025 ?",
+      "options": [
+        "Une zone divisée entre occupation israélienne et zone où sont massés les Palestiniens",
+        "Un territoire entièrement et immédiatement restitué à l'Autorité palestinienne",
+        "Une zone démilitarisée et reconstruite en totalité dès les premières semaines",
+        "Un territoire annexé formellement par Israël dans le cadre de cet accord précis"
+      ],
+      "answer": 0,
+      "explanation": "Dans le cadre du plan de paix pour Gaza, le territoire a été divisé en deux zones : l'une sous occupation israélienne, représentant environ 58 % du territoire, et l'autre, où sont massés les Palestiniens survivants, représentant les 42 % restants.",
+      "tags": ["plan de paix", "occupation"]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "conflit-iran-etats-unis",
+  "title": "Le conflit entre l'Iran et les États-Unis et la crise du détroit d'Ormuz",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "iran-fc-001",
+      "front": "Qu'était l'accord de Vienne sur le nucléaire iranien (JCPOA) signé en 2015 ?",
+      "back": "Signé le 14 juillet 2015 à Vienne par l'Iran, les cinq membres permanents du Conseil de sécurité de l'ONU (États-Unis, Russie, Chine, France, Royaume-Uni), l'Allemagne et l'Union européenne, le JCPOA visait à encadrer strictement le programme nucléaire iranien en échange d'une levée progressive des sanctions économiques pesant sur l'Iran.",
+      "tags": ["jcpoa", "accord de vienne"]
+    },
+    {
+      "id": "iran-fc-002",
+      "front": "Pourquoi les États-Unis se sont-ils retirés de l'accord sur le nucléaire iranien en 2018 ?",
+      "back": "Le 8 mai 2018, le président Donald Trump a annoncé le retrait unilatéral des États-Unis de l'accord de Vienne et le rétablissement des sanctions, jugeant l'accord insuffisant car il ne couvrait pas le programme balistique iranien ni le comportement régional de l'Iran. Ce retrait a été vivement critiqué par les autres signataires européens.",
+      "tags": ["retrait américain 2018", "trump"]
+    },
+    {
+      "id": "iran-fc-003",
+      "front": "Qu'est-ce que la « guerre des Douze Jours » de juin 2025, et comment s'est-elle terminée ?",
+      "back": "Du 13 au 24 juin 2025, Israël a lancé l'opération Rising Lion contre des sites nucléaires et militaires iraniens, rejointe par les États-Unis avec l'opération Midnight Hammer (frappes sur Fordo, Natanz et Ispahan). Ce premier conflit ouvert entre les deux pays s'est achevé par un cessez-le-feu annoncé par Donald Trump le 24 juin 2025, après avoir fait plus de 1 000 morts côté iranien.",
+      "tags": ["guerre des douze jours", "rising lion"]
+    },
+    {
+      "id": "iran-fc-004",
+      "front": "Qu'est-ce que le détroit d'Ormuz et pourquoi est-il aussi stratégique pour le commerce mondial ?",
+      "back": "Le détroit d'Ormuz est un passage maritime étroit séparant l'Iran de la péninsule Arabique, reliant le golfe Persique à l'océan Indien. Avant la guerre de 2026, environ 120 navires y transitaient chaque jour, et il voyait passer environ un cinquième des exportations mondiales d'hydrocarbures, ce qui en fait un point de passage critique pour l'approvisionnement énergétique mondial.",
+      "tags": ["détroit d'ormuz", "commerce maritime"]
+    },
+    {
+      "id": "iran-fc-005",
+      "front": "Que s'est-il passé le 28 février 2026 et quelles en ont été les conséquences immédiates ?",
+      "back": "Le 28 février 2026, les États-Unis et Israël ont lancé des frappes militaires conjointes contre l'Iran, entraînant notamment la mort du Guide suprême iranien Ali Khamenei. En réponse, l'Iran a lancé des attaques de missiles et de drones contre des bases américaines, le territoire israélien et d'autres États du Golfe, tandis que les Gardiens de la révolution ont averti les navires de ne pas traverser le détroit d'Ormuz, provoquant un arrêt quasi total du trafic maritime.",
+      "tags": ["28 février 2026", "guerre d'iran"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "iran-qcm-001",
+      "question": "Comment l'Iran s'était-il préparé, avant les frappes de février 2026, à une éventuelle perturbation du détroit d'Ormuz ?",
+      "options": [
+        "En augmentant fortement ses exportations de pétrole et en réduisant ses stocks",
+        "En fermant définitivement et de manière permanente le détroit dès janvier 2026",
+        "En transférant l'intégralité de ses exportations pétrolières par voie terrestre",
+        "En signant un accord commercial préventif avec les États-Unis dès cette période"
+      ],
+      "answer": 0,
+      "explanation": "Entre le 15 et le 20 février 2026, l'Iran a augmenté ses exportations de pétrole à environ trois fois leur niveau habituel et réduit ses stocks afin de limiter les risques de perturbations en cas d'escalade, une mesure similaire ayant aussi été prise par l'Arabie saoudite.",
+      "tags": ["exportations pétrolières", "anticipation"]
+    },
+    {
+      "id": "iran-qcm-002",
+      "question": "Quel événement diplomatique majeur a eu lieu à la mi-juin 2026 concernant le conflit entre l'Iran et les États-Unis ?",
+      "options": [
+        "La signature d'un protocole d'accord visant à mettre fin à la guerre en cours",
+        "La rupture totale et définitive de toute négociation entre les deux pays en cause",
+        "L'adhésion immédiate de l'Iran à une alliance militaire occidentale quelconque",
+        "Le retrait complet et unilatéral des États-Unis de l'ensemble du Golfe persique"
+      ],
+      "answer": 0,
+      "explanation": "Un protocole d'accord (« Memorandum of Understanding ») entre les États-Unis et l'Iran a été signé les 17 et 18 juin 2026, ouvrant une période de deux mois de négociations et prévoyant notamment une réouverture progressive du détroit d'Ormuz.",
+      "tags": ["protocole d'accord", "négociations"]
+    },
+    {
+      "id": "iran-qcm-003",
+      "question": "Quelle institution l'Iran prévoit-il de consulter pour définir la future administration du détroit d'Ormuz, selon le protocole de juin 2026 ?",
+      "options": [
+        "Le Sultanat d'Oman, en concertation avec les autres États du golfe Persique",
+        "Les Nations unies, qui en assureraient seules l'administration complète et directe",
+        "L'Union européenne, chargée de garantir la liberté de navigation future dans la zone",
+        "La Russie, désignée comme médiateur exclusif de ce dossier maritime régional"
+      ],
+      "answer": 0,
+      "explanation": "Le protocole d'accord prévoit que l'Iran engage un dialogue avec le Sultanat d'Oman afin de définir la future administration et l'autorité des services maritimes du détroit d'Ormuz, en concertation avec les autres États du golfe Persique.",
+      "tags": ["sultanat d'oman", "administration du détroit"]
+    },
+    {
+      "id": "iran-qcm-004",
+      "question": "Quelle position l'Iran a-t-il affichée publiquement après la signature du protocole d'accord de juin 2026, concernant le détroit d'Ormuz ?",
+      "options": [
+        "Revendiquer un droit de souveraineté et la perception future d'une redevance",
+        "Renoncer entièrement à toute revendication de souveraineté sur ce détroit précis",
+        "Accepter une administration entièrement confiée aux seuls États-Unis d'Amérique",
+        "Demander la fermeture permanente et définitive du détroit à tout trafic maritime"
+      ],
+      "answer": 0,
+      "explanation": "Un représentant iranien a déclaré que l'Iran a un droit de souveraineté sur le détroit d'Ormuz et qu'il percevra une redevance pour les services maritimes assurés, tout en précisant que le détroit ne reviendrait pas à la situation antérieure à la guerre.",
+      "tags": ["souveraineté", "redevance"]
+    },
+    {
+      "id": "iran-qcm-005",
+      "question": "Comment certains navires ont-ils continué à franchir le détroit d'Ormuz pendant la période de blocage, selon les informations rapportées en juin 2026 ?",
+      "options": [
+        "De nuit, feux éteints et transpondeurs désactivés, par la partie sud du passage",
+        "Exclusivement de jour, avec une escorte militaire systématique des États-Unis",
+        "Uniquement par voie aérienne, le trafic maritime étant totalement interrompu",
+        "En empruntant un nouveau canal artificiel construit spécialement pour l'occasion"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'association d'armateurs Intertanko, la marine américaine s'est coordonnée avec des navires non iraniens bloqués dans le Golfe pour les aider à franchir le détroit de nuit, feux éteints et transpondeurs désactivés, en passant par la partie sud du passage proche des côtes omanaises.",
+      "tags": ["trafic maritime", "blocus"]
+    },
+    {
+      "id": "iran-qcm-006",
+      "question": "Pourquoi l'accord de Vienne de 2015 sur le nucléaire iranien a-t-il été signé, et quel en était l'objectif principal ?",
+      "options": [
+        "Encadrer le programme nucléaire iranien en échange d'une levée des sanctions",
+        "Mettre fin immédiatement et définitivement à toute relation diplomatique avec l'Iran",
+        "Permettre à l'Iran de développer librement et sans aucun contrôle l'arme nucléaire",
+        "Créer une alliance militaire formelle entre l'Iran et les puissances occidentales"
+      ],
+      "answer": 0,
+      "explanation": "Signé le 14 juillet 2015 par l'Iran et le groupe des pays du P5+1 ainsi que l'Union européenne, le JCPOA avait pour objectif d'encadrer strictement les activités nucléaires de l'Iran, soupçonné de chercher à développer l'arme atomique, en contrepartie d'une levée progressive des sanctions économiques internationales.",
+      "tags": ["jcpoa", "accord de vienne"]
+    },
+    {
+      "id": "iran-qcm-007",
+      "question": "Pour quelle raison principale Donald Trump a-t-il justifié le retrait des États-Unis de l'accord sur le nucléaire iranien en mai 2018 ?",
+      "options": [
+        "Jugeant l'accord insuffisant car il ne couvrait pas le programme balistique iranien",
+        "En raison d'une violation prouvée et immédiate de l'accord par l'Iran cette année-là",
+        "À la demande expresse et unanime de l'ensemble des autres pays signataires de l'accord",
+        "Pour répondre à une attaque militaire iranienne directe sur le territoire américain"
+      ],
+      "answer": 0,
+      "explanation": "Le 8 mai 2018, Donald Trump a annoncé le retrait américain de l'accord de 2015 et le rétablissement des sanctions, son secrétaire d'État précisant que la décision ne visait pas seulement le programme nucléaire mais aussi le programme de missiles et le comportement régional de l'Iran.",
+      "tags": ["retrait américain 2018", "trump"]
+    },
+    {
+      "id": "iran-qcm-008",
+      "question": "Qu'est-ce que la « guerre des Douze Jours » de juin 2025, qui a précédé le conflit de 2026 ?",
+      "options": [
+        "Un affrontement direct entre Israël, puis les États-Unis, et l'Iran, du 13 au 24 juin",
+        "Une simple série de négociations diplomatiques sans aucun affrontement militaire",
+        "Un conflit ayant exclusivement opposé l'Iran à l'Arabie saoudite cette année-là",
+        "Une guerre ayant duré plus de douze mois, malgré son nom trompeur à ce sujet"
+      ],
+      "answer": 0,
+      "explanation": "Du 13 au 24 juin 2025, Israël a lancé l'opération Rising Lion contre l'Iran, rejointe par une intervention américaine directe avec l'opération Midnight Hammer visant les sites nucléaires iraniens, avant qu'un cessez-le-feu ne soit annoncé par Donald Trump le 24 juin.",
+      "tags": ["guerre des douze jours", "rising lion"]
+    },
+    {
+      "id": "iran-qcm-009",
+      "question": "Quelles installations nucléaires iraniennes ont été visées par l'opération américaine Midnight Hammer en juin 2025 ?",
+      "options": [
+        "L'usine d'enrichissement de Fordo, le site de Natanz et une installation à Ispahan",
+        "Uniquement des bases militaires conventionnelles, sans aucun site nucléaire visé",
+        "La seule capitale Téhéran, visée par des frappes aériennes massives et continues",
+        "Des installations situées hors du territoire iranien, dans des pays voisins alliés"
+      ],
+      "answer": 0,
+      "explanation": "Dans la nuit du 21 au 22 juin 2025, l'opération américaine Midnight Hammer a visé notamment l'usine d'enrichissement d'uranium de Fordo, le site nucléaire de Natanz et une installation à Ispahan, à l'aide de bombardiers furtifs B-2 et de missiles de croisière Tomahawk.",
+      "tags": ["midnight hammer", "sites nucléaires"]
+    },
+    {
+      "id": "iran-qcm-010",
+      "question": "Quelle évolution a marqué le statut de l'accord sur le nucléaire iranien à l'automne 2025, avant le déclenchement du conflit de 2026 ?",
+      "options": [
+        "Son échéance officielle, après le rétablissement des sanctions de l'ONU contre l'Iran",
+        "Sa reconduction automatique et intégrale pour une nouvelle décennie complète",
+        "Sa transformation en traité de défense mutuelle entre l'Iran et les États-Unis",
+        "Son remplacement immédiat par un nouvel accord signé par l'ensemble des parties"
+      ],
+      "answer": 0,
+      "explanation": "L'accord de 2015, déjà caduc de fait depuis le retrait américain de 2018, est arrivé à échéance officielle en octobre 2025, après le rétablissement des sanctions de l'ONU contre l'Iran à la fin septembre, l'Iran annonçant alors ne plus être tenu par aucune des restrictions prévues.",
+      "tags": ["échéance jcpoa", "sanctions onu"]
+    }
+  ]
+}

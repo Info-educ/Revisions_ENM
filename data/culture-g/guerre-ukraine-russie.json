@@ -1,0 +1,169 @@
+{
+  "id": "guerre-ukraine-russie",
+  "title": "La guerre en Ukraine",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "ukraine-fc-001",
+      "front": "Quel événement de novembre 2013 est considéré comme le point de départ de la crise russo-ukrainienne ?",
+      "back": "Le 21 novembre 2013, le gouvernement ukrainien prorusse refuse au dernier moment de signer l'accord d'association avec l'Union européenne, déclenchant le mouvement de contestation populaire appelé Euromaïdan, qui aboutira en février 2014 à la chute du président Viktor Ianoukovytch.",
+      "tags": ["euromaïdan", "2013"]
+    },
+    {
+      "id": "ukraine-fc-002",
+      "front": "Quand la Russie a-t-elle lancé son invasion à grande échelle de l'Ukraine, et quel territoire avait-elle déjà annexé en 2014 ?",
+      "back": "La Russie a lancé son invasion à grande échelle de l'Ukraine le 24 février 2022. Elle avait déjà annexé la péninsule de Crimée en mars 2014, à la suite d'un référendum organisé sous occupation militaire et non reconnu par la communauté internationale, et soutenait depuis cette date des séparatistes prorusses dans le Donbass (Donetsk et Lougansk).",
+      "tags": ["invasion 2022", "crimée", "donbass"]
+    },
+    {
+      "id": "ukraine-fc-003",
+      "front": "Quels territoires la Russie revendique-t-elle avoir annexés en septembre 2022, en plus de la Crimée ?",
+      "back": "En septembre 2022, la Russie a organisé des référendums non reconnus par la communauté internationale dans les régions de Donetsk, Lougansk, Zaporijjia et Kherson, débouchant sur un processus d'annexion de ces quatre oblasts, bien que la Russie n'en contrôle pas l'intégralité du territoire.",
+      "tags": ["annexions 2022", "oblasts"]
+    },
+    {
+      "id": "ukraine-fc-004",
+      "front": "Pourquoi Vladimir Poutine fait-il l'objet d'un mandat d'arrêt de la Cour pénale internationale (CPI) depuis 2023 ?",
+      "back": "En mars 2023, la Cour pénale internationale a émis un mandat d'arrêt contre Vladimir Poutine pour crimes de guerre, en lien avec la déportation et le transfert illégal présumés d'enfants ukrainiens depuis les territoires occupés vers la Russie. La Russie ne reconnaît pas la juridiction de la CPI et qualifie ces poursuites de nulles et sans fondement.",
+      "tags": ["cour pénale internationale", "poutine"]
+    },
+    {
+      "id": "ukraine-fc-005",
+      "front": "Quelle est l'ampleur de l'aide financière, militaire et humanitaire apportée à l'Ukraine par l'Union européenne ?",
+      "back": "Selon le Conseil de l'Union européenne, l'UE et ses États membres constituent le premier fournisseur d'aide à l'Ukraine, avec plus de 200 milliards d'euros fournis au total, dont une large part d'aide financière, économique et humanitaire, en plus d'un soutien militaire coordonné avec l'Otan.",
+      "tags": ["aide européenne", "union européenne"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "ukraine-qcm-001",
+      "question": "Quel événement de 2014, non reconnu par la communauté internationale, a précédé de huit ans l'invasion à grande échelle de l'Ukraine ?",
+      "options": [
+        "L'annexion de la Crimée à la suite d'un référendum organisé sous occupation militaire",
+        "La signature d'un traité de paix définitif entre la Russie et l'Ukraine cette année-là",
+        "L'adhésion immédiate de l'Ukraine à l'Organisation du traité de l'Atlantique nord",
+        "Le retrait total et volontaire des troupes russes de l'ensemble du territoire ukrainien"
+      ],
+      "answer": 0,
+      "explanation": "En mars 2014, la Russie a annexé la Crimée à la suite d'un référendum organisé sous occupation militaire russe, un scrutin que la communauté internationale n'a jamais reconnu, marquant le début de huit années de conflit avant l'invasion à grande échelle de 2022.",
+      "tags": ["crimée", "2014"]
+    },
+    {
+      "id": "ukraine-qcm-002",
+      "question": "Quels territoires la Russie a-t-elle revendiqué annexer en septembre 2022, en plus de la Crimée ?",
+      "options": [
+        "Donetsk, Lougansk, Zaporijjia et Kherson, dans un processus jugé illégal partout",
+        "L'intégralité du territoire ukrainien, y compris la capitale Kyiv elle-même",
+        "Uniquement la ville de Marioupol, présentée comme un cas particulier bien isolé",
+        "La région de Kharkiv, reprise depuis par une contre-offensive ukrainienne menée"
+      ],
+      "answer": 0,
+      "explanation": "En septembre 2022, la Russie a organisé des référendums d'annexion dans les régions de Donetsk, Lougansk, Zaporijjia et Kherson, reconnus comme fictifs et illégaux par la communauté internationale, débouchant sur un processus d'annexion contesté de ces territoires au territoire russe.",
+      "tags": ["annexions", "référendums"]
+    },
+    {
+      "id": "ukraine-qcm-003",
+      "question": "Quelle ville, seule capitale régionale occupée puis annexée par la Russie, a été reprise par les forces ukrainiennes en novembre 2022 ?",
+      "options": [
+        "Kherson, reprise par une contre-offensive ukrainienne réussie cette année-là déjà",
+        "Marioupol, restée toutefois sous contrôle russe jusqu'à aujourd'hui même encore",
+        "Avdiïvka, tombée aux mains des troupes russes l'année suivante, soit en 2024",
+        "Bakhmout, ville disputée pendant plusieurs mois entre les deux armées en présence"
+      ],
+      "answer": 0,
+      "explanation": "Kherson est la seule capitale régionale occupée puis annexée par la Russie qui a été reprise par les forces ukrainiennes, en novembre 2022, contrairement à Marioupol qui est restée sous contrôle russe ou Avdiïvka, tombée en février 2024.",
+      "tags": ["kherson", "contre-offensive"]
+    },
+    {
+      "id": "ukraine-qcm-004",
+      "question": "Qu'est-ce que l'Otan a renforcé depuis le début de l'invasion russe de l'Ukraine en 2022 ?",
+      "options": [
+        "Sa posture dissuasive et défensive sur le flanc est de l'Europe tout entier",
+        "Son retrait progressif et complet de l'ensemble du continent européen entier",
+        "Une intervention militaire directe de ses troupes sur le sol ukrainien lui-même",
+        "La dissolution de son commandement intégré au profit des seuls États membres"
+      ],
+      "answer": 0,
+      "explanation": "Depuis février 2022, les armées de plusieurs pays membres de l'Otan, dont la France, participent au renforcement de la posture dissuasive et défensive de l'organisation sur le flanc est de l'Europe, sans intervention militaire directe sur le sol ukrainien.",
+      "tags": ["otan", "flanc est"]
+    },
+    {
+      "id": "ukraine-qcm-005",
+      "question": "Quel type d'armement la Russie a-t-elle utilisé à plusieurs reprises contre l'Ukraine durant le conflit, selon les développements les plus récents ?",
+      "options": [
+        "Des missiles balistiques de moyenne portée, de type Orechnik, à plusieurs reprises",
+        "Exclusivement de l'artillerie conventionnelle datant de l'époque soviétique",
+        "Des armes chimiques, dont l'usage a été confirmé par l'ONU en 2025 officiellement",
+        "Aucun missile, le conflit reposant uniquement sur des combats terrestres directs"
+      ],
+      "answer": 0,
+      "explanation": "La Russie a frappé à plusieurs reprises l'Ukraine à l'aide de missiles balistiques de moyenne portée de type Orechnik, un armement dont l'usage a été signalé par l'armée de l'air ukrainienne comme une menace récurrente au cours du conflit.",
+      "tags": ["armement", "missiles orechnik"]
+    },
+    {
+      "id": "ukraine-qcm-006",
+      "question": "Que retient-on des tentatives de trêve ponctuelles conclues entre la Russie et l'Ukraine, comme celle d'avril 2026 ?",
+      "options": [
+        "Des trêves brèves et fragiles, parfois associées à des échanges de prisonniers",
+        "Un cessez-le-feu permanent et durable mettant fin à l'ensemble des combats en cours",
+        "La signature d'un traité de paix définitif reconnu par les deux parties en présence",
+        "Le retrait total et immédiat de toutes les troupes russes du territoire ukrainien"
+      ],
+      "answer": 0,
+      "explanation": "Les trêves conclues au cours du conflit, comme celle de 32 heures instaurée pour Pâques orthodoxe en avril 2026, restent brèves et fragiles, parfois marquées par des violations rapportées, mais ont pu s'accompagner d'échanges de prisonniers entre les deux parties.",
+      "tags": ["trêve", "négociations"]
+    },
+    {
+      "id": "ukraine-qcm-007",
+      "question": "Selon le centre de réflexion américain CSIS, quel est l'ordre de grandeur du bilan humain militaire de la guerre en Ukraine après quatre ans de conflit ?",
+      "options": [
+        "Plusieurs centaines de milliers de soldats tués des deux côtés du conflit en cours",
+        "Moins de mille morts au total, le conflit restant d'une intensité très limitée",
+        "Aucune perte militaire significative, les combats étant surtout symboliques",
+        "Un bilan resté impossible à estimer en raison de l'absence totale de données"
+      ],
+      "answer": 0,
+      "explanation": "Selon le CSIS, l'invasion russe a coûté la vie à environ 325 000 soldats russes et entre 100 000 et 140 000 soldats ukrainiens après quatre ans de conflit, un bilan qui illustre l'ampleur humaine de cette guerre d'usure prolongée.",
+      "tags": ["bilan humain", "csis"]
+    },
+    {
+      "id": "ukraine-qcm-008",
+      "question": "Comment l'économie russe a-t-elle réagi aux sanctions occidentales imposées depuis 2022, selon les analyses les plus récentes ?",
+      "options": [
+        "Elle a résisté en trouvant des circuits parallèles, mais montre des signes d'essoufflement",
+        "Elle s'est effondrée immédiatement et totalement dès les premiers mois du conflit",
+        "Elle n'a subi aucun impact mesurable, les sanctions étant restées sans effet",
+        "Elle a surpassé toutes les économies occidentales grâce aux exportations militaires"
+      ],
+      "answer": 0,
+      "explanation": "L'économie russe a résisté aux sanctions occidentales en développant des circuits d'importations parallèles et en réorientant ses ventes d'hydrocarbures, mais elle commence à montrer des signes d'essoufflement, confrontée à des pénuries de main-d'œuvre et à une forte inflation.",
+      "tags": ["sanctions", "économie russe"]
+    },
+    {
+      "id": "ukraine-qcm-009",
+      "question": "Quelle est l'ampleur de la crise des réfugiés provoquée par la guerre en Ukraine, selon les données de l'ONU ?",
+      "options": [
+        "Plus de 6 millions de réfugiés à l'étranger et plusieurs millions de déplacés internes",
+        "Aucun déplacement de population significatif n'aurait été enregistré depuis 2022",
+        "Seulement quelques milliers de personnes auraient quitté le pays depuis le début",
+        "La totalité de la population ukrainienne aurait déjà quitté le territoire national"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'ONU, plus de 6,3 millions de réfugiés ukrainiens ont fui vers les pays voisins et environ 3,7 millions de personnes sont déplacées à l'intérieur du pays, faisant de ce conflit la plus grande crise de réfugiés en Europe depuis la Seconde Guerre mondiale.",
+      "tags": ["réfugiés", "crise humanitaire"]
+    },
+    {
+      "id": "ukraine-qcm-010",
+      "question": "Quel facteur géopolitique est avancé pour expliquer l'incertitude entourant une éventuelle fin du conflit en 2026 ?",
+      "options": [
+        "Les signaux d'apaisement de l'administration américaine envers Moscou depuis 2025",
+        "Le retrait total et définitif de la Chine de toute relation commerciale avec la Russie",
+        "La dissolution complète et immédiate de l'Otan annoncée au début de cette année",
+        "L'adhésion immédiate et sans aucune condition de la Russie à l'Union européenne"
+      ],
+      "answer": 0,
+      "explanation": "Selon des analyses de centres de réflexion comme l'Ifri, des cycles de négociations intermittents sous impulsion américaine, accélérés par des signaux d'apaisement envers Moscou, coexistent avec la poursuite d'une guerre d'usure, rendant incertaine une issue rapide du conflit en 2026.",
+      "tags": ["négociations", "perspectives 2026"]
+    }
+  ]
+}
