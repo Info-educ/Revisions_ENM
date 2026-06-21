@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782035733908,
+  "updatedAt": 1782035753705,
   "themes": {
     "penal": {
       "items": {
@@ -3238,6 +3238,13 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1782035729902
+        },
+        "action-publique-fc-002": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782035749697
         }
       }
     }
