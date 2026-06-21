@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782049896866,
+  "updatedAt": 1782049991733,
   "themes": {
     "penal": {
       "items": {
@@ -2826,11 +2826,11 @@
           "lastSeenAt": 1781947761448
         },
         "sanction-fc-012": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1781947877396
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782049987725
         },
         "chosejugee-fc-007": {
           "level": 0,
