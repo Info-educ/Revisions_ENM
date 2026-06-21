@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782046740565,
+  "updatedAt": 1782046776077,
   "themes": {
     "penal": {
       "items": {
@@ -2477,10 +2477,10 @@
         },
         "sanction-fc-009": {
           "level": 0,
-          "seenCount": 1,
+          "seenCount": 2,
           "correctCount": 0,
           "lastResult": "miss",
-          "lastSeenAt": 1781881552843
+          "lastSeenAt": 1782046772070
         },
         "justice-fr-fc-001": {
           "level": 0,
