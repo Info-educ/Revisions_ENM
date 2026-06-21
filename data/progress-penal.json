@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782049603107,
+  "updatedAt": 1782049630247,
   "themes": {
     "penal": {
       "items": {
@@ -2911,10 +2911,10 @@
         },
         "faits-just-fc-015": {
           "level": 0,
-          "seenCount": 1,
+          "seenCount": 2,
           "correctCount": 0,
           "lastResult": "miss",
-          "lastSeenAt": 1781948507423
+          "lastSeenAt": 1782049626236
         },
         "phase-jugement-fc-009": {
           "level": 1,
