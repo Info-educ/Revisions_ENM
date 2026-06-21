@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782045675503,
+  "updatedAt": 1782045755794,
   "themes": {
     "penal": {
       "items": {
@@ -1931,10 +1931,10 @@
         },
         "controle-norme-fc-010": {
           "level": 0,
-          "seenCount": 1,
+          "seenCount": 2,
           "correctCount": 0,
           "lastResult": "miss",
-          "lastSeenAt": 1781819370788
+          "lastSeenAt": 1782045751771
         },
         "chambre-instruction-fc-005": {
           "level": 0,
