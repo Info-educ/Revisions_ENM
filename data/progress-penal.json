@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782051694583,
+  "updatedAt": 1782051797292,
   "themes": {
     "penal": {
       "items": {
@@ -3296,10 +3296,10 @@
         },
         "faits-just-fc-012": {
           "level": 0,
-          "seenCount": 1,
+          "seenCount": 2,
           "correctCount": 0,
           "lastResult": "miss",
-          "lastSeenAt": 1782036343073
+          "lastSeenAt": 1782051793284
         },
         "conseil-const-fc-003": {
           "level": 1,
