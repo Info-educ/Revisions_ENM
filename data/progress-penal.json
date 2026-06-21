@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782035504750,
+  "updatedAt": 1782035559761,
   "themes": {
     "penal": {
       "items": {
@@ -2904,11 +2904,11 @@
           "lastSeenAt": 1781948425884
         },
         "imputabilite-fc-009": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1781948478278
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782035555755
         },
         "faits-just-fc-015": {
           "level": 0,
