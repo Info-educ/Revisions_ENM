@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782048638219,
+  "updatedAt": 1782048830602,
   "themes": {
     "penal": {
       "items": {
@@ -3002,10 +3002,10 @@
         },
         "element-moral-fc-002": {
           "level": 0,
-          "seenCount": 1,
+          "seenCount": 2,
           "correctCount": 0,
           "lastResult": "miss",
-          "lastSeenAt": 1781950099480
+          "lastSeenAt": 1782048826596
         },
         "chosejugee-fc-002": {
           "level": 1,
