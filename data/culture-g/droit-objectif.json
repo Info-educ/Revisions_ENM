@@ -1,0 +1,189 @@
+{
+  "id": "droit-objectif",
+  "title": "Le droit objectif — Règle de droit, vocabulaire fondamental et application dans le temps et l'espace",
+  "category": "Introduction au droit",
+  "flashcards": [
+    {
+      "id": "droit-objectif-fc-001",
+      "front": "Quels sont les quatre caractères de la règle de droit ?",
+      "back": "La règle de droit est : ① extérieure (imposée par une autorité, non par la volonté individuelle) ; ② générale et abstraite (s'applique à tous — erga omnes — garantie contre l'arbitraire) ; ③ permanente (applicable jusqu'à abrogation, la désuétude ne la rend pas caduque) ; ④ obligatoire et contraignante (sa méconnaissance entraîne une sanction ; l'État détient le monopole de la violence physique légitime — Max Weber).",
+      "tags": [
+        "règle de droit",
+        "caractères",
+        "sanction"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "droit-objectif-qcm-001",
+      "question": "Que désigne le droit positif, par opposition au droit naturel ?",
+      "options": [
+        "Les règles juridiques effectivement en vigueur sur un territoire à un moment donné précis",
+        "Les règles morales et coutumières progressivement reconnues par la jurisprudence nationale",
+        "Les principes supérieurs à toute loi positive, fondés sur la nature de l'être humain",
+        "Les droits subjectifs attachés à la personne physique et opposables à tous les tiers"
+      ],
+      "answer": 0,
+      "explanation": "Le droit positif désigne les règles de droit effectivement en vigueur, « posées » par une autorité habilitée sur un territoire donné. Il s'oppose au droit naturel (Grotius), qui postule des règles supérieures à toute loi, résultant de la nature de l'homme. L'option C décrit précisément le droit naturel.",
+      "tags": [
+        "droit positif",
+        "droit naturel",
+        "vocabulaire"
+      ]
+    },
+    {
+      "id": "droit-objectif-qcm-002",
+      "question": "Qu'est-ce qui distingue fondamentalement un acte juridique d'un fait juridique ?",
+      "options": [
+        "L'acte est toujours écrit et signé ; le fait est toujours involontaire et non formalisé",
+        "L'acte émane d'une autorité publique ; le fait résulte toujours d'une décision de justice",
+        "L'acte procède d'une manifestation de volonté destinée à produire des effets de droit",
+        "L'acte nécessite un notaire ; le fait juridique peut être prouvé par simple témoignage"
+      ],
+      "answer": 2,
+      "explanation": "L'acte juridique est une manifestation de volonté destinée à produire des effets de droit (ex. contrat, testament — art. 1100-1 C. civ.). Le fait juridique est un événement auquel la loi attache des effets de droit indépendamment de toute volonté (naissance, décès, accident). La distinction repose donc sur la place de la volonté.",
+      "tags": [
+        "acte juridique",
+        "fait juridique",
+        "vocabulaire"
+      ]
+    },
+    {
+      "id": "droit-objectif-qcm-003",
+      "question": "Selon le positivisme juridique (Jhering, Kelsen), que représente le droit par opposition au droit naturel ?",
+      "options": [
+        "Un ensemble de règles supérieures à toute loi, découlant de la nature de l'être humain",
+        "Un système de normes fondé sur la morale universelle, indépendant de toute autorité",
+        "Un idéal de justice immanent que les législateurs doivent respecter sous peine de nullité",
+        "Un fait social posé par une autorité habilitée, sans référence à une morale transcendante"
+      ],
+      "answer": 3,
+      "explanation": "Pour les positivistes (Jhering, Kelsen), le droit est un fait social posé par une autorité habilitée, sans nécessaire référence à une morale ou à la nature. Le droit naturel (Grotius), à l'inverse, postule des règles supérieures à toute loi positive résultant de la nature de l'homme — ce que décrit précisément l'option A.",
+      "tags": [
+        "positivisme juridique",
+        "droit naturel",
+        "Kelsen"
+      ]
+    },
+    {
+      "id": "droit-objectif-qcm-004",
+      "question": "Que signifie le caractère « permanent » de la règle de droit ?",
+      "options": [
+        "La règle s'applique sans limite de temps et ne peut jamais être abrogée par le législateur",
+        "La règle s'impose identiquement à tous sur l'ensemble du territoire national en tout temps",
+        "Elle est applicable jusqu'à abrogation ; la désuétude seule ne la rend pas caduque",
+        "La règle produit des effets rétroactifs pour assurer la continuité de l'ordre juridique"
+      ],
+      "answer": 2,
+      "explanation": "La permanence signifie que la règle s'applique depuis son entrée en vigueur jusqu'à son abrogation expresse ou implicite par une autre loi. La désuétude (non-application prolongée dans les faits) ne suffit pas à rendre une règle caduque. L'option A est fausse : toute règle peut être abrogée.",
+      "tags": [
+        "règle de droit",
+        "permanence",
+        "désuétude"
+      ]
+    },
+    {
+      "id": "droit-objectif-qcm-005",
+      "question": "Quel est le critère permettant de distinguer une règle impérative d'une règle supplétive de volonté ?",
+      "options": [
+        "L'ordre public",
+        "La hiérarchie des normes",
+        "La nature de la sanction",
+        "La source de la règle"
+      ],
+      "answer": 0,
+      "explanation": "Le critère de distinction est l'ordre public : les règles impératives s'imposent en toute hypothèse (ex. interdiction d'écarter les règles du divorce) ; les règles supplétives de volonté peuvent être écartées par convention contraire (ex. régime légal de la communauté remplacé par un contrat de mariage). La hiérarchie, la sanction ou la source ne permettent pas cette distinction.",
+      "tags": [
+        "règles impératives",
+        "règles supplétives",
+        "ordre public"
+      ]
+    },
+    {
+      "id": "droit-objectif-qcm-006",
+      "question": "Parmi les trois types de sanctions juridiques, laquelle a pour objet de corriger la méconnaissance d'une règle de droit ?",
+      "options": [
+        "La punition",
+        "La réparation",
+        "L'exécution forcée",
+        "La suspension"
+      ],
+      "answer": 1,
+      "explanation": "La réparation corrige la méconnaissance de la règle : nullité d'un acte contraire à la loi, dommages-intérêts pour préjudice matériel ou moral. L'exécution forcée contraint le débiteur à exécuter son obligation (saisies). La punition (emprisonnement, amende) sanctionne pénalement. La suspension n'est pas un type de sanction juridique reconnu par la fiche.",
+      "tags": [
+        "sanction",
+        "réparation",
+        "exécution forcée"
+      ]
+    },
+    {
+      "id": "droit-objectif-qcm-007",
+      "question": "Quelle formule de Portalis résume le principe de non-rétroactivité de la loi dans le temps ?",
+      "options": [
+        "« La loi ne dispose que pour l'avenir »",
+        "« La loi s'applique à tous les faits, passés et futurs »",
+        "« La loi rétroagit dès sa promulgation officielle »",
+        "« La loi nouvelle s'applique aux situations en cours »"
+      ],
+      "answer": 0,
+      "explanation": "Portalis a résumé le principe de non-rétroactivité par la formule : « la loi ne dispose que pour l'avenir ». Ce principe est codifié à l'art. 2 du C. civ. Exceptions : rétroactivité in mitius (lois pénales plus douces) et lois interprétatives. Les options B, C et D décrivent des principes inexacts ou contraires.",
+      "tags": [
+        "non-rétroactivité",
+        "Portalis",
+        "application loi dans le temps"
+      ]
+    },
+    {
+      "id": "droit-objectif-qcm-008",
+      "question": "Selon la théorie de Roubier, quel régime s'applique aux situations contractuelles en cours lors d'un changement de loi ?",
+      "options": [
+        "La loi nouvelle s'applique immédiatement à tous les effets futurs des contrats en cours",
+        "La loi ancienne survit et continue de régir les contrats en cours jusqu'à leur terme",
+        "Les parties peuvent librement opter pour la loi ancienne ou la loi nouvelle à tout instant",
+        "Le juge apprécie au cas par cas, en tenant compte de l'intérêt de la partie la plus faible"
+      ],
+      "answer": 1,
+      "explanation": "Selon la théorie de Roubier, en matière de situations contractuelles, la loi ancienne survit et continue de régir les contrats en cours jusqu'à leur terme. Ce principe de survie de la loi ancienne s'oppose à l'application immédiate de la loi nouvelle, qui prévaut pour les situations légales (non contractuelles).",
+      "tags": [
+        "théorie de Roubier",
+        "application loi dans le temps",
+        "contrats en cours"
+      ]
+    },
+    {
+      "id": "droit-objectif-qcm-009",
+      "question": "Parmi les régimes suivants, lequel correspond à l'article 73 de la Constitution pour les collectivités d'outre-mer ?",
+      "options": [
+        "Identité législative (lois de plein droit, adaptations possibles)",
+        "Spécialité législative (mention expresse requise pour s'appliquer)",
+        "Autonomie totale (les lois nationales ne s'appliquent jamais)",
+        "Régime mixte (application partielle selon les matières concernées)"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 73 de la Constitution (révision de 2003) consacre le régime d'identité législative : les lois et règlements s'appliquent de plein droit, des adaptations tenant aux caractéristiques et contraintes particulières de ces collectivités étant toutefois possibles. L'art. 74, lui, institue le régime de spécialité législative, qui exige une mention expresse.",
+      "tags": [
+        "outre-mer",
+        "identité législative",
+        "spécialité législative"
+      ]
+    },
+    {
+      "id": "droit-objectif-qcm-010",
+      "question": "En droit, que désigne le terme « minute » d'un acte notarié ou d'un jugement, contrairement à son sens courant ?",
+      "options": [
+        "Le résumé d'un acte établi par le greffier pour en faciliter les consultations ultérieures",
+        "Le délai accordé aux parties pour comparaître devant un juge ou un officier ministériel",
+        "La copie certifiée conforme d'un acte remise à chaque partie à sa demande par le notaire",
+        "L'original d'un acte notarié ou d'un jugement, conservé par le notaire ou le greffier"
+      ],
+      "answer": 3,
+      "explanation": "En droit, la « minute » est l'original d'un acte notarié ou d'un jugement, conservé par le notaire ou le greffier. Les copies sont appelées « grosses » (revêtues de la formule exécutoire) ou « expéditions ». Le terme n'a aucun rapport avec l'unité de temps — piège classique du double sens courant/juridique.",
+      "tags": [
+        "minute",
+        "vocabulaire juridique",
+        "acte notarié"
+      ]
+    }
+  ]
+}
