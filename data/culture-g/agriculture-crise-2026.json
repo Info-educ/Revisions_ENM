@@ -1,0 +1,107 @@
+{
+  "id": "agriculture-crise-2026",
+  "title": "La crise du modèle agricole français",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "agri26-fc-001",
+      "front": "Comment a évolué le nombre d'exploitations agricoles en France entre 1970 et 2023 ?",
+      "back": "Il est passé d'environ 1,6 million en 1970 à 350 000 en 2023, tandis que leur surface moyenne augmentait d'environ 19 hectares à plus de 76 hectares, traduisant concentration et spécialisation.",
+      "tags": [
+        "exploitations agricoles",
+        "concentration"
+      ]
+    },
+    {
+      "id": "agri26-fc-002",
+      "front": "Qu'est-ce que la loi Egalim II adoptée en 2021 ?",
+      "back": "Une loi rendant obligatoire un contrat écrit pour la vente de produits agricoles, permettant d'imposer des « tunnels de prix » par décret et créant un mécanisme de révision automatique des prix.",
+      "tags": [
+        "egalim ii",
+        "rémunération agriculteurs"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "agri26-qcm-001",
+      "question": "Quelle situation inédite caractérise le solde commercial agricole français en 2025 ?",
+      "options": [
+        "Il a atteint son plus haut niveau excédentaire depuis le début des années 2000",
+        "Il est devenu négatif pour la première fois depuis le début des années 2000",
+        "Il s'est stabilisé à un parfait équilibre pour la première fois en vingt ans",
+        "Il a doublé grâce à la forte hausse des exportations françaises de vins et spiritueux"
+      ],
+      "answer": 1,
+      "explanation": "Le solde commercial agricole français est devenu négatif en 2025, une première depuis au moins le début des années 2000, alors qu'il était encore excédentaire de près de 4 milliards d'euros en 2024.",
+      "tags": [
+        "balance commerciale",
+        "2025"
+      ]
+    },
+    {
+      "id": "agri26-qcm-002",
+      "question": "Sur quoi reposait l'intensification de l'agriculture française entre 1950 et 1980 ?",
+      "options": [
+        "Une diversification systématique des productions sur chaque exploitation agricole",
+        "L'usage croissant d'intrants de synthèse et une forte spécialisation des fermes",
+        "Le développement exclusif de l'agriculture biologique, sans aucun intrant chimique",
+        "Une réduction volontaire et planifiée de la taille moyenne des exploitations"
+      ],
+      "answer": 1,
+      "explanation": "Selon des chercheurs de l'Inra, l'intensification agricole de cette période repose sur l'usage croissant d'engrais et de produits phytosanitaires, accompagnée d'une forte spécialisation des exploitations.",
+      "tags": [
+        "intensification",
+        "intrants"
+      ]
+    },
+    {
+      "id": "agri26-qcm-003",
+      "question": "Comment la politique agricole commune (PAC) a-t-elle évolué à partir de 1992 ?",
+      "options": [
+        "Les prix garantis ont progressivement été remplacés par des subventions directes",
+        "Les subventions directes ont progressivement été remplacées par des prix garantis",
+        "La PAC a été totalement supprimée au profit d'un marché agricole entièrement libre",
+        "Les aides ont été indexées exclusivement sur le volume total de production vendu"
+      ],
+      "answer": 0,
+      "explanation": "Jusqu'en 1991, la PAC garantissait un prix minimum aux agriculteurs ; à partir de 1992, ce système de prix garantis a été progressivement remplacé par des subventions directes, conditionnées depuis 2003 à des normes environnementales.",
+      "tags": [
+        "pac",
+        "1992"
+      ]
+    },
+    {
+      "id": "agri26-qcm-004",
+      "question": "Qu'ont dénoncé les mobilisations agricoles de janvier-février 2024 ?",
+      "options": [
+        "Exclusivement l'interdiction totale et immédiate des produits phytosanitaires",
+        "Le non-respect des lois Egalim et le manque de lisibilité des politiques publiques",
+        "La hausse jugée excessive des subventions versées par l'Union européenne aux agriculteurs",
+        "L'absence totale de toute réglementation environnementale en agriculture française"
+      ],
+      "answer": 1,
+      "explanation": "La FNSEA a dénoncé en 2024 le non-respect des lois Egalim dans les négociations commerciales, un manque de lisibilité des politiques publiques en matière de planification écologique, et un mal-être généralisé.",
+      "tags": [
+        "mobilisations",
+        "2024"
+      ]
+    },
+    {
+      "id": "agri26-qcm-005",
+      "question": "Comment se compare la pauvreté des ménages agricoles selon le mode de mesure utilisé ?",
+      "options": [
+        "Elle est plus élevée en revenu monétaire mais plus faible en conditions de vie",
+        "Elle est rigoureusement identique quel que soit l'indicateur de pauvreté retenu",
+        "Elle est plus faible en revenu monétaire et plus élevée en conditions de vie",
+        "Elle est plus élevée selon les deux indicateurs étudiés, sans aucune nuance"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'Insee, plus de 18 % des membres de ménages agricoles vivent sous le seuil de pauvreté monétaire, mais leur taux de pauvreté en conditions de vie (6,1 %) est deux fois moindre que celui de l'ensemble de la population, en raison d'avantages comme la propriété du logement.",
+      "tags": [
+        "pauvreté",
+        "insee"
+      ]
+    }
+  ]
+}

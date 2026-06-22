@@ -275,6 +275,36 @@
       "file": "essor-reseaux-mobiles-5g.json",
       "title": "L'essor des réseaux mobiles, de la 2G à la 5G",
       "category": "Culture générale"
+    },
+    {
+      "id": "israel-palestine-2024",
+      "file": "israel-palestine-2024.json",
+      "title": "L'enlisement du conflit israélo-palestinien",
+      "category": "Culture générale"
+    },
+    {
+      "id": "taiwan-chine-2025",
+      "file": "taiwan-chine-2025.json",
+      "title": "Taïwan, un territoire sous la menace de la Chine",
+      "category": "Culture générale"
+    },
+    {
+      "id": "otan-menace-russe",
+      "file": "otan-menace-russe.json",
+      "title": "L'Otan, de la menace soviétique à la menace russe",
+      "category": "Culture générale"
+    },
+    {
+      "id": "ukraine-enlisement-2026",
+      "file": "ukraine-enlisement-2026.json",
+      "title": "Guerre en Ukraine : l'enlisement d'un conflit",
+      "category": "Culture générale"
+    },
+    {
+      "id": "agriculture-crise-2026",
+      "file": "agriculture-crise-2026.json",
+      "title": "La crise du modèle agricole français",
+      "category": "Culture générale"
     }
   ]
 }

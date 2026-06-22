@@ -1,0 +1,107 @@
+{
+  "id": "ukraine-enlisement-2026",
+  "title": "Guerre en Ukraine : l'enlisement d'un conflit",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "ukraine26-fc-001",
+      "front": "Quelle part du territoire ukrainien était sous contrôle russe début 2026 ?",
+      "back": "Près de 20 % du territoire ukrainien, soit 13 % de plus qu'avant l'invasion de février 2022, la ligne de front n'ayant que peu évolué depuis 2023 (seulement 2 % de gains russes supplémentaires).",
+      "tags": [
+        "territoires",
+        "ligne de front"
+      ]
+    },
+    {
+      "id": "ukraine26-fc-002",
+      "front": "Qu'est-ce que la « coalition des volontaires » créée en mars 2025 ?",
+      "back": "Une alliance de 35 États soutenant l'Ukraine (dont la France et le Royaume-Uni, les États-Unis y étant seulement associés) qui bâtit des garanties de sécurité et fournit une aide militaire.",
+      "tags": [
+        "coalition des volontaires",
+        "soutien international"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "ukraine26-qcm-001",
+      "question": "Quelle justification Vladimir Poutine a-t-il donnée à l'invasion de l'Ukraine en février 2022 ?",
+      "options": [
+        "Une demande officielle d'annexion formulée directement par les autorités ukrainiennes",
+        "Une décision collective prise par l'ensemble des pays membres de l'Otan occidentale",
+        "L'humiliation et le génocide qu'il accuse l'Ukraine de mener contre le Donbass",
+        "Un accord préalable signé avec les puissances occidentales sur le statut de la Crimée"
+      ],
+      "answer": 2,
+      "explanation": "Le 24 février 2022, Vladimir Poutine a justifié son « opération militaire spéciale » par l'humiliation et le génocide dont il accuse l'Ukraine au Donbass, ainsi que par l'élargissement de l'Otan vers la Russie.",
+      "tags": [
+        "2022",
+        "invasion"
+      ]
+    },
+    {
+      "id": "ukraine26-qcm-002",
+      "question": "Quel événement majeur a précédé l'annexion de la Crimée en 2014 ?",
+      "options": [
+        "Le mouvement de contestation populaire pro-européen appelé « Euromaïdan » en Ukraine",
+        "Une intervention militaire directe et officiellement déclarée de l'Otan en Crimée",
+        "Un référendum local organisé conjointement par l'Ukraine et la Russie en 2013",
+        "La signature préalable des accords de Minsk entre Kiev et Moscou cette année-là"
+      ],
+      "answer": 0,
+      "explanation": "Le mouvement « Euromaïdan » de l'hiver 2013-2014, qui a conduit à la fuite du président prorusse Ianoukovytch, a précédé la prise de contrôle de la Crimée par des soldats russes sans insignes en février 2014.",
+      "tags": [
+        "crimée",
+        "euromaïdan"
+      ]
+    },
+    {
+      "id": "ukraine26-qcm-003",
+      "question": "Que s'est-il passé à Boutcha découvert en avril 2022 ?",
+      "options": [
+        "La signature d'un accord officiel de cessez-le-feu durable entre Kiev et Moscou",
+        "La découverte de massacres de civils après le retrait des troupes russes de la région",
+        "Le lancement de la grande contre-offensive militaire ukrainienne dans le Donbass",
+        "La toute première rencontre diplomatique directe entre les présidents Zelensky et Poutine"
+      ],
+      "answer": 1,
+      "explanation": "Avec le retrait des troupes russes de la région de Kiev en avril 2022, des massacres de civils ont été découverts à Boutcha, confirmés ensuite par l'ONU comme pouvant constituer des crimes de guerre.",
+      "tags": [
+        "boutcha",
+        "crimes de guerre"
+      ]
+    },
+    {
+      "id": "ukraine26-qcm-004",
+      "question": "Sur quel point bloquent principalement les négociations de paix relancées en 2025 ?",
+      "options": [
+        "Le statut futur de l'Otan, dont la dissolution complète serait formellement exigée",
+        "La question des territoires, la Russie réclamant la cession totale du Donbass",
+        "Le montant exact des réparations financières qui seraient dues par la Russie",
+        "Le choix précis du pays devant officiellement accueillir les futurs pourparlers"
+      ],
+      "answer": 1,
+      "explanation": "Les négociations relancées par les États-Unis en 2025 bloquent notamment sur la question territoriale, la Russie demandant à l'Ukraine de lui céder l'intégralité du Donbass.",
+      "tags": [
+        "négociations de paix",
+        "donbass"
+      ]
+    },
+    {
+      "id": "ukraine26-qcm-005",
+      "question": "Quelle a été la rébellion menée par Evgueni Prigojine en juin 2023 ?",
+      "options": [
+        "Une offensive lancée par la milice Wagner contre le commandement militaire russe",
+        "Un soulèvement populaire spontané à Moscou contre la conscription militaire",
+        "Une attaque armée menée par Wagner contre les forces ukrainiennes dans le Donbass",
+        "La défection complète de Wagner pour rejoindre les forces armées ukrainiennes"
+      ],
+      "answer": 0,
+      "explanation": "En juin 2023, Evgueni Prigojine a lancé ses mercenaires de la milice Wagner vers Moscou pour contester le commandement militaire russe, rébellion qui a pris fin dès le lendemain par un accord.",
+      "tags": [
+        "wagner",
+        "prigojine"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "otan-menace-russe",
+  "title": "L'Otan, de la menace soviétique à la menace russe",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "otan-fc-001",
+      "front": "Que prévoit l'article 5 du traité de l'Atlantique Nord ?",
+      "back": "Qu'une attaque armée contre un ou plusieurs membres est considérée comme une attaque contre tous, impliquant une assistance mutuelle pouvant inclure l'emploi de la force armée.",
+      "tags": [
+        "article 5",
+        "défense collective"
+      ]
+    },
+    {
+      "id": "otan-fc-002",
+      "front": "Qu'est-ce que la « politique de la porte ouverte » de l'Otan ?",
+      "back": "Le principe, fondé sur l'article 10 du traité, selon lequel tout État européen capable d'assumer les engagements du traité peut adhérer à l'alliance, par accord unanime des membres.",
+      "tags": [
+        "élargissement",
+        "article 10"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "otan-qcm-001",
+      "question": "Dans quel contexte historique l'Otan a-t-elle été créée en 1949 ?",
+      "options": [
+        "Pour contrer l'extension du contrôle soviétique sur l'Europe orientale entière",
+        "Pour répondre militairement à une attaque déjà directement subie en Europe occidentale",
+        "Pour organiser uniquement la reconstruction économique de l'Europe d'après-guerre",
+        "Pour remplacer officiellement la Société des Nations dissoute après la guerre"
+      ],
+      "answer": 0,
+      "explanation": "L'Otan a été fondée en 1949 pour contrer le risque que l'URSS étende son contrôle sur l'Europe orientale à d'autres parties du continent, dans le contexte naissant de la guerre froide.",
+      "tags": [
+        "1949",
+        "guerre froide"
+      ]
+    },
+    {
+      "id": "otan-qcm-002",
+      "question": "Quand l'article 5 du traité a-t-il été invoqué pour l'unique fois à ce jour ?",
+      "options": [
+        "Lors de l'invasion militaire soviétique de l'Afghanistan en décembre de l'année 1979",
+        "Au lendemain des attentats terroristes du 11 septembre 2001 contre les États-Unis",
+        "Lors de l'annexion controversée et unilatérale de la Crimée par la Russie en 2014",
+        "Au tout début de l'invasion à grande échelle de l'Ukraine par la Russie en 2022"
+      ],
+      "answer": 1,
+      "explanation": "L'article 5 a été invoqué pour la première et unique fois après les attentats du 11 septembre 2001, conduisant les Alliés à mener des opérations de soutien aux États-Unis et en Afghanistan.",
+      "tags": [
+        "article 5",
+        "11 septembre"
+      ]
+    },
+    {
+      "id": "otan-qcm-003",
+      "question": "Quelle décision le général de Gaulle a-t-il prise vis-à-vis de l'Otan en 1966 ?",
+      "options": [
+        "Le retrait complet et définitif de la France de l'organisation tout entière",
+        "Le retrait de la France du seul commandement militaire intégré de l'organisation",
+        "La demande française d'une intégration accélérée au commandement militaire intégré",
+        "La proposition d'un élargissement immédiat de l'Otan vers l'Europe de l'Est"
+      ],
+      "answer": 1,
+      "explanation": "En 1966, de Gaulle annonce le retrait de la France du commandement intégré de l'Otan tout en restant membre de l'alliance ; la France réintégrera ce commandement en 2009 sous Nicolas Sarkozy.",
+      "tags": [
+        "france",
+        "commandement intégré"
+      ]
+    },
+    {
+      "id": "otan-qcm-004",
+      "question": "Quel engagement financier les pays de l'Otan ont-ils pris en 2014 ?",
+      "options": [
+        "Consacrer chaque année au moins 5 % de leur PIB national aux dépenses de défense",
+        "Consacrer chaque année au moins 2 % de leur PIB national aux dépenses de défense",
+        "Financer intégralement et seuls les forces armées américaines stationnées en Europe",
+        "Supprimer totalement toute contribution financière individuelle des membres"
+      ],
+      "answer": 1,
+      "explanation": "Les États membres se sont engagés en 2014 à consacrer au moins 2 % de leur PIB aux dépenses de défense ; 23 des 32 pays avaient atteint ou dépassé cet objectif en 2024, contre six en 2021.",
+      "tags": [
+        "dépenses de défense",
+        "2014"
+      ]
+    },
+    {
+      "id": "otan-qcm-005",
+      "question": "Quels pays ont rejoint l'Otan après le déclenchement de la guerre en Ukraine en 2022 ?",
+      "options": [
+        "L'Ukraine et la Géorgie, deux candidats déjà officiellement actés depuis 2008",
+        "La Finlande et la Suède, deux pays historiquement neutres en Europe du Nord",
+        "La Bosnie-Herzégovine et la Serbie, deux anciens pays de la fédération yougoslave",
+        "Aucun nouveau pays n'a rejoint l'Otan depuis le début du conflit en Ukraine"
+      ],
+      "answer": 1,
+      "explanation": "La Finlande et la Suède, pays historiquement neutres, ont intégré l'Otan respectivement en 2023 et 2024, en réaction directe à la dégradation du contexte sécuritaire causée par la guerre en Ukraine.",
+      "tags": [
+        "élargissement",
+        "finlande suède"
+      ]
+    }
+  ]
+}

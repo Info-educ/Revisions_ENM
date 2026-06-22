@@ -1,0 +1,107 @@
+{
+  "id": "taiwan-chine-2025",
+  "title": "Taïwan, un territoire sous la menace de la Chine",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "taiwan25-fc-001",
+      "front": "Qu'est-ce que le « bouclier de silicium » de Taïwan ?",
+      "back": "L'idée, popularisée par Craig Addison, que le rôle prédominant de Taïwan dans la production mondiale de semi-conducteurs, via des fonderies comme TSMC, protège l'archipel contre une attaque chinoise.",
+      "tags": [
+        "semi-conducteurs",
+        "tsmc"
+      ]
+    },
+    {
+      "id": "taiwan25-fc-002",
+      "front": "Qu'est-ce que le « consensus de 1992 » entre Taïwan et la Chine ?",
+      "back": "Un accord issu d'une rencontre entre autorités taïwanaises et chinoises reconnaissant qu'il n'existe qu'« une seule Chine », sans accord sur ce que cela implique pour chaque régime.",
+      "tags": [
+        "consensus de 1992",
+        "relations chine-taïwan"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "taiwan25-qcm-001",
+      "question": "Quel événement de 1949 a entraîné la scission entre Taïwan et la Chine continentale ?",
+      "options": [
+        "La victoire des communistes sur le Kuomintang à l'issue de la guerre civile",
+        "Un traité de partition de la Chine signé entre Mao Zedong et le Royaume-Uni",
+        "L'indépendance de Taïwan proclamée à la suite d'un référendum populaire local",
+        "Le retrait volontaire et négocié du Japon de son occupation coloniale de l'île"
+      ],
+      "answer": 0,
+      "explanation": "La guerre civile entre communistes et Kuomintang s'est achevée en 1949 par la victoire communiste ; Tchang Kaï-chek a alors transféré le gouvernement nationaliste à Taïwan pour y poursuivre la lutte.",
+      "tags": [
+        "1949",
+        "kuomintang"
+      ]
+    },
+    {
+      "id": "taiwan25-qcm-002",
+      "question": "Quelle conséquence a eu le vote de l'ONU de 1971 pour Taïwan ?",
+      "options": [
+        "Taïwan a perdu son siège à l'ONU au profit de la République populaire de Chine",
+        "Taïwan a obtenu un siège permanent au Conseil de sécurité des Nations unies",
+        "La République populaire de Chine a été exclue de toutes les instances onusiennes",
+        "Taïwan a intégré simultanément le FMI et la Banque mondiale cette même année"
+      ],
+      "answer": 0,
+      "explanation": "En 1971, les États membres de l'ONU ont voté le transfert du siège occupé par Taïwan, sous le nom de République de Chine, à la République populaire de Chine, marquant le début de son isolement diplomatique.",
+      "tags": [
+        "onu",
+        "1971"
+      ]
+    },
+    {
+      "id": "taiwan25-qcm-003",
+      "question": "Quelle position les États-Unis adoptent-ils officiellement envers Taïwan depuis 1979 ?",
+      "options": [
+        "Une garantie militaire automatique et explicite en cas d'attaque chinoise directe",
+        "Une rupture complète de toute relation, y compris commerciale et militaire avec Taïwan",
+        "Une « ambiguïté stratégique » combinant non-reconnaissance et ventes d'armes défensives",
+        "Une reconnaissance diplomatique pleine et entière de Taïwan en tant qu'État"
+      ],
+      "answer": 2,
+      "explanation": "Depuis la reconnaissance de la République populaire de Chine en 1979, les États-Unis ne reconnaissent plus Taïwan mais lui fournissent des armes défensives, sans s'engager formellement à le défendre militairement.",
+      "tags": [
+        "états-unis",
+        "ambiguïté stratégique"
+      ]
+    },
+    {
+      "id": "taiwan25-qcm-004",
+      "question": "Comment l'élection de Tsai Ing-wen en 2016 a-t-elle affecté les relations avec Pékin ?",
+      "options": [
+        "Elle a entraîné un renforcement immédiat des liens économiques bilatéraux officiels",
+        "Elle a conduit la Chine à suspendre ses relations diplomatiques avec Taïwan",
+        "Elle a permis la signature d'un nouveau traité bilatéral de réunification pacifique",
+        "Elle n'a eu finalement aucun impact, la présidente ayant reconnu le consensus de 1992"
+      ],
+      "answer": 1,
+      "explanation": "Tsai Ing-wen a refusé de reconnaître le consensus de 1992, ce qui a conduit la Chine à suspendre ses relations diplomatiques avec Taïwan dès son élection en janvier 2016.",
+      "tags": [
+        "tsai ing-wen",
+        "2016"
+      ]
+    },
+    {
+      "id": "taiwan25-qcm-005",
+      "question": "Comment évolue la reconnaissance diplomatique internationale de Taïwan depuis 2016 ?",
+      "options": [
+        "Elle progresse fortement avec l'adhésion de nombreux nouveaux pays européens",
+        "Elle reste parfaitement stable, aucun pays n'ayant changé d'alliance depuis",
+        "Elle décline nettement, plusieurs pays rompant leurs liens au profit de Pékin",
+        "Elle a totalement disparu, aucun État ne reconnaissant plus Taïwan aujourd'hui"
+      ],
+      "answer": 2,
+      "explanation": "Plusieurs pays, dont la République dominicaine, le Burkina Faso ou Nauru, ont rompu leurs relations diplomatiques avec Taïwan au profit de la Chine depuis 2018, réduisant à 12 le nombre d'États qui le reconnaissent.",
+      "tags": [
+        "reconnaissance diplomatique",
+        "isolement"
+      ]
+    }
+  ]
+}

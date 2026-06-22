@@ -1,0 +1,107 @@
+{
+  "id": "israel-palestine-2024",
+  "title": "L'enlisement du conflit israélo-palestinien",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "israel24-fc-001",
+      "front": "Qu'est-ce que la solution à deux États prônée par l'ONU ?",
+      "back": "Une coexistence d'Israël et d'une Palestine indépendante et souveraine, fondée sur les frontières d'avant 1967, avec Jérusalem comme capitale des deux États.",
+      "tags": [
+        "solution deux états",
+        "onu"
+      ]
+    },
+    {
+      "id": "israel24-fc-002",
+      "front": "Quel statut juridique l'ONU donne-t-elle aux colonies israéliennes en Cisjordanie ?",
+      "back": "L'ONU les considère comme illégales au regard du droit international, malgré leur reconnaissance par le gouvernement israélien pour certaines d'entre elles.",
+      "tags": [
+        "colonies",
+        "droit international"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "israel24-qcm-001",
+      "question": "Sur la base de quelle décision internationale Israël a-t-il proclamé son indépendance en 1948 ?",
+      "options": [
+        "Un plan de partage de la Palestine voté par l'Assemblée générale de l'ONU en 1947",
+        "Un accord bilatéral signé directement avec le Royaume-Uni, puissance mandataire",
+        "Un vote du Conseil de sécurité de l'ONU imposant directement la partition territoriale",
+        "Un traité de paix préalablement négocié avec l'ensemble des États arabes voisins"
+      ],
+      "answer": 0,
+      "explanation": "Le plan de partage de la Palestine a été voté à l'ONU en 1947, prévoyant un État juif, un État arabe et une zone internationale à Jérusalem ; ce n'est pas le Conseil de sécurité mais l'Assemblée générale qui a voté ce plan.",
+      "tags": [
+        "1948",
+        "plan de partage"
+      ]
+    },
+    {
+      "id": "israel24-qcm-002",
+      "question": "Quelle conséquence territoriale a eu la guerre des Six Jours de juin 1967 pour Israël ?",
+      "options": [
+        "La conquête militaire par Israël de la Cisjordanie, de Gaza, du Sinaï et du Golan",
+        "Le retrait complet et immédiat d'Israël de tous les territoires occupés depuis 1948",
+        "La création immédiate d'un État palestinien souverain officiellement reconnu par l'ONU",
+        "L'annexion définitive et internationalement reconnue de l'ensemble du Sinaï égyptien"
+      ],
+      "answer": 0,
+      "explanation": "Israël s'est emparé en juin 1967 de la Cisjordanie (dont Jérusalem-Est), de la bande de Gaza, du Sinaï égyptien et du plateau du Golan syrien ; le Sinaï a ensuite été rendu à l'Égypte en 1979.",
+      "tags": [
+        "guerre des six jours",
+        "1967"
+      ]
+    },
+    {
+      "id": "israel24-qcm-003",
+      "question": "Que prévoyaient les accords d'Oslo signés en 1993 ?",
+      "options": [
+        "La création immédiate et internationalement reconnue d'un État palestinien souverain",
+        "La reconnaissance mutuelle entre Israël et l'OLP et l'autonomie palestinienne locale",
+        "Le retrait total et définitif de l'armée israélienne de la bande de Gaza occupée",
+        "L'intégration officielle et durable de la Cisjordanie au territoire jordanien"
+      ],
+      "answer": 1,
+      "explanation": "Les accords d'Oslo prévoient que l'OLP reconnaît le droit d'Israël à exister en paix, tandis qu'Israël reconnaît le droit des Palestiniens à s'autogouverner en Cisjordanie et à Gaza, sans créer d'État souverain.",
+      "tags": [
+        "accords d'oslo",
+        "1993"
+      ]
+    },
+    {
+      "id": "israel24-qcm-004",
+      "question": "Comment le Hamas a-t-il pris le contrôle de la bande de Gaza en 2007 ?",
+      "options": [
+        "Par une victoire électorale suivie d'une prise de pouvoir armée contre le Fatah",
+        "Par une décision unilatérale et totalement pacifique de retrait du Fatah local",
+        "Par une médiation internationale ayant officiellement transféré le pouvoir au Hamas",
+        "Par un référendum populaire organisé à Gaza sous la supervision directe de l'ONU"
+      ],
+      "answer": 0,
+      "explanation": "Après sa victoire aux élections législatives de 2006, le Hamas a pris le pouvoir par la force à Gaza en juin 2007 à l'issue d'une guerre civile contre le Fatah, qui refusait de lui laisser exercer son mandat.",
+      "tags": [
+        "hamas",
+        "blocus de gaza"
+      ]
+    },
+    {
+      "id": "israel24-qcm-005",
+      "question": "Quel statu quo régit l'administration de l'esplanade des Mosquées depuis 1967 ?",
+      "options": [
+        "Une gestion exclusivement israélienne interdisant tout accès aux fidèles musulmans",
+        "Une administration par le Waqf jordanien, sans prière des non-musulmans autorisée",
+        "Une cogestion internationale placée sous le mandat direct des Nations unies",
+        "Un partage territorial strictement égal entre autorités israéliennes et palestiniennes"
+      ],
+      "answer": 1,
+      "explanation": "Depuis la conquête de Jérusalem-Est en 1967, le Waqf, fondation islamique jordanienne, administre le site ; les non-musulmans peuvent le visiter à certaines heures mais n'y sont pas autorisés à prier.",
+      "tags": [
+        "jérusalem",
+        "esplanade des mosquées"
+      ]
+    }
+  ]
+}
