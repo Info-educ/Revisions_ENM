@@ -65,6 +65,12 @@
       "file": "intro-droit-general.json",
       "title": "Introduction générale au droit — Histoire, codification et systèmes juridiques",
       "category": "Introduction au droit"
+    },
+    {
+      "id": "metiers-droit",
+      "file": "metiers-droit.json",
+      "title": "Les métiers du droit — Panorama des professions juridiques et judiciaires",
+      "category": "Introduction au droit"
     }
   ]
 }

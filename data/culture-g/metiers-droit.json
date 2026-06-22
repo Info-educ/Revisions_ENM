@@ -1,0 +1,180 @@
+{
+  "id": "metiers-droit",
+  "title": "Les métiers du droit — Panorama des professions juridiques et judiciaires",
+  "category": "Introduction au droit",
+  "flashcards": [],
+  "qcm": [
+    {
+      "id": "metiers-droit-qcm-001",
+      "question": "Quelles sont les deux grandes missions de l'avocat dans l'exercice de sa profession ?",
+      "options": [
+        "Conseil, négociation et rédaction d'actes d'une part ; défense et plaidoirie d'autre part",
+        "Authentification des actes juridiques ; organisation et direction des ventes aux enchères",
+        "Représentation obligatoire devant la Cour de cassation ; recouvrement amiable des créances",
+        "Rédaction des procès-verbaux d'audience ; gestion des procédures collectives d'entreprises"
+      ],
+      "answer": 0,
+      "explanation": "L'avocat exerce deux missions principales : le conseil et la négociation (consultations, rédaction d'actes, accords amiables) et la défense contentieuse (représentation du client, stratégie, plaidoirie). En 2019 : 69 900 avocats dans 164 barreaux.",
+      "tags": [
+        "avocat",
+        "conseil",
+        "défense contentieuse"
+      ]
+    },
+    {
+      "id": "metiers-droit-qcm-002",
+      "question": "Quel est le rôle spécifique de l'avocat aux Conseils, qui le distingue de l'avocat ordinaire ?",
+      "options": [
+        "Conseiller et défendre les clients devant toutes les juridictions civiles et pénales",
+        "Défendre les entreprises en procédure collective devant les tribunaux de commerce",
+        "Assurer la représentation obligatoire en cassation et conseiller devant le Conseil d'État",
+        "Conseiller en droit de la famille et authentifier les actes sous seing privé des clients"
+      ],
+      "answer": 2,
+      "explanation": "L'avocat aux Conseils conseille les justiciables devant la Cour de cassation et le Conseil d'État, assure la représentation obligatoire en cassation, et peut intervenir devant le Conseil constitutionnel et les juridictions internationales (CJUE, CEDH). En 2020 : 126 avocats aux Conseils.",
+      "tags": [
+        "avocat aux conseils",
+        "cour de cassation",
+        "conseil d'état"
+      ]
+    },
+    {
+      "id": "metiers-droit-qcm-003",
+      "question": "Quelle distinction fondamentale existe entre les magistrats du siège et les magistrats du parquet ?",
+      "options": [
+        "Le siège juge les affaires pénales ; le parquet prononce les jugements en matière civile",
+        "Le siège est désigné par le Conseil d'État ; le parquet relève de l'ordre administratif",
+        "Le siège est inamovible et juge ; le parquet poursuit et dépend du garde des Sceaux",
+        "Le siège tranche les litiges administratifs ; le parquet intervient au pénal seulement"
+      ],
+      "answer": 2,
+      "explanation": "Les magistrats du siège jugent les litiges et sont indépendants et inamovibles. Les magistrats du parquet défendent l'intérêt de la société (ordre public), décident des poursuites et sont placés sous l'autorité du garde des Sceaux. En 2019 : ≈8 600 magistrats — 75 % siège, 25 % parquet.",
+      "tags": [
+        "magistrat",
+        "siège",
+        "parquet",
+        "inamovibilité"
+      ]
+    },
+    {
+      "id": "metiers-droit-qcm-004",
+      "question": "Qu'est-ce qui caractérise principalement la qualité d'officier public du notaire et ses conséquences ?",
+      "options": [
+        "Officier public, il authentifie les actes et leur confère une force probante renforcée",
+        "Il représente les parties devant les juridictions civiles pour les litiges patrimoniaux",
+        "Il contrôle la légalité des actes administratifs et peut les annuler en cas d'illégalité",
+        "Il est compétent pour liquider les sociétés en difficulté et distribuer l'actif résiduel"
+      ],
+      "answer": 0,
+      "explanation": "En tant qu'officier public, le notaire authentifie les actes, qui acquièrent une force probante renforcée (acte authentique faisant foi jusqu'à inscription en faux). Il intervient en droit de la famille, immobilier, droit des entreprises et droit rural. En 2020 : 15 035 notaires, 6 275 offices.",
+      "tags": [
+        "notaire",
+        "officier public",
+        "authenticité"
+      ]
+    },
+    {
+      "id": "metiers-droit-qcm-005",
+      "question": "Parmi les missions suivantes, laquelle est spécifiquement celle de l'huissier de justice ?",
+      "options": [
+        "Authentifier les actes de gestion du patrimoine des particuliers et des entreprises",
+        "Signifier les actes et décisions de justice, et recouvrer les créances par voie forcée",
+        "Gérer l'entreprise en période d'observation et mettre en œuvre son plan de redressement",
+        "Inventorier les biens et diriger les ventes aux enchères judiciaires et volontaires"
+      ],
+      "answer": 1,
+      "explanation": "L'huissier de justice informe des actions en justice (assignation, citation), porte les décisions à la connaissance des parties, veille à leur exécution, et recouvre les créances (amiable ou forcé : saisies, expulsions). Il établit aussi des constats probants. En 2019 : 3 184 huissiers, 1 679 études.",
+      "tags": [
+        "huissier de justice",
+        "signification",
+        "recouvrement"
+      ]
+    },
+    {
+      "id": "metiers-droit-qcm-006",
+      "question": "Quelle conséquence grave peut entraîner l'absence du greffier lors d'un acte juridictionnel ?",
+      "options": [
+        "La suspension automatique de la procédure pour une durée de trente jours ouvrables maximum",
+        "L'obligation pour le juge de statuer seul sans s'appuyer sur aucun élément de preuve écrit",
+        "La nullité de l'acte accompli, illustrant l'importance de son rôle d'authentification",
+        "Le renvoi automatique de l'affaire devant la juridiction supérieure compétente à cet effet"
+      ],
+      "answer": 2,
+      "explanation": "Le greffier assiste le juge et authentifie les actes de la juridiction. Son absence peut entraîner la nullité de l'acte accompli. Il enregistre les affaires, prépare les dossiers, rédige les procès-verbaux et met en forme les décisions.",
+      "tags": [
+        "greffier",
+        "nullité",
+        "authentification"
+      ]
+    },
+    {
+      "id": "metiers-droit-qcm-007",
+      "question": "Quelle loi a instauré la distinction entre commissaire-priseur judiciaire et société de ventes volontaires ?",
+      "options": [
+        "La loi du 10 juillet 2000, séparant ventes judiciaires (CNCPJ) et ventes volontaires (SVV)",
+        "La loi du 1er janvier 1991, instaurant un statut unifié des ventes aux enchères publiques",
+        "La loi du 15 mai 2011, transposant la directive européenne sur les services aux enchères",
+        "La loi du 9 décembre 2016, réformant le statut des officiers publics et ministériels"
+      ],
+      "answer": 0,
+      "explanation": "La loi du 10 juillet 2000 a établi la distinction entre le commissaire-priseur judiciaire (CNCPJ, pour les ventes ordonnées en justice) et la société de ventes volontaires (SVV, pour les ventes amiables). Les autres dates sont fictives.",
+      "tags": [
+        "commissaire-priseur",
+        "ventes aux enchères",
+        "loi 2000"
+      ]
+    },
+    {
+      "id": "metiers-droit-qcm-008",
+      "question": "Quelle est la mission principale du juriste ou responsable juridique en entreprise ?",
+      "options": [
+        "Représenter la structure en justice devant les tribunaux civils et commerciaux nationaux",
+        "Apporter un conseil juridique interne varié, en complément du recours au conseil externe",
+        "Certifier la régularité des comptes annuels et des opérations de fusion-acquisition",
+        "Authentifier les actes de l'entreprise et les rendre opposables aux tiers sans notaire"
+      ],
+      "answer": 1,
+      "explanation": "Le juriste ou responsable juridique est un conseil interne à la structure (entreprise, association, syndicat, fondation) sur des questions variées (droit commercial, droit du travail, propriété intellectuelle). Il intervient en complément — non en remplacement — du conseil externe.",
+      "tags": [
+        "juriste d'entreprise",
+        "conseil interne",
+        "métiers du droit"
+      ]
+    },
+    {
+      "id": "metiers-droit-qcm-009",
+      "question": "Quelle différence de statut distingue les officiers de la Gendarmerie nationale des officiers de la Police nationale ?",
+      "options": [
+        "La gendarmerie est rattachée au ministère de l'Intérieur, tout comme la police nationale",
+        "Le gendarme officier a un statut militaire, l'officier de police nationale un statut civil",
+        "La gendarmerie intervient en zone rurale ; la police couvre les agglomérations urbaines",
+        "Les officiers de gendarmerie sont nommés par le CSM, contrairement aux officiers de police"
+      ],
+      "answer": 1,
+      "explanation": "Les officiers de la Gendarmerie nationale ont un statut militaire, tandis que les officiers de la Police nationale ont un statut civil. En 2018 : ≈6 700 officiers de gendarmerie et ≈10 000 officiers de police dont 1 700 commissaires. L'option A est fausse (la gendarmerie relève du ministère de l'Intérieur comme la police, ce n'est pas une distinction).",
+      "tags": [
+        "gendarmerie",
+        "police nationale",
+        "statut militaire"
+      ]
+    },
+    {
+      "id": "metiers-droit-qcm-010",
+      "question": "Qu'est-ce que l'IEJ et quel est son rôle dans l'accès aux professions juridiques et judiciaires ?",
+      "options": [
+        "Un institut des barreaux qui délivre le certificat d'aptitude à la profession d'avocat",
+        "Une juridiction statuant sur les litiges relatifs à l'accès aux professions réglementées",
+        "Un institut universitaire préparant aux concours des professions juridiques et judiciaires",
+        "Un organisme gérant la formation continue obligatoire des avocats, notaires et huissiers"
+      ],
+      "answer": 2,
+      "explanation": "L'Institut d'études judiciaires (IEJ), rattaché aux universités, prépare aux concours d'accès aux professions juridiques : CRFPA (avocat), ENM (magistrat), greffier en chef, police, gendarmerie. En 2020 : 74 universités et 47 IEJ. Le CAPA (option A) est délivré par l'école du barreau après le CRFPA.",
+      "tags": [
+        "IEJ",
+        "CRFPA",
+        "ENM",
+        "concours"
+      ]
+    }
+  ]
+}
