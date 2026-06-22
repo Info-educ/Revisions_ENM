@@ -1,0 +1,86 @@
+{
+  "id": "intelligence-artificielle-vies",
+  "title": "Comment l'intelligence artificielle a envahi nos vies",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "ia-fc-001",
+      "front": "Quelles sont les quatre fonctions clés sur lesquelles repose l'intelligence artificielle ?",
+      "back": "Selon Malik Ghallab, directeur de recherche émérite au CNRS, l'IA repose sur la perception, le raisonnement, l'action et l'apprentissage. Elle perçoit une image, un son ou un texte, interprète une situation, planifie des actions et apprend à partir d'un grand nombre de données.",
+      "tags": ["intelligence artificielle", "fonctionnement"]
+    },
+    {
+      "id": "ia-fc-002",
+      "front": "Quel est l'impact estimé de l'IA sur l'emploi selon le FMI en janvier 2024 ?",
+      "back": "Près de 40 % des emplois dans le monde et 60 % dans les économies avancées risquent d'être affectés. Environ la moitié bénéficiera d'une hausse de productivité, l'autre moitié subira une concurrence pouvant entraîner une baisse des salaires ou la disparition de certains emplois.",
+      "tags": ["emploi", "fmi"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "ia-qcm-001",
+      "question": "Quelle avancée a marqué la victoire de Deep Blue sur Garry Kasparov en 1997 ?",
+      "options": [
+        "La première victoire d'un programme capable d'apprendre en jouant contre lui-même",
+        "Une machine calculant 200 millions de coups par seconde bat le champion du monde",
+        "Le premier robot conversationnel capable de dialoguer en langage naturel humain",
+        "La création du premier réseau de neurones artificiels inspiré du cerveau humain"
+      ],
+      "answer": 1,
+      "explanation": "Deep Blue, développé par IBM, a battu Kasparov en calculant 200 millions de coups par seconde, marquant une frontière symbolique. C'est AlphaGo, bien plus tard, qui illustrera un système apprenant en jouant contre lui-même.",
+      "tags": ["deep blue", "histoire"]
+    },
+    {
+      "id": "ia-qcm-002",
+      "question": "Qu'est-ce que le « deep learning » selon la définition donnée dans le document ?",
+      "options": [
+        "Une base de données regroupant toutes les images disponibles sur Internet aujourd'hui",
+        "Une méthode où un humain programme lui-même chaque règle de décision à suivre",
+        "Une méthode permettant à une machine d'apprendre une tâche sans procédure dictée",
+        "Un protocole de sécurité empêchant les piratages des systèmes d'intelligence artificielle"
+      ],
+      "answer": 2,
+      "explanation": "Le deep learning s'appuie sur un réseau de neurones artificiels permettant à la machine d'apprendre à effectuer une tâche, comme reconnaître une image, sans qu'un humain précise explicitement la procédure à suivre.",
+      "tags": ["deep learning", "apprentissage"]
+    },
+    {
+      "id": "ia-qcm-003",
+      "question": "Quel événement de janvier 2015 a alerté sur les conséquences sociales de l'IA ?",
+      "options": [
+        "Le lancement officiel du robot conversationnel ChatGPT par l'entreprise OpenAI",
+        "Une lettre ouverte de chercheurs appelant à maximiser les bénéfices sociaux",
+        "L'adoption d'une loi internationale interdisant les voitures totalement autonomes",
+        "La première condamnation judiciaire d'une entreprise pour usage abusif de l'IA"
+      ],
+      "answer": 1,
+      "explanation": "Des chercheurs et personnalités comme Yann LeCun et Elon Musk ont signé une lettre ouverte appelant à un développement de l'IA maximisant les bénéfices sociaux, évoquant l'emploi, la vie privée et l'éthique des véhicules autonomes.",
+      "tags": ["lettre ouverte", "éthique"]
+    },
+    {
+      "id": "ia-qcm-004",
+      "question": "Quelle différence opposait initialement ChatGPT et Bard lors du lancement de ce dernier ?",
+      "options": [
+        "Bard pouvait se connecter à Internet, alors que ChatGPT se limitait à ses données fournies",
+        "ChatGPT était développé par Google, tandis que Bard appartenait à OpenAI à l'époque",
+        "Bard ne pouvait générer aucun texte, contrairement à ChatGPT dès son lancement",
+        "ChatGPT était uniquement disponible en Chine au moment du lancement de Bard"
+      ],
+      "answer": 0,
+      "explanation": "Lors de son lancement en février 2023, Bard pouvait se connecter à Internet pour des réponses actualisées, alors que ChatGPT se limitait alors aux données fournies jusqu'en septembre 2021, avant d'acquérir cette capacité en septembre 2023.",
+      "tags": ["chatgpt", "bard"]
+    },
+    {
+      "id": "ia-qcm-005",
+      "question": "Pourquoi plusieurs artistes et le New York Times ont-ils porté plainte en 2023 ?",
+      "options": [
+        "Ils contestaient le coût trop faible des abonnements proposés par les entreprises d'IA",
+        "Ils dénonçaient l'usage de leurs contenus pour entraîner des IA sans contrepartie",
+        "Ils réclamaient l'interdiction totale de toute intelligence artificielle générative",
+        "Ils accusaient les entreprises d'IA de divulguer publiquement leurs données personnelles"
+      ],
+      "answer": 1,
+      "explanation": "Ces plaintes pour violation du droit d'auteur reposaient sur l'idée que les programmes d'IA générative avaient été entraînés à partir de leurs œuvres et articles sans qu'aucune contrepartie ne leur soit versée.",
+      "tags": ["droits d'auteur", "ia générative"]
+    }
+  ]
+}

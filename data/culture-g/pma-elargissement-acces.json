@@ -1,0 +1,86 @@
+{
+  "id": "pma-elargissement-acces",
+  "title": "La PMA, un élargissement de l'accès à la procréation",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "pma-fc-001",
+      "front": "Qu'a changé la loi de bioéthique adoptée définitivement le 29 juin 2021 ?",
+      "back": "Elle élargit l'accès à la procréation médicalement assistée (PMA) aux couples de femmes et aux femmes célibataires, alors qu'elle était auparavant réservée aux couples hétérosexuels confrontés à des problèmes de fertilité. La gestation pour autrui (GPA) reste interdite en France.",
+      "tags": ["pma", "bioéthique"]
+    },
+    {
+      "id": "pma-fc-002",
+      "front": "Qu'est-ce qu'un « parent d'intention » et depuis quand la jurisprudence le reconnaît-elle ?",
+      "back": "Un parent d'intention a désiré un enfant et souhaite l'éduquer sans nécessairement avoir de lien biologique avec lui. La Cour de cassation a reconnu pour la première fois en octobre 2019 un lien de filiation fondé sur ce statut, au nom de l'intérêt supérieur de l'enfant.",
+      "tags": ["parent d'intention", "filiation"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "pma-qcm-001",
+      "question": "Quelle est la technique de PMA aboutissant au plus grand nombre de naissances en France ?",
+      "options": [
+        "L'insémination artificielle, disponible depuis la fin du XVIIIe siècle déjà",
+        "L'injection intracytoplasmique de spermatozoïde, disponible depuis 1992 seulement",
+        "La fécondation in vitro classique sans sélection préalable du spermatozoïde utilisé",
+        "Le transfert direct d'embryons congelés sans aucune étape de fécondation préalable"
+      ],
+      "answer": 1,
+      "explanation": "L'ICSI, qui repose sur la sélection d'un seul spermatozoïde injecté directement dans l'ovocyte et disponible depuis 1992, est la technique aboutissant au plus grand nombre de naissances, devant l'insémination artificielle et la FIV classique.",
+      "tags": ["icsi", "fiv"]
+    },
+    {
+      "id": "pma-qcm-002",
+      "question": "Quelle condition la loi de bioéthique antérieure à 2021 imposait-elle aux couples pour accéder à la PMA ?",
+      "options": [
+        "Être un couple hétérosexuel en âge de procréer, marié ou en vie commune depuis deux ans",
+        "Résider en France depuis au moins cinq ans avant le dépôt de la demande médicale",
+        "Avoir préalablement adopté un enfant avant toute demande de procréation assistée",
+        "Justifier d'un accord écrit de l'Agence de biomédecine renouvelé chaque année"
+      ],
+      "answer": 0,
+      "explanation": "Le Code de la santé publique limitait l'accès aux couples hétérosexuels en âge de procréer, mariés ou en mesure de prouver une vie commune d'au moins deux ans, en cas d'infertilité diagnostiquée ou de risque de transmission d'une maladie grave.",
+      "tags": ["code de la santé publique", "conditions"]
+    },
+    {
+      "id": "pma-qcm-003",
+      "question": "Quel avis le Comité consultatif national d'éthique (CCNE) a-t-il rendu en juin 2017 ?",
+      "options": [
+        "Un avis défavorable à toute évolution possible de l'accès à la PMA en France",
+        "Un avis favorable à l'élargissement de la PMA, mais aussi favorable à la GPA",
+        "Un avis favorable à l'élargissement de la PMA aux couples de femmes et femmes seules",
+        "Un avis demandant le remboursement intégral de la GPA réalisée à l'étranger"
+      ],
+      "answer": 2,
+      "explanation": "Le CCNE s'est prononcé pour la première fois en juin 2017 en faveur de l'élargissement de l'accès à la PMA aux couples de femmes et aux femmes seules, tout en se prononçant contre la GPA, jugée attentatoire à l'intégrité des femmes.",
+      "tags": ["ccne", "avis"]
+    },
+    {
+      "id": "pma-qcm-004",
+      "question": "Que prévoyait le projet de loi de bioéthique concernant le remboursement de la PMA ?",
+      "options": [
+        "Un remboursement partiel limité aux seules femmes vivant en couple hétérosexuel",
+        "Un remboursement total par la Sécurité sociale comme pour les autres cas existants",
+        "Une prise en charge exclusivement réservée aux femmes de moins de trente ans",
+        "L'absence de tout remboursement afin de financer les maisons d'accompagnement"
+      ],
+      "answer": 1,
+      "explanation": "Le projet de loi présenté en juillet 2019 prévoyait le remboursement total de la procédure de PMA par la Sécurité sociale, conformément aux modalités déjà appliquées pour les autres cas de recours à la PMA.",
+      "tags": ["remboursement", "sécurité sociale"]
+    },
+    {
+      "id": "pma-qcm-005",
+      "question": "Que dit la Convention d'Oviedo, signée en 1997, à propos de la PMA ?",
+      "options": [
+        "Elle autorise sans restriction l'utilisation de la PMA pour choisir le sexe de l'enfant",
+        "Elle impose à tous les États signataires d'autoriser la GPA sur leur territoire",
+        "Elle interdit l'utilisation de la PMA pour choisir le sexe de l'enfant à naître",
+        "Elle ne concerne que les pays situés en dehors du continent européen actuel"
+      ],
+      "answer": 2,
+      "explanation": "La Convention d'Oviedo, seul instrument juridique international contraignant en matière de bioéthique, affirme la primauté de l'intérêt de l'être humain et interdit explicitement l'utilisation de la PMA pour choisir le sexe de l'enfant.",
+      "tags": ["convention d'oviedo", "bioéthique"]
+    }
+  ]
+}

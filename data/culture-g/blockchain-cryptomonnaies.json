@@ -1,0 +1,86 @@
+{
+  "id": "blockchain-cryptomonnaies",
+  "title": "La blockchain, une technologie à la base des cryptomonnaies",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "blockchain-fc-001",
+      "front": "Qu'est-ce que la blockchain et quel problème permet-elle de résoudre ?",
+      "back": "Une technologie de stockage et de transmission d'informations transparente, sécurisée par cryptographie, sans organe de contrôle central. Elle permet de se passer d'un tiers de confiance en confiant la vérification des transactions à un réseau d'ordinateurs, consignées dans un registre distribué partagé.",
+      "tags": ["blockchain", "registre distribué"]
+    },
+    {
+      "id": "blockchain-fc-002",
+      "front": "Pourquoi le minage de bitcoins est-il critiqué sur le plan environnemental ?",
+      "back": "La validation des transactions nécessite des calculs cryptographiques très énergivores, qui protègent le système des piratages mais consomment une quantité d'électricité considérable, plus de 95 TWh en 2022 selon le Cambridge Center for Alternative Finance, davantage que la Belgique.",
+      "tags": ["bitcoin", "énergie"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "blockchain-qcm-001",
+      "question": "Quel rôle jouent les « mineurs » dans le fonctionnement de la blockchain Bitcoin ?",
+      "options": [
+        "Ils gèrent les serveurs centraux qui valident officiellement chaque transaction",
+        "Ils créent des blocs en résolvant un problème cryptographique et reçoivent un bitcoin",
+        "Ils représentent une banque centrale chargée de réguler l'émission de bitcoins",
+        "Ils détiennent une clé unique permettant de modifier le registre à tout moment"
+      ],
+      "answer": 1,
+      "explanation": "Les mineurs mettent à disposition leur puissance de calcul pour résoudre un problème cryptographique et créer un bloc, ce qui leur rapporte un bitcoin en rémunération. Il n'existe ni serveur central ni banque centrale ni possibilité de modifier unilatéralement le registre.",
+      "tags": ["minage", "bitcoin"]
+    },
+    {
+      "id": "blockchain-qcm-002",
+      "question": "Quelle limite technique freine la vitesse des transactions sur la blockchain Bitcoin ?",
+      "options": [
+        "Le processus décentralisé de validation ralentit fortement le nombre de transactions",
+        "Les banques centrales imposent un quota strict de transactions journalières",
+        "Le réseau Bitcoin est volontairement limité par son fondateur resté anonyme",
+        "Les ordinateurs personnels ne peuvent jamais en aucun cas se connecter au réseau"
+      ],
+      "answer": 0,
+      "explanation": "Le document précise que Bitcoin permet en moyenne cinq transactions par seconde contre plus de 4 400 pour Visa en 2020, en raison du processus décentralisé de validation, et non d'un quota imposé ou d'une limite technique d'accès.",
+      "tags": ["vitesse", "transactions"]
+    },
+    {
+      "id": "blockchain-qcm-003",
+      "question": "Qu'est-ce qui distingue une blockchain privée, comme celle développée par LVMH, Prada et Cartier ?",
+      "options": [
+        "Elle est accessible publiquement et fonctionne exactement comme celle du bitcoin",
+        "Elle garantit un niveau de confiance strictement identique à une blockchain publique",
+        "Ses administrateurs exercent un fort contrôle et peuvent modifier les données a posteriori",
+        "Elle interdit totalement toute forme de traçabilité pour les produits de luxe"
+      ],
+      "answer": 2,
+      "explanation": "À la différence des blockchains publiques comme Bitcoin ou Ethereum, une blockchain privée est contrôlée par ses administrateurs, qui peuvent modifier les données de traçabilité après leur enregistrement, ce qui réduit le niveau de confiance par rapport à une blockchain publique.",
+      "tags": ["blockchain privée", "luxe"]
+    },
+    {
+      "id": "blockchain-qcm-004",
+      "question": "Qu'est-ce qu'un « smart contract » selon l'exemple donné par l'assureur Axa ?",
+      "options": [
+        "Un contrat papier signé électroniquement mais nécessitant une validation humaine",
+        "Un engagement qui s'exécute automatiquement dès qu'une condition prédéfinie est remplie",
+        "Un type de cryptomonnaie utilisée exclusivement pour les assurances de voyage",
+        "Un protocole permettant de miner plus rapidement des bitcoins en cas de retard"
+      ],
+      "answer": 1,
+      "explanation": "Axa a testé un smart contract sur Ethereum déclenchant automatiquement le remboursement des assurés dès que leur vol dépassait deux heures de retard, sans intervention humaine, illustrant l'exécution automatique liée à une condition prédéfinie.",
+      "tags": ["smart contract", "ethereum"]
+    },
+    {
+      "id": "blockchain-qcm-005",
+      "question": "Que révèle le rapport du cabinet Chainalysis sur les usages illégaux des cryptomonnaies en 2020 ?",
+      "options": [
+        "Les activités illégales ont représenté 0,34 % des transactions, en net recul",
+        "Les cryptomonnaies ont été totalement interdites dans tous les pays du G7 cette année",
+        "La quasi-totalité des transactions en bitcoin ont financé des activités criminelles",
+        "Les autorités ont réussi à éliminer entièrement l'usage du darknet grâce à la blockchain"
+      ],
+      "answer": 0,
+      "explanation": "Selon Chainalysis, les activités illégales ont représenté 0,34 % des transactions en cryptomonnaies en 2020, contre 2,1 % en 2019, cette baisse étant liée à la forte hausse des échanges légitimes plutôt qu'à une diminution absolue des activités illicites.",
+      "tags": ["cryptomonnaie", "chainalysis"]
+    }
+  ]
+}

@@ -215,6 +215,36 @@
       "file": "role-marches-financiers.json",
       "title": "Le rôle croissant des marchés financiers",
       "category": "Culture générale"
+    },
+    {
+      "id": "blockchain-cryptomonnaies",
+      "file": "blockchain-cryptomonnaies.json",
+      "title": "La blockchain, une technologie à la base des cryptomonnaies",
+      "category": "Culture générale"
+    },
+    {
+      "id": "intelligence-artificielle-vies",
+      "file": "intelligence-artificielle-vies.json",
+      "title": "Comment l'intelligence artificielle a envahi nos vies",
+      "category": "Culture générale"
+    },
+    {
+      "id": "pma-elargissement-acces",
+      "file": "pma-elargissement-acces.json",
+      "title": "La PMA, un élargissement de l'accès à la procréation",
+      "category": "Culture générale"
+    },
+    {
+      "id": "fin-de-vie-pouvoir-malades",
+      "file": "fin-de-vie-pouvoir-malades.json",
+      "title": "Fin de vie : un pouvoir accru donné aux malades",
+      "category": "Culture générale"
+    },
+    {
+      "id": "temps-travail-debat",
+      "file": "temps-travail-debat.json",
+      "title": "Temps de travail : travailler moins pour travailler mieux ?",
+      "category": "Culture générale"
     }
   ]
 }

@@ -1,0 +1,86 @@
+{
+  "id": "fin-de-vie-pouvoir-malades",
+  "title": "Fin de vie : un pouvoir accru donné aux malades",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "finvie-fc-001",
+      "front": "Que prévoit la loi Claeys-Leonetti de 2016 et quelles en sont les conditions ?",
+      "back": "Elle autorise la sédation profonde et continue jusqu'au décès, associée à l'arrêt des traitements, pour les patients atteints d'une affection incurable présentant une souffrance intraitable et dont le pronostic vital est engagé à court terme. L'euthanasie et le suicide assisté restent interdits.",
+      "tags": ["loi claeys-leonetti", "sédation"]
+    },
+    {
+      "id": "finvie-fc-002",
+      "front": "Qu'est-ce que les directives anticipées et depuis quand doivent-elles être appliquées ?",
+      "back": "Une déclaration écrite par une personne majeure précisant ses souhaits concernant la poursuite, la limitation, l'arrêt ou le refus de traitements en cas d'incapacité à exprimer sa volonté. Introduites par la loi de 2005, elles doivent obligatoirement être appliquées par les médecins depuis 2016.",
+      "tags": ["directives anticipées", "loi 2016"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "finvie-qcm-001",
+      "question": "Quel évènement médiatisé a précédé l'adoption de la loi Leonetti de 2005 ?",
+      "options": [
+        "L'affaire Vincent Lambert, tétraplégique après un accident de la route en 2008",
+        "La décision de la Cour européenne des droits de l'homme validant un arrêt de soins",
+        "La mort de Vincent Humbert après une injection réalisée par son médecin en 2003",
+        "La création de la première unité de soins palliatifs à la Cité universitaire de Paris"
+      ],
+      "answer": 2,
+      "explanation": "La loi de 2005 a été adoptée deux ans après la mort très médiatisée de Vincent Humbert, tétraplégique après un accident en 2000, décédé après une injection de chlorure de potassium réalisée par son médecin, suite à une demande publique du droit de mourir.",
+      "tags": ["vincent humbert", "loi 2005"]
+    },
+    {
+      "id": "finvie-qcm-002",
+      "question": "Quelle a été l'issue judiciaire de l'affaire Vincent Lambert en 2015 ?",
+      "options": [
+        "La justice française a ordonné la reprise immédiate et définitive des traitements",
+        "La Cour européenne des droits de l'homme a validé l'arrêt des soins malgré les parents",
+        "Le Conseil constitutionnel a déclaré la loi Leonetti contraire à la Constitution",
+        "L'Assemblée nationale a voté une loi spécifique pour mettre fin au cas individuel"
+      ],
+      "answer": 1,
+      "explanation": "En 2015, la Cour européenne des droits de l'homme a validé l'arrêt des soins de Vincent Lambert malgré l'opposition de ses parents, illustrant les tensions entre les positions familiales et les décisions médicales et judiciaires.",
+      "tags": ["vincent lambert", "cedh"]
+    },
+    {
+      "id": "finvie-qcm-003",
+      "question": "Quelle position l'Ordre des médecins a-t-il exprimée à la veille des conclusions de la convention citoyenne de 2023 ?",
+      "options": [
+        "Un soutien total et sans réserve à la légalisation immédiate de l'euthanasie",
+        "Une défaveur à la participation d'un médecin à un processus menant à une euthanasie",
+        "Une demande de référendum national avant toute nouvelle évolution de la législation",
+        "Une proposition de transférer cette compétence aux seules autorités religieuses"
+      ],
+      "answer": 1,
+      "explanation": "L'Ordre des médecins s'est dit défavorable à la participation d'un médecin à un processus menant à une euthanasie, estimant qu'un médecin ne peut provoquer délibérément la mort, en amont des conclusions favorables de la convention citoyenne.",
+      "tags": ["ordre des médecins", "convention citoyenne"]
+    },
+    {
+      "id": "finvie-qcm-004",
+      "question": "Quelle proportion de décès survenait à l'hôpital en France selon les dernières données Insee de 2019 ?",
+      "options": [
+        "Environ un quart des décès, la majorité ayant lieu au domicile des personnes",
+        "Plus d'un décès sur deux, soit 53 % des décès enregistrés cette année précise",
+        "Moins de 10 % des décès, la quasi-totalité survenant en établissement Ehpad",
+        "La totalité des décès, la mort à domicile étant devenue impossible légalement"
+      ],
+      "answer": 1,
+      "explanation": "En 2019, 53 % des décès ont été enregistrés à l'hôpital, contre 24 % à domicile, 12 % en Ehpad et 11 % dans d'autres lieux, la part des décès à l'hôpital étant toutefois en baisse depuis le début des années 2000.",
+      "tags": ["insee", "lieu de décès"]
+    },
+    {
+      "id": "finvie-qcm-005",
+      "question": "Que montre la comparaison européenne sur l'encadrement de la fin de vie évoquée dans le document ?",
+      "options": [
+        "Tous les pays d'Europe de l'Ouest autorisent aujourd'hui l'euthanasie sans restriction",
+        "Cinq pays de l'UE, dont la Belgique et l'Espagne, ont dépénalisé ou légalisé l'euthanasie",
+        "Aucun pays européen n'autorise la limitation ou l'arrêt des traitements en fin de vie",
+        "Seule la France autorise actuellement une forme quelconque de sédation profonde"
+      ],
+      "answer": 1,
+      "explanation": "Le document précise que dans l'Union européenne, cinq pays, dont la Belgique et l'Espagne, ont dépénalisé ou légalisé l'euthanasie sous certaines conditions, ce qui distingue leur cadre juridique de celui de la France.",
+      "tags": ["union européenne", "euthanasie"]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "temps-travail-debat",
+  "title": "Temps de travail : travailler moins pour travailler mieux ?",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "tps-travail-fc-001",
+      "front": "Quelle est la durée légale du temps de travail en France et comment a-t-elle évolué ?",
+      "back": "Elle est de 35 heures par semaine ou 1 607 heures par an, fixée par la loi de 1998 portée par Martine Aubry (applicable à partir de 2000). Le temps de travail a diminué tout au long du XXe siècle avant de se stabiliser depuis le début des années 2000.",
+      "tags": ["35 heures", "loi aubry"]
+    },
+    {
+      "id": "tps-travail-fc-002",
+      "front": "Quels sont les principaux arguments opposés sur la réduction du temps de travail ?",
+      "back": "Les partisans estiment qu'elle permet de lutter contre le chômage, d'améliorer la qualité de vie et la productivité. Les détracteurs considèrent qu'elle freine la croissance économique et alourdit le coût du travail pour les entreprises.",
+      "tags": ["débat", "chômage"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "tps-travail-qcm-001",
+      "question": "Quelle réforme emblématique le Front populaire a-t-il fait adopter en 1936 ?",
+      "options": [
+        "L'instauration de la semaine de travail à 35 heures pour tous les salariés français",
+        "La création des conventions collectives et de deux semaines de congés payés",
+        "La généralisation du télétravail dans les administrations publiques françaises",
+        "La suppression totale des heures supplémentaires dans le secteur industriel"
+      ],
+      "answer": 1,
+      "explanation": "Les Accords de Matignon, conclus sous le gouvernement de Léon Blum, ont instauré les conventions collectives et deux semaines de congés payés, ainsi que la limitation de la semaine de travail à 40 heures, et non 35 heures qui date de 1998.",
+      "tags": ["front populaire", "matignon"]
+    },
+    {
+      "id": "tps-travail-qcm-002",
+      "question": "Selon l'économiste Jean Gadrey, quel a été l'effet de la loi de 1981 sur le temps partiel ?",
+      "options": [
+        "Elle a fait disparaître totalement le recours au temps partiel dans les entreprises",
+        "Elle a institué le temps partiel comme modalité normale d'offre d'emplois patronale",
+        "Elle a uniquement concerné les hommes travaillant dans le secteur industriel",
+        "Elle a immédiatement réduit les inégalités professionnelles entre femmes et hommes"
+      ],
+      "answer": 1,
+      "explanation": "Jean Gadrey analyse que la loi de 1981 a institué le temps partiel comme modalité normale d'offre d'emplois par le patronat plutôt que comme résultant principalement des choix des salariés, contribuant à des inégalités professionnelles persistantes.",
+      "tags": ["temps partiel", "jean gadrey"]
+    },
+    {
+      "id": "tps-travail-qcm-003",
+      "question": "Comment se positionne la France concernant la durée minimale légale de congés payés dans l'OCDE ?",
+      "options": [
+        "Elle figure parmi les pays ayant la durée minimale la plus courte de l'OCDE",
+        "Elle se situe dans la moyenne basse, juste devant le Mexique et le Canada actuels",
+        "Elle fait partie des pays ayant la plus longue durée, avec la Suède et le Danemark",
+        "Elle est le seul pays de l'OCDE à n'imposer aucune durée minimale légale aujourd'hui"
+      ],
+      "answer": 2,
+      "explanation": "Avec 25 jours de congés payés minimum, la France fait partie des pays de l'OCDE ayant la plus longue durée légale, à égalité avec la Suède et le Danemark, loin devant des pays comme le Mexique ou les États-Unis qui n'imposent aucun minimum.",
+      "tags": ["congés payés", "ocde"]
+    },
+    {
+      "id": "tps-travail-qcm-004",
+      "question": "Qu'est-ce que le « forfait jours » selon la définition donnée dans le document ?",
+      "options": [
+        "Un dispositif réservé exclusivement aux salariés travaillant à temps partiel",
+        "Une convention pour travailler en jours et non en heures, plafonnée à 218 jours par an",
+        "Un système de comptage des heures supplémentaires rémunérées en jours de repos",
+        "Une obligation légale appliquée uniquement aux salariés de la fonction publique"
+      ],
+      "answer": 1,
+      "explanation": "Le forfait jours est une convention individuelle permettant à certains salariés autonomes dans l'organisation de leur emploi du temps de travailler selon un nombre de jours dans l'année, fixé à 218 jours au maximum, plutôt qu'en heures.",
+      "tags": ["forfait jours", "temps de travail"]
+    },
+    {
+      "id": "tps-travail-qcm-005",
+      "question": "Que révèle la comparaison entre temps de travail légal et temps de travail effectif en France en 2023 ?",
+      "options": [
+        "Le temps de travail effectif des salariés à temps complet dépassait la durée légale",
+        "Tous les salariés français travaillaient strictement 35 heures sans aucun dépassement",
+        "Le temps de travail effectif était resté identique à celui de 1949 sans évolution",
+        "Aucune donnée chiffrée n'existe sur le temps de travail effectif réel des Français"
+      ],
+      "answer": 0,
+      "explanation": "Selon la Dares, le temps de travail effectif des salariés à temps complet s'établissait à 1 669 heures en 2023, dépassant la durée légale de 1 607 heures, notamment en raison des heures supplémentaires effectuées au-delà de 35 heures hebdomadaires.",
+      "tags": ["dares", "temps effectif"]
+    }
+  ]
+}
