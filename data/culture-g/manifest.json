@@ -85,16 +85,10 @@
       "category": "Introduction au droit"
     },
     {
-      "id": "penal-droit-general",
-      "file": "penal-droit-general.json",
-      "title": "Droit pénal — Infractions, responsabilité et peines",
-      "category": "Droit pénal général"
-    },
-    {
-      "id": "public-droit-general",
-      "file": "public-droit-general.json",
-      "title": "Droit public — Institutions, administration et justice administrative",
-      "category": "Droit public général"
+      "id": "sources-droit-hierarchie",
+      "file": "sources-droit-hierarchie.json",
+      "title": "Sources du droit — Hiérarchie des normes et droit de l'Union",
+      "category": "Introduction au droit"
     }
   ]
 }

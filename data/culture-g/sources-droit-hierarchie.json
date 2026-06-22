@@ -1,0 +1,237 @@
+{
+  "id": "sources-droit-hierarchie",
+  "title": "Sources du droit — Hiérarchie des normes et droit de l'Union",
+  "category": "Introduction au droit",
+  "flashcards": [
+    {
+      "id": "sources-fc-001",
+      "front": "Qu'est-ce que le bloc de constitutionnalité ?",
+      "back": "Ensemble des normes à valeur constitutionnelle incluant la Constitution du 4 octobre 1958 et les textes visés par son préambule (DDHC 1789, préambule 1946, charte de l'environnement 2004). Sommet de la hiérarchie des normes en droit interne français depuis la décision du Conseil constitutionnel du 16 juillet 1971.",
+      "tags": [
+        "constitutionnalité",
+        "hiérarchie",
+        "bloc"
+      ]
+    },
+    {
+      "id": "sources-fc-002",
+      "front": "Quelle est la règle du monisme adoptée par la France concernant les traités internationaux ?",
+      "back": "Selon l'article 55 de la Constitution, les engagements régulièrement ratifiés ou approuvés ont, dès leur publication au Journal officiel, une autorité supérieure aux lois, sous réserve de réciprocité. Cette règle rend les traités directement applicables dans l'ordre interne français.",
+      "tags": [
+        "traités",
+        "monisme",
+        "supériorité"
+      ]
+    },
+    {
+      "id": "sources-fc-003",
+      "front": "Quels sont les deux principes fondamentaux du droit de l'Union européenne reconnus par la CJCE ?",
+      "back": "L'effet direct (CJCE, 5 février 1963, Van Gend en Loos) : les normes de l'UE produisent directement des droits et obligations. La primauté (CJCE, 15 juillet 1964, Costa c. Enel) : en cas de conflit, le droit de l'UE prime toute norme interne, y compris la Constitution.",
+      "tags": [
+        "effet direct",
+        "primauté",
+        "CJCE"
+      ]
+    },
+    {
+      "id": "sources-fc-004",
+      "front": "Quels sont les actes du droit dérivé de l'Union européenne selon l'article 288 TFUE ?",
+      "back": "Les règlements (portée générale, directement applicables), les directives (fixent un objectif, transposition obligatoire), les décisions (obligatoires pour leurs destinataires), les recommandations et avis (non contraignants). Seuls les trois premiers créent des obligations juridiques contraignantes.",
+      "tags": [
+        "droit dérivé",
+        "actes",
+        "UE"
+      ]
+    },
+    {
+      "id": "sources-fc-005",
+      "front": "Qu'est-ce qu'une coutume en droit français et quelles sont ses conditions de validité ?",
+      "back": "Pratique ancienne et constante dont l'opinion reconnaît qu'elle tient lieu de loi (deux éléments : matériel et psychologique). Doit être générale, impersonnelle et ancienne. Peut être intra/secundum legem (complète la loi), praeter legem (comble une lacune) ou contra legem (rarement tolérée).",
+      "tags": [
+        "coutume",
+        "sources non écrites",
+        "usage"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "sources-qcm-001",
+      "question": "Quel est l'ordre hiérarchique correct des normes en droit interne français ?",
+      "options": [
+        "Traités > Constitution > Lois > Actes administratifs > Coutume",
+        "Bloc de constitutionnalité > Traités/accords > Lois > Actes administratifs",
+        "Lois > Constitution > Traités > Décrets > Circulaires",
+        "Constitution > Traités > Codes > Règlements > Jurisprudence"
+      ],
+      "answer": 1,
+      "explanation": "La hiérarchie est : bloc de constitutionnalité (sommet) > traités et accords internationaux (article 55) > lois > actes administratifs (règlements puis décisions individuelles). La coutume, jurisprudence et doctrine complètent cette hiérarchie mais n'en font pas partie à part entière.",
+      "tags": [
+        "hiérarchie",
+        "normes",
+        "droit interne"
+      ]
+    },
+    {
+      "id": "sources-qcm-002",
+      "question": "Qu'est-ce qui caractérise la formule du monisme adoptée par la France en vertu de l'article 55 de la Constitution ?",
+      "options": [
+        "Les traités doivent être approuvés par référendum avant toute ratification",
+        "Les traités ratifiés ont autorité supérieure aux lois, dès leur publication officielle",
+        "Les traités entrent en vigueur seulement après transposition législative explicite",
+        "La France rejette l'application des traités dans son ordre juridique interne"
+      ],
+      "answer": 1,
+      "explanation": "Le monisme signifie que les traités régulièrement ratifiés ou approuvés et publiés au Journal officiel ont une autorité supérieure aux lois (sans nécessité de transposition), sous réserve de réciprocité. Cela s'oppose au dualisme où les traités nécessitent une loi de transposition.",
+      "tags": [
+        "traités",
+        "monisme",
+        "article 55",
+        "ratification"
+      ]
+    },
+    {
+      "id": "sources-qcm-003",
+      "question": "Selon l'arrêt Van Gend en Loos (CJCE, 1963), quel est le principe consacré ?",
+      "options": [
+        "La primauté du droit de l'Union sur toutes les normes internes",
+        "L'effet direct des normes de l'Union : elles produisent des droits et obligations",
+        "L'obligation de transposition immédiate des directives dans chaque État membre",
+        "La responsabilité des États membres en cas de non-respect du droit de l'UE"
+      ],
+      "answer": 1,
+      "explanation": "L'effet direct (Van Gend en Loos) reconnaît que les normes de droit de l'UE produisent directement des droits et obligations pour les particuliers, sans nécessité de transposition préalable. Cet effet est complet pour les règlements et incomplet pour les directives en cas de défaut de transposition.",
+      "tags": [
+        "Van Gend en Loos",
+        "effet direct",
+        "CJCE"
+      ]
+    },
+    {
+      "id": "sources-qcm-004",
+      "question": "Quel est le degré d'effet direct d'une directive de l'Union européenne en cas de défaut ou d'incorrection de transposition ?",
+      "options": [
+        "Aucun : la directive ne produit d'effet que si elle a été transposée par une loi",
+        "Complet : elle s'applique directement à tous les ressortissants de l'État",
+        "Partiel : le juge national doit l'appliquer directement contre l'État défaillant",
+        "Variable selon les États membres qui peuvent choisir leur approche"
+      ],
+      "answer": 2,
+      "explanation": "Les directives n'ont pas d'effet direct complet. En cas de défaut ou d'incorrection de transposition, le juge national doit les appliquer directement contre l'État défaillant (invocabilité verticale). Cet effet direct partiel ne s'étend pas aux relations entre particuliers (effet horizontal).",
+      "tags": [
+        "directives",
+        "effet direct",
+        "transposition",
+        "invocabilité"
+      ]
+    },
+    {
+      "id": "sources-qcm-005",
+      "question": "Selon l'article 288 TFUE, quel acte du droit dérivé est directement applicable dans chaque État membre sans nécessité de transposition ?",
+      "options": [
+        "Les directives, qui fixent un objectif et permettent aux États de choisir les moyens",
+        "Les recommandations, qui donnent une orientation non contraignante",
+        "Les règlements, qui ont une portée générale et s'appliquent directement",
+        "Les décisions, uniquement si elles sont adressées aux États membres"
+      ],
+      "answer": 2,
+      "explanation": "Les règlements (art. 288 TFUE) ont une portée générale et sont directement applicables dans chaque État membre sans nécessité de transposition. À l'inverse, les directives fixent un objectif mais laissent à chaque État le choix des moyens et nécessitent une transposition législative.",
+      "tags": [
+        "règlement",
+        "droit dérivé",
+        "applicabilité",
+        "article 288"
+      ]
+    },
+    {
+      "id": "sources-qcm-006",
+      "question": "Qu'est-ce qu'une décision individuelle créatrice de droits dans le domaine des actes administratifs unilatéraux ?",
+      "options": [
+        "Un acte qui se limite à tirer les conséquences juridiques d'une situation donnée",
+        "Un acte qui crée de nouveaux droits ou des avantages pour un administré (nomination, autorisation)",
+        "Un décret d'application d'une loi devant s'appliquer de façon générale",
+        "Un arrêté municipal concernant plusieurs administrés ayant la même situation"
+      ],
+      "answer": 1,
+      "explanation": "Une décision individuelle créatrice de droits crée ou confère des droits ou avantages à un administré. Exemples : nomination dans la fonction publique, autorisation de se présenter à un concours, permis de construire. À l'inverse, une décision individuelle non créatrice (recognitive) tire simplement les conséquences d'une situation existante.",
+      "tags": [
+        "acte administratif",
+        "décision créatrice",
+        "droit"
+      ]
+    },
+    {
+      "id": "sources-qcm-007",
+      "question": "Selon l'arrêt Sarran et Levacher (CE, 30 oct. 1998), quelle est la place de la Constitution dans la hiérarchie française des normes ?",
+      "options": [
+        "La Constitution est soumise aux traités régulièrement ratifiés et publiés",
+        "La Constitution prime sur les traités dans l'ordre interne français",
+        "Les traités et la Constitution ont une valeur égale et inséparable",
+        "La Constitution n'est jamais invoquée devant le Conseil d'État"
+      ],
+      "answer": 1,
+      "explanation": "L'arrêt Sarran et Levacher (1998), confirmé par la Cour de cassation (Fraisse, 2000), établit que la Constitution prime sur les traités dans l'ordre interne français. Inversement, la Cour de justice de l'UE considère que le droit de l'Union prime sur toutes les normes internes, Constitution comprise.",
+      "tags": [
+        "Sarran",
+        "Levacher",
+        "Constitution",
+        "traités",
+        "primauté"
+      ]
+    },
+    {
+      "id": "sources-qcm-008",
+      "question": "Quel est l'effet de l'arrêt Costa c. Enel (CJCE, 15 juillet 1964) concernant le droit de l'Union ?",
+      "options": [
+        "Les traités fondateurs de l'UE doivent être approuvés par chaque État indépendamment",
+        "En cas de conflit avec une norme interne, le juge national doit écarter la norme interne",
+        "Les États membres peuvent se soustraire aux obligations de l'UE par vote unanime",
+        "Le droit de l'UE s'applique seulement s'il ne contredit pas la Constitution"
+      ],
+      "answer": 1,
+      "explanation": "Costa c. Enel consacre le principe de primauté du droit de l'UE : en cas de conflit entre une norme de droit interne (même constitutionnelle) et une norme de l'Union, le juge national doit écarter la norme interne. Ce principe de primauté est l'une des pierres angulaires du droit de l'UE.",
+      "tags": [
+        "Costa c. Enel",
+        "primauté",
+        "UE",
+        "droit interne"
+      ]
+    },
+    {
+      "id": "sources-qcm-009",
+      "question": "Qu'est-ce qu'une coutume praeter legem et en quoi se différencie-t-elle d'une coutume contra legem ?",
+      "options": [
+        "Coutume praeter legem : renvoie expresséement par la loi ; contra legem : est tolérée dans certains cas",
+        "Coutume praeter legem : comble une lacune du silence de la loi ; contra legem : en principe écartée au profit de la loi",
+        "Coutume praeter legem : s'oppose à la loi ; contra legem : la complète toujours",
+        "Les deux termes désignent exactement la même chose en droit français"
+      ],
+      "answer": 1,
+      "explanation": "La coutume praeter legem comble une lacune dans le silence de la loi (ex. : usage du nom marital). La coutume contra legem s'oppose à la loi et est en principe écartée au profit de celle-ci, sauf tolérances exceptionnelles (ex. : traditions taurines, donations notariées). La coutume intra/secundum legem est expresséement prévue ou complétée par la loi.",
+      "tags": [
+        "coutume",
+        "praeter legem",
+        "contra legem",
+        "sources indirectes"
+      ]
+    },
+    {
+      "id": "sources-qcm-010",
+      "question": "Quel est le rôle de la jurisprudence en droit français et comment différencie-t-elle du système de common law ?",
+      "options": [
+        "Elle a la même valeur qu'une loi et s'impose à tous les juges ultérieurement",
+        "Elle fait jurisprudence obligatoire dès qu'un jugement est rendu en première instance",
+        "Le juge comble le vide législatif sans poser de règle générale valable pour toutes les affaires analogues",
+        "Elle constitue la source principale du droit, avant la loi et la Constitution"
+      ],
+      "answer": 2,
+      "explanation": "En droit français, la jurisprudence ne crée pas de règle générale valable pour toutes les affaires analogues (à la différence de la common law). Le juge doit combler le vide législatif sans s'ériger en législateur. Seule la juridiction suprême (Cour de cassation ou Conseil d'État) peut formuler des principes généraux (arrêts de principe) à condition de lier la solution au litige concret.",
+      "tags": [
+        "jurisprudence",
+        "common law",
+        "source indirecte",
+        "juge"
+      ]
+    }
+  ]
+}
