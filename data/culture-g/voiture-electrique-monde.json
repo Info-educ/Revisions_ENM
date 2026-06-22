@@ -1,0 +1,116 @@
+{
+  "id": "voiture-electrique-monde",
+  "title": "La voiture électrique dans le monde",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "voiture-electrique-fc-001",
+      "front": "Pourquoi la voiture électrique a-t-elle décliné au début du XXe siècle ?",
+      "back": "Elle a été supplantée par le véhicule thermique, notamment après la commercialisation en 1908 de la Ford T, premier véhicule à essence assemblé à la chaîne.",
+      "tags": [
+        "histoire",
+        "ford-t"
+      ]
+    },
+    {
+      "id": "voiture-electrique-fc-002",
+      "front": "Quel pays domine le parc mondial de véhicules électriques en 2023 ?",
+      "back": "La Chine, avec plus de 54 % du parc mondial de véhicules électriques en circulation, selon l'Agence internationale de l'énergie.",
+      "tags": [
+        "chine",
+        "parc-mondial"
+      ]
+    },
+    {
+      "id": "voiture-electrique-fc-003",
+      "front": "Quelle décision l'UE a-t-elle adoptée en 2023 concernant les véhicules thermiques ?",
+      "back": "Le Parlement européen et le Conseil de l'UE ont adopté un règlement interdisant la commercialisation des véhicules thermiques neufs dans l'UE à partir de 2035.",
+      "tags": [
+        "union-europeenne",
+        "reglementation"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "voiture-electrique-qcm-001",
+      "question": "Quel constructeur est devenu le premier vendeur mondial de véhicules électriques en 2023 ?",
+      "options": [
+        "Tesla, grâce au succès commercial mondial de sa berline Model 3 plus abordable",
+        "BYD, entreprise chinoise qui devance largement l'Américain Tesla en volume vendu",
+        "Volkswagen Group, premier constructeur généraliste allemand de ce classement",
+        "Toyota, leader historique mondial toutes motorisations de l'industrie automobile"
+      ],
+      "answer": 1,
+      "explanation": "BYD a vendu plus de 3 millions de véhicules électriques (dont hybrides) en 2023, devançant Tesla (1,8 million), selon EV Volumes. Toyota et Volkswagen ne figurent pas en tête sur ce segment.",
+      "tags": [
+        "byd",
+        "constructeurs"
+      ]
+    },
+    {
+      "id": "voiture-electrique-qcm-002",
+      "question": "Quel programme américain a, dès 1990, imposé un quota de véhicules zéro émission ?",
+      "options": [
+        "Un programme fédéral américain entièrement piloté par le département de l'Énergie",
+        "Le programme californien imposant un quota croissant aux grands constructeurs",
+        "Un accord purement volontaire signé entre Tesla et le gouvernement fédéral US",
+        "Une directive votée par le Congrès américain sur les seules énergies renouvelables"
+      ],
+      "answer": 1,
+      "explanation": "C'est la Californie qui a adopté en 1990 ce programme inédit, imposant aux grands constructeurs un quota croissant de véhicules zéro émission à vendre dans l'État à partir de 1998.",
+      "tags": [
+        "californie",
+        "regulation"
+      ]
+    },
+    {
+      "id": "voiture-electrique-qcm-003",
+      "question": "Quelle évolution a connu le prix des batteries entre 2013 et 2023 ?",
+      "options": [
+        "Une hausse continue des prix liée à la pénurie mondiale de matières premières",
+        "Une stagnation des prix malgré les progrès technologiques pourtant annoncés",
+        "Une baisse de 82 % en dollars constants, selon une étude publiée par BloombergNEF",
+        "Une baisse limitée à environ 20 % seulement sur l'ensemble de cette période"
+      ],
+      "answer": 2,
+      "explanation": "Selon une étude BloombergNEF de novembre 2023, le prix moyen des batteries est passé de plus de 780 dollars à 139 dollars par kilowattheure entre 2013 et 2023, soit une baisse de 82 % en dollars constants.",
+      "tags": [
+        "batteries",
+        "prix"
+      ]
+    },
+    {
+      "id": "voiture-electrique-qcm-004",
+      "question": "Quel projet franco-allemand a été annoncé en mai 2019 pour les batteries ?",
+      "options": [
+        "Un fonds souverain européen entièrement dédié aux métaux rares stratégiques",
+        "Un « Airbus des batteries », nouvelle filière industrielle commune en Europe",
+        "Une fusion industrielle entre Renault et un constructeur chinois de batteries",
+        "Un partenariat commercial exclusif entre la France et la Corée du Sud uniquement"
+      ],
+      "answer": 1,
+      "explanation": "En mai 2019, la France, l'Allemagne et la Commission européenne ont annoncé la création d'un « Airbus des batteries », visant à réduire la dépendance technologique de l'UE vis-à-vis de l'Asie, qui produisait alors 85 % des cellules mondiales.",
+      "tags": [
+        "airbus-batteries",
+        "europe"
+      ]
+    },
+    {
+      "id": "voiture-electrique-qcm-005",
+      "question": "Quelle est une limite environnementale soulignée à propos des véhicules électriques ?",
+      "options": [
+        "Ils n'émettent strictement aucun gaz à effet de serre sur l'ensemble de leur cycle de vie",
+        "Leur fabrication et leur recharge peuvent générer du CO2 selon le mix énergétique utilisé",
+        "Ils consomment systématiquement plus d'énergie que les véhicules thermiques classiques",
+        "Leur batterie ne pourra jamais être recyclée une fois qu'elle arrive en fin de vie"
+      ],
+      "answer": 1,
+      "explanation": "Un véhicule électrique génère du CO2 lors de sa fabrication et de son utilisation si l'électricité utilisée pour la recharge provient d'énergies fossiles comme le charbon, ce qui est souvent le cas en Chine, en Allemagne ou aux États-Unis.",
+      "tags": [
+        "emissions",
+        "cycle-de-vie"
+      ]
+    }
+  ]
+}

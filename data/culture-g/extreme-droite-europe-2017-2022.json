@@ -1,0 +1,116 @@
+{
+  "id": "extreme-droite-europe-2017-2022",
+  "title": "La poussée de l'extrême droite en Europe (2017-2022)",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "extreme-droite-europe-fc-001",
+      "front": "Quels sont les deux marqueurs idéologiques communs aux partis d'extrême droite européens selon Jean-Yves Camus ?",
+      "back": "L'« ethnodifférentialisme » (chaque culture aurait un droit propre à s'épanouir sur un territoire donné, sans se mélanger) et l'opposition aux élites.",
+      "tags": [
+        "ideologie",
+        "jean-yves-camus"
+      ]
+    },
+    {
+      "id": "extreme-droite-europe-fc-002",
+      "front": "Quelle évolution électorale a connu le Rassemblement national entre 2017 et 2022 en France ?",
+      "back": "Le RN est passé de 8 sièges à l'Assemblée nationale en 2017 à 89 sièges en juin 2022, soit 11 fois plus, son meilleur résultat historique.",
+      "tags": [
+        "rassemblement-national",
+        "elections"
+      ]
+    },
+    {
+      "id": "extreme-droite-europe-fc-003",
+      "front": "Comment l'extrême droite française a-t-elle réagi à l'invasion russe de l'Ukraine en 2022 ?",
+      "back": "Des figures comme Marine Le Pen ont pris leurs distances avec la Russie et condamné l'invasion, après avoir longtemps manifesté leur admiration pour Vladimir Poutine.",
+      "tags": [
+        "russie",
+        "ukraine"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "extreme-droite-europe-qcm-001",
+      "question": "Quel événement a permis au parti Vox d'émerger en Espagne en 2018 ?",
+      "options": [
+        "Sa victoire surprise aux élections législatives nationales espagnoles de 2018",
+        "Les élections régionales de décembre 2018 en Andalousie, sur l'immigration et la Catalogne",
+        "Une alliance officielle conclue avec le parti italien anti-immigration La Ligue",
+        "Le soutien explicite apporté par l'ancien dictateur espagnol Francisco Franco"
+      ],
+      "answer": 1,
+      "explanation": "Vox émerge lors des élections régionales de décembre 2018 en Andalousie, en faisant campagne contre l'indépendance de la Catalogne et contre l'immigration, avant d'entrer au Parlement espagnol en avril 2019.",
+      "tags": [
+        "vox",
+        "espagne"
+      ]
+    },
+    {
+      "id": "extreme-droite-europe-qcm-002",
+      "question": "Pourquoi Heinz-Christian Strache a-t-il démissionné de son poste en Autriche en mai 2019 ?",
+      "options": [
+        "Une motion de censure votée contre lui par le Parlement autrichien fin 2019",
+        "Son opposition publique affichée à la politique migratoire du gouvernement en place",
+        "La publication d'une vidéo tournée en caméra cachée évoquant des contrats publics",
+        "Sa défaite électorale face au parti conservateur autrichien traditionnel et historique"
+      ],
+      "answer": 2,
+      "explanation": "Strache démissionne en mai 2019 après la publication par deux médias allemands d'une vidéo tournée en caméra cachée en 2017, où il propose des contrats publics contre des soutiens financiers à une femme se présentant comme nièce d'un oligarque russe.",
+      "tags": [
+        "autriche",
+        "fpo"
+      ]
+    },
+    {
+      "id": "extreme-droite-europe-qcm-003",
+      "question": "Quel rôle a joué Steve Bannon auprès des partis souverainistes européens ?",
+      "options": [
+        "Il a directement financé les campagnes électorales du Rassemblement national",
+        "Il a cherché à conseiller et à rassembler les partis souverainistes européens",
+        "Il a négocié un accord commercial entre l'Union européenne et les États-Unis",
+        "Il a personnellement dirigé la campagne européenne du parti hongrois Fidesz"
+      ],
+      "answer": 1,
+      "explanation": "Ancien conseiller à la Maison-Blanche, Steve Bannon s'est investi pendant la campagne des élections européennes pour conseiller et tenter de rassembler les partis souverainistes, intervenant notamment au congrès du RN en mars 2018.",
+      "tags": [
+        "steve-bannon",
+        "souverainisme"
+      ]
+    },
+    {
+      "id": "extreme-droite-europe-qcm-004",
+      "question": "Pourquoi le « supergroupe » souverainiste voulu par Marine Le Pen en 2019 ne s'est-il pas concrétisé ?",
+      "options": [
+        "Le Parlement européen avait formellement interdit la formation de ce type de groupe",
+        "Le PiS polonais et le Fidesz hongrois ont refusé en raison de la proximité avec la Russie",
+        "Aucun autre parti européen n'avait accepté de participer au meeting de Milan",
+        "La Commission européenne avait bloqué administrativement sa création officielle"
+      ],
+      "answer": 1,
+      "explanation": "Le PiS polonais et le Fidesz hongrois ont refusé de rejoindre ce groupe en reprochant à Marine Le Pen et Matteo Salvini leur proximité avec la Russie, limitant le groupe « Identité et démocratie » à 65 membres en 2022.",
+      "tags": [
+        "parlement-europeen",
+        "pis-fidesz"
+      ]
+    },
+    {
+      "id": "extreme-droite-europe-qcm-005",
+      "question": "Qu'est-ce que le mouvement des « sardines » lancé en Italie en 2019 ?",
+      "options": [
+        "Un parti politique créé spécifiquement pour concurrencer directement La Ligue",
+        "Un mouvement citoyen rassembleur rejetant les discours de haine de La Ligue",
+        "Une organisation patronale soutenant les réformes économiques portées par Salvini",
+        "Un syndicat de pêcheurs protestant contre la politique migratoire du gouvernement"
+      ],
+      "answer": 1,
+      "explanation": "Lancé en novembre 2019 par quatre trentenaires sur Facebook, le mouvement des « sardines » appelle à se rassembler à Bologne pour rejeter les discours de haine de La Ligue, sans pour autant se rattacher à un parti politique.",
+      "tags": [
+        "sardines",
+        "italie"
+      ]
+    }
+  ]
+}

@@ -125,6 +125,36 @@
       "file": "droit-prive-branches-juridictions.json",
       "title": "Le droit privé — Branches et juridictions associées",
       "category": "Introduction au droit"
+    },
+    {
+      "id": "voiture-electrique-monde",
+      "file": "voiture-electrique-monde.json",
+      "title": "La voiture électrique dans le monde",
+      "category": "Culture générale"
+    },
+    {
+      "id": "transition-energetique-europe",
+      "file": "transition-energetique-europe.json",
+      "title": "La transition énergétique en Europe",
+      "category": "Culture générale"
+    },
+    {
+      "id": "extreme-droite-europe-2017-2022",
+      "file": "extreme-droite-europe-2017-2022.json",
+      "title": "La poussée de l'extrême droite en Europe (2017-2022)",
+      "category": "Culture générale"
+    },
+    {
+      "id": "brexit-sortie-royaume-uni",
+      "file": "brexit-sortie-royaume-uni.json",
+      "title": "Le Brexit : comment le Royaume-Uni est sorti de l'UE",
+      "category": "Culture générale"
+    },
+    {
+      "id": "institutions-ue-mode-emploi",
+      "file": "institutions-ue-mode-emploi.json",
+      "title": "Les institutions de l'Union européenne, mode d'emploi",
+      "category": "Institutions politiques comparées"
     }
   ]
 }

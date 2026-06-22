@@ -1,0 +1,115 @@
+{
+  "id": "brexit-sortie-royaume-uni",
+  "title": "Le Brexit : comment le Royaume-Uni est sorti de l'UE",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "brexit-fc-001",
+      "front": "Quel résultat a obtenu le référendum britannique du 23 juin 2016 ?",
+      "back": "51,9 % des électeurs britanniques ont voté pour que le Royaume-Uni quitte l'Union européenne, avec de fortes disparités régionales (l'Écosse et l'Irlande du Nord ayant voté pour le maintien).",
+      "tags": [
+        "referendum-2016"
+      ]
+    },
+    {
+      "id": "brexit-fc-002",
+      "front": "Quelle solution a été trouvée pour éviter le retour d'une frontière physique en Irlande ?",
+      "back": "Des contrôles douaniers ont été instaurés entre l'Irlande du Nord et l'île de Grande-Bretagne, plutôt qu'entre l'Irlande du Nord et la République d'Irlande, afin de respecter l'accord de paix de 1998.",
+      "tags": [
+        "irlande-du-nord",
+        "accord-de-paix"
+      ]
+    },
+    {
+      "id": "brexit-fc-003",
+      "front": "Quelles ont été les conséquences du Brexit sur la libre circulation des personnes ?",
+      "back": "La libre circulation n'est plus applicable entre l'UE et le Royaume-Uni ; un visa est désormais nécessaire pour tout séjour de plus de 90 jours, et les étudiants ne peuvent plus bénéficier d'Erasmus pour étudier au Royaume-Uni.",
+      "tags": [
+        "libre-circulation",
+        "visa"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "brexit-qcm-001",
+      "question": "Pourquoi le projet d'accord de novembre 2018 négocié par Theresa May a-t-il rencontré une forte opposition ?",
+      "options": [
+        "Les dispositions sur la frontière irlandaise étaient combattues par les conservateurs",
+        "L'accord prévoyait une annulation totale et immédiate de tout contrôle douanier futur",
+        "Le Parlement européen avait alors refusé de ratifier officiellement le texte initial",
+        "L'accord ne traitait absolument pas la question des engagements financiers britanniques"
+      ],
+      "answer": 0,
+      "explanation": "Les dispositions concernant la frontière irlandaise étaient combattues par une fraction du Parti conservateur et par le parti unioniste DUP, sur lequel le gouvernement devait s'appuyer pour obtenir une majorité aux Communes.",
+      "tags": [
+        "theresa-may",
+        "accord-2018"
+      ]
+    },
+    {
+      "id": "brexit-qcm-002",
+      "question": "Qu'a permis le nouvel accord conclu par Boris Johnson en octobre 2019 ?",
+      "options": [
+        "L'annulation complète et définitive de tout contrôle douanier prévu en Irlande",
+        "Le maintien du Royaume-Uni dans le marché unique européen de manière permanente",
+        "Des contrôles douaniers instaurés entre l'Irlande du Nord et la Grande-Bretagne",
+        "La suppression totale de toute négociation commerciale future avec l'UE entière"
+      ],
+      "answer": 2,
+      "explanation": "Le nouvel accord prévoit d'instaurer des contrôles douaniers entre l'Irlande du Nord et l'île de Grande-Bretagne, pour éviter le rétablissement d'une frontière physique entre les deux Irlande, et a permis la sortie effective du 31 janvier 2020.",
+      "tags": [
+        "boris-johnson",
+        "accord-2019"
+      ]
+    },
+    {
+      "id": "brexit-qcm-003",
+      "question": "Combien de Britanniques vivaient dans un autre pays de l'UE en 2017, selon l'ONU ?",
+      "options": [
+        "3,3 millions de Britanniques résidaient alors dans un autre pays membre de l'UE",
+        "1,3 million de Britanniques résidaient alors dans un autre pays membre de l'UE",
+        "500 000 Britanniques seulement résidaient alors dans un pays membre de l'UE",
+        "5 millions de Britanniques au total résidaient alors dans un pays membre de l'UE"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'ONU, 1,3 million de Britanniques vivaient dans un autre pays de l'UE en 2017, tandis que 3,3 millions de ressortissants de l'UE vivaient au Royaume-Uni, soit plus de 4,5 millions d'expatriés concernés au total.",
+      "tags": [
+        "expatries",
+        "onu"
+      ]
+    },
+    {
+      "id": "brexit-qcm-004",
+      "question": "Quel mécanisme a été retenu pour les échanges de marchandises dans l'accord commercial de décembre 2020 ?",
+      "options": [
+        "Une suppression totale et définitive de tout contrôle douanier entre les parties",
+        "Des contrôles douaniers maintenus, avec un mécanisme anti-concurrence déloyale",
+        "Le maintien intégral et permanent du Royaume-Uni dans l'union douanière de l'UE",
+        "Une taxation systématique de toutes les marchandises échangées entre les parties"
+      ],
+      "answer": 1,
+      "explanation": "L'accord prévoit des contrôles douaniers à partir du 1er janvier 2021, mais sans droits de douane ni quotas, sous réserve d'un mécanisme permettant d'en introduire en cas de concurrence jugée non équitable par l'une des parties.",
+      "tags": [
+        "accord-commercial",
+        "douane"
+      ]
+    },
+    {
+      "id": "brexit-qcm-005",
+      "question": "Quel poste Michel Barnier a-t-il occupé dans le cadre du Brexit ?",
+      "options": [
+        "Premier ministre du Royaume-Uni chargé personnellement de mener les négociations",
+        "Négociateur en chef désigné par la Commission européenne pour le dossier du Brexit",
+        "Président du Parlement européen pendant toute la durée des négociations du Brexit",
+        "Ambassadeur français en poste auprès du gouvernement britannique pendant cette période"
+      ],
+      "answer": 1,
+      "explanation": "Michel Barnier a été nommé en 2016 négociateur en chef de la Commission européenne pour le Brexit, après une carrière de ministre français et de commissaire européen ; il deviendra plus tard Premier ministre français en 2024.",
+      "tags": [
+        "michel-barnier",
+        "negociateur"
+      ]
+    }
+  ]
+}

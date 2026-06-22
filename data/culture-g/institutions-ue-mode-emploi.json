@@ -1,0 +1,115 @@
+{
+  "id": "institutions-ue-mode-emploi",
+  "title": "Les institutions de l'Union européenne, mode d'emploi",
+  "category": "Institutions politiques comparées",
+  "flashcards": [
+    {
+      "id": "institutions-ue-fc-001",
+      "front": "Comment se répartissent les pouvoirs exécutif, législatif et judiciaire au sein de l'UE ?",
+      "back": "L'exécutif relève principalement de la Commission européenne, le législatif est partagé entre le Parlement européen et le Conseil de l'UE, et le judiciaire est exercé par la Cour de justice de l'UE.",
+      "tags": [
+        "separation-pouvoirs"
+      ]
+    },
+    {
+      "id": "institutions-ue-fc-002",
+      "front": "Qu'est-ce que la primauté du droit européen ?",
+      "back": "Le principe selon lequel les traités et le droit adoptés par l'UE l'emportent sur le droit national des États membres, consacré par un arrêt de la Cour de justice européenne de 1964.",
+      "tags": [
+        "primaute-droit",
+        "1964"
+      ]
+    },
+    {
+      "id": "institutions-ue-fc-003",
+      "front": "Quelle différence existe-t-il entre une directive et un règlement européen ?",
+      "back": "La directive fixe des objectifs que chaque État doit transposer dans son droit national, tandis que le règlement s'applique directement sans transposition nécessaire.",
+      "tags": [
+        "directive",
+        "reglement"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "institutions-ue-qcm-001",
+      "question": "Quelle institution détient le droit d'initiative législative au sein de l'UE ?",
+      "options": [
+        "Le Conseil européen, qui réunit les chefs d'État et de gouvernement des États",
+        "La Commission européenne, seule institution habilitée à proposer des textes",
+        "Le Parlement européen, élu directement tous les cinq ans par les citoyens européens",
+        "La Cour de justice de l'UE, garante du respect des traités fondateurs européens"
+      ],
+      "answer": 1,
+      "explanation": "La Commission européenne est la seule institution détenant le droit d'initiative parlementaire : elle propose les directives, règlements et décisions ensuite examinés par le Parlement et le Conseil de l'UE.",
+      "tags": [
+        "commission-europeenne",
+        "initiative"
+      ]
+    },
+    {
+      "id": "institutions-ue-qcm-002",
+      "question": "Quelle est la différence entre le Conseil de l'UE et le Conseil européen ?",
+      "options": [
+        "Ce sont en réalité deux noms désignant exactement la même institution unique",
+        "Le Conseil de l'UE réunit les ministres, le Conseil européen les chefs d'État",
+        "Le Conseil européen n'existe plus depuis l'entrée en vigueur du traité de Lisbonne",
+        "Le Conseil de l'UE ne traite que des questions de politique étrangère commune"
+      ],
+      "answer": 1,
+      "explanation": "Le Conseil de l'UE rassemble les ministres des États membres selon le sujet traité, tandis que le Conseil européen réunit les dirigeants des États membres pour définir les orientations politiques générales, ce sont deux institutions distinctes.",
+      "tags": [
+        "conseil-ue",
+        "conseil-europeen"
+      ]
+    },
+    {
+      "id": "institutions-ue-qcm-003",
+      "question": "Dans quel domaine l'UE dispose-t-elle d'une « compétence exclusive » ?",
+      "options": [
+        "L'éducation, où les États membres conservent l'entière maîtrise des programmes",
+        "La santé publique, gérée uniquement par les autorités nationales compétentes",
+        "La politique monétaire pour l'ensemble des pays membres appartenant à la zone euro",
+        "La politique étrangère et de sécurité commune menée par les États membres de l'Union"
+      ],
+      "answer": 2,
+      "explanation": "L'UE a une compétence exclusive en matière de politique monétaire pour les pays de la zone euro et d'accords commerciaux : elle seule peut alors légiférer et adopter des actes contraignants sur ces sujets.",
+      "tags": [
+        "competence-exclusive",
+        "zone-euro"
+      ]
+    },
+    {
+      "id": "institutions-ue-qcm-004",
+      "question": "Quel traité a fait du Conseil européen une institution à part entière dotée d'une présidence stable ?",
+      "options": [
+        "Le traité de Rome, signé en 1957, lors de la création officielle de la CEE européenne",
+        "Le traité de Nice, signé en 2001, avant le grand élargissement de l'Union européenne",
+        "Le traité de Lisbonne, signé en 2007 et entré en vigueur en 2009 par la suite",
+        "Le traité de Maastricht, signé en 1992 créant officiellement l'Union européenne"
+      ],
+      "answer": 2,
+      "explanation": "Signé en 2007 et entré en vigueur en 2009, le traité de Lisbonne fait du Conseil européen une institution à part entière, dotée d'une présidence stable, alors qu'il n'avait auparavant qu'un statut informel.",
+      "tags": [
+        "traite-lisbonne",
+        "conseil-europeen"
+      ]
+    },
+    {
+      "id": "institutions-ue-qcm-005",
+      "question": "Qu'est-ce que le registre de transparence de l'UE ?",
+      "options": [
+        "Une base de données obligatoire recensant l'ensemble des fonctionnaires européens",
+        "Un registre facultatif recensant les lobbyistes actifs auprès des institutions",
+        "Un fichier confidentiel réservé exclusivement à la Cour des comptes européenne",
+        "Un mécanisme de vote électronique utilisé en interne par le Parlement européen"
+      ],
+      "answer": 1,
+      "explanation": "Le registre de transparence recense, sur une base facultative, les principaux lobbyistes cherchant à influencer le processus législatif européen ; l'inscription donne accès à une accréditation et impose un code de conduite.",
+      "tags": [
+        "registre-transparence",
+        "lobbying"
+      ]
+    }
+  ]
+}

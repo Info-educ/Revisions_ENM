@@ -1,0 +1,116 @@
+{
+  "id": "transition-energetique-europe",
+  "title": "La transition énergétique en Europe",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "transition-energetique-fc-001",
+      "front": "Quel objectif fixe la loi européenne sur le climat adoptée en 2021 ?",
+      "back": "Atteindre la neutralité climatique de l'UE à l'horizon 2050 et réduire d'au moins 55 % les émissions de gaz à effet de serre d'ici 2030 par rapport à 1990.",
+      "tags": [
+        "loi-climat",
+        "neutralite-carbone"
+      ]
+    },
+    {
+      "id": "transition-energetique-fc-002",
+      "front": "Quel objectif de part d'énergies renouvelables l'UE s'est-elle fixé pour 2030 ?",
+      "back": "Porter la part des énergies renouvelables dans la consommation énergétique globale de l'UE à 42,5 % d'ici 2030, selon une directive adoptée en octobre 2023.",
+      "tags": [
+        "energies-renouvelables",
+        "objectifs-2030"
+      ]
+    },
+    {
+      "id": "transition-energetique-fc-003",
+      "front": "Quel secteur consomme le plus d'énergie dans l'UE en 2023 ?",
+      "back": "Le secteur des transports, avec 32 % de la consommation finale d'énergie dans l'UE, devant les ménages (26 %), l'industrie (25 %) et les services (14 %).",
+      "tags": [
+        "transports",
+        "consommation-energie"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "transition-energetique-qcm-001",
+      "question": "Quelle décision l'Allemagne a-t-elle prise en 2011 concernant le nucléaire ?",
+      "options": [
+        "Le Parlement allemand vote alors l'abandon total du nucléaire pour l'année 2022",
+        "L'Allemagne décide alors de doubler sa capacité de production nucléaire civile",
+        "Le pays renonce alors définitivement aux énergies renouvelables jugées coûteuses",
+        "Berlin signe alors un accord nucléaire civil avec la France et le Royaume-Uni"
+      ],
+      "answer": 0,
+      "explanation": "Suite à la catastrophe de Fukushima, les deux chambres du Parlement allemand votent en juin et juillet 2011 l'abandon de l'énergie nucléaire à l'horizon 2022, après l'annulation d'un précédent accord de sortie.",
+      "tags": [
+        "allemagne",
+        "nucleaire"
+      ]
+    },
+    {
+      "id": "transition-energetique-qcm-002",
+      "question": "Quelle est la principale source d'énergie primaire de la France selon les données 2024 ?",
+      "options": [
+        "Le pétrole, qui domine largement comme dans la plupart des autres pays européens",
+        "Le charbon, en raison de la fermeture progressive de ses centrales nucléaires",
+        "L'énergie nucléaire, qui représente 46 % de sa consommation d'énergie primaire",
+        "Le gaz naturel, importé alors principalement depuis la Russie et la Norvège"
+      ],
+      "answer": 2,
+      "explanation": "Selon l'Energy Institute, la France dépendait à 46 % du pétrole et à 46 % du nucléaire pour sa consommation d'énergie primaire en 2024, un mix très différent de ses voisins européens largement dépendants du pétrole.",
+      "tags": [
+        "france",
+        "mix-energetique"
+      ]
+    },
+    {
+      "id": "transition-energetique-qcm-003",
+      "question": "Pourquoi l'Europe a-t-elle longtemps présenté le gaz comme une solution de transition ?",
+      "options": [
+        "Parce que son extraction ne nécessite aucune infrastructure spécifique lourde",
+        "Parce que sa teneur en carbone reste nettement inférieure à celle du charbon",
+        "Parce qu'il provient alors exclusivement de gisements situés sur le sol européen",
+        "Parce qu'il permet une production d'électricité totalement décarbonée en Europe"
+      ],
+      "answer": 1,
+      "explanation": "Le gaz a une teneur en carbone inférieure à celle du charbon, ce qui permet des « gains rapides » dans la réduction des émissions de CO2 selon l'Agence internationale de l'énergie, d'où son rôle de solution de transition, notamment via les pipelines Nord Stream.",
+      "tags": [
+        "gaz-naturel",
+        "transition"
+      ]
+    },
+    {
+      "id": "transition-energetique-qcm-004",
+      "question": "Quel pays a refusé en décembre 2019 de s'engager sur la neutralité climatique pour 2050 ?",
+      "options": [
+        "La Hongrie, en raison de sa forte dépendance affichée envers le nucléaire russe",
+        "La Pologne, craignant une déstabilisation économique liée à sa dépendance au charbon",
+        "La Suède, jugeant alors l'objectif insuffisamment ambitieux pour l'année 2050",
+        "L'Estonie, en raison de sa forte dépendance à ses schistes bitumineux locaux"
+      ],
+      "answer": 1,
+      "explanation": "La Pologne, fortement dépendante du charbon, a été le seul État membre à refuser en décembre 2019 de s'engager sur la neutralité climatique en 2050, ce qui a motivé la création d'un « mécanisme pour une transition juste ».",
+      "tags": [
+        "pologne",
+        "neutralite-climatique"
+      ]
+    },
+    {
+      "id": "transition-energetique-qcm-005",
+      "question": "Quel constat Eurostat a-t-il établi en 2023 sur la dépendance énergétique de l'UE ?",
+      "options": [
+        "L'UE est devenue totalement autosuffisante grâce aux seules énergies renouvelables",
+        "58,3 % de l'énergie disponible dans l'UE provenait alors d'importations extérieures",
+        "Seuls trois États membres importent encore aujourd'hui des énergies fossiles",
+        "La dépendance aux importations a totalement disparu après la guerre en Ukraine"
+      ],
+      "answer": 1,
+      "explanation": "Selon Eurostat, 58,3 % de l'énergie disponible dans l'UE provenait d'importations de pays tiers en 2023, un taux très variable selon les pays (44,9 % pour la France, seulement 3,5 % pour l'Estonie).",
+      "tags": [
+        "dependance-energetique",
+        "eurostat"
+      ]
+    }
+  ]
+}
