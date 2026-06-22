@@ -1,0 +1,116 @@
+{
+  "id": "rechauffement-climatique-enjeux",
+  "title": "Comment limiter le réchauffement climatique",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "climat-fc-001",
+      "front": "Quels sont les objectifs fixés par l'accord de Paris en décembre 2015 ?",
+      "back": "Contenir l'élévation de la température moyenne mondiale nettement sous 2°C par rapport aux niveaux préindustriels, et poursuivre les efforts pour la limiter à 1,5°C.",
+      "tags": [
+        "accord de paris",
+        "cop21"
+      ]
+    },
+    {
+      "id": "climat-fc-002",
+      "front": "Qu'est-ce que le Giec et quel est son rôle ?",
+      "back": "Le Groupe d'experts intergouvernemental sur l'évolution du climat, mis en place par l'ONU, synthétise les connaissances scientifiques sur le changement climatique à travers des rapports d'évaluation réguliers.",
+      "tags": [
+        "giec",
+        "expertise climatique"
+      ]
+    },
+    {
+      "id": "climat-fc-003",
+      "front": "Quels secteurs sont les principaux émetteurs mondiaux de CO2 liés à la combustion de carburant ?",
+      "back": "La production d'électricité et de chaleur (41,8 % en 2019), suivie par les transports (24,4 %) et l'industrie (18,6 %), selon l'Agence internationale de l'énergie.",
+      "tags": [
+        "émissions de co2",
+        "secteurs émetteurs"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "climat-qcm-001",
+      "question": "Quel traité international contraignant de 1997 a fixé des objectifs chiffrés de réduction des émissions ?",
+      "options": [
+        "La Convention-cadre des Nations unies sur le climat, signée à Rio en juin 1992",
+        "Le protocole de Kyoto, signé lors de la COP3 organisée au Japon en décembre 1997",
+        "Le pacte de Glasgow, adopté lors de la 26e COP organisée en Écosse fin 2021",
+        "Le traité de Maastricht, relatif à la construction de l'Union européenne en 1992"
+      ],
+      "answer": 1,
+      "explanation": "Le protocole de Kyoto, adopté en décembre 1997 lors de la COP3, engageait 37 pays industrialisés et l'UE à réduire leurs émissions de 5,2 % en moyenne entre 2008 et 2012 par rapport à 1990 ; les États-Unis l'ont signé sans le ratifier.",
+      "tags": [
+        "protocole de kyoto",
+        "cop3"
+      ]
+    },
+    {
+      "id": "climat-qcm-002",
+      "question": "Quel constat alarmant figure dans la première partie du sixième rapport du Giec publié en août 2021 ?",
+      "options": [
+        "Le seuil de 1,5°C ne sera jamais atteint selon les modèles les plus récents du Giec",
+        "Le seuil de 1,5°C de réchauffement sera franchi dès le début des années 2030",
+        "Les émissions mondiales de gaz à effet de serre ont commencé à diminuer durablement",
+        "La montée des océans est un phénomène totalement réversible selon les experts"
+      ],
+      "answer": 1,
+      "explanation": "Le Giec estime que le seuil de 1,5°C sera franchi au début des années 2030, soit dix ans plus tôt que l'estimation de 2019, et qualifie certains changements, comme la montée des océans, d'irréversibles pour des siècles.",
+      "tags": [
+        "giec",
+        "seuil de 1,5 degré"
+      ]
+    },
+    {
+      "id": "climat-qcm-003",
+      "question": "Quels pays totalisaient la plus grande part des émissions mondiales de CO2 en 2019 selon le Global Carbon Project ?",
+      "options": [
+        "La Chine, les États-Unis, l'Europe de l'OCDE et l'Inde réunis durant l'année 2019",
+        "Le Brésil, le Canada, l'Australie et la Russie réunis selon les mêmes données",
+        "Uniquement les États-Unis et la Chine, à parts rigoureusement égales en 2019",
+        "L'ensemble des pays africains réunis, additionné aux émissions totales du Japon"
+      ],
+      "answer": 0,
+      "explanation": "Ces quatre ensembles totalisaient 58,4 % des émissions mondiales de CO2 en 2019, la Chine représentant à elle seule 27,9 % du total, devant les États-Unis (14,5 %) et l'Europe de l'OCDE (8,8 %).",
+      "tags": [
+        "émissions par pays",
+        "global carbon project"
+      ]
+    },
+    {
+      "id": "climat-qcm-004",
+      "question": "Que révèle le rapport du Giec d'octobre 2018 sur la biodiversité en cas de réchauffement de 2°C ?",
+      "options": [
+        "Aucune espèce animale ne serait significativement affectée par ce réchauffement",
+        "Seules les espèces marines seraient concernées par cette perte d'habitat naturel",
+        "8 % des vertébrés, 18 % des insectes et 16 % des plantes perdraient leur habitat",
+        "La totalité des espèces étudiées par le Giec disparaîtrait avant l'année 2050"
+      ],
+      "answer": 2,
+      "explanation": "Parmi 100 000 espèces étudiées par le Giec, ces proportions de vertébrés, d'insectes et de plantes perdraient plus de la moitié de leur habitat naturel en cas de réchauffement de 2°C par rapport à la période préindustrielle.",
+      "tags": [
+        "biodiversité",
+        "perte d'habitat"
+      ]
+    },
+    {
+      "id": "climat-qcm-005",
+      "question": "Quel est le principe de la taxe carbone appliquée en France depuis 2014 ?",
+      "options": [
+        "Elle subventionne directement la production d'énergies renouvelables en France",
+        "Elle vise à refléter dans le prix des énergies fossiles leur coût environnemental",
+        "Elle s'applique uniquement aux entreprises françaises exportatrices d'énergie",
+        "Elle remplace intégralement la taxe TICPE depuis sa mise en place en avril 2014"
+      ],
+      "answer": 1,
+      "explanation": "La taxe carbone, ou contribution climat-énergie, vise à refléter dans le prix des énergies fossiles les dommages environnementaux qu'elles causent afin d'en dissuader l'usage ; elle est incluse dans la TICPE depuis avril 2014.",
+      "tags": [
+        "taxe carbone",
+        "fiscalité environnementale"
+      ]
+    }
+  ]
+}

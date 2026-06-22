@@ -1,0 +1,116 @@
+{
+  "id": "dette-publique-francaise",
+  "title": "La hausse de la dette publique française en débat",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "dette-fc-001",
+      "front": "Quels sont les critères de convergence fixés par le traité de Maastricht (1992) en matière de finances publiques ?",
+      "back": "Le déficit public doit rester sous 3 % du PIB et la dette publique sous 60 % du PIB, sauf dépassement jugé exceptionnel et temporaire.",
+      "tags": [
+        "traité de maastricht",
+        "critères de convergence"
+      ]
+    },
+    {
+      "id": "dette-fc-002",
+      "front": "Qu'est-ce qu'une procédure de déficit excessif (PDE) ?",
+      "back": "Procédure ouverte par le Conseil de l'UE contre un État dont le déficit dépasse 3 % du PIB ou la dette 60 % du PIB sans diminuer suffisamment, l'obligeant à présenter un plan de mesures correctives sous supervision de la Commission européenne.",
+      "tags": [
+        "procédure de déficit excessif",
+        "union européenne"
+      ]
+    },
+    {
+      "id": "dette-fc-003",
+      "front": "Qui détient majoritairement la dette de l'État français au premier trimestre 2025 ?",
+      "back": "Les non-résidents détiennent 54,7 % de la dette négociable de l'État français selon l'Agence France Trésor, une part qui a augmenté depuis 2022 après avoir baissé dans les années 2010.",
+      "tags": [
+        "agence france trésor",
+        "non-résidents"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "dette-qcm-001",
+      "question": "Quel événement a déclenché la première série continue de déficits publics en France ?",
+      "options": [
+        "La crise financière mondiale survenue en 2008 après l'effondrement des subprimes",
+        "Le choc pétrolier de 1973 et le plan de relance budgétaire qui a suivi en France",
+        "L'adoption de la monnaie unique européenne en 1999 par les pays de la zone euro",
+        "La pandémie mondiale de Covid-19 survenue en France à partir du printemps 2020"
+      ],
+      "answer": 1,
+      "explanation": "En 1975, la France enregistre un déficit de 2,9 % après le choc pétrolier de 1973, conséquence du plan de relance de Valéry Giscard d'Estaing ; depuis, le pays n'a plus connu d'excédent budgétaire.",
+      "tags": [
+        "choc pétrolier",
+        "déficit public"
+      ]
+    },
+    {
+      "id": "dette-qcm-002",
+      "question": "Quel pays a connu une crise de la dette révélée en 2009 par son nouveau Premier ministre ?",
+      "options": [
+        "L'Espagne, confrontée à l'éclatement d'une importante bulle immobilière nationale",
+        "Le Portugal, après la chute soudaine de plusieurs grandes banques nationales",
+        "La Grèce, dont le déficit réel dépassait largement les chiffres officiellement annoncés",
+        "L'Italie, à la suite d'une dégradation rapide de sa note de crédit souveraine"
+      ],
+      "answer": 2,
+      "explanation": "En octobre 2009, Giorgos Papandréou révèle que le déficit grec atteint 12,7 % du PIB, bien au-delà des 6 % annoncés, déclenchant une crise qui aboutira à plusieurs plans d'aide européens et du FMI.",
+      "tags": [
+        "crise grecque",
+        "fmi"
+      ]
+    },
+    {
+      "id": "dette-qcm-003",
+      "question": "Comment l'Assemblée nationale justifie-t-elle l'intérêt de diversifier les investisseurs détenant la dette française ?",
+      "options": [
+        "Cela permet d'éliminer totalement le paiement d'intérêts sur la dette publique",
+        "Cela garantit une immunité totale face aux décisions des agences de notation",
+        "Cela protège contre un choc géographique et réduit le coût global du financement",
+        "Cela transforme automatiquement la dette française en une dette perpétuelle"
+      ],
+      "answer": 2,
+      "explanation": "Selon un rapport de l'Assemblée nationale de mai 2024, la diversification des investisseurs permet de mieux se prémunir contre un choc frappant une zone géographique et de garantir un financement au coût le plus faible.",
+      "tags": [
+        "diversification",
+        "financement de l'état"
+      ]
+    },
+    {
+      "id": "dette-qcm-004",
+      "question": "Pourquoi la charge de la dette française a-t-elle fortement augmenté ces dernières années selon l'Insee ?",
+      "options": [
+        "En raison de la baisse continue des taux d'intérêt observée sur les marchés mondiaux",
+        "En raison de l'inflation, qui indexe directement certains taux d'emprunt de l'État",
+        "En raison d'un remboursement anticipé et volontaire décidé par le gouvernement",
+        "En raison d'une suppression totale et récente des emprunts à taux fixe de l'État"
+      ],
+      "answer": 1,
+      "explanation": "L'Insee précise que la hausse de la charge de la dette (58 milliards d'euros en 2024) est liée à l'inflation, environ 10 % des emprunts étant indexés sur celle-ci, et les investisseurs exigeant des taux plus élevés en période inflationniste.",
+      "tags": [
+        "charge de la dette",
+        "inflation"
+      ]
+    },
+    {
+      "id": "dette-qcm-005",
+      "question": "Quelle position Fabio Panetta, membre du directoire de la BCE, a-t-il exprimée sur l'annulation de la dette des États ?",
+      "options": [
+        "Il a jugé cette annulation souhaitable et totalement dépourvue de risque économique",
+        "Il a estimé que ce n'est pas une option en raison de contraintes légales existantes",
+        "Il a proposé de transférer cette dette publique vers des banques privées européennes",
+        "Il a recommandé une annulation partielle de la dette dès le début de l'année 2020"
+      ],
+      "answer": 1,
+      "explanation": "Répondant à des économistes proposant l'annulation par la BCE de dettes publiques rachetées depuis 2015, Fabio Panetta a affirmé que ce n'était pas une option, invoquant des contraintes légales et un risque de perte de confiance dans la monnaie.",
+      "tags": [
+        "bce",
+        "annulation de la dette"
+      ]
+    }
+  ]
+}

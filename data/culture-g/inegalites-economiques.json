@@ -1,0 +1,117 @@
+{
+  "id": "inegalites-economiques",
+  "title": "L'accroissement des inégalités économiques",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "inegalites-fc-001",
+      "front": "Qu'est-ce que l'indice de Gini et que mesure-t-il ?",
+      "back": "Indicateur synthétique d'inégalité créé par Corrado Gini, calculé via la courbe de Lorenz. Il vaut 0 en cas d'égalité parfaite et 1 en cas d'inégalité extrême.",
+      "tags": [
+        "indice de gini",
+        "inégalités"
+      ]
+    },
+    {
+      "id": "inegalites-fc-002",
+      "front": "Comment évolue l'écart salarial femmes-hommes dans le secteur privé en France ?",
+      "back": "En 2021, à volume de travail équivalent, les femmes gagnaient 15,5 % de moins que les hommes dans le privé selon l'Insee, avec un écart encore plus marqué chez les cadres supérieurs (16,1 %).",
+      "tags": [
+        "inégalités femmes-hommes",
+        "salaires"
+      ]
+    },
+    {
+      "id": "inegalites-fc-003",
+      "front": "Quel événement de 1979-1981 a marqué un tournant vers la hausse des inégalités au Royaume-Uni et aux États-Unis ?",
+      "back": "L'arrivée au pouvoir de Margaret Thatcher (1979) et de Ronald Reagan (1981), qui ont mené des politiques de baisse d'impôts, de dérégulation et de désengagement de l'État, contribuant à une forte hausse des inégalités.",
+      "tags": [
+        "thatcher",
+        "reagan",
+        "révolution conservatrice"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "inegalites-qcm-001",
+      "question": "Selon France Stratégie, quel est l'effet du système redistributif français sur l'indice de Gini ?",
+      "options": [
+        "Il abaisse l'indice de Gini du pays de près de 25 % grâce aux prestations sociales",
+        "Il n'a aucun effet mesurable sur les inégalités de revenus en France selon l'étude",
+        "Il augmente légèrement les inégalités de revenus primaires observées chaque année",
+        "Il réduit l'indice de Gini de plus de 50 % chaque année selon France Stratégie"
+      ],
+      "answer": 0,
+      "explanation": "France Stratégie estime que la redistribution (prestations chômage, logement, lutte contre l'exclusion) abaisse l'indice de Gini français de près de 25 %, ce qui explique des inégalités de revenus disponibles plus faibles qu'ailleurs en Europe.",
+      "tags": [
+        "redistribution",
+        "indice de gini"
+      ]
+    },
+    {
+      "id": "inegalites-qcm-002",
+      "question": "Que représentent les 10 % les plus aisés dans le revenu national français en 2021 selon la WID ?",
+      "options": [
+        "Un cinquième seulement du revenu national avant impôt selon les données disponibles",
+        "Près d'un tiers du revenu national avant impôt, selon la World Inequality Database",
+        "La moitié exacte du revenu national avant impôt, un chiffre stable depuis 1980",
+        "Moins d'un dixième du revenu national avant impôt selon les chiffres les plus récents"
+      ],
+      "answer": 1,
+      "explanation": "Selon la World Inequality Database, les 10 % les plus aisés gagnaient près du tiers (31,2 %) du revenu national avant impôt en 2021, contre 23,2 % pour les 50 % les moins aisés.",
+      "tags": [
+        "wid",
+        "revenu national"
+      ]
+    },
+    {
+      "id": "inegalites-qcm-003",
+      "question": "D'après le rapport Oxfam de janvier 2023, quelle affirmation sur les milliardaires français est exacte ?",
+      "options": [
+        "La majorité d'entre eux ont créé leur fortune sans aucun héritage familial préalable",
+        "Leur nombre a diminué de moitié depuis la crise financière mondiale de 2008",
+        "Près de huit milliardaires français sur dix ont hérité de leur fortune, selon Oxfam",
+        "La totalité des quarante-deux milliardaires français recensés sont des femmes"
+      ],
+      "answer": 2,
+      "explanation": "Oxfam précise que près de huit milliardaires français sur 10 ont hérité de leur fortune, et que seules 6 sur 42 sont des femmes ; leur nombre a quadruplé depuis 2009.",
+      "tags": [
+        "oxfam",
+        "héritage"
+      ]
+    },
+    {
+      "id": "inegalites-qcm-004",
+      "question": "Quel rôle a joué la crise financière de 2008 selon l'économiste Romain Rancière ?",
+      "options": [
+        "Elle a uniquement touché les pays européens, sans jamais affecter les États-Unis",
+        "Elle a été causée par une baisse soudaine et inattendue des inégalités sociales",
+        "Les inégalités préexistantes au sein de la société américaine ont favorisé son émergence",
+        "Elle n'a aucun lien démontré scientifiquement avec les inégalités sociales américaines"
+      ],
+      "answer": 2,
+      "explanation": "Rancière estime que la combinaison entre tentation d'endettement des pauvres et recherche de rendements élevés des riches, favorisée par les inégalités croissantes, a engendré des risques systémiques ayant conduit à la crise des subprimes.",
+      "tags": [
+        "crise 2008",
+        "subprimes"
+      ]
+    },
+    {
+      "id": "inegalites-qcm-005",
+      "question": "Quelle alternative à l'indice de Gini est recommandée par l'Observatoire des inégalités ?",
+      "options": [
+        "Le seuil de pauvreté en conditions de vie calculé chaque année par l'Insee français",
+        "Le taux de chômage rapporté au produit intérieur brut national de chaque pays",
+        "Le ratio de Palma, comparant les 10 % les plus riches aux 40 % les plus pauvres",
+        "L'indice composite de développement humain calculé annuellement par les Nations unies"
+      ],
+      "answer": 2,
+      "explanation": "Jugeant l'indice de Gini techniquement parfait mais incompréhensible, l'Observatoire des inégalités préconise le ratio de Palma, qui rapporte le revenu des 10 % les plus aisés à celui des 40 % les plus pauvres.",
+      "tags": [
+        "ratio de palma",
+        "mesure des inégalités"
+      ]
+    }
+  ]
+}

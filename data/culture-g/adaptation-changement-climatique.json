@@ -1,0 +1,116 @@
+{
+  "id": "adaptation-changement-climatique",
+  "title": "S'adapter au réchauffement climatique",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "adaptation-fc-001",
+      "front": "Comment le Giec définit-il l'adaptation au changement climatique ?",
+      "back": "Une démarche d'ajustement au climat actuel ou attendu et à ses conséquences, visant à atténuer les effets préjudiciables et à exploiter les effets bénéfiques, distincte de l'atténuation qui réduit les émissions.",
+      "tags": [
+        "adaptation",
+        "giec"
+      ]
+    },
+    {
+      "id": "adaptation-fc-002",
+      "front": "Qu'est-ce que la mal-adaptation selon le Giec ?",
+      "back": "Des mesures censées protéger du changement climatique mais qui aggravent en réalité les risques, augmentent la vulnérabilité ou les émissions de gaz à effet de serre, sans que ce résultat soit intentionnel.",
+      "tags": [
+        "mal-adaptation",
+        "giec"
+      ]
+    },
+    {
+      "id": "adaptation-fc-003",
+      "front": "Que sont les 'pertes et dommages' dans le vocabulaire climatique de l'ONU ?",
+      "back": "Les dégâts causés par des catastrophes liées au changement climatique lorsque les mesures d'adaptation sont inefficaces, inadaptées ou impossibles, qu'il s'agisse d'événements extrêmes ou de phénomènes lents comme la montée des eaux.",
+      "tags": [
+        "pertes et dommages",
+        "onu climat"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "adaptation-qcm-001",
+      "question": "Quel constat l'Organisation météorologique mondiale a-t-elle fait sur la température mondiale en 2023 ?",
+      "options": [
+        "Elle était inférieure de 0,5°C au niveau moyen de l'ère préindustrielle de référence",
+        "Elle était supérieure de 1,45°C au niveau moyen de l'ère préindustrielle de référence",
+        "Elle était strictement identique à celle mesurée en 1990 selon les mêmes relevés",
+        "Elle était supérieure de plus de 3°C au niveau moyen de l'ère préindustrielle"
+      ],
+      "answer": 1,
+      "explanation": "En 2023, la température moyenne mondiale était supérieure de 1,45°C au niveau de l'ère préindustrielle (1850-1900), rapprochant le monde de la limite de 1,5°C fixée par l'accord de Paris, selon l'OMM.",
+      "tags": [
+        "omm",
+        "température mondiale"
+      ]
+    },
+    {
+      "id": "adaptation-qcm-002",
+      "question": "Quel traité international de 1992 constitue le premier cadre de coopération sur le climat ?",
+      "options": [
+        "Le protocole de Montréal, relatif à la protection de la couche d'ozone terrestre",
+        "La Convention-cadre des Nations unies sur les changements climatiques signée à Rio",
+        "L'accord de Paris, adopté lors de la COP21 organisée en décembre 2015 en France",
+        "Le pacte de Glasgow, adopté lors de la 26e COP organisée en Écosse fin 2021"
+      ],
+      "answer": 1,
+      "explanation": "Signée à Rio de Janeiro en juin 1992 par 153 États et l'UE, la CCNUCC entre en vigueur en 1994 et constitue le premier cadre de coopération internationale en matière de lutte contre le changement climatique.",
+      "tags": [
+        "ccnucc",
+        "rio 1992"
+      ]
+    },
+    {
+      "id": "adaptation-qcm-003",
+      "question": "Quel engagement financier pris à Copenhague en 2009 a été jugé atteint en 2022 par l'OCDE ?",
+      "options": [
+        "Verser 50 milliards de dollars par an, exclusivement destinés au continent africain",
+        "Verser 100 milliards de dollars par an aux pays en développement à partir de 2020",
+        "Annuler intégralement toutes les dettes climatiques contractées par les pays pauvres",
+        "Financer uniquement des projets de reforestation à grande échelle dans le monde"
+      ],
+      "answer": 1,
+      "explanation": "Les pays développés s'étaient engagés en 2009 à verser 100 milliards de dollars par an aux pays en développement à partir de 2020 pour l'atténuation et l'adaptation, objectif atteint en 2022 selon l'OCDE, mais surtout sous forme de prêts.",
+      "tags": [
+        "financement climatique",
+        "ocde"
+      ]
+    },
+    {
+      "id": "adaptation-qcm-004",
+      "question": "Quel exemple d'adaptation réussie l'ONU cite-t-elle en Bosnie-Herzégovine ?",
+      "options": [
+        "La construction de digues littorales entièrement financées par l'Union européenne",
+        "Le remplacement des cultures de pommes par des pêches résistantes à la sécheresse",
+        "L'interdiction totale et définitive de toute agriculture dans les zones arides",
+        "La relocalisation massive et organisée des populations rurales vers les grandes villes"
+      ],
+      "answer": 1,
+      "explanation": "L'ONU cite l'exemple des agriculteurs bosniens ayant délaissé les pommes au profit des pêches, mieux adaptées à un climat plus chaud, comme illustration d'une adaptation agricole réussie face à la sécheresse.",
+      "tags": [
+        "adaptation agricole",
+        "bosnie-herzégovine"
+      ]
+    },
+    {
+      "id": "adaptation-qcm-005",
+      "question": "Que souligne le Haut Conseil pour le climat dans son rapport 2023 sur l'adaptation en France ?",
+      "options": [
+        "Que l'adaptation française est déjà pleinement transformatrice et suffisamment ambitieuse",
+        "Qu'elle doit changer d'échelle et sortir du mode réactif qui prévaut actuellement",
+        "Qu'elle ne concerne plus aucun secteur économique jugé prioritaire aujourd'hui",
+        "Qu'elle a été totalement abandonnée par le gouvernement depuis le Pnacc de 2011"
+      ],
+      "answer": 1,
+      "explanation": "Le Haut Conseil pour le climat estime que l'adaptation doit 'changer d'échelle' en France, c'est-à-dire passer du mode réactif prévalent aujourd'hui pour devenir réellement transformatrice.",
+      "tags": [
+        "haut conseil pour le climat",
+        "pnacc"
+      ]
+    }
+  ]
+}

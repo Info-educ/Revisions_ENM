@@ -1,0 +1,116 @@
+{
+  "id": "nucleaire-energie-debat",
+  "title": "Le nucléaire, une énergie qui fait débat",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "nucleaire-fc-001",
+      "front": "Sur quel principe physique repose la production d'électricité dans une centrale nucléaire classique ?",
+      "back": "La fission nucléaire : la scission d'un noyau lourd et instable d'uranium 235, déclenchée par un neutron, qui dégage de l'énergie sous forme de chaleur convertie en électricité.",
+      "tags": [
+        "fission nucléaire",
+        "uranium"
+      ]
+    },
+    {
+      "id": "nucleaire-fc-002",
+      "front": "Quel accident de 2011 a conduit plusieurs pays à reconsidérer leur politique nucléaire ?",
+      "back": "L'accident de la centrale de Fukushima au Japon, provoqué par un séisme suivi d'un tsunami, qui a coupé le refroidissement des réacteurs et entraîné des rejets radioactifs ; il a poussé l'Allemagne à sortir du nucléaire.",
+      "tags": [
+        "fukushima",
+        "sécurité nucléaire"
+      ]
+    },
+    {
+      "id": "nucleaire-fc-003",
+      "front": "Que désigne le sigle EPR et quelle génération de réacteurs représente-t-il ?",
+      "back": "L'European Pressurized Reactor, réacteur de troisième génération conçu par Framatome et KWU, censé offrir plus de sécurité et d'efficacité, mais dont les chantiers connaissent retards et surcoûts (Flamanville notamment).",
+      "tags": [
+        "epr",
+        "génération de réacteurs"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "nucleaire-qcm-001",
+      "question": "Quelle part de la production d'électricité française le nucléaire représentait-il en 2022 selon RTE ?",
+      "options": [
+        "Environ 25 %, en forte baisse du fait du développement des énergies renouvelables",
+        "Environ 63 %, en baisse du fait d'anomalies de corrosion sous contrainte détectées",
+        "Environ 90 %, un niveau resté parfaitement stable depuis le début des années 1990",
+        "Environ 45 %, à égalité quasi parfaite avec les énergies fossiles importées"
+      ],
+      "answer": 1,
+      "explanation": "Le nucléaire représentait 63 % de la production électrique française en 2022, une baisse liée à la moindre disponibilité du parc, notamment des arrêts dus à des anomalies de corrosion sous contrainte sur des tuyauteries.",
+      "tags": [
+        "rte",
+        "production électrique"
+      ]
+    },
+    {
+      "id": "nucleaire-qcm-002",
+      "question": "Quel pays comptait le plus grand nombre de réacteurs nucléaires en construction dans le monde en 2022 ?",
+      "options": [
+        "La France, dans le cadre de la relance nucléaire annoncée par Emmanuel Macron",
+        "Les États-Unis, qui possèdent le plus grand parc nucléaire mondial en activité",
+        "La Chine, qui devançait l'Inde selon les données publiées par l'AIEA en 2022",
+        "La Russie, en raison principalement de ses besoins militaires et énergétiques"
+      ],
+      "answer": 2,
+      "explanation": "Selon l'Agence internationale de l'énergie atomique, la Chine comptait 20 réacteurs en construction en 2022, devant l'Inde avec 8, dans le cadre de la diversification de son mix énergétique.",
+      "tags": [
+        "aiea",
+        "chine"
+      ]
+    },
+    {
+      "id": "nucleaire-qcm-003",
+      "question": "Quelle annonce a faite Emmanuel Macron en février 2022 concernant la politique nucléaire française ?",
+      "options": [
+        "La fermeture immédiate de tous les réacteurs ayant plus de quarante ans de service",
+        "La construction de six nouveaux réacteurs et la prolongation des réacteurs existants",
+        "L'abandon total et immédiat du nucléaire civil au profit exclusif du gaz naturel",
+        "Le transfert complet de la gestion des centrales à des opérateurs privés étrangers"
+      ],
+      "answer": 1,
+      "explanation": "En février 2022, Macron annonce la construction de six réacteurs de troisième génération et souhaite prolonger la durée de vie des réacteurs existants au-delà de 50 ans, revenant sur la promesse de 2018 de fermer 14 réacteurs.",
+      "tags": [
+        "relance du nucléaire",
+        "macron"
+      ]
+    },
+    {
+      "id": "nucleaire-qcm-004",
+      "question": "Quelle est la spécificité des Small Modular Reactors (SMR) par rapport aux réacteurs français actuels ?",
+      "options": [
+        "Ils fonctionnent uniquement par fusion nucléaire et non par fission classique",
+        "Ils ont une puissance plus faible et sont conçus pour être fabriqués en série",
+        "Ils ne nécessitent absolument aucun système de refroidissement pour fonctionner",
+        "Ils sont réservés exclusivement à un usage militaire selon leur conception initiale"
+      ],
+      "answer": 1,
+      "explanation": "Les SMR ont une puissance comprise entre 50 et 500 MWe, contre 900 à 1450 MWe pour les réacteurs français en service, et leurs composants sont conçus pour être fabriqués en série puis assemblés sur site, selon le CEA.",
+      "tags": [
+        "smr",
+        "petits réacteurs"
+      ]
+    },
+    {
+      "id": "nucleaire-qcm-005",
+      "question": "Quel est l'objectif du projet expérimental Iter, en construction dans le sud de la France ?",
+      "options": [
+        "Stocker définitivement l'ensemble des déchets radioactifs produits en Europe",
+        "Développer un réacteur à fusion nucléaire, contrairement aux centrales actuelles",
+        "Remplacer progressivement tous les réacteurs EPR existants avant l'année 2030",
+        "Tester simultanément des usages nucléaires civils et militaires sur un même site"
+      ],
+      "answer": 1,
+      "explanation": "Iter explore la fusion nucléaire, un principe différent de la fission utilisée par les centrales actuelles ; 35 pays participent à ce projet qui vise à produire à terme plus d'énergie qu'il n'en consomme.",
+      "tags": [
+        "iter",
+        "fusion nucléaire"
+      ]
+    }
+  ]
+}

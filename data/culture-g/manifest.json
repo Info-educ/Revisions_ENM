@@ -155,6 +155,36 @@
       "file": "institutions-ue-mode-emploi.json",
       "title": "Les institutions de l'Union européenne, mode d'emploi",
       "category": "Institutions politiques comparées"
+    },
+    {
+      "id": "inegalites-economiques",
+      "file": "inegalites-economiques.json",
+      "title": "L'accroissement des inégalités économiques",
+      "category": "Culture générale"
+    },
+    {
+      "id": "dette-publique-francaise",
+      "file": "dette-publique-francaise.json",
+      "title": "La hausse de la dette publique française en débat",
+      "category": "Culture générale"
+    },
+    {
+      "id": "rechauffement-climatique-enjeux",
+      "file": "rechauffement-climatique-enjeux.json",
+      "title": "Comment limiter le réchauffement climatique",
+      "category": "Culture générale"
+    },
+    {
+      "id": "nucleaire-energie-debat",
+      "file": "nucleaire-energie-debat.json",
+      "title": "Le nucléaire, une énergie qui fait débat",
+      "category": "Culture générale"
+    },
+    {
+      "id": "adaptation-changement-climatique",
+      "file": "adaptation-changement-climatique.json",
+      "title": "S'adapter au réchauffement climatique",
+      "category": "Culture générale"
     }
   ]
 }
