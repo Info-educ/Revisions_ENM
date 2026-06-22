@@ -1,0 +1,108 @@
+{
+  "id": "coree-nord-puissance-isolee",
+  "title": "La Corée du Nord, une puissance nucléaire isolée",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "coreenord-fc-001",
+      "front": "Quels sont les cinq États officiellement autorisés à détenir l'arme nucléaire selon le TNP de 1968 ?",
+      "back": "Les États-Unis, la Russie, la Chine, la France et le Royaume-Uni, seuls reconnus par le Traité sur la non-prolifération des armes nucléaires.",
+      "tags": [
+        "tnp"
+      ]
+    },
+    {
+      "id": "coreenord-fc-002",
+      "front": "Qu'est-ce que le système du « songbun » en Corée du Nord ?",
+      "back": "Un système de castes instauré en 1957 qui détermine le parcours scolaire, politique et professionnel de chaque citoyen dès sa naissance, principalement selon les actes de ses ancêtres paternels.",
+      "tags": [
+        "songbun"
+      ]
+    },
+    {
+      "id": "coreenord-fc-003",
+      "front": "Qu'est-ce que le « juche » et qui l'a formalisé comme idéologie d'État ?",
+      "back": "Une doctrine fondée sur l'autonomie militaire, l'autosuffisance économique et l'indépendance politique, reprise et développée par Kim Il-sung à partir de 1955, inscrite dans la Constitution depuis 1972.",
+      "tags": [
+        "juche"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "coreenord-qcm-001",
+      "question": "Pourquoi la Corée du Nord a-t-elle développé son arsenal nucléaire selon le panorama ?",
+      "options": [
+        "Pour obtenir à terme un siège permanent au sein du Conseil de sécurité de l'ONU",
+        "Pour mettre fin à la présence militaire américaine et réunifier la péninsule",
+        "Pour répondre à une demande explicite formulée par la Chine voisine et alliée",
+        "Pour financer son économie grâce à l'exportation de technologie nucléaire civile"
+      ],
+      "answer": 1,
+      "explanation": "Le régime a développé l'arme nucléaire dans le but de mettre fin à la présence militaire américaine en Corée du Sud et de réunifier les deux Corées sous sa direction, malgré les sanctions internationales que cela lui vaut.",
+      "tags": [
+        "objectifs nucléaires"
+      ]
+    },
+    {
+      "id": "coreenord-qcm-002",
+      "question": "Quel événement de 1945 est à l'origine de la partition de la péninsule coréenne ?",
+      "options": [
+        "Un référendum organisé par les Nations unies sur l'autodétermination locale",
+        "La division opérée par les Soviétiques et les Américains à la défaite du Japon",
+        "Une guerre civile interne ayant abouti à deux gouvernements rivaux distincts",
+        "Un accord bilatéral signé directement entre les villes de Séoul et Pyongyang"
+      ],
+      "answer": 1,
+      "explanation": "À la défaite du Japon en août 1945, les Soviétiques occupent le nord et les Américains le sud de la péninsule, division qui aboutit en 1948 à la création de deux États distincts.",
+      "tags": [
+        "partition de la corée"
+      ]
+    },
+    {
+      "id": "coreenord-qcm-003",
+      "question": "Quelle est l'origine principale de la famine débutée en juillet 1994 ?",
+      "options": [
+        "Un embargo économique total décrété par les Nations unies dès l'année 1990 environ",
+        "Des inondations particulièrement destructrices aggravées par la déforestation",
+        "Une sécheresse prolongée directement liée au changement climatique mondial actuel",
+        "L'arrêt brutal des exportations agricoles chinoises destinées vers le pays voisin"
+      ],
+      "answer": 1,
+      "explanation": "La famine de 1994 résulte de la destruction des récoltes par d'importantes inondations, aggravées par la déforestation, dans un contexte rendu plus difficile par la perte du soutien soviétique après 1991.",
+      "tags": [
+        "famine 1994"
+      ]
+    },
+    {
+      "id": "coreenord-qcm-004",
+      "question": "Quelle posture adopte Kim Jong-un face aux demandes américaines de dénucléarisation en 2019 ?",
+      "options": [
+        "Il accepte un démantèlement immédiat contre une levée rapide des sanctions visées",
+        "Il exige un processus progressif lié au retrait complet des troupes américaines",
+        "Il refuse catégoriquement toute négociation et rompt le dialogue diplomatique",
+        "Il propose un échange territorial avec la Corée du Sud en compensation directe"
+      ],
+      "answer": 1,
+      "explanation": "Lors de la rencontre avec Donald Trump en juin 2019, Kim Jong-un réclame une dénucléarisation progressive accompagnée du retrait des troupes américaines et de la signature d'un traité de paix.",
+      "tags": [
+        "sommet trump-kim"
+      ]
+    },
+    {
+      "id": "coreenord-qcm-005",
+      "question": "Quelle activité est attribuée à la Division 39, organisation gouvernementale secrète nord-coréenne ?",
+      "options": [
+        "La gestion exclusive et officielle du programme spatial civil du pays entier",
+        "L'alimentation du régime en devises étrangères via une vaste économie parallèle",
+        "La supervision officielle des relations diplomatiques avec la Chine voisine",
+        "Le contrôle centralisé de l'ensemble de la production agricole du pays entier"
+      ],
+      "answer": 1,
+      "explanation": "La Division 39 alimente le régime en devises étrangères via une économie parallèle reposant sur des activités illégales : exportations frauduleuses, piratage informatique, vente d'armes et traite d'ouvriers envoyés à l'étranger.",
+      "tags": [
+        "division 39"
+      ]
+    }
+  ]
+}

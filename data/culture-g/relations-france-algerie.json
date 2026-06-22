@@ -1,0 +1,108 @@
+{
+  "id": "relations-france-algerie",
+  "title": "Les relations France-Algérie depuis la colonisation",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "francealgerie-fc-001",
+      "front": "Quel rapport remis en janvier 2021 porte sur la réconciliation des mémoires franco-algériennes, et qui en est l'auteur ?",
+      "back": "Le rapport de l'historien Benjamin Stora, commandé par Emmanuel Macron en juillet 2020, préconisant une multiplication des gestes politiques et symboliques.",
+      "tags": [
+        "rapport stora"
+      ]
+    },
+    {
+      "id": "francealgerie-fc-002",
+      "front": "Quels accords de 1962 ont conduit à l'indépendance de l'Algérie ?",
+      "back": "Les accords d'Évian, signés en mars 1962 entre le gouvernement français et le gouvernement provisoire de la République algérienne, aboutissant à l'indépendance proclamée en juillet 1962.",
+      "tags": [
+        "accords d'évian"
+      ]
+    },
+    {
+      "id": "francealgerie-fc-003",
+      "front": "Que sont les harkis et quelle a été leur situation après l'indépendance ?",
+      "back": "Des suppétifs algériens de l'armée française pendant la guerre d'Algérie ; après 1962, seule une minorité a pu s'installer légalement en France, beaucoup d'autres ayant été victimes d'exactions en Algérie.",
+      "tags": [
+        "harkis"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "francealgerie-qcm-001",
+      "question": "Quelle reconnaissance officielle Emmanuel Macron a-t-il faite concernant Ali Boumendjel ?",
+      "options": [
+        "La reconnaissance officielle de la responsabilité française dans son assassinat",
+        "L'attribution posthume de la nationalité française accordée à toute sa famille",
+        "La création d'un musée national entièrement consacré à sa mémoire en Algérie",
+        "Le versement direct d'une indemnisation financière à l'ensemble de ses descendants"
+      ],
+      "answer": 0,
+      "explanation": "Parmi les recommandations du rapport Stora mises en œuvre, Macron a reconnu la responsabilité de la France dans l'assassinat de l'avocat indépendantiste Ali Boumendjel, geste salué comme insuffisant par les autorités algériennes.",
+      "tags": [
+        "ali boumendjel"
+      ]
+    },
+    {
+      "id": "francealgerie-qcm-002",
+      "question": "Que reconnaît la loi française adoptée en 1999 concernant les événements de 1954-1962 ?",
+      "options": [
+        "Qu'il s'agissait en réalité d'une simple opération locale de maintien de l'ordre",
+        "Que ces événements survenus en Algérie constituaient bien une véritable guerre",
+        "Que la France doit verser des réparations financières directes à l'Algérie entière",
+        "Que l'indépendance algérienne proclamée en 1962 était illégitime juridiquement"
+      ],
+      "answer": 1,
+      "explanation": "Ce n'est qu'en 1999, par l'adoption d'une loi, que la France a officiellement qualifié de « guerre » les événements survenus en Algérie entre 1954 et 1962, mettant fin à l'euphémisme d'« événements ».",
+      "tags": [
+        "qualification guerre"
+      ]
+    },
+    {
+      "id": "francealgerie-qcm-003",
+      "question": "Quel produit la France importe-t-elle presque exclusivement d'Algérie selon les données de 2022 ?",
+      "options": [
+        "Des produits agricoles et viticoles essentiellement destinés à l'exportation",
+        "Des hydrocarbures naturels ainsi que des produits pétroliers raffinés algériens",
+        "Des matières premières minières telles que le phosphate et le fer brut local",
+        "Des textiles manufacturés à bas coût destinés à la grande distribution française"
+      ],
+      "answer": 1,
+      "explanation": "La France importe presque exclusivement des hydrocarbures d'Algérie, qui était son troisième client en 2022 avec plus de 6,6 milliards d'euros de biens importés, derrière l'Italie et l'Espagne.",
+      "tags": [
+        "hydrocarbures"
+      ]
+    },
+    {
+      "id": "francealgerie-qcm-004",
+      "question": "Quelle polémique a entouré la loi mémorielle française adoptée en février 2005 ?",
+      "options": [
+        "Elle imposait dans les écoles l'enseignement obligatoire de la langue arabe",
+        "Elle évoquait dans les programmes scolaires le rôle positif de la colonisation",
+        "Elle accordait automatiquement la double nationalité à tous les pieds-noirs",
+        "Elle interdisait formellement toute commémoration future de la guerre d'Algérie"
+      ],
+      "answer": 1,
+      "explanation": "Un alinéa de la loi de février 2005 demandait aux programmes scolaires de reconnaître le rôle positif de la présence française en Afrique du Nord, suscitant une vive controverse ; cette disposition a finalement été abrogée en février 2006.",
+      "tags": [
+        "loi mémorielle 2005"
+      ]
+    },
+    {
+      "id": "francealgerie-qcm-005",
+      "question": "Combien d'essais nucléaires la France a-t-elle menés dans le Sahara algérien entre 1960 et 1966 ?",
+      "options": [
+        "5 essais en tout, tous réalisés avant l'indépendance algérienne de l'année 1962",
+        "9 essais en tout, dont aucun n'a eu lieu après l'indépendance de l'Algérie de 1962",
+        "17 essais en tout, dont 11 réalisés après l'indépendance en vertu d'un accord",
+        "23 essais en tout, menés sans aucun accord conclu avec les autorités algériennes"
+      ],
+      "answer": 2,
+      "explanation": "La France a procédé à 17 essais nucléaires dans le Sahara algérien entre 1960 et 1966, dont 11 après l'indépendance de 1962, en vertu d'un accord entre les deux pays, posant aujourd'hui un contentieux mémoriel non résolu.",
+      "tags": [
+        "essais nucléaires"
+      ]
+    }
+  ]
+}

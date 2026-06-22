@@ -1,0 +1,112 @@
+{
+  "id": "guerre-syrie-2011-2024",
+  "title": "La guerre en Syrie, 2011-2024",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "syrie-fc-001",
+      "front": "Quel événement déclenche le soulèvement contre Bachar al-Assad en mars 2011 ?",
+      "back": "La répression d'étudiants de Deraa, emprisonnés et torturés pour un graffiti hostile au régime, provoque le 18 mars 2011 le premier rassemblement d'ampleur réclamant le départ de Bachar al-Assad.",
+      "tags": [
+        "deraa",
+        "printemps arabe"
+      ]
+    },
+    {
+      "id": "syrie-fc-002",
+      "front": "Quel bilan humain le conflit syrien a-t-il atteint selon l'Observatoire syrien des droits de l'homme (mars 2023) ?",
+      "back": "Plus de 613 000 morts, dont environ 162 000 civils (près de 41 000 enfants), ainsi que des soldats loyalistes, des djihadistes et des combattants rebelles et kurdes.",
+      "tags": [
+        "osdh",
+        "bilan humain"
+      ]
+    },
+    {
+      "id": "syrie-fc-003",
+      "front": "Comment et quand meurt le chef de l'État islamique Abou Bakr al-Baghdadi ?",
+      "back": "Dans la nuit du 26 au 27 octobre 2019, lors d'un raid des forces américaines près d'Idleb, en actionnant une ceinture d'explosifs.",
+      "tags": [
+        "état islamique",
+        "al-baghdadi"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "syrie-qcm-001",
+      "question": "Quelle famille dirige la Syrie depuis 1970 et selon quelle confession religieuse ?",
+      "options": [
+        "La famille Assad, de confession alaouite, une branche dissidente du chiisme",
+        "La famille Assad, de confession sunnite, majoritaire dans l'ensemble du pays",
+        "La famille Baas, fondatrice du parti unique et de confession chrétienne orthodoxe",
+        "La famille Tlass, alliée militaire historique de confession druze minoritaire"
+      ],
+      "answer": 0,
+      "explanation": "Hafez puis Bachar al-Assad appartiennent à la communauté alaouite, une branche dissidente du chiisme, alors que la population syrienne est majoritairement sunnite, ce qui structure les tensions communautaires du régime.",
+      "tags": [
+        "alaouites"
+      ]
+    },
+    {
+      "id": "syrie-qcm-002",
+      "question": "Quelle ligne rouge Barack Obama fixe-t-il au régime syrien en août 2012 ?",
+      "options": [
+        "Toute attaque militaire menée directement contre les forces kurdes du nord-est syrien",
+        "Le bombardement répété et systématique de zones civiles densément peuplées du pays",
+        "L'utilisation d'armes chimiques par le régime contre la population syrienne",
+        "La fermeture totale et durable des couloirs humanitaires en direction de la Turquie"
+      ],
+      "answer": 2,
+      "explanation": "Obama affirme que l'usage d'armes chimiques constituerait une « ligne rouge ». Après l'attaque au gaz sarin de 2013, il privilégie finalement la voie diplomatique avec un accord négocié via la Russie.",
+      "tags": [
+        "armes chimiques"
+      ]
+    },
+    {
+      "id": "syrie-qcm-003",
+      "question": "Quelle ville symbolique est reprise par l'armée syrienne en décembre 2016, avec un appui décisif ?",
+      "options": [
+        "Idleb, reprise grâce au soutien aérien massif apporté par l'aviation iranienne",
+        "Rakka, reprise grâce à l'action menée par les Forces démocratiques syriennes alliées",
+        "Alep, reprise grâce au soutien aérien décisif apporté par l'aviation russe alliée",
+        "Homs, reprise grâce à une intervention militaire turque coordonnée localement"
+      ],
+      "answer": 2,
+      "explanation": "Les quartiers est d'Alep, tenus depuis 2012 par les rebelles, capitulent en décembre 2016 face à l'armée syrienne appuyée au sol par le Hezbollah et dans les airs par l'aviation russe, intervenue depuis septembre 2015.",
+      "tags": [
+        "bataille d'alep"
+      ]
+    },
+    {
+      "id": "syrie-qcm-004",
+      "question": "Quelle conséquence a l'offensive turque d'octobre 2019 dans le nord de la Syrie ?",
+      "options": [
+        "Les forces kurdes YPG cèdent finalement une large bande frontalière à la Turquie",
+        "La Turquie renonce définitivement à toute présence militaire dans la région",
+        "Les États-Unis renforcent alors leur présence pour mieux soutenir les Kurdes",
+        "La Russie se retire entièrement et durablement du théâtre syrien à cette période"
+      ],
+      "answer": 0,
+      "explanation": "Après le retrait américain annoncé par Donald Trump, la Turquie lance une offensive contre les YPG, qui finissent par céder une bande de territoire frontalière, formalisée par un accord turco-russe le 22 octobre 2019.",
+      "tags": [
+        "ypg",
+        "offensive turque"
+      ]
+    },
+    {
+      "id": "syrie-qcm-005",
+      "question": "Quel groupe djihadiste s'impose dans la province d'Idleb au détriment d'autres factions rebelles ?",
+      "options": [
+        "Le groupe État islamique, après sa lourde défaite subie à Rakka en 2017 précisément",
+        "Hayat Tahrir al-Cham, ex-branche syrienne du réseau terroriste Al-Qaïda local",
+        "L'Armée syrienne libre, finalement ralliée aux forces turques depuis l'année 2016",
+        "Les Forces démocratiques syriennes, une alliance arabo-kurde largement reconnue"
+      ],
+      "answer": 1,
+      "explanation": "Hayat Tahrir al-Cham, ex-Front al-Nosra (branche syrienne d'Al-Qaïda), s'impose dans la province d'Idleb au détriment d'une coalition rebelle soutenue par la Turquie ; il est classé groupe terroriste par l'ONU, l'UE et les États-Unis.",
+      "tags": [
+        "hayat tahrir al-cham"
+      ]
+    }
+  ]
+}

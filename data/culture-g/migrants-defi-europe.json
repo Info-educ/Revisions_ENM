@@ -1,0 +1,110 @@
+{
+  "id": "migrants-defi-europe",
+  "title": "Les migrants, un défi pour l'Europe",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "migrants-fc-001",
+      "front": "Quelle route migratoire est la plus mortelle au monde et quel bilan enregistre-t-elle en 2023 ?",
+      "back": "La Méditerranée, avec plus de 4 000 morts et disparus en 2023 selon l'Organisation internationale pour les migrations (OIM, agence de l'ONU).",
+      "tags": [
+        "méditerranée",
+        "oim"
+      ]
+    },
+    {
+      "id": "migrants-fc-002",
+      "front": "Quel texte européen a remplacé le règlement de Dublin III et quel est son principal apport ?",
+      "back": "Le « Pacte sur la migration et l'asile », adopté en avril 2024, introduit un mécanisme de solidarité entre États membres et une procédure d'examen préalable à l'entrée pouvant durer jusqu'à sept jours.",
+      "tags": [
+        "pacte asile",
+        "dublin iii"
+      ]
+    },
+    {
+      "id": "migrants-fc-003",
+      "front": "Qu'est-ce que l'espace Schengen et depuis quand est-il entré en vigueur ?",
+      "back": "Une zone de 26 États (dont 22 membres de l'UE) à libre circulation des personnes, entrée en vigueur en 1995, imposant une politique migratoire commune et autorisant des contrôles temporaires en cas de menace.",
+      "tags": [
+        "schengen"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "migrants-qcm-001",
+      "question": "Selon la Convention de Genève de 1951, qu'est-ce qui définit un réfugié ?",
+      "options": [
+        "Toute personne quittant son pays uniquement pour des raisons économiques difficiles",
+        "Une crainte fondée de persécution liée à la race, la religion ou l'opinion politique",
+        "Toute personne ayant traversé illégalement une frontière d'un pays membre de l'UE",
+        "Une personne fuyant une catastrophe naturelle survenue dans son pays d'origine récemment"
+      ],
+      "answer": 1,
+      "explanation": "La Convention de Genève de 1951 définit le réfugié par une crainte raisonnée de persécution du fait de la race, religion, nationalité, appartenance à un groupe social ou opinions politiques. Les motifs économiques ou environnementaux ne sont pas couverts par ce statut.",
+      "tags": [
+        "convention de genève"
+      ]
+    },
+    {
+      "id": "migrants-qcm-002",
+      "question": "Quel pays a fermé sa frontière avec la Serbie en juin 2015 et construit un mur ?",
+      "options": [
+        "La Hongrie, sous l'impulsion de son Premier ministre Viktor Orban, dès juin 2015",
+        "La Croatie, en réponse directe à la pression croissante des flux balkaniques voisins",
+        "L'Autriche, afin de protéger durablement sa frontière commune avec la Slovénie",
+        "La Slovaquie, après avoir subi un afflux massif de migrants venus depuis la Grèce"
+      ],
+      "answer": 0,
+      "explanation": "La Hongrie a fermé en juin 2015 sa frontière de 175 km avec la Serbie et fait construire un mur, étendu ensuite jusqu'à la Croatie, pour bloquer les entrées clandestines.",
+      "tags": [
+        "route des balkans"
+      ]
+    },
+    {
+      "id": "migrants-qcm-003",
+      "question": "Quel accord conclu en mars 2016 visait à réduire les flux migratoires vers l'UE ?",
+      "options": [
+        "Un accord conclu entre l'Union européenne et la Libye sur les garde-côtes locaux",
+        "Un accord conclu entre l'Union européenne et la Turquie sur les réadmissions de migrants",
+        "Un accord conclu entre l'Union européenne et la Grèce sur la création de centres de tri",
+        "Un accord conclu entre l'Union européenne et l'Égypte sur l'exemption de visas"
+      ],
+      "answer": 1,
+      "explanation": "L'accord UE-Turquie de mars 2016 permet de renvoyer en Turquie les migrants irréguliers interceptés ou arrivés en Grèce sans demande d'asile valide, en échange de compensations financières.",
+      "tags": [
+        "accord ue-turquie"
+      ]
+    },
+    {
+      "id": "migrants-qcm-004",
+      "question": "Quel épisode a opposé la France et l'Italie autour du navire Ocean Viking en novembre 2022 ?",
+      "options": [
+        "L'Italie a fait couler le navire après un très long refus d'accostage prolongé",
+        "La France a accueilli le navire après le refus conjoint de l'Italie et de Malte",
+        "L'Italie a finalement accueilli le navire après le refus initial venu de la France",
+        "Le navire a été redirigé vers les côtes espagnoles par décision européenne commune"
+      ],
+      "answer": 1,
+      "explanation": "La France a autorisé « à titre exceptionnel » l'Ocean Viking, transportant 230 personnes, à accoster à Toulon après que l'Italie et Malte eurent ignoré ses demandes malgré la convention de 1979 sur les zones de sauvetage.",
+      "tags": [
+        "ocean viking"
+      ]
+    },
+    {
+      "id": "migrants-qcm-005",
+      "question": "Quelle proportion de la population de l'UE à 27 était composée de non-Européens début 2023 ?",
+      "options": [
+        "Environ 2,3 % de la population totale résidant dans l'ensemble de l'Union européenne",
+        "Environ 6,1 % de la population totale résidant dans l'ensemble de l'Union européenne",
+        "Environ 11,4 % de la population totale résidant dans l'ensemble de l'Union européenne",
+        "Environ 15,8 % de la population totale résidant dans l'ensemble de l'Union européenne"
+      ],
+      "answer": 1,
+      "explanation": "Selon Eurostat, 27,3 millions de personnes sans nationalité d'un pays de l'UE résidaient dans l'Union début 2023, soit 6,1 % de la population, l'Allemagne étant le premier pays d'accueil.",
+      "tags": [
+        "eurostat"
+      ]
+    }
+  ]
+}

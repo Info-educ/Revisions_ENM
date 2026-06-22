@@ -91,10 +91,34 @@
       "category": "Introduction au droit"
     },
     {
-      "id": "partie-dix-enjeux-enm",
-      "file": "partie-dix-enjeux-enm.json",
-      "title": "La Partie des dix — Enjeux majeurs pour l'ENM",
-      "category": "Culture générale juridique"
+      "id": "migrants-defi-europe",
+      "file": "migrants-defi-europe.json",
+      "title": "Les migrants, un défi pour l'Europe",
+      "category": "Culture générale"
+    },
+    {
+      "id": "guerre-syrie-2011-2024",
+      "file": "guerre-syrie-2011-2024.json",
+      "title": "La guerre en Syrie, 2011-2024",
+      "category": "Culture générale"
+    },
+    {
+      "id": "espace-conquete-geopolitique",
+      "file": "espace-conquete-geopolitique.json",
+      "title": "L'espace, une conquête géopolitique et scientifique",
+      "category": "Culture générale"
+    },
+    {
+      "id": "coree-nord-puissance-isolee",
+      "file": "coree-nord-puissance-isolee.json",
+      "title": "La Corée du Nord, une puissance nucléaire isolée",
+      "category": "Culture générale"
+    },
+    {
+      "id": "relations-france-algerie",
+      "file": "relations-france-algerie.json",
+      "title": "Les relations France-Algérie depuis la colonisation",
+      "category": "Culture générale"
     }
   ]
 }

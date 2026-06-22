@@ -1,0 +1,109 @@
+{
+  "id": "espace-conquete-geopolitique",
+  "title": "L'espace, une conquête géopolitique et scientifique",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "espace-fc-001",
+      "front": "Qu'est-ce qui définit un État comme « puissance spatiale » ?",
+      "back": "Le fait d'avoir fabriqué et placé en orbite un satellite de manière autonome, par ses propres moyens techniques, sans dépendre d'un autre pays.",
+      "tags": [
+        "puissance spatiale"
+      ]
+    },
+    {
+      "id": "espace-fc-002",
+      "front": "Que prévoit le traité de l'espace de 1967 concernant les armes ?",
+      "back": "Il interdit de mettre en orbite tout objet porteur d'armes nucléaires ou d'armes de destruction massive, mais il ne prohibe pas le simple transit de missiles nucléaires dans l'espace.",
+      "tags": [
+        "traité de l'espace"
+      ]
+    },
+    {
+      "id": "espace-fc-003",
+      "front": "Qu'est-ce que le « New Space » ?",
+      "back": "L'ouverture du secteur spatial à de nouveaux acteurs privés (SpaceX, Blue Origin, Virgin Galactic), caractérisée par des financements privés, l'innovation technologique et la baisse des coûts.",
+      "tags": [
+        "new space"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "espace-qcm-001",
+      "question": "Quel événement marque précisément le début de l'ère spatiale en octobre 1957 ?",
+      "options": [
+        "Le lancement réussi par l'URSS du tout premier satellite artificiel, Spoutnik 1",
+        "Le premier vol humain réalisé par le cosmonaute soviétique Youri Gagarine en 1961",
+        "Le lancement du premier satellite artificiel américain, baptisé Explorer en 1958",
+        "L'annonce publique par John Kennedy de l'objectif lunaire pour les Américains"
+      ],
+      "answer": 0,
+      "explanation": "L'URSS lance Spoutnik 1, premier satellite artificiel au monde, le 4 octobre 1957, devançant les États-Unis qui ne réussiront leur premier lancement qu'en janvier 1958.",
+      "tags": [
+        "spoutnik"
+      ]
+    },
+    {
+      "id": "espace-qcm-002",
+      "question": "Quelle particularité présente le premier ravitaillement privé de l'ISS par la capsule Dragon en 2012 ?",
+      "options": [
+        "C'est le premier vaisseau habité jamais conçu sans aucun financement public",
+        "C'est le tout premier vaisseau privé assurant le ravitaillement de la station ISS",
+        "C'est le premier vaisseau russe directement affrété par une société américaine",
+        "C'est le premier vol spatial financé entièrement par un État membre européen"
+      ],
+      "answer": 1,
+      "explanation": "En mai 2012, la capsule Dragon de SpaceX s'amarre à l'ISS pour y livrer du fret, une première pour un vaisseau privé, dans le cadre d'un partenariat public-privé avec la Nasa.",
+      "tags": [
+        "spacex",
+        "iss"
+      ]
+    },
+    {
+      "id": "espace-qcm-003",
+      "question": "Quelle prouesse la Chine réalise-t-elle en janvier 2019 dans le domaine lunaire ?",
+      "options": [
+        "Elle envoie le tout premier équipage humain en orbite autour de la Lune entière",
+        "Elle pose la toute première sonde sur la face cachée de la Lune jamais connue",
+        "Elle établit la première station de recherche lunaire permanente au monde entier",
+        "Elle ramène les premiers échantillons lunaires recueillis depuis l'année 1976"
+      ],
+      "answer": 1,
+      "explanation": "La Chine devient en janvier 2019 le premier pays à poser une sonde sur la face cachée de la Lune, dotée d'un atterrisseur et d'un rover pour étudier la topographie et la composition du sol.",
+      "tags": [
+        "programme lunaire chinois"
+      ]
+    },
+    {
+      "id": "espace-qcm-004",
+      "question": "Pourquoi les débris spatiaux constituent-ils un enjeu de sécurité croissant aujourd'hui ?",
+      "options": [
+        "Ils perturbent uniquement les communications radio reçues au sol par les antennes",
+        "Ils peuvent provoquer de dangereuses collisions avec des engins en activité",
+        "Ils sont considérés comme la toute première cause du réchauffement climatique",
+        "Ils empêchent désormais tout nouveau lancement de satellites commerciaux privés"
+      ],
+      "answer": 1,
+      "explanation": "Avec 130 millions de débris recensés en orbite par l'ESA en 2023, le risque principal est la collision avec des satellites ou vaisseaux opérationnels, la majorité des débris provenant d'explosions.",
+      "tags": [
+        "débris spatiaux"
+      ]
+    },
+    {
+      "id": "espace-qcm-005",
+      "question": "Quel terme désigne spécifiquement un astronaute possédant la nationalité française ?",
+      "options": [
+        "Cosmonaute, un terme en réalité réservé aux seules nationalités francophones",
+        "Spationaute, un terme propre et spécifique à la nationalité française uniquement",
+        "Taïkonaute, un terme employé de manière indifférenciée dans l'ensemble de l'Europe",
+        "Vyomanaute, un terme adopté par une convention scientifique internationale récente"
+      ],
+      "answer": 1,
+      "explanation": "Le terme varie selon la nationalité : spationaute pour un Français, cosmonaute pour un Russe, astronaute pour un Américain, taïkonaute pour un Chinois et vyomanaute pour un Indien.",
+      "tags": [
+        "spationaute"
+      ]
+    }
+  ]
+}
