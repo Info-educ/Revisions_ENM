@@ -71,6 +71,12 @@
       "file": "metiers-droit.json",
       "title": "Les métiers du droit — Panorama des professions juridiques et judiciaires",
       "category": "Introduction au droit"
+    },
+    {
+      "id": "droit-objectif",
+      "file": "droit-objectif.json",
+      "title": "Le droit objectif — Règle de droit, vocabulaire fondamental et application dans le temps et l'espace",
+      "category": "Introduction au droit"
     }
   ]
 }
