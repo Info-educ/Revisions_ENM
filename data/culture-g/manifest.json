@@ -89,6 +89,12 @@
       "file": "sources-droit-hierarchie.json",
       "title": "Sources du droit — Hiérarchie des normes et droit de l'Union",
       "category": "Introduction au droit"
+    },
+    {
+      "id": "partie-dix-enjeux-enm",
+      "file": "partie-dix-enjeux-enm.json",
+      "title": "La Partie des dix — Enjeux majeurs pour l'ENM",
+      "category": "Culture générale juridique"
     }
   ]
 }
