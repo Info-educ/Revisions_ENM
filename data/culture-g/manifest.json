@@ -119,6 +119,12 @@
       "file": "relations-france-algerie.json",
       "title": "Les relations France-Algérie depuis la colonisation",
       "category": "Culture générale"
+    },
+    {
+      "id": "droit-prive-branches-juridictions",
+      "file": "droit-prive-branches-juridictions.json",
+      "title": "Le droit privé — Branches et juridictions associées",
+      "category": "Introduction au droit"
     }
   ]
 }
