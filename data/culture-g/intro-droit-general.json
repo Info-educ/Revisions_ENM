@@ -1,0 +1,189 @@
+{
+  "id": "intro-droit-general",
+  "title": "Introduction générale au droit — Histoire, codification et systèmes juridiques",
+  "category": "Introduction au droit",
+  "flashcards": [
+    {
+      "id": "intro-droit-fc-001",
+      "front": "Qu'est-ce que la pyramide des besoins de Maslow et quel lien entretient-elle avec la place croissante du droit ?",
+      "back": "Théorie du psychologue Abraham Maslow (1943) hiérarchisant les besoins humains en cinq niveaux : besoins physiologiques, sécurité, appartenance, estime, accomplissement. Le besoin de sécurité (2e niveau) explique en partie la judiciarisation : la complexification de la société engendre une demande croissante de protection juridique pour les particuliers et les entreprises.",
+      "tags": [
+        "maslow",
+        "judiciarisation",
+        "besoins de sécurité"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "intro-droit-qcm-001",
+      "question": "Où est actuellement conservé le Code d'Hammurabi, découvert lors de fouilles à Suse en 1901 ?",
+      "options": [
+        "British Museum de Londres",
+        "Musée national d'Irak à Bagdad",
+        "Musée du Louvre à Paris",
+        "Musée archéologique d'Istanbul"
+      ],
+      "answer": 2,
+      "explanation": "Le Code d'Hammurabi, stèle gravée à Babylone vers le XVIIIe siècle av. J.-C., a été découvert en 1901 lors de fouilles à Suse (actuel Iran) et est conservé au musée du Louvre à Paris. Les autres musées cités sont des distracteurs plausibles pour un texte d'origine proche-orientale.",
+      "tags": [
+        "code hammurabi",
+        "sources historiques du droit",
+        "antiquité"
+      ]
+    },
+    {
+      "id": "intro-droit-qcm-002",
+      "question": "Dans le droit romain, quel corps de règles régissait les relations entre citoyens romains et étrangers ?",
+      "options": [
+        "Le jus civile, applicable uniquement aux relations entre ressortissants romains",
+        "Le jus gentium, régissant les rapports entre citoyens romains et personnes étrangères",
+        "Le jus naturale, fondé sur la raison universelle commune à tous les êtres humains",
+        "Le jus publicum, encadrant l'organisation et le fonctionnement de l'État romain"
+      ],
+      "answer": 1,
+      "explanation": "Le jus gentium (droit des gens) régissait les relations entre citoyens romains et étrangers. Le jus civile ne s'appliquait qu'aux citoyens romains entre eux. Le jus naturale et le jus publicum sont des catégories distinctes et ne concernent pas spécifiquement les relations avec les étrangers.",
+      "tags": [
+        "droit romain",
+        "jus gentium",
+        "jus civile"
+      ]
+    },
+    {
+      "id": "intro-droit-qcm-003",
+      "question": "Quel principe fondamental l'édit de Moulins de 1566 a-t-il consacré concernant le domaine royal ?",
+      "options": [
+        "Le principe d'inaliénabilité du domaine royal, interdisant d'aliéner les biens royaux",
+        "Le principe de continuité de l'État, garantissant la permanence des institutions royales",
+        "Le principe de légalité des actes royaux, soumettant ordonnances et édits à un contrôle",
+        "Le principe de séparation des pouvoirs entre le roi, les parlements et l'Église"
+      ],
+      "answer": 0,
+      "explanation": "L'édit de Moulins de 1566 a consacré le principe d'inaliénabilité du domaine royal, interdisant au roi d'aliéner les terres et biens de la Couronne. Le principe de continuité de la Couronne/de l'État est distinct et a été reconnu de valeur constitutionnelle en 1979.",
+      "tags": [
+        "édit de moulins",
+        "domaine royal",
+        "moyen âge"
+      ]
+    },
+    {
+      "id": "intro-droit-qcm-004",
+      "question": "Dans quelle œuvre Montesquieu a-t-il théorisé la séparation des pouvoirs législatif, exécutif et judiciaire ?",
+      "options": [
+        "Les Lettres persanes, publiées en 1721 sous forme de roman épistolaire à visée satirique",
+        "Le Contrat social, traité de philosophie politique sur la souveraineté populaire de 1762",
+        "De l'esprit des lois, traité de philosophie politique et juridique publié en 1748",
+        "De la démocratie en Amérique, analyse comparée des systèmes politiques publiée en 1835"
+      ],
+      "answer": 2,
+      "explanation": "C'est dans De l'esprit des lois (1748) que Montesquieu développe la théorie de la séparation des trois pouvoirs. Les Lettres persanes (1721) sont une œuvre satirique distincte. Le Contrat social (1762) est de Rousseau, et De la démocratie en Amérique (1835) est de Tocqueville.",
+      "tags": [
+        "montesquieu",
+        "séparation des pouvoirs",
+        "époque moderne"
+      ]
+    },
+    {
+      "id": "intro-droit-qcm-005",
+      "question": "Quelle est la date exacte de promulgation du Code civil napoléonien, correspondant au 30 ventôse an XII ?",
+      "options": [
+        "21 mars 1804",
+        "14 juillet 1789",
+        "4 octobre 1958",
+        "1er janvier 1811"
+      ],
+      "answer": 0,
+      "explanation": "Le Code civil a été promulgué le 21 mars 1804 (30 ventôse an XII). Il ne faut pas le confondre avec le Code pénal (1810/1811) ni avec la Constitution du 4 octobre 1958. Le 14 juillet 1789 correspond à la prise de la Bastille.",
+      "tags": [
+        "code civil",
+        "1804",
+        "codification napoléonienne"
+      ]
+    },
+    {
+      "id": "intro-droit-qcm-006",
+      "question": "Parmi les articles du Code civil de 1804 restés inchangés depuis l'origine, lequel interdit au juge le déni de justice ?",
+      "options": [
+        "L'article consacrant la non-rétroactivité de la loi et son effet pour l'avenir uniquement",
+        "L'article définissant le droit de propriété comme le droit de jouir et disposer des choses",
+        "L'article interdisant les conventions contraires à l'ordre public et aux bonnes mœurs",
+        "L'article imposant au juge de statuer même en cas de silence ou d'obscurité de la loi"
+      ],
+      "answer": 3,
+      "explanation": "L'interdiction du déni de justice figure aux articles 4 et 5 du Code civil : le juge ne peut refuser de statuer sous prétexte du silence, de l'obscurité ou de l'insuffisance de la loi. L'article 2 concerne la non-rétroactivité, l'article 544 la propriété, et l'article 6 l'ordre public.",
+      "tags": [
+        "code civil",
+        "déni de justice",
+        "codification napoléonienne"
+      ]
+    },
+    {
+      "id": "intro-droit-qcm-007",
+      "question": "Sur quel fondement principal repose le système de Common Law, par opposition au droit civiliste continental ?",
+      "options": [
+        "Sur la codification systématique des règles dans des codes promulgués par le législateur",
+        "Sur le droit canonique élaboré par l'Église catholique et laïcisé au fil des siècles",
+        "Sur les coutumes locales compilées et progressivement unifiées par l'État central",
+        "Sur la jurisprudence des juridictions, dont les décisions s'imposent comme source du droit"
+      ],
+      "answer": 3,
+      "explanation": "La Common Law repose principalement sur la jurisprudence (precedent) : les décisions des juridictions supérieures s'imposent aux juridictions inférieures. Le droit civiliste romano-germanique, à l'inverse, repose sur la codification systématique de règles écrites. Les deux autres options sont des distracteurs inexacts.",
+      "tags": [
+        "common law",
+        "jurisprudence",
+        "systèmes juridiques"
+      ]
+    },
+    {
+      "id": "intro-droit-qcm-008",
+      "question": "Parmi les pays suivants, lequel fait exception au système de Common Law bien qu'appartenant à un État qui l'applique majoritairement ?",
+      "options": [
+        "L'Irlande, qui conserverait un système mixte issu du droit canonique médiéval irlandais",
+        "L'Australie, qui a adopté un code civil fédéral pour ses États et Territoires du Sud",
+        "Le Québec, qui applique un droit civil de tradition romano-germanique au sein du Canada",
+        "La Nouvelle-Zélande, qui a partiellement codifié son droit selon le modèle australien"
+      ],
+      "answer": 2,
+      "explanation": "Le Québec relève du droit civil romano-germanique (Code civil du Québec), tandis que le reste du Canada applique la Common Law. De même, la Louisiane est une exception analogue aux États-Unis. L'Irlande, l'Australie et la Nouvelle-Zélande appliquent intégralement la Common Law.",
+      "tags": [
+        "common law",
+        "québec",
+        "systèmes juridiques"
+      ]
+    },
+    {
+      "id": "intro-droit-qcm-009",
+      "question": "Quelle évolution du nombre d'avocats en France illustre le phénomène de judiciarisation de la société entre 2002 et 2019 ?",
+      "options": [
+        "Une hausse de 42 %, passant d'environ 39 000 à près de 70 000 avocats inscrits au barreau",
+        "Une hausse de 25 %, passant d'environ 55 000 à près de 70 000 avocats inscrits au barreau",
+        "Un doublement, passant d'environ 35 000 à près de 70 000 avocats inscrits au barreau",
+        "Une stagnation globale autour de 60 000 avocats, masquant de fortes disparités régionales"
+      ],
+      "answer": 0,
+      "explanation": "Entre 2002 et 2019, le nombre d'avocats en France est passé de 39 454 à 69 900, soit une hausse d'environ 42 %. Les autres options distordent les chiffres réels en modifiant le point de départ ou en niant la progression réelle.",
+      "tags": [
+        "judiciarisation",
+        "avocats",
+        "société contemporaine"
+      ]
+    },
+    {
+      "id": "intro-droit-qcm-010",
+      "question": "Quelle tendance observe-t-on dans les requêtes déposées devant la CEDH entre 1990 et 2018 ?",
+      "options": [
+        "Une hausse régulière et continue, de 5 200 requêtes en 1990 à plus de 61 000 en 2013",
+        "Une stabilisation autour de 45 000 requêtes depuis la réforme de la procédure en 2000",
+        "Une baisse constante depuis 1990, grâce au renforcement des juridictions nationales",
+        "Une forte hausse jusqu'en 2013 à 61 100 requêtes, suivie d'une décrue à 43 075 en 2018"
+      ],
+      "answer": 3,
+      "explanation": "Les requêtes devant la CEDH sont passées de 5 200 en 1990 à 61 100 en 2013 (pic), puis ont décru à 43 075 en 2018. Cette évolution en deux temps est à maîtriser précisément. Les options A, B et C décrivent des évolutions fictives ou tronquées.",
+      "tags": [
+        "cedh",
+        "judiciarisation",
+        "données chiffrées"
+      ]
+    }
+  ]
+}

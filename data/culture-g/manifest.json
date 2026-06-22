@@ -59,6 +59,12 @@
       "file": "conflit-iran-etats-unis.json",
       "title": "Le conflit entre l'Iran et les États-Unis et la crise du détroit d'Ormuz",
       "category": "Culture générale"
+    },
+    {
+      "id": "intro-droit-general",
+      "file": "intro-droit-general.json",
+      "title": "Introduction générale au droit — Histoire, codification et systèmes juridiques",
+      "category": "Introduction au droit"
     }
   ]
 }
