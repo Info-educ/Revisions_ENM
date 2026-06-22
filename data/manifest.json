@@ -1,0 +1,130 @@
+{
+  "chapters": [
+    {
+      "id": "culture-generale-enm",
+      "file": "culture-generale-enm.json",
+      "title": "Culture générale ENM — Actualité judiciaire et institutionnelle",
+      "category": "Culture générale"
+    },
+    {
+      "id": "regimes-executifs-legislatifs",
+      "file": "regimes-executifs-legislatifs.json",
+      "title": "Systèmes exécutifs et législatifs — France, Europe, Suisse, États-Unis",
+      "category": "Institutions politiques comparées"
+    },
+    {
+      "id": "laicite-etat-religions",
+      "file": "laicite-etat-religions.json",
+      "title": "Laïcité : l'État face aux religions",
+      "category": "Culture générale"
+    },
+    {
+      "id": "influence-chine-monde",
+      "file": "influence-chine-monde.json",
+      "title": "L'influence croissante de la Chine dans le monde",
+      "category": "Culture générale"
+    },
+    {
+      "id": "arctique-region-strategique",
+      "file": "arctique-region-strategique.json",
+      "title": "L'Arctique, une région stratégique convoitée",
+      "category": "Culture générale"
+    },
+    {
+      "id": "pantheonisations-resistants",
+      "file": "pantheonisations-resistants.json",
+      "title": "Le Panthéon : qui y entre, et pourquoi",
+      "category": "Culture générale"
+    },
+    {
+      "id": "retour-protectionnisme",
+      "file": "retour-protectionnisme.json",
+      "title": "Le retour du protectionnisme",
+      "category": "Culture générale"
+    },
+    {
+      "id": "guerre-ukraine-russie",
+      "file": "guerre-ukraine-russie.json",
+      "title": "La guerre en Ukraine",
+      "category": "Culture générale"
+    },
+    {
+      "id": "conflit-israelo-palestinien",
+      "file": "conflit-israelo-palestinien.json",
+      "title": "Le conflit israélo-palestinien",
+      "category": "Culture générale"
+    },
+    {
+      "id": "conflit-iran-etats-unis",
+      "file": "conflit-iran-etats-unis.json",
+      "title": "Le conflit entre l'Iran et les États-Unis et la crise du détroit d'Ormuz",
+      "category": "Culture générale"
+    },
+    {
+      "id": "intro-droit-general",
+      "file": "intro-droit-general.json",
+      "title": "Introduction générale au droit — Histoire, codification et systèmes juridiques",
+      "category": "Introduction au droit"
+    },
+    {
+      "id": "metiers-droit",
+      "file": "metiers-droit.json",
+      "title": "Les métiers du droit — Panorama des professions juridiques et judiciaires",
+      "category": "Introduction au droit"
+    },
+    {
+      "id": "droit-objectif",
+      "file": "droit-objectif.json",
+      "title": "Le droit objectif — Règle de droit, vocabulaire fondamental et application dans le temps et l'espace",
+      "category": "Introduction au droit"
+    },
+    {
+      "id": "droits-subjectifs",
+      "file": "droits-subjectifs.json",
+      "title": "Les droits subjectifs — Personnalité juridique, personnes morales, patrimoine et biens",
+      "category": "Introduction au droit"
+    },
+    {
+      "id": "sources-droit-hierarchie",
+      "file": "sources-droit-hierarchie.json",
+      "title": "Sources du droit — Hiérarchie des normes et droit de l'Union",
+      "category": "Introduction au droit"
+    },
+    {
+      "id": "migrants-defi-europe",
+      "file": "migrants-defi-europe.json",
+      "title": "Les migrants, un défi pour l'Europe",
+      "category": "Culture générale"
+    },
+    {
+      "id": "guerre-syrie-2011-2024",
+      "file": "guerre-syrie-2011-2024.json",
+      "title": "La guerre en Syrie, 2011-2024",
+      "category": "Culture générale"
+    },
+    {
+      "id": "espace-conquete-geopolitique",
+      "file": "espace-conquete-geopolitique.json",
+      "title": "L'espace, une conquête géopolitique et scientifique",
+      "category": "Culture générale"
+    },
+    {
+      "id": "coree-nord-puissance-isolee",
+      "file": "coree-nord-puissance-isolee.json",
+      "title": "La Corée du Nord, une puissance nucléaire isolée",
+      "category": "Culture générale"
+    },
+    {
+      "id": "relations-france-algerie",
+      "file": "relations-france-algerie.json",
+      "title": "Les relations France-Algérie depuis la colonisation",
+      "category": "Culture générale"
+    },
+    {
+      "id": "droit-prive-branches-juridictions",
+      "file": "droit-prive-branches-juridictions.json",
+      "title": "Le droit privé — Branches et juridictions associées",
+      "category": "Introduction au droit"
+    }
+  ]
+}
