@@ -52,6 +52,56 @@
         "sources non écrites",
         "usage"
       ]
+    },
+    {
+      "id": "sources-fc-006",
+      "front": "Quelle est la différence entre un traité et un accord international ?",
+      "back": "Le traité est négocié par le chef de l'État ou une autorité diplomatique munie d'une lettre de pleins pouvoirs ; il doit être ratifié par le président de la République après autorisation par une loi ou un référendum. L'accord international est négocié et signé par une autorité dépourvue de pleins pouvoirs ; il est approuvé par le seul ministre des Affaires étrangères, ou entre en vigueur dès sa signature s'il est conclu en forme simplifiée.",
+      "tags": [
+        "traité",
+        "accord international",
+        "ratification"
+      ]
+    },
+    {
+      "id": "sources-fc-007",
+      "front": "Quelles sont les trois conditions pour qu'un engagement international s'insère valablement dans l'ordre juridique interne français ?",
+      "back": "Il doit être ratifié ou approuvé ; il doit être publié au Journal officiel ; il doit y avoir réciprocité d'application (l'autre partie doit elle aussi respecter l'engagement). Ces trois conditions découlent de l'article 55 de la Constitution du 4 octobre 1958.",
+      "tags": [
+        "article 55",
+        "ordre juridique interne",
+        "monisme"
+      ]
+    },
+    {
+      "id": "sources-fc-008",
+      "front": "Quelles sont les cinq institutions principales de l'Union européenne ?",
+      "back": "La Commission européenne (gardienne des traités, pouvoir d'initiative législative) ; le Conseil de l'Union européenne (ministres des États membres, codécideur) ; le Parlement européen (705 membres, colégislateur) ; le Conseil européen (chefs d'État et de gouvernement, fixe les orientations) ; la Cour de justice de l'Union européenne (assure le respect du droit de l'UE). S'y ajoutent des organes complémentaires comme la Cour des comptes européenne et la BCE.",
+      "tags": [
+        "institutions UE",
+        "Commission",
+        "Parlement européen"
+      ]
+    },
+    {
+      "id": "sources-fc-009",
+      "front": "Quelles sanctions la Cour de justice de l'Union européenne peut-elle prononcer contre un État membre défaillant ?",
+      "back": "À la demande de la Commission européenne, la CJUE peut infliger une astreinte (somme due chaque jour de retard) ou une somme forfaitaire à un État qui ne respecte pas ses obligations issues des traités. La CJUE contrôle ainsi la légalité des actes et institutions de l'UE et veille au respect du droit de l'Union par les États membres.",
+      "tags": [
+        "CJUE",
+        "sanctions",
+        "astreinte"
+      ]
+    },
+    {
+      "id": "sources-fc-010",
+      "front": "Que désigne-t-on par « règle prétorienne » en droit français ?",
+      "back": "Une règle forgée par les magistrats dans le cadre de leur travail d'application des règles de droit, sans intervention du législateur. Le législateur peut ensuite consacrer cette règle dans la loi (ex. : obligation d'information du médecin, devenue article du code de la santé publique ; garantie autonome en droit des sûretés, consacrée par ordonnance du 23 mars 2006).",
+      "tags": [
+        "règle prétorienne",
+        "jurisprudence",
+        "juge"
+      ]
     }
   ],
   "qcm": [
@@ -231,6 +281,193 @@
         "common law",
         "source indirecte",
         "juge"
+      ]
+    },
+    {
+      "id": "sources-qcm-011",
+      "question": "Quelle est la principale différence de procédure entre un traité et un accord en forme simplifiée ?",
+      "options": [
+        "Le traité entre en vigueur dès signature, l'accord nécessite une loi d'habilitation",
+        "Le traité exige ratification par le président, l'accord entre en vigueur dès signature",
+        "L'accord doit toujours être autorisé par référendum avant son adoption finale",
+        "Le traité est approuvé par le ministre, l'accord est ratifié par le Parlement"
+      ],
+      "answer": 1,
+      "explanation": "Le traité doit être ratifié par le président de la République après autorisation par une loi ou un référendum. L'accord en forme simplifiée, conclu par une autorité sans lettre de pleins pouvoirs, entre en vigueur dès sa signature, sans ratification présidentielle.",
+      "tags": [
+        "traité",
+        "accord simplifié",
+        "ratification"
+      ]
+    },
+    {
+      "id": "sources-qcm-012",
+      "question": "Quel est l'objet principal de la Cour internationale de justice (CIJ), instituée en juin 1945 ?",
+      "options": [
+        "Juger les individus responsables des crimes les plus graves contre l'humanité",
+        "Régler les litiges juridiques soumis par les États et donner des avis consultatifs",
+        "Sanctionner financièrement les États membres de l'UE en cas de manquement avéré",
+        "Garantir le respect effectif de la Convention européenne des droits de l'homme"
+      ],
+      "answer": 1,
+      "explanation": "La CIJ, organe judiciaire principal de l'ONU siégeant à La Haye, règle les litiges juridiques entre États et donne des avis consultatifs aux organes et institutions spécialisées de l'ONU. Elle ne doit pas être confondue avec la Cour pénale internationale (CPI), instituée par le Statut de Rome de 1998, qui juge les individus.",
+      "tags": [
+        "CIJ",
+        "La Haye",
+        "ONU"
+      ]
+    },
+    {
+      "id": "sources-qcm-013",
+      "question": "Dans quel cadre institutionnel a été élaborée la Convention européenne de sauvegarde des droits de l'homme, signée à Rome en 1950 ?",
+      "options": [
+        "Dans le cadre des Nations unies, sur initiative directe de l'Assemblée générale",
+        "Dans le cadre du Conseil de l'Europe, organisation créée en 1949 à Strasbourg",
+        "Dans le cadre de l'Union européenne, par les six États membres fondateurs eux-mêmes",
+        "Dans le cadre de l'OTAN, afin de garantir la sécurité collective des membres"
+      ],
+      "answer": 1,
+      "explanation": "La Convention a été élaborée et signée le 4 novembre 1950 à Rome, dans le cadre du Conseil de l'Europe, créé le 5 mai 1949. Elle est entrée en vigueur le 3 septembre 1953 et a institué la Cour européenne des droits de l'homme, installée à Strasbourg depuis 1959.",
+      "tags": [
+        "CEDH",
+        "Conseil de l'Europe",
+        "Rome 1950"
+      ]
+    },
+    {
+      "id": "sources-qcm-014",
+      "question": "Quelle est la différence majeure entre l'Union européenne et le Conseil de l'Europe en nombre d'États membres ?",
+      "options": [
+        "L'Union européenne réunit 27 États, le Conseil de l'Europe en réunit 47 au total",
+        "L'Union européenne réunit 47 États, le Conseil de l'Europe en réunit 27 au total",
+        "Les deux organisations réunissent exactement les mêmes 27 États membres au total",
+        "L'Union européenne réunit 28 États, le Conseil de l'Europe en réunit 50 au total"
+      ],
+      "answer": 0,
+      "explanation": "L'Union européenne regroupe 27 États membres (au 31 janvier 2020), tandis que le Conseil de l'Europe, organisation distincte créée en 1949, en réunit 47. Le droit de l'Union se distingue ainsi du droit de la Convention européenne des droits de l'homme, élaborée au sein du Conseil de l'Europe.",
+      "tags": [
+        "Union européenne",
+        "Conseil de l'Europe",
+        "États membres"
+      ]
+    },
+    {
+      "id": "sources-qcm-015",
+      "question": "Quelle nuance faut-il apporter à l'effet direct selon la catégorie d'acte de droit dérivé de l'Union concerné ?",
+      "options": [
+        "L'effet direct est total pour tous les actes, y compris les recommandations",
+        "Seules les décisions individuelles bénéficient d'un effet direct pleinement reconnu",
+        "Il est complet pour règlements et décisions, mais incomplet pour les directives",
+        "Il ne s'applique qu'aux relations entre particuliers, jamais contre un État"
+      ],
+      "answer": 2,
+      "explanation": "L'effet direct permet aux ressortissants des États membres de se prévaloir des normes de l'UE devant le juge national. Sa portée varie selon les actes : il est complet pour les règlements et les décisions adressées à des particuliers, mais incomplet pour les directives, sauf en cas de défaut de transposition où le juge l'applique contre l'État défaillant.",
+      "tags": [
+        "effet direct",
+        "droit dérivé",
+        "directives"
+      ]
+    },
+    {
+      "id": "sources-qcm-016",
+      "question": "Que doit faire le juge national en cas de conflit entre une norme de droit interne et une norme de l'Union européenne, en application du principe de primauté ?",
+      "options": [
+        "Saisir systématiquement le Conseil constitutionnel avant de rendre toute décision",
+        "Suspendre l'affaire jusqu'à l'intervention d'une révision constitutionnelle préalable",
+        "Appliquer la norme interne, la Constitution restant toujours hiérarchiquement supérieure",
+        "Écarter la norme de droit interne qui se révèle contraire à la norme de l'Union"
+      ],
+      "answer": 3,
+      "explanation": "Le principe de primauté signifie que les normes de droit interne ne peuvent être contraires aux normes de l'Union européenne. En cas de conflit, le juge national doit écarter la norme de droit interne, ce principe ayant été reconnu par la CJCE en 1964 (arrêt Costa c. Enel).",
+      "tags": [
+        "primauté",
+        "juge national",
+        "conflit de normes"
+      ]
+    },
+    {
+      "id": "sources-qcm-017",
+      "question": "Comment qualifie-t-on une « règle prétorienne » dégagée par les juges avant toute consécration législative ?",
+      "options": [
+        "Une norme constitutionnelle implicite reconnue par le Conseil constitutionnel",
+        "Une règle créée par les magistrats eux-mêmes dans l'application des règles de droit",
+        "Une disposition réglementaire prise par l'exécutif sans aucune base légale préalable",
+        "Un principe issu exclusivement de la coutume internationale jugée contraignante"
+      ],
+      "answer": 1,
+      "explanation": "La règle prétorienne est forgée par les magistrats eux-mêmes, dans le cadre de leur travail d'application du droit, sans texte préalable. Le législateur peut ensuite la consacrer dans la loi, comme pour l'obligation d'information du médecin ou la garantie autonome en droit des sûretés.",
+      "tags": [
+        "règle prétorienne",
+        "magistrats",
+        "consécration légale"
+      ]
+    },
+    {
+      "id": "sources-qcm-018",
+      "question": "Quelle catégorie de principes généraux du droit (PGD) inclut le principe de continuité du service public ?",
+      "options": [
+        "Les principes civils et politiques, comme l'égalité de tous devant la justice",
+        "Les principes économiques et sociaux, comme le droit à une vie familiale normale",
+        "Les principes d'organisation administrative et de procédure du contentieux public",
+        "Les principes exclusivement issus de la jurisprudence de l'Union européenne"
+      ],
+      "answer": 2,
+      "explanation": "Les PGD, dégagés par le Conseil d'État, se répartissent en trois catégories : principes civils et politiques (égalité devant le service public), principes économiques et sociaux (droit à une vie familiale normale), et principes d'organisation administrative et de procédure (continuité du service public, droits de la défense, principe du recours en cassation).",
+      "tags": [
+        "PGD",
+        "Conseil d'État",
+        "service public"
+      ]
+    },
+    {
+      "id": "sources-qcm-019",
+      "question": "Quelle valeur juridique possèdent les principes généraux du droit (PGD) dégagés par le Conseil d'État ?",
+      "options": [
+        "Une valeur uniquement constitutionnelle, quel que soit le principe concerné ici",
+        "Une valeur variable selon les cas : réglementaire, législative ou constitutionnelle",
+        "Aucune valeur juridique, ce ne sont que de simples recommandations doctrinales",
+        "Une valeur toujours supérieure et systématique à celle de la loi ordinaire votée"
+      ],
+      "answer": 1,
+      "explanation": "Comme l'observent le président Bernard Stirn et Yann Aguila, la valeur juridique des PGD varie selon les cas : certains n'ont qu'une valeur réglementaire, d'autres une valeur législative, d'autres enfin une valeur constitutionnelle. Cette notion existe également en droit de l'Union européenne, avec une distinction entre droits fondamentaux et principes dégagés par la jurisprudence de la CJUE.",
+      "tags": [
+        "PGD",
+        "valeur juridique",
+        "hiérarchie des normes"
+      ]
+    },
+    {
+      "id": "sources-qcm-020",
+      "question": "Quelle différence essentielle distingue la doctrine de la jurisprudence comme source du droit français ?",
+      "options": [
+        "La doctrine s'impose aux juges, la jurisprudence n'a qu'une valeur indicative",
+        "La doctrine est une littérature savante sans autorité ; le juge tranche les litiges",
+        "Les deux constituent des sources directes et pleinement contraignantes du droit",
+        "La jurisprudence est l'opinion des universitaires, la doctrine celle des juges"
+      ],
+      "answer": 1,
+      "explanation": "La doctrine désigne la communauté des juristes (universitaires, praticiens) et la littérature qu'elle produit (articles, commentaires) ; elle n'est pas une source directe de droit mais une inspiration ou une aide à l'interprétation. La jurisprudence, elle, résulte des décisions effectives des juges qui tranchent les litiges concrets.",
+      "tags": [
+        "doctrine",
+        "jurisprudence",
+        "sources indirectes"
+      ]
+    },
+    {
+      "id": "sources-qcm-021",
+      "question": "En quoi la fonction de la doctrine se distingue-t-elle de celle de la jurisprudence dans l'évolution du droit ?",
+      "options": [
+        "La doctrine légifère directement, la jurisprudence se contente de l'appliquer",
+        "La doctrine rend le droit intelligible et propose des évolutions au législateur",
+        "La jurisprudence ne joue jamais aucun rôle dans l'évolution des règles de droit",
+        "Les deux ont un rôle identique de création immédiate de normes obligatoires"
+      ],
+      "answer": 1,
+      "explanation": "La doctrine s'attache à rendre intelligible le droit en opérant synthèses et convergences, et à proposer des innovations au législateur ou à l'autorité réglementaire. La jurisprudence, en revanche, peut créer du droit de façon plus directe par les revirements, lorsqu'une juridiction modifie l'interprétation qu'elle donnait à un texte.",
+      "tags": [
+        "doctrine",
+        "jurisprudence",
+        "évolution du droit"
       ]
     }
   ]
