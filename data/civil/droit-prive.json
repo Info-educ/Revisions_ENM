@@ -1,0 +1,273 @@
+{
+  "id": "droit-prive",
+  "title": "Le droit privé — branches et juridictions",
+  "category": "Institutions judiciaires",
+  "flashcards": [
+    {
+      "id": "droit-prive-fc-001",
+      "front": "Qu'est-ce que le droit privé et en quoi s'oppose-t-il au droit public ?",
+      "back": "Le droit privé regroupe les règles régissant les rapports entre personnes privées (physiques ou morales) et assure la sauvegarde des intérêts privés, par opposition au droit public qui organise l'État et ses rapports avec les administrés.",
+      "tags": [
+        "droit privé",
+        "droit public"
+      ]
+    },
+    {
+      "id": "droit-prive-fc-002",
+      "front": "Quelle est la place du droit civil au sein du droit privé ?",
+      "back": "Le droit civil est le « tronc » du droit privé : il constitue le droit commun applicable à tous les citoyens. Les droits spéciaux (commercial, social) s'appliquent à des catégories particulières et leur sont obligatoires.",
+      "tags": [
+        "droit civil",
+        "droit commun"
+      ]
+    },
+    {
+      "id": "droit-prive-fc-003",
+      "front": "Quels sont les trois attributs du droit de propriété et leur contenu ?",
+      "back": "Usus (user de la chose), fructus (percevoir les fruits) et abusus (disposer/vendre). Défini à l'art. 544 C. civ. comme le droit de jouir et disposer des choses de la manière la plus absolue.",
+      "tags": [
+        "propriété",
+        "usus fructus abusus"
+      ]
+    },
+    {
+      "id": "droit-prive-fc-004",
+      "front": "Quelles sont les trois conditions cumulatives de la responsabilité civile extracontractuelle ?",
+      "back": "Un fait générateur de responsabilité, un dommage (matériel, corporel ou moral) et un lien de causalité entre les deux. Ces trois éléments doivent être réunis pour engager la responsabilité délictuelle.",
+      "tags": [
+        "responsabilité civile",
+        "fait générateur"
+      ]
+    },
+    {
+      "id": "droit-prive-fc-005",
+      "front": "Quelle est la distinction entre sûretés personnelles et sûretés réelles ?",
+      "back": "Les sûretés personnelles engagent un garant (cautionnement, garantie autonome). Les sûretés réelles portent sur un bien et confèrent un droit de préférence (hypothèque, gage) ou un droit exclusif sur la propriété.",
+      "tags": [
+        "sûretés",
+        "cautionnement"
+      ]
+    },
+    {
+      "id": "droit-prive-fc-006",
+      "front": "Quel est le régime matrimonial légal par défaut en France et ses grandes règles ?",
+      "back": "La communauté réduite aux acquêts : les biens antérieurs au mariage et ceux reçus par succession ou donation restent propres ; les biens acquis à titre onéreux pendant le mariage sont communs et partagés par moitié à la dissolution.",
+      "tags": [
+        "régime matrimonial",
+        "communauté"
+      ]
+    },
+    {
+      "id": "droit-prive-fc-007",
+      "front": "Quelle est la compétence de la Cour de cassation et en quoi diffère-t-elle d'un troisième degré de juridiction ?",
+      "back": "Elle juge le droit, non les faits, et contrôle l'application de la règle par les juges du fond. Elle casse ou rejette le pourvoi et renvoie devant une juridiction de fond — elle n'est pas un 3e degré de juridiction.",
+      "tags": [
+        "Cour de cassation",
+        "pourvoi"
+      ]
+    },
+    {
+      "id": "droit-prive-fc-008",
+      "front": "Qu'est-ce que la réserve héréditaire et quelle est la quotité disponible ?",
+      "back": "La réserve est la part protégée pour les héritiers réservataires (descendants ; à défaut, conjoint survivant). La quotité disponible est le surplus librement transmissible : ½ avec un enfant, ⅓ avec deux, ¼ avec trois ou plus (art. 913 C. civ.).",
+      "tags": [
+        "réserve héréditaire",
+        "successions"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "droit-prive-qcm-001",
+      "question": "Parmi les branches suivantes, laquelle constitue le droit commun applicable à tous les citoyens ?",
+      "options": [
+        "Le droit commercial, réservé aux actes des commerçants exercés à titre professionnel",
+        "Le droit civil, droit commun du droit privé applicable en l'absence de règle spéciale",
+        "Le droit du travail, régissant le seul lien de subordination salarié et employeur",
+        "Le droit de la consommation, protégeant la partie faible face aux professionnels"
+      ],
+      "answer": 1,
+      "explanation": "Le droit civil est le 'tronc' du droit privé, droit commun applicable à tous les citoyens. Les droits spéciaux (commercial, social, consommation) s'appliquent à des catégories déterminées et dérogent au droit commun.",
+      "tags": [
+        "droit civil",
+        "droit commun"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-002",
+      "question": "Parmi les attributs de la propriété (art. 544 C. civ.), lequel permet de percevoir les fruits du bien ?",
+      "options": [
+        "L'usus, permettant au propriétaire d'utiliser le bien selon sa nature et destination",
+        "L'abusus, autorisant le propriétaire à aliéner, transformer ou détruire le bien",
+        "Le fructus, donnant droit aux fruits naturels, civils et industriels produits par le bien",
+        "L'accession, mode d'acquisition par lequel le propriétaire bénéficie des productions"
+      ],
+      "answer": 2,
+      "explanation": "Le fructus est l'attribut permettant de percevoir les fruits. L'usus est le droit d'user de la chose, l'abusus le droit d'en disposer. L'accession (art. 546) est un mode d'acquisition distinct, non un attribut de la propriété.",
+      "tags": [
+        "propriété",
+        "fructus"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-003",
+      "question": "Quel est l'effet de l'appel sur la décision de première instance, selon l'art. 561 CPC ?",
+      "options": [
+        "L'appel suspend l'exécution du jugement sans remettre en cause son contenu au fond",
+        "L'appel remet la chose jugée en question, la cour statuant à nouveau en fait et droit",
+        "L'appel transfère uniquement le contrôle de la légalité sans rejuger les faits",
+        "L'appel oblige la cour à renvoyer l'affaire devant une autre juridiction de premier degré"
+      ],
+      "answer": 1,
+      "explanation": "L'appel a un effet dévolutif (art. 561 CPC) : il remet la chose jugée en question devant la cour d'appel, qui statue à nouveau en fait et en droit. C'est ce qui le distingue du pourvoi en cassation, lequel ne porte que sur le droit.",
+      "tags": [
+        "appel",
+        "effet dévolutif"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-004",
+      "question": "Quelle juridiction est compétente pour les litiges individuels nés du contrat de travail en France ?",
+      "options": [
+        "Le tribunal judiciaire, juridiction de droit commun du premier degré en matière civile",
+        "Le tribunal de commerce, compétent pour les litiges entre commerçants et actes de commerce",
+        "Le conseil de prud'hommes, juridiction paritaire composée d'employeurs et de salariés",
+        "Le tribunal paritaire des baux ruraux, dédié aux litiges entre bailleurs et exploitants"
+      ],
+      "answer": 2,
+      "explanation": "Le conseil de prud'hommes est compétent pour les litiges individuels nés du contrat de travail. C'est une juridiction paritaire composée en nombre égal de représentants des employeurs et des salariés.",
+      "tags": [
+        "conseil de prud'hommes",
+        "juridictions"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-005",
+      "question": "Quels sont les trois vices du consentement reconnus en droit des contrats par le Code civil ?",
+      "options": [
+        "La lésion, le dol et la violence, constituant les seuls vices entraînant la nullité",
+        "L'erreur, la simulation et la réticence, couvrant tout manquement à l'information due",
+        "L'erreur, le dol et la violence, pouvant chacun entraîner la nullité relative du contrat",
+        "L'erreur, la fraude et la contrainte, reprises du droit romain dans le code moderne"
+      ],
+      "answer": 2,
+      "explanation": "Les trois vices du consentement sont l'erreur (art. 1132), le dol (art. 1137) et la violence (art. 1140/1143). La lésion n'est un vice que dans des cas limitativement prévus. La réticence dolosive est une forme de dol, non un vice autonome.",
+      "tags": [
+        "vices du consentement",
+        "contrat"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-006",
+      "question": "Parmi les responsabilités du fait d'autrui de l'art. 1242 C. civ., qui répond du fait de ses préposés ?",
+      "options": [
+        "Les parents, responsables de plein droit de leurs enfants mineurs habitant avec eux",
+        "Les commettants, responsables des dommages causés par leurs préposés dans leurs fonctions",
+        "Les instituteurs, responsables du fait de leurs élèves pendant et hors du temps scolaire",
+        "Les gardiens de choses, répondant des dommages imputables aux biens placés sous leur garde"
+      ],
+      "answer": 1,
+      "explanation": "L'art. 1242 C. civ. prévoit la responsabilité des commettants du fait de leurs préposés. Les parents répondent du fait de leurs enfants mineurs habitant avec eux. Les gardiens de choses relèvent d'un régime distinct au sein du même article.",
+      "tags": [
+        "responsabilité du fait d'autrui",
+        "commettant"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-007",
+      "question": "Qu'est-ce qui distingue fondamentalement la société unipersonnelle de l'entrepreneur individuel ?",
+      "options": [
+        "L'entrepreneur a une responsabilité limitée à ses apports, comme la société commerciale",
+        "L'entrepreneur individuel est obligatoirement immatriculé dès le début de son activité",
+        "La société unipersonnelle ne peut exercer d'activité commerciale, à la différence de l'EI",
+        "La société acquiert une personnalité juridique distincte dès son immatriculation au RCS"
+      ],
+      "answer": 3,
+      "explanation": "La distinction fondamentale est la personnalité juridique : la société (EURL, SASU) acquiert une personnalité juridique distincte de celle de son associé après immatriculation au RCS. L'entrepreneur individuel n'a pas d'associé et ne crée pas de société.",
+      "tags": [
+        "société unipersonnelle",
+        "personnalité juridique"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-008",
+      "question": "Dans le régime de la communauté réduite aux acquêts, quel est le sort d'un bien reçu par donation ?",
+      "options": [
+        "Il est un bien propre de l'époux bénéficiaire, non soumis au partage à la dissolution",
+        "Il tombe en communauté automatiquement car il a été acquis pendant la durée du mariage",
+        "Il est partagé par moitié si la donation a été consentie conjointement aux deux époux",
+        "Il entre en communauté sauf clause contraire expressément stipulée dans l'acte de donation"
+      ],
+      "answer": 0,
+      "explanation": "Dans la communauté réduite aux acquêts, les biens reçus par succession ou donation sont des biens propres de l'époux bénéficiaire. Seuls les biens acquis à titre onéreux pendant le mariage sont communs.",
+      "tags": [
+        "régime matrimonial",
+        "biens propres"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-009",
+      "question": "Quelles conditions rendent valable une clause de non-concurrence dans un contrat de travail ?",
+      "options": [
+        "Être limitée dans le temps et l'espace, et comporter une contrepartie financière versée",
+        "Figurer dans la convention collective et avoir l'accord de l'inspection du travail",
+        "Être stipulée lors de la conclusion du contrat, et non par avenant postérieur à l'embauche",
+        "Porter sur l'interdiction d'exercer chez un concurrent directement et clairement identifié"
+      ],
+      "answer": 0,
+      "explanation": "La clause de non-concurrence est valable si elle protège les intérêts légitimes de l'entreprise, est limitée dans le temps et l'espace, et assortie d'une contrepartie financière. Ces trois conditions sont cumulatives.",
+      "tags": [
+        "clause de non-concurrence",
+        "contrat de travail"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-010",
+      "question": "Quelle est la nature juridique de la garantie autonome par rapport à l'obligation principale garantie ?",
+      "options": [
+        "Elle est accessoire à la dette principale, comme le cautionnement, et en suit le sort",
+        "Elle est subsidiaire au cautionnement et ne peut jouer qu'après l'échec de ce recours",
+        "Elle est conditionnelle et ne peut jouer qu'en cas de cessation des paiements du débiteur",
+        "Elle est indépendante : le garant ne saurait opposer les exceptions de la dette garantie"
+      ],
+      "answer": 3,
+      "explanation": "La garantie autonome est indépendante de l'obligation principale : le garant ne peut opposer les exceptions tenant à cette obligation. Le cautionnement, en revanche, est accessoire à la dette principale.",
+      "tags": [
+        "garantie autonome",
+        "sûretés"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-011",
+      "question": "Qu'est-ce que l'exequatur en droit international privé ?",
+      "options": [
+        "La procédure rendant exécutoire en France une décision de justice rendue à l'étranger",
+        "La règle de conflit de lois désignant la loi nationale applicable entre deux États donnés",
+        "Le mécanisme autorisant un État étranger à porter une affaire devant le juge français",
+        "L'accord bilatéral par lequel deux États reconnaissent mutuellement leurs décisions"
+      ],
+      "answer": 0,
+      "explanation": "L'exequatur est la procédure par laquelle une juridiction française rend exécutoire sur le territoire national une décision rendue à l'étranger. Il ne résout pas le conflit de lois, qui est une question distincte en DIP.",
+      "tags": [
+        "exequatur",
+        "droit international privé"
+      ]
+    },
+    {
+      "id": "droit-prive-qcm-012",
+      "question": "Que signifie la force obligatoire du contrat consacrée à l'art. 1103 C. civ. ?",
+      "options": [
+        "Les parties peuvent modifier unilatéralement le contrat si les circonstances ont changé",
+        "Le juge peut réviser le contrat dès que son exécution est devenue déséquilibrée pour lui",
+        "Les tiers peuvent invoquer le contrat pour fonder leurs droits dès qu'il les concerne",
+        "Le contrat s'impose aux parties comme la loi et ne peut être révoqué que par accord mutuel"
+      ],
+      "answer": 3,
+      "explanation": "La force obligatoire (pacta sunt servanda, art. 1103) signifie que le contrat s'impose comme la loi et ne peut être révoqué que par accord mutuel (mutuus dissensus, art. 1193). Toute modification unilatérale est exclue, sauf cas légaux.",
+      "tags": [
+        "force obligatoire",
+        "pacta sunt servanda"
+      ]
+    }
+  ]
+}

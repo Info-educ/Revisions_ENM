@@ -1,3 +1,10 @@
 {
-  "chapters": []
+  "chapters": [
+    {
+      "id": "droit-prive",
+      "file": "droit-prive.json",
+      "title": "Le droit privé — branches et juridictions",
+      "category": "Institutions judiciaires"
+    }
+  ]
 }
