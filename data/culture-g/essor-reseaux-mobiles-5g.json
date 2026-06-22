@@ -1,0 +1,107 @@
+{
+  "id": "essor-reseaux-mobiles-5g",
+  "title": "L'essor des réseaux mobiles, de la 2G à la 5G",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "5g-fc-001",
+      "front": "Quels avantages techniques la 5G offre-t-elle par rapport à la 4G selon l'ANFR ?",
+      "back": "Des débits jusqu'à 10 fois supérieurs, un temps de latence plus faible et la capacité de connecter simultanément un nombre bien plus important d'appareils.",
+      "tags": [
+        "5g",
+        "performances"
+      ]
+    },
+    {
+      "id": "5g-fc-002",
+      "front": "Comment les fréquences 5G ont-elles été attribuées aux opérateurs français en 2020 ?",
+      "back": "Chaque opérateur a reçu un bloc fixe de 50 MHz à prix fixe, puis des enchères organisées par l'Arcep ont réparti le reste des fréquences ; la vente totale a rapporté près de 2,8 milliards d'euros à l'État.",
+      "tags": [
+        "arcep",
+        "frequences"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "5g-qcm-001",
+      "question": "Quelle conclusion l'Anses a-t-elle tirée en 2022 sur les risques sanitaires de la 5G ?",
+      "options": [
+        "Un risque sanitaire majeur et avéré justifiant l'instauration d'un moratoire immédiat",
+        "Un risque jugé globalement peu probable comparé aux générations de réseaux précédentes",
+        "Une absence totale de données disponibles permettant une évaluation sanitaire fiable",
+        "Un risque confirmé strictement identique à celui établi pour la téléphonie de type 2G"
+      ],
+      "answer": 1,
+      "explanation": "L'Anses a estimé en 2022 que les niveaux d'exposition resteraient comparables à ceux des technologies existantes et jugé peu probable un nouveau risque sanitaire, tout en recommandant un suivi continu de l'exposition.",
+      "tags": [
+        "anses",
+        "sante"
+      ]
+    },
+    {
+      "id": "5g-qcm-002",
+      "question": "Pour quelle raison plusieurs pays ont-ils restreint l'usage des équipements Huawei dans leurs réseaux 5G ?",
+      "options": [
+        "Des coûts de déploiement jugés bien trop excessifs par les régulateurs nationaux concernés",
+        "Des risques de sécurité liés à l'obligation légale chinoise de coopération avec l'État",
+        "Une qualité technique jugée nettement inférieure à celle des équipements occidentaux",
+        "Un refus explicite de Huawei de respecter les normes européennes encadrant les fréquences"
+      ],
+      "answer": 1,
+      "explanation": "Une loi chinoise de juin 2017 oblige les organisations chinoises à coopérer avec les services de renseignement, ce qui a conduit l'Australie, les États-Unis, le Royaume-Uni et la France à restreindre l'usage des équipements Huawei.",
+      "tags": [
+        "huawei",
+        "securite-nationale"
+      ]
+    },
+    {
+      "id": "5g-qcm-003",
+      "question": "Quel est l'effet des antennes actives utilisées par la 5G par rapport aux antennes 4G classiques ?",
+      "options": [
+        "Elles émettent en continu dans toutes les directions, sans aucune distinction",
+        "Elles focalisent le signal vers les utilisateurs et n'émettent pas en l'absence de trafic",
+        "Elles nécessitent une portée géographique nettement plus large que celle des antennes 4G",
+        "Elles ne fonctionnent qu'exclusivement sur la seule bande de fréquences des 26 GHz"
+      ],
+      "answer": 1,
+      "explanation": "Contrairement aux antennes 4G qui émettent en continu dans toutes les directions, les antennes actives de la 5G focalisent le signal radio vers les utilisateurs qui sollicitent le réseau et n'émettent pas en l'absence de trafic.",
+      "tags": [
+        "antennes-actives",
+        "technologie"
+      ]
+    },
+    {
+      "id": "5g-qcm-004",
+      "question": "Quel pays a lancé les toutes premières offres commerciales 5G nationales en avril 2019 ?",
+      "options": [
+        "La Suisse, qui devient ainsi le premier pays européen à ouvrir un réseau d'envergure",
+        "La Corée du Sud, grâce à ses trois principaux opérateurs de téléphonie mobile nationaux",
+        "La France, via le lancement commercial pionnier mené par l'opérateur SFR à Nice",
+        "Les États-Unis, simultanément dans plusieurs grandes métropoles de la côte est"
+      ],
+      "answer": 1,
+      "explanation": "Le 3 avril 2019, les trois principaux opérateurs sud-coréens ont lancé les toutes premières offres 5G nationales, avant que la Suisse n'ouvre le premier réseau commercial d'envergure en Europe le même mois.",
+      "tags": [
+        "coree-du-sud",
+        "lancement-commercial"
+      ]
+    },
+    {
+      "id": "5g-qcm-005",
+      "question": "Quel constat le rapport du Sénat de juin 2020 a-t-il fait sur la consommation énergétique liée à la 5G ?",
+      "options": [
+        "La baisse de la consommation par giga-octet effacera totalement la hausse des usages",
+        "La forte hausse des usages mobiles annule, voire dépasse, les gains d'efficacité",
+        "La 5G ne modifiera absolument en rien la consommation énergétique globale des opérateurs",
+        "Seuls les usages strictement industriels affecteront la consommation énergétique future"
+      ],
+      "answer": 1,
+      "explanation": "Le Sénat estime que malgré une meilleure efficacité énergétique par Go transporté, l'augmentation globale des usages mobiles annule, voire dépasse, ces gains, entraînant une hausse de la consommation totale des opérateurs.",
+      "tags": [
+        "consommation-energetique",
+        "senat"
+      ]
+    }
+  ]
+}

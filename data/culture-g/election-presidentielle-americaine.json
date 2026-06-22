@@ -1,0 +1,107 @@
+{
+  "id": "election-presidentielle-americaine",
+  "title": "Comment est élu le président des États-Unis ?",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "election-us-fc-001",
+      "front": "Qu'est-ce que la règle du « winner takes all » dans l'élection présidentielle américaine ?",
+      "back": "Sauf au Nebraska et au Maine, le candidat arrivé en tête dans un État remporte la totalité des grands électeurs de cet État, indépendamment de l'écart de voix obtenu face à ses concurrents.",
+      "tags": [
+        "winner-takes-all",
+        "grands-electeurs"
+      ]
+    },
+    {
+      "id": "election-us-fc-002",
+      "front": "Quelles sont les trois conditions constitutionnelles pour être candidat à la présidence américaine ?",
+      "back": "Être citoyen américain, avoir au moins 35 ans et avoir résidé aux États-Unis pendant au moins 14 ans.",
+      "tags": [
+        "conditions-eligibilite",
+        "constitution"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "election-us-qcm-001",
+      "question": "Combien de grands électeurs faut-il réunir pour devenir président des États-Unis ?",
+      "options": [
+        "La majorité absolue des cinq cent trente-huit grands électeurs au total disponible",
+        "Une simple majorité relative parmi les grands électeurs effectivement présents",
+        "Les deux tiers des grands électeurs répartis entre les cinquante États et la capitale",
+        "La majorité simple des suffrages exprimés par les citoyens au niveau national"
+      ],
+      "answer": 0,
+      "explanation": "Le collège électoral compte 538 grands électeurs ; il faut en obtenir la majorité absolue, soit au moins 270 voix, pour être élu, indépendamment du vote populaire national.",
+      "tags": [
+        "college-electoral",
+        "grands-electeurs"
+      ]
+    },
+    {
+      "id": "election-us-qcm-002",
+      "question": "Pourquoi les campagnes présidentielles se concentrent-elles sur les « swing states » ?",
+      "options": [
+        "Ces États disposent d'un nombre de grands électeurs bien supérieur à celui des autres",
+        "La majorité des autres États votent de façon stable pour un même parti depuis longtemps",
+        "Seuls ces États organisent un scrutin direct sans passer par des grands électeurs",
+        "Ces États imposent une répartition proportionnelle de leurs électeurs entre les partis"
+      ],
+      "answer": 1,
+      "explanation": "La plupart des États votent de manière stable pour un parti depuis plusieurs élections ; en raison du « winner takes all », l'effort de campagne se concentre donc sur les États où le résultat reste incertain.",
+      "tags": [
+        "swing-states",
+        "winner-takes-all"
+      ]
+    },
+    {
+      "id": "election-us-qcm-003",
+      "question": "Quel amendement constitutionnel limite à deux le nombre de mandats présidentiels ?",
+      "options": [
+        "Le dix-neuvième amendement, adopté juste après la fin de la Seconde Guerre mondiale",
+        "Le vingt-deuxième amendement, adopté par le Congrès des États-Unis en l'année 1947",
+        "Le tout premier amendement, intégré directement à la Constitution dès l'année 1789",
+        "Le quatorzième amendement, voté peu après la fin de la guerre de Sécession américaine"
+      ],
+      "answer": 1,
+      "explanation": "Le 22e amendement, adopté en 1947 après les quatre mandats de Franklin Roosevelt, interdit à un président de se présenter pour un troisième mandat.",
+      "tags": [
+        "22e-amendement",
+        "limitation-mandats"
+      ]
+    },
+    {
+      "id": "election-us-qcm-004",
+      "question": "Quel pouvoir le Congrès peut-il opposer à un veto présidentiel sur une loi votée ?",
+      "options": [
+        "Il peut saisir directement la Cour suprême pour faire invalider le veto présidentiel",
+        "Il peut annuler ce veto par un vote réunissant les deux tiers des deux chambres",
+        "Il ne dispose en réalité d'aucun moyen légal de contourner un veto présidentiel",
+        "Il peut organiser un référendum populaire national pour trancher ce différend"
+      ],
+      "answer": 1,
+      "explanation": "Le président peut opposer son veto à une loi votée par le Congrès, mais un vote réunissant les deux tiers des voix dans chacune des deux chambres permet de passer outre ce veto.",
+      "tags": [
+        "veto",
+        "congres"
+      ]
+    },
+    {
+      "id": "election-us-qcm-005",
+      "question": "Que désigne le « Super Tuesday » dans le calendrier électoral présidentiel américain ?",
+      "options": [
+        "Le jour de l'investiture officielle du nouveau président élu, chaque mois de janvier",
+        "Le premier mardi du mois de mars où se tiennent de nombreuses primaires et caucus",
+        "Le jour de la certification officielle des résultats par le Congrès en janvier",
+        "Le mardi de novembre où se déroule formellement le vote du collège électoral"
+      ],
+      "answer": 1,
+      "explanation": "Le Super Tuesday est le premier mardi de mars précédant l'élection, jour où un grand nombre d'États organisent simultanément leurs primaires ou caucus pour désigner les délégués des partis.",
+      "tags": [
+        "super-tuesday",
+        "primaires"
+      ]
+    }
+  ]
+}

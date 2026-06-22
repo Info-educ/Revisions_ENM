@@ -1,0 +1,107 @@
+{
+  "id": "lutte-contre-desinformation",
+  "title": "La lutte contre la désinformation",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "desinfo-fc-001",
+      "front": "Quelle différence l'Unesco établit-elle entre désinformation et mésinformation ?",
+      "back": "La désinformation est une fausse information dont l'auteur connaît la fausseté et qui vise à tromper intentionnellement, tandis que la mésinformation est une fausse information que son auteur croit sincèrement vraie.",
+      "tags": [
+        "desinformation",
+        "mesinformation"
+      ]
+    },
+    {
+      "id": "desinfo-fc-002",
+      "front": "Que prévoit la loi française du 22 décembre 2018 contre la manipulation de l'information ?",
+      "back": "Elle permet de saisir le juge des référés pour faire cesser, sous 48 heures, la diffusion d'informations trompeuses massives et délibérées en période électorale, et impose un devoir de coopération aux plateformes.",
+      "tags": [
+        "loi-fake-news",
+        "2018"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "desinfo-qcm-001",
+      "question": "Selon le rapport de 2018 de l'Assemblée nationale, qu'est-ce qui a changé le rôle des médias face à l'information ?",
+      "options": [
+        "Le rôle d'intermédiaire des médias est relégué derrière celui des réseaux sociaux",
+        "Les journalistes ont au contraire renforcé leur contrôle sur les réseaux sociaux",
+        "Les médias traditionnels ont totalement disparu au profit direct de l'État central",
+        "Les citoyens ont cessé presque totalement de consulter la presse écrite papier"
+      ],
+      "answer": 0,
+      "explanation": "Le rapport souligne que le rôle de vérification et d'éditorialisation des médias traditionnels est relégué au second plan, derrière les réseaux sociaux offrant un accès direct à l'information non filtrée.",
+      "tags": [
+        "mediation-information",
+        "reseaux-sociaux"
+      ]
+    },
+    {
+      "id": "desinfo-qcm-002",
+      "question": "Quel constat l'étude menée par les universités de New York et Grenoble Alpes a-t-elle établi sur Facebook ?",
+      "options": [
+        "Les fausses informations reçoivent environ six fois plus d'engagement que les vraies",
+        "Les contenus vérifiés génèrent globalement plus d'engagement que les contenus douteux",
+        "L'algorithme favorise exclusivement les contenus provenant de médias officiels reconnus",
+        "Les utilisateurs partagent en réalité autant les vraies que les fausses informations"
+      ],
+      "answer": 0,
+      "explanation": "Cette étude menée entre août 2020 et janvier 2021 sur des contenus liés à l'élection présidentielle américaine a montré que les informations trompeuses suscitaient six fois plus d'engagement que les informations vraies.",
+      "tags": [
+        "viralite",
+        "facebook"
+      ]
+    },
+    {
+      "id": "desinfo-qcm-003",
+      "question": "Quel changement Mark Zuckerberg a-t-il annoncé pour le groupe Meta en janvier 2025 ?",
+      "options": [
+        "Le renforcement durable des partenariats de fact-checking existants avec les médias",
+        "La fin du fact-checking professionnel, remplacé par des notes de la communauté",
+        "L'interdiction stricte et totale des contenus relatifs à l'immigration sur Meta",
+        "La création d'une toute nouvelle agence interne dédiée à la vérification des faits"
+      ],
+      "answer": 1,
+      "explanation": "Zuckerberg a annoncé l'arrêt des partenariats de fact-checking avec des médias, remplacés par un système de notes de la communauté inspiré de celui utilisé par X depuis 2021, uniquement aux États-Unis dans un premier temps.",
+      "tags": [
+        "meta",
+        "fact-checking"
+      ]
+    },
+    {
+      "id": "desinfo-qcm-004",
+      "question": "Que sanctionne précisément l'article 27 de la loi de 1881 sur la liberté de la presse ?",
+      "options": [
+        "La diffusion involontaire de fausses informations par simple négligence sans intention",
+        "La fabrication, diffusion ou publication de fausses nouvelles faite de mauvaise foi",
+        "Le simple fait de partager à nouveau une information déjà devenue ancienne et connue",
+        "La critique publique légitime des décisions prises par les pouvoirs publics en place"
+      ],
+      "answer": 1,
+      "explanation": "L'article 27 sanctionne la fabrication, diffusion ou publication de « nouvelles fausses » faite « avec mauvaise foi », mais seul l'émetteur originel est visé, pas les relais ultérieurs de l'information.",
+      "tags": [
+        "loi-1881",
+        "fausses-nouvelles"
+      ]
+    },
+    {
+      "id": "desinfo-qcm-005",
+      "question": "Comment le rapport 2025 du Service européen pour l'action extérieure qualifie-t-il la manipulation de l'information ?",
+      "options": [
+        "Un phénomène jugé marginal et sans impact réel sur les sociétés européennes actuelles",
+        "Un outil intégré à un arsenal hybride destiné à influencer les sociétés et la politique",
+        "Une pratique strictement limitée aux seules périodes de campagnes électorales nationales",
+        "Un risque concentré de manière exclusive sur le seul territoire ukrainien en guerre"
+      ],
+      "answer": 1,
+      "explanation": "Le SEAE décrit un environnement géopolitique hostile marqué par une utilisation agressive de la manipulation de l'information dans un arsenal hybride visant à influencer les évolutions politiques et sociétales.",
+      "tags": [
+        "guerre-hybride",
+        "seae"
+      ]
+    }
+  ]
+}

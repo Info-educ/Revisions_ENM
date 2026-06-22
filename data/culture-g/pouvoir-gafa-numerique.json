@@ -1,0 +1,107 @@
+{
+  "id": "pouvoir-gafa-numerique",
+  "title": "Le pouvoir des Gafa, les géants du numérique",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "gafa-fc-001",
+      "front": "Que désigne l'acronyme Gafa et quelle variante inclut Microsoft ?",
+      "back": "Gafa désigne Google, Apple, Facebook et Amazon. Lorsque Microsoft est ajouté à ce groupe, on parle de Gafam.",
+      "tags": [
+        "gafa",
+        "definition"
+      ]
+    },
+    {
+      "id": "gafa-fc-002",
+      "front": "Quels sont les deux règlements européens adoptés en 2022 pour encadrer les plateformes numériques systémiques ?",
+      "back": "Le Digital Services Act (DSA) et le Digital Market Act (DMA), proposés en décembre 2020 par Margrethe Vestager et Thierry Breton.",
+      "tags": [
+        "dsa",
+        "dma"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "gafa-qcm-001",
+      "question": "Pour quel motif la Commission européenne a-t-elle infligé sa première lourde amende à Google en 2017 ?",
+      "options": [
+        "L'usage abusif des données personnelles des utilisateurs collectées sur Android",
+        "La mise en avant de son comparateur de prix Google Shopping sur son moteur de recherche",
+        "Le refus de coopérer pleinement avec une enquête fiscale menée par l'Irlande",
+        "La fraude fiscale présumée liée à l'optimisation de ses revenus publicitaires européens"
+      ],
+      "answer": 1,
+      "explanation": "L'amende de 2,42 milliards d'euros de juin 2017 sanctionne un abus de position dominante par la mise en avant de Google Shopping ; les amendes liées à Android et aux pratiques publicitaires sont venues ensuite.",
+      "tags": [
+        "google",
+        "amendes-europeennes"
+      ]
+    },
+    {
+      "id": "gafa-qcm-002",
+      "question": "Quel scandale révélé en 2018 a mis en cause Facebook concernant l'utilisation de données électorales ?",
+      "options": [
+        "Le piratage massif de millions de comptes par un groupe russe encore non identifié",
+        "L'affaire Cambridge Analytica liée à une application présentée comme universitaire",
+        "La revente directe et déclarée de données à des partis politiques étrangers",
+        "Le rachat non déclaré d'Instagram destiné à mieux cibler les électeurs américains"
+      ],
+      "answer": 1,
+      "explanation": "Facebook a admis en mars 2018 que Cambridge Analytica avait aspiré les données de millions d'utilisateurs via une application présentée comme un projet de recherche, données ensuite utilisées par l'équipe de campagne de Donald Trump.",
+      "tags": [
+        "cambridge-analytica",
+        "facebook"
+      ]
+    },
+    {
+      "id": "gafa-qcm-003",
+      "question": "Pourquoi la proposition européenne de « taxe Gafa » de 2018 n'a-t-elle pas été adoptée au niveau de l'UE ?",
+      "options": [
+        "Elle nécessitait l'unanimité des ministres des Finances de l'UE, jamais obtenue",
+        "La Cour de justice de l'UE a jugé cette proposition contraire aux traités européens",
+        "Les entreprises concernées ont obtenu une suspension judiciaire du projet de taxe",
+        "Le Parlement européen a rejeté formellement ce texte à une très large majorité"
+      ],
+      "answer": 0,
+      "explanation": "La proposition de taxer le chiffre d'affaires numérique nécessitait l'unanimité des ministres de l'Économie de l'UE ; des pays comme l'Irlande s'y sont opposés, poussant la France à adopter sa propre taxe nationale en 2019.",
+      "tags": [
+        "taxe-gafa",
+        "fiscalite-numerique"
+      ]
+    },
+    {
+      "id": "gafa-qcm-004",
+      "question": "Quel rôle a joué Max Schrems dans la régulation des transferts de données vers les États-Unis ?",
+      "options": [
+        "Il a personnellement négocié l'accord Safe Harbor au nom de la Commission européenne",
+        "Il a obtenu l'invalidation judiciaire successive des accords Safe Harbor et Privacy Shield",
+        "Il a élaboré le cadre réglementaire à l'origine du Digital Market Act en 2022",
+        "Il a dirigé l'enquête américaine officielle sur les pratiques de Google sous Android"
+      ],
+      "answer": 1,
+      "explanation": "Activiste autrichien fondateur de l'ONG Noyb, Max Schrems a obtenu en 2015 l'invalidation du Safe Harbor par la Cour de justice de l'UE, puis celle du Privacy Shield en juillet 2020, deux accords jugés insuffisamment protecteurs.",
+      "tags": [
+        "max-schrems",
+        "transfert-donnees"
+      ]
+    },
+    {
+      "id": "gafa-qcm-005",
+      "question": "Comment les Gafa ont-ils en partie renforcé leur position dominante selon le panorama étudié ?",
+      "options": [
+        "En rachetant des concurrents stratégiques comme YouTube, Instagram et WhatsApp",
+        "En délocalisant systématiquement l'ensemble de leurs sièges sociaux hors d'Europe",
+        "En limitant volontairement et durablement leur expansion sur le marché chinois local",
+        "En fusionnant directement entre eux afin de réduire la concurrence interne au secteur"
+      ],
+      "answer": 0,
+      "explanation": "Les Gafa ont renforcé leurs positions en rachetant des entreprises stratégiques : YouTube par Google en 2006, Instagram en 2012 puis WhatsApp en 2014 par Facebook, consolidant ainsi leur emprise sur le numérique.",
+      "tags": [
+        "rachats",
+        "position-dominante"
+      ]
+    }
+  ]
+}

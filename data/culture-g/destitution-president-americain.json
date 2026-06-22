@@ -1,0 +1,107 @@
+{
+  "id": "destitution-president-americain",
+  "title": "La procédure de destitution du président des États-Unis",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "destitution-fc-001",
+      "front": "Quelles sont les deux étapes de la procédure de destitution (impeachment) américaine ?",
+      "back": "La Chambre des représentants vote la mise en accusation à la majorité simple, puis un procès se tient au Sénat où une majorité des deux tiers des sénateurs présents est nécessaire pour destituer le président.",
+      "tags": [
+        "impeachment",
+        "etats-unis"
+      ]
+    },
+    {
+      "id": "destitution-fc-002",
+      "front": "Quels sont les quatre présidents américains visés par une procédure de destitution, et quelle en a été l'issue ?",
+      "back": "Andrew Johnson (1868), Bill Clinton (1998) et Donald Trump (2019 et 2021) ont tous été acquittés par le Sénat. Richard Nixon a démissionné en 1974 avant tout vote de mise en accusation.",
+      "tags": [
+        "impeachment",
+        "presidents"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "destitution-qcm-001",
+      "question": "Quelle majorité est requise au Sénat pour destituer un président mis en accusation ?",
+      "options": [
+        "La majorité simple des sénateurs présents au moment du vote final du procès",
+        "Une majorité des deux tiers des sénateurs présents lors du vote final du procès",
+        "L'unanimité totale des cent sénateurs alors en exercice au Congrès américain",
+        "Les trois cinquièmes des sénateurs élus dans chacun des cinquante États américains"
+      ],
+      "answer": 1,
+      "explanation": "La Constitution exige une majorité des deux tiers des sénateurs présents pour condamner et destituer, un seuil élevé qui explique pourquoi aucun président n'a jamais été destitué par cette voie.",
+      "tags": [
+        "impeachment",
+        "senat"
+      ]
+    },
+    {
+      "id": "destitution-qcm-002",
+      "question": "Pour quels motifs Donald Trump a-t-il été mis en accusation par la Chambre en décembre 2019 ?",
+      "options": [
+        "Abus de pouvoir et entrave au Congrès dans le cadre de l'affaire ukrainienne",
+        "Parjure et entrave à la justice dans le cadre d'une affaire personnelle privée",
+        "Corruption électorale présumée et collusion avec une puissance étrangère hostile",
+        "Trahison caractérisée et abandon de poste pendant une crise sanitaire mondiale"
+      ],
+      "answer": 0,
+      "explanation": "Les deux chefs d'accusation votés le 18 décembre 2019 sont l'abus de pouvoir, lié à la pression exercée sur l'Ukraine, et l'entrave au Congrès, liée au refus de coopérer à l'enquête.",
+      "tags": [
+        "impeachment",
+        "trump"
+      ]
+    },
+    {
+      "id": "destitution-qcm-003",
+      "question": "Quel rôle a joué Gordon Sondland dans l'enquête sur la conversation Trump-Zelensky ?",
+      "options": [
+        "Il a négocié directement le montant de l'aide militaire avec le Congrès ukrainien",
+        "Il a relayé en premier les soupçons recueillis par le lanceur d'alerte de la CIA",
+        "Il a affirmé devant la Chambre des représentants l'existence d'un quid pro quo",
+        "Il a personnellement rédigé la lettre de refus de coopération de la Maison-Blanche"
+      ],
+      "answer": 2,
+      "explanation": "Ambassadeur des États-Unis auprès de l'UE, Sondland a déclaré le 20 novembre devant la Chambre que la Maison-Blanche avait proposé un « quid pro quo » à l'Ukraine, ce que Trump a nié.",
+      "tags": [
+        "impeachment",
+        "temoignages"
+      ]
+    },
+    {
+      "id": "destitution-qcm-004",
+      "question": "Comment s'est conclu le procès au Sénat contre Donald Trump en février 2020 ?",
+      "options": [
+        "Il a été condamné uniquement sur le chef d'accusation d'abus de pouvoir présidentiel",
+        "Il a été acquitté des deux chefs, un seul sénateur républicain ayant fait dissidence",
+        "Le procès a été interrompu et suspendu avant la tenue du vote final des sénateurs",
+        "Il a préféré démissionner avant que le Sénat ne se prononce sur le verdict final"
+      ],
+      "answer": 1,
+      "explanation": "Trump est acquitté le 5 février 2020 sur les deux chefs d'accusation ; seul le sénateur républicain Mitt Romney s'est écarté de son parti en votant la culpabilité sur l'abus de pouvoir.",
+      "tags": [
+        "impeachment",
+        "acquittement"
+      ]
+    },
+    {
+      "id": "destitution-qcm-005",
+      "question": "Qu'est-ce qu'une « diplomatie parallèle » telle que décrite par les témoins de l'affaire ukrainienne ?",
+      "options": [
+        "Une coordination officielle organisée entre plusieurs ambassades alliées sur un dossier",
+        "Des canaux d'échange informels se substituant aux circuits diplomatiques habituels",
+        "Une procédure constitutionnelle formelle de contrôle parlementaire des traités signés",
+        "Un accord secret négocié entre deux chefs d'État puis validé ensuite par le Sénat"
+      ],
+      "answer": 1,
+      "explanation": "Des conseillers comme Alexander Vindman ont décrit une diplomatie parallèle organisée par Rudy Giuliani via Gordon Sondland, jugée au service des intérêts politiques du président plutôt que de la politique étrangère officielle.",
+      "tags": [
+        "impeachment",
+        "diplomatie-parallele"
+      ]
+    }
+  ]
+}

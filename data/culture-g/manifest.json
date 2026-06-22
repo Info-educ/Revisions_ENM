@@ -245,6 +245,36 @@
       "file": "temps-travail-debat.json",
       "title": "Temps de travail : travailler moins pour travailler mieux ?",
       "category": "Culture générale"
+    },
+    {
+      "id": "destitution-president-americain",
+      "file": "destitution-president-americain.json",
+      "title": "La procédure de destitution du président des États-Unis",
+      "category": "Culture générale"
+    },
+    {
+      "id": "election-presidentielle-americaine",
+      "file": "election-presidentielle-americaine.json",
+      "title": "Comment est élu le président des États-Unis ?",
+      "category": "Culture générale"
+    },
+    {
+      "id": "pouvoir-gafa-numerique",
+      "file": "pouvoir-gafa-numerique.json",
+      "title": "Le pouvoir des Gafa, les géants du numérique",
+      "category": "Culture générale"
+    },
+    {
+      "id": "lutte-contre-desinformation",
+      "file": "lutte-contre-desinformation.json",
+      "title": "La lutte contre la désinformation",
+      "category": "Culture générale"
+    },
+    {
+      "id": "essor-reseaux-mobiles-5g",
+      "file": "essor-reseaux-mobiles-5g.json",
+      "title": "L'essor des réseaux mobiles, de la 2G à la 5G",
+      "category": "Culture générale"
     }
   ]
 }
