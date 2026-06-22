@@ -1,0 +1,105 @@
+{
+  "id": "reforme-retraites-2023",
+  "title": "La réforme des retraites de 2023",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "retraites-fc-001",
+      "front": "Quels sont les principaux changements d'âge introduits par la réforme des retraites de 2023 ?",
+      "back": "Promulguée le 14 avril 2023, la loi relève progressivement l'âge légal de départ de 62 à 64 ans (atteint en 2030) et accélère le passage à 172 trimestres cotisés pour le taux plein, déjà prévu par la réforme Touraine de 2014.",
+      "tags": [
+        "retraites",
+        "âge légal"
+      ]
+    },
+    {
+      "id": "retraites-fc-002",
+      "front": "Comment fonctionne le système français de retraite par répartition créé en 1945 ?",
+      "back": "Les cotisations versées par les actifs financent immédiatement les pensions des retraités actuels et ouvrent des droits pour leur propre future retraite, reposant ainsi sur une solidarité entre générations.",
+      "tags": [
+        "répartition",
+        "1945"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "retraites-qcm-001",
+      "question": "Quel organisme avait anticipé dès 2022 un retour à un déficit durable du système de retraites ?",
+      "options": [
+        "Le Conseil d'orientation des retraites, organisme placé auprès du Premier ministre",
+        "La Cour des comptes, chargée de contrôler l'exécution des budgets des collectivités",
+        "L'Agirc-Arrco, qui gère le régime de retraite complémentaire du secteur privé français",
+        "La Drees, direction des études et statistiques du ministère chargé de la Santé"
+      ],
+      "answer": 0,
+      "explanation": "Le COR, dans son rapport annuel de septembre 2022, a projeté un système redevenant déficitaire et le restant au moins jusqu'en 2058 selon l'hypothèse retenue. La Drees publie des statistiques sur les pensions, pas des projections de solde.",
+      "tags": [
+        "cor",
+        "déficit"
+      ]
+    },
+    {
+      "id": "retraites-qcm-002",
+      "question": "Quelle catégorie de salariés bénéficie d'une possibilité de départ anticipé liée à la pénibilité ?",
+      "options": [
+        "Les salariés exposés durablement à des facteurs de risques professionnels reconnus",
+        "Les salariés ayant changé d'employeur à plusieurs reprises au cours de leur carrière",
+        "Les salariés ayant exercé exclusivement un emploi à caractère saisonnier ou temporaire",
+        "Les salariés affiliés à une organisation syndicale depuis plus d'une décennie"
+      ],
+      "answer": 0,
+      "explanation": "Le compte professionnel de prévention accumule des points pour les salariés exposés à des risques comme le travail de nuit, les températures extrêmes ou le bruit, permettant notamment un départ anticipé.",
+      "tags": [
+        "pénibilité"
+      ]
+    },
+    {
+      "id": "retraites-qcm-003",
+      "question": "Quelle réforme avait fixé, avant 2023, l'objectif de 172 trimestres cotisés pour le taux plein ?",
+      "options": [
+        "La réforme Touraine de 2014, applicable initialement aux générations nées en 1973",
+        "La réforme Balladur de 1993, applicable uniquement aux salariés du secteur privé",
+        "L'ordonnance de 1945, qui a institué le régime général de la Sécurité sociale",
+        "L'ordonnance fondatrice de 1945 créant le régime général de la Sécurité sociale"
+      ],
+      "answer": 0,
+      "explanation": "La réforme Touraine de 2014 prévoyait déjà 172 trimestres, mais seulement pour les générations nées en 1973 ou après ; la réforme de 2023 a avancé cette échéance aux générations nées dès 1965.",
+      "tags": [
+        "touraine",
+        "trimestres"
+      ]
+    },
+    {
+      "id": "retraites-qcm-004",
+      "question": "Quel sort la réforme de 2023 réserve-t-elle à la majorité des régimes spéciaux existants ?",
+      "options": [
+        "Leur fermeture progressive aux nouveaux embauchés à partir de septembre 2023",
+        "Leur fusion immédiate et complète avec le régime général dès septembre 2023",
+        "Leur extension obligatoire à l'ensemble des salariés du secteur privé français",
+        "Leur suppression rétroactive immédiate pour les personnes déjà parties à la retraite"
+      ],
+      "answer": 0,
+      "explanation": "À partir du 1er septembre 2023, les nouveaux embauchés de régimes comme celui de la RATP sont affiliés au régime général, tandis que les régimes autonomes des professions libérales, des marins ou de l'Opéra de Paris sont pérennisés.",
+      "tags": [
+        "régimes spéciaux"
+      ]
+    },
+    {
+      "id": "retraites-qcm-005",
+      "question": "Comment évolue le montant de la pension d'une personne qui continue de travailler après avoir atteint le taux plein ?",
+      "options": [
+        "Une surcote lui est appliquée, ce qui augmente le montant final de sa pension",
+        "Une décote lui est appliquée, ce qui diminue le montant final de sa pension",
+        "Le montant reste figé jusqu'à ce qu'elle atteigne l'âge du taux plein automatique",
+        "Seule sa retraite complémentaire fait alors l'objet d'un recalcul à la hausse"
+      ],
+      "answer": 0,
+      "explanation": "À l'inverse de la décote appliquée en cas de trimestres manquants, une surcote bénéficie à ceux qui poursuivent leur activité après avoir atteint le taux plein, augmentant leur pension de base.",
+      "tags": [
+        "surcote",
+        "décote"
+      ]
+    }
+  ]
+}

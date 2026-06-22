@@ -1,0 +1,101 @@
+{
+  "id": "essor-agriculture-biologique",
+  "title": "L'essor contrarié de l'agriculture biologique",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "bio-agri-fc-001",
+      "front": "Quels sont les deux labels officiels permettant de certifier un produit comme biologique en France ?",
+      "back": "L'Eurofeuille, obligatoire depuis 2010 sur les produits préemballés bio vendus dans l'UE (au moins 95 % d'ingrédients bio), et le label français AB, facultatif et conforme aux mêmes normes depuis 2009, parfois seul utilisable pour certaines productions non couvertes par le règlement européen.",
+      "tags": [
+        "label bio",
+        "eurofeuille"
+      ]
+    },
+    {
+      "id": "bio-agri-fc-002",
+      "front": "L'agriculture biologique exclut-elle totalement l'usage de pesticides ?",
+      "back": "Non : la réglementation européenne autorise, dans des cas précis, des pesticides dits « naturels » (d'origine animale, végétale, microbienne ou minérale), à distinguer des pesticides chimiques de synthèse qui restent interdits.",
+      "tags": [
+        "pesticides naturels"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "bio-agri-qcm-001",
+      "question": "Quel pays consacre la plus grande part de sa surface agricole totale à l'agriculture biologique en 2021 ?",
+      "options": [
+        "L'Autriche, dont environ un quart de la surface agricole est cultivée en bio",
+        "La France, qui arrive en tête absolue du classement mondial de cette proportion",
+        "Les États-Unis, premier marché mondial en valeur des produits agricoles biologiques",
+        "L'Australie, malgré la plus grande surface bio cultivée en valeur absolue mondiale"
+      ],
+      "answer": 0,
+      "explanation": "L'Autriche atteint 26,5 % de sa surface agricole en bio en 2021, devançant largement la France (9,6 %), classée 22e mondiale malgré l'Australie qui détient la plus grande surface bio en valeur absolue sans en avoir la plus forte proportion.",
+      "tags": [
+        "surface agricole"
+      ]
+    },
+    {
+      "id": "bio-agri-qcm-002",
+      "question": "Quel organisme représente la principale structure de certification privée de l'agriculture biologique en France ?",
+      "options": [
+        "Ecocert, qui contrôle agriculteurs, transformateurs, distributeurs et importateurs bio",
+        "Nature et Progrès, association de paysans et de consommateurs fondée en 1964",
+        "L'Agence Bio, groupement d'intérêt public chargé de la promotion de la filière",
+        "L'Inserm, institut public de recherche médicale chargé des contrôles sanitaires"
+      ],
+      "answer": 0,
+      "explanation": "Ecocert est le principal organisme privé de certification agréé en France, délivrant les certifications Eurofeuille ou AB après contrôle des opérateurs ; Nature et Progrès a un rôle historique mais n'est pas l'organisme de certification dominant.",
+      "tags": [
+        "ecocert"
+      ]
+    },
+    {
+      "id": "bio-agri-qcm-003",
+      "question": "Quel circuit de distribution domine la vente de produits alimentaires bio en France en 2022 ?",
+      "options": [
+        "La grande distribution, qui réalise plus de la moitié des ventes alimentaires bio",
+        "La vente directe du producteur au consommateur, majoritaire sur le marché bio",
+        "Les artisans et commerçants spécialisés, devenus premiers vendeurs de produits bio",
+        "Les marchés de plein air, principal canal historique de vente du secteur bio"
+      ],
+      "answer": 0,
+      "explanation": "En 2022, la grande distribution représentait 53 % des ventes de produits alimentaires bio aux ménages, devant la distribution spécialisée (27 %), la vente directe (13 %) et les artisans-commerçants (8 %).",
+      "tags": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "bio-agri-qcm-004",
+      "question": "Que conclut une évaluation ministérielle de 2013 sur le plan « Ambition Bio » lancé en 2007 ?",
+      "options": [
+        "Les surfaces ont presque doublé, mais des difficultés persistent selon les filières",
+        "L'objectif initial de triplement des surfaces a été pleinement atteint sans réserve",
+        "Le plan a clairement échoué à faire progresser la consommation de produits bio",
+        "Les grandes cultures céréalières ont connu la conversion bio la plus rapide"
+      ],
+      "answer": 0,
+      "explanation": "L'évaluation relève un quasi-doublement des surfaces et une sortie du « ghetto » de consommation, mais souligne des difficultés liées à un développement non ciblé, notamment pour les grandes cultures céréalières freinées par l'interdiction des engrais minéraux.",
+      "tags": [
+        "ambition bio"
+      ]
+    },
+    {
+      "id": "bio-agri-qcm-005",
+      "question": "Quel effet l'agriculture biologique a-t-elle été démontré avoir sur la biodiversité selon une synthèse du FIBL ?",
+      "options": [
+        "Les exploitations bio abritent en moyenne davantage d'espèces et d'individus",
+        "Aucune différence significative n'est observée avec l'agriculture conventionnelle",
+        "Seuls les insectes pollinisateurs bénéficient réellement des pratiques biologiques",
+        "La biodiversité diminue en raison de l'absence de pesticides chimiques de synthèse"
+      ],
+      "answer": 0,
+      "explanation": "Selon une synthèse du FIBL publiée en 2011, les exploitations biologiques abritent environ 30 % d'espèces et 50 % d'individus en plus que les exploitations conventionnelles, bénéfice attribué à l'absence de pesticides chimiques et aux rotations diversifiées.",
+      "tags": [
+        "biodiversité"
+      ]
+    }
+  ]
+}

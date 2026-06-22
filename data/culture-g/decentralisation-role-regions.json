@@ -1,0 +1,101 @@
+{
+  "id": "decentralisation-role-regions",
+  "title": "La décentralisation en France et le rôle des régions",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "regions-decentral-fc-001",
+      "front": "Quand les régions françaises sont-elles devenues des collectivités territoriales et quel mode de scrutin régit leur élection ?",
+      "back": "Les régions obtiennent le statut de collectivité territoriale en 1982. Depuis 1986, les conseillers régionaux sont élus au suffrage universel sur listes, selon un scrutin proportionnel à deux tours avec prime majoritaire de 25 % des sièges depuis la réforme de 2003.",
+      "tags": [
+        "1982",
+        "scrutin régional"
+      ]
+    },
+    {
+      "id": "regions-decentral-fc-002",
+      "front": "Quelles sont les principales compétences exclusives des régions françaises ?",
+      "back": "Les transports interurbains et scolaires (TER, ports, aéroports), la gestion des lycées, la formation professionnelle, ainsi que l'aménagement du territoire et le développement économique relèvent en propre des régions, à la différence de compétences partagées comme le tourisme ou la culture.",
+      "tags": [
+        "compétences régionales"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "regions-decentral-qcm-001",
+      "question": "Quelle réforme territoriale de 2015 a réduit le nombre de régions métropolitaines ?",
+      "options": [
+        "La loi NOTRe, qui ramène le nombre de régions métropolitaines de 22 à 12 en 2015",
+        "La loi Avia, qui aurait fusionné les compétences des régions et des départements",
+        "Le rapport Balladur, qui propose de supprimer directement les conseils régionaux",
+        "La révision constitutionnelle de 2003, qui aurait créé les régions actuelles"
+      ],
+      "answer": 0,
+      "explanation": "La loi relative à la Nouvelle organisation territoriale de la République (NOTRe) a fusionné 16 régions en 2015, ramenant leur nombre de 22 à 12 ; le rapport Balladur de 2009 n'avait qu'une valeur de préconisation.",
+      "tags": [
+        "loi notre"
+      ]
+    },
+    {
+      "id": "regions-decentral-qcm-002",
+      "question": "Quel principal poste de dépense représente le quart du budget moyen par habitant des régions en 2022 ?",
+      "options": [
+        "La mobilité et les transports, devant l'enseignement dans les lycées régionaux",
+        "L'aide sociale et l'insertion professionnelle des jeunes en grande difficulté",
+        "La culture, le sport et la promotion des langues régionales sur le territoire",
+        "Le fonctionnement administratif courant des services des conseils régionaux"
+      ],
+      "answer": 0,
+      "explanation": "Les régions ont dépensé en moyenne 173 euros par habitant pour la mobilité et les transports en 2022, soit 25,3 % du total, devant l'enseignement qui représente 16,3 % des dépenses régionales.",
+      "tags": [
+        "budget régional"
+      ]
+    },
+    {
+      "id": "regions-decentral-qcm-003",
+      "question": "Que prévoit la révision constitutionnelle de 2003 concernant les collectivités territoriales ?",
+      "options": [
+        "Elle consacre leur droit à l'expérimentation ainsi que leur autonomie financière",
+        "Elle supprime totalement le pouvoir réglementaire reconnu aux conseils régionaux",
+        "Elle interdit désormais l'organisation de référendums locaux à l'échelle régionale",
+        "Elle transfère l'intégralité des compétences sociales existantes aux communes"
+      ],
+      "answer": 0,
+      "explanation": "La révision de 2003 inscrit la décentralisation à l'article 1er de la Constitution, consacre le pouvoir réglementaire des collectivités, leur droit à l'expérimentation, le droit de pétition, les référendums locaux et leur autonomie financière.",
+      "tags": [
+        "révision 2003"
+      ]
+    },
+    {
+      "id": "regions-decentral-qcm-004",
+      "question": "Quel bilan le rapport Balladur de 2009 dresse-t-il de l'organisation territoriale française ?",
+      "options": [
+        "Il dénonce une complexité croissante nuisant à l'efficacité de l'action publique",
+        "Il salue une organisation territoriale déjà optimale ne nécessitant aucune réforme",
+        "Il préconise la suppression pure et simple de l'échelon régional existant alors",
+        "Il propose de transférer toutes les compétences régionales vers l'État central"
+      ],
+      "answer": 0,
+      "explanation": "Édouard Balladur dénonce une organisation qui « n'a cessé de se compliquer », entraînant perte d'efficacité, coût élevé pour le contribuable, et préconise de renforcer la taille et les compétences des régions, sans en demander la suppression.",
+      "tags": [
+        "rapport balladur"
+      ]
+    },
+    {
+      "id": "regions-decentral-qcm-005",
+      "question": "Comment se répartissait la couleur politique des exécutifs régionaux métropolitains après les élections de 2015 et 2021 ?",
+      "options": [
+        "La droite et le centre dirigeaient plus de la moitié des exécutifs régionaux",
+        "La gauche contrôlait alors l'intégralité des régions métropolitaines françaises",
+        "Le Rassemblement national dirigeait la majorité des conseils régionaux métropolitains",
+        "Les exécutifs étaient répartis à parts rigoureusement égales entre tous les partis"
+      ],
+      "answer": 0,
+      "explanation": "Depuis 2015, confirmé en 2021, la droite et le centre contrôlaient plus de la moitié des 12 exécutifs régionaux métropolitains, principalement dans le Nord et l'Est, la gauche dirigeant cinq régions situées surtout à l'Ouest.",
+      "tags": [
+        "élections régionales"
+      ]
+    }
+  ]
+}

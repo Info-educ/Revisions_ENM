@@ -1,0 +1,102 @@
+{
+  "id": "role-marches-financiers",
+  "title": "Le rôle croissant des marchés financiers",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "marches-financiers-fc-001",
+      "front": "Quelle distinction l'économiste John Hicks établit-il entre économie d'endettement et économie de marchés financiers ?",
+      "back": "Dans une économie d'endettement, les entreprises dépendent des banques pour se financer, tandis que dans une économie de marchés financiers, elles lèvent directement des capitaux placés par les investisseurs ou les épargnants sur le marché.",
+      "tags": [
+        "john hicks",
+        "financiarisation"
+      ]
+    },
+    {
+      "id": "marches-financiers-fc-002",
+      "front": "Quelle est la différence entre marché primaire et marché secondaire ?",
+      "back": "Le marché primaire est celui de l'émission de nouveaux titres (actions, obligations) par les entreprises ou les États en échange de capitaux ; le marché secondaire est celui des échanges de titres déjà existants entre investisseurs.",
+      "tags": [
+        "marché primaire",
+        "marché secondaire"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "marches-financiers-qcm-001",
+      "question": "Quel phénomène a déclenché la crise des subprimes en 2007 ?",
+      "options": [
+        "Un retournement du marché immobilier américain conjugué à la hausse des taux",
+        "La fermeture du Palais Brongniart et la dématérialisation de la Bourse de Paris",
+        "L'instauration soudaine du contrôle des changes par les autorités américaines",
+        "La création des principaux fonds de pension institutionnels américains existants"
+      ],
+      "answer": 0,
+      "explanation": "La crise des subprimes résulte d'un retournement du marché immobilier et d'une hausse des taux d'intérêt rendant insolvables des emprunteurs américains peu solvables, dont les prêts titrisés ont ensuite vu leur valeur s'effondrer.",
+      "tags": [
+        "subprimes"
+      ]
+    },
+    {
+      "id": "marches-financiers-qcm-002",
+      "question": "Qu'est-ce que la politique d'assouplissement quantitatif menée par la BCE ?",
+      "options": [
+        "Le rachat d'obligations détenues par les banques pour leur fournir des liquidités",
+        "L'interdiction pure et simple pour les banques de détenir des obligations d'État",
+        "La suppression totale et durable de tous les taux d'intérêt appliqués aux ménages",
+        "La fusion de l'ensemble des places financières européennes en une seule entité"
+      ],
+      "answer": 0,
+      "explanation": "L'assouplissement quantitatif consiste pour une banque centrale à racheter sur le marché secondaire des obligations détenues par les banques, leur fournissant des liquidités afin de relancer le crédit et l'activité économique.",
+      "tags": [
+        "assouplissement quantitatif"
+      ]
+    },
+    {
+      "id": "marches-financiers-qcm-003",
+      "question": "Quel rôle jouent les stock-options pour les dirigeants d'entreprise ?",
+      "options": [
+        "Elles offrent un complément de rémunération lié à l'évolution future du cours",
+        "Elles garantissent un salaire fixe totalement indépendant des résultats boursiers",
+        "Elles obligent les dirigeants à revendre immédiatement toutes leurs actions",
+        "Elles interdisent toute détention d'actions par les salariés de l'entreprise"
+      ],
+      "answer": 0,
+      "explanation": "Les stock-options permettent d'acquérir des actions à un prix fixé à l'avance ; si le cours a augmenté, le bénéficiaire réalise une plus-value, ce qui peut inciter les dirigeants à favoriser la hausse du cours de bourse.",
+      "tags": [
+        "stock-options"
+      ]
+    },
+    {
+      "id": "marches-financiers-qcm-004",
+      "question": "À quoi servent principalement les produits dérivés sur les marchés financiers ?",
+      "options": [
+        "Se couvrir contre un risque de fluctuation des prix ou spéculer sur les variations",
+        "Garantir un taux de change parfaitement fixe pour toute transaction commerciale",
+        "Remplacer entièrement les actions comme principal mode de financement des entreprises",
+        "Supprimer totalement la volatilité observée sur les cours des matières premières"
+      ],
+      "answer": 0,
+      "explanation": "Dérivant leur valeur d'un actif sous-jacent (matière première, devise, indice), les produits dérivés permettent à la fois de se couvrir contre un risque de fluctuation des prix et de spéculer sur les variations futures des marchés.",
+      "tags": [
+        "produits dérivés"
+      ]
+    },
+    {
+      "id": "marches-financiers-qcm-005",
+      "question": "Pourquoi la déréglementation des marchés financiers à partir des années 1980 a-t-elle entraîné une « globalisation financière » ?",
+      "options": [
+        "La levée des restrictions sur les capitaux a permis d'investir à l'échelle mondiale",
+        "Elle a interdit aux investisseurs étrangers d'accéder aux marchés financiers nationaux",
+        "Elle a limité durablement les échanges financiers aux seules entreprises domestiques",
+        "Elle a au contraire renforcé le cloisonnement des marchés financiers entre les pays"
+      ],
+      "answer": 0,
+      "explanation": "La levée des restrictions sur les mouvements de capitaux à partir des années 1980 a permis aux investisseurs d'intervenir sur l'ensemble des marchés financiers mondiaux, donnant lieu au phénomène de globalisation financière.",
+      "tags": [
+        "globalisation financière"
+      ]
+    }
+  ]
+}

@@ -185,6 +185,36 @@
       "file": "adaptation-changement-climatique.json",
       "title": "S'adapter au réchauffement climatique",
       "category": "Culture générale"
+    },
+    {
+      "id": "reforme-retraites-2023",
+      "file": "reforme-retraites-2023.json",
+      "title": "La réforme des retraites de 2023",
+      "category": "Culture générale"
+    },
+    {
+      "id": "essor-agriculture-biologique",
+      "file": "essor-agriculture-biologique.json",
+      "title": "L'essor contrarié de l'agriculture biologique",
+      "category": "Culture générale"
+    },
+    {
+      "id": "decentralisation-role-regions",
+      "file": "decentralisation-role-regions.json",
+      "title": "La décentralisation en France et le rôle des régions",
+      "category": "Culture générale"
+    },
+    {
+      "id": "liberte-expression-reseaux-sociaux",
+      "file": "liberte-expression-reseaux-sociaux.json",
+      "title": "La liberté d'expression à l'épreuve des réseaux sociaux",
+      "category": "Culture générale"
+    },
+    {
+      "id": "role-marches-financiers",
+      "file": "role-marches-financiers.json",
+      "title": "Le rôle croissant des marchés financiers",
+      "category": "Culture générale"
     }
   ]
 }

@@ -1,0 +1,102 @@
+{
+  "id": "liberte-expression-reseaux-sociaux",
+  "title": "La liberté d'expression à l'épreuve des réseaux sociaux",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "liberte-expr-fc-001",
+      "front": "Quel régime de responsabilité la loi de 1881 sur la liberté de la presse a-t-elle instauré, et comment a-t-il été adapté en 2004 ?",
+      "back": "La loi de 1881 institue la responsabilité en cascade (directeur de publication puis auteur complice). La loi pour la confiance dans l'économie numérique (LCEN) de 2004 précise qu'un hébergeur n'est responsable d'un contenu que s'il en a eu connaissance et n'a pas agi promptement pour le retirer.",
+      "tags": [
+        "responsabilité en cascade",
+        "lcen"
+      ]
+    },
+    {
+      "id": "liberte-expr-fc-002",
+      "front": "Pourquoi le Conseil constitutionnel a-t-il censuré les principales dispositions de la loi Avia en 2020 ?",
+      "back": "Il a jugé que l'obligation de retirer des contenus haineux sous 24 heures et terroristes ou pédopornographiques sous une heure portait une atteinte disproportionnée à la liberté d'expression, risquant des retraits injustifiés par les plateformes.",
+      "tags": [
+        "loi avia",
+        "conseil constitutionnel"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "liberte-expr-qcm-001",
+      "question": "Quelle distinction juridique la Cour de cassation établit-elle entre hébergeur et éditeur dans des arrêts de 2011 ?",
+      "options": [
+        "L'éditeur exerce un rôle actif de contrôle, contrairement à l'hébergeur technique",
+        "L'hébergeur est systématiquement tenu pour responsable de tout contenu publié",
+        "Seul l'éditeur peut bénéficier d'une exonération totale de responsabilité civile",
+        "Aucune distinction véritable n'existe entre ces deux statuts en droit français"
+      ],
+      "answer": 0,
+      "explanation": "La Cour de cassation précise que l'hébergeur fournit des services purement techniques tandis que l'éditeur joue un rôle actif de connaissance et de contrôle sur les contenus, ce qui engage sa responsabilité a priori, contrairement à l'hébergeur.",
+      "tags": [
+        "cour de cassation"
+      ]
+    },
+    {
+      "id": "liberte-expr-qcm-002",
+      "question": "Quel événement de mars 2019 a conduit plusieurs plateformes à signer « l'appel de Christchurch » ?",
+      "options": [
+        "La diffusion en direct sur Facebook d'un attentat contre deux mosquées néo-zélandaises",
+        "La censure judiciaire de la loi Avia prononcée par le Conseil constitutionnel",
+        "La révélation médiatique de l'existence de l'Internet Research Agency russe",
+        "L'adoption définitive du règlement européen sur les services numériques en 2022"
+      ],
+      "answer": 0,
+      "explanation": "L'attentat de Christchurch, diffusé en direct pendant 17 minutes sur Facebook, a entraîné en mai 2019 l'engagement de plateformes et d'États à mieux examiner le rôle des algorithmes dans l'amplification des contenus extrémistes.",
+      "tags": [
+        "christchurch"
+      ]
+    },
+    {
+      "id": "liberte-expr-qcm-003",
+      "question": "Quelles obligations le Digital Services Act impose-t-il aux plus grandes plateformes en ligne dans l'UE ?",
+      "options": [
+        "Des obligations renforcées pour les acteurs dépassant 45 millions d'utilisateurs",
+        "Une interdiction totale de toute forme de modération algorithmique des contenus",
+        "Une obligation de transférer leur siège social principal dans un État membre",
+        "Une exemption totale et permanente de sanction financière en cas de manquement"
+      ],
+      "answer": 0,
+      "explanation": "Le DSA, entré pleinement en vigueur en février 2024, soumet les acteurs dépassant 45 millions d'utilisateurs mensuels dans l'UE à des obligations renforcées et à une surveillance de la Commission européenne, sous peine d'amende jusqu'à 6 % du chiffre d'affaires mondial.",
+      "tags": [
+        "dsa"
+      ]
+    },
+    {
+      "id": "liberte-expr-qcm-004",
+      "question": "Comment l'affaire du tableau « L'Origine du monde » s'est-elle conclue après la fermeture du compte Facebook concerné en 2011 ?",
+      "options": [
+        "La justice n'a pas établi le lien avec le tableau, mais a reconnu une faute",
+        "La justice a condamné fermement Facebook pour atteinte directe à la liberté d'expression",
+        "Le plaignant a obtenu la réintégration immédiate et automatique de son compte fermé",
+        "Facebook a été reconnu coupable d'apologie de la pornographie sur sa plateforme"
+      ],
+      "answer": 0,
+      "explanation": "Après sept ans de procédure, la justice a débouté le plaignant faute de preuve du lien avec la publication du tableau, mais a reconnu une faute de Facebook pour avoir résilié le compte sans préavis ni justification, l'affaire se réglant à l'amiable en 2019.",
+      "tags": [
+        "origine du monde"
+      ]
+    },
+    {
+      "id": "liberte-expr-qcm-005",
+      "question": "Quel réseau social comptait le plus d'utilisateurs actifs mensuels dans le monde selon l'étude Digital 2025 ?",
+      "options": [
+        "Facebook, qui comptait alors plus de 3 milliards d'utilisateurs actifs mensuels",
+        "Instagram, qui dépassait alors tous les autres réseaux sociaux dans le monde",
+        "YouTube, devançant alors Facebook en nombre total d'utilisateurs actifs mensuels",
+        "X, anciennement Twitter, premier réseau social en utilisateurs actifs en 2025"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'étude Digital 2025 de We Are Social, Facebook restait en janvier 2025 le premier média social mondial avec plus de 3 milliards d'utilisateurs actifs mensuels, devant YouTube et WhatsApp/Instagram à 2 milliards chacun.",
+      "tags": [
+        "digital 2025"
+      ]
+    }
+  ]
+}
