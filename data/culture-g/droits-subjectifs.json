@@ -1,0 +1,178 @@
+{
+  "id": "droits-subjectifs",
+  "title": "Les droits subjectifs — Personnalité juridique, personnes morales, patrimoine et biens",
+  "category": "Introduction au droit",
+  "flashcards": [],
+  "qcm": [
+    {
+      "id": "droits-subjectifs-qcm-001",
+      "question": "Qu'est-ce qui caractérise le droit réel par opposition au droit personnel ?",
+      "options": [
+        "Il s'exerce directement sur une chose (droit de propriété, usufruit, servitude…)",
+        "Il est incessible, contrairement au droit personnel librement transmissible à un tiers",
+        "Il est protégé uniquement par le droit pénal, non par voie civile comme le droit personnel",
+        "Il émane toujours de la loi, tandis que le droit personnel naît d'un contrat entre parties"
+      ],
+      "answer": 0,
+      "explanation": "Le droit réel (ius in re) s'exerce directement sur une chose, sans intermédiaire (droit de propriété, usufruit, servitude). Le droit personnel (ou droit de créance) s'exerce sur une personne : il lie un créancier à un débiteur. Les options B, C et D sont des affirmations inexactes ou trop réductrices.",
+      "tags": [
+        "droit réel",
+        "droit personnel",
+        "droits subjectifs"
+      ]
+    },
+    {
+      "id": "droits-subjectifs-qcm-002",
+      "question": "Que désigne le principe « infans conceptus » en droit civil ?",
+      "options": [
+        "La rétroaction de la personnalité à la conception si l'enfant naît vivant et viable",
+        "La personnalité juridique acquise dès la conception, sans condition de naissance viable",
+        "L'interdiction de toute disposition testamentaire en faveur d'un enfant non encore né",
+        "La soumission de la filiation naturelle à une reconnaissance expresse avant la naissance"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'art. 906 C. civ., l'infans conceptus pro jam nato habetur permet de rétroagir la personnalité juridique à la conception afin que l'enfant conçu puisse recevoir une donation ou un legs — à condition qu'il naisse vivant et viable. La naissance vivante et viable reste une condition indispensable, ce que nie l'option B.",
+      "tags": [
+        "infans conceptus",
+        "personnalité juridique",
+        "naissance"
+      ]
+    },
+    {
+      "id": "droits-subjectifs-qcm-003",
+      "question": "Dans quel délai peut-on obtenir une déclaration d'absence, et quels en sont les effets sur le mariage ?",
+      "options": [
+        "Après 5 ans de présomption d'absence ; le mariage est suspendu jusqu'au retour de l'absent",
+        "Après 10 ans de présomption d'absence (ou 20 ans sans constat) ; le mariage est dissous",
+        "Après 20 ans de présomption d'absence (ou 30 ans sans constat) ; le mariage est suspendu",
+        "Dès la présomption constatée par le juge ; le mariage peut être dissous sans délai"
+      ],
+      "answer": 1,
+      "explanation": "La déclaration d'absence peut être prononcée 10 ans après la présomption d'absence (art. 122 C. civ.), ou 20 ans sans constat judiciaire préalable. Ses effets sont ceux du décès : succession ouverte et mariage dissous. En cas de retour, le jugement est annulé et les biens repris en l'état, mais le mariage demeure dissous.",
+      "tags": [
+        "absence déclarée",
+        "personnalité juridique",
+        "mariage"
+      ]
+    },
+    {
+      "id": "droits-subjectifs-qcm-004",
+      "question": "Quelle différence fondamentale sépare l'incapacité de jouissance de l'incapacité d'exercice ?",
+      "options": [
+        "La jouissance interdit d'acquérir un droit ; l'exercice interdit d'exercer un droit acquis",
+        "La jouissance est toujours spéciale ; l'exercice peut être général ou spécial selon le cas",
+        "La jouissance concerne les majeurs protégés ; l'exercice ne vise que les mineurs seuls",
+        "La jouissance peut être suppléée par un tuteur ; l'exercice ne peut jamais être compensé"
+      ],
+      "answer": 0,
+      "explanation": "L'incapacité de jouissance interdit à la personne d'acquérir un droit (atteinte forte, spéciale, sans remède car l'acte est interdit à tous). L'incapacité d'exercice empêche d'exercer un droit déjà acquis, mais peut être compensée par la représentation (tuteur, curateur). L'option D inverse les deux notions.",
+      "tags": [
+        "incapacité",
+        "jouissance",
+        "exercice"
+      ]
+    },
+    {
+      "id": "droits-subjectifs-qcm-005",
+      "question": "À partir de quel âge et dans quelles conditions un mineur peut-il être émancipé ?",
+      "options": [
+        "Dès 15 ans révolus, par le TGI, sur demande des représentants légaux de l'enfant mineur",
+        "Dès 16 ans révolus, par le juge des tutelles, sur justes motifs, à la demande des parents",
+        "Dès 17 ans révolus, automatiquement, dès lors que le mineur exerce une activité salariée",
+        "Dès 16 ans révolus, par le juge des tutelles, uniquement en cas de mariage du mineur visé"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'art. 413-2 C. civ., le mineur est émancipable dès 16 ans révolus, par le juge des tutelles, sur justes motifs, à la demande des père et mère. Une fois émancipé, il est capable comme un majeur pour les actes civils, mais ne peut voter, passer le permis ni entrer en casino avant 18 ans.",
+      "tags": [
+        "mineur émancipé",
+        "émancipation",
+        "capacité"
+      ]
+    },
+    {
+      "id": "droits-subjectifs-qcm-006",
+      "question": "Quelle mesure de protection du majeur protégé implique une représentation continue et totale ?",
+      "options": [
+        "La sauvegarde de justice",
+        "La curatelle",
+        "La tutelle",
+        "La déclaration d'incapacité"
+      ],
+      "answer": 2,
+      "explanation": "La tutelle implique une représentation continue et totale du majeur protégé (art. 440 et s. C. civ.). La curatelle instaure une assistance/contrôle pour les actes importants. La sauvegarde de justice est légère et de courte durée, préservant l'exercice des droits. La « déclaration d'incapacité » n'existe pas en tant que mesure.",
+      "tags": [
+        "majeur protégé",
+        "tutelle",
+        "curatelle"
+      ]
+    },
+    {
+      "id": "droits-subjectifs-qcm-007",
+      "question": "Quelle est la conséquence juridique du décès d'un associé sur la personnalité morale du groupement ?",
+      "options": [
+        "La société est automatiquement dissoute, sauf clause de continuation dans les statuts",
+        "La société est suspendue jusqu'à la liquidation de la succession de l'associé décédé",
+        "La personne morale survit ; les parts de l'associé décédé se transmettent à ses héritiers",
+        "La société est réduite à ses membres survivants, tenus de reconstituer le capital social"
+      ],
+      "answer": 2,
+      "explanation": "La personne morale dispose d'une personnalité juridique propre, distincte de ses membres. Le décès d'un associé n'entraîne pas la dissolution du groupement : les parts sont transmises aux héritiers par succession. C'est une conséquence directe du principe d'autonomie de la personnalité morale.",
+      "tags": [
+        "personne morale",
+        "associé",
+        "personnalité juridique"
+      ]
+    },
+    {
+      "id": "droits-subjectifs-qcm-008",
+      "question": "Quelle distinction fondamentale oppose la société à l'association en droit français ?",
+      "options": [
+        "La société exige au moins deux associés ; l'association peut être fondée par une seule",
+        "La société vise le partage des bénéfices entre associés ; l'association ne peut le faire",
+        "La société est une personne morale de droit public ; l'association relève du droit privé",
+        "La société ne peut réaliser de bénéfices ; l'association peut en faire et les redistribuer"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'art. 1832 C. civ., la société a pour objet le partage de bénéfices entre associés. Selon la loi du 1er juillet 1901 (art. 1er), l'association est une convention à but autre que le partage de bénéfices : elle peut réaliser des profits mais ne peut pas les distribuer à ses membres. L'option C est fausse : toutes deux relèvent du droit privé.",
+      "tags": [
+        "société",
+        "association",
+        "personne morale"
+      ]
+    },
+    {
+      "id": "droits-subjectifs-qcm-009",
+      "question": "Parmi les mécanismes suivants, lequel constitue la dérogation à l'unicité du patrimoine instaurée par la loi du 15 juin 2010 ?",
+      "options": [
+        "La fiducie (transfert temporaire de propriété à un fiduciaire, 99 ans maximum)",
+        "L'insaisissabilité notariée de la résidence principale de l'entrepreneur individuel",
+        "Le patrimoine d'affectation de l'EIRL (biens professionnels isolés des personnels)",
+        "Le fonds de dotation (patrimoine distinct pour les fondations et œuvres d'intérêt général)"
+      ],
+      "answer": 2,
+      "explanation": "La loi du 15/06/2010 a créé l'EIRL (entrepreneur individuel à responsabilité limitée), permettant un patrimoine d'affectation professionnel distinct du patrimoine personnel — dérogation à la théorie d'Aubry & Rau (1 personne = 1 patrimoine). La fiducie (2007) est une autre dérogation. La déclaration d'insaisissabilité protège la résidence principale mais ne crée pas de patrimoine distinct.",
+      "tags": [
+        "EIRL",
+        "patrimoine",
+        "unicité du patrimoine"
+      ]
+    },
+    {
+      "id": "droits-subjectifs-qcm-010",
+      "question": "Quels caractères distinguent les droits extrapatrimoniaux des droits patrimoniaux ?",
+      "options": [
+        "Ils sont évaluables en argent et librement cessibles entre vifs ou par voie testamentaire",
+        "Ils sont imprescriptibles, indisponibles et insaisissables, sans valeur pécuniaire directe",
+        "Ils sont transmissibles aux héritiers et saisissables par les créanciers du titulaire",
+        "Ils peuvent être cédés à titre onéreux dès lors que la loi l'autorise de manière expresse"
+      ],
+      "answer": 1,
+      "explanation": "Les droits extrapatrimoniaux (droit sur son corps — art. 16 et 16-1 C. civ. —, vie privée — art. 9 C. civ. —, droit moral de l'auteur…) sont imprescriptibles, indisponibles et insaisissables, sans évaluation pécuniaire. Leur méconnaissance peut toutefois être réparée par dommages-intérêts, sans que le droit lui-même soit cédé.",
+      "tags": [
+        "droits extrapatrimoniaux",
+        "droits patrimoniaux",
+        "dignité humaine"
+      ]
+    }
+  ]
+}

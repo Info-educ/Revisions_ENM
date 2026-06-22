@@ -77,6 +77,12 @@
       "file": "droit-objectif.json",
       "title": "Le droit objectif — Règle de droit, vocabulaire fondamental et application dans le temps et l'espace",
       "category": "Introduction au droit"
+    },
+    {
+      "id": "droits-subjectifs",
+      "file": "droits-subjectifs.json",
+      "title": "Les droits subjectifs — Personnalité juridique, personnes morales, patrimoine et biens",
+      "category": "Introduction au droit"
     }
   ]
 }
