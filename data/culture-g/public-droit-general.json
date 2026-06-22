@@ -1,0 +1,151 @@
+{
+  "id": "public-droit-general",
+  "title": "Droit public — Institutions, administration et justice administrative",
+  "category": "Droit public général",
+  "flashcards": [],
+  "qcm": [
+    {
+      "id": "public-qcm-001",
+      "question": "Quelle est la différence fondamentale entre droit public et droit privé ?",
+      "options": [
+        "Le droit public s'applique aux États, le droit privé aux collectivités locales",
+        "Le droit public régit les relations impliquant une personne publique (puissance publique)",
+        "Le droit public concerne les contrats, le droit privé les infractions",
+        "Le droit public est moins contraignant que le droit privé pour les citoyens"
+      ],
+      "answer": 1,
+      "explanation": "Le droit public régit les relations dans lesquelles intervient une personne publique (État, collectivités territoriales, établissements publics), soit entre personnes publiques, soit entre personnes publiques et privées. Le droit privé régit les rapports entre personnes privées d'intérêt équivalent.",
+      "tags": [
+        "définition",
+        "droit public",
+        "personne publique"
+      ]
+    },
+    {
+      "id": "public-qcm-002",
+      "question": "Combien de députés composent l'Assemblée nationale selon la Constitution actuelle ?",
+      "options": [
+        "348 sénateurs élus au suffrage indirect pour 6 ans",
+        "577 députés élus au suffrage direct pour 5 ans",
+        "500 parlementaires répartis entre deux chambres égales",
+        "435 représentants du peuple avec mandat de 7 ans non renouvelable"
+      ],
+      "answer": 1,
+      "explanation": "L'Assemblée nationale est composée de 577 députés élus au suffrage direct universel pour un mandat de 5 ans. Le Sénat, chambre haute, compte 348 sénateurs élus au suffrage indirect pour 6 ans (renouvellement par tiers tous les 3 ans).",
+      "tags": [
+        "Assemblée nationale",
+        "nombre",
+        "mandat",
+        "suffrage"
+      ]
+    },
+    {
+      "id": "public-qcm-003",
+      "question": "Quels sont les deux principaux pouvoirs propres du Président de la République sans contreseing du Premier ministre ?",
+      "options": [
+        "Promulgation des lois et nomination des magistrats du siège",
+        "Nomination du PM, référendum législatif, dissolution de l'AN, pouvoirs exceptionnels",
+        "Direction du gouvernement et détermination de la politique générale",
+        "Ratification des traités internationaux et création des autorités administratives"
+      ],
+      "answer": 1,
+      "explanation": "Le Président exerce des pouvoirs partagés (avec contreseing du PM) et des pouvoirs propres sans contreseing : nomination du PM, référendum législatif (art. 11), dissolution de l'Assemblée nationale (art. 12), pouvoirs exceptionnels en cas de crise (art. 16), saisine du Conseil constitutionnel.",
+      "tags": [
+        "Président",
+        "pouvoir propre",
+        "contreseing",
+        "Constitution"
+      ]
+    },
+    {
+      "id": "public-qcm-004",
+      "question": "Quelle est la procédure pour une Question Prioritaire de Constitutionnalité (QPC) mise en place en 2008 ?",
+      "options": [
+        "Contrôle obligatoire avant l'adoption d'une loi par le Parlement",
+        "Saisine obligatoire par le Conseil d'État avant chaque dérogation",
+        "Contrôle a posteriori posé par un justiciable à tout moment d'un litige",
+        "Examen préalable du gouvernement avant application d'une disposition"
+      ],
+      "answer": 2,
+      "explanation": "La QPC (revision du 23 juillet 2008) permet un contrôle a posteriori de constitutionnalité. Elle peut être posée par tout justiciable à tout moment de l'instance (sauf matière criminelle : avant procès ou en cassation), transmise via les juridictions suprêmes. Elle nécessite trois conditions cumulatives et une question non dépourvue de caractère sérieux.",
+      "tags": [
+        "QPC",
+        "contrôle",
+        "constitutionnalité",
+        "justiciable"
+      ]
+    },
+    {
+      "id": "public-qcm-005",
+      "question": "Qu'est-ce qui caractérise un Service Public Administratif (SPA) par rapport à un Service Public Industriel et Commercial (SPIC) ?",
+      "options": [
+        "Le SPA reçoit des subventions, le SPIC fonctionne uniquement sur redevances",
+        "Le SPA relève du droit public, le SPIC du droit privé (sauf actes de puissance publique)",
+        "Le SPA gère des services sociaux, le SPIC des activités commerciales",
+        "Le SPA emploie des fonctionnaires, le SPIC emploie des salariés privés"
+      ],
+      "answer": 1,
+      "explanation": "Depuis le critère de 1956 du Conseil d'État, le régime juridique diffère : le SPA relève du droit public, le SPIC du droit privé (sauf pour les actes de puissance publique). La présomption est SPA sauf si trois critères cumulatifs sont réunis : objet identique à une entreprise privée, ressources de redevances d'usagers, fonctionnement comparable à une entreprise privée.",
+      "tags": [
+        "service public",
+        "SPA",
+        "SPIC",
+        "régime juridique"
+      ]
+    },
+    {
+      "id": "public-qcm-006",
+      "question": "Quels principes fondamentaux s'appliquent à la police administrative en vertu de la jurisprudence du Conseil d'État ?",
+      "options": [
+        "Légalité absolue des actes, hiérarchie stricte, contrôle administratif continu du juge",
+        "Continuité, égalité, adaptabilité, neutralité et protection de la dignité humaine",
+        "Responsabilité totale du maire, obligation d'indemniser tous les dommages causés",
+        "Application du droit privé sauf en matière d'ordre public et de sûreté générale"
+      ],
+      "answer": 1,
+      "explanation": "La police administrative obéit à plusieurs principes : continuité du service, égalité devant la loi, adaptabilité (mutabilité selon les circonstances), neutralité. Depuis 1995, le Conseil d'État y ajoute la dignité de la personne humaine comme finalité de la police. La finalité générale est le maintien de l'ordre public (tranquillité, sécurité, salubrité).",
+      "tags": [
+        "police administrative",
+        "principes",
+        "ordre public",
+        "dignitité"
+      ]
+    },
+    {
+      "id": "public-qcm-007",
+      "question": "Quelle est la composition et les attributions principales du Conseil constitutionnel selon la Constitution ?",
+      "options": [
+        "12 membres nommés par le Parlement, contrôle uniquement a priori des lois organiques",
+        "9 membres (3 par institution), mandat 9 ans non renouvelable, contrôle a priori et QPC",
+        "7 magistrats indépendants nommés à titre personnel pour la vie",
+        "15 juges élus au suffrage universel pour assurer la conformité des décisions"
+      ],
+      "answer": 1,
+      "explanation": "Le Conseil constitutionnel compte 9 membres (3 nommés par le Président de la République, 3 par le président de l'Assemblée nationale, 3 par le président du Sénat) avec un mandat de 9 ans non renouvelable. Il exerce un contrôle a priori (avant entrée en vigueur) et a posteriori via la QPC. Le bloc de constitutionnalité comprend la Constitution, son préambule, la DDHC et le PFRLR.",
+      "tags": [
+        "Conseil constitutionnel",
+        "composition",
+        "compétence",
+        "contrôle"
+      ]
+    },
+    {
+      "id": "public-qcm-008",
+      "question": "Quel est le rôle du Tribunal des conflits en matière de contentieux administratif et judiciaire ?",
+      "options": [
+        "Juger en appel les décisions de la Cour de cassation et du Conseil d'État",
+        "Résoudre les conflits de compétence entre ordre judiciaire et ordre administratif",
+        "Contrôler la légalité des actes des juridictions administratives spécialisées",
+        "Examiner les recours pour excès de pouvoir contre les actes réglementaires"
+      ],
+      "answer": 1,
+      "explanation": "Le Tribunal des conflits, créé par la loi du 24 août 1872, règle les conflits de compétence entre l'ordre judiciaire et l'ordre administratif. Il est composé paritairement de 4 conseillers d'État et de 4 magistrats du siège de la Cour de cassation, reflétant l'équilibre entre les deux ordres de juridiction.",
+      "tags": [
+        "Tribunal des conflits",
+        "compétence",
+        "conflit",
+        "juridiction"
+      ]
+    }
+  ]
+}

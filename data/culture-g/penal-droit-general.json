@@ -1,0 +1,148 @@
+{
+  "id": "penal-droit-general",
+  "title": "Droit pénal — Infractions, responsabilité et peines",
+  "category": "Droit pénal général",
+  "flashcards": [],
+  "qcm": [
+    {
+      "id": "penal-qcm-001",
+      "question": "Selon la classification ternaire du code pénal, quels sont les trois niveaux d'infractions en fonction de leur gravité ?",
+      "options": [
+        "Délits mineurs, délits graves, crimes contre l'humanité",
+        "Crimes, délits et contraventions",
+        "Infractions intentionnelles, infractions involontaires, infractions graves",
+        "Contraventions légères, délits aggravés, crimes irrévocables"
+      ],
+      "answer": 1,
+      "explanation": "Le code pénal (art. 111-1) classe les infractions en trois catégories selon leur gravité : les crimes (les plus graves, jugés en cour d'assises), les délits (jugés en tribunal correctionnel) et les contraventions (les moins graves, jugées en tribunal de police).",
+      "tags": [
+        "classification",
+        "infractions",
+        "gravité"
+      ]
+    },
+    {
+      "id": "penal-qcm-002",
+      "question": "Quels sont les trois éléments constitutifs cumulatifs d'une infraction pénale ?",
+      "options": [
+        "Intention criminelle, préjudice à autrui, reconnaissance du juge",
+        "Élément légal, élément matériel, élément moral",
+        "Acte volontaire, intention malveillante, dommage indirect",
+        "Violation de la loi, témoin, ordre d'un supérieur hiérarchique"
+      ],
+      "answer": 1,
+      "explanation": "Pour qu'une infraction existe, trois éléments doivent coexister : (1) élément légal : l'agissement doit être prévu par un texte ; (2) élément matériel : le fait extérieur (acte ou omission) ; (3) élément moral : la conscience et l'intention au moins d'imprudence.",
+      "tags": [
+        "éléments",
+        "infraction",
+        "constitution"
+      ]
+    },
+    {
+      "id": "penal-qcm-003",
+      "question": "Quel est le principe fondamental du droit pénal, énoncé par Beccaria en 1764 ?",
+      "options": [
+        "La présomption d'innocence prévaut sur la preuve de culpabilité absolue",
+        "Nullum crimen, nulla poena sine lege",
+        "Le droit à la dignité humaine interdit les peines cruelles définitives",
+        "La responsabilité pénale de l'État prime sur celle des individus"
+      ],
+      "answer": 1,
+      "explanation": "Le principe de légalité des délits et des peines, énoncé comme « Nullum crimen, nulla poena sine lege » (nulle crime, nulle peine sans loi), est le principe fondamental du droit pénal. Il garantit contre l'arbitraire judiciaire et est protégé par plusieurs textes (DDHC, CEDH).",
+      "tags": [
+        "légalité",
+        "principe fondamental",
+        "Beccaria"
+      ]
+    },
+    {
+      "id": "penal-qcm-004",
+      "question": "Quelle est la différence entre responsabilité civile et responsabilité pénale ?",
+      "options": [
+        "La responsabilité civile est plus grave que la responsabilité pénale",
+        "Elles sont étroitement liées : l'une implique toujours l'autre",
+        "Elles sont indépendantes : l'une peut exister sans l'autre",
+        "La responsabilité civile s'applique aux mineurs, la pénale aux adultes"
+      ],
+      "answer": 2,
+      "explanation": "La responsabilité civile et la responsabilité pénale sont indépendantes. Il est possible d'avoir une responsabilité civile sans pénale (préjudice non constitutif d'une infraction), une responsabilité pénale sans civile (infraction sans victime indemnisable), ou les deux.",
+      "tags": [
+        "responsabilité",
+        "civil",
+        "pénal",
+        "indépendance"
+      ]
+    },
+    {
+      "id": "penal-qcm-005",
+      "question": "Quel est l'effet principal d'une cause d'irresponsabilité objective en droit pénal ?",
+      "options": [
+        "L'auteur obtient une réduction de peine de 50 pour cent",
+        "L'acte cesse d'être punissable pour tous, quelle que soit la personne",
+        "Seul l'auteur de l'acte est exonéré de responsabilité pénale",
+        "Le ministère public ne peut plus poursuivre après cinq ans"
+      ],
+      "answer": 1,
+      "explanation": "Les causes d'irresponsabilité objectives (comme l'ordre de la loi, la légitime défense ou l'état de nécessité) ont pour effet que l'acte cesse d'être punissable pour tous, indépendamment de la personne qui l'a commis. Les causes subjectives, en revanche, ne libèrent que l'auteur spécifique.",
+      "tags": [
+        "irresponsabilité",
+        "objective",
+        "justification"
+      ]
+    },
+    {
+      "id": "penal-qcm-006",
+      "question": "Selon la jurisprudence, à partir de quel âge une personne mineure peut-elle être pénalement responsable ?",
+      "options": [
+        "À partir de 13 ans sans exception possible",
+        "À partir de 10 ans si elle a le discernement nécessaire",
+        "À partir de 18 ans uniquement, jamais avant",
+        "À partir de 16 ans avec l'autorisation d'un parent"
+      ],
+      "answer": 1,
+      "explanation": "En vertu de l'ordonnance du 2 février 1945, les mineurs de moins de 10 ans sont irresponsables sans limite d'âge. Entre 10 et 18 ans, s'ils ont le discernement nécessaire, ils sont pénalement responsables mais bénéficient de sanctions éducatives et d'une atténuation de responsabilité.",
+      "tags": [
+        "mineurs",
+        "discernement",
+        "responsabilité pénale",
+        "âge"
+      ]
+    },
+    {
+      "id": "penal-qcm-007",
+      "question": "Quels sont les cinq types de peines prévues par le droit pénal français ?",
+      "options": [
+        "Peines de rédemption, peines sociales, peines éducatives, peines alternatives, peines patrimoniales",
+        "Privatives/restrictives de liberté, patrimoniales, professionnelles, droits civiques, réputation",
+        "Amendes, emprisonnement, travaux d'intérêt général, sursis, suspension de permis",
+        "Peines principales, peines complémentaires, peines accessoires, peines secondaires, peines temporaires"
+      ],
+      "answer": 1,
+      "explanation": "Le droit pénal prévoit cinq catégories de peines : (1) peines privatives ou restrictives de liberté (détention, réclusion, interdiction de séjour) ; (2) peines patrimoniales (amendes, confiscations) ; (3) peines professionnelles (interdiction d'exercer) ; (4) peines portant sur les droits (droit de vote, permis) ; (5) peines portant sur la réputation (publication de la décision).",
+      "tags": [
+        "peines",
+        "classification",
+        "types",
+        "sanction"
+      ]
+    },
+    {
+      "id": "penal-qcm-008",
+      "question": "Devant quelle juridiction un crime doit-il être jugé en première instance ?",
+      "options": [
+        "Devant le tribunal correctionnel, en formation collégiale",
+        "Devant la cour d'assises avec jurés citoyens et magistrats professionnels",
+        "Devant le tribunal de police présidé par un magistrat unique",
+        "Devant la cour d'appel après jugement du tribunal judiciaire"
+      ],
+      "answer": 1,
+      "explanation": "Les crimes sont jugés en première instance par la cour d'assises, composée de trois magistrats professionnels (un président et deux assesseurs) et de six jurés citoyens tirés au sort. En appel, la composition comprend neuf jurés.",
+      "tags": [
+        "juridiction",
+        "crime",
+        "cour d'assises",
+        "compétence"
+      ]
+    }
+  ]
+}

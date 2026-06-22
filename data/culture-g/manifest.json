@@ -83,6 +83,18 @@
       "file": "droits-subjectifs.json",
       "title": "Les droits subjectifs — Personnalité juridique, personnes morales, patrimoine et biens",
       "category": "Introduction au droit"
+    },
+    {
+      "id": "penal-droit-general",
+      "file": "penal-droit-general.json",
+      "title": "Droit pénal — Infractions, responsabilité et peines",
+      "category": "Droit pénal général"
+    },
+    {
+      "id": "public-droit-general",
+      "file": "public-droit-general.json",
+      "title": "Droit public — Institutions, administration et justice administrative",
+      "category": "Droit public général"
     }
   ]
 }
