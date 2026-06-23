@@ -161,6 +161,12 @@
       "file": "dps-atteintes-volontaires.json",
       "title": "Les atteintes volontaires à la vie ou à l'intégrité physique de la personne",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "dps-atteintes-involontaires",
+      "file": "dps-atteintes-involontaires.json",
+      "title": "Les atteintes involontaires à la vie ou à l'intégrité physique de la personne",
+      "category": "Droit pénal général"
     }
   ]
 }

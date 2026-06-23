@@ -1,0 +1,131 @@
+{
+  "id": "dps-atteintes-involontaires",
+  "title": "Les atteintes involontaires à la vie ou à l'intégrité physique de la personne",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "dpsai-fc-001",
+      "front": "Quels sont les trois éléments constitutifs cumulatifs des atteintes involontaires ?",
+      "back": "Un résultat (atteinte effective, gradué selon sa gravité : mort, ITT supérieure ou inférieure à 3 mois, absence d'ITT), un comportement imprudent (acte positif ou omission, non défini par le texte : maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité) et une faute d'imprudence, dont le type dépend du lien de causalité.",
+      "tags": ["atteintes involontaires", "résultat"]
+    },
+    {
+      "id": "dpsai-fc-002",
+      "front": "Quelle distinction la loi Fauchon du 10 juillet 2000 a-t-elle introduite, et quelle est sa conséquence sur la faute exigée ?",
+      "back": "La loi Fauchon distingue la causalité directe (l'acte est le paramètre déterminant et immédiat du dommage) de la causalité indirecte (l'auteur a seulement créé ou contribué à créer la situation, ou n'a pas pris les mesures permettant d'éviter le dommage). En causalité directe, une faute simple suffit ; en causalité indirecte, une faute qualifiée est exigée (art. 121-3 al. 4 C. pén.).",
+      "tags": ["causalité", "loi fauchon"]
+    },
+    {
+      "id": "dpsai-fc-003",
+      "front": "Quelles sont les deux formes que peut prendre la faute qualifiée exigée en cas de causalité indirecte ?",
+      "back": "La violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, ou la faute caractérisée exposant autrui à un risque d'une particulière gravité que l'auteur ne pouvait ignorer, sans exiger la violation d'une obligation particulière ; cette seconde forme peut résulter d'une accumulation de fautes simples.",
+      "tags": ["faute qualifiée", "causalité indirecte"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "dpsai-qcm-001",
+      "question": "Que décide la jurisprudence quant à l'application de l'homicide involontaire à l'enfant à naître ?",
+      "options": [
+        "Elle l'exclut, en interprétant strictement le texte réprimant l'homicide involontaire",
+        "Elle l'admet pleinement dès que la grossesse a atteint son troisième trimestre",
+        "Elle laisse aux juridictions du fond une appréciation souveraine et discrétionnaire",
+        "Elle l'admet uniquement lorsque l'enfant naît vivant puis décède peu après le terme"
+      ],
+      "answer": 0,
+      "explanation": "L'Ass. plén. du 29 juin 2001, confirmée par Crim. 25 juin 2002, exclut l'homicide involontaire sur l'enfant à naître, en retenant une interprétation stricte de l'art. 221-6 C. pén., lequel ne vise que la mort d'autrui déjà né.",
+      "tags": ["homicide involontaire", "enfant à naître"]
+    },
+    {
+      "id": "dpsai-qcm-002",
+      "question": "Pourquoi un médecin ayant mal accouché un enfant, dont les parents ont ensuite arrêté la réanimation, peut-il être coupable d'homicide involontaire malgré un lien de causalité indirecte ?",
+      "options": [
+        "Parce qu'une faute simple suffit toujours dès lors que le dommage est constaté",
+        "Parce que son acte fautif demeure l'élément déterminant ayant conduit au décès",
+        "Parce que les parents sont seuls responsables du décès survenu après leur décision",
+        "Parce que la causalité indirecte exclut toute poursuite pénale contre le médecin"
+      ],
+      "answer": 1,
+      "explanation": "Bien que le lien de causalité soit indirect (la décision des parents s'est interposée), une faute qualifiée a été retenue car l'acte du médecin demeure l'élément déterminant ayant conduit au décès de l'enfant, justifiant sa condamnation pour homicide involontaire.",
+      "tags": ["causalité indirecte", "faute qualifiée"]
+    },
+    {
+      "id": "dpsai-qcm-003",
+      "question": "Comment la faute simple est-elle appréciée en matière d'atteintes involontaires ?",
+      "options": [
+        "In abstracto, par référence au comportement qu'aurait adopté une personne prudente",
+        "In concreto, en tenant compte exclusivement du casier judiciaire de l'auteur",
+        "Selon un barème chiffré fixé par décret en fonction de la gravité du résultat",
+        "Uniquement par référence aux usages professionnels du secteur d'activité concerné"
+      ],
+      "answer": 0,
+      "explanation": "La faute simple s'apprécie in abstracto, par comparaison avec le comportement qu'aurait adopté une personne prudente, le « bon père de famille », à la différence de la faute qualifiée qui s'apprécie in concreto selon les missions, fonctions, compétences, pouvoirs et moyens de l'auteur.",
+      "tags": ["faute simple", "appréciation in abstracto"]
+    },
+    {
+      "id": "dpsai-qcm-004",
+      "question": "Comment l'art. 121-3 al. 4 C. pén. modifie-t-il l'articulation entre responsabilité de la personne morale et de la personne physique en cas de causalité indirecte ?",
+      "options": [
+        "Il exclut systématiquement la responsabilité de la personne morale dans ce cas précis",
+        "Il ne s'applique qu'aux personnes physiques n'ayant pas causé directement le dommage",
+        "Il impose une responsabilité solidaire automatique entre personne morale et physique",
+        "Il transfère intégralement la charge de la preuve à la personne morale poursuivie"
+      ],
+      "answer": 1,
+      "explanation": "L'art. 121-3 al. 4 ne vise que les personnes physiques n'ayant pas causé directement le dommage, ce qui permet à la personne morale d'être responsable là où la personne physique ayant agi de façon indirecte ne le serait pas, sans pour autant exclure la responsabilité de cette dernière.",
+      "tags": ["responsabilité personne morale", "causalité indirecte"]
+    },
+    {
+      "id": "dpsai-qcm-005",
+      "question": "Quelle évolution jurisprudentielle concerne le traitement de l'imprudence collective en matière d'atteintes involontaires ?",
+      "options": [
+        "Le juge retient désormais un lien causal entre l'imprudence collective et le préjudice",
+        "Toute imprudence collective est exclusive de toute responsabilité pénale individuelle",
+        "Seul l'auteur matériel direct du dommage peut être poursuivi en pareille situation",
+        "L'imprudence collective impose systématiquement la saisine d'une juridiction spécialisée"
+      ],
+      "answer": 0,
+      "explanation": "Le juge admet aujourd'hui un lien causal entre l'imprudence collective et les préjudices causés, dès lors qu'il est difficile de déterminer précisément l'apport causal de chaque comportement individuel pris isolément dans la survenance du dommage.",
+      "tags": ["imprudence collective", "lien causal"]
+    },
+    {
+      "id": "dpsai-qcm-006",
+      "question": "Quelle peine est encourue pour un homicide involontaire commis par la violation manifestement délibérée d'une obligation de sécurité ?",
+      "options": [
+        "Cinq années d'emprisonnement et soixante-quinze mille euros d'amende au maximum",
+        "Trois années d'emprisonnement et quarante-cinq mille euros d'amende au maximum",
+        "Dix années d'emprisonnement et cent cinquante mille euros d'amende au maximum",
+        "Une amende contraventionnelle de cinquième classe sans peine d'emprisonnement possible"
+      ],
+      "answer": 0,
+      "explanation": "L'homicide involontaire simple est puni de trois ans et 45 000 euros d'amende ; la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité aggrave cette peine à cinq ans et 75 000 euros d'amende.",
+      "tags": ["homicide involontaire", "circonstance aggravante"]
+    },
+    {
+      "id": "dpsai-qcm-007",
+      "question": "Quel effet la commission d'une infraction concomitante, telle que la fuite du conducteur, produit-elle sur la peine encourue ?",
+      "options": [
+        "Elle n'a aucun effet, les deux infractions étant poursuivies de façon totalement distincte",
+        "Elle entraîne le doublement des peines encourues pour l'atteinte involontaire commise",
+        "Elle impose obligatoirement le prononcé d'une peine de réclusion criminelle à perpétuité",
+        "Elle transforme automatiquement l'atteinte involontaire en atteinte volontaire punie"
+      ],
+      "answer": 1,
+      "explanation": "La commission d'une infraction concomitante, telle qu'un délit de fuite, un état d'ivresse ou un refus des vérifications, entraîne le doublement des peines encourues pour l'atteinte involontaire à la vie ou à l'intégrité physique commise par le conducteur.",
+      "tags": ["infraction concomitante", "doublement de peine"]
+    },
+    {
+      "id": "dpsai-qcm-008",
+      "question": "Qu'a institué la loi n° 2025-622 du 9 juillet 2025 en matière d'atteintes involontaires liées à la conduite ?",
+      "options": [
+        "Une présomption de non-culpabilité applicable aux seuls propriétaires de véhicules",
+        "Une obligation systématique de retrait du permis de conduire pour tout accident",
+        "Des infractions autonomes d'homicide et de blessures routiers, distinctes du droit commun",
+        "Une compétence exclusive du tribunal correctionnel pour tous les accidents corporels"
+      ],
+      "answer": 2,
+      "explanation": "La loi n° 2025-622 du 9 juillet 2025 érige des homicides et blessures routiers en infractions autonomes, distinctes du régime général des atteintes involontaires aggravées par la conduite d'un véhicule terrestre à moteur issu de la loi du 12 juin 2003.",
+      "tags": ["loi du 9 juillet 2025", "homicide routier"]
+    }
+  ]
+}
