@@ -1,0 +1,169 @@
+{
+  "id": "dps-atteintes-volontaires",
+  "title": "Les atteintes volontaires à la vie ou à l'intégrité physique de la personne",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "dpsav-fc-001",
+      "front": "Quels sont les trois éléments constitutifs du meurtre (art. 221-1 C. pén.) ?",
+      "back": "Un acte homicide (non défini, tout moyen est admis — Crim. 13 mai 1965), un résultat (la mort d'une victime née et vivante), et l'animus necandi, c'est-à-dire l'intention de tuer, appréciée in abstracto : les mobiles sont indifférents et l'erreur sur la personne est sans incidence.",
+      "tags": ["meurtre", "animus necandi"]
+    },
+    {
+      "id": "dpsav-fc-002",
+      "front": "Comment la peine des violences volontaires (art. 222-7 et s.) est-elle déterminée, alors que l'acte lui-même n'est pas défini ?",
+      "back": "L'acte de violence n'est pas défini par le Code pénal : il peut être un contact matériel ou un simple choc émotif (menaces, harcèlement téléphonique). C'est le résultat produit qui commande la peine, selon une échelle graduée (mort sans intention de la donner, mutilation/infirmité permanente, ITT supérieure ou inférieure à 8 jours, absence d'incapacité).",
+      "tags": ["violences", "itt"]
+    },
+    {
+      "id": "dpsav-fc-003",
+      "front": "En quoi l'empoisonnement (art. 221-5) se distingue-t-il de l'administration de substances nuisibles (art. 222-15) ?",
+      "back": "L'empoisonnement est un crime formel, consommé par la seule administration de substances mortifères, indépendamment de la survenance de la mort, et exige l'animus necandi (Crim. 18 juin 2003). L'administration de substances nuisibles requiert seulement l'intention de porter atteinte à l'intégrité, suppose un résultat (atteinte effective), et ne porte que sur des substances simplement nuisibles, non mortifères.",
+      "tags": ["empoisonnement", "substances nuisibles"]
+    },
+    {
+      "id": "dpsav-fc-004",
+      "front": "Quel mécanisme la loi du 24 janvier 2022 a-t-elle introduit après l'affaire Sarah Halimi ?",
+      "back": "L'art. 122-1-1 C. pén. écarte l'irresponsabilité pénale de l'art. 122-1 al. 1 lorsque l'abolition temporaire du discernement résulte d'une consommation volontaire de substances psychoactives dans un dessein criminel ou délictuel. Les art. 221-5-6 et 222-18-4 créent en outre des infractions spéciales pour les actes commis sous l'empire d'un trouble psychique issu d'une consommation manifestement excessive.",
+      "tags": ["intoxication volontaire", "irresponsabilité pénale"]
+    },
+    {
+      "id": "dpsav-fc-005",
+      "front": "Qu'est-ce qu'une infraction « obstacle » en matière d'atteintes à la vie, et lesquelles le Code pénal prévoit-il ?",
+      "back": "Une infraction obstacle anticipe la répression avant tout résultat, en sanctionnant un comportement préparatoire dangereux. Le Code pénal en prévoit trois outre l'empoisonnement : le mandat criminel (art. 221-5-1), l'embuscade (art. 222-15-1) et la participation à une bande violente (art. 222-14-2).",
+      "tags": ["infraction obstacle", "mandat criminel"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "dpsav-qcm-001",
+      "question": "Que décide la chambre criminelle lorsque la victime visée par un meurtre était déjà décédée à l'insu de l'auteur ?",
+      "options": [
+        "L'infraction est qualifiée d'impossible mais reste sanctionnée comme un meurtre",
+        "L'auteur est relaxé, faute d'élément matériel constitutif de l'infraction visée",
+        "Seule une contravention de blessures involontaires peut alors ici être retenue",
+        "L'auteur ne peut être poursuivi que pour un simple outrage à un corps inerte"
+      ],
+      "answer": 0,
+      "explanation": "Crim. 16 janv. 1986 : lorsque la victime était déjà morte au moment de l'acte sans que l'auteur le sache, l'infraction est qualifiée d'impossible mais demeure sanctionnée comme un meurtre, l'intention homicide ayant été pleinement caractérisée chez l'auteur.",
+      "tags": ["meurtre", "infraction impossible"]
+    },
+    {
+      "id": "dpsav-qcm-002",
+      "question": "Quelle est la peine encourue pour un assassinat, c'est-à-dire un meurtre commis avec préméditation ou guet-apens ?",
+      "options": [
+        "Réclusion criminelle de trente années non susceptible d'aménagement notable",
+        "Réclusion criminelle à perpétuité, sans aucune possibilité de période de sûreté",
+        "La réclusion criminelle à perpétuité, peine la plus sévère du droit pénal français",
+        "Une peine identique au meurtre simple, la préméditation restant indifférente"
+      ],
+      "answer": 2,
+      "explanation": "L'art. 221-3 C. pén. punit l'assassinat, c'est-à-dire le meurtre commis avec préméditation ou guet-apens, de la réclusion criminelle à perpétuité, peine plus sévère que les trente ans encourus pour le meurtre simple de l'art. 221-1.",
+      "tags": ["assassinat", "préméditation"]
+    },
+    {
+      "id": "dpsav-qcm-003",
+      "question": "Quel élément distingue principalement le meurtre des violences volontaires ayant entraîné la mort sans intention de la donner ?",
+      "options": [
+        "La nature précise de l'arme employée par l'auteur lors des faits ainsi commis",
+        "L'intention de tuer, totalement absente des violences ayant entraîné la mort",
+        "Le lien de parenté éventuel existant entre l'auteur et la victime des faits",
+        "Le lieu exact de commission des faits, élément déterminant pour la qualification"
+      ],
+      "answer": 1,
+      "explanation": "L'animus necandi, intention de donner la mort, est l'élément qui distingue le meurtre (art. 221-1) des violences volontaires ayant entraîné la mort sans intention de la donner (art. 222-7) : dans ce dernier cas, l'auteur veut porter atteinte à l'intégrité physique, non causer le décès.",
+      "tags": ["animus necandi", "violences mortelles"]
+    },
+    {
+      "id": "dpsav-qcm-004",
+      "question": "Comment la jurisprudence qualifie-t-elle le contrôle coercitif exercé par un conjoint au sein du couple ?",
+      "options": [
+        "Comme un harcèlement moral général, à l'exclusion de toute autre qualification",
+        "Comme une simple infraction contraventionnelle, faute de texte spécifique applicable",
+        "Comme une atteinte purement civile relevant exclusivement du juge aux affaires familiales",
+        "Comme des violences, notion incluant désormais les violences psychologiques répétées"
+      ],
+      "answer": 3,
+      "explanation": "L'art. 222-14-3 admet les violences psychologiques, et la jurisprudence tend à qualifier de violences le contrôle coercitif exercé dans le couple, l'acte de violence pouvant être sans contact matériel (choc émotif, comportement agressif répété).",
+      "tags": ["violences psychologiques", "contrôle coercitif"]
+    },
+    {
+      "id": "dpsav-qcm-005",
+      "question": "Quelle incidence le consentement de la victime a-t-il sur la qualification de violences volontaires ?",
+      "options": [
+        "Il est inopérant, sauf lorsque l'acte poursuit une finalité thérapeutique avérée",
+        "Il exclut toujours la qualification de violences, quelle que soit la gravité subie",
+        "Il ne joue un rôle que si la victime était devenue majeure au jour des faits",
+        "Il transforme automatiquement le crime ou délit en simple contravention prévue"
+      ],
+      "answer": 0,
+      "explanation": "Le consentement de la victime est en principe inopérant en matière de violences volontaires, l'unique exception étant l'acte médical poursuivant une finalité thérapeutique, seul cas où il neutralise la qualification pénale des violences.",
+      "tags": ["consentement", "violences"]
+    },
+    {
+      "id": "dpsav-qcm-006",
+      "question": "Quel est l'apport principal de la jurisprudence relative aux tortures et actes de barbarie (art. 222-1) quant à la définition de la notion ?",
+      "options": [
+        "Le Conseil constitutionnel a jugé le texte suffisamment clair, rejetant la QPC formée",
+        "Le législateur a dû définir précisément la notion après une censure du texte initial",
+        "La Cour de cassation a renvoyé la définition exclusive au pouvoir réglementaire compétent",
+        "La notion a été abandonnée au profit d'une simple circonstance aggravante des violences"
+      ],
+      "answer": 0,
+      "explanation": "La notion de tortures et actes de barbarie n'est pas définie précisément par le texte de l'art. 222-1 ; saisi par une QPC, le Conseil constitutionnel a jugé ce texte suffisamment clair et a rejeté la question, validant ainsi l'absence de définition légale stricte.",
+      "tags": ["tortures et actes de barbarie", "qpc"]
+    },
+    {
+      "id": "dpsav-qcm-007",
+      "question": "Quelle conséquence entraîne, pour l'auteur, la volonté de tuer lors de l'administration d'une substance nuisible ?",
+      "options": [
+        "Aucune conséquence, la qualification de substances nuisibles demeurant seule applicable",
+        "La qualification bascule vers une tentative de meurtre ou un empoisonnement selon le cas",
+        "L'infraction devient automatiquement une contravention de blessures involontaires simples",
+        "Seule une aggravation de peine est prononcée sans changement de la qualification initiale"
+      ],
+      "answer": 1,
+      "explanation": "Lorsque l'auteur de l'administration d'une substance nuisible a en réalité la volonté de tuer, la qualification bascule vers la tentative de meurtre ou l'empoisonnement, l'intention homicide étant incompatible avec la seule intention de porter atteinte à l'intégrité.",
+      "tags": ["substances nuisibles", "requalification"]
+    },
+    {
+      "id": "dpsav-qcm-008",
+      "question": "Qu'a ajouté la loi du 3 août 2018 à l'infraction de harcèlement moral général de l'art. 222-33-2-2 ?",
+      "options": [
+        "Une aggravation automatique de la peine encourue en cas de récidive du harceleur",
+        "L'exigence d'une plainte préalable de la victime avant toute poursuite engagée",
+        "La notion de raid numérique, visant des propos concertés même non répétés individuellement",
+        "Une prescription allongée de dix ans à compter de la cessation des faits constatés"
+      ],
+      "answer": 2,
+      "explanation": "La loi du 3 août 2018 ajoute à l'art. 222-33-2-2 la notion de « raid numérique » : des propos imposés par plusieurs personnes de façon concertée peuvent constituer un harcèlement même si chacune d'elles n'a pas agi de manière répétée.",
+      "tags": ["harcèlement moral", "raid numérique"]
+    },
+    {
+      "id": "dpsav-qcm-009",
+      "question": "Quelles sont les trois conditions matérielles cumulatives posées par la loi du 24 janvier 2022 sur l'intoxication volontaire ?",
+      "options": [
+        "Consommation excessive, trouble psychique temporaire, infraction commise sous son empire",
+        "Consommation occasionnelle, expertise psychiatrique préalable, accord du parquet requis",
+        "Consommation prouvée par analyse, absence d'antécédent, reconnaissance des faits",
+        "Consommation collective avérée, témoins directs, plainte sous quarante-huit heures"
+      ],
+      "answer": 0,
+      "explanation": "Les conditions matérielles cumulatives sont au nombre de trois : une consommation illicite ou manifestement excessive, ayant entraîné un trouble psychique ou neuropsychique temporaire, sous l'empire duquel l'infraction a été commise.",
+      "tags": ["intoxication volontaire", "conditions cumulatives"]
+    },
+    {
+      "id": "dpsav-qcm-010",
+      "question": "En quoi consiste l'infraction de mandat criminel prévue à l'art. 221-5-1 du Code pénal ?",
+      "options": [
+        "Faire des offres ou avantages pour qu'un assassinat ou empoisonnement soit commis",
+        "Accepter formellement une rémunération en contrepartie de la commission d'un crime",
+        "Commettre personnellement un assassinat après avoir reçu un paiement préalable",
+        "Recruter plusieurs complices afin de préparer matériellement un projet d'embuscade"
+      ],
+      "answer": 0,
+      "explanation": "Le mandat criminel consiste à faire à une personne des offres, promesses, dons ou avantages afin qu'elle commette un assassinat ou un empoisonnement, lorsque ce crime n'a été ni commis ni tenté ; c'est une infraction formelle, consommée par la seule proposition, peu importe son acceptation.",
+      "tags": ["mandat criminel", "infraction formelle"]
+    }
+  ]
+}

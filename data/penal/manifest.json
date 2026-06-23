@@ -155,6 +155,12 @@
       "file": "dps-crimes-humanite-espece-humaine.json",
       "title": "Les crimes contre l'humanité et contre l'espèce humaine",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "dps-atteintes-volontaires",
+      "file": "dps-atteintes-volontaires.json",
+      "title": "Les atteintes volontaires à la vie ou à l'intégrité physique de la personne",
+      "category": "Droit pénal général"
     }
   ]
 }

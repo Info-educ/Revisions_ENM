@@ -1,0 +1,92 @@
+{
+  "id": "dps-crimes-humanite-espece-humaine",
+  "title": "Les crimes contre l'humanité et contre l'espèce humaine",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "dpscheh-fc-001",
+      "front": "Quel est le dol exigé pour le crime de génocide et en quoi se distingue-t-il du dol des autres crimes contre l'humanité ?",
+      "back": "Le génocide (art. 211-1 C. pén.) exige un dol spécial : l'intention de détruire totalement ou partiellement un groupe national, ethnique, racial ou religieux, dans le cadre d'un plan concerté (Crim. 16 oct. 2019, n° 18-84608). Les autres crimes contre l'humanité (art. 212-1) ne requièrent qu'un dol général : la connaissance du contexte d'attaque généralisée ou systématique et l'intention de commettre les actes incriminés.",
+      "tags": ["génocide", "dol spécial"]
+    },
+    {
+      "id": "dpscheh-fc-002",
+      "front": "Le commandement de l'autorité légitime peut-il justifier un crime contre l'humanité ?",
+      "back": "Non : l'art. 213-4 C. pén. écarte ce fait justificatif lorsque l'ordre est manifestement illégal (Crim. 23 janv. 1997). La complicité par abstention du supérieur hiérarchique reste par ailleurs envisageable sur le fondement de l'art. 213-4-1.",
+      "tags": ["commandement", "fait justificatif"]
+    },
+    {
+      "id": "dpscheh-fc-003",
+      "front": "Quelles sont les deux infractions constitutives des crimes contre l'espèce humaine et de quelle loi sont-elles issues ?",
+      "back": "L'eugénisme (art. 214-1 C. pén.) et le clonage reproductif (art. 214-2 C. pén.), créés par la loi n° 2004-800 du 6 août 2004 relative à la bioéthique. Les deux sont punis de 30 ans de réclusion criminelle et 7 500 000 € d'amende, l'eugénisme étant aggravé à la perpétuité en bande organisée.",
+      "tags": ["eugénisme", "clonage reproductif"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "dpscheh-qcm-001",
+      "question": "Quel élément contextuel doit être établi pour les crimes contre l'humanité autres que le génocide (art. 212-1 C. pén.) ?",
+      "options": [
+        "Une attaque généralisée ou systématique contre une population civile identifiée",
+        "Un plan concerté visant la destruction totale d'un groupe national ou religieux",
+        "Une déclaration de guerre officielle, prononcée entre deux États souverains",
+        "Une décision préalable rendue par une juridiction internationale compétente"
+      ],
+      "answer": 0,
+      "explanation": "L'Ass. plén. du 12 mai 2023 relie le plan concerté et le caractère systématique : les crimes visés à l'art. 212-1 supposent un élément contextuel d'attaque généralisée ou systématique contre la population civile, à la différence du génocide qui exige un dol spécial de destruction du groupe.",
+      "tags": ["élément contextuel", "crimes contre l'humanité"]
+    },
+    {
+      "id": "dpscheh-qcm-002",
+      "question": "Pour quel acte visé à l'art. 212-1 C. pén. un motif discriminatoire est-il expressément exigé ?",
+      "options": [
+        "La déportation ou le transfert forcé de population civile vers un territoire",
+        "Les actes de ségrégation relevant d'un régime institutionnalisé d'oppression",
+        "La réduction en esclavage d'une partie quelconque de la population civile visée",
+        "Les actes de torture commis sur des personnes protégées par le droit international"
+      ],
+      "answer": 1,
+      "explanation": "Le motif discriminatoire n'est requis que pour l'acte n° 10 de l'art. 212-1, relatif aux actes de ségrégation d'un régime institutionnalisé d'oppression. Pour les autres actes énumérés, ce motif demeure facultatif.",
+      "tags": ["motif discriminatoire", "ségrégation"]
+    },
+    {
+      "id": "dpscheh-qcm-003",
+      "question": "À quelles conditions la compétence universelle des juridictions françaises peut-elle s'exercer en matière de crimes contre l'humanité ?",
+      "options": [
+        "Présence en France, absence de poursuite internationale, double incrimination",
+        "Nationalité française de l'auteur des faits au moment de leur commission uniquement",
+        "Accord préalable et exprès donné par le gouvernement de l'État sur le territoire duquel",
+        "Saisine simultanée et conjointe de la Cour pénale internationale par deux États membres"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 689-1 et suivants du CPP subordonne la compétence universelle à trois conditions cumulatives : la présence de la personne poursuivie en France, l'absence de poursuite engagée par une juridiction internationale, et la double incrimination, régime assoupli par la loi du 20 nov. 2023 après l'Ass. plén. du 12 mai 2023.",
+      "tags": ["compétence universelle", "procédure pénale"]
+    },
+    {
+      "id": "dpscheh-qcm-004",
+      "question": "Quel régime d'immunité s'applique à un chef d'État en exercice poursuivi pour génocide selon la jurisprudence de 2025 ?",
+      "options": [
+        "Une immunité personnelle totale couvrant tous les actes sans aucune exception possible",
+        "Une immunité fonctionnelle limitée, écartée précisément en cas de génocide reconnu",
+        "Aucune immunité, le chef d'État étant justiciable comme tout autre particulier",
+        "Une immunité subordonnée à l'accord exprès du Conseil de sécurité des Nations unies"
+      ],
+      "answer": 1,
+      "explanation": "La Cass. ass. plén. du 25 juil. 2025 (n° 24-84.393 et 24-84.071) distingue l'immunité personnelle, dont bénéficient les chefs d'État en exercice, de l'immunité fonctionnelle, plus limitée et écartée en cas de génocide, de crimes contre l'humanité ou de crimes de guerre.",
+      "tags": ["immunité", "chef d'état"]
+    },
+    {
+      "id": "dpscheh-qcm-005",
+      "question": "À partir de quel moment court la prescription de l'action publique pour le crime de clonage reproductif ?",
+      "options": [
+        "Le jour de la naissance de l'enfant issu de l'opération de clonage reproductif",
+        "Le jour du décès de la personne ayant servi de modèle génétique pour l'enfant",
+        "Le jour du dépôt de la plainte par une victime ou une association habilitée",
+        "Le jour de la publication officielle au Journal officiel de la loi de bioéthique"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 214-4 al. 2 C. pén., combiné à l'art. 215-4 et à l'art. 9-1 CPP, fixe le point de départ de la prescription de l'action publique à la naissance de l'enfant pour le clonage reproductif, alors que la prescription de droit commun part du jour de commission de l'infraction.",
+      "tags": ["prescription", "clonage reproductif"]
+    }
+  ]
+}
