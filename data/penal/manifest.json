@@ -149,6 +149,12 @@
       "file": "dps-introduction.json",
       "title": "Droit pénal spécial — Introduction générale",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "dps-crimes-humanite-espece-humaine",
+      "file": "dps-crimes-humanite-espece-humaine.json",
+      "title": "Les crimes contre l'humanité et contre l'espèce humaine",
+      "category": "Droit pénal général"
     }
   ]
 }
