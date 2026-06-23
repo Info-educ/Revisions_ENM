@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782228632887,
+  "updatedAt": 1782228644664,
   "themes": {
     "penal": {
       "items": {
@@ -3967,11 +3967,11 @@
           "lastSeenAt": 1782227926199
         },
         "dpsai-qcm-006": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1782228253959
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782228640657
         },
         "dpsav-qcm-005": {
           "level": 1,
