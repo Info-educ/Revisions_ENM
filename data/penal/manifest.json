@@ -143,6 +143,12 @@
       "file": "autorite-chose-jugee.json",
       "title": "L'autorité de la chose jugée",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "dps-introduction",
+      "file": "dps-introduction.json",
+      "title": "Droit pénal spécial — Introduction générale",
+      "category": "Droit pénal général"
     }
   ]
 }

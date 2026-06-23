@@ -1,0 +1,47 @@
+{
+  "id": "dps-introduction",
+  "title": "Droit pénal spécial — Introduction générale",
+  "category": "Droit pénal général",
+  "flashcards": [],
+  "qcm": [
+    {
+      "id": "dps-qcm-001",
+      "question": "Quelles sont les deux conditions cumulatives posées par la chambre criminelle pour interdire le cumul de qualifications pénales ?",
+      "options": [
+        "Identité des faits matériels et définition légale unique des infractions visées",
+        "Gravité comparable des peines et ancienneté équivalente des deux infractions",
+        "Accord exprès du ministère public et absence de constitution de partie civile",
+        "Unicité de juridiction saisie et identité de la victime pour les deux faits"
+      ],
+      "answer": 0,
+      "explanation": "Crim. 9 juin 2022, n° 21-80.237 : le cumul de qualifications n'est interdit que si les faits matériels sont identiques ET que les infractions partagent une définition légale unique. Si l'une des deux conditions manque, le concours de qualifications redevient possible.",
+      "tags": ["concours de qualifications", "non bis in idem"]
+    },
+    {
+      "id": "dps-qcm-002",
+      "question": "Comment la jurisprudence Crim. 15 déc. 2021 (n° 21-84.864) a-t-elle infléchi la règle du cumul de qualifications ?",
+      "options": [
+        "Elle généralise le cumul de qualifications pour toutes les infractions concurrentes",
+        "Elle interdit le cumul lors de la déclaration de culpabilité, sauf exception précisée",
+        "Elle supprime totalement et définitivement le principe non bis in idem en droit",
+        "Elle renvoie la question du cumul à l'appréciation discrétionnaire du seul parquet"
+      ],
+      "answer": 1,
+      "explanation": "Cet arrêt infléchit la jurisprudence antérieure en interdisant le cumul de qualifications au stade de la déclaration de culpabilité, sauf dans les cas où plus de 28 infractions sont en cause.",
+      "tags": ["déclaration de culpabilité", "revirement jurisprudentiel"]
+    },
+    {
+      "id": "dps-qcm-003",
+      "question": "En quoi consiste le critère de spécialité utilisé pour résoudre un concours de qualifications ?",
+      "options": [
+        "La peine la plus sévère encourue doit par principe être systématiquement retenue",
+        "L'infraction la plus ancienne dans le temps prime toujours l'infraction récente",
+        "L'infraction spéciale prime l'infraction générale lorsqu'elles entrent en concours",
+        "Seule la juridiction de jugement décide librement de la qualification applicable"
+      ],
+      "answer": 2,
+      "explanation": "Le critère de spécialité signifie que l'infraction spéciale écarte l'infraction générale (exemple donné : l'empoisonnement, infraction à dol spécial, prime sur une qualification plus générale). C'est l'une des difficultés pratiques majeures du droit pénal spécial, avec la distinction élément constitutif/circonstance aggravante.",
+      "tags": ["critère de spécialité", "qualification"]
+    }
+  ]
+}
