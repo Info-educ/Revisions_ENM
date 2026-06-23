@@ -1,0 +1,246 @@
+{
+  "id": "mise-danger-personne",
+  "title": "De la mise en danger de la personne",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "mise-danger-fc-001",
+      "front": "Qu'est-ce qu'une infraction formelle ou obstacle, et en quoi les infractions de mise en danger en relèvent-elles ?",
+      "back": "C'est une infraction consommée sans qu'un préjudice soit réalisé : la loi sanctionne un comportement dangereux en amont de toute atteinte effective. Les six sections de la mise en danger (risques causés à autrui, délaissement, entrave aux secours, provocation au suicide, abus frauduleux, trafics dangereux) protègent ainsi l'intégrité physique par anticipation.",
+      "tags": [
+        "infraction formelle",
+        "mise en danger"
+      ]
+    },
+    {
+      "id": "mise-danger-fc-002",
+      "front": "Quels sont les trois éléments matériels exigés par l'article 223-1 (risque causé à autrui) ?",
+      "back": "(1) Violation manifestement délibérée d'une obligation particulière de prudence/sécurité imposée par un texte précis (loi ou règlement au sens des art. 34/37 C., un devoir général ne suffit pas) ; (2) exposition à un risque immédiat de mort ou de blessures graves (risque abstrait suffisant) ; (3) lien de causalité entre la violation et cette exposition.",
+      "tags": [
+        "article 223-1",
+        "risque causé à autrui"
+      ]
+    },
+    {
+      "id": "mise-danger-fc-003",
+      "front": "Quelles sont les conditions du délaissement de l'article 223-3 ?",
+      "back": "Un acte positif d'abandon, en un lieu quelconque, exprimant la volonté de l'auteur de ne pas reprendre en charge la victime, dans des conditions l'exposant réellement à un danger, alors que celle-ci n'est pas en mesure de se protéger en raison de son âge ou de son état physique ou psychique. Une simple privation de soins ne suffit pas (Crim. 2007).",
+      "tags": [
+        "délaissement",
+        "article 223-3"
+      ]
+    },
+    {
+      "id": "mise-danger-fc-004",
+      "front": "Pourquoi la provocation au suicide est-elle une incrimination autonome plutôt qu'une complicité ?",
+      "back": "Le suicide n'étant pas punissable, la complicité de suicide est juridiquement impossible (l'accessoire d'un fait principal non punissable ne peut être réprimé). C'est pourquoi la loi du 31 décembre 1987 (affaire « Suicide, mode d'emploi ») a créé une incrimination autonome, distincte de la complicité.",
+      "tags": [
+        "provocation au suicide",
+        "incrimination autonome"
+      ]
+    },
+    {
+      "id": "mise-danger-fc-005",
+      "front": "Quelle est la peine de base encourue pour la direction ou l'organisation d'un trafic de stupéfiants (art. 222-34) ?",
+      "back": "Réclusion criminelle à perpétuité et 7,5 millions d'euros d'amende. Cette peine ne vise que le dirigeant ou l'organisateur du groupement, à la différence des autres infractions de la même section qui répriment la production, l'importation/exportation ou le transport/détention.",
+      "tags": [
+        "trafic de stupéfiants",
+        "article 222-34"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "mise-danger-qcm-001",
+      "question": "Selon la jurisprudence relative à l'article 223-1, sur quoi porte exactement le caractère « manifestement délibéré » ?",
+      "options": [
+        "Elle porte sur la violation de l'obligation, et non sur le résultat dangereux lui-même",
+        "Elle porte sur le résultat dangereux lui-même, et non sur l'obligation violée par l'auteur",
+        "Elle porte sur l'intention de nuire à une victime précisément identifiée par l'auteur",
+        "Elle porte sur la gravité du préjudice corporel réellement subi ensuite par la victime"
+      ],
+      "answer": 0,
+      "explanation": "Le caractère manifestement délibéré porte sur la violation de l'obligation de prudence, non sur le résultat dangereux qui n'a pas besoin d'être voulu — ce qui distingue cette infraction intentionnelle de l'imprudence consciente.",
+      "tags": [
+        "article 223-1",
+        "élément moral"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-002",
+      "question": "Un devoir général de prudence fondé sur les articles 1240 et 1241 du Code civil peut-il fonder une poursuite sur le fondement de l'article 223-1 ?",
+      "options": [
+        "Non, seule une obligation particulière à valeur réglementaire précise est suffisante",
+        "Oui, dès lors qu'un dommage corporel a été effectivement constaté par la suite",
+        "Oui, si l'auteur avait simplement connaissance du risque qu'il créait pour autrui",
+        "Non, sauf si cette obligation figure dans une convention collective applicable signée"
+      ],
+      "answer": 0,
+      "explanation": "L'article 223-1 exige une obligation particulière de prudence ou de sécurité imposée par un texte précis, de nature réglementaire au sens des art. 34/37 de la Constitution ; un devoir général de prudence (art. 1240/1241 C. civ.) ne suffit pas.",
+      "tags": [
+        "article 223-1",
+        "obligation particulière"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-003",
+      "question": "Quelle différence essentielle distingue le délit de l'article 223-1-1 de celui de l'article 223-1 ?",
+      "options": [
+        "Ce second délit ne suppose ni violation d'obligation ni risque effectif créé pour autrui",
+        "Ce second délit exige un dommage corporel réalisé, à la différence du premier délit",
+        "Ce second délit ne s'applique qu'aux personnes morales, et non aux personnes physiques",
+        "Ce second délit ne réprime que la diffusion réalisée par voie de presse écrite"
+      ],
+      "answer": 0,
+      "explanation": "À la différence de l'article 223-1, le délit de l'article 223-1-1 (loi du 24 août 2021) ne suppose ni violation d'une obligation de sécurité ni risque effectivement créé : seuls comptent les actes de révélation/diffusion poursuivant un but de désignation.",
+      "tags": [
+        "article 223-1-1",
+        "doxxing"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-004",
+      "question": "Dans le cadre de l'article 223-1-1, quelle catégorie de personnes a été ajoutée à la liste des victimes aggravantes par la loi du 21 juillet 2024 ?",
+      "options": [
+        "Le conjoint, l'ascendant ou le descendant, ou la personne vivant au domicile de la victime",
+        "Les journalistes qui exercent une activité spécifique d'investigation judiciaire",
+        "Les élus locaux qui exercent un mandat exécutif depuis moins d'une année entière",
+        "Les fonctionnaires de police affectés à une brigade de proximité territoriale locale"
+      ],
+      "answer": 0,
+      "explanation": "La loi n° 2024-247 du 21 juillet 2024 a étendu la circonstance aggravante de l'alinéa 4 au conjoint, à l'ascendant ou au descendant, ou à la personne vivant au domicile de la victime visée par la divulgation.",
+      "tags": [
+        "article 223-1-1",
+        "circonstance aggravante"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-005",
+      "question": "Pour le délit de l'article 223-1-2 relatif à l'adoption de pratiques dangereuses pour la santé, comment s'apprécie le degré de gravité requis ?",
+      "options": [
+        "Au regard de la nocivité intrinsèque de la pratique, et non de l'état de la victime",
+        "Exclusivement au regard de la pathologie déjà diagnostiquée chez la victime concernée",
+        "En fonction du nombre exact de personnes ayant déjà suivi la pratique litigieuse",
+        "Uniquement si un certificat médical atteste d'une aggravation déjà constatée formellement"
+      ],
+      "answer": 0,
+      "explanation": "Contrairement à l'abandon de traitement (al. 1), où la gravité s'apprécie au regard de la pathologie déjà présente chez la victime, l'adoption de pratiques dangereuses (al. 2) s'apprécie au regard de la nocivité intrinsèque de la pratique elle-même.",
+      "tags": [
+        "article 223-1-2",
+        "dérives sectaires"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-006",
+      "question": "Une alerte publique dénonçant les dangers d'un traitement médical peut-elle constituer la provocation visée par l'article 223-1-2 ?",
+      "options": [
+        "Non, un lien direct entre la victime et l'auteur des faits demeure nécessaire ici",
+        "Oui, dès lors que l'alerte touche un nombre suffisamment significatif de personnes",
+        "Oui, si l'auteur de l'alerte est lui-même reconnu comme professionnel de santé",
+        "Non, sauf si l'alerte vise expressément un traitement médical nommément désigné"
+      ],
+      "answer": 0,
+      "explanation": "Une divulgation ou une alerte publique n'est pas considérée comme une provocation au sens de l'article 223-1-2, car le texte suppose un lien direct entre la victime et l'auteur des pressions ou manœuvres.",
+      "tags": [
+        "article 223-1-2",
+        "provocation"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-007",
+      "question": "Une personne retrouvée saine et sauve, sans avoir été exposée à un danger réel, peut-elle caractériser un délaissement au sens de l'article 223-3 ?",
+      "options": [
+        "Non, l'infraction suppose une exposition réelle à un danger effectivement constaté",
+        "Oui, le seul acte d'abandon matériel suffit, indépendamment du danger réellement couru",
+        "Oui, dès lors que l'auteur avait l'intention manifeste de nuire à la victime concernée",
+        "Non, sauf si la victime se trouve être mineure de quinze ans au moment des faits"
+      ],
+      "answer": 0,
+      "explanation": "Selon la doctrine de Garraud reprise par la jurisprudence, délaisser c'est abandonner sans s'être assuré que la personne sera recueillie ; il n'y a pas de délit si la victime est retrouvée saine et sauve sans avoir été exposée à un danger réel.",
+      "tags": [
+        "délaissement",
+        "article 223-3"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-008",
+      "question": "Quelle est la peine criminelle aggravée prévue par l'article 223-4 en cas de délaissement ayant entraîné la mort de la victime ?",
+      "options": [
+        "Vingt ans de réclusion criminelle",
+        "Quinze ans de réclusion criminelle",
+        "Trente ans de réclusion criminelle",
+        "La réclusion criminelle à perpétuité"
+      ],
+      "answer": 0,
+      "explanation": "L'article 223-4 prévoit une aggravation criminelle du délaissement : quinze ans de réclusion en cas de mutilation ou d'infirmité permanente, et vingt ans de réclusion si le délaissement a entraîné la mort de la victime.",
+      "tags": [
+        "délaissement",
+        "article 223-4"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-009",
+      "question": "Sur une lecture stricte de l'article 223-5, l'entrave aux mesures d'assistance peut-elle résulter d'une simple abstention de porter secours ?",
+      "options": [
+        "Non, le texte suppose un acte positif empêchant effectivement l'arrivée des secours",
+        "Oui, l'abstention volontaire de porter secours suffit dès lors qu'elle est consciente",
+        "Oui, mais seulement si l'auteur était l'unique témoin présent sur les lieux des faits",
+        "Non, sauf si cette abstention se prolonge pendant plus de quinze minutes consécutives"
+      ],
+      "answer": 0,
+      "explanation": "Sur une lecture stricte du texte (« entraver l'arrivée »), l'article 223-5 suppose un acte positif empêchant ou retardant effectivement l'arrivée des secours ; une simple abstention relève en principe d'une autre incrimination distincte.",
+      "tags": [
+        "article 223-5",
+        "entrave aux secours"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-010",
+      "question": "À défaut d'intention de tuer une personne précise, la provocation au suicide d'autrui (art. 223-13) peut-elle entrer en concours avec le meurtre ?",
+      "options": [
+        "Non, à défaut d'animus necandi, il ne peut y avoir de concours avec le meurtre",
+        "Oui, le concours est systématique dès lors que le suicide est effectivement consommé",
+        "Oui, mais uniquement si la victime était une personne vulnérable déjà connue",
+        "Non, sauf si l'auteur a personnellement fourni les moyens matériels du suicide"
+      ],
+      "answer": 0,
+      "explanation": "L'élément moral de la provocation au suicide est une volonté abstraite, non dirigée nécessairement contre une personne précise ; à défaut d'animus necandi (intention homicide), il ne peut y avoir de concours avec le meurtre.",
+      "tags": [
+        "provocation au suicide",
+        "article 223-13"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-011",
+      "question": "Quel texte fixe la liste des substances qualifiées de stupéfiants pour l'application des articles 222-34 à 222-43-1 ?",
+      "options": [
+        "Un arrêté ministériel pris sur avis de l'Agence nationale du médicament concernée",
+        "Une loi organique adoptée selon une procédure parlementaire particulière et spécifique",
+        "Un décret en Conseil d'État pris après avis préalable du Conseil constitutionnel",
+        "Une convention internationale ratifiée et publiée régulièrement au Journal officiel"
+      ],
+      "answer": 0,
+      "explanation": "La notion de stupéfiants renvoie à une liste fixée par arrêté ministériel (art. L. 5132-7 CSP), régulièrement modifié sur avis de l'Agence nationale de sécurité du médicament ; ce renvoi réglementaire a été jugé conforme au principe de légalité (Cons. const. 11 févr. 2022).",
+      "tags": [
+        "trafic de stupéfiants",
+        "principe de légalité"
+      ]
+    },
+    {
+      "id": "mise-danger-qcm-012",
+      "question": "Que prévoit le système des « repentis » des articles 222-43 et 222-43-1 en matière de trafic de stupéfiants ?",
+      "options": [
+        "Une exemption ou une réduction de peine pour l'auteur facilitant la cessation du trafic",
+        "Une immunité totale et automatique accordée à tout auteur dénonçant un tiers",
+        "Une suspension de peine subordonnée à l'accord unanime de tous les co-auteurs",
+        "Une amnistie de droit applicable après dix années sans nouvelle infraction commise"
+      ],
+      "answer": 0,
+      "explanation": "Le système des repentis permet une exemption ou une réduction de peine, jusqu'aux deux tiers, pour l'auteur ayant permis d'éviter ou de faire cesser l'infraction ou d'identifier les autres coupables ; la perpétuité est alors ramenée à vingt ans de réclusion.",
+      "tags": [
+        "trafic de stupéfiants",
+        "repenti"
+      ]
+    }
+  ]
+}

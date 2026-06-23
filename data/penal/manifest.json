@@ -167,6 +167,12 @@
       "file": "dps-atteintes-involontaires.json",
       "title": "Les atteintes involontaires à la vie ou à l'intégrité physique de la personne",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "mise-danger-personne",
+      "file": "mise-danger-personne.json",
+      "title": "De la mise en danger de la personne",
+      "category": "Droit pénal général"
     }
   ]
 }
