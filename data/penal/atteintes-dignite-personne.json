@@ -1,0 +1,273 @@
+{
+  "id": "atteintes-dignite-personne",
+  "title": "Les atteintes à la dignité de la personne",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "atteintes-dignite-fc-001",
+      "front": "Quel régime probatoire particulier institue l'article 225-3-1 en matière de discrimination, et comment a-t-il été validé ?",
+      "back": "L'article 225-3-1 permet au juge de tenir compte de comportements constatés à titre de testing pour établir la discrimination. La chambre criminelle a refusé de transmettre une QPC sur ce point, estimant que la constatation d'un comportement discriminatoire par testing ne porte pas atteinte aux droits de la défense (Crim. 4 février 2015).",
+      "tags": [
+        "discrimination",
+        "testing"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-fc-002",
+      "front": "Quelles sont les conditions cumulatives de l'infraction d'obtention de services non rétribués par abus de vulnérabilité (art. 225-13) ?",
+      "back": "La victime doit être en situation de vulnérabilité ou de dépendance apparente ou connue de l'auteur, et l'acte doit consister en des services non rétribués ou en échange d'une rétribution manifestement sans rapport avec le travail accompli. Le travail bénévole librement consenti est exclu de cette qualification.",
+      "tags": [
+        "abus de vulnérabilité",
+        "article 225-13"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-fc-003",
+      "front": "Comment la loi du 5 août 2013 a-t-elle modifié l'élément moral de l'article 225-14 relatif aux conditions de travail contraires à la dignité ?",
+      "back": "Elle a supprimé la référence à l'abus de la vulnérabilité ou de la dépendance. Désormais, il suffit que l'auteur ait eu conscience de la situation de vulnérabilité de la victime, sans qu'il soit nécessaire de prouver qu'il en a abusé (Crim. 11 juillet 2022).",
+      "tags": [
+        "article 225-14",
+        "loi du 5 août 2013"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-fc-004",
+      "front": "Quelle est la différence entre le travail forcé (art. 225-14-1) et la réduction en servitude (art. 225-14-2) ?",
+      "back": "Le travail forcé consiste à contraindre une personne à effectuer un travail sans rétribution ou avec une rétribution manifestement disproportionnée. La réduction en servitude suppose, en plus, que cette soumission au travail forcé soit habituelle, ce qui en fait une infraction plus intense et répétée selon la CEDH (Siliadin c/ France).",
+      "tags": [
+        "travail forcé",
+        "réduction en servitude"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-fc-005",
+      "front": "L'intention de nuire est-elle requise pour caractériser l'élément moral du harcèlement moral (art. 222-33-2) ?",
+      "back": "Non, la preuve d'un dol spécial, c'est-à-dire d'une intention de nuire, n'est pas exigée. L'élément moral est intentionnel : il suffit que l'auteur ait agi en connaissance de cause des conséquences dégradantes de ses propos ou comportements répétés (Crim. 13 décembre 2016 ; Crim. 25 juin 2024).",
+      "tags": [
+        "harcèlement moral",
+        "article 222-33-2"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-fc-006",
+      "front": "Quelle précision la Cour de cassation a-t-elle apportée sur le rôle de la rémunération dans la traite des êtres humains (art. 225-4-1) ?",
+      "back": "La Cour de cassation a précisé que la rémunération ou l'avantage constitue le moyen par lequel l'auteur réalise la traite, et non le but poursuivi par celle-ci (Crim. 26 novembre 2024). Le but d'exploitation visé par le texte reste distinct du moyen utilisé pour parvenir à la traite.",
+      "tags": [
+        "traite des êtres humains",
+        "article 225-4-1"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-fc-007",
+      "front": "Pourquoi la simple dissimulation du visage ne constitue-t-elle pas, à elle seule, l'infraction de dissimulation forcée (art. 225-4-10) ?",
+      "back": "Parce que cette dissimulation doit d'abord avoir été imposée par une autre infraction (menace, violence, contrainte, abus d'autorité ou de pouvoir) en raison du sexe de la victime. La qualification résulte donc de la survenance de cette première infraction ; la dissimulation seule, même totale, ne suffit pas.",
+      "tags": [
+        "dissimulation forcée",
+        "article 225-4-10"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-fc-008",
+      "front": "Le consentement de la victime fait-il obstacle à la qualification de bizutage (art. 225-16-1) ?",
+      "back": "Non, le gré de la victime est indifférent à la qualification : même les actes humiliants ou dégradants accomplis avec le consentement de la victime peuvent être constitutifs du délit, dès lors qu'ils sont objectivement appréciés comme tels et commis dans le cadre exigé par le texte.",
+      "tags": [
+        "bizutage",
+        "article 225-16-1"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "atteintes-dignite-qcm-001",
+      "question": "La liste des critères discriminatoires de l'article 225-1 est-elle interprétée de manière extensive par le juge pénal ?",
+      "options": [
+        "Non, cette liste limitative reçoit une interprétation stricte par le juge pénal",
+        "Oui, le juge peut librement ajouter tout critère qu'il estime pertinent ici",
+        "Oui, mais seulement lorsque la victime appartient à une minorité reconnue comme telle",
+        "Non, sauf lorsque plusieurs critères discriminatoires se cumulent entre eux"
+      ],
+      "answer": 0,
+      "explanation": "La liste des critères discriminatoires posée par l'article 225-1 est une liste limitative, d'interprétation stricte par le juge pénal, conformément au principe de légalité criminelle qui gouverne l'ensemble de la matière.",
+      "tags": [
+        "discrimination",
+        "article 225-1"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-002",
+      "question": "L'utilisation de propos sexistes pour satisfaire la clientèle peut-elle exonérer l'auteur de l'élément moral de la discrimination ?",
+      "options": [
+        "Non, les mobiles sont indifférents et n'excluent pas l'élément moral requis",
+        "Oui, ce motif commercial légitime exclut l'intention discriminatoire poursuivie",
+        "Oui, mais uniquement si l'auteur ignorait le caractère sexiste de ses propos tenus",
+        "Non, sauf si l'auteur a immédiatement présenté des excuses à la victime concernée"
+      ],
+      "answer": 0,
+      "explanation": "Les mobiles de l'auteur sont indifférents à la caractérisation de l'élément moral de la discrimination ; ainsi, l'utilisation de propos sexistes par souci de satisfaire la clientèle ne suffit pas à exclure l'intention discriminatoire requise.",
+      "tags": [
+        "discrimination",
+        "élément moral"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-003",
+      "question": "Pour les mineurs et les personnes récemment arrivées sur le territoire, la condition de vulnérabilité de l'article 225-13 doit-elle être prouvée par le ministère public ?",
+      "options": [
+        "Non, cette condition est présumée de manière irréfragable pour ces personnes",
+        "Oui, la preuve de la vulnérabilité incombe toujours au ministère public concerné",
+        "Oui, mais uniquement lorsque la victime a moins de quinze ans révolus au total",
+        "Non, sauf si l'auteur conteste expressément cette vulnérabilité devant le juge"
+      ],
+      "answer": 0,
+      "explanation": "L'article 225-15-1 institue une présomption irréfragable de vulnérabilité ou de dépendance pour les mineurs et les personnes récemment arrivées sur le territoire, dispensant ainsi le ministère public d'en rapporter la preuve.",
+      "tags": [
+        "abus de vulnérabilité",
+        "article 225-15-1"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-004",
+      "question": "L'erreur de droit peut-elle être invoquée par l'auteur du délit d'obtention de services non rétribués (art. 225-13) ?",
+      "options": [
+        "Non, l'auteur a l'obligation de se renseigner sur la législation du travail",
+        "Oui, dès lors que l'auteur ignorait sincèrement les règles applicables en la matière",
+        "Oui, mais seulement si l'auteur exerce une activité économique de taille limitée",
+        "Non, sauf si l'auteur a consulté un conseiller juridique préalablement aux faits"
+      ],
+      "answer": 0,
+      "explanation": "L'erreur de droit ne peut être invoquée pour ce délit, l'auteur étant tenu d'une obligation de se renseigner sur la législation du travail applicable, ce qui exclut toute exonération fondée sur l'ignorance de cette législation.",
+      "tags": [
+        "abus de vulnérabilité",
+        "erreur de droit"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-005",
+      "question": "Un bref laps de temps entre deux comportements peut-il suffire à caractériser la répétition exigée par le harcèlement moral ?",
+      "options": [
+        "Oui, si les comportements en cause sont suffisamment caractérisés entre eux",
+        "Non, un délai minimal de plusieurs mois est toujours requis entre les actes",
+        "Oui, mais uniquement lorsque les actes sont commis par plusieurs personnes ensemble",
+        "Non, la répétition suppose nécessairement un délai supérieur à une année entière"
+      ],
+      "answer": 0,
+      "explanation": "Selon la jurisprudence (Crim. 11 décembre 2024), un bref laps de temps peut suffire à établir la répétition exigée par le harcèlement moral, dès lors que les comportements sont suffisamment caractérisés, à l'inverse d'actes trop espacés dans le temps.",
+      "tags": [
+        "harcèlement moral",
+        "répétition"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-006",
+      "question": "Lorsqu'un mineur est victime de traite des êtres humains, les circonstances comme la menace ou la vulnérabilité sont-elles exigées pour la qualification ?",
+      "options": [
+        "Non, ces circonstances ne sont pas requises lorsque la victime est elle-même mineure",
+        "Oui, ces circonstances demeurent indispensables quel que soit l'âge de la victime",
+        "Oui, mais seulement lorsque le mineur est âgé de plus de quinze ans révolus",
+        "Non, sauf lorsque l'auteur des faits est un ascendant légitime de la victime"
+      ],
+      "answer": 0,
+      "explanation": "L'article 225-4-2 dispense de la preuve des circonstances habituellement requises (menace, contrainte, vulnérabilité) lorsque la victime de la traite des êtres humains est mineure, ces conditions n'étant alors pas exigées pour la qualification.",
+      "tags": [
+        "traite des êtres humains",
+        "article 225-4-2"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-007",
+      "question": "La traite des êtres humains peut-elle entrer en concours avec la qualification de réduction en esclavage ou de travail forcé ?",
+      "options": [
+        "Oui, la traite peut ipso facto caractériser ces autres infractions distinctes",
+        "Non, ces qualifications s'excluent nécessairement l'une l'autre par principe",
+        "Oui, mais uniquement lorsque l'auteur a été préalablement condamné une fois",
+        "Non, seule la qualification la plus ancienne dans le temps doit être retenue"
+      ],
+      "answer": 0,
+      "explanation": "La loi du 5 août 2013 admet que la traite des êtres humains puisse ipso facto caractériser la réduction en esclavage, l'exploitation d'une personne réduite en esclavage, le travail forcé ou l'exploitation de la mendicité, ces qualifications pouvant ainsi se cumuler.",
+      "tags": [
+        "traite des êtres humains",
+        "concours d'infractions"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-008",
+      "question": "Le motif discriminatoire fondé sur le sexe se présume-t-il du seul fait d'avoir imposé une dissimulation du visage à la victime ?",
+      "options": [
+        "Non, ce motif discriminatoire ne se présume pas du seul fait de la dissimulation",
+        "Oui, la dissimulation imposée suffit à elle seule à établir ce motif précis",
+        "Oui, mais uniquement lorsque la victime est elle-même mineure de quinze ans",
+        "Non, sauf si l'auteur appartient à une organisation religieuse officiellement reconnue"
+      ],
+      "answer": 0,
+      "explanation": "La jurisprudence précise que le motif discriminatoire fondé sur le sexe de la victime ne se présume pas du seul fait d'avoir imposé la dissimulation du visage, ce qui pose des difficultés probatoires majeures pour établir cette infraction.",
+      "tags": [
+        "dissimulation forcée",
+        "preuve"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-009",
+      "question": "Comment les actes humiliants ou dégradants du bizutage sont-ils appréciés par le juge pénal ?",
+      "options": [
+        "De façon objective, selon ce qu'un individu moyen percevrait comme tel en l'espèce",
+        "De façon subjective, selon le ressenti effectif rapporté par la victime concernée",
+        "De façon objective, mais uniquement lorsque l'auteur a déjà été averti des faits",
+        "De façon subjective, mais uniquement si la victime souffre d'une fragilité connue"
+      ],
+      "answer": 0,
+      "explanation": "Les actes humiliants ou dégradants constitutifs du bizutage sont appréciés objectivement, selon ce que percevrait comme tel un individu moyen, sans tenir compte d'une éventuelle déficience psychique particulière de la victime.",
+      "tags": [
+        "bizutage",
+        "appréciation objective"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-010",
+      "question": "Le simple déplacement d'un corps sans atteinte à son intégrité physique constitue-t-il une atteinte au respect dû aux morts (art. 225-17) ?",
+      "options": [
+        "Non, ce délit suppose une véritable atteinte à l'intégrité physique du cadavre",
+        "Oui, tout déplacement non autorisé d'un corps suffit à caractériser ce délit",
+        "Oui, mais uniquement lorsque le déplacement intervient sans autorisation familiale",
+        "Non, sauf si le déplacement a eu lieu dans un lieu de sépulture spécialement protégé"
+      ],
+      "answer": 0,
+      "explanation": "Selon la jurisprudence (Crim. 3 avril 2002), l'interprétation de l'article 225-17 est stricte : seules les atteintes portant véritablement sur l'intégrité physique du cadavre sont retenues, le simple déplacement d'un corps n'étant pas constitutif du délit en l'absence d'atteinte.",
+      "tags": [
+        "atteinte au respect dû aux morts",
+        "article 225-17"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-011",
+      "question": "Pour le délit de soumission à un test de virginité (art. 225-4-11), la personne qui pratique l'examen encourt-elle la même peine que celui qui a exercé la pression ?",
+      "options": [
+        "Oui, les mêmes peines s'appliquent à celui qui pratique effectivement l'examen",
+        "Non, seule la personne ayant exercé la pression initiale est pénalement responsable",
+        "Oui, mais uniquement lorsque la personne examinée est elle-même mineure d'âge",
+        "Non, le praticien de l'examen bénéficie d'une immunité professionnelle spécifique"
+      ],
+      "answer": 0,
+      "explanation": "Le texte de l'article 225-4-11 prévoit que les mêmes peines s'appliquent à la personne ayant exercé pressions ou contraintes et à celle qui pratique effectivement l'examen visant à attester la virginité de la victime.",
+      "tags": [
+        "test de virginité",
+        "article 225-4-11"
+      ]
+    },
+    {
+      "id": "atteintes-dignite-qcm-012",
+      "question": "Le délit de thérapies de conversion (art. 225-4-13) exige-t-il que la victime ait effectivement subi un préjudice physique constaté ?",
+      "options": [
+        "Non, le seul fait de pratiquer ces thérapies ou propos suffit à l'incrimination",
+        "Oui, un préjudice physique avéré et constaté médicalement doit être rapporté",
+        "Oui, mais uniquement lorsque la victime est un mineur de quinze ans révolus",
+        "Non, sauf si l'auteur a perçu une rémunération pour pratiquer ces thérapies données"
+      ],
+      "answer": 0,
+      "explanation": "L'article 225-4-13 incrimine le seul fait de pratiquer des thérapies, comportements ou propos visant à modifier ou réprimer l'orientation sexuelle ou l'identité de genre d'une personne, sans exiger la preuve d'un préjudice physique constaté.",
+      "tags": [
+        "thérapies de conversion",
+        "article 225-4-13"
+      ]
+    }
+  ]
+}

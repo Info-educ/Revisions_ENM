@@ -1,0 +1,273 @@
+{
+  "id": "atteintes-liberte-personne",
+  "title": "Les atteintes à la liberté de la personne",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "atteintes-liberte-fc-001",
+      "front": "Quelle est la définition de la réduction en esclavage (art. 224-1 A) et de quelle convention internationale est-elle issue ?",
+      "back": "C'est le fait d'exercer à l'encontre d'une personne l'un des attributs du droit de propriété. Cette notion est issue de la Convention de Genève du 25 septembre 1926 et constitue un crime puni de 20 ans de réclusion criminelle, porté à 30 ans en présence de circonstances aggravantes (minorité, vulnérabilité).",
+      "tags": [
+        "réduction en esclavage",
+        "article 224-1 a"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-fc-002",
+      "front": "Quelles sont les quatre caractéristiques essentielles de la disparition forcée (art. 221-12) ?",
+      "back": "(1) Crime intentionnel à dimension étatique obligatoire ; (2) prescription de 30 ans courant à partir de la libération de la victime, l'infraction étant continue ; (3) compétence universelle des juridictions françaises même pour des faits commis à l'étranger ; (4) extension de la complicité aux supérieurs hiérarchiques, y compris par abstention.",
+      "tags": [
+        "disparition forcée",
+        "article 221-12"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-fc-003",
+      "front": "Quelle est la différence entre l'arrestation illégale, la séquestration illégale et l'enlèvement ?",
+      "back": "L'arrestation illégale est une infraction instantanée : un seul acte d'appréhension suffit, même bref. La séquestration illégale est une infraction continue consistant à retenir une personne contre son gré dans le temps. L'enlèvement résulte du cumul des deux actes précédents commis par un même individu.",
+      "tags": [
+        "séquestration",
+        "article 224-1"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-fc-004",
+      "front": "Quel est l'effet d'une libération volontaire de la victime avant le septième jour en matière de séquestration illégale par un particulier ?",
+      "back": "La peine de 20 ans de réclusion criminelle est réduite à 5 ans et 75 000 euros d'amende si l'auteur libère volontairement la victime avant le septième jour. Cette circonstance atténuante est toutefois appréciée restrictivement par la jurisprudence (Crim. 11 août 2021).",
+      "tags": [
+        "séquestration",
+        "libération volontaire"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-fc-005",
+      "front": "Que sanctionne l'article L. 2223-2 du Code de la santé publique relatif à l'entrave à l'IVG, et quelle limite a posée le Conseil constitutionnel ?",
+      "back": "L'article L. 2223-2 sanctionne le fait d'empêcher la pratique d'une IVG ou de diffuser de fausses informations, y compris en ligne. Le Conseil constitutionnel (16 mars 2017) a précisé que la simple diffusion d'informations objectives sur un site internet ne constitue pas une entrave.",
+      "tags": [
+        "entrave à l'ivg",
+        "article l. 2223-2"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-fc-006",
+      "front": "Quels sont les deux éléments matériels cumulatifs exigés par l'article 222-18 pour les menaces avec ordre de remplir une condition ?",
+      "back": "Il faut deux éléments distincts cumulatifs : une menace de commettre un crime ou un délit contre les personnes, et un ordre de remplir une condition lié à cette menace. Le support de la menace est indifférent (écrit, dessin, paroles, gestes) et les mobiles de l'auteur sont également indifférents.",
+      "tags": [
+        "menaces",
+        "article 222-18"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-fc-007",
+      "front": "Quelle différence essentielle distingue les menaces simples de l'article 222-17 des menaces avec ordre de l'article 222-18 ?",
+      "back": "Les menaces simples se distinguent par l'absence d'ordre de remplir une condition : elles visent seulement la menace d'un crime ou délit contre les personnes. L'article 222-17 exige en outre une menace réitérée ou matérialisée, condition qui n'est pas requise pour la contravention de l'article R. 623-1.",
+      "tags": [
+        "menaces simples",
+        "article 222-17"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-fc-008",
+      "front": "Quels sont les quatre éléments constitutifs des agressions sonores ou appels malveillants de l'article 222-16 ?",
+      "back": "(1) Un acte accompli (appel téléphonique ou message électronique) ; (2) un caractère malveillant ; (3) une réitération, conçue souplement par la jurisprudence et ne supposant pas nécessairement deux actes distincts ; (4) une intention spécifique de troubler la tranquillité d'autrui, exigée depuis la loi du 18 mars 2003.",
+      "tags": [
+        "agressions sonores",
+        "article 222-16"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "atteintes-liberte-qcm-001",
+      "question": "Quelle différence ténue distingue le travail forcé de la réduction en servitude selon la jurisprudence de la CEDH (Siliadin c/ France) ?",
+      "options": [
+        "La servitude suppose un travail imposé de manière habituelle à une personne vulnérable",
+        "Le travail forcé suppose nécessairement une rétribution manifestement insuffisante",
+        "La servitude ne peut être caractérisée qu'à l'encontre d'une victime mineure",
+        "Le travail forcé exige une contrainte physique alors que la servitude n'en exige aucune"
+      ],
+      "answer": 0,
+      "explanation": "Selon la CEDH (Siliadin c/ France, 26 juillet 2005), la différence entre travail forcé et servitude est ténue : la servitude suppose un travail imposé de manière habituelle aux personnes vulnérables, à la différence du travail forcé ponctuel.",
+      "tags": [
+        "réduction en servitude",
+        "siliadin"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-002",
+      "question": "Une disparition forcée commise par un agent de l'État à l'étranger peut-elle être jugée par les juridictions françaises ?",
+      "options": [
+        "Oui, en vertu de la compétence universelle reconnue aux juridictions françaises",
+        "Non, les juridictions françaises ne sont jamais compétentes pour des faits étrangers",
+        "Oui, mais seulement si la victime possède elle-même la nationalité française",
+        "Non, sauf accord préalable de coopération judiciaire avec l'État étranger concerné"
+      ],
+      "answer": 0,
+      "explanation": "L'article 689-13 du Code pénal institue une compétence universelle pour la disparition forcée, rendant les juridictions françaises compétentes même lorsque le crime a été commis à l'étranger, sans condition de nationalité de la victime.",
+      "tags": [
+        "disparition forcée",
+        "compétence universelle"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-003",
+      "question": "Quelle est la nature de l'absence de commandement de l'autorité légitime dans le délit d'arrestation ou de séquestration illégale ?",
+      "options": [
+        "Un élément constitutif de l'infraction, dont la preuve incombe au juge pénal",
+        "Un fait justificatif que l'auteur doit lui-même invoquer et prouver ensuite",
+        "Une circonstance aggravante portant la peine encourue jusqu'à trente années",
+        "Une condition de recevabilité de l'action publique devant la juridiction saisie"
+      ],
+      "answer": 0,
+      "explanation": "L'absence de commandement de l'autorité légitime constitue un élément constitutif de l'infraction d'arrestation ou de séquestration illégale, dont l'établissement est rapporté par le juge, et non un simple fait justificatif à charge de l'auteur.",
+      "tags": [
+        "séquestration",
+        "fait justificatif"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-004",
+      "question": "Un agent public qui s'abstient de mettre fin à une privation de liberté illégale dont il a connaissance encourt-il une sanction spécifique ?",
+      "options": [
+        "Oui, un texte spécifique sanctionne expressément cette omission de l'agent public",
+        "Non, seule la commission active d'une privation de liberté est punissable ici",
+        "Oui, mais uniquement si la victime concernée est mineure de quinze ans révolus",
+        "Non, l'agent public bénéficie d'une immunité fonctionnelle absolue en la matière"
+      ],
+      "answer": 0,
+      "explanation": "L'article 432-5 sanctionne l'agent public qui s'abstient de mettre fin à une privation de liberté illégale dont il a connaissance, distinctement de l'article 432-4 qui vise l'atteinte à la liberté commise activement par l'agent.",
+      "tags": [
+        "agent public",
+        "article 432-5"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-005",
+      "question": "Une femme peut-elle être pénalement poursuivie pour avoir pratiqué une interruption de grossesse sur elle-même ?",
+      "options": [
+        "Non, la loi exclut expressément l'incrimination de la femme dans ce cas précis",
+        "Oui, dès lors que l'IVG a été pratiquée après la quatorzième semaine de grossesse",
+        "Oui, mais seulement si elle a sollicité l'aide d'un tiers pour cette pratique",
+        "Non, sauf si elle a fourni des moyens à une autre femme pour cet acte précis"
+      ],
+      "answer": 0,
+      "explanation": "Le texte exclut expressément qu'une femme puisse être incriminée pour avoir pratiqué une interruption de grossesse sur elle-même, seule la fourniture de moyens à une autre personne pour ce faire restant punissable.",
+      "tags": [
+        "ivg",
+        "article l. 2222-4"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-006",
+      "question": "La recherche biomédicale conduite sans le consentement de la personne qui s'y soumet est-elle pénalement sanctionnée ?",
+      "options": [
+        "Oui, elle est punie de trois ans d'emprisonnement et de 45 000 euros d'amende",
+        "Non, seule une sanction disciplinaire ordinale est prévue pour ce manquement",
+        "Oui, mais uniquement lorsque la recherche porte sur des données génétiques humaines",
+        "Non, le consentement n'est exigé que pour les recherches menées sur un mineur"
+      ],
+      "answer": 0,
+      "explanation": "L'article 223-8 du Code pénal, combiné aux articles L. 1126-1 et L. 1126-2 du Code de la santé publique, sanctionne de trois ans d'emprisonnement et 45 000 euros d'amende la recherche biomédicale conduite sans consentement de la personne.",
+      "tags": [
+        "expérimentation humaine",
+        "article 223-8"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-007",
+      "question": "Pour caractériser la menace de l'article 222-18, suffit-il que l'auteur ait formulé un acte de violence imprécis sans condition associée ?",
+      "options": [
+        "Non, la menace doit être précise et liée à un ordre de remplir une condition",
+        "Oui, toute formulation menaçante suffit indépendamment de toute condition posée",
+        "Oui, mais seulement si la menace a ensuite été effectivement mise à exécution",
+        "Non, sauf si l'auteur a antérieurement déjà menacé cette même victime précise"
+      ],
+      "answer": 0,
+      "explanation": "L'article 222-18 exige une menace relativement précise, susceptible d'être qualifiée de crime ou délit, à laquelle l'auteur lie expressément un ordre de remplir une condition ; une menace imprécise et sans condition associée ne suffit pas.",
+      "tags": [
+        "menaces",
+        "article 222-18"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-008",
+      "question": "L'identification précise du destinataire est-elle requise pour caractériser le délit de menaces simples de l'article 222-17 ?",
+      "options": [
+        "Oui, cette identification est requise pour la qualification pénale du délit",
+        "Non, une menace adressée à un destinataire totalement indéterminé suffit ici",
+        "Oui, mais seulement lorsque la menace a été matérialisée par un écrit précis",
+        "Non, sauf si la menace porte sur la commission d'un crime spécifiquement visé"
+      ],
+      "answer": 0,
+      "explanation": "Selon la jurisprudence (Crim. 8 février 2023), l'identification du destinataire de la menace est requise pour la qualification pénale du délit prévu par l'article 222-17.",
+      "tags": [
+        "menaces simples",
+        "article 222-17"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-009",
+      "question": "Les messages électroniques envoyés par SMS sont-ils couverts par l'incrimination des agressions sonores de l'article 222-16 ?",
+      "options": [
+        "Oui depuis 2014, bien que cette extension demeure juridiquement très contestée",
+        "Non, un SMS ne constitue jamais un véritable signal sonore au sens du texte",
+        "Oui, mais uniquement lorsque le SMS contient une menace de mort très explicite",
+        "Non, seuls les appels téléphoniques répétés relèvent de ce texte d'incrimination"
+      ],
+      "answer": 0,
+      "explanation": "La loi du 4 août 2014 a étendu l'incrimination aux SMS, bien que cette extension soit juridiquement contestée puisqu'un SMS n'est pas, à proprement parler, un signal sonore au sens initial du texte.",
+      "tags": [
+        "agressions sonores",
+        "loi du 4 août 2014"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-010",
+      "question": "La réitération exigée pour caractériser les agressions sonores de l'article 222-16 suppose-t-elle nécessairement deux actes matériellement distincts ?",
+      "options": [
+        "Non, la jurisprudence en a une conception souple qui ne l'exige pas nécessairement",
+        "Oui, deux actes matériellement et temporellement distincts sont toujours requis",
+        "Oui, mais seulement lorsque les actes sont commis par des personnes différentes",
+        "Non, un seul acte suffit dès lors qu'il a été particulièrement long et insistant"
+      ],
+      "answer": 0,
+      "explanation": "Selon la jurisprudence récente (Crim. 4 mars 2024 ; Crim. 3 octobre 2023), la réitération exigée par l'article 222-16 ne suppose pas nécessairement deux actes matériellement distincts, la chambre criminelle en ayant une conception souple.",
+      "tags": [
+        "agressions sonores",
+        "réitération"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-011",
+      "question": "Le bruit ou tapage nocturne commis sans intention spécifique de troubler la tranquillité d'autrui peut-il relever de l'article 222-16 ?",
+      "options": [
+        "Non, il relève alors plutôt d'une contravention de tapage nocturne ordinaire",
+        "Oui, dès lors que le bruit a effectivement troublé le voisinage de la victime",
+        "Oui, mais seulement si le bruit s'est répété sur plusieurs nuits consécutives",
+        "Non, sauf si l'auteur a déjà été condamné pour des faits similaires antérieurs"
+      ],
+      "answer": 0,
+      "explanation": "L'article 222-16 exige un dol spécial, l'intention de troubler spécifiquement la tranquillité d'autrui ; à défaut de cette intention, les bruits ou tapages nocturnes relèvent plutôt de la contravention de l'article R. 623-2.",
+      "tags": [
+        "agressions sonores",
+        "dol spécial"
+      ]
+    },
+    {
+      "id": "atteintes-liberte-qcm-012",
+      "question": "Les menaces de mort proférées contre un concubin bénéficient-elles d'une aggravation spécifique depuis la loi du 9 juillet 2010 ?",
+      "options": [
+        "Oui, la peine encourue est alors portée à sept ans et 100 000 euros d'amende",
+        "Non, le lien de concubinage est indifférent à la détermination de la peine encourue",
+        "Oui, mais uniquement lorsque le concubinage a duré plus de cinq années entières",
+        "Non, seul le lien matrimonial emporte une telle aggravation de la peine encourue"
+      ],
+      "answer": 0,
+      "explanation": "La loi du 9 juillet 2010 a porté la peine de la menace de mort à sept ans d'emprisonnement et 100 000 euros d'amende lorsque les faits sont commis sur le conjoint, le concubin ou le partenaire de PACS de l'auteur.",
+      "tags": [
+        "menaces",
+        "loi du 9 juillet 2010"
+      ]
+    }
+  ]
+}

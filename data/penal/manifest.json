@@ -185,6 +185,18 @@
       "file": "indifference-sort-autrui.json",
       "title": "L'indifférence au sort d'autrui",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "atteintes-liberte-personne",
+      "file": "atteintes-liberte-personne.json",
+      "title": "Les atteintes à la liberté de la personne",
+      "category": "Droit pénal général"
+    },
+    {
+      "id": "atteintes-dignite-personne",
+      "file": "atteintes-dignite-personne.json",
+      "title": "Les atteintes à la dignité de la personne",
+      "category": "Droit pénal général"
     }
   ]
 }
