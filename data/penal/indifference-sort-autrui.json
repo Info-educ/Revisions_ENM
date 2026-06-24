@@ -1,0 +1,75 @@
+{
+  "id": "indifference-sort-autrui",
+  "title": "L'indifférence au sort d'autrui",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "indifference-fc-001",
+      "front": "Pourquoi les trois infractions d'indifférence au sort d'autrui constituent-elles une exception au principe de non-punissabilité de l'abstention pure ?",
+      "back": "Le principe est qu'une abstention pure et simple n'est pas punissable, faute d'extériorisation matérielle d'un comportement. Par exception, la loi incrimine l'indifférence coupable dans trois cas précis : la non-assistance à personne en danger, le non-obstacle à une infraction, et l'omission de combattre un sinistre dangereux.",
+      "tags": [
+        "abstention",
+        "indifférence"
+      ]
+    },
+    {
+      "id": "indifference-fc-002",
+      "front": "Quel élément moral commun caractérise les trois infractions d'indifférence au sort d'autrui, et quelle en est la limite ?",
+      "back": "Les trois infractions exigent une abstention volontaire et en connaissance de cause du péril, de l'infraction projetée ou du sinistre. La simple maladresse, l'erreur ou l'incompétence ne suffisent pas à caractériser cet élément moral, sauf si elles traduisent une attitude manifestement insuffisante au regard de la gravité du péril connu.",
+      "tags": [
+        "élément moral",
+        "indifférence"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "indifference-qcm-001",
+      "question": "Pour la non-assistance à personne en danger, à quel moment l'absence de risque pour l'intervenant doit-elle être appréciée ?",
+      "options": [
+        "Au moment de l'acte d'intervention lui-même, et non a posteriori après les faits",
+        "Au moment du jugement, en fonction des conséquences qui sont réellement survenues",
+        "Au moment de l'enquête, selon l'appréciation portée par le parquet compétent",
+        "Au moment du péril, indépendamment de toute possibilité d'intervention immédiate"
+      ],
+      "answer": 0,
+      "explanation": "L'absence de risque pour soi ou pour les tiers est une condition objective qui doit être appréciée au moment de l'acte d'intervention, et non a posteriori, une fois les conséquences de l'abstention connues.",
+      "tags": [
+        "non-assistance",
+        "article 223-6"
+      ]
+    },
+    {
+      "id": "indifference-qcm-002",
+      "question": "Une personne invoquant sa maladresse ou son incompétence peut-elle échapper à la qualification de non-assistance à personne en danger ?",
+      "options": [
+        "Non, si son attitude est manifestement insuffisante face au péril déjà connu",
+        "Oui, la maladresse exclut systématiquement l'élément moral de cette infraction",
+        "Oui, mais seulement si la victime n'a finalement subi aucun préjudice corporel",
+        "Non, sauf si elle a effectivement tenté une véritable action de secours adaptée"
+      ],
+      "answer": 0,
+      "explanation": "La maladresse ou l'incompétence invoquée ne suffit pas à écarter la qualification lorsque l'attitude adoptée est manifestement insuffisante pour caractériser une véritable assistance face au péril connu.",
+      "tags": [
+        "non-assistance",
+        "élément moral"
+      ]
+    },
+    {
+      "id": "indifference-qcm-003",
+      "question": "Quelle différence essentielle distingue le champ d'application du non-obstacle à une infraction (art. 223-6 al. 1) de celui de l'omission de combattre un sinistre (art. 223-7) ?",
+      "options": [
+        "Le premier vise un crime ou un délit projeté, le second un danger plus large",
+        "Le premier vise uniquement les crimes, le second uniquement les délits commis",
+        "Le premier exige un risque réel pour l'intervenant, le second jamais aucun risque",
+        "Le premier s'applique aux personnes morales, le second aux seuls individus concernés"
+      ],
+      "answer": 0,
+      "explanation": "Le non-obstacle vise un crime ou un délit contre l'intégrité corporelle suffisamment manifesté, tandis que l'omission de combattre un sinistre vise un danger plus large pour la sécurité des personnes, défini par ses conséquences prévisibles et non par sa nature.",
+      "tags": [
+        "article 223-6",
+        "article 223-7"
+      ]
+    }
+  ]
+}

@@ -179,6 +179,12 @@
       "file": "infractions-sexuelles.json",
       "title": "Les infractions sexuelles",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "indifference-sort-autrui",
+      "file": "indifference-sort-autrui.json",
+      "title": "L'indifférence au sort d'autrui",
+      "category": "Droit pénal général"
     }
   ]
 }
