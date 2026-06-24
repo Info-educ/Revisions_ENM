@@ -173,6 +173,12 @@
       "file": "mise-danger-personne.json",
       "title": "De la mise en danger de la personne",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "infractions-sexuelles",
+      "file": "infractions-sexuelles.json",
+      "title": "Les infractions sexuelles",
+      "category": "Droit pénal général"
     }
   ]
 }

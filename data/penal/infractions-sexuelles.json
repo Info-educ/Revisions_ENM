@@ -1,0 +1,339 @@
+{
+  "id": "infractions-sexuelles",
+  "title": "Les infractions sexuelles",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "infractions-sexuelles-fc-001",
+      "front": "Quelle distinction structure l'ensemble de la matière des infractions sexuelles ?",
+      "back": "On distingue les atteintes sexuelles, qui supposent une absence de consentement (viol, agression sexuelle) ou un consentement non valable en raison de l'âge (atteinte sexuelle sur mineur, sextorsion), et les comportements outrageants, qui répriment des actes ou messages à connotation sexuelle sans contact ni acte sexuel sur la victime (exhibition, pédopornographie, harcèlement, racolage).",
+      "tags": [
+        "infraction sexuelle",
+        "typologie"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-fc-002",
+      "front": "Quels sont les quatre procédés alternatifs caractérisant l'absence de consentement dans le viol et les agressions sexuelles (art. 222-22) ?",
+      "back": "Violence, contrainte, menace ou surprise. Un seul de ces quatre procédés suffit à caractériser l'infraction ; ils forment une définition générique commune au viol (espèce) et aux autres agressions sexuelles (genre).",
+      "tags": [
+        "article 222-22",
+        "viol"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-fc-003",
+      "front": "Comment la loi du 3 août 2018 a-t-elle modifié l'élément matériel du viol (art. 222-23) ?",
+      "back": "Elle a élargi l'élément matériel à tout acte bucco-génital en plus de la pénétration sexuelle, et a posé que le viol est constitué que la pénétration soit imposée par l'auteur sur la victime ou par la victime sur l'auteur, rendant le sexe de l'auteur et de la victime indifférent.",
+      "tags": [
+        "viol",
+        "article 222-23"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-fc-004",
+      "front": "Quelles sont les conditions du viol « spécial » de l'article 222-23-1 sur mineur de quinze ans ?",
+      "back": "Victime mineure de quinze ans et écart d'âge d'au moins cinq ans avec l'auteur majeur ; l'absence de consentement n'est pas une condition, l'âge créant une présomption irréfragable. La « clause Roméo et Juliette » écarte la qualification en cas de rémunération, promesse de rémunération ou avantage en nature.",
+      "tags": [
+        "viol spécial",
+        "article 222-23-1"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-fc-005",
+      "front": "Qu'est-ce qui caractérise l'élément matériel de la surprise dans le viol, et que faut-il éviter de confondre avec elle ?",
+      "back": "La surprise correspond à un consentement surpris et non simplement trompé : sommeil, sidération, ou erreur sur l'identité de l'auteur (ex. se faire passer pour le conjoint). Elle ne doit pas être confondue avec la déception ou les regrets postérieurs à un acte consenti.",
+      "tags": [
+        "surprise",
+        "viol"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-fc-006",
+      "front": "Pourquoi la catégorie des atteintes sexuelles sur mineur (art. 227-25 et 227-27) a-t-elle été créée ?",
+      "back": "Parce que le seul jeune âge de la victime ne pouvait, en l'absence de violence, contrainte, menace ou surprise, justifier une qualification d'agression sexuelle de droit commun. Cette catégorie autonome sanctionne l'acte sexuel auquel le mineur a consenti ; à défaut de consentement, c'est le viol ou l'agression sexuelle qui s'appliquent.",
+      "tags": [
+        "atteinte sexuelle",
+        "mineur"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-fc-007",
+      "front": "Quelle est la différence de champ d'application entre l'article 227-25 et l'article 227-27 ?",
+      "back": "L'article 227-25 vise tout acte sexuel d'un majeur sur un mineur de quinze ans, sans condition d'autorité. L'article 227-27 vise un mineur de quinze à dix-huit ans, mais seulement si l'auteur majeur exerce sur lui une autorité de droit ou de fait (professeur, éducateur) ; sans cette autorité, la relation consentie échappe à la qualification.",
+      "tags": [
+        "article 227-25",
+        "article 227-27"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-fc-008",
+      "front": "Quels sont les deux éléments matériels alternatifs du harcèlement sexuel de l'article 222-33 ?",
+      "back": "(I) Imposer de façon répétée des propos ou comportements à connotation sexuelle ou sexiste portant atteinte à la dignité ou créant une situation intimidante, hostile ou offensante ; (II) user, même sans répétition, de toute pression grave dans le but d'obtenir un acte de nature sexuelle au profit de l'auteur ou d'un tiers.",
+      "tags": [
+        "harcèlement sexuel",
+        "article 222-33"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-fc-009",
+      "front": "Quelles sont les deux conditions cumulatives de l'exhibition sexuelle (art. 222-32) ?",
+      "back": "L'acte impudique doit être imposé à la vue d'un témoin involontaire, et il doit être commis dans un lieu accessible aux regards du public — peu importe que ce lieu soit public ou privé, dès lors qu'il est accessible de l'extérieur (ex. cabinet professionnel ouvert aux clients).",
+      "tags": [
+        "exhibition sexuelle",
+        "article 222-32"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-fc-010",
+      "front": "Quelle évolution législative a marqué le traitement du racolage depuis la loi du 18 mars 2003 ?",
+      "back": "Le délit de racolage actif ou passif a été supprimé par la loi du 13 avril 2016, qui a inversé la logique répressive : elle pénalise désormais le client sollicitant des relations sexuelles en échange d'une rémunération (art. 611-1), dépénalisant corrélativement la personne prostituée.",
+      "tags": [
+        "racolage",
+        "article 611-1"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "infractions-sexuelles-qcm-001",
+      "question": "Depuis la loi du 3 août 2018, le viol peut-il être constitué lorsque la pénétration est imposée par la victime sur l'auteur des faits ?",
+      "options": [
+        "Oui, le viol est constitué quel que soit le sens de la pénétration imposée entre eux",
+        "Non, le viol exige toujours une pénétration imposée par l'auteur sur la victime",
+        "Oui, mais seulement si l'auteur est une femme et la victime est un homme adulte",
+        "Non, cette hypothèse relève uniquement d'une qualification d'agression sexuelle simple"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la loi du 3 août 2018, le viol est constitué que la pénétration soit imposée par l'auteur sur la victime ou par la victime sur l'auteur, rendant le sexe de chacun indifférent à la qualification.",
+      "tags": [
+        "viol",
+        "loi du 3 août 2018"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-002",
+      "question": "Le viol peut-il être caractérisé sur un cadavre ou sur un animal ?",
+      "options": [
+        "Non, ces deux hypothèses sont expressément exclues de la qualification de viol",
+        "Oui, dès lors que l'acte présente objectivement un caractère sexuel manifeste",
+        "Oui, mais uniquement lorsque l'auteur a agi avec une intention spécifique préalable",
+        "Non, sauf si l'acte a été commis avec une particulière violence physique avérée"
+      ],
+      "answer": 0,
+      "explanation": "L'élément matériel du viol suppose un acte commis sur la personne d'autrui ou de l'auteur ; les hypothèses portant sur un cadavre ou un animal sont expressément exclues de cette qualification.",
+      "tags": [
+        "viol",
+        "élément matériel"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-003",
+      "question": "Comment la contrainte morale peut-elle être caractérisée lorsque la victime du viol est mineure ?",
+      "options": [
+        "Par la différence d'âge avec l'auteur et l'autorité qu'il exerce sur la victime",
+        "Uniquement par la preuve d'une menace verbale explicite formulée envers la victime",
+        "Par la seule constatation de l'absence de résistance physique de la victime concernée",
+        "Uniquement par un certificat médical attestant d'un traumatisme psychologique constaté"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'article 222-22-1, la contrainte morale sur un mineur peut résulter de la différence d'âge avec l'auteur et de l'autorité de droit ou de fait que celui-ci exerce sur lui, cette appréciation se faisant in concreto.",
+      "tags": [
+        "contrainte",
+        "article 222-22-1"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-004",
+      "question": "Pour le viol incestueux de l'article 222-23-2, une condition d'écart d'âge minimal entre l'auteur et la victime mineure est-elle exigée ?",
+      "options": [
+        "Non, aucune condition d'écart d'âge minimal n'est requise dans cette hypothèse",
+        "Oui, un écart d'âge d'au moins cinq ans est requis comme pour le viol spécial",
+        "Oui, mais seulement lorsque l'auteur est un ascendant direct de la victime mineure",
+        "Non, sauf si l'auteur n'exerce qu'une autorité purement factuelle sur la victime"
+      ],
+      "answer": 0,
+      "explanation": "Contrairement au viol spécial de l'article 222-23-1, le viol incestueux de l'article 222-23-2 ne pose aucune condition d'écart d'âge entre le mineur et l'auteur majeur ascendant ou exerçant une autorité de droit ou de fait sur lui.",
+      "tags": [
+        "inceste",
+        "article 222-23-2"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-005",
+      "question": "À partir de quand commence à courir la prescription de l'action publique pour un viol commis sur une victime mineure ?",
+      "options": [
+        "À compter de la majorité de la victime, et jusqu'à ses trente ans révolus inclus",
+        "À compter du jour exact où les faits de viol ont été commis sur le mineur concerné",
+        "À compter du signalement des faits par un tiers aux autorités judiciaires compétentes",
+        "À compter du dépôt formel d'une plainte par la victime devenue majeure depuis"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la loi du 3 août 2018, la prescription de l'action publique commence à courir à partir de la majorité de la victime mineure et s'étend jusqu'à ses trente ans, cette prescription pouvant être glissante en cas d'autres viols commis.",
+      "tags": [
+        "prescription",
+        "viol"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-006",
+      "question": "Quelle peine est encourue pour un viol ayant entraîné la mort de la victime, en application de l'article 222-25 ?",
+      "options": [
+        "Trente ans de réclusion criminelle",
+        "Vingt ans de réclusion criminelle",
+        "Quinze ans de réclusion criminelle",
+        "La réclusion criminelle à perpétuité"
+      ],
+      "answer": 0,
+      "explanation": "L'article 222-25 prévoit une peine de trente ans de réclusion criminelle lorsque le viol a entraîné la mort de la victime, peine distincte de la perpétuité réservée au viol accompagné de tortures ou d'actes de barbarie (art. 222-26).",
+      "tags": [
+        "viol",
+        "article 222-25"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-007",
+      "question": "Qu'incrimine le délit obstacle prévu par l'article 222-30-1 du Code pénal ?",
+      "options": [
+        "Administrer à une personne, à son insu, une substance altérant son discernement",
+        "Tenter de commettre un viol sans qu'aucun acte matériel n'ait été réellement accompli",
+        "Diffuser publiquement des images d'un viol déjà commis et entièrement consommé",
+        "Faire des offres de rémunération en échange d'un acte sexuel déjà librement accepté"
+      ],
+      "answer": 0,
+      "explanation": "L'article 222-30-1 incrimine, comme délit obstacle, le fait d'administrer à une personne, à son insu, une substance altérant son discernement en vue de commettre un viol ou une agression sexuelle, indépendamment de la réalisation de cette infraction.",
+      "tags": [
+        "soumission chimique",
+        "article 222-30-1"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-008",
+      "question": "Quel résultat négatif distingue l'agression sexuelle autre que le viol (art. 222-27) du viol lui-même ?",
+      "options": [
+        "L'absence de pénétration sexuelle et d'acte bucco-génital imposé à la victime",
+        "L'absence de violence, de contrainte, de menace ou de surprise constatée ensuite",
+        "L'absence de tout préjudice corporel effectivement constaté chez la victime",
+        "L'absence d'intention spécifique de nuire personnellement chez l'auteur des faits"
+      ],
+      "answer": 0,
+      "explanation": "L'agression sexuelle autre que le viol partage la même définition générique que le viol (art. 222-22), mais se définit négativement par l'absence de pénétration et d'acte bucco-génital, qui caractériseraient sinon un viol.",
+      "tags": [
+        "agression sexuelle",
+        "article 222-27"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-009",
+      "question": "L'incrimination d'atteinte sexuelle sur mineur de l'article 227-25 s'applique-t-elle lorsque le mineur n'a pas consenti à l'acte sexuel ?",
+      "options": [
+        "Non, l'absence de consentement fait alors basculer vers le viol ou l'agression",
+        "Oui, l'absence de consentement est indifférente à cette qualification spéciale",
+        "Oui, mais seulement si l'auteur exerce une autorité de droit sur le mineur concerné",
+        "Non, sauf si le mineur concerné est âgé de moins de treize ans au moment des faits"
+      ],
+      "answer": 0,
+      "explanation": "L'atteinte sexuelle sur mineur sanctionne l'acte sexuel auquel le mineur a consenti ; à défaut de consentement, la qualification de viol ou d'agression sexuelle, qui suppose justement l'absence de consentement, s'applique à la place.",
+      "tags": [
+        "atteinte sexuelle",
+        "article 227-25"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-010",
+      "question": "Pour le délit de l'article 227-27 sur mineur de quinze à dix-huit ans, l'autorité de l'auteur sur la victime est-elle une condition de la qualification ?",
+      "options": [
+        "Oui, sans cette autorité de droit ou de fait, la qualification est entièrement écartée",
+        "Non, cette condition d'autorité n'est exigée que pour le viol incestueux uniquement",
+        "Oui, mais seulement lorsque l'auteur exerce une profession médicale reconnue",
+        "Non, le seul écart d'âge avec la victime suffit à fonder cette qualification spéciale"
+      ],
+      "answer": 0,
+      "explanation": "L'article 227-27 ne s'applique que si l'auteur majeur exerce sur le mineur de quinze à dix-huit ans une autorité de droit ou de fait ; sans cette autorité, la relation consentie échappe à cette qualification spéciale.",
+      "tags": [
+        "article 227-27",
+        "autorité"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-011",
+      "question": "Le délit de « grooming » de l'article 227-22-1 exige-t-il qu'une rencontre physique ait réellement eu lieu entre l'auteur et le mineur ?",
+      "options": [
+        "Non, la simple proposition de rencontre suffit, la rencontre étant aggravante",
+        "Oui, la rencontre effective constitue une condition de l'infraction elle-même",
+        "Oui, mais seulement lorsque la victime est âgée de moins de treize ans révolus",
+        "Non, sauf si l'auteur a déjà été condamné pour des faits strictement similaires"
+      ],
+      "answer": 0,
+      "explanation": "Le grooming consiste en la proposition de rencontre à un mineur de quinze ans via un moyen de communication électronique en vue de commettre une infraction sexuelle ; l'infraction est consommée par la seule proposition, la rencontre effective étant une circonstance aggravante.",
+      "tags": [
+        "grooming",
+        "article 227-22-1"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-012",
+      "question": "Le délit de sextorsion de l'article 227-22-2 exige-t-il une présence physique de l'auteur lors de l'acte sexuel commis par le mineur ?",
+      "options": [
+        "Non, l'incitation est punissable même hors la présence physique de l'auteur",
+        "Oui, l'auteur doit nécessairement être physiquement présent lors de l'acte commis",
+        "Oui, sauf lorsque les faits sont commis en bande organisée caractérisée et avérée",
+        "Non, sauf si la victime mineure a moins de quinze ans au moment des faits commis"
+      ],
+      "answer": 0,
+      "explanation": "L'article 227-22-2 incrimine le fait d'inciter un mineur à commettre un acte de nature sexuelle sur ou par l'auteur, y compris hors sa présence physique, ou à se filmer ou se photographier se livrant à un tel acte.",
+      "tags": [
+        "sextorsion",
+        "article 227-22-2"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-013",
+      "question": "Le harcèlement sexuel par « raid numérique » peut-il être caractérisé même si aucun des participants n'a agi seul de façon répétée ?",
+      "options": [
+        "Oui, la répétition résulte de l'ensemble des propos concertés ou successifs tenus",
+        "Non, chaque participant doit avoir lui-même personnellement répété ses propos",
+        "Oui, mais seulement si tous les participants se connaissaient au préalable entre eux",
+        "Non, le harcèlement sexuel exige toujours l'action d'un seul et même auteur"
+      ],
+      "answer": 0,
+      "explanation": "La répétition du harcèlement sexuel peut résulter de propos imposés par plusieurs personnes de façon concertée ou successive, chacune sachant caractériser une répétition, même si aucune d'elles n'a agi de façon répétée à elle seule.",
+      "tags": [
+        "harcèlement sexuel",
+        "raid numérique"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-014",
+      "question": "Pour caractériser l'exhibition sexuelle, la seule nudité constatée dans un lieu accessible au public suffit-elle nécessairement ?",
+      "options": [
+        "Non, un acte impudique distinct doit en principe être caractérisé en plus de la nudité",
+        "Oui, la nudité seule suffit toujours, indépendamment de tout autre élément constaté",
+        "Non, sauf si la nudité est constatée dans un cadre strictement professionnel précis",
+        "Oui, mais uniquement lorsque la victime est elle-même mineure de quinze ans révolus"
+      ],
+      "answer": 0,
+      "explanation": "Selon la jurisprudence, la simple nudité ne suffit pas nécessairement à caractériser l'exhibition sexuelle ; un acte impudique doit en principe être établi, son appréciation évoluant selon les mœurs et le contexte.",
+      "tags": [
+        "exhibition sexuelle",
+        "acte impudique"
+      ]
+    },
+    {
+      "id": "infractions-sexuelles-qcm-015",
+      "question": "Pour l'exploitation pornographique de l'image d'un mineur, qui doit prouver l'âge réel de la personne représentée en cas de doute ?",
+      "options": [
+        "L'auteur des faits doit prouver lui-même la majorité de la personne représentée",
+        "Le ministère public doit prouver la minorité effective de la personne représentée",
+        "La victime doit produire elle-même un acte d'état civil attestant de son âge réel",
+        "Aucune preuve d'âge n'est exigée dès lors que l'image présente un caractère sexuel"
+      ],
+      "answer": 0,
+      "explanation": "Il existe une présomption de minorité lorsque l'aspect physique de la personne représentée est celui d'un mineur ; c'est alors à l'auteur de rapporter la preuve contraire de sa majorité au jour de la fixation, ce renversement ayant été jugé conforme à la présomption d'innocence (Crim. 22 août 2018).",
+      "tags": [
+        "pédopornographie",
+        "article 227-23"
+      ]
+    }
+  ]
+}
