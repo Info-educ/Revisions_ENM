@@ -1,0 +1,179 @@
+{
+  "id": "detournements",
+  "title": "Les détournements — Abus de confiance et autres détournements",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "detournements-fc-001",
+      "front": "Quelle est la définition légale de l'abus de confiance (art. 314-1 C. pén.) ?",
+      "back": "Le fait, par une personne, de détourner au préjudice d'autrui des fonds, valeurs ou un bien quelconque qui lui ont été remis et qu'elle a acceptés à charge de les rendre, de les représenter ou d'en faire un usage déterminé.",
+      "tags": [
+        "abus-de-confiance"
+      ]
+    },
+    {
+      "id": "detournements-fc-002",
+      "front": "Pourquoi une remise en pleine propriété exclut-elle en principe l'abus de confiance ?",
+      "back": "Parce que l'infraction suppose une remise à titre précaire, assortie d'une obligation de restitution ou d'un usage déterminé ; une remise translative de propriété ne crée aucune charge de restitution, sauf évolution jurisprudentielle propre aux fonds bancaires.",
+      "tags": [
+        "abus-de-confiance",
+        "remise-precaire"
+      ]
+    },
+    {
+      "id": "detournements-fc-003",
+      "front": "L'abus de confiance et l'escroquerie se distinguent-ils quant au moment de la tromperie ?",
+      "back": "Oui : dans l'abus de confiance, la remise est librement consentie sans tromperie préalable, et le détournement intervient après cette remise, alors que dans l'escroquerie la tromperie précède et détermine la remise elle-même.",
+      "tags": [
+        "abus-de-confiance",
+        "escroquerie"
+      ]
+    },
+    {
+      "id": "detournements-fc-004",
+      "front": "Quelle particularité distingue le détournement de gage du détournement d'objet saisi quant à la nature du bien ?",
+      "back": "Le détournement de gage (art. 314-5) ne peut porter que sur un bien corporel ; le détournement d'objet saisi (art. 314-6) s'applique en revanche à toute sorte de saisie, y compris portant sur des immeubles.",
+      "tags": [
+        "detournement-gage",
+        "objet-saisi"
+      ]
+    },
+    {
+      "id": "detournements-fc-005",
+      "front": "En quoi l'organisation frauduleuse de l'insolvabilité (art. 314-7) est-elle une infraction formelle ?",
+      "back": "Elle est consommée par le seul fait d'organiser ou d'aggraver son insolvabilité en vue de se soustraire à l'exécution d'une condamnation patrimoniale, sans qu'un préjudice effectif résultant de cette organisation soit exigé.",
+      "tags": [
+        "insolvabilite-frauduleuse"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "detournements-qcm-001",
+      "question": "Quelle condition préalable est indispensable à la caractérisation de l'abus de confiance ?",
+      "options": [
+        "Une remise antérieure du bien effectuée en vertu d'un titre comme un dépôt ou un mandat",
+        "Une manœuvre frauduleuse ayant déterminé la victime à se dessaisir du bien remis",
+        "Une violence préalable exercée pour contraindre la victime à remettre le bien visé",
+        "Une absence totale de tout lien contractuel entre l'auteur et la victime concernée"
+      ],
+      "answer": 0,
+      "explanation": "L'abus de confiance exige une remise antérieure au détournement, effectuée en vertu d'un titre tel qu'un dépôt, un mandat ou un prêt, la personne remettant volontairement le bien avec l'intention de s'engager juridiquement envers son cocontractant.",
+      "tags": [
+        "abus-de-confiance",
+        "remise-prealable"
+      ]
+    },
+    {
+      "id": "detournements-qcm-002",
+      "question": "Quel acte ne constitue pas, à lui seul, un détournement au sens de l'abus de confiance ?",
+      "options": [
+        "La dissipation complète du bien remis, par vente, perte ou destruction volontaire",
+        "Le simple retard de restitution non accompagné de raisons mensongères avancées",
+        "L'usage du bien remis allant manifestement au-delà de l'autorisation accordée",
+        "L'utilisation du bien à des fins contractuellement non prévues par la convention"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence considère que le simple retard ou défaut de restitution ne constitue pas en soi un détournement, sauf s'il s'accompagne de raisons mensongères invoquées par le détenteur pour justifier ce retard.",
+      "tags": [
+        "abus-de-confiance",
+        "jurisprudence"
+      ]
+    },
+    {
+      "id": "detournements-qcm-003",
+      "question": "Quelle évolution jurisprudentielle concerne les fonds remis à un établissement bancaire ?",
+      "options": [
+        "La Chambre criminelle exclut désormais toute poursuite pour abus de confiance bancaire",
+        "L'abus de confiance est admis même si la banque n'était pas tenue de restituer les fonds",
+        "Seule la responsabilité civile de la banque peut être engagée pour ces faits précis",
+        "La qualification retenue est celle d'organisation frauduleuse d'insolvabilité du débiteur"
+      ],
+      "answer": 1,
+      "explanation": "Par deux arrêts de 2016, la Chambre criminelle admet l'abus de confiance sur des fonds remis à une banque même lorsque celle-ci n'était pas tenue de les restituer à l'identique, élargissant ainsi le champ de la remise précaire.",
+      "tags": [
+        "abus-de-confiance",
+        "fonds-bancaires"
+      ]
+    },
+    {
+      "id": "detournements-qcm-004",
+      "question": "Quelle est la conséquence du fait que la tentative d'abus de confiance n'est pas incriminée ?",
+      "options": [
+        "Les actes préparatoires au détournement restent punissables au titre de la complicité",
+        "Seul le détournement effectivement consommé peut donner lieu à des poursuites pénales",
+        "L'immunité familiale devient automatiquement inapplicable à cette infraction précise",
+        "La prescription de l'action publique commence à courir dès la remise du bien visé"
+      ],
+      "answer": 1,
+      "explanation": "L'article 313-3 du code pénal, qui incrimine la tentative d'escroquerie, ne renvoie pas à l'article 314-1 relatif à l'abus de confiance ; en conséquence, seul le détournement effectivement réalisé peut faire l'objet de poursuites pénales.",
+      "tags": [
+        "abus-de-confiance",
+        "tentative"
+      ]
+    },
+    {
+      "id": "detournements-qcm-005",
+      "question": "Quelle circonstance porte la peine de l'abus de confiance à son degré le plus élevé ?",
+      "options": [
+        "La commission des faits par un mandataire de justice dans l'exercice de ses fonctions",
+        "La commission des faits un jour de fermeture habituelle de l'établissement concerné",
+        "La commission des faits par une personne ayant déjà fait l'objet d'un simple rappel",
+        "La commission des faits au préjudice d'une seule personne physique non vulnérable"
+      ],
+      "answer": 0,
+      "explanation": "L'article 314-3 du code pénal porte la peine à 10 ans d'emprisonnement et 1 500 000 € d'amende lorsque l'auteur est un mandataire de justice ou un officier public ou ministériel ayant commis l'abus dans l'exercice ou à l'occasion de ses fonctions.",
+      "tags": [
+        "abus-de-confiance",
+        "circonstance-aggravante"
+      ]
+    },
+    {
+      "id": "detournements-qcm-006",
+      "question": "Qui peut être l'auteur du détournement de gage prévu à l'article 314-5 du code pénal ?",
+      "options": [
+        "Uniquement le créancier gagiste détenant matériellement l'objet remis en garantie",
+        "Uniquement le débiteur ou l'emprunteur ayant constitué le gage, à l'exclusion du tiers",
+        "Toute personne ayant eu connaissance de l'existence du contrat de gage en cause",
+        "Exclusivement un officier ministériel chargé de la conservation du bien gagé"
+      ],
+      "answer": 1,
+      "explanation": "Le détournement de gage ne peut être commis que par le débiteur ou l'emprunteur ayant lui-même constitué le gage, et non par un tiers donneur de gage, ce qui distingue cette infraction des autres formes de détournement.",
+      "tags": [
+        "detournement-gage"
+      ]
+    },
+    {
+      "id": "detournements-qcm-007",
+      "question": "Quelle est la conséquence de l'annulation postérieure d'une saisie sur la qualification de détournement d'objet saisi ?",
+      "options": [
+        "L'infraction reste pleinement constituée, l'annulation étant sans incidence rétroactive",
+        "L'annulation postérieure de la saisie rend l'infraction sans effet selon la jurisprudence",
+        "Seule la responsabilité civile du gardien de l'objet peut alors être recherchée",
+        "L'auteur ne peut plus être poursuivi que sur le fondement de l'abus de confiance"
+      ],
+      "answer": 1,
+      "explanation": "L'existence de la saisie constitue une condition préalable à l'infraction ; la jurisprudence considère que l'annulation postérieure de cette saisie rend l'infraction sans effet, faute de condition préalable valablement constituée.",
+      "tags": [
+        "objet-saisi",
+        "jurisprudence"
+      ]
+    },
+    {
+      "id": "detournements-qcm-008",
+      "question": "Sur quel point la prescription de l'organisation frauduleuse de l'insolvabilité présente-t-elle une règle particulière ?",
+      "options": [
+        "Elle court à compter du jour où le créancier a eu connaissance du premier acte litigieux",
+        "Elle court à compter de la condamnation à laquelle le débiteur a voulu se soustraire",
+        "Elle ne commence jamais à courir tant que le débiteur reste en activité professionnelle",
+        "Elle est suspendue automatiquement pendant toute la durée de la procédure collective"
+      ],
+      "answer": 1,
+      "explanation": "L'article 314-8 alinéa 1 du code pénal prévoit que la prescription court à compter de la condamnation à l'exécution de laquelle le débiteur a voulu se soustraire, règle spécifique qui déroge au point de départ habituel de la prescription.",
+      "tags": [
+        "insolvabilite-frauduleuse",
+        "prescription"
+      ]
+    }
+  ]
+}

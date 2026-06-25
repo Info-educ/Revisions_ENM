@@ -1,0 +1,178 @@
+{
+  "id": "soustractions",
+  "title": "Les soustractions — Vol, extorsion, chantage, demande de fonds",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "soustractions-fc-001",
+      "front": "Comment se définit la soustraction, élément matériel commun aux infractions de cette famille ?",
+      "back": "C'est le fait de prendre, enlever ou ravir une chose, de façon frauduleuse, ce qui permet à l'auteur de se comporter en propriétaire pendant un laps de temps même bref ; elle peut être momentanée et porter sur l'énergie électrique ou des données informatiques reproduites.",
+      "tags": [
+        "vol",
+        "soustraction"
+      ]
+    },
+    {
+      "id": "soustractions-fc-002",
+      "front": "Quels sont les éléments constitutifs du vol simple (art. 311-1 à 311-3 C. pén.) ?",
+      "back": "Élément matériel : soustraction frauduleuse d'une chose mobilière appartenant à autrui. Élément moral : l'animus furandi, c'est-à-dire la volonté de s'approprier la chose contre le gré du propriétaire, le mobile étant indifférent.",
+      "tags": [
+        "vol-simple",
+        "element-intentionnel"
+      ]
+    },
+    {
+      "id": "soustractions-fc-003",
+      "front": "Quelle est la portée de l'immunité familiale prévue en matière de vol (art. 311-12 C. pén.) ?",
+      "back": "Elle s'applique entre ascendants, descendants ou conjoints non séparés de corps ; elle n'efface pas l'infraction mais fait seulement obstacle aux poursuites pénales, et ne profite jamais aux complices de l'auteur principal.",
+      "tags": [
+        "immunite-familiale"
+      ]
+    },
+    {
+      "id": "soustractions-fc-004",
+      "front": "Quelle différence sépare l'extorsion du chantage dans les soustractions violentes ?",
+      "back": "L'extorsion (art. 312-1) repose sur la violence, la menace de violences ou la contrainte pour obtenir une remise ; le chantage (art. 312-10) repose sur la seule menace de révéler ou d'imputer des faits attentatoires à l'honneur ou à la considération.",
+      "tags": [
+        "extorsion",
+        "chantage"
+      ]
+    },
+    {
+      "id": "soustractions-fc-005",
+      "front": "Comment la circonstance aggravante de bande organisée avec usage d'une arme affecte-t-elle les peines de vol et d'extorsion ?",
+      "back": "Elle porte systématiquement la peine à son maximum, soit 30 ans de réclusion criminelle et 150 000 € d'amende, que ce soit pour le vol aggravé (art. 311-9) ou pour l'extorsion aggravée (art. 312-6 et suivants).",
+      "tags": [
+        "bande-organisee",
+        "circonstance-aggravante"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "soustractions-qcm-001",
+      "question": "Quelle condition caractérise juridiquement l'élément matériel de la soustraction constitutive du vol ?",
+      "options": [
+        "Elle suppose une dépossession définitive et irréversible du propriétaire légitime",
+        "Elle suffit dès lors qu'elle permet à l'auteur d'agir en propriétaire un court instant",
+        "Elle exige nécessairement un transport physique de la chose hors des lieux visés",
+        "Elle ne peut jamais porter sur un bien immatériel comme des données copiées"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence admet que la soustraction puisse être momentanée, dès lors que l'auteur s'est comporté en propriétaire pendant un laps de temps, même bref ; elle admet aussi la soustraction de données informatiques par simple reproduction, sans dépossession du titulaire.",
+      "tags": [
+        "vol",
+        "element-materiel"
+      ]
+    },
+    {
+      "id": "soustractions-qcm-002",
+      "question": "Parmi les circonstances suivantes, laquelle constitue une circonstance aggravante du vol prévue par le code pénal ?",
+      "options": [
+        "La commission des faits dans un local d'habitation occupé par la victime visée",
+        "Le simple fait que la victime ait porté plainte plusieurs jours après les faits",
+        "L'existence d'un lien de subordination antérieur entre l'auteur et la victime",
+        "La commission des faits un jour ouvrable durant les horaires habituels de bureau"
+      ],
+      "answer": 0,
+      "explanation": "Le vol commis dans un local d'habitation figure parmi les circonstances aggravantes prévues, au même titre que la commission en réunion, par un dépositaire de l'autorité publique, avec violences sans ITT, ou avec dissimulation du visage.",
+      "tags": [
+        "vol-aggrave",
+        "circonstance"
+      ]
+    },
+    {
+      "id": "soustractions-qcm-003",
+      "question": "Quel est le fondement de l'immunité familiale applicable en matière de vol entre proches ?",
+      "options": [
+        "Elle efface totalement l'infraction, qui est réputée n'avoir jamais existé en droit",
+        "Elle fait obstacle aux poursuites sans effacer le caractère infractionnel des faits",
+        "Elle ne s'applique qu'aux infractions commises avant la majorité de l'auteur",
+        "Elle s'étend automatiquement aux complices extérieurs au cercle familial visé"
+      ],
+      "answer": 1,
+      "explanation": "L'immunité familiale prévue à l'article 311-12 du code pénal constitue un obstacle procédural aux poursuites entre ascendants, descendants ou conjoints non séparés de corps, sans pour autant effacer l'élément légal de l'infraction ni profiter aux complices.",
+      "tags": [
+        "immunite-familiale",
+        "vol"
+      ]
+    },
+    {
+      "id": "soustractions-qcm-004",
+      "question": "Lequel des faits justificatifs suivants est reconnu par la jurisprudence en matière de vol ?",
+      "options": [
+        "Le salarié qui soustrait des documents strictement utiles à sa défense aux prud'hommes",
+        "Le salarié qui copie tout dossier client par crainte d'un futur licenciement",
+        "Le client qui emporte un objet pour compenser un service jugé insatisfaisant",
+        "Le débiteur qui s'approprie un bien pour compenser une dette impayée ancienne"
+      ],
+      "answer": 0,
+      "explanation": "La jurisprudence admet, à titre de fait justificatif strict, le vol de documents commis par un salarié lorsque ces pièces sont strictement nécessaires à l'exercice de ses droits de la défense dans le litige l'opposant à son employeur.",
+      "tags": [
+        "fait-justificatif",
+        "vol"
+      ]
+    },
+    {
+      "id": "soustractions-qcm-005",
+      "question": "Quel élément matériel distingue l'extorsion d'un vol commis avec violences ?",
+      "options": [
+        "L'extorsion exige une remise obtenue par contrainte, sans soustraction matérielle directe",
+        "L'extorsion ne peut jamais porter sur des fonds mais uniquement sur des biens",
+        "L'extorsion suppose une absence totale de toute forme de menace préalable exercée",
+        "L'extorsion requiert obligatoirement l'usage effectif d'une arme par destination"
+      ],
+      "answer": 0,
+      "explanation": "L'extorsion consiste à obtenir, par violence, menace de violences ou contrainte, la remise volontaire d'un bien, de fonds ou un engagement ; à la différence du vol, la victime remet elle-même la chose sous l'effet de la contrainte exercée.",
+      "tags": [
+        "extorsion"
+      ]
+    },
+    {
+      "id": "soustractions-qcm-006",
+      "question": "Quelle est la particularité du chantage par rapport aux autres soustractions violentes ?",
+      "options": [
+        "Le moyen de pression repose sur la menace de révéler des faits attentatoires à l'honneur",
+        "Le chantage exige systématiquement la commission préalable d'une violence physique",
+        "Le chantage ne peut concerner que la remise d'un bien immobilier déterminé précisément",
+        "Le chantage suppose nécessairement l'intervention d'un tiers complice extérieur"
+      ],
+      "answer": 0,
+      "explanation": "Le chantage se caractérise par la menace de révéler ou d'imputer des faits de nature à porter atteinte à l'honneur ou à la considération de la victime, afin d'obtenir une signature, un engagement ou la remise d'un bien quelconque.",
+      "tags": [
+        "chantage"
+      ]
+    },
+    {
+      "id": "soustractions-qcm-007",
+      "question": "Comment la loi du 21 mai 2024 a-t-elle modifié la répression du chantage portant sur des images intimes ?",
+      "options": [
+        "Elle a supprimé toute possibilité de poursuite lorsque la victime est majeure",
+        "Elle a aggravé la peine lorsque la menace porte sur la diffusion d'images sexuelles",
+        "Elle a transféré cette infraction vers le régime exclusif de l'extorsion aggravée",
+        "Elle a limité l'aggravation aux seuls cas où la menace émane d'un mineur identifié"
+      ],
+      "answer": 1,
+      "explanation": "La loi du 21 mai 2024 porte la peine de chantage à 7 ans et 100 000 € d'amende lorsque la menace concerne la diffusion d'images ou de vidéos à caractère sexuel, ou lorsque l'auteur a effectivement mis sa menace à exécution.",
+      "tags": [
+        "chantage",
+        "circonstance-aggravante"
+      ]
+    },
+    {
+      "id": "soustractions-qcm-008",
+      "question": "Quelle qualification juridique correspond à la mendicité agressive sous menace, sans remise effective ?",
+      "options": [
+        "Une tentative d'extorsion punie des mêmes peines que l'infraction consommée",
+        "Une demande de fonds sous contrainte, infraction formelle ne requérant pas de remise",
+        "Une simple contravention relevant exclusivement de la compétence du tribunal de police",
+        "Un chantage aggravé dès lors que la sollicitation a lieu sur la voie publique"
+      ],
+      "answer": 1,
+      "explanation": "L'article 312-12-1 du code pénal incrimine la demande de fonds sous contrainte comme une infraction formelle : la simple sollicitation agressive ou menaçante sur la voie publique suffit, sans qu'une remise effective soit nécessaire à la consommation.",
+      "tags": [
+        "demande-de-fonds"
+      ]
+    }
+  ]
+}

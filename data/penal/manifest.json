@@ -215,6 +215,24 @@
       "file": "atteintes-mineur-famille.json",
       "title": "Les atteintes au mineur et à la famille",
       "category": "Droit pénal spécial"
+    },
+    {
+      "id": "soustractions",
+      "file": "soustractions.json",
+      "title": "Les soustractions — Vol, extorsion, chantage, demande de fonds",
+      "category": "Droit pénal spécial"
+    },
+    {
+      "id": "tromperies",
+      "file": "tromperies.json",
+      "title": "Les tromperies — Escroquerie et infractions voisines",
+      "category": "Droit pénal spécial"
+    },
+    {
+      "id": "detournements",
+      "file": "detournements.json",
+      "title": "Les détournements — Abus de confiance et autres détournements",
+      "category": "Droit pénal spécial"
     }
   ]
 }

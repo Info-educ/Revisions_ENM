@@ -1,0 +1,178 @@
+{
+  "id": "tromperies",
+  "title": "Les tromperies — Escroquerie et infractions voisines",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "tromperies-fc-001",
+      "front": "Quels sont les quatre procédés frauduleux pouvant caractériser l'élément matériel de l'escroquerie (art. 313-1 C. pén.) ?",
+      "back": "L'usage d'un faux nom ou d'une fausse qualité, l'abus d'une qualité vraie, et les manœuvres frauduleuses ; ces procédés constituent l'acte positif requis, le simple mensonge non corroboré par un élément extérieur ne suffisant jamais à lui seul.",
+      "tags": [
+        "escroquerie",
+        "element-materiel"
+      ]
+    },
+    {
+      "id": "tromperies-fc-002",
+      "front": "Quelle est la différence essentielle entre l'escroquerie et la filouterie ?",
+      "back": "L'escroquerie exige l'emploi d'un des procédés frauduleux et une remise volontaire induite par la tromperie, alors que la filouterie ne requiert aucun mensonge ni manœuvre : seul le fait de se faire servir sans payer, avec intention de ne pas régler, suffit.",
+      "tags": [
+        "filouterie",
+        "escroquerie"
+      ]
+    },
+    {
+      "id": "tromperies-fc-003",
+      "front": "Quelles sont les peines de base et la principale circonstance aggravante de l'escroquerie ?",
+      "back": "La peine de base est de 5 ans d'emprisonnement et 375 000 € d'amende ; elle est portée à 7 ans et 750 000 € en présence d'une circonstance aggravante (victime vulnérable, dépositaire de l'autorité publique...), et à 10 ans et 1 000 000 € en bande organisée.",
+      "tags": [
+        "escroquerie",
+        "sanction"
+      ]
+    },
+    {
+      "id": "tromperies-fc-004",
+      "front": "Quelle infraction nouvelle a été créée par la loi anti-squat du 27 juillet 2023 ?",
+      "back": "L'occupation frauduleuse d'un local, qui réprime soit l'introduction par manœuvre, menace ou violence dans un local d'habitation, commercial, agricole ou professionnel (art. 315-1), soit le maintien sans droit malgré un commandement de quitter les lieux exécutoire depuis plus de deux mois (art. 315-2).",
+      "tags": [
+        "occupation-frauduleuse",
+        "anti-squat"
+      ]
+    },
+    {
+      "id": "tromperies-fc-005",
+      "front": "Quel est l'objet protégé par l'infraction de fraude aux enchères publiques (art. 313-6 C. pén.) ?",
+      "back": "La liberté des enchères, atteinte lorsqu'un individu écarte des soumissionnaires d'une adjudication publique par des dons, promesses, menaces ou voies de fait, ou en limitant artificiellement les enchères, l'infraction étant intentionnelle.",
+      "tags": [
+        "fraude-encheres"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "tromperies-qcm-001",
+      "question": "Pourquoi un simple mensonge non accompagné d'un élément extérieur ne suffit-il pas à caractériser l'escroquerie ?",
+      "options": [
+        "Parce que la loi exige une manœuvre, c'est-à-dire un montage ou une corroboration",
+        "Parce que seule la fausse qualité peut constituer l'élément matériel de cette infraction",
+        "Parce que le mensonge oral est par principe inopposable devant les juridictions pénales",
+        "Parce que la victime doit nécessairement être une personne morale pour ce délit"
+      ],
+      "answer": 0,
+      "explanation": "La jurisprudence (notamment Crim. 19 mars 2014) exige une opération impliquant une machination, un montage, ou une corroboration par un tiers ou par un écrit ; le simple mensonge, même habile, ne caractérise pas à lui seul une manœuvre frauduleuse.",
+      "tags": [
+        "escroquerie",
+        "jurisprudence"
+      ]
+    },
+    {
+      "id": "tromperies-qcm-002",
+      "question": "Sur quoi peut porter la remise obtenue par l'escroc au sens de l'article 313-1 du code pénal ?",
+      "options": [
+        "Uniquement des fonds ou valeurs, à l'exclusion de tout service ou engagement juridique",
+        "Des fonds, valeurs, un bien quelconque, un service ou un acte emportant obligation",
+        "Seulement des biens meubles corporels susceptibles d'appropriation matérielle directe",
+        "Exclusivement des biens immobiliers faisant l'objet d'un acte notarié préalable"
+      ],
+      "answer": 1,
+      "explanation": "L'objet de la remise est très large : il englobe les fonds, valeurs, tout bien quelconque, mais aussi un service rendu ou un acte opérant obligation ou décharge, ce qui inclut notamment les engagements, renonciations ou titres de propriété.",
+      "tags": [
+        "escroquerie",
+        "element-materiel"
+      ]
+    },
+    {
+      "id": "tromperies-qcm-003",
+      "question": "Quelle est la nature du préjudice exigé pour la consommation de l'infraction d'escroquerie ?",
+      "options": [
+        "Un préjudice exclusivement matériel et chiffrable, évalué au jour des poursuites",
+        "Un préjudice moral suffit, sans qu'il soit nécessairement relevé par le juge du fond",
+        "Aucun préjudice n'est jamais exigé, l'infraction étant purement formelle en tout cas",
+        "Un préjudice corporel constaté médicalement, distinct de toute perte financière"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence admet que le préjudice moral suffit à caractériser l'escroquerie, et qu'il n'est pas nécessaire qu'il soit expressément relevé par les juges dès lors qu'il résulte de l'accomplissement même des actes constitutifs.",
+      "tags": [
+        "escroquerie",
+        "prejudice"
+      ]
+    },
+    {
+      "id": "tromperies-qcm-004",
+      "question": "Quelle circonstance aggrave la peine encourue pour escroquerie en raison de la qualité de la victime ?",
+      "options": [
+        "La victime appartient à une profession libérale réglementée par un ordre professionnel",
+        "La victime se trouve en état de vulnérabilité liée à l'âge ou à une maladie grave",
+        "La victime réside dans un autre ressort territorial que celui de l'auteur des faits",
+        "La victime a déjà été partie à une instance civile contre ce même auteur des faits"
+      ],
+      "answer": 1,
+      "explanation": "Constitue une circonstance aggravante le fait que la victime soit particulièrement vulnérable en raison de son âge, d'une maladie, d'une infirmité, d'une déficience physique ou psychique ou d'un état de grossesse, portant la peine à 7 ans et 750 000 €.",
+      "tags": [
+        "escroquerie",
+        "circonstance-aggravante"
+      ]
+    },
+    {
+      "id": "tromperies-qcm-005",
+      "question": "Quel élément distingue la filouterie hôtelière de l'escroquerie classique ?",
+      "options": [
+        "La filouterie exige une remise effectuée exclusivement par un tiers à la victime",
+        "La filouterie repose sur le fait de se faire servir sans aucun procédé frauduleux",
+        "La filouterie nécessite que l'auteur ait usé d'un faux nom pour obtenir le service",
+        "La filouterie est exclue lorsque l'occupation des lieux dépasse dix journées entières"
+      ],
+      "answer": 1,
+      "explanation": "La filouterie ne requiert ni mensonge ni manœuvre frauduleuse : il suffit de se faire délivrer un bien ou un service avec l'intention initiale de ne pas payer ; c'est l'absence de tout procédé trompeur qui la distingue de l'escroquerie.",
+      "tags": [
+        "filouterie"
+      ]
+    },
+    {
+      "id": "tromperies-qcm-006",
+      "question": "Quelle double intention caractérise l'élément moral de la filouterie ?",
+      "options": [
+        "La détermination à ne pas payer et la conscience de l'impossibilité absolue de payer",
+        "La volonté de tromper le commerçant et l'usage conscient d'un document falsifié",
+        "L'intention de revendre le bien obtenu et la conscience d'agir en récidive légale",
+        "La volonté de nuire au commerçant et l'absence de toute ressource financière"
+      ],
+      "answer": 0,
+      "explanation": "L'élément moral de la filouterie suppose une double intention : la détermination initiale de ne pas régler la note, et la conscience d'être dans l'impossibilité absolue de payer au moment où le service ou le bien est fourni.",
+      "tags": [
+        "filouterie",
+        "element-intentionnel"
+      ]
+    },
+    {
+      "id": "tromperies-qcm-007",
+      "question": "Dans quel cas l'occupation d'un local par maintien après commandement de quitter les lieux est-elle exclue de répression ?",
+      "options": [
+        "Lorsque l'occupant invoque verbalement un motif économique non justifié par écrit",
+        "Lorsque les dispositions protectrices de la trêve hivernale ou du bailleur social existent",
+        "Lorsque le local concerné appartient à une personne physique non professionnelle",
+        "Lorsque le commandement n'a pas été notifié par voie d'huissier de justice compétent"
+      ],
+      "answer": 1,
+      "explanation": "La répression de l'occupation frauduleuse par maintien est exclue lorsque les protections de l'article L. 412-6 du code des procédures civiles d'exécution s'appliquent, notamment la trêve hivernale, le statut de bailleur social ou la présence d'un mineur.",
+      "tags": [
+        "occupation-frauduleuse"
+      ]
+    },
+    {
+      "id": "tromperies-qcm-008",
+      "question": "Quelle condition caractérise la vente frauduleuse de titres d'accès prévue à l'article 313-6-2 du code pénal ?",
+      "options": [
+        "La vente doit obligatoirement porter sur un billet de transport ferroviaire national",
+        "La revente doit être habituelle, sans autorisation de l'organisateur de l'événement",
+        "L'auteur doit nécessairement avoir constitué une société commerciale dédiée",
+        "La revente n'est jamais punissable lorsqu'elle intervient à un prix inférieur au tarif"
+      ],
+      "answer": 1,
+      "explanation": "L'infraction suppose la vente, l'offre ou l'exposition habituelle de titres d'accès à une manifestation sportive, culturelle ou commerciale, sans autorisation du producteur, de l'organisateur ou de l'ayant droit, et constitue un dol spécial intentionnel.",
+      "tags": [
+        "titres-acces"
+      ]
+    }
+  ]
+}
