@@ -1,0 +1,211 @@
+{
+  "id": "atteintes-mineur-famille",
+  "title": "Les atteintes au mineur et à la famille",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "mineur-famille-fc-001",
+      "front": "Pourquoi le Code pénal regroupe-t-il les atteintes aux mineurs et les atteintes à la famille dans un même chapitre ?",
+      "back": "Parce qu'il est difficile de séparer le mineur de son environnement familial ; le chapitre distingue toutefois les atteintes aux mineurs (Section 1) des atteintes à la famille (Section 2).",
+      "tags": [
+        "mineur",
+        "famille"
+      ]
+    },
+    {
+      "id": "mineur-famille-fc-002",
+      "front": "Quelle est la spécificité de l'élément matériel du délaissement de mineur prévu à l'article 227-1 ?",
+      "back": "C'est une infraction formelle : l'abandon d'un mineur de quinze ans dans des conditions compromettant sa santé ou sa sécurité suffit, sans exigence d'un résultat dommageable effectivement réalisé.",
+      "tags": [
+        "délaissement de mineur",
+        "infraction formelle"
+      ]
+    },
+    {
+      "id": "mineur-famille-fc-003",
+      "front": "Quelle preuve la jurisprudence actuelle exige-t-elle pour caractériser l'abandon de famille ?",
+      "back": "Elle exige la preuve d'un défaut de paiement volontaire, alors que sous l'ancien Code pénal l'intention était présumée du seul défait de paiement de la dette familiale due pendant plus de deux mois.",
+      "tags": [
+        "abandon de famille",
+        "élément moral"
+      ]
+    },
+    {
+      "id": "mineur-famille-fc-004",
+      "front": "Quelle différence sépare la soustraction d'enfant par un ascendant de celle commise par un tiers ?",
+      "back": "Commise par un ascendant (art. 227-7), elle est punie d'un an d'emprisonnement et 15 000 euros d'amende ; commise par toute autre personne sans fraude ni violence (art. 227-8), elle est punie de 5 ans et 75 000 euros.",
+      "tags": [
+        "soustraction d'enfant",
+        "article 227-7"
+      ]
+    },
+    {
+      "id": "mineur-famille-fc-005",
+      "front": "Que sanctionne l'article 227-13 relatif à la substitution, simulation ou dissimulation d'enfant ?",
+      "back": "Il sanctionne la substitution volontaire d'enfants entre deux femmes, l'attribution mensongère d'un enfant à une femme, ou la dissimulation de la filiation d'un enfant, dès lors qu'il en résulte une atteinte à l'état civil de l'enfant.",
+      "tags": [
+        "article 227-13",
+        "filiation"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "mineur-famille-qcm-001",
+      "question": "Quelle est la nature de l'infraction de délaissement de mineur au regard du résultat dommageable ?",
+      "options": [
+        "Une infraction de résultat, exigeant la preuve d'une atteinte effective à la santé",
+        "Une infraction formelle, le seul risque créé par l'abandon suffisant à la caractériser",
+        "Une infraction matérielle ne requérant aucun élément intentionnel dans le chef de l'auteur",
+        "Une infraction obstacle réprimant uniquement la préparation d'un abandon non réalisé"
+      ],
+      "answer": 1,
+      "explanation": "Le délaissement de mineur (art. 227-1) est une infraction formelle : le risque créé pour la santé ou la sécurité du mineur abandonné suffit, sans qu'un résultat dommageable effectif soit exigé.",
+      "tags": [
+        "délaissement de mineur"
+      ]
+    },
+    {
+      "id": "mineur-famille-qcm-002",
+      "question": "Quelle peine est encourue en cas de délaissement de mineur ayant entraîné la mort de la victime ?",
+      "options": [
+        "Sept ans d'emprisonnement et cent mille euros d'amende, sans circonstance aggravante",
+        "Vingt ans de réclusion criminelle, peine réservée aux atteintes involontaires uniquement",
+        "Trente ans de réclusion criminelle, conformément à l'aggravation prévue en cas de mort",
+        "Quinze ans de réclusion criminelle, peine équivalente à celle des violences habituelles"
+      ],
+      "answer": 2,
+      "explanation": "L'article 227-2 prévoit une aggravation à trente ans de réclusion criminelle lorsque le délaissement de mineur a entraîné la mort de la victime, contre vingt ans en cas de mutilation ou d'infirmité permanente.",
+      "tags": [
+        "article 227-2",
+        "circonstance aggravante"
+      ]
+    },
+    {
+      "id": "mineur-famille-qcm-003",
+      "question": "Depuis quelle réforme le fait de maintenir un enfant de moins de six ans dans la rue pour mendier est-il assimilé à une privation de soins ?",
+      "options": [
+        "Depuis une réforme intervenue en 2003, ajoutée au texte réprimant la privation de soins",
+        "Depuis une loi récente relative à la lutte contre les violences intrafamiliales",
+        "Depuis l'entrée en vigueur du nouveau Code pénal, au début des années quatre-vingt-dix",
+        "Cette situation n'est pas spécifiquement visée par le Code pénal en vigueur actuellement"
+      ],
+      "answer": 0,
+      "explanation": "Depuis 2003, l'alinéa 2 de l'article 227-15 assimile à une privation de soins le fait de maintenir un enfant de moins de six ans sur la voie publique ou dans un transport collectif pour solliciter la générosité des passants.",
+      "tags": [
+        "article 227-15",
+        "privation de soins"
+      ]
+    },
+    {
+      "id": "mineur-famille-qcm-004",
+      "question": "Quelle nouveauté la loi du 13 juin 2025 a-t-elle introduite à l'article 227-18-2 ?",
+      "options": [
+        "Elle a supprimé toute incrimination relative à la provocation à l'usage de stupéfiants",
+        "Elle a créé un délit de publication en ligne d'un contenu sur les stupéfiants pour mineurs",
+        "Elle a réduit la peine encourue en cas de provocation d'un mineur à l'usage de stupéfiants",
+        "Elle a transféré ce contentieux à la compétence des juridictions administratives"
+      ],
+      "answer": 1,
+      "explanation": "La loi du 13 juin 2025, dite anti-narcotrafic, a créé l'article 227-18-2 qui incrimine la publication en ligne d'un contenu accessible aux mineurs proposant l'usage ou le trafic de stupéfiants.",
+      "tags": [
+        "loi du 13 juin 2025",
+        "stupéfiants"
+      ]
+    },
+    {
+      "id": "mineur-famille-qcm-005",
+      "question": "Que sanctionne l'article 227-22-1 relatif aux propositions sexuelles faites à un mineur ?",
+      "options": [
+        "Toute proposition sexuelle faite à un mineur, quel que soit le moyen employé pour la faire",
+        "Le fait pour un majeur de proposer sexuellement un mineur de quinze ans par voie numérique",
+        "Uniquement les propositions sexuelles ayant été suivies d'une rencontre effective réelle",
+        "Les seules propositions sexuelles formulées par un mineur à l'égard d'un autre mineur"
+      ],
+      "answer": 1,
+      "explanation": "L'article 227-22-1 sanctionne le fait pour un majeur de faire des propositions sexuelles à un mineur de quinze ans, ou se présentant comme tel, par un moyen de communication électronique.",
+      "tags": [
+        "article 227-22-1"
+      ]
+    },
+    {
+      "id": "mineur-famille-qcm-006",
+      "question": "Quelle condition cumulative caractérise la corruption de mineur de l'article 227-22 ?",
+      "options": [
+        "Le mineur doit avoir déjà été corrompu avant les faits reprochés à l'auteur poursuivi",
+        "Aucune corruption préalable du mineur n'est exigée, la tentative de corruption suffisant",
+        "L'auteur doit nécessairement appartenir à un réseau organisé agissant sur internet",
+        "Le mineur doit avoir moins de quinze ans pour que l'infraction soit constituée"
+      ],
+      "answer": 1,
+      "explanation": "L'article 227-22 punit le fait de favoriser ou de tenter de favoriser la corruption d'un mineur, sans qu'il soit nécessaire que ce dernier ait déjà été effectivement corrompu auparavant.",
+      "tags": [
+        "corruption de mineur",
+        "article 227-22"
+      ]
+    },
+    {
+      "id": "mineur-famille-qcm-007",
+      "question": "Quelle exigence pèse sur le débiteur qui invoque son impossibilité de payer en matière d'abandon de famille ?",
+      "options": [
+        "Il doit seulement démontrer une baisse récente de ses revenus depuis le jugement rendu",
+        "Il doit lui-même prouver l'impossibilité absolue de payer, sans qu'un redressement suffise",
+        "Aucune preuve n'est exigée du débiteur, la charge reposant entièrement sur le créancier",
+        "Il suffit d'établir l'absence de mise en demeure préalable adressée par le créancier"
+      ],
+      "answer": 1,
+      "explanation": "Le débiteur poursuivi pour abandon de famille doit lui-même prouver l'impossibilité absolue de payer ; ni l'absence de mise en demeure ni un redressement judiciaire ne suffisent à l'exonérer.",
+      "tags": [
+        "abandon de famille"
+      ]
+    },
+    {
+      "id": "mineur-famille-qcm-008",
+      "question": "Comment la CEDH a-t-elle apprécié la condamnation d'une mère pour non-représentation d'enfant ?",
+      "options": [
+        "Elle a estimé qu'une condamnation privative de liberté de cette mère était exagérée",
+        "Elle a validé sans réserve toute peine d'emprisonnement prononcée en pareille hypothèse",
+        "Elle a jugé que cette infraction était contraire au principe de légalité des peines",
+        "Elle a refusé de se prononcer, la matière relevant exclusivement du droit interne français"
+      ],
+      "answer": 0,
+      "explanation": "La Cour européenne des droits de l'homme a estimé exagérée la condamnation d'une mère à une peine privative de liberté pour non-représentation d'enfant au sens de l'article 227-5.",
+      "tags": [
+        "non-représentation d'enfant",
+        "cedh"
+      ]
+    },
+    {
+      "id": "mineur-famille-qcm-009",
+      "question": "Quelle est l'incrimination retenue lorsqu'un intermédiaire facilite l'abandon d'un enfant dans le cadre d'une gestation pour autrui ?",
+      "options": [
+        "Cette situation échappe à toute incrimination spécifique du droit pénal en vigueur",
+        "Un texte qui punit plus sévèrement cette forme d'intermédiation dans l'abandon d'enfant",
+        "Un texte qui ne vise que la substitution ou la dissimulation volontaire d'un enfant",
+        "Un texte réservé à la soustraction d'enfant commise par un ascendant de la victime"
+      ],
+      "answer": 1,
+      "explanation": "L'article 227-12, alinéas 2 et 3, punit plus sévèrement le fait de faciliter l'abandon d'un enfant en s'entremettant entre les parties, notamment dans le cadre d'une gestation pour autrui.",
+      "tags": [
+        "article 227-12",
+        "gestation pour autrui"
+      ]
+    },
+    {
+      "id": "mineur-famille-qcm-010",
+      "question": "Quelle particularité de compétence s'applique aux infractions de ce chapitre commises à l'étranger par un Français ?",
+      "options": [
+        "Une compétence extraterritoriale existe, sans exigence de plainte préalable de la victime",
+        "Aucune poursuite n'est possible en France, seule la juridiction étrangère étant compétente",
+        "Une plainte préalable de la victime demeure systématiquement exigée avant toute poursuite",
+        "La compétence extraterritoriale vise seulement les infractions sur les plus jeunes mineurs"
+      ],
+      "answer": 0,
+      "explanation": "L'article 227-27-1 institue une compétence extraterritoriale pour les infractions de ce chapitre commises à l'étranger par un Français, sans exiger de plainte préalable de la victime.",
+      "tags": [
+        "compétence extraterritoriale",
+        "article 227-27-1"
+      ]
+    }
+  ]
+}

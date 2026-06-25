@@ -197,6 +197,24 @@
       "file": "atteintes-dignite-personne.json",
       "title": "Les atteintes à la dignité de la personne",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "atteintes-honneur",
+      "file": "atteintes-honneur.json",
+      "title": "Les atteintes à l'honneur de la personne — Diffamation et injure",
+      "category": "Droit pénal spécial"
+    },
+    {
+      "id": "atteintes-intimite-secret",
+      "file": "atteintes-intimite-secret.json",
+      "title": "Les atteintes à l'intimité ou au secret",
+      "category": "Droit pénal spécial"
+    },
+    {
+      "id": "atteintes-mineur-famille",
+      "file": "atteintes-mineur-famille.json",
+      "title": "Les atteintes au mineur et à la famille",
+      "category": "Droit pénal spécial"
     }
   ]
 }

@@ -1,0 +1,212 @@
+{
+  "id": "atteintes-honneur",
+  "title": "Les atteintes à l'honneur de la personne — Diffamation et injure",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "honneur-fc-001",
+      "front": "Dans quel texte la diffamation et l'injure sont-elles incriminées, et pourquoi cela importe-t-il ?",
+      "back": "Elles sont incriminées par la loi du 29 juillet 1881 sur la liberté de la presse (art. 29), non par le Code pénal, d'où des règles dérogatoires de poursuite, de prescription et d'imputation des responsabilités.",
+      "tags": [
+        "loi 1881",
+        "diffamation"
+      ]
+    },
+    {
+      "id": "honneur-fc-002",
+      "front": "Comment distinguer la diffamation de l'injure dans leurs éléments matériels ?",
+      "back": "La diffamation suppose l'imputation d'un fait précis et vérifiable portant atteinte à l'honneur ou à la considération ; l'injure est une expression outrageante ou une invective sans imputation d'aucun fait précis.",
+      "tags": [
+        "diffamation",
+        "injure"
+      ]
+    },
+    {
+      "id": "honneur-fc-003",
+      "front": "Quel est le délai de prescription applicable à la diffamation et à l'injure, et son exception ?",
+      "back": "Le délai est de 3 mois à compter de la commission ou de la fin de la diffusion (art. 65), au lieu des 6 ans de droit commun ; il est porté à 1 an si les faits présentent un caractère discriminatoire.",
+      "tags": [
+        "prescription",
+        "article 65"
+      ]
+    },
+    {
+      "id": "honneur-fc-004",
+      "front": "Qu'est-ce que l'imputation en cascade prévue par l'article 42 de la loi de 1881 ?",
+      "back": "Elle désigne l'ordre de responsabilité pénale en cas de diffamation ou d'injure publique : 1° le directeur de publication ou éditeur ; 2° à défaut, l'auteur ; 3° à défaut, l'imprimeur ; 4° à défaut, les vendeurs, distributeurs ou afficheurs.",
+      "tags": [
+        "imputation en cascade",
+        "article 42"
+      ]
+    },
+    {
+      "id": "honneur-fc-005",
+      "front": "Quelle est la condition de forme stricte attachée à l'exceptio veritatis dans la diffamation ?",
+      "back": "L'article 35 impose une offre de preuve formulée dans les 10 jours, et exclut ce fait justificatif lorsque les faits allégués relèvent de la vie privée, depuis la décision du Conseil constitutionnel du 7 juin 2013.",
+      "tags": [
+        "exceptio veritatis",
+        "article 35"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "honneur-qcm-001",
+      "question": "Quelle est la principale différence entre la diffamation et l'injure ?",
+      "options": [
+        "La diffamation impute un fait précis vérifiable, l'injure est une invective sans fait",
+        "La diffamation vise un fonctionnaire, l'injure ne vise que les particuliers identifiés",
+        "La diffamation suppose la mauvaise foi, l'injure est toujours commise de bonne foi",
+        "La diffamation est un crime, l'injure n'est qu'une simple contravention de police"
+      ],
+      "answer": 0,
+      "explanation": "La diffamation suppose l'imputation d'un fait précis et vérifiable, contradictoirement débattable. L'injure, à défaut d'un tel fait, n'est qu'une expression outrageante ou une invective.",
+      "tags": [
+        "diffamation",
+        "injure"
+      ]
+    },
+    {
+      "id": "honneur-qcm-002",
+      "question": "Comment la jurisprudence apprécie-t-elle le caractère diffamatoire ou injurieux des propos ?",
+      "options": [
+        "Selon le ressenti subjectif exclusif de la victime, seul juge de son propre honneur",
+        "Selon l'opinion publique majoritaire telle qu'elle existait au moment des propos",
+        "De façon objective, par référence à l'individu moyen, sans tenir compte du ressenti",
+        "Selon l'intention affichée par l'auteur des propos au moment des faits litigieux"
+      ],
+      "answer": 2,
+      "explanation": "La Cour de cassation retient une appréciation objective, par référence à l'individu moyen, indifférente au ressenti de la victime ou à l'opinion publique (Crim. 30 mars 2016 ; 4 sept. 2024).",
+      "tags": [
+        "appréciation objective"
+      ]
+    },
+    {
+      "id": "honneur-qcm-003",
+      "question": "Quel élément peut neutraliser le caractère injurieux de propos par ailleurs outrageants ?",
+      "options": [
+        "Le seul fait que l'auteur soit une personnalité publique connue du grand public",
+        "Le contexte d'un débat politique ou un registre humoristique reconnu par les juges",
+        "L'absence de plainte préalable déposée par la victime dans le délai légal imparti",
+        "La diffusion limitée des propos auprès d'un cercle restreint et confidentiel"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence admet que le contexte d'un débat politique ou un registre humoristique peut neutraliser le caractère injurieux des propos (Crim. 9 déc. 2014 ; Ass. plén. 25 oct. 2019).",
+      "tags": [
+        "injure",
+        "fait justificatif"
+      ]
+    },
+    {
+      "id": "honneur-qcm-004",
+      "question": "Sous quelle condition la provocation peut-elle justifier une injure ?",
+      "options": [
+        "Si la provocation est immédiate et en relation directe avec l'injure proférée",
+        "Si l'auteur démontre une proportionnalité stricte entre provocation et réponse",
+        "Si la victime a elle-même reconnu publiquement le caractère injurieux des propos",
+        "Si l'injure a été proférée devant un nombre restreint de témoins identifiés"
+      ],
+      "answer": 0,
+      "explanation": "L'article 33 alinéa 2 admet la provocation comme fait justificatif de l'injure si elle est immédiate et en relation directe avec l'injure, sans exigence stricte de proportionnalité (Crim. 16 avr. 1985).",
+      "tags": [
+        "provocation",
+        "article 33"
+      ]
+    },
+    {
+      "id": "honneur-qcm-005",
+      "question": "Quelle condition de poursuite régit en principe la diffamation et l'injure entre particuliers ?",
+      "options": [
+        "Une plainte préalable de la victime est requise, sauf hypothèse discriminatoire visée",
+        "Seul le procureur peut engager les poursuites, sans intervention possible de la victime",
+        "Aucune plainte n'est nécessaire, le ministère public agit toujours systématiquement",
+        "La victime doit obtenir l'autorisation du juge d'instruction avant de se constituer"
+      ],
+      "answer": 0,
+      "explanation": "L'article 48 impose une plainte préalable dont le retrait met fin aux poursuites, sauf en cas de diffamation ou injure à caractère discriminatoire, poursuivie d'office (art. 48, 6°).",
+      "tags": [
+        "plainte préalable",
+        "article 48"
+      ]
+    },
+    {
+      "id": "honneur-qcm-006",
+      "question": "Quelle est la notion qui conditionne la qualification de délit plutôt que de contravention ?",
+      "options": [
+        "La qualité professionnelle de l'auteur des propos diffamatoires ou injurieux tenus",
+        "La notion de publicité, qui conditionne la qualification de délit ou de contravention",
+        "Le montant du préjudice moral effectivement subi et chiffré devant la juridiction",
+        "La durée pendant laquelle les propos litigieux sont restés accessibles au public"
+      ],
+      "answer": 1,
+      "explanation": "L'article 23, sur renvoi de l'article 29 alinéa 1, définit la publicité (lieux publics, écrits diffusés, affiches, communication électronique) qui conditionne la qualification de délit plutôt que de contravention.",
+      "tags": [
+        "publicité",
+        "article 23"
+      ]
+    },
+    {
+      "id": "honneur-qcm-007",
+      "question": "Un message confiné à une communauté d'intérêts restreinte est-il considéré comme public ?",
+      "options": [
+        "Oui, toute diffusion écrite est automatiquement assimilée à une diffusion publique",
+        "Non, ce message échappe à la qualification de publicité selon la jurisprudence récente",
+        "Oui, mais seulement si plus de dix destinataires ont effectivement reçu le message",
+        "Non, mais uniquement lorsque le message est rédigé en des termes injurieux explicites"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence exclut de la notion de publicité le message confiné à une communauté d'intérêts, destinataires peu nombreux unis par un intérêt commun (Crim. 14 juin 2022 ; 3 avr. 2024).",
+      "tags": [
+        "communauté d'intérêts"
+      ]
+    },
+    {
+      "id": "honneur-qcm-008",
+      "question": "Quelle peine encourt la diffamation publique aggravée par une circonstance discriminatoire ?",
+      "options": [
+        "Une simple amende contraventionnelle de 38 euros, identique au régime non public",
+        "Un an d'emprisonnement et 45 000 euros d'amende, avec affichage possible de la décision",
+        "Trois ans d'emprisonnement et 75 000 euros d'amende, réservés aux agents publics",
+        "Une peine de réclusion criminelle pouvant atteindre vingt ans d'emprisonnement"
+      ],
+      "answer": 1,
+      "explanation": "L'article 32 alinéas 2 et 3 prévoit un an d'emprisonnement et 45 000 euros d'amende lorsque la diffamation publique présente une circonstance discriminatoire, avec affichage possible.",
+      "tags": [
+        "circonstance discriminatoire",
+        "article 32"
+      ]
+    },
+    {
+      "id": "honneur-qcm-009",
+      "question": "Quelles sont les immunités prévues par l'article 41 de la loi de 1881 ?",
+      "options": [
+        "L'immunité parlementaire et l'immunité judiciaire, limitées aux faits de la cause",
+        "L'immunité diplomatique, valable uniquement pour les agents consulaires en poste",
+        "L'immunité totale accordée à tout journaliste agissant dans l'exercice de sa fonction",
+        "L'immunité présidentielle, qui couvre l'ensemble des actes du chef de l'État"
+      ],
+      "answer": 0,
+      "explanation": "L'article 41 prévoit l'immunité parlementaire (débats à l'Assemblée ou au Sénat) et l'immunité judiciaire (débats devant les tribunaux, comptes rendus fidèles), limitées aux faits de la cause et sans exclure les dommages-intérêts.",
+      "tags": [
+        "immunités",
+        "article 41"
+      ]
+    },
+    {
+      "id": "honneur-qcm-010",
+      "question": "Comment se présume la mauvaise foi en matière de diffamation ?",
+      "options": [
+        "Elle doit être prouvée positivement par la victime devant la juridiction saisie",
+        "Elle est présumée dès que le fait matériel diffamatoire est établi par le juge",
+        "Elle ne joue aucun rôle, la diffamation étant une infraction purement matérielle",
+        "Elle est exclue dès lors que l'auteur invoque un véritable débat d'intérêt général"
+      ],
+      "answer": 1,
+      "explanation": "L'élément moral de la diffamation est intentionnel, et la mauvaise foi est présumée dès que le fait matériel est établi ; la preuve de la bonne foi est appréciée strictement par la jurisprudence.",
+      "tags": [
+        "mauvaise foi",
+        "élément moral"
+      ]
+    }
+  ]
+}
