@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782399606435,
+  "updatedAt": 1782399621148,
   "themes": {
     "penal": {
       "items": {
@@ -4359,11 +4359,11 @@
           "lastSeenAt": 1782398838683
         },
         "detournements-qcm-006": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1782398851839
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782399617138
         },
         "tromperies-qcm-006": {
           "level": 1,
