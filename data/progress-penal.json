@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782399446488,
+  "updatedAt": 1782399451831,
   "themes": {
     "penal": {
       "items": {
@@ -4504,6 +4504,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1782399435326
+        },
+        "tromperies-qcm-005": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1782399447825
         }
       }
     },
