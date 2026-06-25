@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782253011804,
+  "updatedAt": 1782398415738,
   "themes": {
     "penal": {
       "items": {
@@ -4189,6 +4189,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1782252965197
+        },
+        "detournements-qcm-001": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782398411730
         }
       }
     },
