@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782398869226,
+  "updatedAt": 1782398879634,
   "themes": {
     "penal": {
       "items": {
@@ -4338,11 +4338,11 @@
           "lastSeenAt": 1782398772285
         },
         "detournements-qcm-007": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1782398806672
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782398875629
         },
         "mineur-famille-qcm-005": {
           "level": 1,
