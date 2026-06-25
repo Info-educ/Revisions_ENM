@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782399264293,
+  "updatedAt": 1782399276731,
   "themes": {
     "penal": {
       "items": {
@@ -4441,6 +4441,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1782399260282
+        },
+        "soustractions-qcm-002": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782399272721
         }
       }
     },
