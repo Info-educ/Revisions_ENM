@@ -1,9 +1,303 @@
 {
   "version": 2,
-  "updatedAt": 1781898250522,
+  "updatedAt": 1782490547701,
   "themes": {
     "penal": {
       "items": {
+        "atteintes-dignite-qcm-001": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314621328
+        },
+        "atteintes-liberte-qcm-004": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782312384143
+        },
+        "indifference-qcm-001": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782312405009
+        },
+        "atteintes-liberte-qcm-008": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782312417809
+        },
+        "atteintes-liberte-qcm-005": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782312425849
+        },
+        "infractions-sexuelles-qcm-014": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782312455258
+        },
+        "infractions-sexuelles-qcm-006": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314121680
+        },
+        "infractions-sexuelles-qcm-013": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782312479802
+        },
+        "infractions-sexuelles-qcm-012": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313686746
+        },
+        "infractions-sexuelles-qcm-005": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782312549213
+        },
+        "indifference-qcm-002": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313110375
+        },
+        "atteintes-dignite-qcm-005": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313103103
+        },
+        "indifference-qcm-003": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313142560
+        },
+        "atteintes-dignite-qcm-012": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313154305
+        },
+        "atteintes-dignite-qcm-009": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313168482
+        },
+        "infractions-sexuelles-qcm-008": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313199794
+        },
+        "atteintes-liberte-qcm-007": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313737828
+        },
+        "infractions-sexuelles-qcm-010": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314734645
+        },
+        "atteintes-liberte-qcm-001": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313707659
+        },
+        "atteintes-liberte-qcm-011": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314128945
+        },
+        "infractions-sexuelles-qcm-002": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313725730
+        },
+        "atteintes-dignite-qcm-007": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782313827999
+        },
+        "atteintes-dignite-qcm-011": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314069614
+        },
+        "infractions-sexuelles-qcm-007": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314091688
+        },
+        "atteintes-liberte-qcm-003": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314813535
+        },
+        "infractions-sexuelles-qcm-015": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314684690
+        },
+        "infractions-sexuelles-qcm-004": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314633033
+        },
+        "atteintes-dignite-qcm-010": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314181091
+        },
+        "atteintes-dignite-qcm-004": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314195715
+        },
+        "atteintes-dignite-qcm-008": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314579768
+        },
+        "atteintes-liberte-qcm-002": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314602208
+        },
+        "atteintes-dignite-qcm-003": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314612800
+        },
+        "atteintes-dignite-qcm-002": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314644209
+        },
+        "atteintes-liberte-qcm-012": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314659546
+        },
+        "atteintes-dignite-qcm-006": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314780213
+        },
+        "atteintes-liberte-qcm-009": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314852912
+        },
+        "atteintes-liberte-qcm-006": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314793262
+        },
+        "infractions-sexuelles-qcm-009": {
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314885337
+        },
+        "atteintes-liberte-qcm-010": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314847112
+        },
+        "infractions-sexuelles-qcm-011": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314899938
+        },
+        "infractions-sexuelles-qcm-003": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314920067
+        },
+        "infractions-sexuelles-qcm-001": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782314927356
+        },
         "legalite-fc-002": {
           "level": 0,
           "seenCount": 2,
