@@ -1,0 +1,114 @@
+{
+  "id": "recel-blanchiment",
+  "title": "Le recel et le blanchiment — Infractions de conséquence",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "recel-blanchiment-fc-001",
+      "front": "Pourquoi le recel et le blanchiment sont-ils qualifiés d'infractions de conséquence ?",
+      "back": "Parce qu'ils se commettent en prolongement d'une infraction antérieure, un crime ou un délit déjà réalisé, dont ils profitent (recel) ou dont ils dissimulent l'origine frauduleuse des fonds ou des biens (blanchiment).",
+      "tags": [
+        "infraction-consequence"
+      ]
+    },
+    {
+      "id": "recel-blanchiment-fc-002",
+      "front": "Quelle différence fondamentale sépare le recel et le blanchiment quant à la nature de l'infraction dans le temps ?",
+      "back": "Le recel est une infraction continue, dont la prescription court à compter de la fin de la détention, tandis que le blanchiment est une infraction instantanée selon la jurisprudence, sauf hypothèse de blanchiment occulte où la prescription est reportée au jour de sa découverte.",
+      "tags": [
+        "recel",
+        "blanchiment",
+        "infraction-continue"
+      ]
+    },
+    {
+      "id": "recel-blanchiment-fc-003",
+      "front": "L'auteur de l'infraction d'origine peut-il être poursuivi pour recel ou pour blanchiment des biens qui en sont issus ?",
+      "back": "Non pour le recel, les qualifications étant incompatibles avec celle de l'auteur de l'infraction d'origine ; en revanche l'auto-blanchiment est admis par la jurisprudence, l'auteur pouvant être condamné pour avoir lui-même facilité ou dissimulé l'origine de son profit illicite.",
+      "tags": [
+        "auto-recel",
+        "auto-blanchiment"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "recel-blanchiment-qcm-001",
+      "question": "Quelle catégorie d'infraction d'origine est exclue du champ d'application du recel ?",
+      "options": [
+        "Les délits commis par une personne déjà condamnée pour des faits similaires antérieurs",
+        "Les contraventions, en application du principe de légalité des délits et des peines",
+        "Les crimes commis à l'étranger par un ressortissant français non domicilié en France",
+        "Les délits dont la victime est une personne morale de droit public identifiée"
+      ],
+      "answer": 1,
+      "explanation": "Le recel suppose que la chose provienne d'un crime ou d'un délit ; les contraventions sont exclues du champ de l'infraction d'origine en application du principe de légalité, qui impose une interprétation stricte du texte d'incrimination.",
+      "tags": [
+        "recel",
+        "infraction-origine"
+      ]
+    },
+    {
+      "id": "recel-blanchiment-qcm-002",
+      "question": "Comment la jurisprudence caractérise-t-elle le recel-profit, par opposition au recel-détention ?",
+      "options": [
+        "Il exige une détention matérielle continue du bien recelé pendant une durée minimale",
+        "Il peut être caractérisé sans détention matérielle, par le seul bénéfice tiré du produit",
+        "Il ne peut concerner que des biens meubles corporels expressément identifiés par le juge",
+        "Il suppose nécessairement la complicité active de l'auteur de l'infraction d'origine"
+      ],
+      "answer": 1,
+      "explanation": "Le recel-profit, visé par l'alinéa 2 de l'article 321-1, est caractérisé dès lors qu'une personne bénéficie en connaissance de cause du produit de l'infraction, sans qu'une détention matérielle du bien recelé soit nécessaire, comme l'illustre la jurisprudence relative au train de vie.",
+      "tags": [
+        "recel-profit"
+      ]
+    },
+    {
+      "id": "recel-blanchiment-qcm-003",
+      "question": "À partir de quel moment la mauvaise foi doit-elle être caractérisée pour que le recel soit constitué ?",
+      "options": [
+        "Dès le début de l'acte de détention, la découverte ultérieure ne suffisant pas",
+        "Uniquement au moment où le receleur transmet la chose détenue à un tiers identifié",
+        "Au moment où l'enquête révèle officiellement l'origine frauduleuse du bien détenu",
+        "Peu importe le moment, la seule détention matérielle suffisant à elle seule"
+      ],
+      "answer": 0,
+      "explanation": "La jurisprudence exige que la connaissance de l'origine frauduleuse existe dès le début de l'acte de détention ; échappe à la répression celui qui, ayant découvert après coup cette origine, continue simplement de détenir le bien sans connaissance initiale.",
+      "tags": [
+        "recel",
+        "element-moral"
+      ]
+    },
+    {
+      "id": "recel-blanchiment-qcm-004",
+      "question": "Quels sont les trois procédés visés par l'alinéa 2 de l'article 324-1 du code pénal en matière de blanchiment ?",
+      "options": [
+        "Le placement, la conversion ou l'empilage, et la dissimulation des fonds illicites",
+        "La détention, la transmission et l'intermédiation portant sur le produit d'un délit",
+        "La falsification de documents, l'usurpation d'identité et la corruption d'agent public",
+        "La constitution de société écran, la fraude fiscale et l'abus de biens sociaux"
+      ],
+      "answer": 0,
+      "explanation": "L'alinéa 2 de l'article 324-1 vise le fait d'apporter son concours à une opération de placement, de conversion ou d'empilage, ou de dissimulation du produit direct ou indirect d'un crime ou d'un délit, chacun de ces procédés suffisant à caractériser le délit.",
+      "tags": [
+        "blanchiment",
+        "element-materiel"
+      ]
+    },
+    {
+      "id": "recel-blanchiment-qcm-005",
+      "question": "L'infraction d'origine doit-elle nécessairement avoir été jugée pour que le recel ou le blanchiment soit poursuivable ?",
+      "options": [
+        "Oui, une décision de condamnation définitive sur l'infraction d'origine est requise",
+        "Non, il suffit que l'infraction d'origine ait été commise, sans jugement préalable",
+        "Oui, sauf pour le blanchiment qui peut être poursuivi sans aucune infraction d'origine",
+        "Non, mais uniquement lorsque l'infraction d'origine est constituée par un crime"
+      ],
+      "answer": 1,
+      "explanation": "Il n'est pas nécessaire que l'infraction d'origine ait été jugée ou sanctionnée, à la réserve notable de la fraude fiscale qui requiert une plainte de l'administration ; il suffit qu'elle ait été réellement commise, fût-elle même prescrite pour le blanchiment.",
+      "tags": [
+        "infraction-origine"
+      ]
+    }
+  ]
+}

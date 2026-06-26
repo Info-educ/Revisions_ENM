@@ -1,0 +1,114 @@
+{
+  "id": "securite-publique",
+  "title": "Les atteintes à la sécurité publique — Terrorisme et intérêts fondamentaux de la Nation",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "securite-publique-fc-001",
+      "front": "Quel est le dol spécial caractéristique des infractions terroristes par finalité (art. 421-1 C. pén.) ?",
+      "back": "Un double élément intentionnel : l'auteur doit agir intentionnellement en relation avec une entreprise terroriste, individuelle ou collective, et dans le but de troubler gravement l'ordre public par l'intimidation ou la terreur.",
+      "tags": [
+        "terrorisme",
+        "dol-special"
+      ]
+    },
+    {
+      "id": "securite-publique-fc-002",
+      "front": "Quelle est la différence entre les infractions terroristes par finalité (art. 421-1) et par nature (art. 421-2) ?",
+      "back": "Les infractions par finalité qualifient des infractions de droit commun déjà existantes commises dans un contexte terroriste, alors que les infractions par nature, comme le terrorisme écologique, constituent un comportement autonome ne reposant pas sur une infraction de droit commun préexistante.",
+      "tags": [
+        "terrorisme",
+        "qualification"
+      ]
+    },
+    {
+      "id": "securite-publique-fc-003",
+      "front": "Quels intérêts sont protégés par les infractions visant les intérêts fondamentaux de la Nation (art. 410-1 C. pén.) ?",
+      "back": "L'indépendance et l'intégrité du territoire, la sécurité, la forme républicaine des institutions, les moyens de défense et la diplomatie, l'équilibre du milieu naturel et économique, ainsi que les éléments essentiels du potentiel scientifique et économique du pays.",
+      "tags": [
+        "interets-fondamentaux"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "securite-publique-qcm-001",
+      "question": "Quelle particularité distingue la trahison de l'espionnage au sein des infractions contre les intérêts fondamentaux de la Nation ?",
+      "options": [
+        "La trahison ne peut être commise qu'en temps de guerre déclarée officiellement",
+        "La trahison est réservée au Français ou militaire français, l'espionnage visant autrui",
+        "L'espionnage suppose l'intervention d'une puissance étrangère officiellement identifiée",
+        "La trahison exige la révélation d'un secret, l'espionnage un acte de sabotage précis"
+      ],
+      "answer": 1,
+      "explanation": "La trahison et l'espionnage reposent sur les mêmes infractions matérielles (livraison de territoire, intelligence avec une puissance étrangère, sabotage), mais se distinguent par la qualité de l'auteur : Français ou militaire français pour la trahison, toute autre personne pour l'espionnage.",
+      "tags": [
+        "trahison",
+        "espionnage"
+      ]
+    },
+    {
+      "id": "securite-publique-qcm-002",
+      "question": "Que vise le mécanisme dit des « repentis » prévu en matière d'atteintes aux intérêts fondamentaux de la Nation ?",
+      "options": [
+        "Une exemption de peine pour qui a averti et permis d'identifier d'autres coupables",
+        "Une réduction automatique de moitié de peine pour tout auteur reconnaissant les faits",
+        "Une procédure de médiation pénale réservée aux infractions commises par des mineurs",
+        "Une suspension de l'action publique en cas de réparation intégrale du préjudice causé"
+      ],
+      "answer": 0,
+      "explanation": "Le dispositif prévu permet une exemption de peine pour les auteurs ou complices qui ont averti les autorités administratives ou judiciaires et permis d'identifier d'autres coupables ou d'éviter la réalisation de dommages graves.",
+      "tags": [
+        "repentis",
+        "exemption-peine"
+      ]
+    },
+    {
+      "id": "securite-publique-qcm-003",
+      "question": "L'apologie du terrorisme peut-elle être réprimée sans limite au nom de la lutte contre le terrorisme ?",
+      "options": [
+        "Oui, aucune limite n'est posée dès lors que le contenu évoque des faits terroristes",
+        "Non, le Conseil constitutionnel exige une proportionnalité avec la liberté d'expression",
+        "Oui, mais uniquement si la diffusion s'effectue par voie de presse écrite traditionnelle",
+        "Non, cette infraction a été déclarée intégralement contraire à la Constitution et abrogée"
+      ],
+      "answer": 1,
+      "explanation": "Le Conseil constitutionnel a jugé que la répression de l'apologie du terrorisme devait respecter une exigence de proportionnalité au regard de la liberté d'expression, sans pour autant censurer le principe même de l'incrimination prévue par le texte.",
+      "tags": [
+        "apologie-terrorisme"
+      ]
+    },
+    {
+      "id": "securite-publique-qcm-004",
+      "question": "Quelle est la nature du lien exigé entre l'acte commis et l'entreprise terroriste pour l'infraction de l'article 421-1 ?",
+      "options": [
+        "Un lien purement matériel, indépendant de toute intention de l'auteur des faits",
+        "Un lien intentionnel, l'acte devant être préparé et organisé selon une stratégie",
+        "Un lien financier exclusif, caractérisé par le seul versement de fonds à l'organisation",
+        "Un lien géographique, l'acte devant être commis sur le territoire de l'entreprise visée"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence exige que l'acte soit préparé ou organisé et obéisse à une stratégie s'inscrivant dans le cadre d'une entreprise terroriste individuelle ou collective, ce lien intentionnel distinguant l'infraction terroriste de l'infraction de droit commun isolée.",
+      "tags": [
+        "entreprise-terroriste",
+        "jurisprudence"
+      ]
+    },
+    {
+      "id": "securite-publique-qcm-005",
+      "question": "Qu'incrimine spécifiquement l'infraction de complot au sein des atteintes aux institutions de la République ?",
+      "options": [
+        "La résolution entre plusieurs personnes de commettre un attentat, concrétisée par un acte",
+        "La simple manifestation d'opposition publique à une décision du gouvernement en place",
+        "La diffusion d'un programme politique critiquant la forme républicaine des institutions",
+        "L'organisation d'une réunion publique non autorisée par l'autorité préfectorale compétente"
+      ],
+      "answer": 0,
+      "explanation": "Le complot constitue une forme de tentative spécialement incriminée de l'attentat : il suppose une résolution arrêtée entre plusieurs personnes de commettre un attentat, concrétisée par un ou plusieurs actes matériels préparatoires à sa réalisation.",
+      "tags": [
+        "complot",
+        "attentat"
+      ]
+    }
+  ]
+}

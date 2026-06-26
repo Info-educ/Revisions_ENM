@@ -1,0 +1,114 @@
+{
+  "id": "atteintes-biens",
+  "title": "Les atteintes directes aux biens — Destructions et dégradations",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "atteintes-biens-fc-001",
+      "front": "Quelle distinction fondamentale structure le chapitre des destructions et dégradations de biens ?",
+      "back": "La distinction entre les destructions/dégradations sans danger pour les personnes (art. 322-1 à 322-4-1) et celles créant un danger pour les personnes (art. 322-5 à 322-11), ces dernières se subdivisant en formes intentionnelles et formes par imprudence.",
+      "tags": [
+        "distinction",
+        "destructions"
+      ]
+    },
+    {
+      "id": "atteintes-biens-fc-002",
+      "front": "Pourquoi la distinction entre dommage léger et dommage non léger est-elle déterminante pour les dégradations de l'article 322-1 ?",
+      "back": "Parce qu'elle commande la qualification retenue : le dommage léger relève de la contravention, tandis que tout dommage non léger constitue le délit de destruction, dégradation ou détérioration, malgré la difficulté pratique reconnue par la jurisprudence pour tracer cette frontière.",
+      "tags": [
+        "dommage-leger",
+        "qualification"
+      ]
+    },
+    {
+      "id": "atteintes-biens-fc-003",
+      "front": "Quel élément intentionnel caractérise les destructions dangereuses pour les personnes commises de façon intentionnelle (art. 322-6) ?",
+      "back": "La conscience d'employer un procédé de nature à créer un danger pour les personnes, sans qu'il soit nécessaire que l'auteur ait voulu porter atteinte à leur intégrité physique ; l'infraction est consommée même si personne n'a été effectivement mise en danger.",
+      "tags": [
+        "destruction-dangereuse",
+        "element-intentionnel"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "atteintes-biens-qcm-001",
+      "question": "Quelle condition relative au bien détruit ou dégradé est exigée par l'article 322-1 du code pénal ?",
+      "options": [
+        "Le bien doit appartenir à autrui, ce qui exclut la destruction de son propre bien",
+        "Le bien doit nécessairement être un meuble corporel inscrit sur un inventaire officiel",
+        "Le bien doit avoir une valeur marchande supérieure à un seuil fixé par voie réglementaire",
+        "Le bien doit appartenir exclusivement à une personne morale de droit privé identifiée"
+      ],
+      "answer": 0,
+      "explanation": "L'infraction suppose un bien appartenant à autrui ; détruire son propre bien n'est en principe pas punissable, sauf exception pour les biens classés, inscrits ou présentant un caractère culturel ou archéologique, pour lesquels la propriété n'a pas à être précisée.",
+      "tags": [
+        "bien-autrui"
+      ]
+    },
+    {
+      "id": "atteintes-biens-qcm-002",
+      "question": "Un copropriétaire peut-il être poursuivi pour la dégradation d'un bien indivis ou commun ?",
+      "options": [
+        "Non, la qualité de copropriétaire exclut systématiquement toute poursuite pour dégradation",
+        "Oui, dès lors que l'acte est contraire à la destination du bien ou prive un usage normal",
+        "Oui, mais uniquement lorsque le bien indivis figure sur un inventaire notarié préalable",
+        "Non, seule la voie civile permet de sanctionner un copropriétaire pour ce type de fait"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence admet que le propriétaire d'un bien indivis ou commun puisse être l'auteur de l'infraction lorsque son acte est contraire à la destination du bien ou prive un autre copropriétaire de la possibilité d'en user normalement.",
+      "tags": [
+        "bien-indivis",
+        "jurisprudence"
+      ]
+    },
+    {
+      "id": "atteintes-biens-qcm-003",
+      "question": "L'infraction de prévention des dégradations liées à l'installation sans autorisation sur le terrain d'autrui (art. 322-4-1) exige-t-elle un dommage effectif ?",
+      "options": [
+        "Oui, un dommage matériel constaté sur le terrain occupé est une condition de l'infraction",
+        "Non, il s'agit d'une infraction formelle ne requérant aucun dommage sur le terrain",
+        "Oui, mais seulement si l'installation dépasse la durée fixée par le schéma départemental",
+        "Non, car cette infraction relève exclusivement de la compétence civile et non pénale"
+      ],
+      "answer": 1,
+      "explanation": "L'article 322-4-1 du code pénal incrimine une infraction formelle : aucun dommage sur le terrain n'est requis, seul compte le fait de s'installer en réunion sans autorisation avec l'intention d'y établir une habitation même temporaire.",
+      "tags": [
+        "prevention-degradations"
+      ]
+    },
+    {
+      "id": "atteintes-biens-qcm-004",
+      "question": "La liberté d'expression peut-elle être invoquée pour justifier la réalisation de tags ou de graffitis ?",
+      "options": [
+        "Oui, dès lors que le message présente un caractère artistique ou politique manifeste",
+        "Non, la jurisprudence l'écarte tout en débattant de la proportionnalité de la sanction",
+        "Oui, mais uniquement lorsque le support visé appartient à une personne publique",
+        "Non, car l'article 10 de la Convention européenne ne s'applique jamais en matière pénale"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence considère que l'article 10 de la Convention européenne des droits de l'homme n'est pas invocable pour justifier des tags ou graffitis, même si la proportionnalité de la sanction prononcée peut, elle, faire l'objet d'un débat contentieux.",
+      "tags": [
+        "tags-graffitis",
+        "liberte-expression"
+      ]
+    },
+    {
+      "id": "atteintes-biens-qcm-005",
+      "question": "Quelle différence sépare les destructions dangereuses intentionnelles (art. 322-6) des destructions dangereuses par imprudence (art. 322-5) quant au résultat exigé ?",
+      "options": [
+        "Le premier texte exige une destruction effective, le second se contente d'un simple risque",
+        "Le premier texte est consommé par le seul danger créé, le second exige la destruction",
+        "Les deux infractions exigent identiquement une destruction effectivement réalisée",
+        "Les deux infractions se contentent identiquement d'un risque sans dommage matériel"
+      ],
+      "answer": 1,
+      "explanation": "L'infraction intentionnelle de l'article 322-6 est consommée dès la création d'un danger pour les personnes, même sans mise en danger effective, alors que la destruction par imprudence de l'article 322-5 est une infraction matérielle exigeant un résultat effectivement réalisé.",
+      "tags": [
+        "destruction-dangereuse",
+        "imprudence"
+      ]
+    }
+  ]
+}

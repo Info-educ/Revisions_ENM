@@ -233,6 +233,24 @@
       "file": "detournements.json",
       "title": "Les détournements — Abus de confiance et autres détournements",
       "category": "Droit pénal spécial"
+    },
+    {
+      "id": "atteintes-biens",
+      "file": "atteintes-biens.json",
+      "title": "Les atteintes directes aux biens — Destructions et dégradations",
+      "category": "Droit pénal spécial"
+    },
+    {
+      "id": "recel-blanchiment",
+      "file": "recel-blanchiment.json",
+      "title": "Le recel et le blanchiment — Infractions de conséquence",
+      "category": "Droit pénal spécial"
+    },
+    {
+      "id": "securite-publique",
+      "file": "securite-publique.json",
+      "title": "Les atteintes à la sécurité publique — Terrorisme et intérêts fondamentaux de la Nation",
+      "category": "Droit pénal spécial"
     }
   ]
 }
