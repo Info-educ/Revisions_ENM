@@ -1,0 +1,139 @@
+{
+  "id": "confiance-publique",
+  "title": "Les atteintes à la confiance publique — Faux, fausse monnaie et falsifications",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "confiance-publique-fc-001",
+      "front": "Quelle est la définition légale du faux selon l'article 441-1 du code pénal ?",
+      "back": "Toute altération frauduleuse de la vérité, de nature à causer un préjudice, accomplie par quelque moyen que ce soit dans un écrit ou tout autre support d'expression de la pensée ayant pour objet ou pouvant avoir pour effet d'établir la preuve d'un droit ou d'un fait à conséquences juridiques.",
+      "tags": [
+        "faux",
+        "definition"
+      ]
+    },
+    {
+      "id": "confiance-publique-fc-002",
+      "front": "Quelle différence sépare le faux matériel du faux intellectuel ?",
+      "back": "Le faux matériel consiste en une altération du support lui-même, par ajout ou suppression d'écrits, tandis que le faux intellectuel altère le contenu ou la vérité sans toucher au support, par un mensonge incorporé ; un même document peut cumuler les deux défauts selon la jurisprudence.",
+      "tags": [
+        "faux-materiel",
+        "faux-intellectuel"
+      ]
+    },
+    {
+      "id": "confiance-publique-fc-003",
+      "front": "Pourquoi le faux est-il qualifié d'infraction formelle quant au préjudice exigé ?",
+      "back": "Parce qu'un préjudice seulement éventuel ou potentiel suffit à caractériser l'infraction, sans exiger un préjudice effectivement réalisé ; la doctrine distingue le préjudice de droit, atteinte à la force probante de l'écrit, et le préjudice de fait, atteinte à la confiance publique.",
+      "tags": [
+        "infraction-formelle",
+        "prejudice"
+      ]
+    },
+    {
+      "id": "confiance-publique-fc-004",
+      "front": "Quelles peines complémentaires les personnes physiques coupables de faux encourent-elles de manière générale ?",
+      "back": "L'interdiction des droits civiques, civils et de famille, l'interdiction d'exercer une fonction publique ou l'activité professionnelle dans l'exercice de laquelle l'infraction a été commise, et la confiscation de la chose ayant servi à commettre l'infraction ou qui en constitue le produit.",
+      "tags": [
+        "peines-complementaires"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "confiance-publique-qcm-001",
+      "question": "Une simple photocopie peut-elle constituer le support d'un faux au sens de l'article 441-1 ?",
+      "options": [
+        "Oui, dès lors qu'elle est de nature à établir la preuve d'un droit ou d'un fait juridique",
+        "Non, seul l'original signé du document peut constituer un support valable pour le faux",
+        "Oui, mais uniquement lorsque la photocopie est elle-même certifiée par un officier public",
+        "Non, la jurisprudence exige systématiquement un support papier physique non reproduit"
+      ],
+      "answer": 0,
+      "explanation": "La jurisprudence admet qu'une photocopie puisse constituer le support d'un faux dès lors qu'elle est de nature à établir la preuve d'un droit ou d'un fait ayant des conséquences juridiques, la valeur probatoire du support important davantage que sa nature matérielle.",
+      "tags": [
+        "faux",
+        "support"
+      ]
+    },
+    {
+      "id": "confiance-publique-qcm-002",
+      "question": "Pourquoi une déclaration faite par son auteur en sa propre faveur, sujette à vérification, échappe-t-elle généralement à la qualification de faux ?",
+      "options": [
+        "Parce que la loi exclut toute déclaration provenant d'une personne physique majeure",
+        "Parce qu'une telle déclaration n'a pas, par elle-même, la force probante exigée",
+        "Parce que seules les déclarations devant un officier ministériel sont qualifiées",
+        "Parce que la prescription de l'action publique est acquise dans cette hypothèse"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence exclut du champ du faux les déclarations établies par leur auteur en sa propre faveur et sujettes à vérification, considérant qu'elles ne disposent pas de la valeur probatoire suffisante pour établir, à elles seules, la preuve d'un droit ou d'un fait.",
+      "tags": [
+        "faux",
+        "jurisprudence"
+      ]
+    },
+    {
+      "id": "confiance-publique-qcm-003",
+      "question": "Le faux et l'usage de faux peuvent-ils être reprochés cumulativement à la même personne pour les mêmes faits ?",
+      "options": [
+        "Non, ces deux qualifications sont juridiquement incompatibles et s'excluent nécessairement",
+        "Oui, la jurisprudence admet ce cumul, s'agissant de deux infractions distinctes",
+        "Non, seul l'usage de faux peut être retenu lorsque l'auteur du faux en fait lui-même usage",
+        "Oui, mais uniquement si l'auteur a agi en qualité de dépositaire de l'autorité publique"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence admet le cumul du faux et de l'usage de faux commis par la même personne, ces deux infractions étant juridiquement distinctes ; la prescription de l'usage de faux court d'ailleurs séparément, à compter de chaque acte d'utilisation du document falsifié.",
+      "tags": [
+        "faux",
+        "usage-de-faux"
+      ]
+    },
+    {
+      "id": "confiance-publique-qcm-004",
+      "question": "Quelle exigence particulière pèse sur la preuve de l'élément moral en cas de faux intellectuel, par rapport au faux matériel ?",
+      "options": [
+        "Aucune différence n'existe, la même preuve suffisant aux deux formes de faux",
+        "Une preuve supplémentaire est requise, montrant la conscience du caractère mensonger",
+        "Le faux intellectuel ne nécessite, à l'inverse, aucune preuve d'intention de l'auteur",
+        "La preuve de l'élément moral du faux intellectuel incombe à la victime du faux"
+      ],
+      "answer": 1,
+      "explanation": "Pour le faux intellectuel, il faut démontrer en plus que l'auteur avait conscience de la fausseté de ses déclarations et du caractère préjudiciable de celles-ci, alors que pour le faux matériel la seule conscience de l'inexactitude du document peut suffire.",
+      "tags": [
+        "element-moral",
+        "faux-intellectuel"
+      ]
+    },
+    {
+      "id": "confiance-publique-qcm-005",
+      "question": "Quelle particularité distingue la contrefaçon de monnaie des autres falsifications visées au titre des atteintes à la confiance publique ?",
+      "options": [
+        "Elle est la seule infraction du titre à bénéficier d'une exemption pour les repentis",
+        "Elle ne peut concerner une monnaie n'ayant plus cours légal sur le territoire",
+        "Elle exige systématiquement la preuve d'une mise en circulation effective des billets",
+        "Elle ne peut être commise que par un dépositaire de l'autorité publique compétente"
+      ],
+      "answer": 0,
+      "explanation": "Un mécanisme d'exemption de peine est prévu pour l'auteur d'une tentative de fausse monnaie qui a averti l'autorité administrative ou judiciaire et permis d'éviter la réalisation de l'infraction ou d'identifier les autres coupables, ce qui distingue cette infraction des autres falsifications du titre.",
+      "tags": [
+        "fausse-monnaie",
+        "exemption-peine"
+      ]
+    },
+    {
+      "id": "confiance-publique-qcm-006",
+      "question": "Quelles sont, de manière générale, les peines complémentaires applicables aux personnes physiques coupables de faux ?",
+      "options": [
+        "L'interdiction des droits civiques et l'interdiction d'exercer l'activité liée aux faits",
+        "Le retrait automatique et définitif de la nationalité pour tout auteur majeur condamné",
+        "L'obligation de suivre un stage de citoyenneté organisé par l'autorité judiciaire",
+        "La suspension immédiate du droit de vote pendant toute la durée de l'enquête préliminaire"
+      ],
+      "answer": 0,
+      "explanation": "Les personnes physiques coupables de faux encourent notamment l'interdiction des droits civiques, civils et de famille ainsi que l'interdiction d'exercer une fonction publique ou l'activité professionnelle dans l'exercice de laquelle l'infraction a été commise, et la confiscation de la chose ayant servi à l'infraction.",
+      "tags": [
+        "peines-complementaires"
+      ]
+    }
+  ]
+}

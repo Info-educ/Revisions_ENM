@@ -251,6 +251,24 @@
       "file": "securite-publique.json",
       "title": "Les atteintes à la sécurité publique — Terrorisme et intérêts fondamentaux de la Nation",
       "category": "Droit pénal spécial"
+    },
+    {
+      "id": "confiance-publique",
+      "file": "confiance-publique.json",
+      "title": "Les atteintes à la confiance publique — Faux, fausse monnaie et falsifications",
+      "category": "Droit pénal spécial"
+    },
+    {
+      "id": "atteintes-justice",
+      "file": "atteintes-justice.json",
+      "title": "Les atteintes à la justice — Vérité judiciaire et action de la justice",
+      "category": "Droit pénal spécial"
+    },
+    {
+      "id": "autorite-publique",
+      "file": "autorite-publique.json",
+      "title": "Les atteintes à l'autorité publique — Agents publics et particuliers",
+      "category": "Droit pénal spécial"
     }
   ]
 }

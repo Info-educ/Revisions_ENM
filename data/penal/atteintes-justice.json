@@ -1,0 +1,134 @@
+{
+  "id": "atteintes-justice",
+  "title": "Les atteintes à la justice — Vérité judiciaire et action de la justice",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "atteintes-justice-fc-001",
+      "front": "Quelle condition sine qua non est exigée pour caractériser le faux témoignage (art. 434-13 C. pén.) ?",
+      "back": "Le serment régulièrement prêté par le témoin : sans serment, il ne peut y avoir de faux témoignage ; la déposition doit en outre être faite devant une juridiction de jugement ou devant un officier de police judiciaire agissant en exécution d'une commission rogatoire.",
+      "tags": [
+        "faux-temoignage",
+        "serment"
+      ]
+    },
+    {
+      "id": "atteintes-justice-fc-002",
+      "front": "Quelles sont les conditions cumulatives exigées pour caractériser une dénonciation calomnieuse (art. 226-10 C. pén.) ?",
+      "back": "Une déclaration spontanée, dirigée contre une personne déterminée, portant sur des faits susceptibles d'entraîner des sanctions judiciaires, administratives ou disciplinaires, inexacts ou partiellement inexacts, et adressée à une autorité compétente pour y donner suite.",
+      "tags": [
+        "denonciation-calomnieuse"
+      ]
+    },
+    {
+      "id": "atteintes-justice-fc-003",
+      "front": "Pourquoi la subornation de témoin (art. 434-15 C. pén.) est-elle qualifiée d'infraction formelle ?",
+      "back": "Parce qu'elle est consommée par le seul usage de dons, offres, promesses, menaces ou manœuvres destinés à déterminer autrui à un faux témoignage, sans qu'il soit nécessaire que cette subornation ait effectivement été suivie d'effet sur la déposition visée.",
+      "tags": [
+        "subornation-temoin"
+      ]
+    },
+    {
+      "id": "atteintes-justice-fc-004",
+      "front": "Quelles peines complémentaires sont en général encourues pour les principales atteintes à l'action de la justice ?",
+      "back": "L'interdiction des droits civiques, civils et de famille selon les modalités de l'article 131-26, et, pour certaines infractions énumérées par la loi, l'interdiction d'exercer une fonction ou une activité professionnelle liée aux faits ainsi que l'affichage ou la diffusion de la décision prononcée.",
+      "tags": [
+        "peines-complementaires"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "atteintes-justice-qcm-001",
+      "question": "Un témoin entendu par le juge d'instruction sans prestation de serment peut-il être poursuivi pour faux témoignage ?",
+      "options": [
+        "Oui, dès lors que ses déclarations se révèlent ultérieurement mensongères ou incomplètes",
+        "Non, l'absence de serment fait obstacle à cette condition sine qua non de l'infraction",
+        "Oui, mais uniquement si le mensonge a déterminé la décision rendue par la juridiction",
+        "Non, car seule la juridiction de jugement peut recevoir un témoignage sous serment"
+      ],
+      "answer": 1,
+      "explanation": "Le serment régulièrement prêté constitue une condition sine qua non du faux témoignage ; à défaut de cette prestation, la déposition mensongère, même délibérée, ne peut pas être qualifiée pénalement sur le fondement de l'article 434-13 du code pénal.",
+      "tags": [
+        "faux-temoignage"
+      ]
+    },
+    {
+      "id": "atteintes-justice-qcm-002",
+      "question": "Une réponse mensongère apportée par une personne poursuivie, dans le cadre de sa propre défense, peut-elle constituer une dénonciation calomnieuse ?",
+      "options": [
+        "Oui, dès lors que les propos visent une personne déterminée et lui causent un préjudice",
+        "Non, la condition de spontanéité de la déclaration fait défaut dans ce cas précis",
+        "Oui, mais uniquement si la personne poursuivie est elle-même un professionnel du droit",
+        "Non, car la dénonciation calomnieuse ne peut viser que des personnes physiques majeures"
+      ],
+      "answer": 1,
+      "explanation": "La dénonciation calomnieuse exige une déclaration spontanée ; elle est exclue lorsque les propos constituent une réponse à une question posée par un magistrat ou un policier, ou lorsqu'ils sont tenus par la personne poursuivie dans le cadre de l'exercice de sa propre défense.",
+      "tags": [
+        "denonciation-calomnieuse"
+      ]
+    },
+    {
+      "id": "atteintes-justice-qcm-003",
+      "question": "La dénonciation calomnieuse exige-t-elle la preuve d'un préjudice effectivement subi par la personne visée ?",
+      "options": [
+        "Oui, un dommage matériel précis et chiffré doit être démontré par la victime",
+        "Non, il s'agit d'une infraction formelle qui ne requiert pas de préjudice effectif",
+        "Oui, mais seulement si la dénonciation a été adressée à une autorité judiciaire",
+        "Non, mais uniquement si la personne visée a fait l'objet d'une condamnation définitive"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence qualifie la dénonciation calomnieuse d'infraction formelle, ce qui signifie que la constitution de l'infraction ne dépend pas de la preuve d'un préjudice effectivement subi par la personne visée par la dénonciation inexacte.",
+      "tags": [
+        "denonciation-calomnieuse",
+        "infraction-formelle"
+      ]
+    },
+    {
+      "id": "atteintes-justice-qcm-004",
+      "question": "Quelle est la nature temporelle de l'infraction de dénonciation calomnieuse, par opposition à certaines autres infractions du même titre ?",
+      "options": [
+        "Elle est continue, sa prescription courant à compter de la fin de ses effets",
+        "Elle est instantanée, se consommant au moment où la déclaration est adressée à l'autorité",
+        "Elle est successive, chaque nouvelle évocation des faits faisant courir un délai distinct",
+        "Elle dépend de la durée de la procédure ouverte contre la personne visée par les faits"
+      ],
+      "answer": 1,
+      "explanation": "La dénonciation calomnieuse constitue une infraction instantanée, se consommant dès l'envoi de la déclaration inexacte à l'autorité compétente pour y donner suite, à la différence d'infractions continues dont la prescription court différemment dans le temps.",
+      "tags": [
+        "denonciation-calomnieuse",
+        "infraction-instantanee"
+      ]
+    },
+    {
+      "id": "atteintes-justice-qcm-005",
+      "question": "Quel comportement caractérise le discrédit jeté sur une décision de justice au sens de l'article 434-25 du code pénal ?",
+      "options": [
+        "La critique publiée par un avocat dans une revue juridique destinée aux professionnels",
+        "Des paroles, gestes ou écrits non publics visant à jeter le discrédit sur une décision",
+        "Le simple exercice d'une voie de recours légalement ouverte contre la décision rendue",
+        "La publication d'un commentaire universitaire analysant la motivation de la juridiction"
+      ],
+      "answer": 1,
+      "explanation": "L'article 434-25 réprime le discrédit jeté sur une décision de justice par des paroles, gestes, menaces, écrits ou images de toute nature non rendus publics, dans des conditions de nature à porter atteinte à l'autorité de la justice ou à son indépendance.",
+      "tags": [
+        "discredit-decision-justice"
+      ]
+    },
+    {
+      "id": "atteintes-justice-qcm-006",
+      "question": "Quelles peines complémentaires sont, de manière générale, prévues pour les principales atteintes à l'action de la justice telles que le faux témoignage ?",
+      "options": [
+        "L'interdiction des droits civiques, civils et de famille selon des modalités légales",
+        "Le retrait automatique de la nationalité pour tout auteur de nationalité étrangère",
+        "L'obligation de publication aux frais de l'auteur dans trois quotidiens nationaux",
+        "La privation systématique du droit de saisir une juridiction civile ou pénale"
+      ],
+      "answer": 0,
+      "explanation": "Les personnes physiques coupables de faux témoignage et d'autres atteintes à l'action de la justice énumérées par la loi encourent notamment l'interdiction des droits civiques, civils et de famille selon les modalités prévues par l'article 131-26 du code pénal.",
+      "tags": [
+        "peines-complementaires"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "autorite-publique",
+  "title": "Les atteintes à l'autorité publique — Agents publics et particuliers",
+  "category": "Droit pénal spécial",
+  "flashcards": [
+    {
+      "id": "autorite-publique-fc-001",
+      "front": "Quelle est la différence entre la corruption passive et la corruption active ?",
+      "back": "La corruption passive est le fait, pour un agent public, de solliciter ou d'agréer un avantage pour accomplir ou s'abstenir d'accomplir un acte de sa fonction, tandis que la corruption active est le fait, pour un particulier ou un agent public, de proposer ou de céder cet avantage.",
+      "tags": [
+        "corruption-passive",
+        "corruption-active"
+      ]
+    },
+    {
+      "id": "autorite-publique-fc-002",
+      "front": "En quoi la concussion (art. 432-10 C. pén.) se distingue-t-elle de la corruption passive ?",
+      "back": "Dans la concussion, l'agent public perçoit, exige ou ordonne de percevoir des droits ou contributions qu'il sait ne pas être dus, sans le consentement de la victime, alors que la corruption passive repose sur un accord entre l'agent et le corrupteur.",
+      "tags": [
+        "concussion",
+        "corruption"
+      ]
+    },
+    {
+      "id": "autorite-publique-fc-003",
+      "front": "Qu'incrimine le délit de prise illégale d'intérêt prévu à l'article 432-12 du code pénal ?",
+      "back": "Le fait, pour une personne dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif, de prendre, recevoir ou conserver un intérêt de nature à compromettre son impartialité, son indépendance ou son objectivité, sans qu'un avantage personnel effectivement perçu soit exigé.",
+      "tags": [
+        "prise-illegale-interet"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "autorite-publique-qcm-001",
+      "question": "Pourquoi la corruption passive est-elle qualifiée d'infraction formelle et instantanée ?",
+      "options": [
+        "Parce qu'elle est consommée par la seule sollicitation, sans attendre la remise effective",
+        "Parce qu'elle exige la preuve d'un accord écrit entre l'agent et le corrupteur identifié",
+        "Parce qu'elle ne peut être reprochée qu'à un agent ayant déjà accompli l'acte sollicité",
+        "Parce qu'elle suppose la remise préalable de fonds avant toute sollicitation"
+      ],
+      "answer": 0,
+      "explanation": "La jurisprudence considère la corruption passive comme une infraction formelle, consommée dès la sollicitation ou l'agrément de l'avantage sans attendre que celui-ci soit effectivement perçu, et comme une infraction instantanée qui se renouvelle à chaque acte d'exécution.",
+      "tags": [
+        "corruption-passive",
+        "infraction-formelle"
+      ]
+    },
+    {
+      "id": "autorite-publique-qcm-002",
+      "question": "Quelle particularité distingue la concussion de la corruption quant au consentement de la victime ?",
+      "options": [
+        "La concussion exige un consentement écrit de la victime préalable à la perception",
+        "La concussion se caractérise par une perception sans accord de la victime concernée",
+        "La concussion ne peut jamais concerner la perception de droits par un agent public",
+        "La concussion suppose une négociation préalable entre l'agent et le contribuable visé"
+      ],
+      "answer": 1,
+      "explanation": "À la différence de la corruption, qui repose sur un accord entre l'agent et le corrupteur, la concussion se caractérise par la perception, l'exigence ou l'ordre de percevoir des droits non dus sans le consentement de la victime concernée.",
+      "tags": [
+        "concussion"
+      ]
+    },
+    {
+      "id": "autorite-publique-qcm-003",
+      "question": "Le délit de prise illégale d'intérêt exige-t-il la preuve d'un avantage personnel effectivement retiré par l'agent ?",
+      "options": [
+        "Oui, l'agent doit avoir effectivement perçu un gain matériel directement lié à sa fonction",
+        "Non, il suffit que l'intérêt pris compromette son impartialité ou son indépendance",
+        "Oui, mais uniquement si l'intérêt concerne une entreprise privée à but lucratif",
+        "Non, mais uniquement si l'agent occupe un mandat électif local depuis trois ans"
+      ],
+      "answer": 1,
+      "explanation": "La prise illégale d'intérêt est une infraction formelle : il suffit que l'intérêt pris, reçu ou conservé soit de nature à compromettre l'impartialité, l'indépendance ou l'objectivité de l'agent, sans que celui-ci ait besoin d'avoir effectivement retiré un avantage personnel.",
+      "tags": [
+        "prise-illegale-interet",
+        "infraction-formelle"
+      ]
+    },
+    {
+      "id": "autorite-publique-qcm-004",
+      "question": "Quelle condition matérielle est exigée pour caractériser la rébellion au sens de l'article 433-6 du code pénal ?",
+      "options": [
+        "Une résistance violente opposée à un dépositaire de l'autorité dans ses fonctions",
+        "Le seul refus verbal de coopérer avec un agent, sans aucune forme de résistance physique",
+        "Une atteinte physique effective causée à l'agent ayant entraîné une incapacité de travail",
+        "L'absence de présentation de documents d'identité demandés par un agent de contrôle"
+      ],
+      "answer": 0,
+      "explanation": "La rébellion suppose une résistance violente opposée à une personne dépositaire de l'autorité publique ou chargée d'une mission de service public agissant pour exécuter les lois, ordres ou décisions de justice ; il n'est pas nécessaire que l'agent ait été effectivement atteint par cette résistance.",
+      "tags": [
+        "rebellion"
+      ]
+    },
+    {
+      "id": "autorite-publique-qcm-005",
+      "question": "La liberté d'expression garantie par l'article 10 de la Convention européenne peut-elle justifier des propos outrageants envers un agent public ?",
+      "options": [
+        "Oui, dès lors que les propos sont tenus dans un cadre professionnel ou syndical reconnu",
+        "Non, la jurisprudence estime que les propos outrageants n'entrent pas dans ce champ",
+        "Oui, mais uniquement si les propos sont adressés par écrit et non oralement à l'agent",
+        "Non, mais uniquement lorsque l'agent visé exerce une mission de service public éducatif"
+      ],
+      "answer": 1,
+      "explanation": "La jurisprudence considère que la liberté d'expression protégée par l'article 10 de la Convention européenne des droits de l'homme ne saurait justifier des propos outrageants envers une personne chargée d'une mission de service public, de tels propos n'entrant pas dans son champ de protection.",
+      "tags": [
+        "outrage",
+        "liberte-expression"
+      ]
+    }
+  ]
+}
