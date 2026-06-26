@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782484137223,
+  "updatedAt": 1782484158254,
   "themes": {
     "penal": {
       "items": {
@@ -4609,6 +4609,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1782484133215
+        },
+        "recel-blanchiment-qcm-002": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782484154244
         }
       }
     },
