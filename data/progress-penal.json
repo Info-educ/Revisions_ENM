@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782484327014,
+  "updatedAt": 1782484350439,
   "themes": {
     "penal": {
       "items": {
@@ -4679,6 +4679,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1782484323005
+        },
+        "confiance-publique-qcm-006": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782484346430
         }
       }
     },
