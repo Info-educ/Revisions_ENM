@@ -37,6 +37,11 @@
   </button>
 </header>
 
+<div id="sync-toast" class="sync-toast" role="status">
+  <span id="sync-toast-msg"></span>
+  <button id="sync-toast-retry" type="button">Réessayer</button>
+</div>
+
 <main id="views">
 
   <!-- ===================== CHOIX THÉMATIQUE ===================== -->
@@ -232,7 +237,7 @@
     <div class="btn-row">
       <button class="btn btn--ghost" id="btn-export">Exporter (.json)</button>
       <button class="btn btn--ghost" id="btn-import">Importer (.json)</button>
-      <input type="file" id="import-file" accept="application/json" hidden>
+      <input type="file" id="import-file" accept=".json,application/json,text/json,text/plain" hidden>
     </div>
     <button class="btn btn--danger btn--block" id="btn-reset">Réinitialiser toute la progression</button>
 
