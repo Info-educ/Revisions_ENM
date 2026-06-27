@@ -1,0 +1,92 @@
+{
+  "id": "compare-international",
+  "title": "Le droit comparé et le droit international privé",
+  "category": "Droit — Droit comparé et international privé",
+  "flashcards": [
+    {
+      "id": "comparedip-fc-001",
+      "front": "Quelle est la distinction fondamentale entre le droit comparé et le droit international privé ?",
+      "back": "Le droit comparé étudie les droits étrangers comme une fin (objet de connaissance, pour enrichir le droit national ou élaborer un droit commun) ; le droit international privé utilise les droits étrangers comme un outil pour résoudre les conflits de lois et de juridictions face à un élément d'extranéité.",
+      "tags": ["droit comparé", "droit international privé"]
+    },
+    {
+      "id": "comparedip-fc-002",
+      "front": "Quelles sont les trois étapes de la « règle des 3 C » en droit comparé, selon Constantinesco ?",
+      "back": "Connaître (étudier le terme dans ses sources originaires, selon la hiérarchie propre à l'ordre juridique d'appartenance) ; Comprendre (réintégrer le terme dans son système politique, économique et social) ; Comparer (confronter méthodiquement les termes point par point).",
+      "tags": ["méthode comparative", "constantinesco"]
+    },
+    {
+      "id": "comparedip-fc-003",
+      "front": "Qu'est-ce que l'exception d'ordre public international en droit international privé ?",
+      "back": "Un obstacle à l'application, sur le territoire français, d'une loi étrangère pourtant désignée comme applicable : les pratiques jugées illicites en France (ex. la gestation pour autrui, nulle selon l'article 16-7 du code civil) ne sont pas reconnues, même si elles sont licites à l'étranger.",
+      "tags": ["ordre public", "droit international privé"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "comparedip-qcm-001",
+      "question": "Selon René David, quelle est la finalité première du droit comparé ?",
+      "options": [
+        "Aider à comprendre la manière de voir d'autrui et à faire comprendre la sienne propre",
+        "Imposer aux États étrangers le modèle juridique national jugé le plus efficace possible",
+        "Remplacer progressivement les droits nationaux par un droit mondial entièrement unique",
+        "Permettre exclusivement aux juridictions nationales de trancher les conflits de lois"
+      ],
+      "answer": 0,
+      "explanation": "René David résume le droit comparé comme un outil destiné à « nous aider à comprendre la manière de voir d'autrui et à faire comprendre à autrui notre propre manière de voir ». Ce n'est pas une fin en soi, mais un instrument au service du droit national et de l'élaboration d'un droit commun.",
+      "tags": ["droit comparé", "rené david"]
+    },
+    {
+      "id": "comparedip-qcm-002",
+      "question": "Quel est l'élément déclencheur de l'application du droit international privé à une situation donnée ?",
+      "options": [
+        "La présence d'un élément d'extranéité dans la situation juridique concrètement en cause",
+        "L'existence d'un litige déjà engagé devant une juridiction nationale compétente saisie",
+        "Le seul fait que les parties au contrat résident dans des villes différentes du pays",
+        "L'accord exprès et préalable des parties pour soumettre leur litige à un arbitre privé"
+      ],
+      "answer": 0,
+      "explanation": "Le droit international privé s'applique dès qu'existe un élément d'extranéité dans la situation : nationalité étrangère, lieu de conclusion du contrat à l'étranger, biens situés à l'étranger, etc. Le droit comparé, à l'inverse, n'intervient pas nécessairement en présence d'un litige.",
+      "tags": ["élément d'extranéité"]
+    },
+    {
+      "id": "comparedip-qcm-003",
+      "question": "Dans un conflit de lois, quelle est la nature de la loi finalement désignée comme applicable au fond du litige international ?",
+      "options": [
+        "Une loi matérielle, et jamais la loi de procédure de la juridiction effectivement saisie",
+        "Toujours la loi de procédure propre à la juridiction nationale qui a été saisie du litige",
+        "Systématiquement la loi du for, quel que soit l'élément d'extranéité réellement en cause",
+        "La loi de l'État dont les parties possèdent la nationalité au jour précis du litige"
+      ],
+      "answer": 0,
+      "explanation": "Le cours insiste sur ce point : la loi désignée par la règle de conflit est toujours la loi matérielle (le droit substantiel applicable au fond), jamais la loi de procédure de la juridiction saisie, laquelle continue d'appliquer ses propres règles procédurales quelle que soit la loi de fond retenue.",
+      "tags": ["conflit de lois"]
+    },
+    {
+      "id": "comparedip-qcm-004",
+      "question": "Que désigne la difficulté dite des « qualifications concurrentes » en droit international privé ?",
+      "options": [
+        "Le fait qu'une même situation reçoive une qualification différente selon l'ordre juridique",
+        "L'impossibilité de qualifier une situation comportant un élément étranger quelconque",
+        "L'obligation pour le juge français d'appliquer systématiquement deux lois à la fois",
+        "Le recours exclusif à la loi du for pour qualifier toute situation internationale donnée"
+      ],
+      "answer": 0,
+      "explanation": "Les qualifications concurrentes surviennent lorsque la qualification d'une situation diffère selon l'ordre juridique considéré, notamment quand l'institution étrangère n'a pas d'équivalent dans le droit du for (ex. le trust britannique en France) ou que les systèmes découpent différemment les catégories juridiques.",
+      "tags": ["qualification"]
+    },
+    {
+      "id": "comparedip-qcm-005",
+      "question": "Quelle institution œuvre, depuis 1893, à l'élaboration de conventions multilatérales en droit international privé ?",
+      "options": [
+        "La Conférence de La Haye de droit international privé, active depuis l'année 1893",
+        "La Cour de justice de l'Union européenne, par sa jurisprudence rendue de façon constante",
+        "L'Organisation des Nations unies, via son assemblée générale réunie chaque année",
+        "Le premier institut de droit comparé, fondé à Lyon par le juriste Édouard Lambert"
+      ],
+      "answer": 0,
+      "explanation": "La Conférence de La Haye de droit international privé, active depuis 1893, élabore des conventions multilatérales pour dépasser la fragmentation des règles nationales, comme la convention de 1980 sur l'enlèvement international d'enfants ou celle de 1996 sur la protection des enfants.",
+      "tags": ["conférence de la haye"]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "elements-methode",
+  "title": "Les éléments de méthode juridique",
+  "category": "Droit — Méthodologie juridique",
+  "flashcards": [
+    {
+      "id": "methode-fc-001",
+      "front": "Quelle est la structure du syllogisme juridique selon Motulsky ?",
+      "back": "Majeure (la règle de droit) → mineure (la situation concrète) → conclusion (la solution adaptée à l'espèce) ; pour Motulsky, « la méthode organise la matière, elle ne la construit pas ».",
+      "tags": ["syllogisme", "logique juridique"]
+    },
+    {
+      "id": "methode-fc-002",
+      "front": "Quelle est la signification de la fiction « nemo censetur ignorare legem » ?",
+      "back": "« Nul n'est censé ignorer la loi » : une présomption irréfragable, véritable fiction juridique nécessaire pour opposer la règle à ceux qui ne la connaissent ou ne la comprennent pas, afin d'assurer l'ordre social (Perelman et Foriers).",
+      "tags": ["fiction juridique", "linguistique"]
+    },
+    {
+      "id": "methode-fc-003",
+      "front": "Quelles sont les trois étapes de l'introduction juridique selon la méthode des trois formulations ?",
+      "back": "1) Formulation générale/théorique du problème juridique abstrait ; 2) formulation concrète ramenant la difficulté aux faits de l'espèce ; 3) formulation précise/détaillée des questions à résoudre, suivie de l'annonce du plan.",
+      "tags": ["méthode", "introduction"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "methode-qcm-001",
+      "question": "Quelle différence essentielle distingue la logique formelle (syllogisme) de la logique argumentative (dialectique) en droit ?",
+      "options": [
+        "La dialectique confronte tous les arguments pour et contre une solution donnée",
+        "Le syllogisme se fonde uniquement sur la confrontation directe des intérêts en cause",
+        "La logique formelle ignore totalement la règle de droit comme point de départ obligé",
+        "La dialectique juridique ne s'applique jamais à la motivation des décisions rendues"
+      ],
+      "answer": 0,
+      "explanation": "La dialectique (logique argumentative) confronte tous les arguments pour et contre une solution, tandis que le syllogisme (logique formelle) part d'une majeure (la règle) et d'une mineure (les faits) pour aboutir mécaniquement à une conclusion. Le cours précise que la décision de justice est formellement un syllogisme mais emprunte dans sa motivation à l'argumentation.",
+      "tags": ["syllogisme", "dialectique"]
+    },
+    {
+      "id": "methode-qcm-002",
+      "question": "Quel risque la logique formelle (le syllogisme) fait-elle courir au raisonnement juridique, selon le cours ?",
+      "options": [
+        "Elle peut conduire à des conclusions fausses si les postulats de départ sont faux",
+        "Elle interdit par construction toute application possible à un cas d'espèce concret",
+        "Elle empêche systématiquement le juge de motiver correctement sa décision en droit",
+        "Elle exclut tout recours ultérieur à des arguments de texte ou d'autorité reconnue"
+      ],
+      "answer": 0,
+      "explanation": "Le cours rapproche le syllogisme juridique de l'équation mathématique : si les postulats de départ (la majeure ou la mineure) sont erronés, la conclusion, bien que formellement valide, peut être fausse. C'est l'une des limites de la seule logique formelle, compensée par la dialectique.",
+      "tags": ["syllogisme", "limites"]
+    },
+    {
+      "id": "methode-qcm-003",
+      "question": "Que désigne la codification dite « à droit constant », par opposition à la codification dynamique ?",
+      "options": [
+        "Une mise en ordre des textes existants, sans modification aucune de leur contenu",
+        "Une réforme substantielle des règles juridiques au moment de leur codification",
+        "Une réflexion entièrement nouvelle sur les fondements mêmes du droit applicable",
+        "Une abrogation pure et simple de tous les textes juridiques antérieurement en vigueur"
+      ],
+      "answer": 0,
+      "explanation": "La codification à droit constant est une simple compilation, une mise en ordre des textes sans modification de leur contenu (ex. le code de procédure d'exécution issu de la loi du 16 décembre 1999) ; elle s'oppose à la codification dynamique, qui opère une réforme des textes codifiés, et à la codification réelle, qui repense les fondements.",
+      "tags": ["codification"]
+    },
+    {
+      "id": "methode-qcm-004",
+      "question": "Quel est l'objet spécifique de la note de synthèse, exercice fréquent aux concours selon le cours ?",
+      "options": [
+        "Réduire à l'essentiel un dossier documentaire, sans résumé ni avis personnel",
+        "Présenter un avis personnel et argumenté sur les documents du dossier soumis",
+        "Résumer fidèlement chaque document fourni dans l'ordre où il a été présenté",
+        "Commenter une décision de justice en suivant le plan du syllogisme juridique"
+      ],
+      "answer": 0,
+      "explanation": "La note de synthèse est un outil de réduction à l'essentiel, distinct de l'analyse qu'elle présuppose ; le résumé du contenu et l'avis personnel sont expressément interdits. Le cours précise aussi qu'il ne faut jamais citer plus de deux documents simultanément, sous peine de révéler un problème de méthode.",
+      "tags": ["note de synthèse"]
+    },
+    {
+      "id": "methode-qcm-005",
+      "question": "Quelle fonction remplissent les algorithmes dits « systèmes experts » présentés dans la section consacrée à la legal technology ?",
+      "options": [
+        "Ils reproduisent fidèlement le processus de décision suivi par un expert humain",
+        "Ils se substituent intégralement à la décision rendue par le juge compétent saisi",
+        "Ils servent uniquement à diffuser les décisions de justice rendues en open data",
+        "Ils permettent seuls l'élaboration de conventions internationales multilatérales"
+      ],
+      "answer": 0,
+      "explanation": "Les systèmes experts reproduisent le processus de décision d'un expert humain (forme d'intelligence artificielle), à distinguer des algorithmes statistiques (justice prédictive) et des algorithmes d'apprentissage. Le cours rappelle que ces outils n'ont vocation qu'à apporter un élément d'analyse, non à se substituer à la décision du juge.",
+      "tags": ["legal technology"]
+    }
+  ]
+}

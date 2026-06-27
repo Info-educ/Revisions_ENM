@@ -1,0 +1,92 @@
+{
+  "id": "fondements-droit",
+  "title": "Le(s) fondement(s) du droit",
+  "category": "Droit — Fondements et philosophie",
+  "flashcards": [
+    {
+      "id": "fondements-fc-001",
+      "front": "Quelles sont les trois approches complémentaires du fondement du droit selon Goyard-Fabre ?",
+      "back": "La règle juridique elle-même (sa nature normative et coercitive), la philosophie du droit (positivisme vs droit naturel) et l'épistémologie juridique (le droit comme objet de connaissance).",
+      "tags": ["fondement du droit", "épistémologie"]
+    },
+    {
+      "id": "fondements-fc-002",
+      "front": "Quelle distinction Aristote établit-il entre justice commutative et justice distributive ?",
+      "back": "La justice commutative est arithmétique et régit l'échange (égalité stricte entre prestations) ; la justice distributive est géométrique et répartit selon le mérite, ex. protection renforcée du consommateur.",
+      "tags": ["justice", "aristote"]
+    },
+    {
+      "id": "fondements-fc-003",
+      "front": "Quelle opposition fondamentale structure le débat entre positivisme juridique et droit naturel ?",
+      "back": "Le positivisme considère que le droit est uniquement ce qui est posé par l'autorité compétente, sans référence à un devoir-être supérieur. Le droit naturel affirme l'existence de droits supérieurs aux lois, fondés sur la nature humaine et la raison, qu'une loi injuste ne saurait valablement contredire.",
+      "tags": ["positivisme", "droit naturel"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "fondements-qcm-001",
+      "question": "Pourquoi le caractère normatif ne suffit-il pas, à lui seul, à isoler la règle de droit des autres normes sociales ?",
+      "options": [
+        "Parce que la morale et la religion sont elles aussi des systèmes normatifs forts",
+        "Parce que seules les règles écrites peuvent être qualifiées de véritablement normatives",
+        "Parce que la normativité suppose toujours l'intervention directe d'un juge étatique",
+        "Parce que les coutumes ne sont jamais considérées comme normatives en droit positif"
+      ],
+      "answer": 0,
+      "explanation": "Le cours souligne que la morale et la religion partagent ce caractère normatif (prescription d'obligations) avec le droit ; c'est pourquoi ce critère seul ne permet pas de distinguer la règle de droit des autres règles sociales. Le critère coercitif vient le compléter, lui-même limité (obligations naturelles, devoirs non exécutables manu militari).",
+      "tags": ["caractère normatif"]
+    },
+    {
+      "id": "fondements-qcm-002",
+      "question": "Selon la formule d'Oppetit citée dans le cours, quel est le « cercle vicieux » du critère coercitif appliqué à la règle de droit ?",
+      "options": [
+        "Une règle n'est pas sanctionnée parce qu'elle est juridique, c'est même l'inverse",
+        "La sanction étatique précède toujours et nécessairement la reconnaissance de juridicité",
+        "Une règle est sanctionnée parce qu'elle est juridique, et non l'inverse du raisonnement",
+        "Le juge crée lui-même la juridicité de la règle au moment précis où il la sanctionne"
+      ],
+      "answer": 2,
+      "explanation": "Oppetit affirme qu'« une règle n'acquiert pas la juridicité parce qu'elle est sanctionnée, elle est sanctionnée parce qu'elle est juridique » : c'est la juridicité préalable de la règle qui justifie sa sanction étatique, et non l'inverse, ce qui révèle le caractère circulaire du critère coercitif pris isolément.",
+      "tags": ["caractère coercitif"]
+    },
+    {
+      "id": "fondements-qcm-003",
+      "question": "D'après la distinction présentée entre droit, morale et religion, qu'est-ce qui caractérise spécifiquement le droit ?",
+      "options": [
+        "Il régit les rapports avec autrui, dans une logique d'altérité et de for externe",
+        "Il se concentre exclusivement sur la conscience individuelle de chaque sujet de droit",
+        "Il vise la vie éternelle à travers les rapports établis avec la divinité elle-même",
+        "Il dépasse systématiquement la recherche de justice pour ne viser que la charité pure"
+      ],
+      "answer": 0,
+      "explanation": "Le cours distingue le droit (norme des rapports avec autrui, altérité, for externe, tend à l'équitable) de la morale (vertus envers soi/autrui, for interne, tend au bonheur et dépasse la justice par la charité) et de la religion (rapports avec Dieu, tend à la vérité et à la vie éternelle).",
+      "tags": ["droit et morale"]
+    },
+    {
+      "id": "fondements-qcm-004",
+      "question": "Que retenir de la jurisprudence Cass. ass. plén., 25 juin 2014 (affaire Baby-Loup) sur la neutralité religieuse ?",
+      "options": [
+        "Elle a validé le licenciement d'une salariée pour port d'un signe religieux visible",
+        "Elle a jugé toute clause de neutralité insérée dans un règlement intérieur illicite",
+        "Elle a transposé sans la moindre modification la solution retenue ensuite par la CJUE",
+        "Elle a supprimé toute possibilité de limiter la liberté religieuse dans l'entreprise"
+      ],
+      "answer": 0,
+      "explanation": "L'assemblée plénière a validé le licenciement dans l'affaire Baby-Loup, solution ensuite consacrée par la loi du 8 août 2016 (art. L. 1321-2-1 du code du travail) ; la CJUE, dans l'arrêt Bougnaoui du 14 mars 2017, a ensuite précisé un double contrôle, mais sans reprendre à l'identique le raisonnement français.",
+      "tags": ["laïcité", "baby-loup"]
+    },
+    {
+      "id": "fondements-qcm-005",
+      "question": "Quelle limite le cours apporte-t-il au lien entre droit et justice, à propos des régimes fondés sur des lois injustes ?",
+      "options": [
+        "Une règle injuste n'oblige pas en conscience, ce qui légitime une certaine résistance",
+        "Toute règle posée par l'État oblige nécessairement et toujours en conscience le sujet",
+        "Le droit positif se confond toujours intégralement avec la justice effectivement rendue",
+        "La résistance aux lois injustes n'a jamais été reconnue par aucune juridiction nationale"
+      ],
+      "answer": 0,
+      "explanation": "Le cours illustre cette limite par les exemples du nazisme et de l'apartheid : une règle injuste n'oblige pas en conscience, ce qui légitime la résistance, comme l'a reconnu la jurisprudence allemande postérieure à 1945, fondée sur le droit naturel. D'autres règles sont en outre de simple organisation sociale, indifférentes au juste.",
+      "tags": ["droit et justice"]
+    }
+  ]
+}

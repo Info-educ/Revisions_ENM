@@ -5,6 +5,24 @@
       "file": "droit-prive.json",
       "title": "Le droit privé — branches et juridictions",
       "category": "Institutions judiciaires"
+    },
+    {
+      "id": "fondements-droit",
+      "file": "fondements-droit.json",
+      "title": "Le(s) fondement(s) du droit",
+      "category": "Droit — Fondements et philosophie"
+    },
+    {
+      "id": "elements-methode",
+      "file": "elements-methode.json",
+      "title": "Les éléments de méthode juridique",
+      "category": "Droit — Méthodologie juridique"
+    },
+    {
+      "id": "compare-international",
+      "file": "compare-international.json",
+      "title": "Le droit comparé et le droit international privé",
+      "category": "Droit — Droit comparé et international privé"
     }
   ]
 }
