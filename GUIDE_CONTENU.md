@@ -1,19 +1,8 @@
 # Guide de rédaction des chapitres (flashcards & QCM)
 
 Ce document est la référence à fournir à Claude (ou à suivre soi-même) pour
-produire de nouveaux fichiers `data/<matière>/<chapitre>.json` qui s'intègrent
+produire de nouveaux fichiers `data/<chapitre>.json` qui s'intègrent
 directement dans Cabinet ENM, sans réglage supplémentaire.
-
-> **Structure multi-matières.** Le contenu est désormais rangé par matière :
-> `data/penal/`, `data/civil/`, `data/culture-g/`. Chaque dossier possède son
-> propre `manifest.json` listant ses chapitres. La matière « Droit Pénal » est
-> déjà remplie ; « Droit Civil » et « Culture générale » sont vides et prêtes à
-> recevoir des chapitres. Pour ajouter du contenu à une matière, déposez le
-> fichier de chapitre dans le dossier correspondant et référencez-le dans le
-> `manifest.json` **de ce dossier**.
->
-> Pour ajouter une matière supplémentaire : créez un dossier `data/<id>/` avec
-> son `manifest.json`, puis ajoutez une entrée dans `data/themes.json`.
 
 ---
 
@@ -132,6 +121,30 @@ dont la structure globale est :
   absurde évidente qui se devine sans connaître le cours), idéalement basées
   sur des confusions fréquentes (article voisin, condition oubliée, exception
   généralisée à tort...).
+- **Aucune référence d'article de loi dans les options** (`options`) :
+  les numéros d'article, de loi, d'ordonnance ou de décision ne doivent
+  jamais apparaître dans les 4 propositions, car cela permettrait de
+  deviner ou d'éliminer une réponse par simple reconnaissance d'un numéro,
+  sans connaître le fond. Ces références restent en revanche autorisées
+  (et même recommandées) dans `question` et dans `explanation`.
+- **Toute référence d'article de loi citée dans `question` doit être
+  expliquée** : dès qu'un numéro d'article, de loi, d'ordonnance ou de
+  décision apparaît dans l'énoncé de la question, le contenu (la règle de
+  droit) de cet article doit être indiqué — soit directement dans la
+  question (si nécessaire à sa compréhension), soit dans `explanation`. On
+  ne doit jamais laisser une référence d'article « nue » sans préciser ce
+  qu'elle dit : citer un numéro d'article sans en exposer la teneur ne
+  permet pas de réviser la règle elle-même, seulement de mémoriser un
+  numéro.
+- **Longueur homogène des 4 options** : les propositions d'un même QCM
+  doivent avoir une taille comparable, **chacune comprise entre 75 et 90
+  caractères**. Une option nettement plus longue ou plus courte que les
+  autres constitue souvent un indice involontaire de la bonne réponse —
+  veiller à reformuler pour équilibrer.
+  **Exception** : si la question appelle naturellement des réponses très
+  courtes (date, nom propre, terme technique de 1 à 3 mots, chiffre…),
+  les options peuvent être brèves sans padding artificiel. Les 4 options
+  restent néanmoins homogènes entre elles.
 
 ### Complémentarité flashcards / QCM
 
@@ -151,6 +164,12 @@ dont la structure globale est :
 - Références précises (articles de code, dates de décisions/arrêts,
   numéros de loi) systématiquement reprises telles qu'elles apparaissent dans
   la source.
+- **Si le `front` d'une flashcard cite un article de loi**, le `back` doit
+  obligatoirement exposer le contenu de cet article (ce que dit la règle de
+  droit), et non se limiter à renvoyer au numéro. Même règle que pour les
+  QCM (voir section « QCM » ci-dessus) : une référence d'article ne se
+  suffit jamais à elle-même, elle doit toujours être accompagnée de son
+  contenu.
 - Pas d'ambiguïté : une flashcard ou un QCM doit pouvoir être évalué comme
   vrai/faux sans débat d'interprétation.
 - Les `tags` servent à indexer les notions transversales (ex. « rétroactivité
@@ -167,6 +186,15 @@ Avant de livrer un chapitre, Claude vérifie que :
 - [ ] chaque `answer` est un index valide (0 à 3) ;
 - [ ] le nombre de flashcards et de QCM correspond à la demande ;
 - [ ] aucune redondance flashcard/QCM sur le même point précis ;
+- [ ] aucune **option** de QCM ne contient de référence d'article de loi
+      (les références restent autorisées dans la question et l'explication) ;
+- [ ] toute référence d'article de loi présente dans une `question` (QCM) ou
+      un `front` (flashcard) est accompagnée de son contenu — soit dans
+      l'énoncé lui-même, soit dans `explanation`/`back` ;
+- [ ] les 4 options de chaque QCM ont une longueur comparable, **chacune
+      entre 75 et 90 caractères** — sauf si la question appelle des réponses
+      naturellement courtes (date, terme court, chiffre), auquel cas les
+      options peuvent être brèves à condition d'être homogènes entre elles ;
 - [ ] `data/manifest.json` contient bien la nouvelle entrée, avec le même
       `id` et le même `title` que dans le fichier de chapitre.
 
@@ -195,18 +223,18 @@ et la cohérence des catégories.
   "flashcards": [
     {
       "id": "exemple-fc-001",
-      "front": "Quelle est la question ?",
-      "back": "Voici la réponse complète et autonome.",
+      "front": "Que prévoit l'article 111-4 du code pénal ?",
+      "back": "La loi pénale est d'interprétation stricte : on ne peut ni l'étendre par analogie, ni l'appliquer à des faits qu'elle ne vise pas expressément.",
       "tags": ["exemple"]
     }
   ],
   "qcm": [
     {
       "id": "exemple-qcm-001",
-      "question": "Quelle proposition est correcte ?",
+      "question": "Selon l'article 111-4 du code pénal, comment la loi pénale doit-elle être interprétée ?",
       "options": ["Proposition A", "Proposition B (correcte)", "Proposition C", "Proposition D"],
       "answer": 1,
-      "explanation": "La proposition B est correcte car... ; les autres sont écartées car...",
+      "explanation": "L'article 111-4 du code pénal impose une interprétation stricte de la loi pénale, ce qui exclut tout raisonnement par analogie en défaveur de la personne poursuivie ; les autres propositions sont écartées car...",
       "tags": ["exemple"]
     }
   ]
