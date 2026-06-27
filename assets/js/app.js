@@ -597,6 +597,12 @@ function setupReglages() {
     try {
       const text = await file.text();
       const payload = JSON.parse(text);
+      const looksValid =
+        (payload.version === 2 && payload.themes && typeof payload.themes === "object") ||
+        (payload.version === 1 && payload.items && typeof payload.items === "object");
+      if (!looksValid) {
+        throw new Error("ce fichier ne ressemble pas à un export de progression Cabinet ENM (clés « themes »/« items » absentes).");
+      }
       state.progress = mergeProgress(state.progress, payload);
       saveProgress(state.progress);
       renderDashboard();
@@ -675,6 +681,9 @@ function setSyncStatus(mode) {
 // Synchronisation GitHub automatique
 // ------------------------------------------------------------
 let autoPushTimer = null;
+let retryTimer = null;
+let consecutiveFailures = 0;
+const MAX_AUTO_RETRIES = 3; // au-delà, on attend une action de l'utilisateur
 
 function isGithubConfigured() {
   const gh = state.settings.github;
@@ -684,22 +693,82 @@ function isGithubConfigured() {
 /**
  * Planifie une sauvegarde sur GitHub quelques secondes après la
  * dernière modification (regroupe les réponses successives en un
- * seul appel API).
+ * seul appel API). Après chaque réponse validée (recordResult),
+ * cette fonction est appelée : c'est le point d'entrée du
+ * déclenchement automatique de la synchro.
  */
 function scheduleAutoPush() {
-  if (!isGithubConfigured()) return;
+  if (!isGithubConfigured()) {
+    setSyncStatus("offline");
+    return;
+  }
   setSyncStatus("pending");
   if (autoPushTimer) clearTimeout(autoPushTimer);
-  autoPushTimer = setTimeout(async () => {
-    try {
-      const payload = exportProgressPayload(state.progress);
-      await pushProgress(state.settings.github, payload);
-      setSyncStatus("synced");
-    } catch (err) {
-      console.error("Échec de la synchronisation automatique GitHub", err);
-      setSyncStatus("error");
+  autoPushTimer = setTimeout(() => doPush(), 4000);
+}
+
+/**
+ * Effectue réellement l'appel GitHub. En cas d'échec, programme
+ * automatiquement de nouvelles tentatives (backoff progressif).
+ * Au-delà de MAX_AUTO_RETRIES échecs consécutifs, arrête les
+ * tentatives automatiques et affiche une alerte visible avec un
+ * bouton « Réessayer » manuel, pour ne jamais rester silencieusement
+ * désynchronisé sans que l'utilisateur en soit informé.
+ */
+async function doPush() {
+  if (!isGithubConfigured()) {
+    setSyncStatus("offline");
+    return;
+  }
+  try {
+    const payload = exportProgressPayload(state.progress);
+    await pushProgress(state.settings.github, payload);
+    setSyncStatus("synced");
+    consecutiveFailures = 0;
+    hideSyncToast();
+  } catch (err) {
+    console.error("Échec de la synchronisation automatique GitHub", err);
+    setSyncStatus("error");
+    consecutiveFailures += 1;
+    if (consecutiveFailures <= MAX_AUTO_RETRIES) {
+      const delay = Math.min(30000, 4000 * 2 ** consecutiveFailures); // backoff: 8s,16s,30s
+      if (retryTimer) clearTimeout(retryTimer);
+      retryTimer = setTimeout(() => doPush(), delay);
+    } else {
+      showSyncToast(
+        "Synchronisation GitHub impossible depuis plusieurs tentatives. " +
+        "Votre progression est conservée sur cet appareil mais pas encore envoyée. " +
+        "Vérifiez votre connexion ou votre jeton GitHub dans Réglages."
+      );
     }
-  }, 4000);
+  }
+}
+
+/**
+ * Affiche un message d'alerte persistant et visible (pas seulement
+ * le petit point de couleur) quand la synchro échoue durablement.
+ */
+function showSyncToast(message) {
+  const toast = $("#sync-toast");
+  if (!toast) return;
+  $("#sync-toast-msg").textContent = message;
+  toast.classList.add("is-visible");
+}
+
+function hideSyncToast() {
+  const toast = $("#sync-toast");
+  if (!toast) return;
+  toast.classList.remove("is-visible");
+}
+
+function setupSyncToastRetry() {
+  const btn = $("#sync-toast-retry");
+  if (!btn) return;
+  btn.addEventListener("click", () => {
+    consecutiveFailures = 0;
+    hideSyncToast();
+    doPush();
+  });
 }
 
 /**
@@ -731,6 +800,7 @@ async function autoPullOnStartup() {
  * une synchronisation programmée par scheduleAutoPush).
  */
 function flushAutoPush() {
+  if (retryTimer) { clearTimeout(retryTimer); retryTimer = null; }
   if (!autoPushTimer) return;
   clearTimeout(autoPushTimer);
   autoPushTimer = null;
@@ -986,6 +1056,7 @@ async function init() {
   setupRevisions();
   setupFlashcardHandlers();
   setupQuitSession();
+  setupSyncToastRetry();
 
   $("#btn-start-session").addEventListener("click", startSession);
   $("#btn-back-to-themes").addEventListener("click", backToThemes);
