@@ -1,0 +1,169 @@
+{
+  "id": "systeme-juridique-francais",
+  "title": "Le système juridique français",
+  "category": "Droit — Introduction générale au droit",
+  "flashcards": [
+    {
+      "id": "sysjurfr-fc-001",
+      "front": "Quels sont les cinq rangs de la hiérarchie des normes en France, du sommet vers la base ?",
+      "back": "Constitutionnel (Constitution + bloc de constitutionnalité), conventionnel (traités et droit de l'UE, supérieurs aux lois selon l'article 55 de la Constitution), législatif (lois), réglementaire (décrets, arrêtés, ordonnances) et coutumier (usages, coutumes).",
+      "tags": ["hiérarchie des normes", "kelsen"]
+    },
+    {
+      "id": "sysjurfr-fc-002",
+      "front": "Que recouvre le « bloc de constitutionnalité » servant de référence au contrôle de constitutionnalité ?",
+      "back": "La Constitution de 1958, la Déclaration des droits de l'homme et du citoyen de 1789, le préambule de la Constitution de 1946 (avec les principes fondamentaux reconnus par les lois de la République) et la Charte de l'environnement de 2004.",
+      "tags": ["bloc de constitutionnalité"]
+    },
+    {
+      "id": "sysjurfr-fc-003",
+      "front": "Quelles sont les trois étapes de la procédure de Question Prioritaire de Constitutionnalité (QPC) ?",
+      "back": "1) Le justiciable soulève la question devant toute juridiction ; 2) le Conseil d'État ou la Cour de cassation filtre la question (sérieuse, non déjà tranchée, applicable au litige) ; 3) le Conseil constitutionnel statue en trois mois, avec abrogation immédiate ou différée.",
+      "tags": ["qpc"]
+    },
+    {
+      "id": "sysjurfr-fc-004",
+      "front": "Quelle différence sépare un règlement et une directive dans l'ordre juridique de l'Union européenne ?",
+      "back": "Le règlement est obligatoire et directement applicable, assimilé à une loi interne dès son entrée en vigueur, sans loi de transposition. La directive n'est obligatoire que quant au résultat à atteindre, laissant aux États un délai et une liberté de moyens pour la transposer.",
+      "tags": ["droit de l'union européenne"]
+    },
+    {
+      "id": "sysjurfr-fc-005",
+      "front": "Quels sont les deux éléments constitutifs d'une règle coutumière ?",
+      "back": "L'élément matériel (un usage prolongé, constant et durable, formant une façon d'agir commune à un milieu donné) et l'élément psychologique ou opinio juris (le sentiment partagé que cette pratique a un caractère juridiquement obligatoire).",
+      "tags": ["coutume"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "sysjurfr-qcm-001",
+      "question": "Pourquoi la théorie pyramidale de Hans Kelsen est-elle présentée comme incomplète dans la description du système juridique français actuel ?",
+      "options": [
+        "Elle ignore les règles coutumières et les principes généraux dégagés par le juge",
+        "Elle place le règlement au-dessus de la loi dans l'ordre interne des normes",
+        "Elle nie toute existence d'un contrôle de constitutionnalité en droit français",
+        "Elle considère que la coutume prime systématiquement sur la loi écrite votée"
+      ],
+      "answer": 0,
+      "explanation": "Le cours précise que la vision kelsénienne est incomplète car elle ne tient pas compte des règles coutumières, des principes généraux formulés par les juridictions, ni de l'irruption des normes internationales et européennes qui remettent en cause la primauté de la Constitution sur ces normes supranationales.",
+      "tags": ["hiérarchie des normes"]
+    },
+    {
+      "id": "sysjurfr-qcm-002",
+      "question": "Quelle caractéristique technique distingue le plus nettement la Convention européenne des droits de l'homme (CEDH) des autres conventions internationales de protection des droits de l'homme ?",
+      "options": [
+        "Tout justiciable peut la saisir directement après épuisement des voies internes",
+        "Elle ne dispose d'aucun organe juridictionnel chargé de sanctionner les États",
+        "Ses décisions ne s'imposent jamais aux États parties à la convention signée",
+        "Elle ne permet pas d'invoquer la convention devant les juridictions nationales"
+      ],
+      "answer": 0,
+      "explanation": "Le cours identifie quatre caractéristiques cumulées de la CEDH, dont la possibilité pour tout justiciable de saisir directement la Cour de Strasbourg après épuisement des voies de recours internes, combinée à un véritable organe juridictionnel et à un pouvoir de condamnation pécuniaire des États, ce qui la distingue de conventions comme la DUDH de 1948, dépourvue de force coercitive.",
+      "tags": ["cedh"]
+    },
+    {
+      "id": "sysjurfr-qcm-003",
+      "question": "Quelle est la différence essentielle d'application en droit interne entre un règlement et une directive de l'Union européenne ?",
+      "options": [
+        "Le règlement est d'application immédiate, sans loi de transposition nécessaire",
+        "La directive s'applique immédiatement, sans délai de transposition à respecter",
+        "Le règlement nécessite toujours une loi nationale pour produire un effet direct",
+        "La directive impose les moyens à employer, sans laisser aucune marge aux États"
+      ],
+      "answer": 0,
+      "explanation": "Le règlement européen est obligatoire et directement applicable, assimilé à une loi interne sans nécessiter de loi de transposition ; la directive, à l'inverse, fixe un résultat à atteindre mais laisse aux États un délai de transposition et une liberté quant aux moyens, sous réserve de l'interprétation conforme dégagée par la jurisprudence Marleasing de la CJCE en 1990.",
+      "tags": ["droit de l'union européenne"]
+    },
+    {
+      "id": "sysjurfr-qcm-004",
+      "question": "Comment sont nommés les neuf membres du Conseil constitutionnel selon l'article 56 de la Constitution ?",
+      "options": [
+        "Trois membres sont nommés respectivement par chacune des trois autorités prévues",
+        "Tous les membres sont élus directement par les citoyens au scrutin universel",
+        "Le mandat de neuf ans est renouvelable indéfiniment par décision présidentielle",
+        "Les anciens députés siègent de droit aux côtés des membres normalement nommés"
+      ],
+      "answer": 0,
+      "explanation": "Le Conseil constitutionnel compte neuf membres nommés à raison de trois par chacune des trois autorités prévues : le Président de la République, le président de l'Assemblée nationale et le président du Sénat ; leur mandat de neuf ans n'est pas renouvelable, et seuls les anciens Présidents de la République (et non les anciens députés) en sont membres de droit.",
+      "tags": ["conseil constitutionnel"]
+    },
+    {
+      "id": "sysjurfr-qcm-005",
+      "question": "Qu'a précisément changé la décision du Conseil constitutionnel du 16 juillet 1971 relative à la liberté d'association ?",
+      "options": [
+        "Le contrôle s'est étendu au contenu des lois via le préambule constitutionnel",
+        "Le Conseil a perdu toute compétence pour contrôler la répartition des pouvoirs",
+        "La décision a supprimé le contrôle de constitutionnalité avant la promulgation",
+        "Le Conseil constitutionnel a cessé d'examiner la conformité au bloc de référence"
+      ],
+      "answer": 0,
+      "explanation": "Avant cette décision fondatrice, le Conseil constitutionnel se limitait à contrôler la répartition des compétences entre la loi et le règlement ; à partir de 1971, il étend son contrôle au contenu même des lois, en vérifiant leur conformité au préambule de la Constitution, ce qui élargit considérablement le bloc de constitutionnalité de référence.",
+      "tags": ["bloc de constitutionnalité"]
+    },
+    {
+      "id": "sysjurfr-qcm-006",
+      "question": "Quel apport spécifique la Question Prioritaire de Constitutionnalité (QPC), introduite en 2008, a-t-elle représenté par rapport au contrôle de constitutionnalité antérieur ?",
+      "options": [
+        "Une disposition législative déjà en vigueur peut être contestée lors d'un litige",
+        "Seules les lois non encore promulguées peuvent faire l'objet d'une telle question",
+        "Le justiciable doit saisir directement le Conseil constitutionnel sans aucun filtre",
+        "La question prioritaire ne concerne que les lois organiques et les règlements"
+      ],
+      "answer": 0,
+      "explanation": "Avant 2008, le contrôle de constitutionnalité n'intervenait qu'avant la promulgation de la loi (contrôle a priori) ; la QPC permet désormais de contester une disposition législative déjà en vigueur à l'occasion d'un litige, après filtrage par le Conseil d'État ou la Cour de cassation, et non par une saisine directe du justiciable.",
+      "tags": ["qpc"]
+    },
+    {
+      "id": "sysjurfr-qcm-007",
+      "question": "Quel effet produit la ratification expresse d'une ordonnance prise sur le fondement de l'article 38 de la Constitution ?",
+      "options": [
+        "Si elle est ratifiée expressément, l'ordonnance acquiert une valeur législative",
+        "L'ordonnance conserve toujours une valeur réglementaire, même après ratification",
+        "Le gouvernement peut légiférer par ordonnance sans aucune autorisation parlementaire",
+        "Une ordonnance non ratifiée acquiert automatiquement une pleine valeur législative"
+      ],
+      "answer": 0,
+      "explanation": "L'ordonnance permet au gouvernement d'intervenir dans le domaine législatif, mais seulement après autorisation du Parlement et pour un temps déterminé ; si elle est ensuite ratifiée expressément par le Parlement, elle acquiert une valeur législative, tandis qu'à défaut de ratification expresse elle conserve une simple valeur réglementaire.",
+      "tags": ["ordonnance"]
+    },
+    {
+      "id": "sysjurfr-qcm-008",
+      "question": "Quelle est la différence de régime entre une loi supplétive et une loi impérative d'ordre public ?",
+      "options": [
+        "Une loi supplétive ne s'applique qu'à défaut de stipulation contraire des parties",
+        "Une loi impérative autorise toujours les parties à y déroger par contrat librement",
+        "Une loi supplétive s'impose à tous, sans possibilité de dérogation conventionnelle",
+        "Une loi impérative ne s'applique qu'en l'absence de clause contraire convenue"
+      ],
+      "answer": 0,
+      "explanation": "La loi supplétive, ou interprétative, ne s'applique qu'à défaut de stipulation contraire des parties, comme la règle par défaut sur les frais de livraison dans un contrat ; la loi impérative, d'ordre public, s'impose au contraire à tous sans qu'aucune dérogation par accord des parties ne soit possible.",
+      "tags": ["loi supplétive", "loi impérative"]
+    },
+    {
+      "id": "sysjurfr-qcm-009",
+      "question": "Dans quelle hypothèse une coutume contraire à la loi (contra legem) peut-elle néanmoins être appliquée par le juge ?",
+      "options": [
+        "Elle peut s'appliquer uniquement si la loi qu'elle contredit est supplétive",
+        "Elle l'emporte systématiquement sur toute loi, qu'elle soit impérative ou non",
+        "Elle est toujours écartée, même lorsque la loi concernée demeure supplétive",
+        "Elle ne peut jamais être qualifiée de règle coutumière selon le droit positif"
+      ],
+      "answer": 0,
+      "explanation": "Lorsque la coutume contredit directement la loi, elle ne peut s'appliquer que si la loi concernée est supplétive, qui admet par nature la dérogation ; si la loi est impérative, d'ordre public, la coutume contra legem est en revanche systématiquement écartée par le juge.",
+      "tags": ["coutume"]
+    },
+    {
+      "id": "sysjurfr-qcm-010",
+      "question": "Depuis la décision du Conseil constitutionnel du 15 janvier 1975 (dite décision IVG), quelles juridictions exercent le contrôle de conventionnalité des lois ?",
+      "options": [
+        "Les juridictions ordinaires, et non le Conseil constitutionnel lui-même saisi",
+        "Le seul Conseil constitutionnel, à l'exclusion de toute autre juridiction française",
+        "Exclusivement la Cour de justice de l'Union européenne, siégeant à Luxembourg",
+        "Le Président de la République, agissant seul en vertu de ses pouvoirs propres"
+      ],
+      "answer": 0,
+      "explanation": "Dans sa décision IVG du 15 janvier 1975, le Conseil constitutionnel a refusé d'exercer lui-même le contrôle de conventionnalité, estimant que ce n'était pas son rôle ; ce sont donc les juridictions ordinaires qui s'en chargent, la Cour de cassation depuis cette même année 1975 (arrêt Jacques Vabre) et le Conseil d'État depuis 1989 (arrêt Nicolo).",
+      "tags": ["contrôle de conventionnalité"]
+    }
+  ]
+}

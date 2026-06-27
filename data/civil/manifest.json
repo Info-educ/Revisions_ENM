@@ -23,6 +23,12 @@
       "file": "compare-international.json",
       "title": "Le droit comparé et le droit international privé",
       "category": "Droit — Droit comparé et international privé"
+    },
+    {
+      "id": "systeme-juridique-francais",
+      "file": "systeme-juridique-francais.json",
+      "title": "Le système juridique français",
+      "category": "Droit — Introduction générale au droit"
     }
   ]
 }
