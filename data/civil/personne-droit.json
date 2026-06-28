@@ -1,0 +1,143 @@
+{
+  "id": "personne-droit",
+  "title": "La personne reconnue par le droit",
+  "category": "Droit civil — Les personnes",
+  "flashcards": [
+    {
+      "id": "personne-fc-001",
+      "front": "Qu'est-ce que l'adage infans conceptus pro nato habetur (arts. 725 et 906 C. civ.) ?",
+      "back": "L'enfant simplement conçu est réputé né chaque fois que c'est dans son intérêt — par exemple pour hériter d'un père décédé avant sa naissance. Cette fiction de rétroactivité de la personnalité juridique suppose toutefois que l'enfant naisse viable.",
+      "tags": ["infans conceptus", "arts. 725 et 906"]
+    },
+    {
+      "id": "personne-fc-002",
+      "front": "Que prévoit l'art. 16 du Code civil sur la dignité de la personne ?",
+      "back": "La loi assure la primauté de la personne, interdit toute atteinte à sa dignité et garantit le respect de l'être humain dès le commencement de sa vie. La dignité a valeur constitutionnelle (Cons. const., 2 juin 2017, n° 2017-632 QPC) et signifie que la personne est toujours une fin, jamais un moyen.",
+      "tags": ["dignité", "art. 16"]
+    },
+    {
+      "id": "personne-fc-003",
+      "front": "Quelle différence sépare la disparition (art. 88 C. civ.) de l'absence (art. 112 C. civ.) ?",
+      "back": "La disparition concerne une personne dont le corps est introuvable mais dont la mort est probable (ex. marin disparu en tempête) : un jugement déclaratif de décès est rendu. L'absence concerne une personne qui a cessé de paraître à son domicile sans nouvelles, sans certitude ni probabilité de décès : deux phases successives (présomption puis déclaration d'absence) sont organisées.",
+      "tags": ["disparition", "absence"]
+    },
+    {
+      "id": "personne-fc-004",
+      "front": "Quelles sont les deux conditions posées par l'arrêt Civ. 2e, 28 janvier 1954 pour reconnaître la personnalité civile à un groupement ?",
+      "back": "La personnalité civile appartient à tout groupement pourvu d'une possibilité d'expression collective pour la défense d'intérêts licites, sous deux conditions cumulatives : un intérêt identifiable et une volonté propre. Cette personnalité n'est donc pas une création de la loi mais peut être reconnue par la jurisprudence.",
+      "tags": ["personne morale", "civ. 2e 1954"]
+    },
+    {
+      "id": "personne-fc-005",
+      "front": "Qu'a jugé la Cour de cassation dans l'arrêt Clément-Bayard (Ch. req., 3 août 1915) sur l'abus de droit ?",
+      "back": "Coquerel avait érigé des pieux sur sa parcelle, sans aucune utilité pour lui, dans le seul but de gêner les dirigeables de son voisin. La Cour le condamne : l'exercice d'un droit dans l'unique intention de nuire est abusif, car tout droit a une fonction sociale (Josserand) et son exercice n'est pas absolu.",
+      "tags": ["abus de droit", "clément-bayard"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "personne-qcm-001",
+      "question": "Quel est le statut juridique de l'embryon, à la lumière du jugement du TA d'Amiens (2004) et de la loi bioéthique de 2021 ?",
+      "options": [
+        "L'embryon n'a pas de personnalité juridique et ne bénéficie d'aucune protection générale",
+        "L'embryon bénéficie de la même personnalité juridique qu'une personne déjà née viable",
+        "L'embryon est un sujet de droit dès sa conception, selon le jugement du TA d'Amiens",
+        "L'embryon devient sujet de droit dès le 14e jour de son développement in vitro"
+      ],
+      "answer": 0,
+      "explanation": "L'embryon n'est pas un sujet de droit : il n'a pas de personnalité juridique et ne bénéficie d'aucune protection générale en tant que telle, comme l'a confirmé le TA d'Amiens en refusant la personnalité juridique à un embryon congelé. La loi bioéthique de 2021 encadre seulement les recherches sur l'embryon in vitro, avec fin du développement autorisé au 14e jour (art. L. 2151-3-1 CSP), sans lui conférer de personnalité.",
+      "tags": ["embryon"]
+    },
+    {
+      "id": "personne-qcm-002",
+      "question": "Que signifie l'adage infans conceptus pro nato habetur, appliqué notamment en matière successorale (arts. 725 et 906 C. civ.) ?",
+      "options": [
+        "L'enfant conçu est réputé né chaque fois que cela correspond à son intérêt propre",
+        "L'enfant conçu n'a jamais aucun droit, même s'il naît vivant et viable par la suite",
+        "L'enfant conçu hérite automatiquement, qu'il naisse viable ou non après le décès",
+        "L'enfant conçu n'est réputé né que s'il atteint sa majorité avant toute succession"
+      ],
+      "answer": 0,
+      "explanation": "L'adage infans conceptus pro nato habetur permet de réputer né l'enfant simplement conçu chaque fois que c'est dans son intérêt, par exemple pour hériter rétroactivement d'un père décédé avant sa naissance. Cette fiction suppose toutefois que l'enfant naisse viable : un enfant mort avant terme ne peut en bénéficier, ce qui exclut une acquisition automatique et inconditionnelle des droits successoraux.",
+      "tags": ["infans conceptus"]
+    },
+    {
+      "id": "personne-qcm-003",
+      "question": "Quelle position la CEDH a-t-elle adoptée dans l'arrêt Vo c/ France (2004) sur la qualification du fœtus au regard de l'art. 2 de la Convention (droit à la vie) ?",
+      "options": [
+        "La Cour refuse de trancher dans l'abstrait, la question relevant de la marge des États",
+        "La Cour reconnaît expressément que le fœtus est une personne au sens de la Convention",
+        "La Cour affirme qu'aucun État ne peut jamais autoriser l'interruption de grossesse",
+        "La Cour impose un délai légal unique d'IVG identique dans tous les États membres"
+      ],
+      "answer": 0,
+      "explanation": "Dans l'arrêt Vo c/ France, la CEDH estime qu'il n'est « ni souhaitable ni possible » de répondre dans l'abstrait à la question de savoir si le fœtus est une « personne » au sens de l'art. 2 de la Convention. La question du début de la vie relève de la marge d'appréciation des États, faute de consensus européen, ce qui explique la diversité des délais d'IVG en Europe (24 semaines aux Pays-Bas et en Angleterre, 14 semaines en France).",
+      "tags": ["cedh vo c/ france"]
+    },
+    {
+      "id": "personne-qcm-004",
+      "question": "Que signifie le principe de dignité de la personne humaine consacré par l'art. 16 du Code civil et reconnu de valeur constitutionnelle (Cons. const., 2 juin 2017) ?",
+      "options": [
+        "La dignité signifie que la personne humaine est toujours une fin, jamais un moyen",
+        "La dignité n'a qu'une valeur législative ordinaire, sans portée constitutionnelle",
+        "La dignité autorise toute forme d'eugénisme dès lors que la personne y consent",
+        "La dignité ne concerne que les personnes vivantes, jamais le respect des cadavres"
+      ],
+      "answer": 0,
+      "explanation": "La dignité signifie que la personne est toujours une fin, jamais un moyen ; elle a été reconnue de valeur constitutionnelle par la décision du Conseil constitutionnel du 2 juin 2017 (n° 2017-632 QPC). C'est en son nom que l'eugénisme est interdit, que les soins palliatifs sont garantis et que la dépouille reste protégée après la mort, toute atteinte à l'intégrité du cadavre étant sanctionnée (art. 225-17 C. pén.).",
+      "tags": ["dignité"]
+    },
+    {
+      "id": "personne-qcm-005",
+      "question": "Selon quels critères médicaux la mort de la personne est-elle constatée en droit français (décret n° 2005-949) ?",
+      "options": [
+        "La mort est constatée selon trois critères cumulatifs fixés par décret de 2005",
+        "La mort est constatée par le seul arrêt cardiaque, sans autre critère médical requis",
+        "La mort est constatée uniquement par un juge, jamais par un médecin compétent",
+        "La mort n'est jamais constatée selon des critères médicaux précis et cumulatifs"
+      ],
+      "answer": 0,
+      "explanation": "Le décret n° 2005-949 fixe trois critères médicaux cumulatifs : l'absence totale de conscience et d'activité motrice spontanée, l'abolition de tous les réflexes du tronc cérébral, et l'absence totale de ventilation spontanée. Le décès entraîne la perte de la personnalité juridique, et l'acte de décès est ensuite dressé par l'officier d'état civil (arts. 78-79 C. civ.).",
+      "tags": ["mort de la personne"]
+    },
+    {
+      "id": "personne-qcm-006",
+      "question": "Quelle différence fondamentale sépare le régime de la disparition (art. 88 C. civ.) de celui de l'absence (art. 112 C. civ.) ?",
+      "options": [
+        "La disparition présume la mort probable, l'absence ne fait que constater l'incertitude",
+        "La disparition et l'absence produisent exactement les mêmes effets juridiques immédiats",
+        "L'absence présume toujours la mort certaine de la personne dès sa première constatation",
+        "La disparition exige systématiquement un délai de dix ans avant toute déclaration"
+      ],
+      "answer": 0,
+      "explanation": "La disparition vise une personne dont le corps est introuvable mais dont la mort est probable (ex. marin disparu en tempête) : un jugement déclaratif de décès est rendu sans délai d'attente. L'absence, à l'inverse, concerne une personne ayant cessé de paraître sans nouvelles, sans certitude ni probabilité de décès : elle suit deux phases successives, présomption d'absence (jusqu'à 10 ans) puis déclaration d'absence (au-delà de 10 ans).",
+      "tags": ["disparition", "absence"]
+    },
+    {
+      "id": "personne-qcm-007",
+      "question": "Selon la théorie de l'abus de droit illustrée par l'arrêt Clément-Bayard (Ch. req., 3 août 1915), dans quel cas l'exercice d'un droit subjectif devient-il fautif ?",
+      "options": [
+        "L'abus de droit sanctionne l'exercice d'un droit avec intention de nuire ou par faute",
+        "L'abus de droit ne sanctionne que l'intention de nuire, jamais la simple faute",
+        "L'exercice d'un droit subjectif ne peut jamais être qualifié d'abusif par le juge",
+        "L'abus de droit ne concerne que les droits patrimoniaux, jamais les droits de la personne"
+      ],
+      "answer": 0,
+      "explanation": "Selon Josserand, tout droit a une fonction sociale : son exercice n'est pas absolu. L'abus de droit consiste à exercer son droit avec l'intention de nuire ou par une simple faute, comme dans l'affaire Clément-Bayard, où Coquerel avait érigé des pieux sans utilité pour lui dans le seul but de gêner les dirigeables de son voisin. Le principe s'applique aussi bien aux droits patrimoniaux qu'aux droits extrapatrimoniaux de la personne.",
+      "tags": ["abus de droit"]
+    },
+    {
+      "id": "personne-qcm-008",
+      "question": "Selon l'arrêt Civ. 2e, 28 janvier 1954, à quelles conditions un groupement obtient-il la personnalité civile ?",
+      "options": [
+        "La personnalité civile appartient à tout groupement ayant un intérêt et une volonté",
+        "La personnalité civile n'existe que pour les groupements expressément créés par la loi",
+        "Toute association sans intérêt identifiable bénéficie automatiquement de la personnalité",
+        "La personnalité civile suppose un patrimoine confondu avec celui de ses membres"
+      ],
+      "answer": 0,
+      "explanation": "L'arrêt du 28 janvier 1954 énonce que la personnalité civile appartient à tout groupement pourvu d'une possibilité d'expression collective pour la défense d'intérêts licites, sous deux conditions cumulatives : un intérêt identifiable et une volonté propre. Cette personnalité n'est donc pas une création exclusive de la loi, et le patrimoine de la personne morale reste autonome, distinct de celui de ses membres, ce qui protège les créanciers sociaux.",
+      "tags": ["personne morale"]
+    }
+  ]
+}

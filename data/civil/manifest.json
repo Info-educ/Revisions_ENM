@@ -47,6 +47,12 @@
       "file": "interpretation-droit.json",
       "title": "L'interprétation des règles de droit",
       "category": "Droit — Introduction générale au droit"
+    },
+    {
+      "id": "personne-droit",
+      "file": "personne-droit.json",
+      "title": "La personne reconnue par le droit",
+      "category": "Droit civil — Les personnes"
     }
   ]
 }
