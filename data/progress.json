@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782657760735,
+  "updatedAt": 1782657786245,
   "themes": {
     "civil": {
       "items": {
@@ -437,6 +437,13 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1782657756727
+        },
+        "personne-qcm-006": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782657782236
         }
       }
     },
