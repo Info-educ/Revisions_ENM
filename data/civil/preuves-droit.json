@@ -1,0 +1,143 @@
+{
+  "id": "preuves-droit",
+  "title": "Les preuves en droit",
+  "category": "Droit — Introduction générale au droit",
+  "flashcards": [
+    {
+      "id": "preuve-fc-001",
+      "front": "Que dit l'art. 9 du Code de procédure civile (CPC) sur la charge de la preuve des faits ?",
+      "back": "Il incombe à chaque partie de prouver, conformément à la loi, les faits nécessaires au succès de sa prétention. Le droit incombe en revanche au juge, qui qualifie les faits et recherche la règle applicable (art. 12 CPC).",
+      "tags": ["objet de la preuve", "art. 9 cpc"]
+    },
+    {
+      "id": "preuve-fc-002",
+      "front": "Quelle est la règle posée par l'art. 1353 du Code civil sur la charge de la preuve ?",
+      "back": "Celui qui réclame l'exécution d'une obligation doit la prouver. Réciproquement, celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l'extinction de son obligation (actori incumbit probatio).",
+      "tags": ["charge de la preuve", "art. 1353"]
+    },
+    {
+      "id": "preuve-fc-003",
+      "front": "Quelles sont les trois catégories de présomptions légales (art. 1354 C. civ.) ?",
+      "back": "La présomption simple (renversable par tout moyen de preuve contraire), la présomption mixte (renversement limité aux moyens prévus par la loi) et la présomption irréfragable (impossible à renverser, le fait présumé étant tenu pour vrai).",
+      "tags": ["présomptions", "art. 1354"]
+    },
+    {
+      "id": "preuve-fc-004",
+      "front": "Quelle est la double condition exigée pour la preuve par écrit, notamment électronique (arts. 1365-1368 C. civ.) ?",
+      "back": "L'écrit doit permettre l'identification de son auteur et être établi et conservé dans des conditions garantissant son intégrité. Sous ces deux conditions, l'écrit électronique a la même valeur probante que l'écrit sur support papier.",
+      "tags": ["preuve par écrit", "arts. 1365-1368"]
+    },
+    {
+      "id": "preuve-fc-005",
+      "front": "Quelle est la portée de l'art. 1359 du Code civil sur les actes excédant un certain montant ?",
+      "back": "Au-delà d'un seuil fixé par décret (1 500 € depuis le décret du 20 août 2004), la preuve d'un acte juridique doit être faite par écrit. La preuve testimoniale est alors inefficace contre et outre le contenu de cet acte.",
+      "tags": ["preuve par écrit", "art. 1359"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "preuve-qcm-001",
+      "question": "Selon le principe directeur posé par les arts. 6, 9 et 12 du Code de procédure civile, comment se répartit la charge de la preuve entre le juge et les parties ?",
+      "options": [
+        "Les parties prouvent les faits du litige, le juge recherche et applique la règle de droit",
+        "Le juge prouve les faits, les parties désignent seulement la règle de droit applicable",
+        "Les parties prouvent à la fois les faits et la règle de droit, sans intervention du juge",
+        "Le juge prouve la règle de droit, les parties prouvent uniquement la loi étrangère"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 9 CPC impose aux parties de prouver les faits nécessaires au succès de leur prétention, tandis que l'art. 12 CPC charge le juge de trancher le litige conformément à la règle de droit applicable, qu'il recherche d'office. La loi étrangère fait toutefois exception : elle peut être traitée comme un fait à prouver par la partie qui l'invoque.",
+      "tags": ["objet de la preuve"]
+    },
+    {
+      "id": "preuve-qcm-002",
+      "question": "Conformément à l'art. 1353 du Code civil, comment se répartit la charge de la preuve entre créancier et débiteur d'une obligation ?",
+      "options": [
+        "Celui qui réclame l'exécution d'une obligation doit en prouver l'existence exacte",
+        "Celui qui se prétend libéré d'une obligation doit prouver le paiement ou le fait extinctif",
+        "Le défendeur doit toujours prouver l'absence de toute obligation envers le demandeur",
+        "Aucune des deux parties n'a la charge de la preuve, qui incombe exclusivement au juge"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1353 du Code civil pose deux règles symétriques : celui qui réclame l'exécution d'une obligation doit prouver son existence, et celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l'extinction. Les deux premières options sont donc également correctes, mais la première correspond à la règle de principe (actori incumbit probatio) ; si la preuve ne peut être rapportée, la partie qui en avait la charge succombe au procès.",
+      "tags": ["charge de la preuve"]
+    },
+    {
+      "id": "preuve-qcm-003",
+      "question": "Quelle est la caractéristique propre à la présomption simple, par opposition aux présomptions mixte et irréfragable (art. 1354 C. civ.) ?",
+      "options": [
+        "La présomption simple se renverse par tout moyen de preuve démontrant le contraire du fait",
+        "La présomption mixte ne peut être renversée par aucun moyen de preuve, quel qu'il soit",
+        "La présomption irréfragable se renverse par la preuve contraire apportée par n'importe qui",
+        "La présomption simple ne peut être renversée que par un acte authentique du fait"
+      ],
+      "answer": 0,
+      "explanation": "La présomption simple dispense de preuve mais admet la preuve contraire par tout moyen. La présomption mixte limite au contraire les moyens de renversement à ceux prévus par la loi, et la présomption irréfragable est impossible à renverser : le fait présumé est tenu pour définitivement vrai par la loi elle-même.",
+      "tags": ["présomptions"]
+    },
+    {
+      "id": "preuve-qcm-004",
+      "question": "Dans le cas pratique de l'obligation d'information médicale, comment la Cour de cassation (Civ. 1re, 25 février 1997) a-t-elle réparti la charge de la preuve, par dérogation à l'obligation de moyens classique ?",
+      "options": [
+        "Le patient doit prouver la faute médicale, le médecin prouve son obligation d'information",
+        "Le médecin doit prouver sa propre faute et l'exécution de son devoir d'information",
+        "Le patient prouve l'exécution de l'obligation d'information de son médecin traitant",
+        "Aucune des deux parties n'a la charge de prouver quoi que ce soit en matière médicale"
+      ],
+      "answer": 0,
+      "explanation": "Pour la faute médicale ordinaire, l'obligation de moyens fait peser la preuve de la faute sur le patient, ce qui est souvent difficile. Mais par l'arrêt du 25 février 1997, la Cour de cassation a renversé la charge de la preuve pour l'obligation d'information : c'est le médecin qui doit prouver qu'il a bien informé son patient, d'où l'intérêt pratique de la preuve préconstituée (document signé avant la prestation).",
+      "tags": ["cas pratique", "civ. 1re 1997"]
+    },
+    {
+      "id": "preuve-qcm-005",
+      "question": "Quelle est la valeur probante de l'écrit électronique selon les arts. 1365 à 1368 du Code civil ?",
+      "options": [
+        "L'écrit électronique a la même valeur probante que l'écrit manuscrit sous conditions",
+        "L'écrit électronique n'a jamais aucune valeur probante devant les juridictions civiles",
+        "L'écrit électronique vaut commencement de preuve mais jamais preuve parfaite et complète",
+        "L'écrit électronique n'est valable que s'il est contresigné par un officier ministériel"
+      ],
+      "answer": 0,
+      "explanation": "Les arts. 1365 à 1368 du Code civil assimilent l'écrit électronique à l'écrit papier, à la double condition que l'auteur en soit identifié et que son intégrité soit conservée dans des conditions de nature à en garantir la fiabilité ; sous ces conditions, sa force probante égale celle de l'écrit manuscrit, sans qu'aucun contreseing d'officier ministériel ne soit requis.",
+      "tags": ["preuve par écrit"]
+    },
+    {
+      "id": "preuve-qcm-006",
+      "question": "Quelle est la force probante de l'aveu judiciaire selon l'art. 1383-2 du Code civil ?",
+      "options": [
+        "L'aveu judiciaire fait foi, est indivisible et irrévocable sauf erreur de fait démontrée",
+        "L'aveu judiciaire peut toujours être librement rétracté par celui qui l'a prononcé",
+        "L'aveu judiciaire n'a qu'une valeur de simple témoignage soumise à appréciation souveraine",
+        "L'aveu judiciaire ne fait foi que s'il est confirmé par un écrit authentique postérieur"
+      ],
+      "answer": 0,
+      "explanation": "L'aveu judiciaire, déclaration faite en justice par une partie sur un fait qui lui est défavorable, fait foi contre son auteur ; il est indivisible et ne peut être révoqué, sauf en cas d'erreur de fait démontrée. C'est l'inverse de l'aveu extrajudiciaire, qui n'a qu'une valeur de simple témoignage laissée à l'appréciation souveraine des juges du fond.",
+      "tags": ["aveu judiciaire", "art. 1383-2"]
+    },
+    {
+      "id": "preuve-qcm-007",
+      "question": "Quelle est la portée de la force probante de l'acte authentique prévue à l'art. 1371 du Code civil ?",
+      "options": [
+        "L'acte authentique fait foi jusqu'à inscription de faux pour ce que l'officier a constaté",
+        "L'acte authentique peut être contesté librement sans aucune procédure particulière requise",
+        "L'acte authentique a une force probante équivalente à un acte sous signature privée",
+        "L'acte authentique perd toute valeur dès que l'une des parties en conteste le contenu"
+      ],
+      "answer": 0,
+      "explanation": "L'acte authentique, dressé par un officier public compétent disposant du droit d'instrumenter et dans le respect des solennités requises, fait foi jusqu'à inscription de faux pour tout ce que l'officier a personnellement constaté (art. 1371 C. civ.). Cette procédure de contestation, prévue aux arts. 303 à 305 CPC, est volontairement lourde car elle met en cause un officier public.",
+      "tags": ["acte authentique", "art. 1371"]
+    },
+    {
+      "id": "preuve-qcm-008",
+      "question": "Que retient la jurisprudence (Com. 3 juin 2008) à propos de la loyauté de la preuve, notamment pour un enregistrement téléphonique réalisé à l'insu d'une personne ?",
+      "options": [
+        "Une preuve obtenue de façon déloyale, comme un enregistrement à l'insu, est irrecevable",
+        "Toute preuve, même obtenue de manière déloyale, demeure recevable devant le juge civil",
+        "Seule la preuve obtenue par contrainte physique directe est jugée déloyale et irrecevable",
+        "La loyauté de la preuve ne s'apprécie qu'en matière pénale, jamais en matière civile"
+      ],
+      "answer": 0,
+      "explanation": "Le principe de loyauté de la preuve exclut toute preuve obtenue par un procédé déloyal, quelle que soit la matière concernée. L'enregistrement d'une conversation téléphonique réalisé à l'insu de son auteur en est l'exemple topique retenu par la chambre commerciale dans son arrêt du 3 juin 2008 : un tel procédé rend la preuve irrecevable, même si son contenu est probant.",
+      "tags": ["loyauté de la preuve"]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "application-loi",
+  "title": "L'application des règles de droit dans l'espace et le temps",
+  "category": "Droit — Introduction générale au droit",
+  "flashcards": [
+    {
+      "id": "appliloi-fc-001",
+      "front": "Que prévoit l'art. 3 du Code civil sur les conflits de lois dans l'espace ?",
+      "back": "L'art. 3 combine deux systèmes : la territorialité des lois (al. 1 et 2 — lois de police et immeubles régis par la loi française) et la personnalité des lois (al. 3 — lois sur l'état et la capacité des personnes qui suivent les Français même résidant à l'étranger).",
+      "tags": [
+        "application dans l'espace",
+        "art. 3"
+      ]
+    },
+    {
+      "id": "appliloi-fc-002",
+      "front": "Que prévoient les arts. 14 et 15 du Code civil sur le privilège de juridiction ?",
+      "back": "Ils ouvrent une compétence dite « exclusive » mais non impérative des tribunaux français dès qu'un Français est demandeur (art. 14) ou défendeur (art. 15), sous deux conditions cumulatives : qu'un Français soit partie au litige et que les parties n'aient pas renoncé à ce privilège.",
+      "tags": [
+        "conflit de juridictions",
+        "arts. 14-15"
+      ]
+    },
+    {
+      "id": "appliloi-fc-003",
+      "front": "Que pose l'art. 2 du Code civil sur l'application de la loi dans le temps ?",
+      "back": "« La loi ne dispose que pour l'avenir ; elle n'a point d'effet rétroactif. » Ce texte fonde deux principes directeurs : la non-rétroactivité de la loi nouvelle et, selon la théorie de Roubier, l'effet immédiat de la loi nouvelle sur les situations en cours.",
+      "tags": [
+        "application dans le temps",
+        "art. 2"
+      ]
+    },
+    {
+      "id": "appliloi-fc-004",
+      "front": "Quelle est la valeur du principe de non-rétroactivité en matière civile et en matière pénale ?",
+      "back": "En matière civile, la non-rétroactivité n'a qu'une valeur législative : le législateur peut y déroger expressément. En matière pénale, elle a une valeur supra-législative, intégrée au bloc de constitutionnalité (Cons. const., 19 et 20 janv. 1981) : le législateur ne peut y déroger.",
+      "tags": [
+        "non-rétroactivité"
+      ]
+    },
+    {
+      "id": "appliloi-fc-005",
+      "front": "Qu'est-ce que la rétroactivité in mitius ?",
+      "back": "C'est l'exception au principe de non-rétroactivité pénale : lorsqu'une loi pénale nouvelle est plus douce que l'ancienne, elle s'applique rétroactivement aux faits commis avant son entrée en vigueur. Cette exception a elle-même une valeur constitutionnelle.",
+      "tags": [
+        "rétroactivité in mitius"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "appliloi-qcm-001",
+      "question": "S'agissant du droit local d'Alsace-Moselle, quel est le principe régissant l'application des lois françaises postérieures à la réintégration de 1918 ?",
+      "options": [
+        "Application directe si fondement constitutionnel, sinon introduction expresse exigée",
+        "Toutes les lois françaises s'appliquent directement en Alsace-Moselle sans exception",
+        "Aucune loi française ne peut jamais s'appliquer en Alsace-Moselle sans décret spécial",
+        "Le droit local d'Alsace-Moselle a totalement disparu depuis la réintégration de 1918"
+      ],
+      "answer": 0,
+      "explanation": "Toute loi touchant au fondement constitutionnel de la nation s'applique directement en Alsace-Moselle. Pour les autres matières, en revanche, seules les lois postérieures à la réintégration s'appliquent directement ; les lois antérieures ne s'appliquent que si elles font l'objet d'une introduction expresse par loi ou décret, ce qui explique la persistance d'un droit local distinct (publicité foncière, statut des associations, protection des incapables).",
+      "tags": [
+        "alsace-moselle"
+      ]
+    },
+    {
+      "id": "appliloi-qcm-002",
+      "question": "Selon le système de territorialité des lois posé à l'art. 3, al. 1 et 2 du Code civil, à qui s'imposent les lois de police et de sûreté ?",
+      "options": [
+        "La loi du lieu s'impose à toute personne présente sur le territoire, sans distinction",
+        "Seuls les nationaux français sont soumis aux lois de police en vigueur sur le territoire",
+        "Les immeubles en France échappent à la loi française si le propriétaire est étranger",
+        "La territorialité des lois ne concerne que les biens meubles, jamais les immeubles"
+      ],
+      "answer": 0,
+      "explanation": "Le système de territorialité, posé à l'al. 1 de l'art. 3 du Code civil, soumet à la loi française toute personne présente sur le territoire, quelle que soit sa nationalité. L'al. 2 étend ce principe aux immeubles situés en France, qui restent régis par la loi française même si leur propriétaire est étranger — ce qui distingue ce système de la personnalité des lois posée à l'al. 3.",
+      "tags": [
+        "territorialité"
+      ]
+    },
+    {
+      "id": "appliloi-qcm-003",
+      "question": "Selon le système de personnalité des lois posé à l'art. 3, al. 3 du Code civil, quelles lois suivent les Français même à l'étranger ?",
+      "options": [
+        "Les lois sur l'état et la capacité suivent les Français même résidant à l'étranger",
+        "Les lois françaises sur l'état des personnes cessent de s'appliquer hors du territoire",
+        "La personnalité des lois ne concerne que les étrangers résidant sur le sol français",
+        "Seules les lois de police suivent les Français à l'étranger, pas celles sur l'état civil"
+      ],
+      "answer": 0,
+      "explanation": "L'al. 3 de l'art. 3 du Code civil pose le principe de personnalité des lois : les lois concernant l'état et la capacité des personnes régissent les Français même lorsqu'ils résident à l'étranger. Ce système complète la territorialité des al. 1 et 2, qui s'attache au lieu plutôt qu'à la nationalité de la personne concernée.",
+      "tags": [
+        "personnalité des lois"
+      ]
+    },
+    {
+      "id": "appliloi-qcm-004",
+      "question": "Quelle est la portée du privilège de juridiction prévu aux articles 14 et 15 du Code civil ?",
+      "options": [
+        "Compétence exclusive mais non impérative des tribunaux français si un Français est partie",
+        "Compétence impérative et absolue des tribunaux français dès qu'un Français est demandeur",
+        "Les tribunaux français ne sont jamais compétents lorsqu'un défendeur réside à l'étranger",
+        "Les parties ne peuvent jamais renoncer au privilège de juridiction des tribunaux français"
+      ],
+      "answer": 0,
+      "explanation": "Ce privilège de juridiction joue, sous deux conditions cumulatives, qu'un Français soit demandeur (art. 14) ou défendeur (art. 15) dans le litige. La compétence est dite exclusive mais non impérative : les parties peuvent y renoncer, ce qui exclut le caractère absolu suggéré par les autres propositions.",
+      "tags": [
+        "conflit de juridictions"
+      ]
+    },
+    {
+      "id": "appliloi-qcm-005",
+      "question": "Quelle est la portée exacte du principe de non-rétroactivité posé à l'art. 2 du Code civil ?",
+      "options": [
+        "La loi nouvelle ne peut s'appliquer aux effets passés de situations juridiques antérieures",
+        "La loi nouvelle s'applique toujours rétroactivement à toute situation déjà constituée",
+        "Le principe de non-rétroactivité ne concerne que les lois pénales, jamais les lois civiles",
+        "Le législateur ne peut jamais déroger expressément au principe de non-rétroactivité civile"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 2 du Code civil pose que la loi nouvelle ne peut être appliquée aux conditions de création et aux effets passés de situations juridiques nées antérieurement à son entrée en vigueur ; elle ne doit pas bouleverser les droits définitivement acquis. Ce principe s'applique tant en matière civile qu'en matière pénale, mais selon des valeurs juridiques différentes.",
+      "tags": [
+        "non-rétroactivité",
+        "art. 2"
+      ]
+    },
+    {
+      "id": "appliloi-qcm-006",
+      "question": "Qu'est-ce que la rétroactivité in mitius en matière pénale ?",
+      "options": [
+        "La loi pénale plus douce s'applique rétroactivement aux faits commis antérieurement",
+        "Une loi pénale plus douce ne s'applique jamais aux faits commis avant son entrée",
+        "La rétroactivité in mitius ne concerne que la procédure pénale, non le fond du droit",
+        "Toute loi pénale, douce ou sévère, s'applique rétroactivement selon le principe général"
+      ],
+      "answer": 0,
+      "explanation": "La rétroactivité in mitius constitue l'exception au principe de non-rétroactivité pénale : lorsque la loi pénale nouvelle est plus douce que l'ancienne, elle s'applique rétroactivement aux faits commis avant son entrée en vigueur. Cette exception bénéficie elle-même d'une valeur constitutionnelle, et s'applique au fond du droit pénal, non à la seule procédure.",
+      "tags": [
+        "rétroactivité in mitius"
+      ]
+    },
+    {
+      "id": "appliloi-qcm-007",
+      "question": "Selon la théorie de Roubier, comment les contrats en cours sont-ils traités face à une loi nouvelle qui ne touche pas à l'ordre public ?",
+      "options": [
+        "Les contrats restent soumis à la loi en vigueur lors de leur formation, sauf ordre public",
+        "Les contrats sont toujours régis par la loi nouvelle dès son entrée en vigueur",
+        "Une loi nouvelle d'ordre public ne peut jamais s'appliquer à un contrat déjà en cours",
+        "La survie de la loi ancienne ne s'applique qu'aux contrats conclus après son abrogation"
+      ],
+      "answer": 0,
+      "explanation": "Le principe est celui de la survie de la loi ancienne : les contrats restent soumis, même pour leurs effets futurs, à la loi en vigueur au moment de leur formation, en vertu de l'autonomie de la volonté et de la sécurité contractuelle. L'exception tient aux lois d'ordre public nouvelles (ex. droit du travail, santé publique), qui s'appliquent immédiatement même aux contrats en cours, l'objectif impérieux de la loi primant alors sur les droits acquis contractuels.",
+      "tags": [
+        "effet immédiat",
+        "roubier"
+      ]
+    },
+    {
+      "id": "appliloi-qcm-008",
+      "question": "Comment la théorie de Roubier traite-t-elle les effets futurs des situations extra-contractuelles (mariage, filiation, succession) déjà nées avant la loi nouvelle ?",
+      "options": [
+        "La loi nouvelle s'applique immédiatement aux effets futurs des situations en cours",
+        "Les situations extra-contractuelles restent soumises à la loi en vigueur à leur naissance",
+        "Aucune loi nouvelle ne s'applique aux effets futurs d'une situation juridique en cours",
+        "Le mariage et la filiation échappent au principe d'effet immédiat de la loi nouvelle"
+      ],
+      "answer": 0,
+      "explanation": "Contrairement aux situations contractuelles, les situations extra-contractuelles obéissent au principe d'effet immédiat de la loi nouvelle, confirmé par l'arrêt de principe Civ. 1re, 29 avril 1960 : la loi nouvelle s'applique aussitôt aux effets à venir des situations non contractuelles en cours, car les personnes n'ont aucun droit acquis au maintien de la loi qui règle ces effets (ex. mariage, filiation, succession).",
+      "tags": [
+        "effet immédiat"
+      ]
+    }
+  ]
+}

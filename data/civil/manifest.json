@@ -29,6 +29,24 @@
       "file": "systeme-juridique-francais.json",
       "title": "Le système juridique français",
       "category": "Droit — Introduction générale au droit"
+    },
+    {
+      "id": "preuves-droit",
+      "file": "preuves-droit.json",
+      "title": "Les preuves en droit",
+      "category": "Droit — Introduction générale au droit"
+    },
+    {
+      "id": "application-loi",
+      "file": "application-loi.json",
+      "title": "L'application des règles de droit dans l'espace et le temps",
+      "category": "Droit — Introduction générale au droit"
+    },
+    {
+      "id": "interpretation-droit",
+      "file": "interpretation-droit.json",
+      "title": "L'interprétation des règles de droit",
+      "category": "Droit — Introduction générale au droit"
     }
   ]
 }

@@ -1,0 +1,176 @@
+{
+  "id": "interpretation-droit",
+  "title": "L'interprétation des règles de droit",
+  "category": "Droit — Introduction générale au droit",
+  "flashcards": [
+    {
+      "id": "interpret-fc-001",
+      "front": "Que prévoit l'art. 4 du Code civil sur le devoir d'interpréter du juge ?",
+      "back": "Le juge qui refuse de juger sous prétexte du silence, de l'obscurité ou de l'insuffisance de la loi peut être poursuivi pour déni de justice. Ce texte, inchangé depuis 1804, marque la rupture avec le référé législatif révolutionnaire et rend le juge autonome dans l'interprétation.",
+      "tags": [
+        "art. 4",
+        "déni de justice"
+      ]
+    },
+    {
+      "id": "interpret-fc-002",
+      "front": "Que prévoit l'art. 5 du Code civil sur la portée des décisions du juge ?",
+      "back": "Il interdit au juge de poser des règles générales : c'est la prohibition des arrêts de règlement. Le juge est « législateur d'un cas particulier » — il tranche pour l'affaire dont il est saisi, sans portée générale, par opposition aux abus des parlements d'Ancien Régime.",
+      "tags": [
+        "art. 5",
+        "arrêts de règlement"
+      ]
+    },
+    {
+      "id": "interpret-fc-003",
+      "front": "Qu'est-ce que le principe de relativité de la chose jugée (art. 1355 C. civ.) ?",
+      "back": "La solution rendue par le juge n'est opposable qu'aux parties à l'instance ; elle ne s'impose pas aux autres plaideurs. Ce principe contraste avec la technique anglo-saxonne du précédent (stare decisis), où toutes les juridictions sont liées par les décisions antérieures.",
+      "tags": [
+        "chose jugée",
+        "art. 1355"
+      ]
+    },
+    {
+      "id": "interpret-fc-004",
+      "front": "Qu'est-ce que la saisine pour avis instaurée par la loi du 31 décembre 1987 ?",
+      "back": "Une juridiction inférieure confrontée à une question de droit nouvelle et sérieuse, se posant dans de nombreux litiges, peut saisir la Cour de cassation ou le Conseil d'État pour avis, sans attendre les voies de recours ordinaires. L'avis n'a pas de force obligatoire mais une forte valeur doctrinale.",
+      "tags": [
+        "saisine pour avis"
+      ]
+    },
+    {
+      "id": "interpret-fc-005",
+      "front": "Qu'est-ce que la doctrine et quels sont ses trois niveaux d'intervention dans la formation du droit ?",
+      "back": "La doctrine désigne l'ensemble des opinions personnelles et argumentées des juristes savants. Elle systématise les règles existantes (niveau minimal), interprète textes et décisions (niveau intermédiaire), et participe à l'élaboration de la loi via avant-projets et rapports (niveau maximal).",
+      "tags": [
+        "doctrine"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "interpret-qcm-001",
+      "question": "Selon l'art. 4 du Code civil, quelle obligation pèse sur le juge confronté à une loi silencieuse, obscure ou incomplète ?",
+      "options": [
+        "Le juge doit toujours trancher le litige, même si la loi est silencieuse ou obscure",
+        "Le juge peut refuser de juger lorsque la loi est silencieuse, sans aucune conséquence",
+        "Le juge doit saisir le Corps législatif chaque fois que la loi est obscure ou incomplète",
+        "Le juge n'a jamais l'obligation de motiver sa décision en cas de silence de la loi"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 4 du Code civil, inchangé depuis 1804, impose au juge de trancher le litige qui lui est soumis, sous peine d'être poursuivi pour déni de justice s'il refuse de juger en invoquant le silence ou l'obscurité de la loi. La saisine du Corps législatif, via le référé législatif, correspondait à l'ancien système révolutionnaire de 1790, définitivement abandonné par ce texte.",
+      "tags": [
+        "art. 4",
+        "déni de justice"
+      ]
+    },
+    {
+      "id": "interpret-qcm-002",
+      "question": "Quelle est la portée de l'art. 5 du Code civil sur les décisions rendues par le juge ?",
+      "options": [
+        "Interdiction faite au juge de poser des règles générales valables pour l'avenir",
+        "Autorisation donnée au juge de rendre des arrêts de règlement à portée générale",
+        "Obligation pour le juge de statuer pour tous les litiges futurs similaires au sien",
+        "Suppression de l'obligation pour le juge de trancher le litige qui lui est soumis"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 5 du Code civil prohibe les arrêts de règlement : le juge tranche pour l'affaire dont il est saisi, sans pouvoir édicter de règle à portée générale. Cette interdiction est héritée des abus des parlements d'Ancien Régime, qui prenaient des décisions générales empiétant sur le pouvoir royal, faute de séparation stricte des pouvoirs.",
+      "tags": [
+        "art. 5",
+        "arrêts de règlement"
+      ]
+    },
+    {
+      "id": "interpret-qcm-003",
+      "question": "En vertu du principe de relativité de la chose jugée posé à l'art. 1355 du Code civil, quelle est la portée d'une décision de justice française ?",
+      "options": [
+        "En France, la solution du juge n'est opposable qu'aux parties à l'instance jugée",
+        "En France comme en common law, toutes les juridictions sont liées par le précédent",
+        "En common law, la chose jugée n'est jamais opposable, même entre les parties au procès",
+        "La relativité de la chose jugée ne s'applique qu'aux décisions de la Cour de cassation"
+      ],
+      "answer": 0,
+      "explanation": "La relativité de la chose jugée (art. 1355 C. civ.) limite l'opposabilité de la solution du juge aux seules parties à l'instance. C'est l'inverse du système anglo-saxon de common law, où la technique du précédent (stare decisis) permet au juge de créer des normes générales qui lient toutes les juridictions ultérieures, y compris des tiers au litige initial.",
+      "tags": [
+        "chose jugée",
+        "common law"
+      ]
+    },
+    {
+      "id": "interpret-qcm-004",
+      "question": "Quelle est la force juridique de l'avis rendu par la Cour de cassation ou le Conseil d'État dans le cadre de la saisine pour avis instaurée par la loi du 31 décembre 1987 ?",
+      "options": [
+        "L'avis rendu sur saisine n'a pas de force obligatoire, ni pour le juge ni pour les parties",
+        "L'avis rendu sur saisine s'impose toujours obligatoirement au juge qui l'a demandé",
+        "La saisine pour avis ne peut être formée qu'après l'épuisement des voies de recours",
+        "L'avis de la Cour de cassation lie toutes les juridictions inférieures sans exception"
+      ],
+      "answer": 0,
+      "explanation": "L'avis rendu sur saisine n'a aucune force obligatoire : ni le juge qui l'a sollicité, ni les parties au litige ne sont liés par son contenu. Il possède en revanche une forte valeur doctrinale, à laquelle les juridictions se conforment en pratique, et permet à la Haute juridiction d'interpréter ab initio un texte nouveau avant même qu'un pourvoi ne soit formé.",
+      "tags": [
+        "saisine pour avis"
+      ]
+    },
+    {
+      "id": "interpret-qcm-005",
+      "question": "Quelle est la force juridique de la jurisprudence en dehors de l'instance où elle a été rendue ?",
+      "options": [
+        "La jurisprudence n'a aucune force obligatoire hors de l'instance où elle a été rendue",
+        "La jurisprudence a la même force obligatoire qu'une loi votée par le Parlement",
+        "Un juge ne peut jamais revenir sur sa propre jurisprudence antérieure, même par revirement",
+        "La jurisprudence lie automatiquement toutes les juridictions inférieures sans exception"
+      ],
+      "answer": 0,
+      "explanation": "En vertu de la relativité de la chose jugée (art. 1355 C. civ.), la jurisprudence n'a aucune force juridique obligatoire en dehors de l'instance où elle a été exprimée : elle ne lie ni les autres juridictions ni la même juridiction dans des affaires futures, ce qui permet le revirement de jurisprudence. Sa force réelle est purement sociologique, par alignement spontané des juridictions inférieures sur la Cour de cassation.",
+      "tags": [
+        "jurisprudence"
+      ]
+    },
+    {
+      "id": "interpret-qcm-006",
+      "question": "Quel principe les juges ont-ils progressivement dégagé de l'art. 1384 al. 1er du Code civil de 1804, simple introduction rédactionnelle aux alinéas suivants ?",
+      "options": [
+        "Un principe général de responsabilité du fait des choses, puis du fait d'autrui",
+        "Une simple règle de preuve sans incidence sur le régime de la responsabilité civile",
+        "L'abrogation pure et simple du principe de responsabilité pour faute prouvée",
+        "Une règle limitée aux seuls accidents de la circulation routière à la fin du XIXe siècle"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1384 al. 1er (devenu art. 1242) illustre l'interprétation créatrice de la jurisprudence : rédigé en 1804 comme simple introduction, les juges en ont dégagé fin XIXe siècle un principe général de responsabilité du fait des choses, motivé par les accidents du travail, puis fin XXe siècle un principe de responsabilité du fait d'autrui, applicable notamment aux personnes handicapées mentales.",
+      "tags": [
+        "interprétation créatrice",
+        "art. 1384"
+      ]
+    },
+    {
+      "id": "interpret-qcm-007",
+      "question": "Qu'est-ce qu'un revirement prospectif de jurisprudence, envisagé par l'assemblée plénière de la Cour de cassation le 21 décembre 2006 ?",
+      "options": [
+        "Une solution prospective ne valant que pour l'avenir, écartant la rétroactivité classique",
+        "Une solution rétroactive s'appliquant systématiquement à toutes les situations passées",
+        "Un revirement qui ne peut jamais être adopté par la Cour de cassation elle-même",
+        "Une règle imposant au législateur de valider toutes les jurisprudences antérieures"
+      ],
+      "answer": 0,
+      "explanation": "Le revirement de jurisprudence s'applique normalement immédiatement, y compris aux situations passées, ce qui pose un problème de rétroactivité. Le revirement prospectif, envisagé par l'assemblée plénière le 21 décembre 2006, consiste à limiter les effets de la nouvelle solution à l'avenir uniquement. La 1re chambre civile a toutefois rappelé (Civ. 1re, 11 juin 2009) qu'on ne peut consacrer un droit acquis à une jurisprudence figée.",
+      "tags": [
+        "revirement de jurisprudence"
+      ]
+    },
+    {
+      "id": "interpret-qcm-008",
+      "question": "Selon la définition retenue dans la fiche, qu'est-ce qui caractérise fondamentalement la doctrine en tant qu'œuvre juridique ?",
+      "options": [
+        "La doctrine est une opinion personnelle et argumentée, non un simple écrit savant",
+        "La doctrine se limite aux seuls avis du Conseil d'État et de la Cour de cassation",
+        "La doctrine constitue une source formelle du droit, au même titre que la loi",
+        "La doctrine n'a jamais influencé la rédaction des projets et propositions de loi"
+      ],
+      "answer": 0,
+      "explanation": "La doctrine n'est pas ce qui est écrit, mais le contenu de la pensée de celui qui l'écrit : il faut une opinion personnelle et argumentée pour faire doctrine. Elle n'est pas une source formelle du droit — elle ne crée aucune règle obligatoire — mais elle a influencé de nombreuses réformes, comme celles du droit de la famille (Carbonnier) ou les principes directeurs du procès (Motulsky).",
+      "tags": [
+        "doctrine"
+      ]
+    }
+  ]
+}
