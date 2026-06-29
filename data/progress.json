@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782657896629,
+  "updatedAt": 1782743033764,
   "themes": {
     "civil": {
       "items": {
@@ -486,6 +486,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1782657892621
+        },
+        "protection-qcm-004": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1782743029738
         }
       }
     },
