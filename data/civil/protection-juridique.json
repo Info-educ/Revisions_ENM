@@ -1,0 +1,187 @@
+{
+  "id": "protection-juridique",
+  "title": "Les mesures de protection juridique",
+  "category": "Droit civil — Les personnes",
+  "flashcards": [
+    {
+      "id": "protection-fc-001",
+      "front": "Quels sont les trois types d'actes du mineur et leur régime respectif ?",
+      "back": "Les actes conservatoires (protéger le patrimoine) peuvent être accomplis seul par le mineur. Les actes d'administration (gérer le patrimoine) supposent représentation ou assistance selon l'âge. Les actes de disposition (supprimer un bien du patrimoine) exigent l'autorisation préalable du juge ou du représentant légal.",
+      "tags": ["mineur", "actes"]
+    },
+    {
+      "id": "protection-fc-002",
+      "front": "Quelle sanction frappe les actes passés par le mineur en violation de son incapacité (art. 1152 C. civ.) ?",
+      "back": "La nullité relative, que seul le mineur peut invoquer, dans un délai de 5 ans à compter de sa majorité. Une rescision pour lésion est également possible (art. 1149 C. civ.) lorsque l'acte, bien que valable, lui est préjudiciable.",
+      "tags": ["mineur", "nullité relative"]
+    },
+    {
+      "id": "protection-fc-003",
+      "front": "Quels actes nécessitent l'autorisation du juge des tutelles dans le cadre de l'administration légale (art. 387-1 C. civ.) ?",
+      "back": "Notamment : vendre un immeuble ou un fonds de commerce, contracter un emprunt au nom du mineur, renoncer à un droit ou transiger, accepter purement et simplement une succession, ou constituer gratuitement une sûreté au nom du mineur.",
+      "tags": ["administration légale", "art. 387-1"]
+    },
+    {
+      "id": "protection-fc-004",
+      "front": "Qu'est-ce que la jouissance légale des parents sur les biens de l'enfant (art. 386-1 C. civ.) ?",
+      "back": "Les parents ont l'usufruit des biens de l'enfant jusqu'à ses 16 ans ou son émancipation par mariage, en contrepartie des charges d'entretien qu'ils supportent. Cette jouissance peut cesser en cas de perte de l'autorité parentale.",
+      "tags": ["jouissance légale", "art. 386-1"]
+    },
+    {
+      "id": "protection-fc-005",
+      "front": "Quelle est la condition unique d'ouverture commune à tout régime de protection des majeurs (art. 425 C. civ.) ?",
+      "back": "L'impossibilité de pourvoir seul à ses intérêts en raison d'une altération des facultés mentales ou corporelles, de nature à empêcher l'expression de la volonté, médicalement constatée. Cette altération doit être attestée par un certificat médical circonstancié (art. 431 C. civ.), à peine d'irrecevabilité de la requête.",
+      "tags": ["majeur protégé", "art. 425"]
+    },
+    {
+      "id": "protection-fc-006",
+      "front": "Quels sont les principes de subsidiarité et de proportionnalité applicables aux mesures de protection des majeurs (art. 428 C. civ.) ?",
+      "back": "Subsidiarité : une mesure judiciaire n'est ouverte que si aucune autre mesure ne suffit (mandat de protection future, règles matrimoniales, droit commun de la représentation). Proportionnalité : le juge choisit la mesure la moins contraignante, en suivant la gradation sauvegarde de justice → curatelle → tutelle.",
+      "tags": ["subsidiarité", "art. 428"]
+    },
+    {
+      "id": "protection-fc-007",
+      "front": "Quelle différence sépare la curatelle de la tutelle quant au principe d'intervention ?",
+      "back": "La curatelle repose sur le principe d'assistance du majeur : le curateur intervient à ses côtés pour certains actes (emploi de capitaux, donations, actes en justice). La tutelle repose sur le principe de représentation : le tuteur agit au nom et à la place du majeur protégé pour tous les actes de la vie civile (art. 473 C. civ.), sauf exceptions.",
+      "tags": ["curatelle", "tutelle"]
+    },
+    {
+      "id": "protection-fc-008",
+      "front": "Qu'est-ce que l'ordonnance de protection prévue aux arts. 515-9 à 515-13 du Code civil ?",
+      "back": "Délivrée par le juge aux affaires familiales (JAF) en cas de violences au sein du couple (même sans cohabitation, même avec un ancien conjoint/partenaire/concubin) mettant en danger la victime ou ses enfants. Elle peut ordonner résidence séparée, éloignement de l'auteur, modalités de l'autorité parentale, ou interdiction de contact (art. 515-11 C. civ.).",
+      "tags": ["ordonnance de protection", "art. 515-9"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "protection-qcm-001",
+      "question": "Quel régime s'applique aux actes conservatoires accomplis par un mineur, par opposition aux actes d'administration ou de disposition ?",
+      "options": [
+        "Les actes conservatoires peuvent être accomplis seul par le mineur, sans représentation",
+        "Les actes de disposition peuvent toujours être accomplis seul par le mineur non assisté",
+        "Tous les actes du mineur sont nuls de plein droit, sans distinction selon leur nature",
+        "Les actes d'administration échappent à toute représentation ou assistance parentale"
+      ],
+      "answer": 0,
+      "explanation": "Les actes conservatoires, destinés à protéger la consistance du patrimoine (ex. contrat d'assurance), peuvent être accomplis seul par le mineur. Les actes d'administration supposent au contraire une représentation ou assistance selon l'âge, et les actes de disposition exigent l'autorisation préalable du juge ou du représentant légal — la gradation des trois catégories est essentielle.",
+      "tags": ["mineur", "actes"]
+    },
+    {
+      "id": "protection-qcm-002",
+      "question": "Quelle sanction frappe les actes passés par un mineur en violation de son incapacité ?",
+      "options": [
+        "Nullité relative invocable par le mineur seul, dans un délai de 5 ans après sa majorité",
+        "Nullité absolue invocable par toute personne intéressée, sans condition de délai",
+        "Les actes du mineur incapable sont valables tant qu'aucun juge ne les a annulés",
+        "Le délai pour agir court à compter de la conclusion de l'acte, non de la majorité"
+      ],
+      "answer": 0,
+      "explanation": "La sanction est la nullité relative (art. 1152 C. civ.), que seul le mineur lui-même peut invoquer — non l'autre partie ni un tiers — dans un délai de 5 ans à compter de sa majorité, et non de la date de l'acte. Une rescision pour lésion reste également ouverte pour les actes valables mais préjudiciables (art. 1149 C. civ.).",
+      "tags": ["nullité relative"]
+    },
+    {
+      "id": "protection-qcm-003",
+      "question": "Quelle est l'étendue de la capacité juridique du mineur émancipé (art. 413-6 C. civ.) ?",
+      "options": [
+        "Le mineur émancipé a une capacité pleine, sauf pour le mariage et l'adoption",
+        "Le mineur émancipé reste soumis à la représentation parentale pour tous les actes",
+        "L'émancipation ne peut résulter que d'une décision du juge, jamais du mariage",
+        "Le mineur de 16 ans ne peut jamais accomplir seul un acte d'administration d'entreprise"
+      ],
+      "answer": 0,
+      "explanation": "Le mineur émancipé a une capacité juridique pleine comme un majeur, à l'exception du mariage et de l'adoption, qui requièrent toujours le consentement parental. L'émancipation peut résulter de plein droit du mariage (art. 413-1) ou d'une décision du juge des tutelles sur demande des parents, pour un enfant d'au moins 16 ans et pour justes motifs (art. 413-2).",
+      "tags": ["mineur émancipé"]
+    },
+    {
+      "id": "protection-qcm-004",
+      "question": "Comment s'organise l'administration légale lorsque les deux parents exercent conjointement l'autorité parentale ?",
+      "options": [
+        "Chacun des deux parents est réputé avoir reçu pouvoir de l'autre pour les actes courants",
+        "Un seul parent peut administrer les biens du mineur même en cas d'autorité conjointe",
+        "L'administrateur ad hoc remplace définitivement les parents pour tous les actes futurs",
+        "Aucune autorisation du juge des tutelles n'est jamais requise pour les actes du mineur"
+      ],
+      "answer": 0,
+      "explanation": "En cas d'autorité parentale conjointe, chacun des deux parents est réputé avoir reçu pouvoir de l'autre pour les actes d'administration. L'administrateur ad hoc, désigné par le juge en cas de désaccord ou de conflit d'intérêts (art. 383 C. civ.), n'intervient que de façon limitée à l'objet et à la durée de sa mission, sans se substituer durablement aux parents.",
+      "tags": ["administration légale"]
+    },
+    {
+      "id": "protection-qcm-005",
+      "question": "Parmi les actes suivants, lesquels nécessitent l'autorisation du juge des tutelles selon l'art. 387-1 du Code civil ?",
+      "options": [
+        "Vendre un immeuble, contracter un emprunt, ou accepter purement une succession",
+        "Tous les actes de la vie courante du mineur exigent l'autorisation du juge des tutelles",
+        "Aucun acte relatif au patrimoine du mineur ne nécessite jamais d'autorisation judiciaire",
+        "Seuls les actes conservatoires sont soumis à l'autorisation préalable du juge compétent"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 387-1 du Code civil soumet à l'autorisation du juge des tutelles des actes graves limitativement énumérés : vente d'immeuble ou de fonds de commerce, emprunt au nom du mineur, renonciation à un droit, acceptation pure et simple d'une succession, constitution gratuite d'une sûreté. Les actes courants et conservatoires en sont au contraire dispensés.",
+      "tags": ["administration légale", "art. 387-1"]
+    },
+    {
+      "id": "protection-qcm-006",
+      "question": "Quelle est la portée de la jouissance légale des parents sur les biens de l'enfant (art. 386-1 C. civ.) ?",
+      "options": [
+        "Les parents ont l'usufruit des biens de l'enfant jusqu'à ses 16 ans ou son émancipation",
+        "La jouissance légale des parents s'étend sans limite jusqu'à la majorité de l'enfant",
+        "La jouissance légale est due sans aucune contrepartie de charges d'entretien parentales",
+        "La jouissance légale ne peut jamais cesser, même en cas de perte de l'autorité parentale"
+      ],
+      "answer": 0,
+      "explanation": "Les parents bénéficient de l'usufruit des biens de l'enfant jusqu'à ses 16 ans ou son émancipation par mariage, en contrepartie des charges d'entretien et d'éducation qu'ils supportent. Cette jouissance, limitée dans le temps et justifiée par une contrepartie, peut cesser en cas de perte de l'autorité parentale.",
+      "tags": ["jouissance légale"]
+    },
+    {
+      "id": "protection-qcm-007",
+      "question": "À quelle condition l'art. 414-1 du Code civil permet-il d'annuler un acte pour insanité d'esprit ?",
+      "options": [
+        "Insanité d'esprit prouvée au moment de l'acte, indépendamment de tout régime ouvert",
+        "La nullité pour insanité d'esprit ne joue qu'en présence d'une mesure déjà ouverte",
+        "La preuve du trouble mental seul suffit, sans preuve de sa présence lors de l'acte",
+        "Les actes passés après la mort ne peuvent jamais être attaqués pour insanité d'esprit"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 414-1 du Code civil exige une preuve double : l'existence d'un trouble mental et sa présence au moment précis de la passation de l'acte, indépendamment de l'ouverture d'un régime de protection. Les actes passés après la mort peuvent exceptionnellement être attaqués dans trois cas précis (art. 414-2 C. civ.) : preuve du trouble dans l'acte lui-même, sauvegarde de justice préexistante, ou tutelle/curatelle ouverte avant le décès.",
+      "tags": ["insanité d'esprit", "art. 414-1"]
+    },
+    {
+      "id": "protection-qcm-008",
+      "question": "Quelle est la condition unique d'ouverture d'un régime de protection juridique des majeurs (art. 425 C. civ.) ?",
+      "options": [
+        "Impossibilité de pourvoir seul à ses intérêts du fait d'une altération constatée",
+        "La simple vieillesse, sans altération des facultés, justifie une mesure de protection",
+        "Aucun avis médical n'est requis pour l'ouverture d'une mesure de protection juridique",
+        "Le juge ouvre systématiquement la mesure la plus contraignante, par précaution renforcée"
+      ],
+      "answer": 0,
+      "explanation": "La condition unique d'ouverture est l'impossibilité de pourvoir seul à ses intérêts, en raison d'une altération des facultés mentales ou corporelles médicalement constatée. Un certificat médical circonstancié (art. 431 C. civ.) est requis à peine d'irrecevabilité, et le juge doit toujours choisir la mesure la moins contraignante, en application du principe de proportionnalité.",
+      "tags": ["majeur protégé", "art. 425"]
+    },
+    {
+      "id": "protection-qcm-009",
+      "question": "Quelle différence de principe sépare la sauvegarde de justice de la tutelle ?",
+      "options": [
+        "La sauvegarde préserve l'exercice des droits, la tutelle organise la représentation",
+        "La curatelle et la tutelle ont une durée illimitée, non soumise à renouvellement",
+        "Le tuteur ne peut jamais accomplir d'actes au nom et à la place du majeur protégé",
+        "La sauvegarde de justice dure toujours au moins cinq ans, renouvelable indéfiniment"
+      ],
+      "answer": 0,
+      "explanation": "La sauvegarde de justice repose sur le principe de conservation de l'exercice des droits par le majeur lui-même, ses actes pouvant être réduits ou annulés s'ils lui sont préjudiciables. La tutelle organise au contraire la représentation : le tuteur agit au nom du majeur protégé pour la plupart des actes (art. 473 C. civ.). La sauvegarde dure 1 an renouvelable une fois, tandis que curatelle et tutelle durent au maximum 5 ans, renouvelables.",
+      "tags": ["sauvegarde de justice", "tutelle"]
+    },
+    {
+      "id": "protection-qcm-010",
+      "question": "Qu'est-ce que le mandat de protection future, institué par la loi du 5 mars 2007 (art. 477 C. civ.) ?",
+      "options": [
+        "Le mandat de protection future permet d'organiser conventionnellement sa prise en charge",
+        "L'habilitation familiale exige toujours une rémunération du proche habilité par le juge",
+        "La mesure d'accompagnement judiciaire peut être confiée à n'importe quel proche désigné",
+        "Le principe de subsidiarité impose de choisir d'abord la mesure la plus contraignante"
+      ],
+      "answer": 0,
+      "explanation": "Le mandat de protection future permet à toute personne d'organiser conventionnellement sa propre prise en charge future (sous seing privé contresigné par avocat, ou par acte notarié), avant toute altération de ses facultés. Il s'applique en application du principe de subsidiarité, qui impose au contraire de privilégier d'abord la mesure la moins contraignante ; l'habilitation familiale est par ailleurs gratuite, et la mesure d'accompagnement judiciaire n'est confiée qu'à un mandataire judiciaire, non à un proche quelconque.",
+      "tags": ["mandat de protection future", "art. 477"]
+    }
+  ]
+}

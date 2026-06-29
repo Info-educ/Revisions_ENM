@@ -53,6 +53,30 @@
       "file": "personne-droit.json",
       "title": "La personne reconnue par le droit",
       "category": "Droit civil — Les personnes"
+    },
+    {
+      "id": "pacs-concubinage",
+      "file": "pacs-concubinage.json",
+      "title": "Le PACS et le concubinage",
+      "category": "Droit civil — Famille"
+    },
+    {
+      "id": "lien-matrimonial",
+      "file": "lien-matrimonial.json",
+      "title": "Le lien matrimonial des époux",
+      "category": "Droit civil — Famille"
+    },
+    {
+      "id": "protection-juridique",
+      "file": "protection-juridique.json",
+      "title": "Les mesures de protection juridique",
+      "category": "Droit civil — Les personnes"
+    },
+    {
+      "id": "statut-personnel",
+      "file": "statut-personnel.json",
+      "title": "Les éléments du statut personnel",
+      "category": "Droit civil — Les personnes"
     }
   ]
 }

@@ -1,0 +1,187 @@
+{
+  "id": "pacs-concubinage",
+  "title": "Le PACS et le concubinage",
+  "category": "Droit civil — Famille",
+  "flashcards": [
+    {
+      "id": "pacs-fc-001",
+      "front": "Que prévoit l'art. 515-1 du Code civil sur la définition du PACS ?",
+      "back": "Le PACS est un contrat conclu par deux personnes physiques majeures, de sexe différent ou de même sexe, pour organiser leur vie commune. Sa nature est contractuelle, mais il est rattaché au droit des personnes par la mention en marge de l'acte de naissance (art. 515-3-1 C. civ.).",
+      "tags": ["pacs", "art. 515-1"]
+    },
+    {
+      "id": "pacs-fc-002",
+      "front": "Quel est le régime des biens applicable par défaut aux partenaires pacsés (art. 515-5 C. civ.) ?",
+      "back": "La séparation de biens s'applique par défaut : chaque partenaire conserve la propriété de ses biens personnels. Les partenaires peuvent toutefois opter conventionnellement pour l'indivision, réputée par moitié sauf clause contraire (art. 515-5-3 C. civ.).",
+      "tags": ["pacs", "régime des biens"]
+    },
+    {
+      "id": "pacs-fc-003",
+      "front": "Quand le pacte civil de solidarité prend-il effet entre les parties (art. 515-3 C. civ.) ?",
+      "back": "Le pacte ne prend effet entre les parties qu'à compter de son enregistrement par l'officier d'état civil ou le notaire. Il n'est opposable aux tiers qu'à compter de l'accomplissement des formalités de publicité.",
+      "tags": ["pacs", "formation"]
+    },
+    {
+      "id": "pacs-fc-004",
+      "front": "Comment le PACS peut-il être rompu (art. 515-7 C. civ.) ?",
+      "back": "Par parallélisme des formes : par la mort de l'un des partenaires, par le mariage (effet immédiat, liberté constitutionnelle du mariage), ou par déclaration conjointe ou décision unilatérale notifiée à l'autre partenaire. La clause interdisant le droit à réparation du préjudice de rupture est réputée non écrite.",
+      "tags": ["pacs", "rupture"]
+    },
+    {
+      "id": "pacs-fc-005",
+      "front": "Que prévoit l'art. 515-8 du Code civil sur la définition du concubinage ?",
+      "back": "Le concubinage est une union de fait, caractérisée par une vie commune présentant un caractère de stabilité et de continuité, entre deux personnes, de sexe différent ou de même sexe, qui vivent en couple. C'est une union de fait — non un contrat — qui suppose une vie de couple et non une simple cohabitation.",
+      "tags": ["concubinage", "art. 515-8"]
+    },
+    {
+      "id": "pacs-fc-006",
+      "front": "Qu'a jugé la Cour de cassation dans l'arrêt Civ. 3e, 17 décembre 1997, avant l'extension du concubinage aux couples de même sexe ?",
+      "back": "Le concubinage ne pouvait résulter « que d'une relation stable et continue ayant l'apparence du mariage, donc entre un homme et une femme », ce qui a justifié le refus du transfert de bail à un concubin homosexuel survivant. La loi du 15 novembre 1999 a depuis étendu le concubinage aux couples de même sexe.",
+      "tags": ["concubinage", "civ. 3e 1997"]
+    },
+    {
+      "id": "pacs-fc-007",
+      "front": "À quelle condition une société de fait peut-elle être reconnue entre concubins à la rupture (art. 1832 C. civ.) ?",
+      "back": "Trois conditions cumulatives sont requises : des apports, une volonté de collaborer, et une intention de partager les bénéfices et les pertes. La seule durée de la vie commune, même longue (11 ans dans l'arrêt de Dijon du 28 sept. 1999), est insuffisante à elle seule.",
+      "tags": ["concubinage", "société de fait"]
+    },
+    {
+      "id": "pacs-fc-008",
+      "front": "Quels effets juridiques le concubinage produit-il à l'égard des enfants et entre concubins ?",
+      "back": "Le concubinage ne produit en principe aucun effet juridique automatique : pas de devoirs réciproques, pas d'obligation alimentaire, pas de régime patrimonial automatique. La filiation de l'enfant né hors mariage s'établit indépendamment de l'existence d'une vie commune. Seuls des droits ponctuels sont reconnus par la loi (sécurité sociale, AMP, transfert de bail).",
+      "tags": ["concubinage", "effets"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "pacs-qcm-001",
+      "question": "Selon l'art. 515-1 du Code civil, quelle est la nature juridique exacte du PACS ?",
+      "options": [
+        "Le PACS est un contrat conclu par deux majeurs pour organiser leur vie commune ensemble",
+        "Le PACS est un acte unilatéral souscrit par une seule personne devant notaire au choix",
+        "Le PACS ne peut être conclu qu'entre personnes de sexe différent selon le texte légal",
+        "Le PACS est ouvert aux mineurs émancipés sans aucune condition d'âge particulière requise"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 515-1 du Code civil définit le PACS comme un contrat conclu par deux personnes physiques majeures, de sexe différent ou de même sexe, pour organiser leur vie commune. Le PACS est fermé aux mineurs même émancipés, et requiert toujours deux contractants, jamais une seule personne.",
+      "tags": ["pacs", "définition"]
+    },
+    {
+      "id": "pacs-qcm-002",
+      "question": "Quels sont les empêchements absolus à la conclusion d'un PACS prévus par l'art. 515-2 du Code civil ?",
+      "options": [
+        "Ascendants, descendants, alliés en ligne directe, collatéraux jusqu'au 3e degré inclus",
+        "Seuls les ascendants et descendants en ligne directe sont concernés par cet empêchement",
+        "Les collatéraux ne sont jamais concernés, quel que soit leur degré de parenté entre eux",
+        "Seule une personne déjà mariée est concernée, la personne déjà pacsée pouvant repacser"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 515-2 du Code civil prévoit la nullité absolue du PACS conclu entre ascendant et descendant en ligne directe, entre alliés en ligne directe, entre collatéraux jusqu'au 3e degré inclus, ou avec une personne déjà mariée ou déjà pacsée. Ces empêchements sont alignés sur ceux du mariage.",
+      "tags": ["pacs", "empêchements"]
+    },
+    {
+      "id": "pacs-qcm-003",
+      "question": "Quel est le contenu minimum impératif du PACS prévu à l'art. 515-4 du Code civil ?",
+      "options": [
+        "Aide matérielle et assistance réciproque obligatoire, toute clause contraire non écrite",
+        "Aide matérielle facultative, les partenaires pouvant librement l'exclure totalement",
+        "Seule l'assistance morale est obligatoire, l'aide matérielle restant purement facultative",
+        "Le contenu minimum du PACS se limite à la solidarité pour les seules dettes ménagères"
+      ],
+      "answer": 0,
+      "explanation": "L'aide mutuelle et matérielle est un principe non négociable du PACS : toute clause qui prétendrait l'exclure est réputée non écrite. Seules ses modalités d'exécution sont laissées à la liberté des partenaires, qui peuvent par exemple prévoir une aide proportionnelle à leurs facultés respectives.",
+      "tags": ["pacs", "effets"]
+    },
+    {
+      "id": "pacs-qcm-004",
+      "question": "À partir de quel moment le pacte civil de solidarité prend-il effet entre les partenaires (art. 515-3 C. civ.) ?",
+      "options": [
+        "Le pacte ne prend effet entre les parties qu'à compter de son enregistrement officiel",
+        "Le pacte prend effet dès la simple déclaration conjointe, avant tout enregistrement requis",
+        "Le pacte n'est jamais opposable aux tiers, même après accomplissement des formalités",
+        "Le pacte prend effet rétroactivement à la date de signature de la déclaration conjointe"
+      ],
+      "answer": 0,
+      "explanation": "Le pacte ne prend effet entre les parties qu'à compter de son enregistrement par l'officier d'état civil ou le notaire. Il n'est en revanche opposable aux tiers qu'à compter de l'accomplissement des formalités de publicité, ce qui exclut tout effet avant enregistrement ou toute rétroactivité à la date de signature.",
+      "tags": ["pacs", "formation"]
+    },
+    {
+      "id": "pacs-qcm-005",
+      "question": "Quel est le régime de la solidarité des dettes entre partenaires pacsés (art. 515-4 al. 2 C. civ.) ?",
+      "options": [
+        "Les partenaires sont solidaires des dettes courantes, hors dépenses excessives",
+        "Les partenaires ne sont jamais solidaires des dettes contractées par l'un d'eux seul",
+        "La solidarité des dettes s'étend à toutes les dépenses, même manifestement excessives",
+        "Seules les dettes contractées avant la conclusion du pacte engagent solidairement les deux"
+      ],
+      "answer": 0,
+      "explanation": "Les partenaires sont solidairement tenus des dettes de la vie courante contractées par l'un d'eux, à l'exclusion des dépenses manifestement excessives, qui restent à la charge exclusive de celui qui les a contractées. La solidarité ne joue donc pas de façon illimitée ni rétroactive.",
+      "tags": ["pacs", "solidarité des dettes"]
+    },
+    {
+      "id": "pacs-qcm-006",
+      "question": "Selon l'art. 515-8 du Code civil, quelle est la nature juridique du concubinage ?",
+      "options": [
+        "Une union de fait caractérisée par une vie commune stable et continue entre deux personnes",
+        "Un contrat formalisé devant l'officier d'état civil, ouvrant les mêmes droits que le PACS",
+        "Une simple cohabitation passagère, sans exigence de stabilité ni de continuité du couple",
+        "Une union réservée exclusivement aux couples de sexe différent depuis la loi de 1999"
+      ],
+      "answer": 0,
+      "explanation": "Le concubinage est une union de fait, et non un contrat formalisé : il se caractérise par une vie commune présentant un caractère de stabilité et de continuité. Depuis la loi du 15 novembre 1999, il est ouvert aux couples de même sexe comme de sexe différent, contrairement à la jurisprudence antérieure (Civ. 3e, 17 déc. 1997).",
+      "tags": ["concubinage", "définition"]
+    },
+    {
+      "id": "pacs-qcm-007",
+      "question": "À quelles conditions une société de fait peut-elle être reconnue entre concubins, selon l'art. 1832 du Code civil ?",
+      "options": [
+        "Une société de fait suppose apports, collaboration et partage des bénéfices/pertes",
+        "La seule durée de vie commune suffit toujours à caractériser une société de fait",
+        "Une société de fait n'est jamais reconnue entre concubins, quelle que soit la situation",
+        "L'enrichissement sans cause est exclu de plein droit dès lors qu'il existe une vie commune"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1832 du Code civil exige trois conditions cumulatives pour reconnaître une société de fait entre concubins : des apports, une volonté de collaborer, et une intention de partager les bénéfices et les pertes. La seule durée de la vie commune, même longue, ne suffit pas (Dijon, 28 sept. 1999) ; à défaut de société de fait, l'action de in rem verso pour enrichissement sans cause reste ouverte.",
+      "tags": ["concubinage", "société de fait"]
+    },
+    {
+      "id": "pacs-qcm-008",
+      "question": "Quels effets juridiques le concubinage produit-il en principe à l'égard des concubins eux-mêmes ?",
+      "options": [
+        "Le concubinage ne produit aucun effet juridique automatique, sauf droits prévus par la loi",
+        "Le concubinage produit les mêmes effets patrimoniaux automatiques que le régime du mariage",
+        "La filiation de l'enfant dépend toujours de l'existence d'une vie commune des concubins",
+        "Le concubinage crée une obligation alimentaire identique à celle existant entre époux"
+      ],
+      "answer": 0,
+      "explanation": "Le concubinage reste un fait juridique, non un statut : il ne produit aucun effet juridique automatique entre concubins (pas de devoirs réciproques, pas d'obligation alimentaire, pas de régime patrimonial), sauf droits ponctuels reconnus par la loi (sécurité sociale, AMP, transfert de bail au concubin notoire).",
+      "tags": ["concubinage", "effets"]
+    },
+    {
+      "id": "pacs-qcm-009",
+      "question": "Quelle jurisprudence retient-on en matière de rupture abusive du concubinage (CA Bordeaux, 4 janv. 2000) ?",
+      "options": [
+        "La rupture brutale, sans prévenir, que l'autre apprend par un tiers, est une faute",
+        "La rupture du concubinage n'engage jamais la responsabilité civile du concubin fautif",
+        "Seule une rupture sans juste motif engage la responsabilité civile du concubin",
+        "La rupture du PACS, comme celle du concubinage, exige toujours une décision judiciaire"
+      ],
+      "answer": 0,
+      "explanation": "Chaque concubin est libre de rompre sans motif. Cependant, une rupture exercée de façon abusive — brutale, sans prévenir l'autre, qui l'apprend par un tiers — constitue une faute engageant la responsabilité civile (CA Bordeaux, 4 janv. 2000), à la différence du PACS qui se rompt par déclaration unilatérale notifiée à l'autre partenaire.",
+      "tags": ["concubinage", "rupture"]
+    },
+    {
+      "id": "pacs-qcm-010",
+      "question": "Quelle mesure le juge aux affaires familiales peut-il prendre concernant le logement en cas de rupture d'un concubinage (loi n° 2019-222, art. L. 213-3 COJ) ?",
+      "options": [
+        "Le JAF peut attribuer la jouissance provisoire du logement au concubin en rupture",
+        "Le logement familial revient automatiquement au concubin propriétaire du bien",
+        "Aucun juge ne peut statuer sur le logement en cas de rupture d'un concubinage",
+        "L'attribution provisoire du logement n'est possible qu'en cas de rupture du mariage"
+      ],
+      "answer": 0,
+      "explanation": "La loi n° 2019-222 (art. L. 213-3 COJ) permet au juge aux affaires familiales d'attribuer la jouissance provisoire du logement familial au concubin en cas de rupture, malgré l'absence de régime patrimonial automatique propre au concubinage. Cette compétence n'est donc pas réservée au seul mariage.",
+      "tags": ["concubinage", "logement"]
+    }
+  ]
+}

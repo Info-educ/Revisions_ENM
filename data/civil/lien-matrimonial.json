@@ -1,0 +1,187 @@
+{
+  "id": "lien-matrimonial",
+  "title": "Le lien matrimonial des époux",
+  "category": "Droit civil — Famille",
+  "flashcards": [
+    {
+      "id": "mariage-fc-001",
+      "front": "Quel est le régime juridique de la rupture des fiançailles ?",
+      "back": "Les fiançailles ne créent aucun lien juridique autonome : chacun reste libre de rompre, à tout moment, sans motif (liberté matrimoniale, art. 12 Conv. EDH). Seul l'exercice abusif de la rupture (brutale, tardive, la veille du mariage) peut engager la responsabilité civile de son auteur (Civ. 1re, 5 janv. 1995).",
+      "tags": ["fiançailles"]
+    },
+    {
+      "id": "mariage-fc-002",
+      "front": "Que prévoit l'art. 146 du Code civil sur le consentement au mariage ?",
+      "back": "« Il n'y a pas de mariage lorsqu'il n'y a point de consentement. » Le consentement doit être libre, éclairé et exprimé personnellement par chaque époux (art. 146-1 C. civ.). Le mariage simulé, conclu dans un but étranger à l'union conjugale avec volonté de se soustraire à ses conséquences légales, encourt la nullité (Civ. 1re, 6 juill. 2000).",
+      "tags": ["consentement", "art. 146"]
+    },
+    {
+      "id": "mariage-fc-003",
+      "front": "Qu'est-ce que le mariage putatif (art. 201 C. civ.) ?",
+      "back": "Lorsque l'un ou les deux époux étaient de bonne foi au moment de la célébration d'un mariage finalement annulé, le mariage nul conserve ses effets passés. C'est une exception à l'effet rétroactif normal de la nullité du mariage.",
+      "tags": ["mariage putatif", "art. 201"]
+    },
+    {
+      "id": "mariage-fc-004",
+      "front": "Quels sont les trois devoirs personnels posés par l'art. 212 du Code civil entre époux ?",
+      "back": "Respect, fidélité, secours et assistance. La fidélité s'entend de l'absence de relations charnelles avec un tiers, le secours est de nature patrimoniale, et l'assistance correspond à un soutien moral. La communauté de vie (art. 215 C. civ.) ne peut faire l'objet d'aucune exécution forcée par le juge.",
+      "tags": ["effets du mariage", "art. 212"]
+    },
+    {
+      "id": "mariage-fc-005",
+      "front": "Quel est le régime matrimonial légal applicable à défaut de contrat de mariage ?",
+      "back": "La communauté réduite aux acquêts (arts. 1400 à 1491 C. civ.) s'applique par défaut : les biens propres (acquis avant le mariage, par succession ou libéralité) restent personnels à chaque époux, tandis que les acquêts (biens acquis pendant le mariage) deviennent communs.",
+      "tags": ["régimes matrimoniaux"]
+    },
+    {
+      "id": "mariage-fc-006",
+      "front": "Quelles sont les deux grandes catégories de divorce posées par l'art. 229 du Code civil ?",
+      "back": "Les divorces consentis (consentement mutuel par acte d'avocats ou judiciaire, et divorce accepté) et les divorces imposés (altération définitive du lien conjugal après un an de séparation, et divorce pour faute). Le fondement du divorce peut être modifié à tout moment de la procédure (arts. 247 à 247-2 C. civ.).",
+      "tags": ["divorce", "art. 229"]
+    },
+    {
+      "id": "mariage-fc-007",
+      "front": "Que prévoit l'art. 270 al. 2 du Code civil sur la prestation compensatoire ?",
+      "back": "Elle est destinée à compenser, autant qu'il est possible, la disparité que la rupture du mariage crée dans les conditions de vie respectives des époux. Elle est ouverte à tous les types de divorce et est indépendante de l'état de besoin : un simple constat de disparité suffit.",
+      "tags": ["prestation compensatoire", "art. 270"]
+    },
+    {
+      "id": "mariage-fc-008",
+      "front": "Quelle est la forme prioritaire de versement de la prestation compensatoire (art. 274 C. civ.) ?",
+      "back": "Le versement d'un capital (somme d'argent, éventuellement fractionnée sur 8 ans maximum, ou attribution de biens en propriété, usufruit ou usage) constitue la forme prioritaire. La rente viagère (art. 276 C. civ.) n'est possible qu'à titre exceptionnel, si l'âge ou l'état de santé du créancier ne lui permet pas de subvenir à ses besoins.",
+      "tags": ["prestation compensatoire", "art. 274"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "mariage-qcm-001",
+      "question": "Quel est le régime de responsabilité applicable à la rupture des fiançailles ?",
+      "options": [
+        "La rupture des fiançailles n'engage pas la responsabilité, sauf exercice abusif du droit",
+        "La rupture des fiançailles engage toujours la responsabilité civile de son auteur",
+        "Les fiançailles créent un lien juridique autonome équivalent au mariage célébré",
+        "Seule la rupture tardive des fiançailles, même non abusive, engage la responsabilité"
+      ],
+      "answer": 0,
+      "explanation": "Le droit ne reconnaît pas la promesse de mariage comme un lien autonome : chacun reste libre de rompre à tout moment, sans motif, en vertu de la liberté matrimoniale (art. 12 Conv. EDH). Seul l'exercice abusif de la rupture — brutale, tardive, la veille du mariage — peut engager la responsabilité civile de son auteur (Civ. 1re, 5 janv. 1995).",
+      "tags": ["fiançailles"]
+    },
+    {
+      "id": "mariage-qcm-002",
+      "question": "Quelle est la portée de l'empêchement au mariage entre frères et sœurs prévu aux arts. 162-163 du Code civil ?",
+      "options": [
+        "Interdiction absolue du mariage entre frères et sœurs, quel que soit leur degré",
+        "Le mariage entre frères et sœurs est toujours possible avec dispense du président",
+        "Seuls les ascendants et descendants sont concernés, jamais les collatéraux proches",
+        "Aucune prohibition ne concerne les liens d'alliance en ligne directe entre époux"
+      ],
+      "answer": 0,
+      "explanation": "Le mariage entre frères et sœurs est frappé d'une interdiction absolue, sans dispense possible. Cette prohibition se distingue de celle visant l'oncle et la nièce ou la tante et le neveu, pour laquelle une dispense du Président de la République demeure possible pour cause grave (art. 164 3° C. civ.).",
+      "tags": ["empêchements au mariage"]
+    },
+    {
+      "id": "mariage-qcm-003",
+      "question": "Selon l'arrêt Civ. 1re, 6 juillet 2000, à quelle condition le mariage simulé (mariage blanc) encourt-il la nullité ?",
+      "options": [
+        "La nullité du mariage est encourue dès qu'existe un but étranger à l'union conjugale",
+        "Le mariage de complaisance n'est jamais sanctionné s'il a été régulièrement célébré",
+        "Seul un mariage non consommé peut être annulé pour absence de but conjugal réel",
+        "La nullité pour mariage simulé suppose la preuve d'une intention frauduleuse fiscale"
+      ],
+      "answer": 0,
+      "explanation": "La Cour de cassation retient la nullité dès lors qu'il y a recherche d'un but étranger à l'union conjugale, avec volonté délibérée de se soustraire à ses conséquences légales (mariage de complaisance). Ni la consommation du mariage ni une intention fiscale spécifique ne sont des conditions de cette nullité.",
+      "tags": ["mariage simulé", "civ. 1re 2000"]
+    },
+    {
+      "id": "mariage-qcm-004",
+      "question": "Comment s'apprécie l'erreur sur les qualités essentielles du conjoint, cause de nullité relative du mariage ?",
+      "options": [
+        "L'erreur sur les qualités essentielles s'apprécie objectivement au regard des finalités",
+        "La virginité constitue une qualité essentielle justifiant l'annulation du mariage",
+        "Toute dissimulation, même mineure, suffit à constituer une erreur sur les qualités",
+        "Le dol est expressément reconnu comme vice du consentement annulant le mariage"
+      ],
+      "answer": 0,
+      "explanation": "L'erreur sur les qualités essentielles s'apprécie objectivement au regard des finalités du mariage (ex. antécédent pénal grave, transsexualité non révélée, divorce caché). La CA de Douai a jugé que la virginité n'est pas une qualité essentielle. Seules la violence et l'erreur sont des vices du consentement retenus en matière matrimoniale — pas le dol.",
+      "tags": ["nullité relative"]
+    },
+    {
+      "id": "mariage-qcm-005",
+      "question": "Qu'est-ce que le mariage putatif prévu à l'art. 201 du Code civil ?",
+      "options": [
+        "Le mariage nul conserve ses effets passés si l'un des époux était de bonne foi",
+        "Le mariage putatif produit ses effets pour l'avenir uniquement, jamais pour le passé",
+        "La bonne foi des deux époux est toujours exigée pour que le mariage soit putatif",
+        "Le mariage putatif ne s'applique qu'en cas de nullité relative, jamais absolue"
+      ],
+      "answer": 0,
+      "explanation": "Le mariage putatif permet, lorsque l'un ou les deux époux étaient de bonne foi, de conserver les effets passés d'un mariage par ailleurs annulé — qu'il s'agisse de nullité absolue ou relative. C'est une exception à l'effet rétroactif normal de la nullité, et la bonne foi d'un seul des époux suffit à en bénéficier.",
+      "tags": ["mariage putatif"]
+    },
+    {
+      "id": "mariage-qcm-006",
+      "question": "Quels sont les effets personnels du mariage posés par les arts. 212 et 215 du Code civil ?",
+      "options": [
+        "Fidélité, respect, secours et assistance, sans exécution forcée de la communauté de vie",
+        "La communauté de vie peut toujours être imposée par le juge en cas de refus d'un époux",
+        "Le devoir de fidélité se limite à l'absence de relations affectives avec un tiers",
+        "Le devoir de secours est de nature exclusivement morale, sans contenu patrimonial"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 212 C. civ. impose respect, fidélité, secours et assistance ; l'art. 215 C. civ. ajoute la communauté de vie, qui suppose cohabitation et devoir conjugal, mais ne peut faire l'objet d'aucune exécution forcée par le juge. La fidélité s'entend strictement de l'absence de relations charnelles avec un tiers, et le secours a une nature patrimoniale, non purement morale.",
+      "tags": ["effets du mariage"]
+    },
+    {
+      "id": "mariage-qcm-007",
+      "question": "Quel est le régime matrimonial applicable par défaut, à défaut de contrat de mariage ?",
+      "options": [
+        "Communauté réduite aux acquêts par défaut, séparation et communauté universelle possibles",
+        "La séparation de biens est le régime légal applicable à défaut de contrat de mariage",
+        "Le régime de participation aux acquêts s'applique automatiquement sans contrat préalable",
+        "Tous les régimes matrimoniaux excluent nécessairement les biens propres antérieurs"
+      ],
+      "answer": 0,
+      "explanation": "À défaut de contrat de mariage, le régime légal de la communauté réduite aux acquêts s'applique (arts. 1400-1491 C. civ.) : les biens propres (acquis avant le mariage, par succession ou libéralité) restent personnels, les acquêts deviennent communs. La séparation de biens et la communauté universelle ne s'appliquent que par contrat de mariage exprès.",
+      "tags": ["régimes matrimoniaux"]
+    },
+    {
+      "id": "mariage-qcm-008",
+      "question": "Quelle est la spécificité procédurale du divorce par consentement mutuel par acte d'avocats (arts. 229-1 à 229-4 C. civ.) ?",
+      "options": [
+        "Le divorce par consentement mutuel par acte d'avocats se conclut sans intervention du juge",
+        "Tout divorce par consentement mutuel exige obligatoirement l'homologation par un juge",
+        "Le divorce pour altération du lien conjugal suppose une séparation effective de 5 ans",
+        "Le divorce accepté exige la détermination préalable des torts respectifs des époux"
+      ],
+      "answer": 0,
+      "explanation": "Le divorce par consentement mutuel par acte d'avocats est un divorce sans juge : la convention, signée par les deux époux assistés chacun d'un avocat, est déposée au rang des minutes d'un notaire. Le divorce judiciaire par consentement mutuel n'est requis qu'à titre subsidiaire (audition du mineur, tutelle/curatelle d'un époux). Le divorce pour altération exige seulement un an de séparation depuis la loi du 23 mars 2019, et le divorce accepté est indifférent à l'imputation des torts.",
+      "tags": ["divorce", "consentement mutuel"]
+    },
+    {
+      "id": "mariage-qcm-009",
+      "question": "Quelle est la caractéristique essentielle de la prestation compensatoire au sens de l'art. 270 al. 2 du Code civil ?",
+      "options": [
+        "La prestation compensatoire répare la disparité créée par la rupture, sans état de besoin",
+        "La prestation compensatoire est réservée au seul divorce pour faute du conjoint",
+        "Le montant de la prestation compensatoire est toujours librement révisable ensuite",
+        "La prestation compensatoire est exclusivement versée sous forme de rente viagère"
+      ],
+      "answer": 0,
+      "explanation": "La prestation compensatoire est destinée à compenser la disparité que la rupture du mariage crée dans les conditions de vie respectives des époux ; elle est indépendante de l'état de besoin, un simple constat de disparité suffisant. Elle est ouverte à tous les types de divorce depuis l'abrogation de l'ancien art. 280-1, et son montant n'est en principe pas révisable (sauf exceptions limitées).",
+      "tags": ["prestation compensatoire"]
+    },
+    {
+      "id": "mariage-qcm-010",
+      "question": "Quelle est la forme de versement prioritaire de la prestation compensatoire selon l'art. 274 du Code civil ?",
+      "options": [
+        "Le capital est la forme prioritaire, la rente viagère restant exceptionnelle et limitée",
+        "La rente viagère constitue la forme normale et prioritaire de la prestation compensatoire",
+        "Le versement en capital ne peut jamais être fractionné, quelles que soient les modalités",
+        "Les héritiers du débiteur sont toujours libérés du paiement de la rente à son décès"
+      ],
+      "answer": 0,
+      "explanation": "Le versement d'un capital constitue la forme prioritaire (art. 274 C. civ.), pouvant être fractionné sur 8 ans maximum par décision motivée. La rente viagère (art. 276 C. civ.) n'est admise qu'à titre exceptionnel, lorsque l'âge ou l'état de santé du créancier l'empêche de subvenir à ses besoins ; en cas de décès du débiteur, ses héritiers prennent le relai du paiement, sans en être libérés.",
+      "tags": ["prestation compensatoire", "art. 274"]
+    }
+  ]
+}

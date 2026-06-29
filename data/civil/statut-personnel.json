@@ -1,0 +1,187 @@
+{
+  "id": "statut-personnel",
+  "title": "Les éléments du statut personnel",
+  "category": "Droit civil — Les personnes",
+  "flashcards": [
+    {
+      "id": "statut-fc-001",
+      "front": "Quelle est la règle d'attribution du nom de famille depuis la loi du 4 mars 2002 (art. 311-21 C. civ.) ?",
+      "back": "Les parents choisissent le nom de leur enfant — nom du père, nom de la mère, ou les deux accolés dans l'ordre qu'ils décident, dans la limite d'un nom de famille pour chacun d'eux. À défaut d'accord, l'enfant prend le nom du parent dont la filiation est établie en premier, ou celui du père si elle l'est simultanément à l'égard des deux.",
+      "tags": ["nom de famille", "art. 311-21"]
+    },
+    {
+      "id": "statut-fc-002",
+      "front": "Quel contrôle l'officier d'état civil exerce-t-il sur le choix du prénom (art. 57 C. civ.) ?",
+      "back": "Le prénom est librement choisi par les parents, mais contrôlé par l'officier d'état civil. Si le prénom est contraire à l'intérêt de l'enfant ou aux droits des tiers, le procureur peut saisir le juge aux affaires familiales, qui peut imposer un autre prénom (art. 57 al. 4 C. civ.).",
+      "tags": ["prénom", "art. 57"]
+    },
+    {
+      "id": "statut-fc-003",
+      "front": "Quelle est la procédure de changement de nom pour intérêt légitime (art. 61 C. civ.) ?",
+      "back": "La requête est portée devant le Conseil d'État et autorisée par décret publié au Journal officiel. Un délai d'opposition de 2 mois court à partir de la publication ; le changement produit effet à l'expiration de ce délai ou au rejet de l'opposition. Si l'enfant a plus de 13 ans, son consentement est requis.",
+      "tags": ["changement de nom", "art. 61"]
+    },
+    {
+      "id": "statut-fc-004",
+      "front": "Quelles conditions la loi du 18 novembre 2016 pose-t-elle pour le changement de la mention du sexe à l'état civil (art. 61-5 C. civ.) ?",
+      "back": "Trois faits principaux doivent être établis : se présenter publiquement sous le sexe revendiqué, être connu sous le prénom correspondant à ce sexe, et avoir obtenu le changement de prénom. Aucune opération ni stérilisation n'est exigée (art. 61-6 al. 3 C. civ.).",
+      "tags": ["changement de sexe", "art. 61-5"]
+    },
+    {
+      "id": "statut-fc-005",
+      "front": "Que prévoit l'art. 18 du Code civil sur l'acquisition de la nationalité française par filiation ?",
+      "back": "« Est français l'enfant dont l'un des parents au moins est français. » Si l'enfant est né à l'étranger d'un seul parent français, il peut répudier la nationalité française dans les six mois précédant sa majorité ou dans les douze mois la suivant.",
+      "tags": ["nationalité", "art. 18"]
+    },
+    {
+      "id": "statut-fc-006",
+      "front": "Quelle est la définition du domicile et ses principaux effets (art. 102 C. civ.) ?",
+      "back": "Le domicile est le lieu du principal établissement de la personne. Il fixe le lieu d'exercice des droits civils, l'ouverture de la succession (art. 720 C. civ.) et la compétence territoriale des juridictions (art. 42 C. pr. civ.). Le mineur non émancipé est domicilié chez ses père et mère (art. 108-2 al. 1 C. civ.).",
+      "tags": ["domicile", "art. 102"]
+    },
+    {
+      "id": "statut-fc-007",
+      "front": "Quelles énonciations doit comporter l'acte de naissance selon l'art. 57 du Code civil ?",
+      "back": "Les prénoms, le sexe, la date, l'heure et le lieu de naissance, ainsi que l'identité des parents. La déclaration doit être faite en mairie dans les 5 jours suivant l'accouchement (art. 55 C. civ.).",
+      "tags": ["acte de naissance", "art. 57"]
+    },
+    {
+      "id": "statut-fc-008",
+      "front": "Quelle différence sépare la rectification administrative et la rectification judiciaire des actes d'état civil ?",
+      "back": "La rectification administrative (arts. 99-1 et 99-2 C. civ.) concerne les erreurs et omissions matérielles, et relève de la compétence de l'officier d'état civil ou du procureur. La rectification judiciaire (art. 99 C. civ.) concerne toute inexactitude substantielle et est ouverte à toute personne intéressée ainsi qu'au ministère public.",
+      "tags": ["rectification", "art. 99"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "statut-qcm-001",
+      "question": "Quelle est la règle d'attribution du nom de famille posée par l'art. 311-21 du Code civil ?",
+      "options": [
+        "Les parents choisissent le nom du père, de la mère, ou les deux accolés à leur convenance",
+        "Le nom de l'enfant est toujours imposé d'office par l'officier d'état civil compétent",
+        "Le nom de famille ne peut jamais résulter de l'accolement des deux noms parentaux",
+        "En cas de désaccord, l'enfant prend systématiquement le nom de sa mère, sans exception"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la loi du 4 mars 2002, les parents choisissent librement le nom de leur enfant : celui du père, celui de la mère, ou les deux accolés dans l'ordre qu'ils déterminent, dans la limite d'un nom de famille pour chacun. À défaut d'accord, l'enfant prend le nom du parent dont la filiation est établie en premier, ou celui du père en cas d'établissement simultané — non systématiquement celui de la mère.",
+      "tags": ["nom de famille"]
+    },
+    {
+      "id": "statut-qcm-002",
+      "question": "Quel contrôle s'exerce sur le choix du prénom de l'enfant selon l'art. 57 du Code civil ?",
+      "options": [
+        "L'officier d'état civil contrôle le prénom, le juge pouvant en imposer un autre si besoin",
+        "Le prénom est totalement libre, sans aucun contrôle possible de l'officier d'état civil",
+        "Seul le procureur peut choisir librement le prénom, à la place des parents biologiques",
+        "Le changement de prénom est impossible, même en présence d'un intérêt légitime avéré"
+      ],
+      "answer": 0,
+      "explanation": "Le prénom est librement choisi par les parents, mais l'officier d'état civil exerce un contrôle : si le prénom est contraire à l'intérêt de l'enfant ou aux droits des tiers (ex. Ravi, Cheyenne, Cerise ont été refusés), le procureur peut saisir le juge aux affaires familiales, qui peut imposer un autre prénom. Le changement de prénom reste par ailleurs possible pour intérêt légitime (art. 60 C. civ.).",
+      "tags": ["prénom"]
+    },
+    {
+      "id": "statut-qcm-003",
+      "question": "Quelle est la procédure de changement de nom pour intérêt légitime prévue à l'art. 61 du Code civil ?",
+      "options": [
+        "Intérêt légitime requis, requête au Conseil d'État, opposition possible pendant deux mois",
+        "Le changement de nom ne requiert aucune démarche, ni judiciaire ni administrative valable",
+        "Le changement de nom produit effet immédiatement dès le dépôt de la requête au Conseil",
+        "Le consentement de l'enfant n'est jamais requis, quel que soit son âge au changement"
+      ],
+      "answer": 0,
+      "explanation": "La procédure administrative de l'art. 61 du Code civil exige un intérêt légitime (nom ridicule, homonyme d'un criminel célèbre...), une requête portée devant le Conseil d'État, autorisée par décret publié au Journal officiel, avec un délai d'opposition de 2 mois. Le changement ne produit donc effet qu'à l'expiration de ce délai, et le consentement de l'enfant de plus de 13 ans est requis.",
+      "tags": ["changement de nom"]
+    },
+    {
+      "id": "statut-qcm-004",
+      "question": "Quelle est la position retenue par la Cour de cassation (Civ. 1re, 4 mai 2017) sur la mention d'un sexe « neutre » à l'état civil ?",
+      "options": [
+        "La Cour de cassation refuse d'établir un état civil mentionnant un sexe neutre",
+        "La Cour de cassation impose désormais la mention d'un sexe neutre à l'état civil",
+        "La France a été condamnée par la CEDH pour son refus du sexe neutre à l'état civil",
+        "La mention du sexe à la naissance ne figure jamais dans l'acte de naissance dressé"
+      ],
+      "answer": 0,
+      "explanation": "La Cour de cassation refuse d'établir l'état civil d'une personne en indiquant un sexe « neutre » (Civ. 1re, 4 mai 2017). La France n'a pas été condamnée par la CEDH sur ce point (CEDH, 31 janv. 2023, aff. Y c/ France). Le sexe de naissance figure en principe dans l'acte de naissance (art. 57 al. 1 C. civ.), sauf impossibilité médicale temporaire de le déterminer.",
+      "tags": ["sexe", "civ. 1re 2017"]
+    },
+    {
+      "id": "statut-qcm-005",
+      "question": "Quelles conditions la loi du 18 novembre 2016 exige-t-elle pour le changement de la mention du sexe à l'état civil (art. 61-5 s. C. civ.) ?",
+      "options": [
+        "Aucune opération ni stérilisation n'est exigée pour changer la mention du sexe",
+        "Une opération chirurgicale est une condition légale du changement de mention du sexe",
+        "Le changement de sexe modifie rétroactivement les filiations établies avant la demande",
+        "Le changement de sexe reste réservé aux seules personnes majeures non émancipées"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la loi du 18 novembre 2016, aucune opération ni stérilisation n'est exigée (art. 61-6 al. 3 C. civ.) — cette condition d'irréversibilité avait justifié la condamnation de la France par la CEDH (AP, Garçon et Nicot c/ France, 6 avril 2017). Le changement de sexe n'a par ailleurs aucune incidence sur les filiations établies avant la modification (art. 61-8), et il est ouvert aux mineurs émancipés comme aux majeurs.",
+      "tags": ["changement de sexe", "art. 61-5"]
+    },
+    {
+      "id": "statut-qcm-006",
+      "question": "Que prévoit l'art. 18 du Code civil sur l'acquisition de la nationalité française par filiation ?",
+      "options": [
+        "Est français l'enfant dont l'un des parents au moins possède la nationalité française",
+        "La nationalité française ne s'acquiert jamais par la seule filiation des parents",
+        "Le mariage emporte de plein droit l'acquisition automatique de la nationalité française",
+        "Seule la naissance sur le territoire français confère systématiquement la nationalité"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 18 du Code civil pose le droit du sang : est français l'enfant dont l'un des parents au moins est français. Le mariage, à l'inverse, n'exerce de plein droit aucun effet sur la nationalité (art. 21-1 C. civ.) ; la naissance en France de parents étrangers ne confère la nationalité que sous conditions spécifiques (double droit du sol, art. 19-3 et 21-7 C. civ.).",
+      "tags": ["nationalité", "art. 18"]
+    },
+    {
+      "id": "statut-qcm-007",
+      "question": "Quels sont les principaux effets juridiques attachés au domicile selon l'art. 102 du Code civil ?",
+      "options": [
+        "Le domicile est le lieu du principal établissement, déterminant la compétence territoriale",
+        "Le domicile ne produit aucun effet sur l'ouverture de la succession du défunt concerné",
+        "Les époux doivent toujours partager un domicile commun et unique en toute circonstance",
+        "Le mineur non émancipé choisit librement son propre domicile, sans référence parentale"
+      ],
+      "answer": 0,
+      "explanation": "Le domicile, lieu du principal établissement de la personne (art. 102 C. civ.), fixe notamment la compétence territoriale des juridictions (art. 42 C. pr. civ.) et le lieu d'ouverture de la succession (art. 720 C. civ.). Les époux peuvent au contraire avoir des domiciles distincts (art. 108 al. 1 C. civ.), et le mineur non émancipé est domicilié chez ses père et mère, non à son propre choix.",
+      "tags": ["domicile", "art. 102"]
+    },
+    {
+      "id": "statut-qcm-008",
+      "question": "Quelles énonciations doit comporter l'acte de naissance selon l'art. 57 du Code civil ?",
+      "options": [
+        "Acte dressé en mairie sous 5 jours, mentionnant prénoms, sexe, date, lieu et filiation",
+        "L'acte de naissance peut être dressé indifféremment à tout moment après la naissance",
+        "L'acte de naissance ne mentionne jamais l'identité des parents de l'enfant concerné",
+        "Aucun acte n'est dressé en cas de naissance d'un enfant né vivant puis décédé aussitôt"
+      ],
+      "answer": 0,
+      "explanation": "La déclaration de naissance doit être faite en mairie dans les 5 jours suivant l'accouchement (art. 55 C. civ.), et l'acte contient les énonciations de l'art. 57 : prénoms, sexe, date, heure et lieu de naissance, identité des parents. Même pour un enfant né vivant et viable puis décédé aussitôt, un acte de naissance (puis de décès) est dressé, contrairement à l'enfant né sans vie (art. 79-1 C. civ.).",
+      "tags": ["acte de naissance", "art. 57"]
+    },
+    {
+      "id": "statut-qcm-009",
+      "question": "Quelle différence sépare la rectification administrative et la rectification judiciaire d'un acte d'état civil ?",
+      "options": [
+        "Rectification administrative pour erreurs matérielles, judiciaire pour inexactitudes",
+        "Toute rectification d'un acte d'état civil exige systématiquement une procédure judiciaire",
+        "Le changement de la mention du sexe constitue une simple rectification d'erreur matérielle",
+        "La rectification judiciaire reste fermée au ministère public, ouverte aux particuliers"
+      ],
+      "answer": 0,
+      "explanation": "La rectification administrative (arts. 99-1 et 99-2 C. civ.) traite les erreurs et omissions matérielles, tandis que la rectification judiciaire (art. 99 C. civ.) concerne toute inexactitude substantielle et est ouverte tant aux personnes intéressées qu'au ministère public. Le changement de la mention du sexe constitue, lui, une modification du statut civil — non une simple rectification d'erreur.",
+      "tags": ["rectification", "art. 99"]
+    },
+    {
+      "id": "statut-qcm-010",
+      "question": "Qui peut exercer la fonction d'officier d'état civil en France (CE, 11 oct. 1991) ?",
+      "options": [
+        "L'officier d'état civil est le maire ou son adjoint, sous le contrôle du procureur",
+        "La secrétaire de mairie peut valablement exercer les fonctions d'officier d'état civil",
+        "Les registres d'état civil ne sont tenus qu'en un seul exemplaire, conservé en mairie",
+        "À l'étranger, aucun agent diplomatique n'exerce les fonctions d'officier d'état civil"
+      ],
+      "answer": 0,
+      "explanation": "L'officier d'état civil est le maire ou son adjoint, et non la secrétaire de mairie (CE, 11 oct. 1991), sous le contrôle du procureur de la République (art. 34-1 C. civ.). À l'étranger, ce sont les agents diplomatiques ou consulaires qui exercent cette fonction (art. 48 C. civ.). Les registres sont tenus en double exemplaire : l'un à la commune, l'autre au greffe du tribunal judiciaire.",
+      "tags": ["officier d'état civil"]
+    }
+  ]
+}
