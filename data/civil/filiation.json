@@ -1,0 +1,187 @@
+{
+  "id": "filiation",
+  "title": "Le lien juridique de filiation",
+  "category": "Droit civil — Famille",
+  "flashcards": [
+    {
+      "id": "filiation-fc-001",
+      "front": "Que prévoit l'art. 222-22-3 du Code pénal sur la définition des actes incestueux, après la censure du Conseil constitutionnel (QPC 2012-222) ?",
+      "back": "Le Conseil constitutionnel avait censuré l'art. 227-27-2 C. pén. pour absence de définition légale des « liens familiaux ». L'art. 222-22-3 C. pén. reprend désormais une liste limitative des auteurs : ascendant, frère/sœur, oncle/tante/neveu/nièce, conjoint ou concubin de ceux-ci ayant autorité sur la victime.",
+      "tags": ["inceste", "art. 222-22-3"]
+    },
+    {
+      "id": "filiation-fc-002",
+      "front": "Que prévoit l'art. 310-2 du Code civil sur le double lien de filiation de l'enfant issu d'un inceste ?",
+      "back": "Lorsqu'il existe entre les parents un empêchement à mariage (arts. 161-162 C. civ.), le double lien de filiation est prohibé : la filiation ne peut être établie qu'à l'égard de l'un des deux parents, non des deux simultanément.",
+      "tags": ["inceste", "art. 310-2"]
+    },
+    {
+      "id": "filiation-fc-003",
+      "front": "Que prévoit l'art. 342-9 du Code civil sur le lien avec le tiers donneur en AMP ?",
+      "back": "Aucun lien de filiation ne peut être établi entre le tiers donneur et l'enfant issu de l'assistance médicale à la procréation, et aucune action en responsabilité civile n'est ouverte contre le donneur. L'art. 16-8 C. civ. pose par ailleurs le principe d'anonymat du don.",
+      "tags": ["amp", "art. 342-9"]
+    },
+    {
+      "id": "filiation-fc-004",
+      "front": "Qu'a jugé l'Assemblée plénière le 3 juillet 2015 sur la transcription de l'acte de naissance d'un enfant né de GPA à l'étranger ?",
+      "back": "La transcription est possible si l'acte de naissance étranger est exact, c'est-à-dire régulier au sens de l'art. 47 du Code civil, sans que cela remette en cause la prohibition de la GPA en France. Ce qui évolue, c'est la reconnaissance du lien de filiation déjà établi à l'étranger, non la licéité de la GPA elle-même.",
+      "tags": ["gpa", "ass. plén. 2015"]
+    },
+    {
+      "id": "filiation-fc-005",
+      "front": "Qu'est-ce que la présomption de paternité posée à l'art. 312 du Code civil ?",
+      "back": "L'enfant conçu ou né pendant le mariage a pour père le mari. Cette présomption, fondée sur le devoir de fidélité (art. 212 C. civ.), vise la paix des familles plus que la vérité biologique. La période de conception est présumée se situer entre 300 et 180 jours avant la naissance (art. 311 C. civ.).",
+      "tags": ["présomption de paternité", "art. 312"]
+    },
+    {
+      "id": "filiation-fc-006",
+      "front": "Qu'est-ce que la reconnaissance comme mode d'établissement de la filiation (art. 62 C. civ.) ?",
+      "back": "C'est l'acte par lequel une personne déclare être le parent d'un enfant, pouvant être fait avant ou après la naissance. C'est un acte déclaratif (et non constitutif) de filiation : ses effets remontent au jour de la naissance. Elle n'établit la filiation qu'à l'égard de son auteur, ce qui en fait un lien divisible.",
+      "tags": ["reconnaissance", "art. 62"]
+    },
+    {
+      "id": "filiation-fc-007",
+      "front": "Qu'est-ce que la possession d'état comme mode d'établissement de la filiation (art. 311-1 C. civ.) ?",
+      "back": "C'est la réunion suffisante de faits révélant le lien de filiation et de parenté, résumée par trois critères : nomen (le nom), tractatus (les rapports entre intéressés), fama (la réputation à l'égard des tiers). Elle doit être continue, paisible, publique et non équivoque, et constitue un mode autonome d'établissement depuis 1982.",
+      "tags": ["possession d'état", "art. 311-1"]
+    },
+    {
+      "id": "filiation-fc-008",
+      "front": "Quelle différence fondamentale sépare l'adoption plénière de l'adoption simple ?",
+      "back": "L'adoption plénière substitue un nouveau lien de filiation : elle est irrévocable et rompt complètement le lien d'origine (art. 356, 359 C. civ.). L'adoption simple ajoute un lien supplémentaire sans supprimer le lien d'origine, et reste révocable pour motifs graves (art. 360, 368 C. civ.).",
+      "tags": ["adoption"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "filiation-qcm-001",
+      "question": "Qu'a jugé le Conseil constitutionnel dans la QPC 2012-222 du 17 février 2012 sur la définition pénale de l'inceste ?",
+      "options": [
+        "Une liste limitative des auteurs a été retenue après censure du Conseil constitutionnel",
+        "La prohibition pénale de l'inceste vise toute relation entre majeurs, même consentants",
+        "Le texte initial a été validé sans réserve par le Conseil constitutionnel en 2012",
+        "Entre majeurs consentants, le seul lien de parenté suffit à constituer une infraction"
+      ],
+      "answer": 0,
+      "explanation": "Le Conseil constitutionnel a censuré l'art. 227-27-2 C. pén. pour méconnaissance du principe de légalité des délits et des peines, faute de définition légale des « liens familiaux ». L'art. 222-22-3 C. pén. reprend désormais une liste limitative des auteurs. L'inceste n'est répréhensible pénalement que s'il est commis envers un mineur ; entre majeurs consentants, le lien de parenté n'est qu'une circonstance aggravante d'une infraction sexuelle déjà constituée.",
+      "tags": ["inceste"]
+    },
+    {
+      "id": "filiation-qcm-002",
+      "question": "Que prévoit l'art. 310-2 du Code civil sur le double lien de filiation de l'enfant issu d'un inceste ?",
+      "options": [
+        "Le double lien de filiation est prohibé en cas d'empêchement à mariage entre les parents",
+        "Le double lien de filiation incestueuse est toujours établi à l'égard des deux parents",
+        "L'enfant issu d'un inceste n'a jamais aucun lien de filiation établi envers ses parents",
+        "La prohibition du double lien ne s'applique qu'aux empêchements relatifs, jamais absolus"
+      ],
+      "answer": 0,
+      "explanation": "Lorsqu'il existe entre les parents un empêchement à mariage (arts. 161-162 C. civ.), le double lien de filiation est prohibé : la filiation ne peut être établie qu'à l'égard de l'un des deux parents, non des deux. L'enfant conserve donc un lien de filiation envers l'un de ses parents, et la prohibition s'applique sans distinction selon la nature de l'empêchement.",
+      "tags": ["inceste", "art. 310-2"]
+    },
+    {
+      "id": "filiation-qcm-003",
+      "question": "Que prévoit l'art. 342-9 du Code civil sur le lien entre le tiers donneur et l'enfant issu d'une AMP ?",
+      "options": [
+        "Aucun lien de filiation ne peut être établi entre le tiers donneur et l'enfant",
+        "Le tiers donneur peut être recherché en paternité par l'enfant dès sa majorité atteinte",
+        "Une action en responsabilité civile reste ouverte contre le donneur de gamètes en AMP",
+        "L'anonymat du don de gamètes a été supprimé par la loi de bioéthique du 2 août 2021"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 342-9 du Code civil exclut tout lien de filiation entre le tiers donneur et l'enfant, ainsi que toute action en responsabilité contre le donneur. Le principe d'anonymat du don subsiste (art. 16-8 C. civ.), mais depuis la loi de 2021, l'enfant majeur peut accéder à l'identité du donneur si celui-ci y a consenti expressément au moment du don (art. L. 2143-2 CSP), sans pour autant créer de lien de filiation.",
+      "tags": ["amp", "art. 342-9"]
+    },
+    {
+      "id": "filiation-qcm-004",
+      "question": "Que prévoit la loi de bioéthique du 2 août 2021 sur l'accès de l'enfant à l'identité du tiers donneur (art. L. 2143-2 CSP) ?",
+      "options": [
+        "Depuis 2021, l'enfant majeur peut accéder à l'identité du donneur si celui-ci y consent",
+        "L'accès à l'identité du donneur reste impossible quelle que soit la volonté du donneur",
+        "Le don de gamètes reste limité à 5 enfants engendrés depuis la réforme de 2021",
+        "Le consentement à l'AMP avec tiers donneur n'a jamais besoin d'être réitéré dans le temps"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la loi du 2 août 2021, l'enfant peut, à sa majorité, accéder à l'identité du tiers donneur si celui-ci y a consenti expressément au moment du don (art. L. 2143-2 CSP). La limite est désormais de 10 enfants engendrés par donneur (contre 5 avant 2004), et le couple doit réitérer son consentement un mois après le dernier entretien.",
+      "tags": ["amp", "loi 2021"]
+    },
+    {
+      "id": "filiation-qcm-005",
+      "question": "Quel est le fondement de la prohibition de la gestation pour autrui en droit français (arts. 16-7 et 16-9 C. civ.) ?",
+      "options": [
+        "La GPA est nulle d'une nullité d'ordre public, fondée sur l'indisponibilité de l'état",
+        "La GPA est licite en France depuis la réforme bioéthique du 2 août 2021 sous conditions",
+        "La transcription de l'acte de naissance étranger remet en cause la prohibition de la GPA",
+        "La Cour de cassation a toujours refusé toute transcription, même envers le père biologique"
+      ],
+      "answer": 0,
+      "explanation": "La convention de GPA est nulle d'une nullité d'ordre public (arts. 16-7 et 16-9 C. civ.), fondée sur l'indisponibilité de l'état des personnes (Civ. 1re, 6 avr. 2011). Cette prohibition reste entière même après la réforme bioéthique de 2021. La transcription de l'acte de naissance étranger, lorsqu'elle est admise envers le père biologique (Ass. plén., 3 juill. 2015), ne remet pas en cause cette prohibition.",
+      "tags": ["gpa"]
+    },
+    {
+      "id": "filiation-qcm-006",
+      "question": "Que retenir de l'évolution jurisprudentielle sur la transcription des actes de naissance issus d'une GPA à l'étranger ?",
+      "options": [
+        "La transcription est possible envers le père biologique si l'acte étranger est régulier",
+        "La CEDH n'a jamais condamné la France pour sa position relative à la gestation pour autrui",
+        "L'adoption ne permet jamais d'établir un lien envers le parent d'intention non biologique",
+        "La transcription de l'acte étranger reste impossible quelle que soit sa régularité"
+      ],
+      "answer": 0,
+      "explanation": "Depuis l'arrêt de l'Assemblée plénière du 3 juillet 2015, la transcription est possible envers le père biologique si l'acte de naissance étranger est régulier au sens de l'art. 47 C. civ. La CEDH a condamné la France dans l'arrêt Mennesson et Labassee (26 juin 2014) ; pour la mère d'intention non biologique, la Cour de cassation a admis l'adoption simple comme voie alternative à la transcription (Civ. 1re, 5 juill. 2017).",
+      "tags": ["gpa", "jurisprudence"]
+    },
+    {
+      "id": "filiation-qcm-007",
+      "question": "Quel est le fondement de la présomption de paternité posée à l'art. 312 du Code civil ?",
+      "options": [
+        "La présomption de paternité attribue la paternité au mari pendant la durée du mariage",
+        "La présomption de paternité repose avant tout sur la recherche de la vérité biologique",
+        "La présomption de paternité ne s'applique jamais si l'enfant naît après la dissolution",
+        "Le mari ne peut jamais reconnaître l'enfant si la présomption de paternité est écartée"
+      ],
+      "answer": 0,
+      "explanation": "La présomption de paternité (pater is est) attribue au mari la paternité de l'enfant conçu ou né pendant le mariage, fondée sur le devoir de fidélité (art. 212 C. civ.) et la paix des familles, plus que sur la vérité biologique. La présomption peut jouer même si l'enfant naît dans les 300 jours suivant la dissolution du mariage, et si l'acte ne désigne pas le mari, celui-ci peut reconnaître l'enfant (art. 313 C. civ.).",
+      "tags": ["présomption de paternité"]
+    },
+    {
+      "id": "filiation-qcm-008",
+      "question": "Quelle est la nature juridique de la reconnaissance comme mode d'établissement de la filiation (art. 316 C. civ.) ?",
+      "options": [
+        "La reconnaissance est un acte déclaratif dont les effets remontent au jour de la naissance",
+        "La reconnaissance est un acte constitutif qui ne produit effet qu'à compter de sa date",
+        "La reconnaissance établit toujours la filiation à l'égard des deux parents simultanément",
+        "La reconnaissance ne peut jamais intervenir avant la naissance de l'enfant concerné"
+      ],
+      "answer": 0,
+      "explanation": "La reconnaissance est un acte déclaratif (et non constitutif) de filiation : ses effets remontent rétroactivement au jour de la naissance de l'enfant. Elle peut être faite avant ou après la naissance (art. 316 al. 1er C. civ.), et n'établit la filiation qu'à l'égard de son seul auteur, ce qui en fait un lien divisible (art. 316 al. 2 C. civ.).",
+      "tags": ["reconnaissance"]
+    },
+    {
+      "id": "filiation-qcm-009",
+      "question": "Quels sont les trois critères constitutifs de la possession d'état selon l'art. 311-1 du Code civil ?",
+      "options": [
+        "Nomen, tractatus et fama, réunis de façon continue, paisible, publique et non équivoque",
+        "La possession d'état se limite au seul critère du nom porté par l'enfant concerné",
+        "La possession d'état permet d'établir un lien envers le concubin de même sexe du parent",
+        "La possession d'état est un mode d'établissement de la filiation reconnu depuis 1804"
+      ],
+      "answer": 0,
+      "explanation": "Les trois critères de la possession d'état sont le nomen (le nom), le tractatus (les rapports entre intéressés) et la fama (la réputation à l'égard des tiers), réunis de façon continue, paisible, publique et non équivoque. Mode autonome d'établissement de la filiation depuis 1982, elle ne permet toutefois pas d'établir un lien envers le concubin de même sexe que le parent (Avis Cass., 7 mars 2018) : seule l'adoption le permet pour les couples de même sexe.",
+      "tags": ["possession d'état"]
+    },
+    {
+      "id": "filiation-qcm-010",
+      "question": "Quelle différence sépare l'adoption plénière de l'adoption simple quant au lien d'origine ?",
+      "options": [
+        "Adoption plénière irrévocable rompant le lien d'origine, adoption simple l'ajoute",
+        "L'adoption simple rompt définitivement et irrévocablement la famille d'origine",
+        "L'adoption plénière est révocable pour motifs graves comme l'adoption simple le permet",
+        "L'obligation alimentaire des parents d'origine subsiste toujours après adoption plénière"
+      ],
+      "answer": 0,
+      "explanation": "L'adoption plénière substitue un nouveau lien de filiation : elle est irrévocable (art. 359 C. civ.) et rompt complètement et irrévocablement le lien d'origine (art. 356 C. civ.), faisant disparaître l'obligation alimentaire des parents d'origine. L'adoption simple, à l'inverse, ajoute un lien supplémentaire sans supprimer le lien d'origine, et reste révocable pour motifs graves (art. 360, 368 C. civ.).",
+      "tags": ["adoption"]
+    }
+  ]
+}

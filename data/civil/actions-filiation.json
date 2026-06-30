@@ -1,0 +1,92 @@
+{
+  "id": "actions-filiation",
+  "title": "Les actions relatives à la filiation",
+  "category": "Droit civil — Famille",
+  "flashcards": [
+    {
+      "id": "actionfiliation-fc-001",
+      "front": "Quel est le régime de recevabilité des actions en filiation (arts. 318-1, 321, 323 C. civ.) ?",
+      "back": "Compétence exclusive du tribunal judiciaire. Ces actions sont d'ordre public : insusceptibles de renonciation, opposables aux tiers sauf tierce opposition dans les 10 ans, et transmissibles aux héritiers si le délai n'est pas expiré.",
+      "tags": ["actions en filiation", "art. 318-1"]
+    },
+    {
+      "id": "actionfiliation-fc-002",
+      "front": "Quelles sont les caractéristiques de l'action en recherche de maternité (arts. 321 et 325 C. civ.) ?",
+      "back": "Ouverte à l'enfant contre la mère ou ses héritiers, dans un délai de 10 ans à compter de sa majorité. Elle est limitée à la preuve de l'accouchement, et reste admise même en cas d'accouchement sous X.",
+      "tags": ["recherche de maternité", "arts. 321 et 325"]
+    },
+    {
+      "id": "actionfiliation-fc-003",
+      "front": "Quel est le rôle de l'expertise biologique en matière d'actions en filiation (Civ. 1re, 28 mars 2000) ?",
+      "back": "L'expertise biologique est de droit en matière de filiation, sauf motif légitime de refus. En cas de refus, le juge conserve un pouvoir d'appréciation sur la vraisemblance du lien de filiation allégué.",
+      "tags": ["expertise biologique"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "actionfiliation-qcm-001",
+      "question": "Quel est le régime des actions en filiation au regard de leur caractère d'ordre public (arts. 321 et 323 C. civ.) ?",
+      "options": [
+        "Les actions en filiation sont d'ordre public, sans possibilité de renonciation",
+        "Les actions en filiation peuvent toujours faire l'objet d'une renonciation par l'enfant",
+        "Le tribunal judiciaire a compétence exclusive pour les actions en filiation",
+        "Les actions en filiation ne sont jamais opposables aux tiers, même après dix ans révolus"
+      ],
+      "answer": 0,
+      "explanation": "Les actions en filiation sont d'ordre public et insusceptibles de renonciation par les parties (art. 323 C. civ.). Le tribunal judiciaire a par ailleurs compétence exclusive pour en connaître (art. 318-1 C. civ.). Elles deviennent opposables aux tiers après l'expiration du délai de tierce opposition de 10 ans (arts. 321 et 324 C. civ.).",
+      "tags": ["actions en filiation"]
+    },
+    {
+      "id": "actionfiliation-qcm-002",
+      "question": "Quelles sont les caractéristiques de l'action en recherche de maternité (arts. 321 et 325 C. civ.) ?",
+      "options": [
+        "L'action en recherche de maternité se limite à la preuve de l'accouchement par l'enfant",
+        "L'action en recherche de maternité est exclue en cas d'accouchement sous le secret",
+        "L'enfant ne peut jamais agir contre les héritiers de sa mère présumée décédée",
+        "Le délai de l'action en recherche de maternité court dès la naissance de l'enfant"
+      ],
+      "answer": 0,
+      "explanation": "L'action en recherche de maternité, ouverte à l'enfant contre la mère ou ses héritiers, est limitée à la preuve de l'accouchement (art. 325 C. civ.). Elle reste admise même en cas d'accouchement sous X, et le délai de 10 ans court à compter de la majorité de l'enfant, non de sa naissance (art. 321 C. civ.).",
+      "tags": ["recherche de maternité"]
+    },
+    {
+      "id": "actionfiliation-qcm-003",
+      "question": "Quel rôle joue l'expertise biologique dans les actions en filiation, selon la jurisprudence Civ. 1re, 28 mars 2000 ?",
+      "options": [
+        "L'expertise biologique est de droit en matière de filiation, sauf motif légitime de refus",
+        "L'expertise biologique ne peut jamais être ordonnée par le juge en matière de filiation",
+        "Le refus d'expertise entraîne automatiquement le rejet de la demande de l'enfant",
+        "L'expertise biologique est interdite depuis la réforme de la filiation intervenue en 2005"
+      ],
+      "answer": 0,
+      "explanation": "L'expertise biologique est de droit en matière de filiation, sauf motif légitime de refus de la personne concernée. Le refus n'entraîne pas automatiquement le rejet de la demande : il laisse au juge un pouvoir d'appréciation sur la vraisemblance du lien de filiation allégué, au vu des autres éléments du dossier.",
+      "tags": ["expertise biologique"]
+    },
+    {
+      "id": "actionfiliation-qcm-004",
+      "question": "Qu'a jugé la Cour de cassation dans l'arrêt Civ. 1re, 7 novembre 2018 sur le contrôle des délais de prescription des actions en filiation ?",
+      "options": [
+        "Le contrôle de proportionnalité permet d'écarter un délai de prescription disproportionné",
+        "Les délais de prescription des actions en filiation échappent à tout contrôle",
+        "Le contrôle de proportionnalité s'applique uniquement aux actions à fins de subsides",
+        "Aucun juge ne peut jamais écarter un délai de prescription en matière de filiation"
+      ],
+      "answer": 0,
+      "explanation": "Le contrôle de proportionnalité, fondé sur l'art. 8 de la Convention EDH, permet au juge de vérifier si l'application concrète d'un délai de prescription porte une atteinte disproportionnée à la vie privée, au regard du but légitime poursuivi (sécurité juridique, protection des tiers) et du juste équilibre des intérêts en présence. Ce contrôle s'applique à l'ensemble des actions en filiation, non aux seules actions à fins de subsides.",
+      "tags": ["contrôle de proportionnalité"]
+    },
+    {
+      "id": "actionfiliation-qcm-005",
+      "question": "Quelle est la spécificité de l'action à fins de subsides prévue à l'art. 342 du Code civil ?",
+      "options": [
+        "L'action à fins de subsides ouvre droit à une contribution sans établir de filiation",
+        "L'action à fins de subsides établit un lien de filiation paternelle à l'égard de l'enfant",
+        "L'action à fins de subsides est réservée aux enfants dont la filiation est déjà établie",
+        "L'action à fins de subsides se prescrit par le même délai que la recherche de paternité"
+      ],
+      "answer": 0,
+      "explanation": "L'action à fins de subsides permet à l'enfant sans filiation paternelle établie d'obtenir une contribution financière de la part de celui ayant eu des relations avec la mère pendant la période de conception, sans pour autant établir de lien de filiation. Elle se distingue ainsi nettement de l'action en recherche de paternité, qui vise précisément l'établissement de ce lien.",
+      "tags": ["action à fins de subsides", "art. 342"]
+    }
+  ]
+}

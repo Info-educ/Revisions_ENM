@@ -1,0 +1,92 @@
+{
+  "id": "lien-famille-enfant",
+  "title": "Le lien de famille et l'enfant",
+  "category": "Droit civil — Famille",
+  "flashcards": [
+    {
+      "id": "liensfamille-fc-001",
+      "front": "Qu'est-ce que l'accouchement sous X prévu à l'art. 326 du Code civil ?",
+      "back": "La femme a le pouvoir discrétionnaire de demander le secret de son admission et de son identité lors de l'accouchement. La reconnaissance prénatale par le père reste possible et fait obstacle à l'adoption ultérieure si elle est antérieure au consentement à l'adoption.",
+      "tags": ["accouchement sous x", "art. 326"]
+    },
+    {
+      "id": "liensfamille-fc-002",
+      "front": "Que prévoit la loi bioéthique du 2 août 2021 sur l'accès aux origines des personnes nées d'un don de gamètes (art. L. 2143-1 s. CSP) ?",
+      "back": "Accès aux données non identifiantes du donneur (âge, état général, caractéristiques physiques, situation familiale et professionnelle, pays de naissance, motivation du don) et, à la majorité, à l'identité du tiers donneur, sous réserve du consentement de celui-ci donné au moment du don.",
+      "tags": ["accès aux origines", "loi 2021"]
+    },
+    {
+      "id": "liensfamille-fc-003",
+      "front": "Que prévoit l'art. 371-4 du Code civil sur les relations de l'enfant avec ses ascendants et avec un tiers ?",
+      "back": "L'al. 1er reconnaît à l'enfant (et non aux grands-parents) le droit d'entretenir des relations personnelles avec ses ascendants, auquel seul l'intérêt de l'enfant peut faire obstacle. L'al. 2 permet au JAF de fixer les modalités des relations avec un tiers, parent ou non, ayant résidé de manière stable avec l'enfant et noué des liens affectifs durables.",
+      "tags": ["relations avec ascendants", "art. 371-4"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "liensfamille-qcm-001",
+      "question": "Que prévoit l'art. 326 du Code civil sur l'accouchement sous X ?",
+      "options": [
+        "La femme peut demander le secret de son identité lors de l'accouchement sous X",
+        "L'accouchement sous X interdit définitivement toute reconnaissance prénatale par le père",
+        "L'accouchement sous X établit automatiquement la filiation maternelle de la femme",
+        "L'accouchement sous X a été supprimé par la loi bioéthique du 2 août 2021 récente"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 326 du Code civil reconnaît à la femme un pouvoir discrétionnaire de demander le secret de son admission et de son identité lors de l'accouchement. La reconnaissance prénatale par le père reste possible et fait obstacle à l'adoption ultérieure si elle est antérieure au consentement à l'adoption — l'accouchement sous X n'établit donc pas automatiquement la filiation maternelle et subsiste après la réforme bioéthique de 2021.",
+      "tags": ["accouchement sous x"]
+    },
+    {
+      "id": "liensfamille-qcm-002",
+      "question": "Qu'ont jugé la CEDH (Kearns c/ France, 10 janv. 2008) et le Conseil constitutionnel (déc. n° 2019-826 QPC) sur la rétractation maternelle après accouchement sous X ?",
+      "options": [
+        "La CEDH a validé l'irrecevabilité d'une rétractation maternelle tardive aux adoptants",
+        "La CEDH a condamné la France pour son régime de l'accouchement sous le secret",
+        "Le Conseil constitutionnel a jugé le délai de rétractation contraire à la Constitution",
+        "Aucun délai n'encadre la rétractation maternelle après un accouchement sous le secret"
+      ],
+      "answer": 0,
+      "explanation": "La CEDH a validé l'irrecevabilité d'une rétractation maternelle tardive (3 mois après l'accouchement) au profit des adoptants. Le Conseil constitutionnel a quant à lui jugé conforme à la Constitution le régime du placement en vue de l'adoption, qui fait obstacle à la reconnaissance et à la restitution après le délai de 2 mois, sans rupture d'égalité entre père et mère de naissance.",
+      "tags": ["accouchement sous x", "jurisprudence"]
+    },
+    {
+      "id": "liensfamille-qcm-003",
+      "question": "Que prévoit la loi bioéthique du 2 août 2021 sur l'accès aux origines des personnes nées d'un don de gamètes ?",
+      "options": [
+        "L'enfant né d'un don peut accéder à l'identité du donneur, avec son consentement",
+        "L'accès à l'identité du donneur est garanti sans condition depuis la loi de 2021",
+        "Le droit d'accès aux origines s'étend à la recherche des autres enfants du même donneur",
+        "Les données non identifiantes du donneur ne sont jamais accessibles à l'enfant majeur"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la loi du 2 août 2021, l'enfant né d'un don peut, à sa majorité, accéder à l'identité du tiers donneur, mais seulement sous réserve du consentement de celui-ci donné au moment du don — l'accès n'est donc pas garanti sans condition. La recherche est strictement circonscrite au donneur lui-même, et non étendue aux autres enfants issus du même géniteur ; les données non identifiantes restent en revanche accessibles.",
+      "tags": ["accès aux origines"]
+    },
+    {
+      "id": "liensfamille-qcm-004",
+      "question": "À qui appartient le droit d'entretenir des relations personnelles avec les ascendants posé à l'art. 371-4 al. 1er du Code civil ?",
+      "options": [
+        "Le droit de l'enfant à des relations avec ses ascendants ne cède que devant son intérêt",
+        "Le droit de visite des grands-parents leur appartient en propre, non à l'enfant lui-même",
+        "La mésentente entre parents et grands-parents exclut systématiquement tout droit de visite",
+        "Le droit aux relations avec les ascendants n'a aucun rattachement à la Conv. EDH"
+      ],
+      "answer": 0,
+      "explanation": "Depuis 1970, c'est le droit de l'enfant — et non plus celui des grands-parents — à entretenir des relations personnelles avec ses ascendants, auquel seul l'intérêt de l'enfant peut faire obstacle. La jurisprudence reconnaît largement ce droit, y compris en cas de rupture totale entre parents et grands-parents, sauf si la mésentente rejaillit sur l'enfant ; ce droit se rattache à l'art. 8 de la Convention EDH (CEDH, Mitovi c/ Macédoine, 2015).",
+      "tags": ["relations avec ascendants"]
+    },
+    {
+      "id": "liensfamille-qcm-005",
+      "question": "Quel est le rôle du JAF prévu à l'art. 371-4 al. 2 du Code civil concernant les relations entre l'enfant et un tiers, tel que le beau-parent ?",
+      "options": [
+        "Le JAF fixe les relations avec un tiers ayant noué des liens affectifs durables",
+        "Le beau-parent dispose en France d'un statut légal autonome équivalent à celui des parents",
+        "La délégation partagée de l'autorité parentale au beau-parent est juridiquement impossible",
+        "Le mandat d'éducation quotidienne proposé en 2014 a été définitivement adopté par la loi"
+      ],
+      "answer": 0,
+      "explanation": "Le JAF fixe les modalités des relations entre l'enfant et un tiers, parent ou non, lorsque ce tiers a résidé de manière stable avec lui, a pourvu à son éducation et à son entretien, et a noué des liens affectifs durables, si tel est l'intérêt de l'enfant. Le beau-parent ne dispose d'aucun statut légal autonome en France, à la différence de l'Espagne (Aragon) ; le mandat d'éducation quotidienne, proposé en 2014 par le rapport Théry, est resté non adopté.",
+      "tags": ["beau-parent", "art. 371-4"]
+    }
+  ]
+}

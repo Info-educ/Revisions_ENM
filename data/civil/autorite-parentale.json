@@ -1,0 +1,92 @@
+{
+  "id": "autorite-parentale",
+  "title": "L'autorité parentale",
+  "category": "Droit civil — Famille",
+  "flashcards": [
+    {
+      "id": "autoriteparentale-fc-001",
+      "front": "Que prévoit l'art. 371-1 du Code civil sur la définition de l'autorité parentale ?",
+      "back": "Ensemble de droits et de devoirs ayant pour finalité l'intérêt de l'enfant, appartenant aux parents jusqu'à la majorité ou l'émancipation, pour protéger l'enfant dans sa sécurité, sa santé, sa moralité et assurer son éducation. Depuis la loi du 10 juillet 2019, elle s'exerce sans violences physiques ou psychologiques.",
+      "tags": ["autorité parentale", "art. 371-1"]
+    },
+    {
+      "id": "autoriteparentale-fc-002",
+      "front": "Quelle est la différence entre retrait total et retrait partiel de l'autorité parentale (arts. 378 s. et 379-1 C. civ.) ?",
+      "back": "Le retrait total, prononcé pour mauvais traitements, alcoolisme, incurie ou désintérêt de plus de 2 ans, supprime l'obligation alimentaire envers les parents et rend l'enfant adoptable. Le retrait partiel se limite à certains attributs de l'autorité parentale, pour les mêmes causes.",
+      "tags": ["retrait de l'autorité parentale"]
+    },
+    {
+      "id": "autoriteparentale-fc-003",
+      "front": "Quelle distinction faut-il opérer entre retrait, assistance éducative et délaissement parental ?",
+      "back": "Le retrait (total ou partiel) sanctionne les parents. L'assistance éducative (art. 375 C. civ.) protège l'enfant sans déposséder les parents, qui restent titulaires de l'autorité parentale. Le délaissement parental (arts. 381-1 et 381-2 C. civ.) constate un désintérêt factuel pendant 1 an et transfère l'autorité parentale à ceux ayant la charge de l'enfant.",
+      "tags": ["assistance éducative", "délaissement parental"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "autoriteparentale-qcm-001",
+      "question": "Que prévoit la loi du 10 juillet 2019 sur les modalités d'exercice de l'autorité parentale (art. 371-1 C. civ.) ?",
+      "options": [
+        "L'autorité parentale s'exerce sans violences physiques ou psychologiques depuis 2019",
+        "L'autorité parentale autorise certaines violences physiques à visée éducative légère",
+        "L'autorité parentale n'appartient qu'au seul parent ayant la résidence de l'enfant",
+        "L'autorité parentale cesse automatiquement dès la séparation des parents concernés"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la loi du 10 juillet 2019, l'autorité parentale doit s'exercer sans violences physiques ou psychologiques, ce qui exclut toute justification éducative à de telles violences. Elle appartient en principe aux deux parents conjointement dès que la filiation est établie à leur égard, et la séparation des parents ne fait pas cesser l'autorité parentale conjointe.",
+      "tags": ["autorité parentale"]
+    },
+    {
+      "id": "autoriteparentale-qcm-002",
+      "question": "Quels sont les effets du retrait total de l'autorité parentale (arts. 378 s. C. civ.) ?",
+      "options": [
+        "Le retrait total supprime l'obligation alimentaire envers les parents et permet l'adoption",
+        "Le retrait total laisse subsister l'obligation alimentaire envers les parents",
+        "Le retrait partiel emporte systématiquement les mêmes effets que le retrait total",
+        "Le retrait de l'autorité parentale ne peut jamais résulter d'une peine accessoire pénale"
+      ],
+      "answer": 0,
+      "explanation": "Le retrait total de l'autorité parentale, prononcé comme peine accessoire pénale ou en raison de mauvais traitements, alcoolisme, incurie ou désintérêt de plus de 2 ans, supprime l'obligation alimentaire de l'enfant envers ses parents et rend ce dernier adoptable. Le retrait partiel, à la différence du retrait total, se limite à certains attributs de l'autorité parentale.",
+      "tags": ["retrait de l'autorité parentale"]
+    },
+    {
+      "id": "autoriteparentale-qcm-003",
+      "question": "Quel est le principe d'exercice de l'autorité parentale posé par l'art. 372 al. 1er du Code civil ?",
+      "options": [
+        "Les deux parents exercent conjointement l'autorité parentale, même après leur séparation",
+        "Seul le parent ayant la résidence habituelle de l'enfant exerce l'autorité parentale",
+        "L'exercice unilatéral de l'autorité parentale est toujours le principe, jamais l'exception",
+        "La délégation de l'autorité parentale au beau-parent est exclue par tout texte légal"
+      ],
+      "answer": 0,
+      "explanation": "Le principe posé par l'art. 372 al. 1er du Code civil est l'exercice conjoint de l'autorité parentale par les deux parents, même séparés : les décisions importantes doivent être prises d'un commun accord. L'exercice unilatéral reste l'exception (filiation tardive, désintérêt, décision du JAF), et un partage de l'autorité avec le beau-parent reste possible par délégation (art. 377-1 C. civ.).",
+      "tags": ["exercice de l'autorité parentale"]
+    },
+    {
+      "id": "autoriteparentale-qcm-004",
+      "question": "Quel est le régime du droit de visite et d'hébergement du parent sans résidence de l'enfant (art. 373-2-1 al. 2 C. civ.) ?",
+      "options": [
+        "Le parent sans résidence conserve le droit de visite et d'hébergement, sauf motifs graves",
+        "Le droit de visite et d'hébergement disparaît dès lors que les parents se séparent",
+        "La pension alimentaire dépend exclusivement de l'exercice effectif de l'autorité parentale",
+        "La résidence alternée est interdite par le droit français depuis la loi de 2002"
+      ],
+      "answer": 0,
+      "explanation": "Le parent qui n'a pas la résidence de l'enfant conserve le droit de visite et d'hébergement, sauf motifs graves justifiant son retrait. La pension alimentaire est fixée selon les ressources de chacun, indépendamment de l'exercice de l'autorité parentale (art. 371-2 C. civ.) ; la loi du 4 mars 2002 a au contraire introduit la possibilité de résidence alternée (art. 373-2-9 C. civ.).",
+      "tags": ["droit de visite et d'hébergement"]
+    },
+    {
+      "id": "autoriteparentale-qcm-005",
+      "question": "Quelle différence sépare l'assistance éducative (art. 375 C. civ.) du retrait total de l'autorité parentale ?",
+      "options": [
+        "L'assistance éducative protège l'enfant sans priver les parents de leur autorité parentale",
+        "L'assistance éducative transfère systématiquement l'autorité parentale à l'aide sociale",
+        "Le délaissement laisse subsister l'exercice de l'autorité par les parents d'origine",
+        "L'assistance éducative et le retrait total produisent les mêmes effets juridiques"
+      ],
+      "answer": 0,
+      "explanation": "L'assistance éducative est une mesure de protection ordonnée par le juge des enfants lorsque la santé, la sécurité, la moralité ou l'éducation du mineur est en danger, mais les parents en conservent néanmoins l'autorité parentale. Le délaissement parental, à l'inverse, transfère l'autorité parentale à ceux ayant la charge de l'enfant, à la différence du retrait total ou de l'assistance éducative.",
+      "tags": ["assistance éducative"]
+    }
+  ]
+}

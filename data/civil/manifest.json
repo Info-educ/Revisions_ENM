@@ -77,6 +77,36 @@
       "file": "statut-personnel.json",
       "title": "Les éléments du statut personnel",
       "category": "Droit civil — Les personnes"
+    },
+    {
+      "id": "filiation",
+      "file": "filiation.json",
+      "title": "Le lien juridique de filiation",
+      "category": "Droit civil — Famille"
+    },
+    {
+      "id": "actions-filiation",
+      "file": "actions-filiation.json",
+      "title": "Les actions relatives à la filiation",
+      "category": "Droit civil — Famille"
+    },
+    {
+      "id": "autorite-parentale",
+      "file": "autorite-parentale.json",
+      "title": "L'autorité parentale",
+      "category": "Droit civil — Famille"
+    },
+    {
+      "id": "lien-famille-enfant",
+      "file": "lien-famille-enfant.json",
+      "title": "Le lien de famille et l'enfant",
+      "category": "Droit civil — Famille"
+    },
+    {
+      "id": "famille-argent",
+      "file": "famille-argent.json",
+      "title": "Le lien de famille et l'argent",
+      "category": "Droit civil — Famille"
     }
   ]
 }

@@ -1,0 +1,92 @@
+{
+  "id": "famille-argent",
+  "title": "Le lien de famille et l'argent",
+  "category": "Droit civil — Famille",
+  "flashcards": [
+    {
+      "id": "famillargent-fc-001",
+      "front": "Quel est le régime de la contribution aux charges et de la solidarité des dettes selon le statut du couple ?",
+      "back": "Les époux contribuent proportionnellement à leurs facultés (art. 214 C. civ.), même en cas de séparation de fait, et sont solidaires des dettes du ménage (art. 220 C. civ.). Les pacsés sont soumis à un régime équivalent (art. 515-4 C. civ.). Les concubins n'ont en revanche aucune obligation légale, le silence du Code civil exigeant un contrat pour organiser l'entraide.",
+      "tags": ["contribution aux charges"]
+    },
+    {
+      "id": "famillargent-fc-002",
+      "front": "Quels sont les deux critères légaux de fixation de l'obligation alimentaire (art. 208 C. civ.) ?",
+      "back": "Le besoin du créancier et la fortune du débiteur. Il n'existe pas de hiérarchie légale stricte entre les débiteurs, même si une priorité pratique est donnée aux parents. Une dispense est possible en cas de manquement grave du créancier envers le débiteur (art. 207 al. 2 C. civ.).",
+      "tags": ["obligation alimentaire", "art. 208"]
+    },
+    {
+      "id": "famillargent-fc-003",
+      "front": "Qu'a posé l'arrêt Bertrand (Cass., ass. plén., 13 déc. 2002, confirmant Civ. 2e, 19 févr. 1997) sur la responsabilité civile des parents du fait de leurs enfants ?",
+      "back": "La responsabilité des parents (art. 1242 al. 4 C. civ.) devient une responsabilité de plein droit, et non plus fondée sur une faute présumée de surveillance ou d'éducation. Seules la force majeure ou la faute de la victime exonèrent les parents ; un simple fait dommageable de l'enfant suffit, sans exigence de faute de sa part.",
+      "tags": ["responsabilité des parents", "arrêt bertrand"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "famillargent-qcm-001",
+      "question": "Quel est le régime de l'obligation alimentaire et de la solidarité des dettes selon le statut du couple ?",
+      "options": [
+        "Les concubins n'ont aucune obligation alimentaire légale, contrairement aux époux",
+        "Les concubins sont soumis à la même solidarité légale des dettes ménagères que les époux",
+        "Les époux ne sont jamais solidaires des dettes liées à l'entretien du ménage commun",
+        "Les pacsés ne peuvent jamais fixer leur contribution aux charges par convention écrite"
+      ],
+      "answer": 0,
+      "explanation": "En l'absence de tout texte du Code civil, les concubins n'ont aucune obligation alimentaire légale ni solidarité de principe des dettes, un contrat étant nécessaire pour organiser l'entraide. Les époux sont au contraire solidaires des dettes ménagères (art. 220 C. civ.), et les pacsés peuvent librement fixer leur contribution par convention, à défaut de quoi elle est proportionnelle à leurs facultés respectives (art. 515-4 C. civ.).",
+      "tags": ["obligation alimentaire", "concubinage"]
+    },
+    {
+      "id": "famillargent-qcm-002",
+      "question": "Quel est le sort du devoir de secours entre époux (art. 212 C. civ.) en cas de séparation de fait ou de divorce ?",
+      "options": [
+        "Le devoir de secours subsiste en cas de séparation de fait ou de séparation de corps",
+        "Le devoir de secours disparaît systématiquement dès la séparation de fait des époux",
+        "Le devoir de secours est toujours remplacé par la prestation compensatoire sans exception",
+        "Le devoir de secours n'a jamais aucun lien avec le devoir de fidélité entre époux"
+      ],
+      "answer": 0,
+      "explanation": "Le devoir de secours est maintenu en cas de séparation de fait ou de séparation de corps. Il disparaît en revanche avec le divorce depuis la loi du 26 mai 2004 (remplacé par la prestation compensatoire), sauf maintien possible en cas de divorce pour altération définitive du lien conjugal.",
+      "tags": ["devoir de secours"]
+    },
+    {
+      "id": "famillargent-qcm-003",
+      "question": "Quels sont les critères de fixation de l'obligation alimentaire posés à l'art. 208 du Code civil ?",
+      "options": [
+        "L'obligation alimentaire s'apprécie selon le besoin du créancier et la fortune du débiteur",
+        "L'obligation alimentaire existe légalement entre frères et sœurs sans aucune exception",
+        "Il existe une hiérarchie légale stricte entre les débiteurs de l'obligation alimentaire",
+        "L'obligation alimentaire envers les beaux-parents subsiste après le décès de l'époux"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 208 du Code civil retient un double critère : le besoin du créancier et la fortune du débiteur. Il n'existe pas de hiérarchie légale stricte entre les débiteurs, même si une priorité pratique est donnée aux parents. L'obligation alimentaire entre frères et sœurs relève d'une simple obligation naturelle, non d'une obligation légale, et celle envers les beaux-parents cesse précisément au décès de l'époux ou des enfants issus de l'union.",
+      "tags": ["obligation alimentaire", "art. 208"]
+    },
+    {
+      "id": "famillargent-qcm-004",
+      "question": "Qu'a posé l'arrêt Bertrand (Cass., ass. plén., 13 déc. 2002) sur la responsabilité civile des parents du fait de leurs enfants mineurs (art. 1242 al. 4 C. civ.) ?",
+      "options": [
+        "La responsabilité des parents du fait de leur enfant mineur est désormais de plein droit",
+        "La responsabilité des parents reste fondée sur une présomption de faute de surveillance",
+        "Seule une faute prouvée de l'enfant peut engager la responsabilité civile de ses parents",
+        "Le droit de visite et d'hébergement fait toujours cesser la cohabitation du parent gardien"
+      ],
+      "answer": 0,
+      "explanation": "L'arrêt Bertrand a opéré un revirement majeur : la responsabilité des parents devient une responsabilité de plein droit, et non plus fondée sur une présomption de faute de surveillance ou d'éducation. Seul un simple fait dommageable de l'enfant suffit, sans exigence de faute de sa part ; le droit de visite et d'hébergement, à l'inverse, ne fait pas cesser la cohabitation du parent gardien (Civ. 2e, 19 févr. 1997).",
+      "tags": ["responsabilité des parents", "arrêt bertrand"]
+    },
+    {
+      "id": "famillargent-qcm-005",
+      "question": "Qu'a jugé le Conseil constitutionnel (décis. n° 2023-1045 QPC, 21 avril 2023) sur la responsabilité parentale en cas d'exercice conjoint de l'autorité parentale ?",
+      "options": [
+        "La responsabilité de plein droit pèse sur le parent ayant la résidence de l'enfant",
+        "Le parent n'ayant pas la résidence habituelle reste responsable au même titre que l'autre",
+        "Le Conseil constitutionnel a validé cette différence de traitement entre parents",
+        "La cohabitation n'est plus une condition de la responsabilité parentale de plein droit"
+      ],
+      "answer": 0,
+      "explanation": "Le Conseil constitutionnel a jugé conforme à la Constitution le fait que la responsabilité de plein droit pèse sur le seul parent chez qui la résidence habituelle de l'enfant est fixée, même en cas d'exercice conjoint de l'autorité parentale, cette différence de traitement étant justifiée par une différence de situation en rapport avec l'objet de la loi (garantir l'indemnisation des victimes). La cohabitation demeure donc une condition essentielle, et le Conseil a validé — non censuré — cette différence de traitement.",
+      "tags": ["responsabilité des parents", "qpc 2023"]
+    }
+  ]
+}
