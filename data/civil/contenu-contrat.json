@@ -1,0 +1,221 @@
+{
+  "id": "contenu-contrat",
+  "title": "Le contenu du contrat",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "contenu-contrat-fc-001",
+      "front": "Qu'a changé l'ordonnance de 2016 concernant les notions d'objet et de cause du contrat ?",
+      "back": "L'ordonnance a supprimé formellement la notion de cause et fusionné les fonctions de contrôle de l'objet et de la cause sous le terme unique de « contenu du contrat ». L'objet est maintenu sous le terme de « prestation » (art. 1163 C. civ.) ; la cause objective et subjective est reprise par les arts. 1128, 1162, 1169 et 1170 C. civ.",
+      "tags": [
+        "contenu du contrat",
+        "art. 1162"
+      ]
+    },
+    {
+      "id": "contenu-contrat-fc-002",
+      "front": "Que prévoit l'art. 1162 du Code civil sur la licéité du contenu du contrat, notamment sur le but illicite ?",
+      "back": "Le contrat ne peut déroger à l'ordre public ni par ses stipulations, ni par son but, « que ce dernier ait été connu ou non par toutes les parties ». Cette formulation codifie le revirement de Civ. 1re, 7 oct. 1998 : un but illicite est sanctionnable même si le cocontractant l'ignorait.",
+      "tags": [
+        "licéité",
+        "art. 1162"
+      ]
+    },
+    {
+      "id": "contenu-contrat-fc-003",
+      "front": "Quelle est la règle posée à l'art. 1168 du Code civil sur l'équilibre des prestations et quelles sont les exceptions ?",
+      "back": "Le défaut d'équivalence des prestations n'est pas une cause de nullité. Trois garde-fous ciblés : la lésion (cas légaux stricts — vente d'immeuble, partage, incapacités), les clauses abusives (C. consom. art. L. 212-1 et art. 1171 C. civ. résiduel pour les contrats d'adhésion), et le défaut de contrepartie (arts. 1169-1170 C. civ., héritiers de la cause objective).",
+      "tags": [
+        "équilibre contractuel",
+        "art. 1168"
+      ]
+    },
+    {
+      "id": "contenu-contrat-fc-004",
+      "front": "Qu'ont codifié les arts. 1169 et 1170 du Code civil en matière de contrepartie ?",
+      "back": "L'art. 1169 sanctionne la contrepartie illusoire ou dérisoire par la nullité ; une contrepartie très basse reste une contrepartie. L'art. 1170 répute non écrite toute clause qui prive de sa substance l'obligation essentielle du débiteur (codifie Chronopost 1996 et Faurécia 2010). Seule la clause excédant la portée raisonnable est visée, pas toute limitation.",
+      "tags": [
+        "art. 1169",
+        "art. 1170"
+      ]
+    },
+    {
+      "id": "contenu-contrat-fc-005",
+      "front": "Quelle est la différence entre l'art. L. 212-1 du Code de la consommation et l'art. 1171 du Code civil sur les clauses abusives ?",
+      "back": "L'art. L. 212-1 C. consom. protège le consommateur ou non-professionnel face à un professionnel. L'art. 1171 C. civ. étend la protection à tout contractant dans un contrat d'adhésion. L'art. 1171 a un champ résiduel (principe de non-option Com. 26 janv. 2022) : il ne s'applique que si ni le droit de la consommation ni le droit commercial ne sont applicables.",
+      "tags": [
+        "clauses abusives",
+        "art. 1171"
+      ]
+    },
+    {
+      "id": "contenu-contrat-fc-006",
+      "front": "Quelles sont les caractéristiques de la lésion en droit français et pourquoi son domaine est-il restreint ?",
+      "back": "La lésion sanctionne un déséquilibre des prestations à la formation, uniquement dans les cas légaux limitatifs (vente d'immeuble > 7/12e, partage > 1/4, incapacités). Son caractère est objectif (seul le résultat chiffré compte) et son appréciation restrictive découle directement de l'art. 1168 : un contrôle général du juste prix contredirait la liberté contractuelle. Sanction : rescision, évitable par versement du supplément.",
+      "tags": [
+        "lésion",
+        "art. 1674"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "contenu-contrat-qcm-001",
+      "question": "Quel sort l'ordonnance du 10 février 2016 a-t-elle réservé aux notions d'objet et de cause dans le contrat ?",
+      "options": [
+        "La notion de cause est supprimée et remplacée par celle de contenu du contrat",
+        "La notion de cause est maintenue formellement et les mêmes conditions lui sont imposées",
+        "L'objet est supprimé et la cause est maintenue sous le terme de contenu du contrat",
+        "Ni l'objet ni la cause ne sont maintenus : une liberté totale de contenu s'impose"
+      ],
+      "answer": 0,
+      "explanation": "L'ordonnance de 2016 a supprimé formellement la notion de cause — jugée trop floue et source de jurisprudence imprévisible — et a fusionné les fonctions de contrôle de l'objet et de la cause sous le terme de « contenu du contrat ». L'objet est maintenu sous le terme de prestation (art. 1163 C. civ.) et les fonctions de la cause objective et subjective sont reprises par les arts. 1128, 1162, 1169 et 1170 C. civ.",
+      "tags": [
+        "contenu du contrat"
+      ]
+    },
+    {
+      "id": "contenu-contrat-qcm-002",
+      "question": "Selon l'art. 1162 du Code civil, un contrat peut-il être sanctionné pour but illicite même si une partie l'ignorait ?",
+      "options": [
+        "Illicéité possible par les stipulations seules ou par le but même si non partagé",
+        "L'illicéité ne peut résulter que des stipulations : le but est indifférent au contrat",
+        "Le but illicite ne peut être sanctionné que s'il est connu de toutes les parties",
+        "Le but illicite ne peut être sanctionné que si le cocontractant le partageait en plus"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1162 du Code civil prévoit que le contrat ne peut déroger à l'ordre public ni par ses stipulations, ni par son but, « que ce dernier ait été connu ou non par toutes les parties ». Cette formulation codifie le revirement de Civ. 1re, 7 oct. 1998 qui avait jugé qu'un but illicite pouvait être sanctionné même si le cocontractant l'ignorait, renversant ainsi la jurisprudence antérieure qui exigeait la connaissance ou le partage du but.",
+      "tags": [
+        "licéité du but",
+        "art. 1162"
+      ]
+    },
+    {
+      "id": "contenu-contrat-qcm-003",
+      "question": "Quelle est la différence entre l'ordre public classique et l'ordre public économique de protection ?",
+      "options": [
+        "Ordre public classique : valeurs immuables ; économique : corrige les inégalités de force",
+        "Ordre public classique et économique poursuivent exactement le même objectif de protection",
+        "L'ordre public économique de protection protège exclusivement des intérêts collectifs",
+        "Les bonnes mœurs constituent la seule limite à la liberté contractuelle dans le Code civil"
+      ],
+      "answer": 0,
+      "explanation": "L'ordre public classique protège des valeurs immuables de la société (filiation, mariage, organisation de l'État) et est général. L'ordre public économique de protection corrige un rapport de force déséquilibré entre parties inégales (professionnel/consommateur, employeur/salarié) en imposant des garanties minimales. L'ordre public économique de direction poursuit un objectif d'intérêt collectif (régulation des prix, concurrence). Les bonnes mœurs (art. 6 C. civ.) subsistent mais ont une sphère résiduelle.",
+      "tags": [
+        "ordre public"
+      ]
+    },
+    {
+      "id": "contenu-contrat-qcm-004",
+      "question": "Quel revirement la jurisprudence a-t-elle opéré en 1998 sur la sanction du but illicite, codifié à l'art. 1162 C. civ. ?",
+      "options": [
+        "Avant 1998 : connaissance exigée ; depuis : annulation même si but ignoré du cocontractant",
+        "Avant 1998 : connaissance non exigée ; depuis 1998 : connaissance toujours nécessaire",
+        "La jurisprudence de 1998 n'a pas modifié la condition de connaissance par le cocontractant",
+        "L'arrêt de 1998 n'a eu aucune portée et a été codifié différemment par la réforme de 2016"
+      ],
+      "answer": 0,
+      "explanation": "Avant Civ. 1re, 7 oct. 1998, la cause illicite n'était sanctionnée qu'à la condition que le but immoral soit connu ou partagé par le cocontractant. L'arrêt de 1998 a opéré un revirement en admettant l'annulation même si l'autre partie ignorait le motif illicite — solution jugée meilleure pour lutter contre l'illicéité objective. Cette solution a été codifiée telle quelle à l'art. 1162 C. civ.",
+      "tags": [
+        "but illicite",
+        "civ. 1re 1998"
+      ]
+    },
+    {
+      "id": "contenu-contrat-qcm-005",
+      "question": "Quelles sont les exigences relatives à la prestation au titre de la détermination du contenu (art. 1163 C. civ.) ?",
+      "options": [
+        "La prestation doit être existante, possible et déterminée ou au moins déterminable",
+        "La prestation peut être déterminée seulement à l'exécution sans aucune contrainte initiale",
+        "La prestation doit être entièrement déterminée à la conclusion, jamais déterminable",
+        "L'inexistence de la prestation n'entraîne aucune sanction, sauf clause expresse contraire"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1163 du Code civil exige que la prestation soit existante, possible et déterminée ou déterminable. Une prestation déterminable — dont les modalités permettront de la chiffrer à l'exécution, selon des critères ne dépendant pas de la volonté unilatérale d'une partie — est admise. L'inexistence ou l'impossibilité de la prestation entraîne la nullité du contrat.",
+      "tags": [
+        "détermination de la prestation",
+        "art. 1163"
+      ]
+    },
+    {
+      "id": "contenu-contrat-qcm-006",
+      "question": "Quel est le régime de la contrepartie illusoire ou dérisoire prévu à l'art. 1169 du Code civil ?",
+      "options": [
+        "Contrepartie illusoire → nullité ; contrepartie très basse reste une contrepartie valable",
+        "Toute contrepartie faible ou disproportionnée peut entraîner la nullité du contrat",
+        "La contrepartie symbolique d'un euro est toujours considérée comme sérieuse et suffisante",
+        "Cette disposition codifie le contrôle de la cause objective, il ne la supprime pas"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1169 du Code civil sanctionne par la nullité la contrepartie qui est illusoire (inexistante en fait) ou dérisoire (symbolique, sans rapport avec la valeur de la prestation). En revanche, une contrepartie simplement basse ou inégale reste une contrepartie valable : l'art. 1169 ne constitue pas un contrôle général du juste prix, mais codifie la fonction de la cause objective héritée de la jurisprudence antérieure à 2016.",
+      "tags": [
+        "art. 1169"
+      ]
+    },
+    {
+      "id": "contenu-contrat-qcm-007",
+      "question": "Que prévoit l'art. 1170 du Code civil sur les clauses qui vident l'obligation essentielle, tel que précisé par l'arrêt Faurécia (Com. 29 juin 2010) ?",
+      "options": [
+        "La clause qui vide l'obligation essentielle de sa substance est réputée non écrite",
+        "La clause qui vide l'obligation essentielle de sa substance rend le contrat nul",
+        "Toute clause limitative de responsabilité est réputée non écrite quel que soit son montant",
+        "La clause limitative de responsabilité est toujours valable dès lors qu'elle est signée"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1170 du Code civil répute non écrite la clause qui prive de sa substance l'obligation essentielle du débiteur — « frappe chirurgicale » (Com. 26 janv. 2022) sur la seule clause, sans toucher au contrat. L'arrêt Faurécia (Com. 29 juin 2010) a précisé que seule la clause qui contredit la portée de l'obligation essentielle est visée : une clause qui plafonne raisonnablement la réparation sans la rendre symbolique reste valable.",
+      "tags": [
+        "art. 1170",
+        "chronopost",
+        "faurécia"
+      ]
+    },
+    {
+      "id": "contenu-contrat-qcm-008",
+      "question": "Pourquoi l'aléa exclut-il la lésion dans les contrats aléatoires (art. 1108 renvoyant à l'art. 1168 C. civ.) ?",
+      "options": [
+        "L'aléa exclut la lésion : les parties ont accepté l'incertitude sur les prestations",
+        "L'aléa est sans incidence : la lésion reste invocable dans les contrats aléatoires",
+        "La lésion s'apprécie de façon identique pour les contrats commutatifs et aléatoires",
+        "L'aléa exclut la lésion uniquement dans les contrats d'assurance, non dans les autres"
+      ],
+      "answer": 0,
+      "explanation": "La règle « l'aléa chasse la lésion » s'explique par l'essence même du contrat aléatoire : les parties ont accepté ab initio une incertitude sur la valeur des prestations — c'est l'objet même de leur accord. Se plaindre ensuite d'un déséquilibre des prestations contredirait l'accord initial. La lésion ne s'applique donc qu'aux contrats commutatifs où les prestations devaient être équilibrées dès la formation.",
+      "tags": [
+        "lésion",
+        "contrat aléatoire"
+      ]
+    },
+    {
+      "id": "contenu-contrat-qcm-009",
+      "question": "Quelle différence sépare la lésion des clauses abusives dans les contrats ?",
+      "options": [
+        "Lésion : déséquilibre entre prestations ; clauses abusives : déséquilibre entre droits",
+        "Clauses abusives et lésion sanctionnent le même type de déséquilibre au même périmètre",
+        "La lésion vise une clause particulière et la clause abusive l'équilibre global du contrat",
+        "La lésion est une notion plus récente que les clauses abusives dans le droit des contrats"
+      ],
+      "answer": 0,
+      "explanation": "La lésion sanctionne un déséquilibre entre les prestations économiques elles-mêmes à la formation (ex. prix de vente trop bas d'un immeuble). Les clauses abusives sanctionnent un déséquilibre entre les droits et obligations résultant d'une clause particulière, indépendamment de l'équilibre économique global du contrat (ex. clause d'exonération de responsabilité unilatérale). Un contrat peut être économiquement équilibré tout en comportant une clause abusive.",
+      "tags": [
+        "lésion",
+        "clauses abusives"
+      ]
+    },
+    {
+      "id": "contenu-contrat-qcm-010",
+      "question": "Comment s'articulent l'art. 1171 du Code civil et le droit de la consommation (Com. 26 janv. 2022) ?",
+      "options": [
+        "Ce texte a un champ résiduel face au code de la consommation et au code de commerce",
+        "Ce texte prime toujours sur le droit de la consommation et sur le droit commercial",
+        "Ce texte et le code de la consommation sont librement cumulables dans un même contrat",
+        "Le juge choisit librement entre ce texte et les dispositions consuméristes applicables"
+      ],
+      "answer": 0,
+      "explanation": "L'arrêt de la Chambre commerciale du 26 janv. 2022 a posé le principe de non-option : l'art. 1171 C. civ. a un champ résiduel. Il ne s'applique que lorsque ni l'art. L. 212-1 du Code de la consommation ni l'art. L. 442-1 du Code de commerce ne régissent la situation. On ne choisit pas son texte : on applique celui qui correspond à la situation concrète des parties, sans possibilité de cumul.",
+      "tags": [
+        "art. 1171",
+        "clauses abusives"
+      ]
+    }
+  ]
+}

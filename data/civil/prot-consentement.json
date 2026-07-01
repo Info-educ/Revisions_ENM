@@ -1,0 +1,220 @@
+{
+  "id": "prot-consentement",
+  "title": "La protection du consentement contractuel",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "prot-consentement-fc-001",
+      "front": "Quels sont les trois vices du consentement et quelle est leur sanction (art. 1130 C. civ.) ?",
+      "back": "Erreur, dol et violence — tous sanctionnés par la nullité relative du contrat (art. 1131 C. civ.). Ils partagent deux caractères communs : être déterminants (sans eux le contractant n'aurait pas contracté ou aurait contracté à des conditions différentes) et susceptibles d'être appréciés in concreto.",
+      "tags": [
+        "vices du consentement",
+        "art. 1130"
+      ]
+    },
+    {
+      "id": "prot-consentement-fc-002",
+      "front": "Quels sont les deux caractères de l'erreur exigés par l'art. 1132 du Code civil pour qu'elle entraîne la nullité ?",
+      "back": "L'erreur doit porter sur les qualités essentielles de la prestation (appréciées in concreto — affaire du Poussin, Civ. 1re, 22 févr. 1978) et être excusable (une erreur grossière ou professionnelle dans son domaine ne l'est pas). L'aléa chasse l'erreur : pas de nullité si les parties avaient accepté une incertitude (Civ. 1re, 24 mars 1987 — Fragonard).",
+      "tags": [
+        "erreur",
+        "art. 1132"
+      ]
+    },
+    {
+      "id": "prot-consentement-fc-003",
+      "front": "Qu'est-ce que la réticence dolosive et quelles sont ses conditions selon l'art. 1137 du Code civil ?",
+      "back": "La dissimulation intentionnelle d'une information dont le cocontractant sait le caractère déterminant pour l'autre partie. Elle exige un élément matériel (silence sur une information) et un élément intentionnel (volonté de tromper — art. 1137 al. 2 C. civ.) dont la preuve est plus exigeante que pour les manœuvres ou mensonges. Elle ne peut jamais porter sur la valeur de la prestation (art. 1112-1 al. 2 C. civ. — jurisprudence Baldus maintenue).",
+      "tags": [
+        "réticence dolosive",
+        "art. 1137"
+      ]
+    },
+    {
+      "id": "prot-consentement-fc-004",
+      "front": "Qu'est-ce que l'abus de dépendance comme forme de violence (art. 1143 C. civ.) et quelles en sont les trois conditions cumulatives ?",
+      "back": "L'exploitation abusive d'un état de dépendance procurant un avantage manifestement excessif. Les trois conditions sont : un état de dépendance (découlant de la relation avec le cocontractant, non de la seule situation personnelle — précision L. ratif. 2018), un abus (condition autonome — Com. 10 juill. 2024) et un avantage manifestement excessif.",
+      "tags": [
+        "abus de dépendance",
+        "art. 1143"
+      ]
+    },
+    {
+      "id": "prot-consentement-fc-005",
+      "front": "Que prévoit l'art. 1112-1 du Code civil sur l'obligation précontractuelle d'information ?",
+      "back": "La partie qui connaît une information dont l'importance est déterminante pour le consentement de l'autre doit l'en informer, dès lors que cette dernière ignore légitimement cette information ou fait confiance au cocontractant. La charge de la preuve pèse sur le débiteur de l'obligation (Civ. 1re, 25 févr. 1997). L'obligation est d'ordre public et ne porte pas sur l'estimation de la valeur de la prestation.",
+      "tags": [
+        "obligation d'information",
+        "art. 1112-1"
+      ]
+    },
+    {
+      "id": "prot-consentement-fc-006",
+      "front": "Quelles sont les différences entre le dol émanant du cocontractant et le dol émanant d'un tiers (arts. 1138 et 1142 C. civ.) ?",
+      "back": "Le dol doit en principe émaner du cocontractant. Le dol d'un tiers n'entraîne pas la nullité mais ouvre seulement une action en responsabilité délictuelle — sauf exceptions (art. 1138 C. civ.) : représentant, gérant d'affaires, préposé ou porte-fort ; tiers de connivence avec le cocontractant ; actes unilatéraux et donations. La violence du tiers, en revanche, est toujours une cause de nullité (art. 1142 C. civ.).",
+      "tags": [
+        "dol",
+        "art. 1138"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "prot-consentement-qcm-001",
+      "question": "Quels sont les trois vices du consentement et quelle est leur sanction commune selon l'art. 1130 du Code civil ?",
+      "options": [
+        "Erreur, dol et violence, tous sanctionnés par la nullité relative du contrat",
+        "Erreur, dol et violence, tous sanctionnés par la nullité absolue du contrat",
+        "Seuls le dol et la violence sont des vices ; l'erreur produit une nullité différente",
+        "Les vices du consentement ont été supprimés par l'ordonnance de 2016 du Code civil"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1130 du Code civil énumère les trois vices du consentement : erreur, dol et violence. L'art. 1131 prévoit que ces vices entraînent la nullité relative du contrat (et non absolue), invocable seulement par la partie dont le consentement a été vicié. Les vices du consentement ont été maintenus et précisés par l'ordonnance de 2016, non supprimés.",
+      "tags": [
+        "vices du consentement"
+      ]
+    },
+    {
+      "id": "prot-consentement-qcm-002",
+      "question": "Pourquoi l'appréciation in concreto de l'erreur sur les qualités essentielles est-elle préférable à l'appréciation in abstracto ?",
+      "options": [
+        "L'erreur in concreto protège mieux : qualité réellement voulue, même atypique pour autrui",
+        "L'erreur in abstracto offre une protection optimale selon la jurisprudence majoritaire",
+        "In concreto et in abstracto aboutissent toujours au même résultat en pratique judiciaire",
+        "Seule l'appréciation in abstracto est admise par la jurisprudence et le Code de 2016"
+      ],
+      "answer": 0,
+      "explanation": "L'appréciation in concreto retient la qualité réellement recherchée par la victime de l'erreur, même si cette qualité serait indifférente pour un contractant moyen. Elle offre ainsi une meilleure protection. La jurisprudence est majoritairement favorable à cette approche (affaire du Poussin, Civ. 1re, 22 févr. 1978). L'art. 1133 C. civ. consacre cette orientation en visant les qualités « expressément ou tacitement convenues » par les parties.",
+      "tags": [
+        "erreur sur les qualités essentielles"
+      ]
+    },
+    {
+      "id": "prot-consentement-qcm-003",
+      "question": "Quel est le sort de l'erreur inexcusable selon l'art. 1132 du Code civil ?",
+      "options": [
+        "L'erreur inexcusable n'est pas une cause de nullité même si elle porte sur une qualité",
+        "L'erreur inexcusable entraîne la nullité si elle porte sur une qualité essentielle",
+        "L'erreur doit être excusable ; l'erreur grossière d'un professionnel est toujours admise",
+        "L'excusabilité de l'erreur est indifférente : seul le caractère déterminant est exigé"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1132 du Code civil conditionne expressément la nullité pour erreur au fait que celle-ci ne soit pas inexcusable. La faute caractérisée de l'errans — appréciée in concreto, avec une sévérité accrue si la personne est un professionnel dans son domaine — lui retire le bénéfice de la nullité. L'adage de non vigilantibus non curat praetor : le droit ne protège pas celui qui aurait pu facilement éviter son erreur.",
+      "tags": [
+        "erreur excusable",
+        "art. 1132"
+      ]
+    },
+    {
+      "id": "prot-consentement-qcm-004",
+      "question": "Qu'est-ce que la réticence dolosive et quelle est sa particularité probatoire (art. 1137 al. 2 C. civ.) ?",
+      "options": [
+        "La réticence dolosive est un silence intentionnel sur une information déterminante",
+        "La réticence dolosive dispense toujours d'une intention de tromper dans la jurisprudence",
+        "La réticence dolosive et le mensonge ont exactement la même exigence intentionnelle",
+        "La réticence dolosive peut porter sur la valeur de la prestation principale"
+      ],
+      "answer": 0,
+      "explanation": "La réticence dolosive est le silence intentionnel gardé sur une information dont le cocontractant sait le caractère déterminant pour l'autre. L'art. 1137 al. 2 du Code civil exige expressément le caractère intentionnel pour la réticence, ce qui la distingue du mensonge et des manœuvres (dont l'intention se déduit facilement). Elle ne peut porter sur la valeur de la prestation (art. 1112-1 al. 2 — jurisprudence Baldus maintenue).",
+      "tags": [
+        "réticence dolosive",
+        "art. 1137"
+      ]
+    },
+    {
+      "id": "prot-consentement-qcm-005",
+      "question": "Quelle est la différence entre dol principal et dol incident (art. 1130 C. civ.) et quelles sont leurs sanctions respectives ?",
+      "options": [
+        "Dol principal : nullité ; dol incident : responsabilité civile sans nullité du contrat",
+        "Dol principal et dol incident emportent tous deux la nullité relative du contrat conclu",
+        "Le dol du tiers entraîne de droit la nullité, au même titre que le dol du cocontractant",
+        "Le dol est un vice du consentement qui ne peut jamais être cumule avec la responsabilité"
+      ],
+      "answer": 0,
+      "explanation": "Le dol principal est celui sans lequel la victime n'aurait pas contracté du tout : il entraîne la nullité relative. Le dol incident est celui sans lequel la victime aurait contracté, mais à des conditions différentes : il ouvre seulement une action en responsabilité civile, sans nullité. Le dol du tiers n'entraîne pas la nullité (seulement la responsabilité délictuelle), sauf les exceptions de l'art. 1138 C. civ. Le cumul nullité/responsabilité est possible.",
+      "tags": [
+        "dol"
+      ]
+    },
+    {
+      "id": "prot-consentement-qcm-006",
+      "question": "Quelles sont les trois conditions cumulatives de l'abus de dépendance prévu à l'art. 1143 du Code civil ?",
+      "options": [
+        "L'abus de dépendance suppose un état de dépendance, un abus et un avantage excessif",
+        "L'abus de dépendance suppose uniquement un état de dépendance sans autre condition requise",
+        "L'abus de dépendance ne vise que la dépendance économique au sens de la réforme 2016",
+        "L'abus de dépendance a été supprimé de la violence en 2018 par la loi de ratification"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1143 du Code civil exige trois conditions cumulatives : un état de dépendance (découlant de la relation avec le cocontractant, non de la seule situation personnelle — précision L. ratif. 2018), un abus de cet état (Com. 10 juill. 2024 : la faculté de ne pas déférer aux exigences suffit à l'exclure) et un avantage manifestement excessif obtenu. L'abus de dépendance n'est pas limité à la seule dépendance économique.",
+      "tags": [
+        "abus de dépendance",
+        "art. 1143"
+      ]
+    },
+    {
+      "id": "prot-consentement-qcm-007",
+      "question": "Quel est le régime de la menace d'exercer une voie de droit selon l'art. 1141 du Code civil ?",
+      "options": [
+        "La menace d'exercer une voie de droit est illégitime si elle procure un avantage excessif",
+        "La menace d'exercer une voie de droit est toujours illégitime et constitue une violence",
+        "L'illégitimité de la violence ne s'applique qu'aux voies de fait physiques, jamais morales",
+        "Toute menace judiciaire, même pour un avantage excessif, reste une voie de droit légitime"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1141 du Code civil pose que la menace d'exercer une voie de droit ne constitue une violence que si elle est détournée de son but ou si un avantage manifestement excessif est exigé. L'exercice normal d'un droit (menace d'action en justice légitime, grève licite) ne constitue donc pas une violence. La violence morale (pressions psychologiques, chantage) est également visée et peut entraîner la nullité.",
+      "tags": [
+        "violence",
+        "art. 1141"
+      ]
+    },
+    {
+      "id": "prot-consentement-qcm-008",
+      "question": "Sur qui pèse la charge de la preuve de l'obligation précontractuelle d'information posée à l'art. 1112-1 du Code civil ?",
+      "options": [
+        "Le débiteur de l'information doit prouver qu'il a bien informé l'autre partie contractante",
+        "Le créancier de l'information doit toujours prouver que l'autre partie l'a informé",
+        "La charge de la preuve de l'information précontractuelle repose sur le créancier trompé",
+        "Aucune partie ne supporte la charge de la preuve de l'obligation d'information légale"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1112-1 al. 4 du Code civil fait peser la charge de la preuve de l'exécution de l'obligation d'information sur le débiteur de cette obligation, c'est-à-dire sur la partie qui devait informer. Cette solution, dégagée par Civ. 1re, 25 févr. 1997 pour l'obligation médicale, a été généralisée à toutes les obligations d'information par la réforme de 2016.",
+      "tags": [
+        "obligation d'information",
+        "art. 1112-1"
+      ]
+    },
+    {
+      "id": "prot-consentement-qcm-009",
+      "question": "L'obligation précontractuelle d'information de l'art. 1112-1 du Code civil s'étend-elle à la valeur de la prestation ?",
+      "options": [
+        "L'obligation précontractuelle d'information ne porte jamais sur la valeur de la prestation",
+        "L'obligation d'information précontractuelle impose de révéler l'estimation de la valeur",
+        "La jurisprudence Baldus a été renversée par l'ordonnance de 2016 sur l'obligation d'info",
+        "L'obligation d'information précontractuelle peut être exclue par accord entre les parties"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1112-1 al. 2 du Code civil exclut expressément l'estimation de la valeur de la prestation du champ de l'obligation d'information. Cette exclusion confirme et maintient la jurisprudence Baldus (Civ. 1re, 3 mai 2000) selon laquelle un vendeur n'est pas tenu de révéler à l'acheteur la valeur réelle du bien vendu. L'obligation est par ailleurs d'ordre public (art. 1112-1 al. 5) : les parties ne peuvent pas l'exclure.",
+      "tags": [
+        "obligation d'information",
+        "baldus"
+      ]
+    },
+    {
+      "id": "prot-consentement-qcm-010",
+      "question": "Quel est le délai de rétractation de droit commun prévu pour le droit de repentir dans les contrats à distance (art. 1122 C. civ. renvoyant au Code de la consommation) ?",
+      "options": [
+        "Droit de repentir : rétractation dans un délai légal, principe 14 jours, sans frais",
+        "Droit de repentir : rétractation impossible au-delà de 7 jours, avec indemnité prévue",
+        "Le droit de repentir s'applique à tous les contrats en droit civil, sans aucune exception",
+        "Le droit de repentir constitue une dérogation à la force obligatoire sans aucun fondement"
+      ],
+      "answer": 0,
+      "explanation": "Le droit de repentir (ou de rétractation) permet à l'acheteur de revenir sur son consentement dans un délai légal. Le délai de principe est de 14 jours (C. consom., art. L. 221-18) pour les contrats à distance ou hors établissement, sans avoir à justifier de motif et sans frais (sauf coûts de retour directs). L'art. 1122 C. civ. prend acte de ce mécanisme. Ce droit est limité à des catégories de contrats définies par la loi — il ne s'applique pas à tous les contrats.",
+      "tags": [
+        "droit de repentir",
+        "art. 1122"
+      ]
+    }
+  ]
+}

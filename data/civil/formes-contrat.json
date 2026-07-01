@@ -1,0 +1,86 @@
+{
+  "id": "formes-contrat",
+  "title": "Les formes contractuelles",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "formes-contrat-fc-001",
+      "front": "Quels sont les trois types de formalisme et leurs sanctions respectives selon l'art. 1173 du Code civil ?",
+      "back": "Le formalisme ad solemnitatem conditionne la validité du contrat à une forme imposée : son absence entraîne la nullité. Le formalisme ad probationem n'exige une forme qu'à titre de preuve : le contrat reste valable mais la preuve est entravée. Le formalisme de publicité ou habilitant vise à informer les tiers : son défaut entraîne l'inopposabilité du contrat, non sa nullité.",
+      "tags": ["formalisme", "art. 1173"]
+    },
+    {
+      "id": "formes-contrat-fc-002",
+      "front": "Quelles ont été les évolutions du contrat de gage et du prêt professionnel quant à leur nature formelle ?",
+      "back": "Le gage était un contrat réel (remise condition de validité). L'ordonnance du 23 mars 2006 l'a transformé en contrat solennel : la remise n'est plus condition de validité, mais un écrit est désormais exigé (art. 2336 C. civ.). Le prêt professionnel était également réel ; depuis Civ. 1re, 28 mars 2000, le prêt consenti par un professionnel du crédit est consensuel et synallagmatique. Le prêt entre particuliers reste réel (Civ. 1re, 7 mars 2006).",
+      "tags": ["contrat réel", "gage", "prêt"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "formes-contrat-qcm-001",
+      "question": "Quels sont les trois types de formalisme et leurs effets respectifs selon l'art. 1173 du Code civil ?",
+      "options": [
+        "Solemnitatem : nullité ; ad probationem : preuve seulement ; publicité : inopposabilité",
+        "Les trois formalismes entraînent tous la même sanction : la nullité absolue du contrat",
+        "Formalisme ad probationem : nullité du contrat ; ad solemnitatem : difficulté de preuve",
+        "Les formalismes ad solemnitatem et de publicité ont les mêmes effets sur les tiers"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1173 du Code civil distingue trois formalismes aux effets radicalement différents. Le formalisme ad solemnitatem conditionne la validité du contrat à une forme imposée : son absence entraîne la nullité. Le formalisme ad probationem ne conditionne que la preuve du contrat, qui reste valable malgré l'absence d'écrit. Le formalisme de publicité vise à informer les tiers : son défaut entraîne l'inopposabilité du contrat aux tiers, mais non sa nullité entre les parties.",
+      "tags": ["formalisme"]
+    },
+    {
+      "id": "formes-contrat-qcm-002",
+      "question": "Quelle est la position de la jurisprudence sur la validité de la donation déguisée et du don manuel ?",
+      "options": [
+        "La donation déguisée est valable malgré l'absence d'acte notarié exigé par la loi",
+        "La donation déguisée est nulle car elle contourne l'exigence de forme notariée légale",
+        "Le don manuel exige toujours un acte authentique pour être valablement formé entre parties",
+        "La jurisprudence n'admet aucune exception au formalisme notarié pour les donations"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 931 du Code civil impose l'acte notarié pour toute donation. Cependant, la jurisprudence admet par souplesse prétorienne la validité des donations déguisées (ex. vente fictive dissimulant une donation) et des dons manuels (remise directe de la chose), malgré l'absence d'acte authentique. Ces deux exceptions reposent sur l'idée que les parties contournent volontairement la règle formelle, sans que la protection visée par le formalisme n'ait à jouer.",
+      "tags": ["contrat solennel", "donation"]
+    },
+    {
+      "id": "formes-contrat-qcm-003",
+      "question": "Quelle distinction la jurisprudence opère-t-elle entre le prêt professionnel et le prêt entre particuliers quant à leur nature ?",
+      "options": [
+        "Le prêt professionnel est consensuel ; le prêt entre particuliers reste un contrat réel",
+        "Tout prêt, professionnel ou non, est consensuel depuis la réforme de l'ordonnance 2016",
+        "Le prêt entre particuliers est consensuel ; le prêt professionnel reste un contrat réel",
+        "Le contrat de prêt est toujours un contrat réel, indépendamment de la qualité du prêteur"
+      ],
+      "answer": 0,
+      "explanation": "Depuis Civ. 1re, 28 mars 2000, le prêt consenti par un professionnel du crédit est un contrat consensuel et synallagmatique : il est formé dès l'accord des parties, sans remise préalable des fonds. En revanche, le prêt entre particuliers conserve sa nature réelle : il n'est formé qu'à la remise des fonds (Civ. 1re, 7 mars 2006). L'ordonnance de 2016 n'a pas modifié cette distinction.",
+      "tags": ["contrat réel", "prêt"]
+    },
+    {
+      "id": "formes-contrat-qcm-004",
+      "question": "Quel est le régime du gage depuis l'ordonnance du 23 mars 2006 (art. 2336 C. civ.) ?",
+      "options": [
+        "Le gage est devenu solennel depuis 2006 : la remise n'est plus une condition de validité",
+        "Le gage reste un contrat réel : la remise de la chose demeure une condition de validité",
+        "Le gage est solennel depuis 2006 : ni remise ni écrit ne sont exigés pour sa validité",
+        "Le gage sans dépossession est nul : la remise est la seule condition admise de validité"
+      ],
+      "answer": 0,
+      "explanation": "L'ordonnance du 23 mars 2006 a abandonné le caractère réel du gage : la remise de la chose n'est plus une condition de validité, ce qui rend valable le gage sans dépossession. En contrepartie, le gage est devenu solennel : un écrit est désormais exigé à peine de nullité (art. 2336 C. civ.). Une forme a ainsi remplacé une autre. Avant 2006, le gage sans remise était nul ; depuis, l'écrit est le critère de validité.",
+      "tags": ["gage", "contrat réel", "contrat solennel"]
+    },
+    {
+      "id": "formes-contrat-qcm-005",
+      "question": "Quel est le sort de la promesse de contrat solennel ou de contrat réel selon la jurisprudence ?",
+      "options": [
+        "La promesse est admise mais se résout en dommages-intérêts, sans exécution forcée possible",
+        "La promesse de contrat solennel vaut contrat définitif si elle respecte la même forme",
+        "La promesse de contrat réel se résout en dommages-intérêts si le promettant refuse",
+        "La promesse de contrat solennel ou réel est nulle en l'absence de forme définitive"
+      ],
+      "answer": 0,
+      "explanation": "Les tribunaux admettent la validité de la promesse de contrat solennel ou réel, mais celle-ci ne vaut pas contrat définitif et ne peut pas donner lieu à exécution forcée. En cas d'inexécution, seuls des dommages-intérêts peuvent être obtenus. Exception notable pour l'hypothèque : la promesse sous seing privé est admise par la jurisprudence (Civ. 1re, 21 mars 2006), mais ses effets se limitent à une obligation de faire, résoluble en dommages-intérêts, sans inscription forcée possible.",
+      "tags": ["promesse de contrat", "parallélisme des formes"]
+    }
+  ]
+}

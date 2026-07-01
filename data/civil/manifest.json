@@ -125,6 +125,24 @@
       "file": "formation-contrat.json",
       "title": "La formation du contrat",
       "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "contenu-contrat",
+      "file": "contenu-contrat.json",
+      "title": "Le contenu du contrat",
+      "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "prot-consentement",
+      "file": "prot-consentement.json",
+      "title": "La protection du consentement contractuel",
+      "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "formes-contrat",
+      "file": "formes-contrat.json",
+      "title": "Les formes contractuelles",
+      "category": "Droit civil — Obligations"
     }
   ]
 }
