@@ -1,0 +1,195 @@
+{
+  "id": "intro-contrats",
+  "title": "Introduction au droit des contrats",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "intro-contrats-fc-001",
+      "front": "Quelle est la définition du contrat posée à l'art. 1101 du Code civil depuis la réforme de 2016 ?",
+      "back": "Le contrat est l'accord de volontés entre deux ou plusieurs personnes destiné à créer, modifier, transmettre ou éteindre des obligations. La définition est plus large que l'ancienne (limitée à donner/faire/ne pas faire) : le contrat peut désormais aussi éteindre ou transmettre une obligation.",
+      "tags": ["notion de contrat", "art. 1101"]
+    },
+    {
+      "id": "intro-contrats-fc-002",
+      "front": "Quelles sont les trois classifications de contrats entérinées par l'ordonnance du 10 février 2016 (arts. 1109-1111-1 C. civ.) ?",
+      "back": "Consensuel / solennel / réel (art. 1109) : formation par consentement seul, par écrit ou par remise d'une chose. Adhésion / gré à gré (art. 1110) : conditions librement négociées ou déterminées à l'avance par une partie. Exécution instantanée / successive (art. 1111-1) : prestation unique ou échelonnée dans le temps.",
+      "tags": ["classifications du contrat", "arts. 1109-1111-1"]
+    },
+    {
+      "id": "intro-contrats-fc-003",
+      "front": "Quels sont les trois principes directeurs inscrits en tête du droit des contrats par l'ordonnance de 2016 (arts. 1102-1104 C. civ.) ?",
+      "back": "Liberté contractuelle (art. 1102) : non inscrite au Code de 1804. Force obligatoire (art. 1103) : reprend l'ancien art. 1134 al. 1er. Bonne foi (art. 1104) : étend le domaine de la bonne foi à la négociation et à la formation, alors que l'ancien art. 1134 al. 3 ne la prévoyait qu'en phase d'exécution.",
+      "tags": ["principes directeurs", "arts. 1102-1104"]
+    },
+    {
+      "id": "intro-contrats-fc-004",
+      "front": "Qu'est-ce que l'autonomie de la volonté et quels sont les facteurs de son déclin au XXe siècle ?",
+      "back": "Principe selon lequel la volonté libre des parties est à la fois la cause et la mesure de leurs obligations (Kant). Trois facteurs de déclin : critique liée à l'inégalité (travail, consommation), développement du droit de la consommation et influence de l'harmonisation européenne des contrats (commission Lando, directive 2011).",
+      "tags": ["autonomie de la volonté"]
+    },
+    {
+      "id": "intro-contrats-fc-005",
+      "front": "Quelle est la distinction entre contrat synallagmatique et contrat unilatéral (art. 1106 C. civ.) et quels en sont les principaux intérêts ?",
+      "back": "Synallagmatique : chaque partie est à la fois créancière et débitrice (ex. vente). Unilatéral : obligations à la charge d'une seule partie (ex. dépôt, donation). Intérêts : preuve (autant d'originaux que de parties — art. 1375), fond (exception d'inexécution, résolution, théorie des risques).",
+      "tags": ["synallagmatique", "art. 1106"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "intro-contrats-qcm-001",
+      "question": "Selon l'art. 1101 du Code civil, quelle est la définition du contrat depuis la réforme de 2016 ?",
+      "options": [
+        "Un accord de volontés destiné à créer, modifier, transmettre ou éteindre des obligations",
+        "Un acte unilatéral par lequel une personne crée seule des obligations envers une autre",
+        "Un lien juridique reposant exclusivement sur la loi, sans volonté des parties concernées",
+        "Un simple accord moral sans sanction juridique, relevant du seul droit de la courtoisie"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1101 du Code civil définit le contrat comme l'accord de volontés entre deux ou plusieurs personnes destiné à créer, modifier, transmettre ou éteindre des obligations. La définition est plus large qu'en 1804 : le contrat peut désormais éteindre ou transmettre une obligation, et non plus seulement créer des obligations de donner, faire ou ne pas faire.",
+      "tags": ["notion de contrat"]
+    },
+    {
+      "id": "intro-contrats-qcm-002",
+      "question": "Quelle position l'art. 1100-1 du Code civil adopte-t-il sur la valeur créatrice de l'acte unilatéral ?",
+      "options": [
+        "La réforme de 2016 reconnaît pour la première fois l'effet créateur de l'acte unilatéral",
+        "Le droit positif refuse toute valeur créatrice à l'acte unilatéral de façon absolue",
+        "La doctrine classique est favorable à l'engagement unilatéral comme source d'obligations",
+        "L'acte unilatéral est totalement inconnu du Code civil, même après la réforme de 2016"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1100-1 du Code civil reconnaît pour la première fois que l'acte unilatéral peut être source d'obligations, ces actes obéissant « en tant que de raison » aux règles du contrat. La doctrine classique était au contraire hostile à cette valeur créatrice, et le droit positif antérieur ne la reconnaissait qu'à titre subsidiaire et ponctuel (promesse d'exécuter une obligation naturelle, promesses publicitaires de gain).",
+      "tags": ["acte unilatéral", "art. 1100-1"]
+    },
+    {
+      "id": "intro-contrats-qcm-003",
+      "question": "Quel est le régime juridique applicable à l'acte de courtoisie et à l'engagement d'honneur ?",
+      "options": [
+        "L'acte de courtoisie relève du non-droit et ne crée aucune obligation juridique",
+        "La jurisprudence reconnaît des obligations contractuelles dans tout acte de complaisance",
+        "Un engagement d'honneur crée une obligation juridique susceptible d'exécution forcée",
+        "Toute promesse familiale de cadeau engage son auteur contractuellement devant le juge"
+      ],
+      "answer": 0,
+      "explanation": "L'acte de courtoisie (invitation à dîner, promesse familiale) relève du « non-droit » (Carbonnier) : son inexécution n'est pas sanctionnée juridiquement. L'acte de complaisance est plus ambigu : le transport bénévole n'est en principe pas contractuel, mais la jurisprudence y reconnaît parfois une convention d'assistance bénévole. L'engagement d'honneur (gentleman's agreement) exclut tout recours au juge, bien que les tribunaux requalifient parfois ces accords en obligations juridiques selon les termes employés.",
+      "tags": ["acte de courtoisie", "engagement d'honneur"]
+    },
+    {
+      "id": "intro-contrats-qcm-004",
+      "question": "Quelle est la différence entre contrat synallagmatique et contrat unilatéral (art. 1106 C. civ.) et quel en est l'intérêt en matière de preuve ?",
+      "options": [
+        "Synallagmatique : obligations réciproques ; unilatéral : charge sur une seule partie",
+        "Synallagmatique : une seule partie est tenue ; unilatéral : obligations réciproques",
+        "Les contrats synallagmatiques et unilatéraux ont un régime juridique strictement identique",
+        "Le contrat unilatéral suppose toujours l'existence d'une contrepartie versée par l'autre"
+      ],
+      "answer": 0,
+      "explanation": "Le contrat synallagmatique crée des obligations réciproques (chaque partie est à la fois créancière et débitrice, ex. vente), tandis que le contrat unilatéral ne met des obligations qu'à la charge d'une seule partie (ex. dépôt, donation). En matière de preuve, le contrat synallagmatique doit être établi en autant d'originaux que de parties (art. 1375 C. civ.) ; au fond, il est soumis aux mécanismes de l'exception d'inexécution, de la résolution et de la théorie des risques.",
+      "tags": ["synallagmatique", "art. 1106"]
+    },
+    {
+      "id": "intro-contrats-qcm-005",
+      "question": "Quelle est la règle tirée de la distinction entre contrat commutatif et contrat aléatoire (art. 1108 C. civ.) ?",
+      "options": [
+        "Contrat aléatoire : l'aléa chasse la lésion ; commutatif : prestations connues à l'avance",
+        "Contrat commutatif : prestations incertaines ; aléatoire : prestations connues à l'avance",
+        "Contrats commutatifs et aléatoires obéissent exactement aux mêmes règles de la lésion",
+        "Les contrats aléatoires ne peuvent jamais donner lieu à une action en rescision"
+      ],
+      "answer": 0,
+      "explanation": "Dans le contrat commutatif, les prestations sont connues et équivalentes dès la conclusion. Dans le contrat aléatoire, la prestation d'une partie dépend d'un événement incertain (ex. assurance, rente viagère). La règle essentielle est que « l'aléa chasse la lésion » : un contrat aléatoire ne peut être rescindé pour lésion puisque l'incertitude initiale sur la valeur des prestations était précisément l'objet du contrat.",
+      "tags": ["contrat aléatoire", "art. 1108"]
+    },
+    {
+      "id": "intro-contrats-qcm-006",
+      "question": "Quelle est la distinction entre contrat d'adhésion et contrat de gré à gré posée à l'art. 1110 du Code civil ?",
+      "options": [
+        "Adhésion : conditions non négociables déterminées par une partie ; gré à gré : négocié",
+        "Adhésion : librement négocié par les parties ; gré à gré : imposé par l'une d'elles",
+        "Les contrats d'adhésion et de gré à gré ont exactement le même régime de protection",
+        "La distinction adhésion/gré à gré existait formellement dans le Code civil depuis 1804"
+      ],
+      "answer": 0,
+      "explanation": "Le contrat d'adhésion est celui dont les conditions générales sont déterminées à l'avance par l'une des parties et non négociables (ex. contrats de masse, contrats de dépendance). Le contrat de gré à gré a des stipulations librement négociées entre les parties. La distinction, consacrée formellement par l'ordonnance de 2016 (non par le Code de 1804), emporte des effets protecteurs importants pour le contrat d'adhésion.",
+      "tags": ["contrat d'adhésion", "art. 1110"]
+    },
+    {
+      "id": "intro-contrats-qcm-007",
+      "question": "Quelles sont les deux protections spécifiques applicables aux contrats d'adhésion (arts. 1171 et 1190 C. civ.) ?",
+      "options": [
+        "Clauses abusives sanctionnées et interprétation contre le rédacteur en cas d'adhésion",
+        "Le contrat d'adhésion échappe à toute règle protectrice du droit commun des contrats",
+        "L'interprétation contre le rédacteur profite uniquement au professionnel dans les contrats",
+        "Les clauses abusives dans les contrats d'adhésion sont valables si librement signées"
+      ],
+      "answer": 0,
+      "explanation": "Les contrats d'adhésion bénéficient de deux protections spécifiques du droit commun : la sanction des clauses créant un déséquilibre significatif (art. 1171 C. civ.) et la règle d'interprétation contra proferentem (art. 1190 C. civ.), qui impose d'interpréter le contrat contre son rédacteur en cas d'ambiguïté, au profit de l'adhérent — et non du professionnel.",
+      "tags": ["contrat d'adhésion", "art. 1171"]
+    },
+    {
+      "id": "intro-contrats-qcm-008",
+      "question": "Quelle est la différence entre contrat solennel et contrat réel selon l'art. 1109 du Code civil ?",
+      "options": [
+        "Solennel : validité subordonnée à un écrit ; réel : validité subordonnée à la remise",
+        "Contrat solennel : validité subordonnée à la remise d'une chose ; réel : parfait par écrit",
+        "Contrat consensuel : validité subordonnée à un écrit en plus de l'accord des parties",
+        "Le consensualisme est l'exception ; la solennité est le principe général du Code civil"
+      ],
+      "answer": 0,
+      "explanation": "Le contrat solennel exige, pour sa validité, un écrit (acte sous signature privée ou notarié) en plus de l'échange des consentements (ex. mariage, hypothèque) ; son défaut de forme entraîne la nullité. Le contrat réel exige la remise d'une chose pour sa formation (ex. dépôt, certains prêts). Le consensualisme — le contrat parfait par le seul échange des consentements — est le principe général posé à l'art. 1109 al. 1er du Code civil.",
+      "tags": ["contrat solennel", "art. 1109"]
+    },
+    {
+      "id": "intro-contrats-qcm-009",
+      "question": "Quel est l'apport de l'ordonnance de 2016 concernant la liberté contractuelle et la bonne foi comme principes directeurs (arts. 1102 et 1104 C. civ.) ?",
+      "options": [
+        "La liberté contractuelle n'était pas inscrite au Code civil avant l'ordonnance de 2016",
+        "La liberté contractuelle était déjà formellement inscrite au Code civil de 1804",
+        "La bonne foi n'était requise que lors de la formation et non de l'exécution avant 2016",
+        "La force obligatoire a été introduite pour la première fois par l'ordonnance de 2016"
+      ],
+      "answer": 0,
+      "explanation": "La liberté contractuelle, pourtant fondamentale, n'était pas formellement inscrite dans le Code civil de 1804 : l'ordonnance de 2016 l'y a introduit à l'art. 1102 pour une meilleure accessibilité. La bonne foi, auparavant cantonnée à la phase d'exécution (ancien art. 1134 al. 3), est désormais étendue à la négociation et à la formation par l'art. 1104. La force obligatoire (art. 1103) reprenait, elle, l'ancien art. 1134 al. 1er.",
+      "tags": ["principes directeurs", "art. 1102"]
+    },
+    {
+      "id": "intro-contrats-qcm-010",
+      "question": "Quel est l'apport de l'art. 1104 du Code civil sur le champ d'application de la bonne foi dans les contrats ?",
+      "options": [
+        "La bonne foi est étendue à la négociation et à la formation du contrat depuis 2016",
+        "La bonne foi se limitait déjà à la seule formation du contrat depuis le Code de 1804",
+        "La bonne foi est désormais restreinte à la seule phase d'exécution du contrat conclu",
+        "La bonne foi a été supprimée comme principe directeur par l'ordonnance de 2016"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1104 du Code civil pose que les contrats doivent être négociés, formés et exécutés de bonne foi. L'apport est notable par rapport à l'ancien art. 1134 al. 3, qui ne visait que l'exécution : la bonne foi s'applique désormais aussi à la phase de négociation précontractuelle et à celle de formation du contrat, ce qui renforce les obligations de loyauté dès les pourparlers.",
+      "tags": ["bonne foi", "art. 1104"]
+    },
+    {
+      "id": "intro-contrats-qcm-011",
+      "question": "Quels sont les trois facteurs ayant conduit au déclin de l'autonomie de la volonté au XXe siècle ?",
+      "options": [
+        "Déclin de l'autonomie de la volonté, essor du droit de la consommation et harmonisation",
+        "Renforcement de l'autonomie de la volonté, déclin du droit de la consommation européen",
+        "Le droit des contrats est resté imperméable à toute influence du droit de la consommation",
+        "L'harmonisation européenne a imposé un code européen des contrats obligatoire depuis 2000"
+      ],
+      "answer": 0,
+      "explanation": "Le déclin de l'autonomie de la volonté résulte de trois facteurs : la critique doctrinale liée aux inégalités (travail, assurance, consommation) ayant alimenté le courant solidariste ; le développement du droit de la consommation (directive du 25 oct. 2011, entrée de mécanismes consuméristes dans le Code civil) ; et l'influence de l'harmonisation européenne (commission Lando, groupe Von Bar), qui reste toutefois progressive — aucun code européen obligatoire n'a été adopté.",
+      "tags": ["autonomie de la volonté"]
+    },
+    {
+      "id": "intro-contrats-qcm-012",
+      "question": "Comment la réforme de 2016 concilie-t-elle autonomie de la volonté et protection de la partie faible ?",
+      "options": [
+        "La révision pour imprévision et les clauses abusives protègent la partie faible",
+        "La révision pour imprévision a été supprimée par l'ordonnance de 2016 dans le Code civil",
+        "La réforme ne contient aucune mesure de protection de la partie faible dans les contrats",
+        "Les contrats de gré à gré bénéficient d'un contrôle judiciaire plus fort que les adhésion"
+      ],
+      "answer": 0,
+      "explanation": "La réforme recherche un équilibre entre autonomie de la volonté et justice contractuelle : elle consacre la révision pour imprévision (art. 1195 C. civ.), le contrôle des clauses abusives (art. 1171), la sanction de l'abus de faiblesse et un régime spécifique du contrat d'adhésion. Une summa divisio peut émerger entre une « zone protégée » (contrats d'adhésion, contrôle du juge accru) et une « zone franche » (contrats de gré à gré, plein épanouissement de la force obligatoire).",
+      "tags": ["justice contractuelle", "art. 1195"]
+    }
+  ]
+}

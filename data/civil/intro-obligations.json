@@ -1,0 +1,105 @@
+{
+  "id": "intro-obligations",
+  "title": "Introduction générale au droit des obligations",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "intro-oblig-fc-001",
+      "front": "Quels étaient les deux objectifs principaux de l'ordonnance n° 2016-131 du 10 février 2016 portant réforme du droit des obligations ?",
+      "back": "Sécurité juridique : rendre le droit des obligations plus lisible et accessible, en clarifiant le plan du Code, en abandonnant les notions obscures (cause) et en intégrant les acquis jurisprudentiels. Attractivité du droit français : consacrer des mécanismes développés par la pratique (révision pour imprévision, sanction des clauses abusives).",
+      "tags": ["réforme 2016", "ordonnance 2016-131"]
+    },
+    {
+      "id": "intro-oblig-fc-002",
+      "front": "Qu'est-ce qu'une obligation naturelle et quel est son régime juridique (art. 1100 al. 2 et art. 1302 al. 2 C. civ.) ?",
+      "back": "Une obligation dépourvue de pouvoir de contrainte (seul le debitum subsiste). Le créancier ne peut contraindre le débiteur, mais si ce dernier s'engage à exécuter, une action en justice devient possible (Civ. 1re, 10 oct. 1995). L'exécution volontaire ne donne lieu à aucune restitution (art. 1302 al. 2 C. civ.).",
+      "tags": ["obligation naturelle", "art. 1302"]
+    },
+    {
+      "id": "intro-oblig-fc-003",
+      "front": "Quelle est la différence entre obligation de résultat et obligation de moyens, et quel en est l'intérêt pratique ?",
+      "back": "L'obligation de résultat engage le débiteur à atteindre un résultat certain (ex. livraison d'une chose de genre). L'obligation de moyens n'engage que sa diligence pour y parvenir, sans le garantir (ex. médecin, avocat). Intérêt pratique majeur : la charge de la preuve en cas de défaillance diffère selon le type — distinction d'origine jurisprudentielle (Demogue), non consacrée par l'ordonnance de 2016.",
+      "tags": ["obligation de résultat", "obligation de moyens"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "intro-oblig-qcm-001",
+      "question": "Quels étaient les deux objectifs poursuivis par l'ordonnance n° 2016-131 du 10 février 2016, ratifiée par la loi du 20 avril 2018 ?",
+      "options": [
+        "Sécurité juridique en rendant le droit plus lisible et attractivité du droit français",
+        "Unification du droit européen des contrats en alignant le droit français sur la common law",
+        "Suppression de la jurisprudence antérieure pour repartir sur des bases législatives neuves",
+        "Codification des règles non écrites, en écartant les acquis jurisprudentiels antérieurs"
+      ],
+      "answer": 0,
+      "explanation": "L'ordonnance n° 2016-131 du 10 février 2016 poursuivait deux objectifs : la sécurité juridique (rendre le droit plus lisible, clarifier le plan du Code, abandonner des notions obscures comme la cause, et intégrer les acquis jurisprudentiels) et l'attractivité du droit français (consacrer la révision pour imprévision, sanctionner les clauses abusives). L'ordonnance n'a pas aligné le droit français sur la common law ni écarté la jurisprudence antérieure.",
+      "tags": ["réforme 2016"]
+    },
+    {
+      "id": "intro-oblig-qcm-002",
+      "question": "Quel est le régime d'application dans le temps de l'ordonnance du 10 février 2016 portant réforme du droit des contrats ?",
+      "options": [
+        "Les contrats conclus avant le 1er oct. 2016 restent régis par le seul droit antérieur",
+        "Le droit nouveau s'applique à tous les contrats en cours dès le 1er oct. 2016",
+        "Le droit intermédiaire régit les contrats conclus à partir du 1er octobre 2018 seulement",
+        "L'ordonnance de 2016 s'applique rétroactivement à tous les contrats existants sans délai"
+      ],
+      "answer": 0,
+      "explanation": "Trois corps de règles coexistent : le droit antérieur régit les contrats conclus avant le 1er octobre 2016 (conditions de validité et effets) ; le droit intermédiaire s'applique aux contrats conclus entre le 1er octobre 2016 et le 30 septembre 2018 (conditions de validité) ; le droit nouveau s'applique aux contrats conclus à partir du 1er octobre 2018. L'ordonnance ne produit donc aucun effet rétroactif sur les contrats antérieurs.",
+      "tags": ["réforme 2016", "application dans le temps"]
+    },
+    {
+      "id": "intro-oblig-qcm-003",
+      "question": "Qu'est-ce qu'une obligation au sens juridique du terme, selon la définition classique du droit civil ?",
+      "options": [
+        "L'obligation est un lien de droit permettant au créancier d'exiger une prestation",
+        "L'obligation est un lien moral sans aucune sanction juridique possible envers le débiteur",
+        "L'obligation n'a qu'un aspect passif : la dette, sans droit de créance corrélatif en face",
+        "L'obligation est un droit réel portant directement sur une chose appartenant au débiteur"
+      ],
+      "answer": 0,
+      "explanation": "L'obligation est le lien de droit entre deux personnes en vertu duquel le créancier peut exiger du débiteur une prestation ou une abstention. Elle comporte un aspect actif (le droit de créance pour le créancier) et un aspect passif (la dette pour le débiteur). Il s'agit d'un droit personnel et non d'un droit réel, qui porte sur la personne du débiteur et son patrimoine, non sur une chose directement.",
+      "tags": ["notion d'obligation"]
+    },
+    {
+      "id": "intro-oblig-qcm-004",
+      "question": "Quel est le régime juridique de l'obligation naturelle selon l'art. 1302 al. 2 du Code civil et la jurisprudence ?",
+      "options": [
+        "L'obligation naturelle est exécutable volontairement mais insusceptible de contrainte",
+        "L'obligation naturelle a exactement la même force contraignante que l'obligation civile",
+        "L'obligation naturelle exécutée volontairement peut toujours donner lieu à restitution",
+        "L'obligation naturelle ne produit aucun effet juridique même en cas d'exécution volontaire"
+      ],
+      "answer": 0,
+      "explanation": "L'obligation naturelle est dépourvue de pouvoir de contrainte (seul le debitum subsiste), de sorte que le créancier ne peut forcer le débiteur à exécuter. Cependant, si le débiteur s'engage volontairement à exécuter, une action en justice devient possible (Civ. 1re, 10 oct. 1995). En cas d'exécution volontaire, l'art. 1302 al. 2 du Code civil exclut toute restitution.",
+      "tags": ["obligation naturelle"]
+    },
+    {
+      "id": "intro-oblig-qcm-005",
+      "question": "Quelle est la différence essentielle entre obligation de résultat et obligation de moyens, et quel est son intérêt pratique ?",
+      "options": [
+        "Résultat certain promis en cas de résultat, seule la diligence en cas de moyens",
+        "Obligation de résultat : seule la diligence ; obligation de moyens : résultat garanti",
+        "La distinction résultat/moyens n'a aucune incidence sur la charge de la preuve en pratique",
+        "La distinction résultat/moyens a été formellement consacrée par l'ordonnance de 2016"
+      ],
+      "answer": 0,
+      "explanation": "L'obligation de résultat engage le débiteur à atteindre un résultat certain (ex. livraison d'une chose de genre) ; l'obligation de moyens engage seulement sa diligence, sans garantir le résultat (ex. médecin, avocat). L'intérêt pratique est déterminant sur la charge de la preuve en matière de responsabilité contractuelle : la distinction est d'origine doctrinale et jurisprudentielle (Demogue), et n'a pas été formellement consacrée par l'ordonnance de 2016.",
+      "tags": ["obligation de résultat", "obligation de moyens"]
+    },
+    {
+      "id": "intro-oblig-qcm-006",
+      "question": "Quelles sont les sources des obligations posées à l'art. 1100 al. 1er du Code civil ?",
+      "options": [
+        "Actes juridiques, faits juridiques ou l'autorité directe de la loi, selon ce code",
+        "Uniquement le contrat et le quasi-contrat, la loi n'étant pas une source d'obligation",
+        "Uniquement les actes de volonté : tout fait non voulu ne peut jamais créer une obligation",
+        "La loi est la seule source d'obligation ; contrat et délit ne font que l'appliquer"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1100 al. 1er du Code civil dispose que les obligations naissent d'actes juridiques, de faits juridiques ou de l'autorité seule de la loi. La doctrine critique toutefois ce classement tripartite en estimant que la loi n'est pas une source autonome à égalité avec le contrat ou le délit — elle est la source première de toute obligation — et que la vraie distinction oppose les actes juridiques (volontaires) aux faits juridiques (non volontaires).",
+      "tags": ["sources des obligations", "art. 1100"]
+    }
+  ]
+}

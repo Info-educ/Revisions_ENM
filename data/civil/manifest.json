@@ -107,6 +107,24 @@
       "file": "famille-argent.json",
       "title": "Le lien de famille et l'argent",
       "category": "Droit civil — Famille"
+    },
+    {
+      "id": "intro-obligations",
+      "file": "intro-obligations.json",
+      "title": "Introduction générale au droit des obligations",
+      "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "intro-contrats",
+      "file": "intro-contrats.json",
+      "title": "Introduction au droit des contrats",
+      "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "formation-contrat",
+      "file": "formation-contrat.json",
+      "title": "La formation du contrat",
+      "category": "Droit civil — Obligations"
     }
   ]
 }

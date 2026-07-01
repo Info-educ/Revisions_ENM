@@ -1,0 +1,195 @@
+{
+  "id": "formation-contrat",
+  "title": "La formation du contrat",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "formation-contrat-fc-001",
+      "front": "Quels sont les trois caractères cumulatifs que doit réunir une offre pour produire un effet juridique (arts. 1113-1114 C. civ.) ?",
+      "back": "Précise : l'offre contient tous les éléments essentiels du contrat, de sorte que le bénéficiaire n'ait qu'à accepter pour que le contrat soit formé. Ferme : l'auteur exprime sa volonté sans équivoque d'être lié dès l'acceptation. Extériorisée : l'offre doit être portée à la connaissance d'au moins une personne, par voie expresse ou comportement non équivoque.",
+      "tags": ["offre", "arts. 1113-1114"]
+    },
+    {
+      "id": "formation-contrat-fc-002",
+      "front": "Comment la jurisprudence distingue-t-elle la réserve objective de la réserve subjective attachée à une offre ?",
+      "back": "La réserve objective (ex. « sous réserve des stocks disponibles ») repose sur des critères vérifiables par un tiers : elle est compatible avec la fermeté de l'offre. La réserve subjective (ex. « sous réserve de confirmation ») laisse à l'offrant un pouvoir d'appréciation purement personnel : elle détruit la fermeté et empêche la qualification d'offre, sauf dans les contrats intuitu personae.",
+      "tags": ["offre avec réserve"]
+    },
+    {
+      "id": "formation-contrat-fc-003",
+      "front": "Qu'est-ce que le pacte de préférence et quelle est la sanction de sa violation (art. 1123 C. civ.) ?",
+      "back": "Le pacte de préférence est le contrat par lequel le promettant s'engage à proposer prioritairement au bénéficiaire la conclusion du contrat en cas de décision de contracter. Si le promettant viole le pacte en contractant avec un tiers qui connaissait l'existence du pacte et l'intention du bénéficiaire de s'en prévaloir, ce tiers peut se voir substituer le bénéficiaire ou le contrat peut être annulé.",
+      "tags": ["pacte de préférence", "art. 1123"]
+    },
+    {
+      "id": "formation-contrat-fc-004",
+      "front": "Quel régime l'art. 1124 du Code civil applique-t-il à la rétractation du promettant avant la levée d'option dans une promesse unilatérale ?",
+      "back": "La rétractation de la promesse pendant le délai laissé au bénéficiaire pour opter n'empêche pas la formation du contrat. Le bénéficiaire peut donc lever l'option malgré la rétractation du promettant et faire ainsi naître le contrat. Si le promettant a vendu à un tiers qui connaissait l'existence de la promesse, ce contrat est nul.",
+      "tags": ["promesse unilatérale", "art. 1124"]
+    },
+    {
+      "id": "formation-contrat-fc-005",
+      "front": "Quelle solution l'art. 1121 du Code civil a-t-il retenu pour la formation du contrat entre absents ?",
+      "back": "L'art. 1121 consacre la théorie de la réception, contraire à la position que semblait privilégier la jurisprudence antérieure : « Le contrat est conclu dès que l'acceptation parvient à l'offrant. Il est réputé l'être au lieu où l'acceptation est parvenue. » C'est la réception de l'acceptation — et non son émission — qui forme le contrat.",
+      "tags": ["contrat entre absents", "art. 1121"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "formation-contrat-qcm-001",
+      "question": "Quels sont les trois caractères cumulatifs que doit réunir une offre pour produire un effet juridique (arts. 1113-1114 C. civ.) ?",
+      "options": [
+        "L'offre doit être précise, ferme et extériorisée pour produire un effet juridique",
+        "L'offre peut rester vague et conditionnelle dès lors qu'elle est portée à connaissance",
+        "Une simple invitation à négocier constitue une offre juridiquement contraignante",
+        "L'offre n'a besoin que d'être extériorisée, sans condition de précision ni de fermeté"
+      ],
+      "answer": 0,
+      "explanation": "Pour produire un effet juridique, l'offre doit réunir trois caractères cumulatifs : être précise (contenir tous les éléments essentiels du contrat), ferme (exprimer sans équivoque la volonté d'être lié) et extériorisée (portée à la connaissance d'au moins une personne). À défaut de l'un de ces caractères, la proposition ne constitue qu'une invitation à entrer en négociations, sans valeur contraignante.",
+      "tags": ["offre"]
+    },
+    {
+      "id": "formation-contrat-qcm-002",
+      "question": "Comment la jurisprudence traite-t-elle la réserve objective et la réserve subjective attachées à une offre ?",
+      "options": [
+        "Une réserve objective est compatible avec la fermeté de l'offre, la subjective non",
+        "Toute réserve attachée à une offre détruit sa fermeté et la dégrade en invitation",
+        "La réserve subjective est seule compatible avec la qualification d'offre ferme et précise",
+        "La jurisprudence pose que toute réserve est sans effet sur la fermeté de l'offre"
+      ],
+      "answer": 0,
+      "explanation": "La réserve objective repose sur des critères vérifiables par un tiers (ex. « sous réserve des stocks disponibles ») : elle est compatible avec la fermeté de l'offre. La réserve subjective laisse à l'offrant un pouvoir d'appréciation purement personnel (ex. « sous réserve de confirmation ») : elle détruit la fermeté et empêche la qualification d'offre, sauf dans les contrats intuitu personae où une faculté de choix du contractant est implicite.",
+      "tags": ["offre avec réserve"]
+    },
+    {
+      "id": "formation-contrat-qcm-003",
+      "question": "Quelle est la différence entre caducité et révocation de l'offre ?",
+      "options": [
+        "La caducité intervient par décès de l'offrant ou expiration du délai ; la révocation avant",
+        "L'offrant peut toujours rétracter librement son offre même après expiration du délai",
+        "La caducité et la révocation produisent rigoureusement les mêmes effets sur l'offre",
+        "Toute offre à durée indéterminée est automatiquement irrévocable dès sa diffusion"
+      ],
+      "answer": 0,
+      "explanation": "La caducité de l'offre résulte d'un événement extérieur à la volonté de l'offrant : décès ou incapacité de l'offrant, ou expiration du délai prévu ou d'un délai raisonnable. La révocation, en revanche, est un acte de volonté de l'offrant qui retire son offre avant que l'acceptation ne lui soit parvenue. Une offre assortie d'un délai ne peut être révoquée avant l'expiration de ce délai.",
+      "tags": ["caducité", "révocation de l'offre"]
+    },
+    {
+      "id": "formation-contrat-qcm-004",
+      "question": "Quel est le régime de l'acceptation et de la contre-proposition en matière de formation du contrat ?",
+      "options": [
+        "L'acceptation doit correspondre à l'offre ; toute modification vaut contre-proposition",
+        "L'acceptation peut modifier librement les termes de l'offre sans perdre cet effet",
+        "Une contre-proposition équivaut à une acceptation dès lors qu'elle est portée par écrit",
+        "L'acceptation partielle a les mêmes effets juridiques qu'une acceptation totale"
+      ],
+      "answer": 0,
+      "explanation": "L'acceptation doit être pure et simple pour former le contrat : elle doit correspondre exactement aux termes de l'offre. Toute modification ou condition ajoutée par le destinataire de l'offre constitue une contre-proposition — qui ne forme pas le contrat mais inverse les rôles : l'offrant initial devient destinataire d'une nouvelle offre qu'il lui appartient d'accepter ou de refuser.",
+      "tags": ["acceptation"]
+    },
+    {
+      "id": "formation-contrat-qcm-005",
+      "question": "Quelle théorie l'art. 1121 du Code civil a-t-il retenu pour dater la formation du contrat entre absents ?",
+      "options": [
+        "Le contrat se forme à la réception de l'acceptation par l'offrant depuis la réforme 2016",
+        "Le contrat se forme à l'émission de l'acceptation par l'acceptant depuis la réforme 2016",
+        "La réforme de 2016 n'a pas tranché le débat entre la théorie de l'émission et la réception",
+        "Le lieu de formation n'est plus le critère principal de compétence en droit interne"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1121 du Code civil consacre la théorie de la réception : le contrat est conclu dès que l'acceptation parvient à l'offrant, et non dès son émission. C'est une solution contraire à celle que semblait privilégier la jurisprudence antérieure à 2016. Le lieu de formation a perdu de son intérêt en droit interne (la compétence territoriale ne repose plus sur ce critère), mais la date de formation reste essentielle pour la prescription et le transfert des risques.",
+      "tags": ["contrat entre absents", "art. 1121"]
+    },
+    {
+      "id": "formation-contrat-qcm-006",
+      "question": "Quel est le régime de la responsabilité en cas de rupture fautive des pourparlers précontractuels ?",
+      "options": [
+        "La rupture fautive des pourparlers engage la responsabilité délictuelle de son auteur",
+        "La rupture des pourparlers n'engage jamais la responsabilité de son auteur ici",
+        "Toute rupture de négociation, même tardive, est librement permise sans aucune conséquence",
+        "La responsabilité pour rupture des pourparlers est toujours de nature contractuelle"
+      ],
+      "answer": 0,
+      "explanation": "Chaque partie est libre de rompre les pourparlers, mais cette liberté a des limites : une rupture fautive — notamment tardive, brutale ou de mauvaise foi — engage la responsabilité délictuelle de son auteur (art. 1240 C. civ.), la phase précontractuelle ne constituant pas encore un contrat. L'art. 1104 C. civ. impose désormais expressément la bonne foi dès la négociation.",
+      "tags": ["pourparlers", "responsabilité précontractuelle"]
+    },
+    {
+      "id": "formation-contrat-qcm-007",
+      "question": "Qu'est-ce que le pacte de préférence et quelle obligation crée-t-il à la charge du promettant (art. 1123 C. civ.) ?",
+      "options": [
+        "Le pacte de préférence oblige le promettant à proposer le contrat en priorité",
+        "Le pacte de préférence oblige le bénéficiaire à conclure si le promettant le propose",
+        "Le pacte de préférence et la promesse unilatérale ont les mêmes effets immédiats",
+        "Le pacte de préférence crée une obligation absolue de vendre au seul bénéficiaire concerné"
+      ],
+      "answer": 0,
+      "explanation": "Le pacte de préférence oblige uniquement le promettant : s'il décide de contracter, il doit en priorité proposer la conclusion du contrat au bénéficiaire du pacte, aux mêmes conditions. Le bénéficiaire reste entièrement libre d'accepter ou de refuser — c'est là sa différence avec la promesse synallagmatique. La violation du pacte par le promettant, avec la complicité d'un tiers informé, peut entraîner la substitution du bénéficiaire ou la nullité (art. 1123 al. 2).",
+      "tags": ["pacte de préférence", "art. 1123"]
+    },
+    {
+      "id": "formation-contrat-qcm-008",
+      "question": "Quelle est la différence essentielle entre promesse unilatérale et promesse synallagmatique de contrat ?",
+      "options": [
+        "La promesse unilatérale donne seule au bénéficiaire une option pour conclure ou non",
+        "La promesse synallagmatique donne au bénéficiaire la faculté de refuser la vente",
+        "La promesse unilatérale engage les deux parties à conclure le contrat définitif",
+        "Seul le promettant dispose d'une option dans la promesse unilatérale de contrat"
+      ],
+      "answer": 0,
+      "explanation": "Dans la promesse unilatérale, seul le bénéficiaire dispose d'une option : il peut choisir de lever ou non l'option pendant le délai convenu, alors que le promettant est irrévocablement engagé. Dans la promesse synallagmatique (compromis de vente), les deux parties s'engagent réciproquement à conclure le contrat définitif — le bénéficiaire ne dispose d'aucune option et est lui aussi tenu de conclure.",
+      "tags": ["promesse unilatérale"]
+    },
+    {
+      "id": "formation-contrat-qcm-009",
+      "question": "Que prévoit l'art. 1124 du Code civil sur la rétractation du promettant pendant le délai d'option dans une promesse unilatérale ?",
+      "options": [
+        "La révocation pendant le délai d'option n'empêche pas la formation du contrat",
+        "La révocation avant levée d'option libère le promettant et empêche la formation du contrat",
+        "Le bénéficiaire ne peut jamais obtenir l'exécution forcée d'une promesse unilatérale",
+        "La révocation de la promesse rend le promettant responsable pour dommages-intérêts"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1124 al. 2 du Code civil consacre la sécurité du bénéficiaire : la révocation de la promesse pendant le délai d'option n'empêche pas la formation du contrat. Le bénéficiaire peut donc lever l'option malgré la rétractation du promettant. C'est un revirement par rapport à la jurisprudence antérieure qui ne permettait que des dommages-intérêts, solution que la Cour de cassation a d'ailleurs rejointe en 2021 même pour les promesses antérieures à la réforme.",
+      "tags": ["promesse unilatérale", "art. 1124"]
+    },
+    {
+      "id": "formation-contrat-qcm-010",
+      "question": "Quelle est la sanction prévue lorsque le promettant vend à un tiers qui connaissait l'existence de la promesse unilatérale (art. 1124 al. 3 C. civ.) ?",
+      "options": [
+        "Le tiers qui connaissait la promesse et l'a violée encourt la nullité du contrat conclu",
+        "Le tiers acquéreur est toujours protégé, même s'il connaissait l'existence de la promesse",
+        "Le tiers de bonne foi peut toujours obtenir la nullité du contrat avec le promettant",
+        "La vente à un tiers en violation d'une promesse engage uniquement la responsabilité pénale"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1124 al. 3 du Code civil prévoit que le contrat conclu avec un tiers qui connaissait l'existence de la promesse unilatérale est nul. Cette solution a été contestée par une QPC au nom de la liberté contractuelle et du droit de propriété, mais rejetée par la Cour de cassation en 2019 : aucun doute sérieux ne pesait sur la conformité du texte aux droits fondamentaux. La protection ne joue qu'envers le tiers de mauvaise foi.",
+      "tags": ["promesse unilatérale", "art. 1124"]
+    },
+    {
+      "id": "formation-contrat-qcm-011",
+      "question": "Que prévoit l'art. 1589 al. 1er du Code civil sur la promesse synallagmatique de vente ?",
+      "options": [
+        "La promesse synallagmatique vaut vente dès accord sur la chose et le prix entre les deux",
+        "La promesse synallagmatique ne produit aucun effet tant que l'acte n'est pas signé",
+        "La promesse synallagmatique ne diffère jamais de la promesse unilatérale sur ses effets",
+        "La promesse synallagmatique est réglementée en détail par l'ordonnance du 10 février 2016"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1589 al. 1er du Code civil pose que la promesse de vente vaut vente lorsqu'il y a consentement réciproque des deux parties sur la chose et sur le prix. En pratique, la promesse synallagmatique (compromis) est surtout utilisée en attente d'un événement retardant la conclusion définitive (ex. condition d'obtention d'un prêt). L'ordonnance de 2016 ne l'a pas formellement réglementée, à la différence de la promesse unilatérale (art. 1124).",
+      "tags": ["promesse synallagmatique", "art. 1589"]
+    },
+    {
+      "id": "formation-contrat-qcm-012",
+      "question": "Quelle est l'importance pratique de la date de formation du contrat entre absents, en dépit du déclin du critère de lieu ?",
+      "options": [
+        "Contrat entre absents : formé à la réception de l'acceptation par l'offrant depuis 2016",
+        "Contrat entre absents : formé à l'émission de l'acceptation par l'acceptant depuis 2016",
+        "Le lieu de formation du contrat a perdu tout intérêt pratique depuis la réforme de 2016",
+        "La théorie de l'émission était celle que semblait préférer la jurisprudence avant 2016"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1121 du Code civil consacre la théorie de la réception : le contrat est formé dès que l'acceptation parvient à l'offrant. La date de formation reste essentielle en pratique pour résoudre des questions concrètes : délai de prescription, transfert de propriété et des risques, loi applicable en cas de changement législatif. Le lieu de formation a perdu son intérêt en droit interne, mais pas la date.",
+      "tags": ["contrat entre absents"]
+    }
+  ]
+}
