@@ -1,0 +1,175 @@
+{
+  "id": "nullites",
+  "title": "Sanctions des conditions de formation : les nullités",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "nullites-fc-001",
+      "front": "Quel est le critère de distinction entre nullité relative et nullité absolue posé à l'art. 1179 du Code civil ?",
+      "back": "Le critère est celui du but de la règle violée, dégagé par Japiot et Gaudemet et consacré par la réforme de 2016 : si la règle protège un intérêt privé (d'un seul contractant), la nullité est relative ; si elle sauvegarde l'intérêt général, la nullité est absolue. L'ancien critère de la gravité du vice a été abandonné comme trop subjectif.",
+      "tags": ["nullité relative", "nullité absolue", "art. 1179"]
+    },
+    {
+      "id": "nullites-fc-002",
+      "front": "Quelle est la différence entre la clause « réputée non écrite » et la nullité partielle de l'art. 1184 du Code civil ?",
+      "back": "La clause réputée non écrite est expurgée de plein droit par le juge, sans qu'il soit nécessaire d'apprécier son caractère déterminant pour le consentement — et son action est imprescriptible. La nullité partielle (art. 1184 C. civ.) suppose au contraire d'examiner si la clause était déterminante ; si elle l'était, la nullité est totale.",
+      "tags": ["réputé non écrit", "nullité partielle", "art. 1184"]
+    },
+    {
+      "id": "nullites-fc-003",
+      "front": "Quelles sont les conditions de la confirmation d'un acte nul (art. 1182 C. civ.) ?",
+      "back": "La confirmation n'est possible que pour la nullité relative. Elle suppose la connaissance du vice, une intention de le réparer et doit nécessairement intervenir après la formation du contrat. Elle peut être tacite (exécution volontaire en connaissance de cause). Elle ne peut intervenir pour la violence qu'après que celle-ci a cessé (art. 1182 al. 3). Effet : rétroactivité — le contrat est réputé valable dès l'origine.",
+      "tags": ["confirmation", "art. 1182"]
+    },
+    {
+      "id": "nullites-fc-004",
+      "front": "Quel est le régime de la prescription de l'action en nullité depuis la loi du 17 juin 2008 ?",
+      "back": "Toutes les nullités (relatives et absolues) se prescrivent par 5 ans (art. 2224 C. civ.), avec un délai butoir de 20 ans. La voie d'exception de nullité reste perpétuelle (art. 1185 C. civ.) sauf si le contrat a déjà reçu un commencement d'exécution (Civ. 1re, 24 avr. 2013). Les clauses réputées non écrites sont quant à elles imprescriptibles.",
+      "tags": ["prescription", "art. 2224"]
+    },
+    {
+      "id": "nullites-fc-005",
+      "front": "Quel est le régime des restitutions consécutives à l'annulation pour les fruits et la valeur de jouissance (art. 1352-3 C. civ.) ?",
+      "back": "Depuis la réforme de 2016, tous les fruits et la valeur de jouissance sont dus par le débiteur de la restitution, sans distinction entre bonne et mauvaise foi pour l'obligation elle-même. En revanche, le point de départ du calcul diffère : le débiteur de bonne foi ne doit les fruits qu'à compter du jour de l'annulation ; le débiteur de mauvaise foi les doit à compter du début du contrat.",
+      "tags": ["restitutions", "art. 1352-3"]
+    },
+    {
+      "id": "nullites-fc-006",
+      "front": "Qu'est-ce que la règle nemo auditur et quel est son champ d'application depuis 2016 ?",
+      "back": "La règle prétorienne nemo auditur propriam turpitudinem allegans (nul ne peut se prévaloir de sa propre turpitude) interdit à la partie animée d'une intention immorale de demander les restitutions consécutives à l'annulation pour immoralité — elle n'empêche pas l'action en nullité elle-même. Non reprise expressément par l'ordonnance de 2016, elle subsiste avec un champ résiduel : contrats onéreux, annulation pour immoralité uniquement.",
+      "tags": ["nemo auditur"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "nullites-qcm-001",
+      "question": "Quel est le critère de distinction entre nullité relative et nullité absolue consacré à l'art. 1179 du Code civil depuis la réforme de 2016 ?",
+      "options": [
+        "Le critère est le but de la règle violée : intérêt privé → relative ; général → absolue",
+        "Le critère est la gravité du vice : vice grave → nullité absolue ; léger → relative",
+        "Toutes les nullités sont absolues depuis l'ordonnance de 2016 pour des raisons de clarté",
+        "La nullité relative sanctionne un intérêt général ; l'absolue protège un intérêt privé"
+      ],
+      "answer": 0,
+      "explanation": "Le critère retenu par l'art. 1179 du Code civil est celui du but de la règle violée, dégagé par Japiot et Gaudemet : si la règle protège un intérêt privé (d'un seul contractant), la nullité est relative ; si elle sauvegarde l'intérêt général, la nullité est absolue. L'ancien critère de la gravité du vice (contrat « malade » / contrat « mort-né ») a été abandonné car trop subjectif.",
+      "tags": ["nullité relative", "nullité absolue"]
+    },
+    {
+      "id": "nullites-qcm-002",
+      "question": "Qui peut exercer l'action en nullité relative selon l'art. 1181 du Code civil ?",
+      "options": [
+        "Partie protégée, ayants cause et créanciers par action oblique pour la nullité relative",
+        "Toute personne peut agir en nullité relative, comme en nullité absolue sans distinction",
+        "Seule la partie victime peut agir en nullité relative, à l'exclusion de ses créanciers",
+        "Le ministère public peut toujours agir en nullité relative comme en nullité absolue"
+      ],
+      "answer": 0,
+      "explanation": "L'action en nullité relative appartient à la partie protégée, à ses ayants cause à titre universel et à titre particulier, et à ses créanciers par la voie de l'action oblique (art. 1341-1 C. civ.). La nullité absolue, à l'inverse, peut être invoquée par tout intéressé et par le ministère public (art. 1180 al. 2 C. civ.). La confirmation est réservée aux seuls titulaires de l'action en nullité relative.",
+      "tags": ["titulaires de l'action"]
+    },
+    {
+      "id": "nullites-qcm-003",
+      "question": "Pour quelle catégorie de nullité la confirmation est-elle admise, et dans quelles conditions (art. 1182 C. civ.) ?",
+      "options": [
+        "La confirmation est réservée à la nullité relative ; la nullité absolue l'exclut",
+        "La confirmation est possible pour toute nullité dès lors que le vice est connu et réparé",
+        "La nullité absolue peut être confirmée si les deux parties s'accordent en connaissance",
+        "La confirmation de la nullité relative doit intervenir avant la formation du contrat"
+      ],
+      "answer": 0,
+      "explanation": "La confirmation n'est possible que pour la nullité relative (art. 1182 C. civ.) : elle représente la renonciation volontaire à agir en nullité après découverte du vice. La nullité absolue est, par définition, insusceptible de confirmation puisqu'elle protège l'intérêt général — la volonté d'un contractant ne peut paralyser une règle d'ordre public. La confirmation doit intervenir après la formation du contrat et la découverte du vice, jamais avant.",
+      "tags": ["confirmation"]
+    },
+    {
+      "id": "nullites-qcm-004",
+      "question": "Quelle est la différence entre la clause réputée non écrite et la nullité partielle concernant leur régime ?",
+      "options": [
+        "La clause réputée non écrite est expurgée de plein droit ; son action est imprescriptible",
+        "La clause réputée non écrite entraîne la nullité totale si elle est déterminante",
+        "La clause réputée non écrite et la nullité partielle ont exactement le même régime légal",
+        "La clause réputée non écrite est prescriptible par 5 ans comme toute action en nullité"
+      ],
+      "answer": 0,
+      "explanation": "La clause réputée non écrite est évincée de plein droit par le juge (frappe chirurgicale), sans examen du caractère déterminant de la clause pour le consentement, et sans prescription (Civ. 1re, 13 mars 2019 ; CJUE, 21 juin 2021). La nullité partielle de l'art. 1184 du Code civil implique au contraire d'apprécier si la clause était déterminante : si oui, le contrat est entièrement annulé.",
+      "tags": ["réputé non écrit", "nullité partielle"]
+    },
+    {
+      "id": "nullites-qcm-005",
+      "question": "Quel est le délai de prescription de l'action en nullité et quel est le régime de la nullité soulevée par voie d'exception ?",
+      "options": [
+        "L'action en nullité se prescrit par 5 ans ; la voie d'exception reste perpétuelle",
+        "L'action en nullité se prescrit par 30 ans pour la nullité absolue depuis la réforme",
+        "La voie d'exception de nullité se prescrit par le même délai que la voie d'action",
+        "Seule la voie d'action en nullité se prescrit ; la voie d'exception est imprescriptible"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la loi du 17 juin 2008, toutes les nullités (relatives et absolues) se prescrivent par 5 ans (art. 2224 C. civ.), avec un délai butoir de 20 ans. La voie d'exception (art. 1185 C. civ.) reste en revanche perpétuelle : la nullité peut être soulevée à tout moment pour résister à une demande d'exécution, sauf si le contrat a déjà reçu un commencement d'exécution (Civ. 1re, 24 avr. 2013).",
+      "tags": ["prescription"]
+    },
+    {
+      "id": "nullites-qcm-006",
+      "question": "Quelle est la règle sur l'étendue de la nullité posée à l'art. 1184 du Code civil ?",
+      "options": [
+        "Nullité partielle par principe ; nullité totale seulement si la clause était déterminante",
+        "Le principe est la nullité totale ; la nullité partielle n'est qu'une exception limitée",
+        "La nullité partielle et la clause réputée non écrite ont exactement le même régime légal",
+        "Le juge doit annuler l'intégralité du contrat même si la clause n'est qu'accessoire"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1184 du Code civil pose le principe de la nullité partielle : seule la clause viciée est annulée, le reste du contrat subsiste. La nullité totale n'est prononcée que par exception, lorsque la clause était déterminante du consentement des parties (sans elle, elles n'auraient pas contracté). La clause réputée non écrite obéit à un régime distinct : elle est évincée sans appréciation du caractère déterminant.",
+      "tags": ["étendue de la nullité", "art. 1184"]
+    },
+    {
+      "id": "nullites-qcm-007",
+      "question": "Quel est l'effet de l'annulation sur les prestations exécutées (art. 1178 al. 2 C. civ.) ?",
+      "options": [
+        "Le contrat annulé est censé n'avoir jamais existé : toutes les prestations sont restituées",
+        "L'annulation ne produit d'effets que pour l'avenir, les prestations passées restent dues",
+        "La rétroactivité de la nullité ne concerne que les nullités absolues, jamais les relatives",
+        "Les parties ne sont jamais tenues de restituer ce qui a été exécuté avant l'annulation"
+      ],
+      "answer": 0,
+      "explanation": "L'annulation produit un effet rétroactif identique quelle que soit la nature de la nullité (relative ou absolue) : le contrat est censé n'avoir jamais existé (art. 1178 al. 2 C. civ.). Les parties doivent donc se restituer mutuellement ce qu'elles ont exécuté. Ce principe se heurte à des difficultés pour les contrats à exécution successive, pour lesquels les restitutions en valeur prévalent (art. 1352-8 C. civ.).",
+      "tags": ["rétroactivité", "restitutions"]
+    },
+    {
+      "id": "nullites-qcm-008",
+      "question": "Quel changement l'ordonnance de 2016 a-t-elle introduit pour la restitution des fruits après annulation (art. 1352-3 C. civ.) ?",
+      "options": [
+        "Les fruits et valeur de jouissance sont dus par le débiteur de la restitution depuis 2016",
+        "Avant 2016 comme depuis, le possesseur de bonne foi ne doit jamais les fruits perçus",
+        "Les fruits sont conservés par le débiteur de la restitution de bonne foi depuis 2016",
+        "La réforme de 2016 a supprimé toute obligation de restituer les fruits perçus en contrat"
+      ],
+      "answer": 0,
+      "explanation": "Avant 2016, le possesseur de bonne foi conservait les fruits qu'il avait perçus. Depuis la réforme de 2016, tous les fruits et la valeur de jouissance sont dus sans distinction de bonne ou mauvaise foi pour l'obligation elle-même (art. 1352-3 al. 1 C. civ.). Seul le point de départ du calcul diffère : le débiteur de bonne foi ne doit les fruits qu'à compter du jour de l'annulation, tandis que le débiteur de mauvaise foi les doit depuis le début.",
+      "tags": ["restitution des fruits", "art. 1352-3"]
+    },
+    {
+      "id": "nullites-qcm-009",
+      "question": "Quel est le champ d'application de la règle nemo auditur propriam turpitudinem allegans depuis la réforme de 2016 ?",
+      "options": [
+        "Nemo auditur n'interdit pas la nullité mais seulement les restitutions consécutives",
+        "Nemo auditur empêche aussi la nullité si la partie demanderesse est de mauvaise foi",
+        "Nemo auditur s'applique à tout contrat illicite, pas seulement aux contrats immoraux",
+        "Nemo auditur a été codifiée et renforcée par l'ordonnance du 10 février 2016"
+      ],
+      "answer": 0,
+      "explanation": "La règle nemo auditur propriam turpitudinem allegans n'interdit pas à la partie immorale de demander la nullité du contrat : elle ne lui interdit que les restitutions consécutives à cette nullité. Non reprise expressément par l'ordonnance de 2016, elle subsiste avec un champ résiduel : elle ne s'applique qu'aux contrats onéreux annulés pour immoralité, et uniquement pour faire échec aux restitutions.",
+      "tags": ["nemo auditur"]
+    },
+    {
+      "id": "nullites-qcm-010",
+      "question": "Quelle est la nature de la responsabilité engagée consécutivement à l'annulation d'un contrat (art. 1178 al. 4 C. civ.) ?",
+      "options": [
+        "La responsabilité consécutive à l'annulation est délictuelle, fondée sur une faute prouvée",
+        "La responsabilité consécutive est contractuelle, fondée sur le contrat annulé",
+        "L'annulation suffit à fonder une indemnisation : aucune faute n'est à prouver en sus",
+        "Aucune responsabilité ne peut être engagée en cas de nullité pour vice du consentement"
+      ],
+      "answer": 0,
+      "explanation": "La responsabilité consécutive à l'annulation est nécessairement délictuelle (art. 1240 C. civ.) : le fait générateur est le comportement fautif antérieur à la formation du contrat, qui précède la phase contractuelle. La victime doit prouver une faute, un préjudice et un lien de causalité. L'annulation et les restitutions ne réparent pas en effet tous les préjudices — notamment les frais engagés en vue du contrat.",
+      "tags": ["responsabilité délictuelle", "art. 1178"]
+    }
+  ]
+}

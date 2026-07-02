@@ -143,6 +143,24 @@
       "file": "formes-contrat.json",
       "title": "Les formes contractuelles",
       "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "nullites",
+      "file": "nullites.json",
+      "title": "Sanctions des conditions de formation : les nullités",
+      "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "effets-contrat",
+      "file": "effets-contrat.json",
+      "title": "Les effets du contrat entre les parties",
+      "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "effets-tiers",
+      "file": "effets-tiers.json",
+      "title": "Les effets du contrat à l'égard des tiers",
+      "category": "Droit civil — Obligations"
     }
   ]
 }

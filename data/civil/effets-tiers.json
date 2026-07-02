@@ -1,0 +1,217 @@
+{
+  "id": "effets-tiers",
+  "title": "Les effets du contrat à l'égard des tiers",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "effets-tiers-fc-001",
+      "front": "Quel est le principe de l'effet relatif du contrat posé à l'art. 1199 du Code civil et quelles sont les trois catégories de tiers ?",
+      "back": "Le contrat ne crée d'obligations qu'entre les parties (res inter alios acta). Trois catégories : (1) tiers assimilés aux parties (ayants cause à titre universel, représentés, cessionnaires), soumis à la force obligatoire ; (2) tiers liés aux parties (ayants cause à titre particulier — ACP), qui ne peuvent ni hériter des dettes personnelles de leur auteur ni se voir opposer les créances non attachées à la chose ; (3) tiers absolus (penitus extranei), totalement étrangers au contrat.",
+      "tags": [
+        "effet relatif",
+        "art. 1199"
+      ]
+    },
+    {
+      "id": "effets-tiers-fc-002",
+      "front": "Quelle règle l'arrêt de l'Ass. plén., 7 févr. 1986 a-t-il posé sur la transmissibilité des créances à l'ayant cause à titre particulier ?",
+      "back": "Les créances intuitu rei (attachées à la chose transmise) se transmettent avec la chose à l'ayant cause à titre particulier — c'est la transmissibilité des créances accessoires. En revanche, les dettes personnelles de l'auteur ne se transmettent jamais à l'ACP (Civ. 15 janv. 1918). Exemples : actions en garantie des vices cachés, action résolutoire, clause de non-concurrence attachée au fonds de commerce.",
+      "tags": [
+        "ayant cause à titre particulier",
+        "transmissibilité"
+      ]
+    },
+    {
+      "id": "effets-tiers-fc-003",
+      "front": "Quelle est la différence entre l'action oblique (art. 1341-1 C. civ.) et l'action paulienne (art. 1341-2 C. civ.) ?",
+      "back": "L'action oblique permet au créancier d'agir en lieu et place d'un débiteur insolvable et négligent ; les valeurs réintégrées bénéficient à tous les créanciers (gage commun). L'action paulienne permet de faire déclarer inopposable un acte frauduleux du débiteur (connaissance du préjudice causé) ; l'inopposabilité ne profite qu'au seul créancier demandeur.",
+      "tags": [
+        "action oblique",
+        "action paulienne"
+      ]
+    },
+    {
+      "id": "effets-tiers-fc-004",
+      "front": "Qu'est-ce que la stipulation pour autrui (arts. 1205-1209 C. civ.) et quelles en sont les quatre conditions ?",
+      "back": "Vraie exception à l'effet relatif : le stipulant demande au promettant d'exécuter une prestation au profit d'un tiers bénéficiaire, qui acquiert un droit direct contre le promettant sans être partie. Quatre conditions : rapport juridique préalable stipulant/promettant, stipulation expresse (tacite admise : Civ. 1932), faite au profit d'un tiers, désignation du bénéficiaire (déterminable). Après acceptation du bénéficiaire : irrévocable.",
+      "tags": [
+        "stipulation pour autrui",
+        "art. 1205"
+      ]
+    },
+    {
+      "id": "effets-tiers-fc-005",
+      "front": "Que prévoit l'art. 1200 du Code civil sur l'opposabilité du contrat aux tiers et comment un tiers peut-il invoquer un manquement contractuel ?",
+      "back": "Les parties peuvent opposer leur contrat aux tiers comme un fait : celui qui aide sciemment une partie à violer ses obligations engage sa responsabilité délictuelle (art. 1240 C. civ.). Les tiers peuvent également invoquer le contrat comme un fait et se prévaloir d'un manquement contractuel comme faute délictuelle (Ass. plén. 13 janv. 2020, Sucrerie de Bois rouge). Limite récente : le tiers peut aussi se voir opposer les clauses limitatives du contrat invoqué (Com. 3 juill. 2024).",
+      "tags": [
+        "opposabilité",
+        "art. 1200"
+      ]
+    },
+    {
+      "id": "effets-tiers-fc-006",
+      "front": "Quel est le régime de la simulation prévu à l'art. 1201 du Code civil, notamment entre parties et à l'égard des tiers ?",
+      "back": "Entre les parties : seule la contre-lettre (acte occulte) produit effet. À l'égard des tiers de bonne foi : la contre-lettre leur est inopposable — ils se prévalent de l'acte apparent. Les tiers peuvent cependant invoquer la contre-lettre s'ils y ont intérêt (preuve libre). Dans les conflits entre tiers : l'acte apparent prévaut. En cas de simulation frauduleuse sur le prix : seule la contre-lettre est nulle, la vente au prix apparent est maintenue (Ch. mixte 12 juin 1981).",
+      "tags": [
+        "simulation",
+        "art. 1201"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "effets-tiers-qcm-001",
+      "question": "Que prévoit l'art. 1199 du Code civil sur l'effet du contrat à l'égard des tiers ?",
+      "options": [
+        "Le contrat ne crée d'obligations qu'entre les parties ; les tiers ne peuvent être liés",
+        "Le contrat crée des obligations tant pour les parties que pour les tiers de bonne foi",
+        "Le contrat crée des obligations pour tous si son contenu est conforme à l'ordre public",
+        "L'effet relatif a été supprimé par l'ordonnance de 2016 pour les contrats d'adhésion"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1199 al. 1 du Code civil pose le principe de l'effet relatif : le contrat ne crée d'obligations qu'entre les parties contractantes. Les tiers ne peuvent être ni créanciers ni débiteurs d'une convention à laquelle ils ne sont pas parties (res inter alios acta). Ce principe est le corollaire de la force obligatoire et de l'autonomie de la volonté — et a été maintenu par l'ordonnance de 2016.",
+      "tags": [
+        "effet relatif"
+      ]
+    },
+    {
+      "id": "effets-tiers-qcm-002",
+      "question": "Quelles catégories de tiers sont assimilées aux parties et soumises à la force obligatoire du contrat ?",
+      "options": [
+        "Ayants cause universels, représentés et cessionnaires sont assimilés aux parties",
+        "Seuls les héritiers sont assimilés aux parties ; les autres restent des tiers absolus",
+        "Les représentés et cessionnaires sont des tiers absolus soumis à l'effet relatif",
+        "L'ayant cause à titre particulier est assimilé à une partie dès la transmission du bien"
+      ],
+      "answer": 0,
+      "explanation": "Trois catégories de tiers sont assimilées aux parties et soumises à la force obligatoire : les ayants cause à titre universel (héritiers et légataires reprenant les droits et obligations du défunt, sauf intuitu personae), les représentés (seul le représenté est lié en représentation parfaite) et les cessionnaires (qui remplacent une partie après cession de contrat). L'ayant cause à titre particulier conserve quant à lui la qualité de tiers.",
+      "tags": [
+        "tiers assimilés aux parties"
+      ]
+    },
+    {
+      "id": "effets-tiers-qcm-003",
+      "question": "Quelle règle l'Assemblée plénière a-t-elle posée le 7 février 1986 sur la transmissibilité des droits à l'ayant cause à titre particulier ?",
+      "options": [
+        "Les créances accessoires à la chose transmise se transmettent avec elle à l'ACP",
+        "Aucune créance ne peut jamais se transmettre à l'ayant cause à titre particulier",
+        "Toutes les créances du cédant se transmettent automatiquement à l'ayant cause particulier",
+        "Les dettes personnelles du cédant se transmettent elles aussi à l'ayant cause particulier"
+      ],
+      "answer": 0,
+      "explanation": "L'Ass. plén. du 7 février 1986 a posé que les créances intuitu rei — attachées à la chose transmise en tant qu'accessoires — se transmettent avec cette chose à l'ayant cause à titre particulier. Exemples : actions en garantie des vices cachés, action résolutoire (Civ. 1re, 20 mai 2010), clause de non-concurrence attachée au fonds de commerce (Civ. 1re, 3 déc. 1996). En revanche, les dettes personnelles de l'auteur et les créances non attachées à la chose ne se transmettent jamais.",
+      "tags": [
+        "ayant cause à titre particulier"
+      ]
+    },
+    {
+      "id": "effets-tiers-qcm-004",
+      "question": "Quelle est la différence essentielle entre l'action oblique (art. 1341-1 C. civ.) et l'action paulienne (art. 1341-2 C. civ.) quant au profit qu'elles procurent ?",
+      "options": [
+        "Action oblique : agir en lieu et place du débiteur ; le profit bénéficie à tous",
+        "Action oblique : le profit de l'action bénéficie exclusivement au créancier qui agit",
+        "L'action paulienne permet d'agir à la place du débiteur pour exercer ses droits négligés",
+        "L'action oblique rend l'acte du débiteur inopposable au seul créancier demandeur"
+      ],
+      "answer": 0,
+      "explanation": "L'action oblique (art. 1341-1 C. civ.) permet au créancier d'agir en lieu et place du débiteur insolvable et négligent ; mais les valeurs réintégrées dans le patrimoine du débiteur profitent à tous les créanciers (gage commun), non au seul demandeur. L'action paulienne (art. 1341-2 C. civ.) rend l'acte frauduleux inopposable au seul créancier qui a agi — elle ne restitue pas les biens au patrimoine du débiteur et ne profite qu'à lui.",
+      "tags": [
+        "action oblique",
+        "action paulienne"
+      ]
+    },
+    {
+      "id": "effets-tiers-qcm-005",
+      "question": "Quelles sont les conditions de l'action paulienne (art. 1341-2 C. civ.) pour révoquer un acte d'appauvrissement du débiteur ?",
+      "options": [
+        "Action paulienne : rend l'acte frauduleux inopposable au seul créancier demandeur",
+        "Action paulienne : annule l'acte du débiteur frauduleux à l'égard de tous ses créanciers",
+        "L'action paulienne permet d'agir en lieu et place du débiteur pour gérer son patrimoine",
+        "L'action paulienne n'exige pas la preuve d'une fraude si l'acte cause un préjudice direct"
+      ],
+      "answer": 0,
+      "explanation": "L'action paulienne (art. 1341-2 C. civ.) exige trois conditions cumulatives : un acte d'appauvrissement du débiteur, une fraude (connaissance par le débiteur du préjudice causé à son créancier — Civ. 1re, 17 oct. 1979) et une créance antérieure à l'acte frauduleux. L'effet est l'inopposabilité de l'acte au seul créancier demandeur — l'acte reste valable dans les rapports débiteur/tiers.",
+      "tags": [
+        "action paulienne"
+      ]
+    },
+    {
+      "id": "effets-tiers-qcm-006",
+      "question": "Quelle est la nature de l'obligation du porte-fort (art. 1204 C. civ.) et quelles sont ses conséquences en cas de refus du tiers ?",
+      "options": [
+        "Le porte-fort s'engage à obtenir la ratification d'un tiers ; obligation de résultat",
+        "Le porte-fort s'engage directement au nom du tiers et le lie sans ratification",
+        "La promesse de porte-fort crée une obligation de moyens à la charge du porte-fort",
+        "Si le tiers refuse de ratifier, aucune responsabilité ne peut être engagée contre lui"
+      ],
+      "answer": 0,
+      "explanation": "Le porte-fort s'engage à obtenir la ratification d'un tiers à un acte juridique — c'est une obligation de résultat (Civ. 1re, 7 mars 2018). Si le tiers refuse de ratifier, le porte-fort engage sa responsabilité sans qu'il soit besoin de prouver une faute. Si le tiers ratifie, l'effet est rétroactif : le tiers est engagé par son propre acte de ratification et le porte-fort est libéré.",
+      "tags": [
+        "porte-fort",
+        "art. 1204"
+      ]
+    },
+    {
+      "id": "effets-tiers-qcm-007",
+      "question": "Quel droit la stipulation pour autrui confère-t-elle au tiers bénéficiaire contre le promettant (art. 1206 C. civ.) ?",
+      "options": [
+        "La stipulation pour autrui confère au tiers bénéficiaire un droit direct sur le contrat",
+        "La stipulation pour autrui crée une obligation du tiers envers le stipulant directement",
+        "Le tiers bénéficiaire ne peut agir directement : il doit passer par le stipulant",
+        "La stipulation pour autrui est révocable librement après l'acceptation du bénéficiaire"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1206 al. 1 du Code civil reconnaît au tiers bénéficiaire un droit direct contre le promettant, sans passer par le stipulant — c'est la principale exception à l'effet relatif du contrat. Le promettant peut opposer au tiers toutes les exceptions nées du contrat principal. La stipulation est révocable par le stipulant ou ses héritiers tant que le bénéficiaire ne l'a pas acceptée ; après acceptation, elle devient irrévocable.",
+      "tags": [
+        "stipulation pour autrui"
+      ]
+    },
+    {
+      "id": "effets-tiers-qcm-008",
+      "question": "Que prévoit l'art. 1200 du Code civil sur l'opposabilité du contrat aux tiers ?",
+      "options": [
+        "Le contrat est opposable aux tiers comme un fait ; complicité de violation = délit",
+        "Le contrat est opposable aux tiers, qui peuvent devenir créanciers de ses clauses",
+        "Les tiers ne peuvent jamais invoquer le contrat comme un fait ou source de responsabilité",
+        "L'opposabilité du contrat aux tiers est une exception à l'effet relatif consacrée en 2016"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1200 du Code civil pose que le contrat est opposable aux tiers comme un fait : ils doivent tenir compte de la situation juridique qu'il crée. Celui qui aide sciemment une partie à violer ses obligations engage sa responsabilité délictuelle (art. 1240 C. civ.) — non contractuelle, car le tiers ne devient pas débiteur du contrat. L'opposabilité n'est pas une exception à l'effet relatif : elle n'attribue pas de droits contractuels aux tiers.",
+      "tags": [
+        "opposabilité"
+      ]
+    },
+    {
+      "id": "effets-tiers-qcm-009",
+      "question": "Que retient l'Assemblée plénière dans l'arrêt Sucrerie de Bois rouge (Ass. plén. 13 janv. 2020) sur le recours du tiers en cas de manquement contractuel ?",
+      "options": [
+        "Le tiers peut invoquer un manquement contractuel comme faute délictuelle contre la partie",
+        "Le tiers ne peut jamais invoquer un manquement contractuel comme faute à son égard",
+        "Le tiers peut toujours invoquer une inexécution contractuelle pour demander la résolution",
+        "Le tiers peut invoquer tout manquement contractuel sans que ses clauses lui soient"
+      ],
+      "answer": 0,
+      "explanation": "L'arrêt Sucrerie de Bois rouge (Ass. plén. 13 janv. 2020) retient qu'un tiers peut invoquer le manquement contractuel d'un cocontractant comme constitutif d'une faute délictuelle à son égard, à condition de prouver un préjudice. Toutefois, la Chambre commerciale (Com. 3 juill. 2024) a apporté une limite : le tiers peut aussi se voir opposer les clauses limitatives de responsabilité du contrat qu'il invoque — harmonisation par l'Ass. plén. attendue.",
+      "tags": [
+        "manquement contractuel",
+        "tiers"
+      ]
+    },
+    {
+      "id": "effets-tiers-qcm-010",
+      "question": "Quel est le régime de la simulation selon l'art. 1201 du Code civil, notamment pour les conflits entre tiers ?",
+      "options": [
+        "Contre-lettre : produit effet entre parties ; inopposable aux tiers de bonne foi",
+        "La contre-lettre produit effet à l'égard des tiers de bonne foi comme entre les parties",
+        "En cas de simulation frauduleuse sur le prix, la vente entière est nulle de plein droit",
+        "Dans un conflit entre tiers, la contre-lettre prime sur l'acte apparent en toute situation"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1201 du Code civil pose que la contre-lettre (acte occulte) produit effet entre les parties, mais est inopposable aux tiers de bonne foi qui peuvent se prévaloir de l'acte apparent. Les tiers peuvent cependant choisir d'invoquer la contre-lettre s'ils y ont intérêt (preuve libre). Dans les conflits entre tiers, l'acte apparent prévaut (Civ. 25 avr. 1939). En cas de simulation frauduleuse sur le prix, seule la contre-lettre est nulle ; la vente subsiste au prix apparent (Ch. mixte 12 juin 1981).",
+      "tags": [
+        "simulation",
+        "art. 1201"
+      ]
+    }
+  ]
+}

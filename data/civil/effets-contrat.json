@@ -1,0 +1,175 @@
+{
+  "id": "effets-contrat",
+  "title": "Les effets du contrat entre les parties",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "effets-contrat-fc-001",
+      "front": "Que prévoit l'art. 1192 du Code civil sur l'interprétation des contrats clairs et quel contrôle la Cour de cassation exerce-t-elle ?",
+      "back": "Lorsque le contrat est clair et précis, le juge ne peut pas l'interpréter : il doit l'appliquer. S'il le dénature, la Cour de cassation contrôle ce vice de dénaturation (depuis Civ. 15 avr. 1872). La Cour contrôle également la qualification du contrat (question de droit) et l'interprétation des clauses-types répandues.",
+      "tags": ["interprétation", "art. 1192", "dénaturation"]
+    },
+    {
+      "id": "effets-contrat-fc-002",
+      "front": "Qu'est-ce que le « forçage » du contrat (art. 1194 C. civ.) et quelles sont les obligations typiquement créées par cette voie ?",
+      "back": "Lorsque le contrat est silencieux sur un point, le juge crée des obligations non stipulées sur le fondement de la bonne foi (art. 1104) et de l'équité, de l'usage ou de la loi (art. 1194). Deux obligations typiques : l'obligation de sécurité (née en droit des transports — Civ. 1911 — étendue au contrat de travail) et l'obligation d'information/conseil imposée aux professions libérales. Tendance actuelle : requalification en obligations légales.",
+      "tags": ["forçage du contrat", "art. 1194"]
+    },
+    {
+      "id": "effets-contrat-fc-003",
+      "front": "Quelles sont les conditions et les étapes du mécanisme de révision pour imprévision (art. 1195 C. civ.) ?",
+      "back": "Trois conditions cumulatives : changement de circonstances imprévisible à la conclusion, exécution devenue excessivement onéreuse, absence de clause d'acceptation des risques. Trois étapes : (1) renégociation de bonne foi (le contrat continue) ; (2) à l'échec, résolution amiable ou saisine conjointe du juge pour adaptation ; (3) révision ou résiliation judiciaire à la demande d'une partie. Mécanisme supplétif : peut être écarté par clause.",
+      "tags": ["imprévision", "art. 1195"]
+    },
+    {
+      "id": "effets-contrat-fc-004",
+      "front": "Que prévoit l'art. 1196 al. 1 du Code civil sur le transfert de propriété et quelles en sont les exceptions ?",
+      "back": "Le transfert s'opère solo consensu : par le seul échange des consentements, au moment de la conclusion. Exceptions : volonté des parties (clause de réserve de propriété — transfert suspendu au paiement), nature de la chose (chose de genre : transfert à l'individualisation ; chose future : à la livraison), loi (immeuble à construire : transfert progressif selon avancement).",
+      "tags": ["transfert de propriété", "art. 1196"]
+    },
+    {
+      "id": "effets-contrat-fc-005",
+      "front": "Quelle est la règle de la théorie des risques (res perit domino) en matière contractuelle (art. 1196 al. 3 C. civ.) et quel en est le correctif ?",
+      "back": "Le transfert de propriété emporte transfert des risques : l'acheteur supporte la perte de la chose même si elle n'est pas encore livrée (res perit domino). Correctif : si le vendeur est mis en demeure de livrer, les risques lui reviennent — sauf si la perte se serait produite chez l'acheteur de toute façon.",
+      "tags": ["risques", "art. 1196"]
+    },
+    {
+      "id": "effets-contrat-fc-006",
+      "front": "Quelles sont les règles applicables en cas de conflit entre deux acquéreurs successifs d'un même bien (art. 1198 C. civ.) ?",
+      "back": "Pour un meuble : le premier possesseur de bonne foi est préféré (art. 1198 al. 1 + art. 2276 C. civ. — possession vaut titre). Pour un immeuble : le premier à publier de bonne foi est préféré (art. 1198 al. 2 C. civ.), quelle que soit la date du titre — seule la publication foncière et la bonne foi comptent.",
+      "tags": ["conflits d'acquéreurs", "art. 1198"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "effets-contrat-qcm-001",
+      "question": "Quelle méthode l'art. 1188 al. 1 du Code civil impose-t-il au juge pour interpréter un contrat ambigu ?",
+      "options": [
+        "L'interprétation subjective recherche l'intention commune des parties sur le fond",
+        "L'interprétation subjective ne recherche que le sens littéral des termes du contrat",
+        "La Cour de cassation contrôle souverainement le fond de l'interprétation des juges",
+        "L'interprétation des clauses s'apprécie isolément, sans lien avec les autres clauses"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1188 al. 1 du Code civil impose d'interpréter le contrat selon la commune intention des parties, au-delà des termes littéraux. Si l'intention ne peut être décelée, l'al. 2 renvoie au sens d'une personne raisonnable placée dans la même situation (règle nouvelle issue des PEDC). L'art. 1189 ajoute que les stipulations s'interprètent les unes par les autres, non isolément. Le fond de l'interprétation des juges est souverain, la Cour de cassation ne contrôlant que la dénaturation.",
+      "tags": ["interprétation du contrat"]
+    },
+    {
+      "id": "effets-contrat-qcm-002",
+      "question": "Que prévoit l'art. 1192 du Code civil sur l'interprétation des contrats clairs ?",
+      "options": [
+        "Le juge ne peut interpréter un contrat clair : toute dénaturation est contrôlée",
+        "Le juge peut toujours interpréter un contrat même clair, pour en assurer l'équité",
+        "La Cour de cassation ne contrôle jamais la dénaturation des termes clairs du contrat",
+        "La dénaturation d'un contrat clair est autorisée lorsque son application est inéquitable"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1192 du Code civil interdit au juge d'interpréter un contrat dont les termes sont clairs et précis — il doit l'appliquer tel quel. Toute dénaturation est contrôlée par la Cour de cassation depuis l'arrêt du 15 avril 1872, qui constitue une exception au principe de souveraineté des juges du fond en matière d'interprétation. Ce contrôle s'étend à la qualification du contrat et à l'interprétation des clauses-types.",
+      "tags": ["dénaturation", "art. 1192"]
+    },
+    {
+      "id": "effets-contrat-qcm-003",
+      "question": "Que permet le « forçage » du contrat sur le fondement des arts. 1104 et 1194 du Code civil ?",
+      "options": [
+        "Le juge peut créer des obligations non stipulées si le contrat est silencieux sur un point",
+        "Le juge ne peut jamais créer d'obligations qui ne figurent pas dans le contrat conclu",
+        "Le forçage du contrat suppose que les parties ont expressément prévu un point à préciser",
+        "Le juge crée des obligations fondées sur la loi uniquement, jamais sur l'équité ou l'usage"
+      ],
+      "answer": 0,
+      "explanation": "Le « forçage » du contrat (théorisé par Josserand, arrêt Cie générale transatlantique, Civ. 21 nov. 1911) permet au juge de créer des obligations non stipulées lorsque le contrat est silencieux. Il se fonde sur la bonne foi (art. 1104) et sur l'équité, les usages ou la loi (art. 1194). Deux obligations typiques : sécurité (étendue au contrat de travail — Ass. plén. 24 juin 2005) et information/conseil (professions libérales). La tendance actuelle est à la requalification en obligations légales.",
+      "tags": ["forçage du contrat"]
+    },
+    {
+      "id": "effets-contrat-qcm-004",
+      "question": "Quelle est la limite de la bonne foi contractuelle posée par l'arrêt Les Maréchaux (Com. 10 juill. 2007) ?",
+      "options": [
+        "La bonne foi ne peut jamais déroger à la substance des droits légalement convenus",
+        "La bonne foi permet de modifier toute stipulation contractuelle déséquilibrée au fond",
+        "La bonne foi impose une obligation générale de coopération entre parties au contrat",
+        "L'arrêt Huard a posé une obligation générale de coopération dans tous les contrats"
+      ],
+      "answer": 0,
+      "explanation": "L'arrêt Les Maréchaux (Com. 10 juill. 2007) pose que la bonne foi contractuelle ne peut porter atteinte à la substance des droits légalement convenus entre les parties. Elle sanctionne les comportements déloyaux dans l'exécution (arrêt Huard, Com. 3 nov. 1992 — renégociation imposée), mais elle n'habilite pas le juge à réécrire les stipulations contractuelles. La Cour de cassation a refusé d'ériger la bonne foi en obligation générale de coopération (Com. 6 mai 2002).",
+      "tags": ["bonne foi", "art. 1104"]
+    },
+    {
+      "id": "effets-contrat-qcm-005",
+      "question": "Quelles sont les trois conditions cumulatives déclenchant le mécanisme de révision pour imprévision (art. 1195 C. civ.) ?",
+      "options": [
+        "Changement imprévisible, exécution excessivement onéreuse et absence de clause de risques",
+        "Tout déséquilibre économique apparu après la conclusion permet de déclencher le mécanisme",
+        "L'imprévision est supplétive et peut être écartée par une clause contractuelle",
+        "Le juge peut d'office réviser le contrat dès que l'exécution est excessivement onéreuse"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1195 du Code civil exige trois conditions cumulatives : un changement de circonstances imprévisible lors de la conclusion, une exécution devenue excessivement onéreuse pour l'une des parties, et l'absence de clause d'acceptation des risques. Le mécanisme est supplétif — contrairement à la neutralisation de la surprise dans l'option 3, qui constitue précisément la bonne réponse à une autre question. Le juge ne peut agir d'office mais seulement sur saisine d'une partie après l'échec de la renégociation.",
+      "tags": ["imprévision", "art. 1195"]
+    },
+    {
+      "id": "effets-contrat-qcm-006",
+      "question": "Quel est le régime de la résiliation unilatérale des contrats à durée indéterminée (art. 1211 C. civ.) ?",
+      "options": [
+        "Les CDI sont résiliables unilatéralement avec un préavis raisonnable pour chaque partie",
+        "Les contrats à durée indéterminée sont irrésiliables sauf accord des deux parties ensemble",
+        "Les contrats à durée déterminée peuvent toujours être résiliés avec un préavis suffisant",
+        "La résiliation unilatérale d'un contrat à durée indéterminée est toujours une faute civile"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1211 du Code civil dispose que chaque partie peut résilier unilatéralement un contrat à durée indéterminée, à charge de respecter un préavis raisonnable. Ce droit a valeur constitutionnelle (Cons. const. 9 nov. 1999). Les engagements perpétuels sont d'ailleurs expressément interdits (art. 1210 C. civ.). Seule la rupture abusive engage la responsabilité civile de droit commun (ex. incitation à constituer des stocks puis rupture brutale — Com. 20 janv. 1998).",
+      "tags": ["résiliation unilatérale", "art. 1211"]
+    },
+    {
+      "id": "effets-contrat-qcm-007",
+      "question": "Selon l'art. 1196 al. 1 du Code civil, quand s'opère le transfert de propriété dans les contrats translatifs ?",
+      "options": [
+        "Le transfert de propriété s'opère dès la conclusion, sauf exception légale ou volontaire",
+        "Le transfert est retardé à la livraison dans tout contrat translatif par principe",
+        "La clause de réserve de propriété transfère la propriété dès la conclusion du contrat",
+        "La chose de genre se transfère dès la conclusion, avant toute individualisation"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1196 al. 1 du Code civil consacre le transfert solo consensu : la propriété se transfère au moment de la conclusion du contrat, par le seul échange des consentements, sans remise. Les exceptions sont conventionnelles (clause de réserve de propriété — qui suspend le transfert jusqu'au paiement), légales (immeuble à construire) ou liées à la nature de la chose (chose de genre non encore individualisée ; chose future).",
+      "tags": ["transfert de propriété"]
+    },
+    {
+      "id": "effets-contrat-qcm-008",
+      "question": "Qui supporte les risques de perte de la chose dans un contrat translatif de propriété (art. 1196 al. 3 C. civ.) ?",
+      "options": [
+        "L'acheteur supporte les risques dès le contrat ; une mise en demeure les retourne",
+        "Le vendeur supporte toujours les risques jusqu'à la livraison effective de la chose vendue",
+        "Les risques restent à la charge du vendeur même après le transfert de propriété convenu",
+        "La mise en demeure de livrer transfère définitivement les risques à l'acheteur seul"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1196 al. 3 du Code civil applique la règle res perit domino : le transfert de propriété emporte transfert des risques. L'acheteur supporte donc la perte de la chose dès la conclusion du contrat, même avant la livraison. Correctif essentiel : si l'acheteur met le vendeur en demeure de livrer, les risques reviennent au vendeur — sauf si la perte se serait produite chez l'acheteur de toute façon.",
+      "tags": ["risques", "res perit domino"]
+    },
+    {
+      "id": "effets-contrat-qcm-009",
+      "question": "Comment l'art. 1198 du Code civil règle-t-il le conflit entre deux acquéreurs successifs d'un même bien ?",
+      "options": [
+        "Meuble : premier possesseur de bonne foi ; immeuble : premier à publier de bonne foi",
+        "Conflit meuble : premier à avoir publié son titre ; conflit immeuble : premier possesseur",
+        "En cas de conflit entre acquéreurs, la date du titre prime sur la publication foncière",
+        "Le premier acquéreur chronologiquement prime toujours sur le second, quel que soit le bien"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1198 du Code civil distingue selon la nature du bien. Pour les meubles (al. 1), le premier possesseur de bonne foi est préféré, par application de l'art. 2276 C. civ. (possession vaut titre). Pour les immeubles (al. 2), le premier à avoir publié son titre à la conservation des hypothèques est préféré, quelle que soit la date du titre. La bonne foi est exigée dans les deux cas.",
+      "tags": ["conflits d'acquéreurs"]
+    },
+    {
+      "id": "effets-contrat-qcm-010",
+      "question": "Quels sont les effets du mutuus dissensus comme mode d'extinction du contrat ?",
+      "options": [
+        "Mutuus dissensus libère pour l'avenir et peut emporter valeur résolutoire rétroactive",
+        "Le mutuus dissensus exige le parallélisme des formes dans tous les cas de résiliation",
+        "La résiliation par mutuus dissensus n'a aucun effet rétroactif dans aucune circonstance",
+        "Le mutuus dissensus est impossible pour les contrats à exécution successive longue durée"
+      ],
+      "answer": 0,
+      "explanation": "Le mutuus dissensus (accord des deux parties pour mettre fin au contrat) libère les parties pour l'avenir et peut produire des effets rétroactifs en remettant en cause les effets passés, à la valeur d'une clause résolutoire (Com. 1er févr. 1994). Le parallélisme des formes ne s'impose que pour les contrats solennels ayant fait l'objet d'un acte notarié. Le mutuus dissensus est possible pour toutes catégories de contrats.",
+      "tags": ["mutuus dissensus"]
+    }
+  ]
+}
