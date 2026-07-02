@@ -161,6 +161,12 @@
       "file": "effets-tiers.json",
       "title": "Les effets du contrat à l'égard des tiers",
       "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "sanctions-execution",
+      "file": "sanctions-execution.json",
+      "title": "Sanctions de l'inexécution : obtenir l'exécution",
+      "category": "Droit civil — Obligations"
     }
   ]
 }

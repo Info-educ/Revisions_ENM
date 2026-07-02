@@ -1,0 +1,92 @@
+{
+  "id": "sanctions-execution",
+  "title": "Sanctions de l'inexécution : obtenir l'exécution",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "sanctions-execution-fc-001",
+      "front": "Quelles sont les cinq sanctions de l'inexécution contractuelle posées à l'art. 1217 du Code civil et quel est leur rapport hiérarchique ?",
+      "back": "Refus ou suspension d'exécution (exception d'inexécution), exécution forcée en nature, réduction du prix, résolution et dommages-intérêts. Ces sanctions ne sont pas hiérarchisées : le créancier choisit librement celle(s) qu'il invoque, sous réserve d'incompatibilité entre elles. La mise en demeure est le préalable de principe à leur mise en œuvre.",
+      "tags": ["sanctions de l'inexécution", "art. 1217"]
+    },
+    {
+      "id": "sanctions-execution-fc-002",
+      "front": "Quels sont les trois critères de la force majeure (art. 1218 C. civ.) et quel est leur effet selon que l'empêchement est temporaire ou définitif ?",
+      "back": "Irrésistibilité (exécution impossible, pas seulement onéreuse), imprévisibilité (événement non raisonnablement prévisible à la conclusion — critère central selon Ass. plén. 14 avr. 2006) et extériorité (hors du contrôle du débiteur). Empêchement temporaire : suspension de l'obligation. Empêchement définitif : résolution de plein droit et restitutions. La force majeure est inopposable pour une dette de somme d'argent (Com. 16 sept. 2014).",
+      "tags": ["force majeure", "art. 1218"]
+    },
+    {
+      "id": "sanctions-execution-fc-003",
+      "front": "Quelle est la condition posée à l'art. 1221 du Code civil pour écarter l'exécution forcée en nature en cas de disproportion manifeste ?",
+      "back": "Deux conditions cumulatives depuis la loi de ratification du 20 avril 2018 : une disproportion manifeste entre le coût de l'exécution pour le débiteur et l'intérêt qu'elle présente pour le créancier, et la bonne foi du débiteur. La jurisprudence applique cette exception largement, y compris hors du champ temporel de l'ordonnance (Civ. 3e, 13 juill. 2022 ; 6 juill. 2023 ; 4 avr. 2024).",
+      "tags": ["exécution forcée", "art. 1221"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "sanctions-execution-qcm-001",
+      "question": "Quel est le rôle de la mise en demeure (arts. 1344 s. C. civ.) par rapport aux sanctions de l'art. 1217 ?",
+      "options": [
+        "La mise en demeure est un préalable de principe aux sanctions de l'inexécution",
+        "La mise en demeure est obligatoire avant toute sanction, sans exception possible",
+        "La mise en demeure doit être faite par acte d'huissier à peine de nullité absolue",
+        "La mise en demeure produit ses effets uniquement si le débiteur en accuse réception"
+      ],
+      "answer": 0,
+      "explanation": "La mise en demeure est un préalable de principe, mais non absolu : elle est dispensée lorsque l'exécution est définitivement impossible ou inutile, lorsque le terme essentiel est dépassé ou lorsqu'une clause contractuelle le prévoit (art. 1344 in fine C. civ.). Sa forme est libre (lettre simple suffisante, LRAR conseillée pour la preuve). Le défaut de réception par le débiteur n'affecte pas sa validité (Civ. 1re, 20 janv. 2021). Elle produit deux effets : point de départ des dommages-intérêts moratoires et transfert des risques sur le débiteur.",
+      "tags": ["mise en demeure", "art. 1344"]
+    },
+    {
+      "id": "sanctions-execution-qcm-002",
+      "question": "Quels sont les trois critères cumulatifs de la force majeure (art. 1218 C. civ.) et lequel prime selon l'Ass. plén. du 14 avril 2006 ?",
+      "options": [
+        "Irrésistibilité, imprévisibilité et extériorité : les trois critères de la force majeure",
+        "La force majeure ne requiert que l'imprévisibilité selon la Cour de cassation",
+        "La force majeure peut être invoquée pour une dette de somme d'argent devenue onéreuse",
+        "La force majeure temporaire entraîne toujours la résolution définitive du contrat"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1218 du Code civil retient trois critères cumulatifs : irrésistibilité (l'exécution doit être rendue impossible, non seulement plus onéreuse), imprévisibilité (événement non raisonnablement prévisible lors de la conclusion — seul critère vraiment indispensable selon Ass. plén. 14 avr. 2006) et extériorité (l'événement doit échapper au contrôle du débiteur). La force majeure est inopposable pour une dette de somme d'argent (Com. 16 sept. 2014). L'empêchement temporaire suspend le contrat ; seul l'empêchement définitif entraîne la résolution de plein droit.",
+      "tags": ["force majeure"]
+    },
+    {
+      "id": "sanctions-execution-qcm-003",
+      "question": "Quelles sont les caractéristiques essentielles de l'exception d'inexécution (arts. 1219-1220 C. civ.) ?",
+      "options": [
+        "L'exception d'inexécution suspend l'obligation sans saisine du juge ni mise en demeure",
+        "L'exception d'inexécution résout définitivement le contrat sans décision du juge",
+        "L'exception d'inexécution exige toujours une mise en demeure préalable du débiteur",
+        "L'exception d'inexécution ne peut être opposée qu'en vertu d'une décision judiciaire"
+      ],
+      "answer": 0,
+      "explanation": "L'exception d'inexécution est une voie de justice privée : elle permet de refuser ou suspendre sa propre exécution sans saisine du juge ni mise en demeure préalable. Elle suppose l'interdépendance des obligations et une inexécution suffisamment grave (art. 1219 C. civ.). La variante préventive (art. 1220 C. civ.) requiert un risque manifeste de non-exécution et impose une notification dans les meilleurs délais. Ses effets sont temporaires : elle suspend les obligations sans les éteindre.",
+      "tags": ["exception d'inexécution"]
+    },
+    {
+      "id": "sanctions-execution-qcm-004",
+      "question": "Dans quels cas l'exécution forcée en nature est-elle écartée selon l'art. 1221 du Code civil, tel que modifié par la loi de ratification du 20 avril 2018 ?",
+      "options": [
+        "L'exécution forcée est écartée si disproportion manifeste et bonne foi du débiteur",
+        "L'exécution forcée en nature est toujours refusée pour les obligations de faire",
+        "La disproportion manifeste suffit seule à exclure l'exécution forcée en nature",
+        "L'exécution forcée est refusée uniquement en cas d'impossibilité absolue de s'exécuter"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1221 du Code civil écarte l'exécution forcée en nature dans deux cas : impossibilité d'exécution, et disproportion manifeste du coût de l'exécution pour le débiteur par rapport à l'intérêt qu'elle représente pour le créancier — à condition que le débiteur soit de bonne foi (condition ajoutée par la L. ratif. du 20 avr. 2018). Les obligations de faire ne sont pas automatiquement exclues depuis l'abandon de l'ancien art. 1142. L'exception de disproportion est appliquée largement par la Cour de cassation (Civ. 3e, 2022-2024).",
+      "tags": ["exécution forcée", "art. 1221"]
+    },
+    {
+      "id": "sanctions-execution-qcm-005",
+      "question": "Comment fonctionne la réduction du prix selon l'art. 1223 du Code civil selon que le créancier a ou non déjà payé ?",
+      "options": [
+        "La réduction du prix par notification unilatérale est possible avant tout paiement",
+        "La réduction du prix exige toujours l'accord du débiteur et du créancier pour être valide",
+        "La réduction du prix n'est possible que par décision judiciaire, jamais unilatéralement",
+        "La réduction du prix ne requiert aucune mise en demeure préalable pour être exercée"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1223 du Code civil distingue selon que le créancier a déjà payé ou non. S'il n'a pas encore payé, il peut notifier unilatéralement la réduction du prix au débiteur, dans les meilleurs délais après la mise en demeure — le débiteur peut accepter par écrit, ce qui prive ensuite de tout recours judiciaire. S'il a déjà payé, la réduction requiert soit l'accord des parties, soit une décision du juge. Dans tous les cas, depuis Civ. 1re, 18 déc. 2024, le créancier doit également pouvoir saisir le juge pour faire prononcer la sanction unilatérale.",
+      "tags": ["réduction du prix", "art. 1223"]
+    }
+  ]
+}
