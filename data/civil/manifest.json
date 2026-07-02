@@ -167,6 +167,12 @@
       "file": "sanctions-execution.json",
       "title": "Sanctions de l'inexécution : obtenir l'exécution",
       "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "autres-sanctions-inexecution",
+      "file": "autres-sanctions-inexecution.json",
+      "title": "L'inexécution du contrat : les autres sanctions (résolution et responsabilité contractuelle)",
+      "category": "Droit civil — Obligations"
     }
   ]
 }

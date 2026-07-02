@@ -1,0 +1,243 @@
+{
+  "id": "autres-sanctions-inexecution",
+  "title": "L'inexécution du contrat : les autres sanctions (résolution et responsabilité contractuelle)",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "asanct-fc-001",
+      "front": "Qu'est-ce que la résolution du contrat et quel est son effet depuis la réforme de 2016 ?",
+      "back": "C'est la sanction de l'inexécution qui met fin au contrat (art. 1229, al. 1 C. civ.) et donne lieu, selon les cas, à des restitutions. Depuis 2016, elle n'a plus d'effet rétroactif : les restitutions reposent non plus sur une fiction mais sur les règles propres des art. 1352 et suivants.",
+      "tags": [
+        "resolution",
+        "obligations"
+      ]
+    },
+    {
+      "id": "asanct-fc-002",
+      "front": "Quelles sont les trois voies pour obtenir la résolution du contrat selon l'art. 1224 du Code civil ?",
+      "back": "1) La clause résolutoire (art. 1225), stipulée à l'avance par les parties ; 2) la résolution unilatérale par notification (art. 1226), à ses risques et périls ; 3) la résolution judiciaire (art. 1227-1228). Depuis 2016, ces trois voies sont placées sur un pied d'égalité, sans hiérarchie entre elles.",
+      "tags": [
+        "resolution",
+        "art-1224"
+      ]
+    },
+    {
+      "id": "asanct-fc-003",
+      "front": "Quel critère permet de distinguer une obligation de moyens d'une obligation de résultat lorsque le contrat ne le précise pas ?",
+      "back": "À défaut de stipulation contractuelle explicite, le juge retient à titre subsidiaire le critère de l'aléa dans l'exécution : si le débiteur avait, en son pouvoir exclusif, les moyens de garantir l'exécution, l'obligation est de résultat ; dans le cas contraire, elle est de moyens.",
+      "tags": [
+        "obligation-resultat",
+        "obligation-moyens"
+      ]
+    },
+    {
+      "id": "asanct-fc-004",
+      "front": "Qu'est-ce que la clause pénale et quel pouvoir le juge détient-il sur son montant ?",
+      "back": "C'est la clause par laquelle les parties évaluent par avance et forfaitairement l'indemnité due en cas d'inexécution (art. 1231-5 C. civ.). Depuis la loi du 9 juillet 1975, le juge peut, même d'office, réviser à la baisse ou à la hausse le montant s'il est manifestement excessif ou dérisoire.",
+      "tags": [
+        "clause-penale"
+      ]
+    },
+    {
+      "id": "asanct-fc-005",
+      "front": "Que prévoit l'article 1231-3 du Code civil sur le préjudice réparable en matière contractuelle, et quelle en est l'exception ?",
+      "back": "Il limite la réparation au seul préjudice prévisible lors de la conclusion du contrat, car le débiteur s'est engagé en fonction des conséquences qu'il pouvait raisonnablement anticiper. Cette limite disparaît en cas de faute lourde ou dolosive : le débiteur répare alors tout le préjudice, même imprévisible.",
+      "tags": [
+        "prejudice-previsible",
+        "art-1231-3"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "asanct-qcm-001",
+      "question": "Quelle différence sépare la résolution de la « résiliation » d'un contrat à exécution successive ?",
+      "options": [
+        "La résiliation ne joue que pour l'avenir, sans effacer les prestations déjà exécutées",
+        "La résiliation exige toujours un juge, alors que la résolution peut être unilatérale",
+        "La résiliation vise les contrats synallagmatiques, la résolution les contrats unilatéraux",
+        "La résiliation impose une réparation intégrale, la résolution une réparation partielle"
+      ],
+      "answer": 0,
+      "explanation": "Pour les contrats à exécution successive dont les prestations trouvent leur utilité au fur et à mesure (ex. un bail), on parle de « résiliation » : les restitutions ne jouent qu'à partir du jour où une prestation est restée sans contrepartie, sans remise en cause de la période déjà utilement exécutée.",
+      "tags": [
+        "resolution",
+        "resiliation"
+      ]
+    },
+    {
+      "id": "asanct-qcm-002",
+      "question": "Quel est le fondement des restitutions consécutives à une résolution depuis la réforme de 2016 ?",
+      "options": [
+        "La fiction selon laquelle le contrat résolu n'a, rétroactivement, jamais existé",
+        "Les règles propres aux restitutions, indépendamment de toute idée de rétroactivité",
+        "Un accord exprès des parties fixant librement les modalités de chaque restitution",
+        "La responsabilité délictuelle du débiteur envers le créancier victime de l'inexécution"
+      ],
+      "answer": 1,
+      "explanation": "L'art. 1229, al. 1 dispose que « la résolution met fin au contrat », abandonnant la fiction rétroactive jugée trop complexe par la Chancellerie. Les restitutions reposent désormais directement sur le régime légal des restitutions, ce qui simplifie notamment le cas de torts réciproques.",
+      "tags": [
+        "resolution",
+        "restitutions"
+      ]
+    },
+    {
+      "id": "asanct-qcm-003",
+      "question": "Qu'est-ce qui caractérise la clause résolutoire par rapport aux deux autres voies de résolution ?",
+      "options": [
+        "Elle impose un recours préalable systématique au juge avant toute résolution du contrat",
+        "Elle empêche définitivement le créancier de préférer ensuite la voie judiciaire",
+        "Elle permet au créancier de résoudre unilatéralement sans exiger une inexécution grave",
+        "Elle interdit au créancier de réclamer des dommages-intérêts en plus de la résolution"
+      ],
+      "answer": 2,
+      "explanation": "Contrairement aux deux autres voies, la clause résolutoire, une fois stipulée et la mise en demeure délivrée, joue quelle que soit la gravité de l'inexécution, sans contrôle de proportionnalité. L'art. 1227 permet malgré tout au créancier de préférer la voie judiciaire.",
+      "tags": [
+        "clause-resolutoire",
+        "art-1225"
+      ]
+    },
+    {
+      "id": "asanct-qcm-004",
+      "question": "À quel risque s'expose le créancier qui choisit la résolution unilatérale par notification de l'art. 1226 ?",
+      "options": [
+        "Aucun risque, cette voie étant validée automatiquement dès l'envoi de la notification",
+        "Le débiteur peut le poursuivre pénalement pour rupture abusive de la relation nouée",
+        "Il perd le droit de saisir le juge pour toute contestation future du contrat rompu",
+        "Le juge peut, saisi ensuite, juger la résolution infondée et le condamner à indemniser"
+      ],
+      "answer": 3,
+      "explanation": "Le créancier agit « à ses risques et périls » : si le juge estime que l'inexécution n'était pas suffisamment grave, il peut condamner le créancier à des dommages-intérêts, voire considérer que le contrat continue de produire ses effets malgré la notification.",
+      "tags": [
+        "resolution-unilaterale",
+        "art-1226"
+      ]
+    },
+    {
+      "id": "asanct-qcm-005",
+      "question": "Selon l'art. 1228 du Code civil, quels pouvoirs le juge détient-il en matière de résolution judiciaire ?",
+      "options": [
+        "Il peut constater, prononcer la résolution, ordonner l'exécution ou allouer des indemnités",
+        "Il ne peut que constater ou refuser la résolution, sans accorder de délai au débiteur",
+        "Il doit prononcer systématiquement la résolution dès qu'une inexécution est prouvée",
+        "Il peut seulement allouer des dommages-intérêts, la résolution relevant des parties"
+      ],
+      "answer": 0,
+      "explanation": "L'art. 1228 confère au juge des pouvoirs très larges : il peut, selon les circonstances, constater ou prononcer la résolution, ordonner l'exécution du contrat en accordant un délai au débiteur, ou n'allouer que des dommages-intérêts, la résolution étant conçue comme une sanction ultime.",
+      "tags": [
+        "resolution-judiciaire",
+        "art-1228"
+      ]
+    },
+    {
+      "id": "asanct-qcm-006",
+      "question": "Comment définir la responsabilité contractuelle par rapport à la responsabilité délictuelle ?",
+      "options": [
+        "Elle s'applique dès qu'un dommage survient, qu'un contrat existe ou non entre elles",
+        "Elle répare le préjudice né de l'inexécution d'une obligation liant les parties",
+        "Elle permet à la victime de choisir le régime le plus favorable à son indemnisation",
+        "Elle se cumule toujours avec la responsabilité délictuelle pour un même fait dommageable"
+      ],
+      "answer": 1,
+      "explanation": "La responsabilité contractuelle suppose l'existence d'un contrat entre le responsable et la victime. Le principe du non-cumul interdit d'appliquer les règles délictuelles lorsque le préjudice résulte de l'inexécution d'une obligation contractuelle : la victime ne peut pas choisir son terrain.",
+      "tags": [
+        "responsabilite-contractuelle",
+        "non-cumul"
+      ]
+    },
+    {
+      "id": "asanct-qcm-007",
+      "question": "Pour une obligation de résultat, comment se répartit la charge de la preuve en cas d'inexécution ?",
+      "options": [
+        "Le créancier doit prouver une faute précise commise par le débiteur dans son exécution",
+        "Aucune preuve n'est requise, la responsabilité du débiteur étant automatiquement écartée",
+        "La simple inexécution suffit à engager la responsabilité, la faute étant présumée",
+        "Le débiteur doit prouver sa bonne foi pour échapper à toute présomption de responsabilité"
+      ],
+      "answer": 2,
+      "explanation": "Pour une obligation de résultat, la simple inexécution suffit : la faute est irréfragablement présumée, et la preuve de l'absence de faute est sans effet. Seule la preuve d'une cause étrangère permet au débiteur de s'exonérer, à la différence de l'obligation de moyens.",
+      "tags": [
+        "obligation-resultat",
+        "charge-preuve"
+      ]
+    },
+    {
+      "id": "asanct-qcm-008",
+      "question": "Comment la jurisprudence caractérise-t-elle la faute dolosive du débiteur contractuel ?",
+      "options": [
+        "Elle exige la preuve d'une intention de nuire dirigée spécifiquement contre le créancier",
+        "Elle se confond entièrement avec la simple négligence dans l'exécution du contrat",
+        "Elle ne peut être retenue que si le débiteur a commis une infraction pénale caractérisée",
+        "Elle consiste en l'inexécution volontaire des obligations, sans intention de nuire requise"
+      ],
+      "answer": 3,
+      "explanation": "Selon la jurisprudence (Civ. 1re, 4 févr. 1969), la faute dolosive consiste dans l'inexécution volontaire des obligations, sans qu'il soit nécessaire de prouver une intention de nuire : c'est le refus délibéré d'exécuter, la trahison consciente de l'engagement pris, qui est sanctionné.",
+      "tags": [
+        "faute-dolosive"
+      ]
+    },
+    {
+      "id": "asanct-qcm-009",
+      "question": "Depuis l'arrêt de chambre mixte du 22 avril 2005, comment la faute lourde est-elle appréciée ?",
+      "options": [
+        "Elle se mesure à sa propre gravité, indépendamment de l'importance de l'obligation violée",
+        "Elle se mesure à l'importance de l'obligation contractuelle qui a été violée",
+        "Elle est présumée dès lors que l'obligation inexécutée était qualifiée d'essentielle",
+        "Elle ne peut plus être retenue en matière de responsabilité contractuelle depuis 2005"
+      ],
+      "answer": 0,
+      "explanation": "L'arrêt de chambre mixte du 22 avril 2005 a rétabli la conception classique après une dérive de la première chambre civile : la faute lourde, d'une exceptionnelle gravité et équipollente au dol, se mesure à sa gravité propre, non à l'importance de l'obligation violée.",
+      "tags": [
+        "faute-lourde"
+      ]
+    },
+    {
+      "id": "asanct-qcm-010",
+      "question": "Quels sont les trois caractères exigés d'un événement pour constituer une force majeure exonératoire ?",
+      "options": [
+        "Il doit être soudain, coûteux et indépendant de toute clause contractuelle applicable",
+        "Il doit être irrésistible, imprévisible et extérieur au débiteur qui l'invoque",
+        "Il doit être reconnu par une décision administrative préalable à l'inexécution",
+        "Il doit résulter exclusivement d'un événement naturel et non d'un fait humain"
+      ],
+      "answer": 1,
+      "explanation": "La force majeure exige un événement irrésistible, imprévisible et extérieur. Le vice de la chose utilisée par le débiteur et le fait d'un préposé ne sont jamais considérés comme extérieurs à sa sphère d'activité : il en répond comme de son fait propre.",
+      "tags": [
+        "force-majeure",
+        "cause-etrangere"
+      ]
+    },
+    {
+      "id": "asanct-qcm-011",
+      "question": "Qu'est-ce que l'indemnité d'immobilisation versée dans une promesse unilatérale de vente ?",
+      "options": [
+        "Une amende contractuelle punissant le bénéficiaire qui refuse de lever l'option prévue",
+        "Une avance sur le prix de vente restituée intégralement si l'option n'est pas levée",
+        "La contrepartie financière du sacrifice économique subi par le promettant durant l'option",
+        "Une garantie bancaire exigée du promettant pour sécuriser l'engagement du bénéficiaire"
+      ],
+      "answer": 2,
+      "explanation": "Le promettant réserve son bien pendant tout le délai d'option, renonçant à le vendre ailleurs. L'indemnité d'immobilisation est la contrepartie financière de ce sacrifice : elle s'impute sur le prix si l'option est levée, ou reste acquise au promettant dans le cas contraire.",
+      "tags": [
+        "indemnite-immobilisation",
+        "promesse-unilaterale"
+      ]
+    },
+    {
+      "id": "asanct-qcm-012",
+      "question": "En quoi consiste la faculté de dédit stipulée dans une promesse synallagmatique de vente ?",
+      "options": [
+        "Elle oblige les deux parties à exécuter la vente sans possibilité de rétractation",
+        "Elle permet au seul vendeur de renoncer à la vente sans verser aucune indemnité",
+        "Elle sanctionne pénalement la partie qui refuse d'exécuter le contrat déjà formé",
+        "Elle transforme une obligation ferme en option payante moyennant versement d'une somme"
+      ],
+      "answer": 3,
+      "explanation": "Dans une promesse synallagmatique, les parties sont normalement déjà engagées. La faculté de dédit leur permet de se rétracter moyennant le versement d'une somme (le dédit) : elle transforme l'obligation ferme en une option payante, sans que l'autre partie puisse exiger l'exécution forcée.",
+      "tags": [
+        "faculte-dedit",
+        "promesse-synallagmatique"
+      ]
+    }
+  ]
+}
