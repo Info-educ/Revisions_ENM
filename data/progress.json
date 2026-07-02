@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1782915782226,
+  "updatedAt": 1783002517408,
   "themes": {
     "civil": {
       "items": {
@@ -1186,6 +1186,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1782915778219
+        },
+        "sanctions-execution-qcm-001": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1783002513401
         }
       }
     },
