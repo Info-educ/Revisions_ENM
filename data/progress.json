@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1783004075899,
+  "updatedAt": 1783004091032,
   "themes": {
     "civil": {
       "items": {
@@ -1522,6 +1522,13 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1783004071890
+        },
+        "effets-tiers-qcm-004": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1783004087020
         }
       }
     },
