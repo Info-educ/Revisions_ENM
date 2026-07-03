@@ -1,0 +1,273 @@
+{
+  "id": "resp-civile-delictuelle",
+  "title": "La responsabilité civile délictuelle : nature, faute et fait des choses",
+  "category": "Droit civil — Responsabilité civile",
+  "flashcards": [
+    {
+      "id": "respciv-fc-001",
+      "front": "Quelle est la fonction dominante de la responsabilité civile, par opposition à la responsabilité pénale ?",
+      "back": "Indemniser la victime : ce rôle réparateur est l'impératif dominant de la responsabilité civile, les fonctions de sanction et de prévention n'y sont que secondaires (à l'inverse de la responsabilité pénale, qui vise à punir l'auteur de l'infraction).",
+      "tags": [
+        "responsabilité civile",
+        "fonction indemnitaire"
+      ]
+    },
+    {
+      "id": "respciv-fc-002",
+      "front": "Qu'exprime le principe du non-cumul des responsabilités contractuelle et délictuelle (Civ. 11 janv. 1922) ?",
+      "back": "Le régime applicable (contractuel s'il existe un contrat, délictuel à défaut) s'impose objectivement aux parties : la victime ne peut pas choisir librement le régime qui lui est le plus favorable.",
+      "tags": [
+        "non-cumul",
+        "responsabilité contractuelle"
+      ]
+    },
+    {
+      "id": "respciv-fc-003",
+      "front": "Depuis quel arrêt la faute délictuelle de l'enfant sans discernement (infans) est-elle retenue sans vérifier son discernement ?",
+      "back": "Depuis l'arrêt d'assemblée plénière du 9 mai 1984 (Derguini et Lemaire), qui a définitivement objectivé la notion de faute : ni la gravité, ni l'intention, ni le discernement de son auteur ne sont plus exigés.",
+      "tags": [
+        "faute objective",
+        "infans"
+      ]
+    },
+    {
+      "id": "respciv-fc-004",
+      "front": "Quelles sont les trois conditions cumulatives que doit réunir un événement pour constituer une force majeure exonératoire (Ass. plén. 14 avr. 2006) ?",
+      "back": "L'événement doit être imprévisible, irrésistible et extérieur au responsable (ou à la chose, en matière de fait des choses) ; ces trois caractères s'apprécient au jour du fait dommageable.",
+      "tags": [
+        "force majeure",
+        "exonération"
+      ]
+    },
+    {
+      "id": "respciv-fc-005",
+      "front": "Que prévoit l'article 1242 alinéa 1er du Code civil (ex-art. 1384 al. 1er) concernant le fait des choses ?",
+      "back": "Il pose une responsabilité objective, sans faute : le gardien répond des dommages causés par la chose qu'il a sous sa garde, sans que la victime ait à prouver une faute, et sans que le gardien puisse s'exonérer en prouvant son absence de faute.",
+      "tags": [
+        "fait des choses",
+        "article 1242"
+      ]
+    },
+    {
+      "id": "respciv-fc-006",
+      "front": "Quels sont les trois pouvoirs qui définissent matériellement la garde d'une chose selon l'arrêt Franck (Ch. réunies, 2 déc. 1941) ?",
+      "back": "L'usage, le contrôle et la direction de la chose : est gardien celui qui exerce effectivement ces trois pouvoirs au moment du dommage ; le propriétaire est présumé gardien, mais cette présomption est simple et peut être renversée.",
+      "tags": [
+        "garde",
+        "arrêt Franck"
+      ]
+    },
+    {
+      "id": "respciv-fc-007",
+      "front": "Quelles choses sont exclues du régime général de l'article 1242 alinéa 1er du Code civil et relèvent d'un régime spécial ?",
+      "back": "Les animaux (art. 1243), les bâtiments en ruine (art. 1244), les véhicules terrestres à moteur (loi Badinter de 1985) et les produits défectueux (art. 1245 et s.) ; le corps humain n'est quant à lui pas une chose et relève de la responsabilité pour faute.",
+      "tags": [
+        "specialia generalibus",
+        "exclusions"
+      ]
+    },
+    {
+      "id": "respciv-fc-008",
+      "front": "Depuis quel arrêt l'acceptation des risques est-elle exclue comme cause d'exonération dans le régime du fait des choses ?",
+      "back": "Depuis l'arrêt Civ. 2e du 4 novembre 2010 : l'acceptation des risques n'exonère plus le gardien d'une chose et ne subsiste, de façon résiduelle, qu'en matière de responsabilité pour faute dans le domaine sportif.",
+      "tags": [
+        "acceptation des risques",
+        "fait des choses"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "respciv-qcm-001",
+      "question": "Lorsqu'une victime agit devant le juge pénal alors qu'un contrat existait entre elle et l'auteur du dommage, quel régime le juge pénal applique-t-il ?",
+      "options": [
+        "Le régime délictuel s'applique systématiquement, quelle que soit l'existence d'un contrat",
+        "Le régime contractuel s'impose dès lors qu'un contrat liait les parties concernées",
+        "Le juge laisse la victime choisir librement entre le régime contractuel et délictuel",
+        "Le régime applicable dépend uniquement de la gravité du dommage corporel subi"
+      ],
+      "answer": 0,
+      "explanation": "Le juge pénal applique toujours les règles délictuelles, même en présence d'un contrat entre les parties (Crim. 15 juin 1923) : c'est une exception au principe du non-cumul, qui ne joue qu'entre parties à un contrat devant le juge civil.",
+      "tags": [
+        "non-cumul",
+        "juge pénal"
+      ]
+    },
+    {
+      "id": "respciv-qcm-002",
+      "question": "Un juge a retenu à tort le fondement délictuel alors que le litige relevait du régime contractuel, mais le résultat pratique de la solution reste identique. Cette erreur de qualification est-elle censurée ?",
+      "options": [
+        "Oui, systématiquement, car le non-cumul est une règle d'ordre public absolu",
+        "Non, cette erreur de qualification n'est pas censurée dans cette hypothèse précise",
+        "Oui, mais uniquement lorsque le dommage en cause présente un caractère corporel avéré",
+        "Non, mais seulement lorsque les deux parties au litige acceptent d'y renoncer ensemble"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 1re, 4 janv. 1995, une erreur de qualification entre régime contractuel et délictuel n'est pas censurée dès lors qu'elle aboutit au même résultat pratique pour les parties au litige.",
+      "tags": [
+        "non-cumul",
+        "qualification"
+      ]
+    },
+    {
+      "id": "respciv-qcm-003",
+      "question": "Depuis la loi du 3 janvier 1968 (codifiée à l'article 414-3 du Code civil), une personne atteinte d'un trouble mental au moment des faits peut-elle voir sa responsabilité civile engagée ?",
+      "options": [
+        "Non, l'absence totale de discernement empêche toujours de retenir une faute civile",
+        "Oui, mais seulement si ce trouble a été diagnostiqué médicalement avant les faits",
+        "Oui, sa responsabilité peut être engagée malgré l'absence de discernement aux faits",
+        "Non, seule sa famille proche peut être tenue responsable des dommages qu'elle a causés"
+      ],
+      "answer": 2,
+      "explanation": "L'article 414-3 du Code civil, issu de la loi du 3 janv. 1968, permet d'engager la responsabilité d'une personne sous l'empire d'un trouble mental : la faute est objective et ne suppose plus l'imputabilité de son auteur.",
+      "tags": [
+        "trouble mental",
+        "faute objective"
+      ]
+    },
+    {
+      "id": "respciv-qcm-004",
+      "question": "La faute d'un enfant sans discernement étant désormais retenue, contre qui la victime peut-elle choisir d'agir en réparation, sur le fondement de l'article 1242 alinéa 4 du Code civil ?",
+      "options": [
+        "Uniquement contre l'enfant, seul responsable du dommage qu'il a personnellement causé",
+        "Contre l'établissement scolaire, seul responsable pendant tout le temps de la surveillance",
+        "Contre aucune personne tant que l'enfant n'a pas encore atteint l'âge de raison légal",
+        "Contre les parents de l'enfant, dont le régime de responsabilité lui est plus favorable"
+      ],
+      "answer": 3,
+      "explanation": "La victime peut agir contre l'infans, souvent insolvable, ou contre ses parents sur le fondement de la responsabilité du fait d'autrui (art. 1242 al. 4 C. civ.), régime plus protecteur car les parents répondent de plein droit des dommages causés par leur enfant mineur.",
+      "tags": [
+        "infans",
+        "responsabilité des parents"
+      ]
+    },
+    {
+      "id": "respciv-qcm-005",
+      "question": "Lorsque la victime a commis une faute simple qui ne présente pas les caractères de la force majeure, quel est l'effet de cette faute sur la réparation de son préjudice ?",
+      "options": [
+        "Un partage proportionnel de responsabilité, apprécié par le juge selon les fautes en cause",
+        "Une exonération totale du responsable, la simple faute suffisant à elle seule pour cela",
+        "Aucun effet : seule une faute avec les caractères de la force majeure compte réellement",
+        "Une inversion complète de la charge de la preuve au seul profit du responsable poursuivi"
+      ],
+      "answer": 0,
+      "explanation": "Une faute simple de la victime, ne présentant pas les caractères de la force majeure, n'entraîne qu'un partage proportionnel de responsabilité, apprécié par le juge selon la gravité comparée des fautes en présence, contrairement à la faute présentant les caractères de la force majeure qui exonère totalement.",
+      "tags": [
+        "faute de la victime",
+        "partage de responsabilité"
+      ]
+    },
+    {
+      "id": "respciv-qcm-006",
+      "question": "Une victime a expressément consenti à une atteinte à son intégrité physique. Ce consentement, au regard de l'indisponibilité du corps humain, neutralise-t-il l'illicéité du dommage corporel subi ?",
+      "options": [
+        "Oui, le consentement de la victime neutralise toujours l'illicéité du dommage corporel",
+        "Non, le consentement de la victime demeure sans effet sur le dommage corporel subi",
+        "Oui, mais seulement si ce consentement a été donné par écrit avant la survenance des faits",
+        "Non, sauf lorsque la victime est elle-même une professionnelle de santé qualifiée"
+      ],
+      "answer": 1,
+      "explanation": "Le corps humain étant indisponible, le consentement de la victime est sans effet sur le dommage corporel qu'elle subit : ce fait justificatif ne neutralise l'illicéité que pour les atteintes aux biens, jamais pour les atteintes corporelles.",
+      "tags": [
+        "consentement de la victime",
+        "indisponibilité du corps"
+      ]
+    },
+    {
+      "id": "respciv-qcm-007",
+      "question": "Une chose en mouvement est entrée en contact avec la victime au moment du dommage. Comment se répartit alors la charge de la preuve du rôle causal de la chose ?",
+      "options": [
+        "La victime doit elle-même prouver que la chose a joué un rôle actif et anormal ici",
+        "Aucune présomption ne joue et le juge doit obligatoirement désigner un expert judiciaire",
+        "Une présomption simple de rôle causal joue, renversable par la preuve d'un rôle passif",
+        "Le rôle causal de la chose est présumé de façon irréfragable, sans preuve contraire admise"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 2e, 29 mars 2001, lorsque la chose en mouvement est entrée en contact avec la victime, une présomption simple de rôle causal s'applique ; le gardien peut la renverser en prouvant que la chose a joué un rôle purement passif.",
+      "tags": [
+        "fait de la chose",
+        "présomption de causalité"
+      ]
+    },
+    {
+      "id": "respciv-qcm-008",
+      "question": "Une chose inerte n'ayant pas été en contact direct avec la victime est mise en cause dans la survenance du dommage. Que doit alors démontrer la victime pour engager la responsabilité du gardien ?",
+      "options": [
+        "Que le gardien connaissait personnellement l'existence d'un défaut affectant cette chose",
+        "Rien du tout, la présomption de rôle causal joue automatiquement pour toute chose inerte",
+        "Que la chose lui appartenait en propre au moment précis de la survenance du dommage",
+        "Que la chose présentait une position ou un comportement anormal ayant causé le dommage"
+      ],
+      "answer": 3,
+      "explanation": "Pour une chose inerte n'ayant pas été en contact avec la victime, celle-ci doit prouver l'anormalité de la position ou du comportement de la chose (Civ. 2e, 24 fév. 2005), la simple présence de la chose sur les lieux étant insuffisante.",
+      "tags": [
+        "chose inerte",
+        "anormalité"
+      ]
+    },
+    {
+      "id": "respciv-qcm-009",
+      "question": "Un véhicule est volé par une personne qui cause ensuite un dommage avec ce véhicule. Sur qui pèse la garde de la chose au moment du dommage, selon l'arrêt Franck ?",
+      "options": [
+        "Sur le voleur, détenteur illicite du véhicule au moment de la survenance du dommage causé",
+        "Sur le propriétaire du véhicule, qui reste gardien tant qu'il n'a pas déclaré le vol",
+        "Sur l'assureur du véhicule, seul débiteur de l'indemnisation en cas de vol constaté",
+        "Sur aucune personne identifiable, le véhicule volé devenant alors une chose sans gardien"
+      ],
+      "answer": 0,
+      "explanation": "L'arrêt Franck lui-même a jugé qu'en cas de transfert involontaire de la garde, comme le vol, la garde est transférée au voleur : le propriétaire dépossédé contre son gré n'est plus gardien de la chose au moment du dommage.",
+      "tags": [
+        "transfert de garde",
+        "arrêt Franck"
+      ]
+    },
+    {
+      "id": "respciv-qcm-010",
+      "question": "Plusieurs coéquipiers exercent conjointement les pouvoirs d'usage, de contrôle et de direction sur une même chose (garde commune). L'un d'eux peut-il agir en tant que victime contre les autres cogardiens ?",
+      "options": [
+        "Oui, chaque cogardien reste libre d'agir contre les autres comme n'importe quelle victime",
+        "Non, la qualité de cogardien est incompatible avec celle de victime pour cette même chose",
+        "Oui, mais seulement si son propre pouvoir de direction était objectivement plus limité",
+        "Non, sauf décision expresse et unanime prise par l'ensemble des cogardiens concernés"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 2e, 8 mars 1995, en cas de garde commune (par exemple entre coéquipiers), la qualité de cogardien est incompatible avec celle de victime : un cogardien ne peut pas agir contre les autres cogardiens de la même chose.",
+      "tags": [
+        "garde commune",
+        "cogardiens"
+      ]
+    },
+    {
+      "id": "respciv-qcm-011",
+      "question": "Un dommage trouve son origine dans le défaut de sécurité d'un produit mis en circulation par son producteur. Quel régime de responsabilité s'applique alors à l'exclusion du droit commun du fait des choses ?",
+      "options": [
+        "Le régime de droit commun du fait des choses demeure seul applicable en toute circonstance",
+        "Le régime des bâtiments en ruine, appliqué par analogie avec les produits industriels",
+        "Le régime spécial des produits défectueux, exclusif dès lors que ce défaut en est cause",
+        "La victime choisit librement entre le régime spécial et le droit commun du fait des choses"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 1re, 11 juill. 2018 (application de la jurisprudence de la CJUE), le régime des produits défectueux est exclusif dès lors que le fondement invoqué est le défaut de sécurité du produit : le droit commun du fait des choses ne peut plus être invoqué concurremment.",
+      "tags": [
+        "produits défectueux",
+        "régime exclusif"
+      ]
+    },
+    {
+      "id": "respciv-qcm-012",
+      "question": "Un immeuble ancien s'effondre en raison d'un défaut d'entretien et blesse un passant. Qui répond de ce dommage au titre du régime spécial des bâtiments en ruine, et comment peut-il s'exonérer ?",
+      "options": [
+        "Le locataire de l'immeuble, exonéré par la seule preuve de son absence de faute prouvée",
+        "L'entrepreneur ayant construit l'immeuble, exonéré par la preuve d'un défaut d'entretien",
+        "Le voisin le plus proche du bâtiment, exonéré par la preuve de la force majeure uniquement",
+        "Le propriétaire seul, qui ne peut s'exonérer que par la preuve d'une cause étrangère"
+      ],
+      "answer": 3,
+      "explanation": "Le régime spécial des bâtiments en ruine (art. 1244 C. civ.) désigne le propriétaire comme seul responsable ; celui-ci ne peut s'exonérer que par la preuve d'une cause étrangère, la simple absence de faute étant insuffisante — il conserve toutefois un recours possible contre le locataire ou le constructeur.",
+      "tags": [
+        "bâtiments en ruine",
+        "exonération"
+      ]
+    }
+  ]
+}

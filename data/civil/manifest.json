@@ -173,6 +173,12 @@
       "file": "autres-sanctions-inexecution.json",
       "title": "L'inexécution du contrat : les autres sanctions (résolution et responsabilité contractuelle)",
       "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "resp-civile-delictuelle",
+      "file": "resp-civile-delictuelle.json",
+      "title": "La responsabilité civile délictuelle : nature, faute et fait des choses",
+      "category": "Droit civil — Responsabilité civile"
     }
   ]
 }
