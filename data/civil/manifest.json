@@ -179,6 +179,12 @@
       "file": "resp-civile-delictuelle.json",
       "title": "La responsabilité civile délictuelle : nature, faute et fait des choses",
       "category": "Droit civil — Responsabilité civile"
+    },
+    {
+      "id": "resp-fait-autrui",
+      "file": "resp-fait-autrui.json",
+      "title": "La responsabilité du fait d'autrui : parents, commettants, instituteurs et principe général",
+      "category": "Droit civil — Responsabilité civile"
     }
   ]
 }

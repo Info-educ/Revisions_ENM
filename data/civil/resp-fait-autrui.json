@@ -1,0 +1,164 @@
+{
+  "id": "resp-fait-autrui",
+  "title": "La responsabilité du fait d'autrui : parents, commettants, instituteurs et principe général",
+  "category": "Droit civil — Responsabilité civile",
+  "flashcards": [
+    {
+      "id": "respaut-fc-001",
+      "front": "Depuis quel arrêt la responsabilité des parents du fait de leurs enfants mineurs est-elle devenue une responsabilité sans faute ?",
+      "back": "Depuis l'arrêt Bertrand (Civ. 2e, 19 févr. 1997) : la présomption pesant sur les parents est devenue irréfragable, si bien qu'ils ne peuvent plus s'exonérer en prouvant leur absence de faute, mais seulement par la preuve d'une cause étrangère.",
+      "tags": [
+        "responsabilité des parents",
+        "arrêt Bertrand"
+      ]
+    },
+    {
+      "id": "respaut-fc-002",
+      "front": "Quelles sont les trois conditions cumulatives de la responsabilité du commettant du fait de son préposé (art. 1242 al. 5 C.civ.) ?",
+      "back": "Un rapport de préposition (lien de subordination entre commettant et préposé), un fait dommageable du préposé, et un lien entre ce dommage et les fonctions exercées, l'acte ayant été commis dans le cadre ou à l'occasion de celles-ci.",
+      "tags": [
+        "commettant",
+        "préposé"
+      ]
+    },
+    {
+      "id": "respaut-fc-003",
+      "front": "Quel arrêt a consacré le principe général de responsabilité du fait d'autrui, et quel en est le critère central ?",
+      "back": "L'arrêt Blieck (Ass. plén. 29 mars 1991) : est responsable la personne chargée d'organiser et de contrôler, à titre permanent, le mode de vie d'autrui ; ce principe général reste un droit résiduel, cédant devant les régimes spéciaux (parents, commettants, instituteurs).",
+      "tags": [
+        "arrêt Blieck",
+        "principe général"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "respaut-qcm-001",
+      "question": "Depuis l'arrêt d'assemblée plénière du 28 juin 2024, comment la condition de cohabitation est-elle désormais entendue pour deux parents divorcés exerçant conjointement l'autorité parentale ?",
+      "options": [
+        "Les deux parents restent cohabitants tant qu'ils exercent l'autorité parentale ensemble",
+        "La cohabitation se limite désormais au seul parent chez qui l'enfant réside habituellement",
+        "Aucun des deux parents n'est plus considéré comme cohabitant après le divorce prononcé",
+        "La cohabitation dépend uniquement du lieu de résidence fiscale déclaré par chaque parent"
+      ],
+      "answer": 0,
+      "explanation": "L'assemblée plénière du 28 juin 2024 abandonne le critère géographique de la résidence habituelle : la cohabitation s'entend désormais comme l'exercice de l'autorité parentale, si bien que les deux parents divorcés restent cohabitants même si l'enfant réside chez l'un d'eux.",
+      "tags": [
+        "cohabitation",
+        "parents divorcés"
+      ]
+    },
+    {
+      "id": "respaut-qcm-002",
+      "question": "Une victime souhaite engager la responsabilité des parents pour un dommage causé par leur enfant mineur. Doit-elle prouver une faute commise par cet enfant lui-même ?",
+      "options": [
+        "Oui, la victime doit toujours démontrer une faute intentionnelle commise par l'enfant",
+        "Non, un simple fait causal de l'enfant suffit, sans qu'aucune faute soit exigée de lui",
+        "Oui, mais seulement une faute légère suffit, sans exigence de gravité particulière",
+        "Non, mais elle doit alors prouver la faute de surveillance commise par les parents"
+      ],
+      "answer": 1,
+      "explanation": "Depuis Fullenwarth (Ass. plén. 9 mai 1984), confirmé par Levert (Ass. plén. 13 déc. 2002), un simple fait causal de l'enfant suffit à engager la responsabilité des parents, sans que la victime ait à établir une faute de sa part.",
+      "tags": [
+        "fait causal",
+        "arrêt Fullenwarth"
+      ]
+    },
+    {
+      "id": "respaut-qcm-003",
+      "question": "Un préposé cause un dommage à un tiers alors qu'il agissait dans les limites de sa mission confiée par son commettant. La victime peut-elle agir directement contre ce préposé personnellement ?",
+      "options": [
+        "Oui, la victime peut choisir librement d'agir contre le préposé ou contre le commettant",
+        "Oui, mais seulement si le commettant est insolvable au moment de l'action engagée",
+        "Non, il bénéficie d'une immunité civile, seul le commettant répond envers la victime",
+        "Non, sauf accord exprès du commettant autorisant une action directe contre le préposé"
+      ],
+      "answer": 2,
+      "explanation": "Selon l'arrêt Costedoat (Ass. plén. 25 févr. 2000), le préposé agissant dans les limites de sa mission bénéficie d'une immunité civile : la victime ne peut agir que contre le commettant, sauf faute intentionnelle du préposé ou infraction pénale intentionnelle.",
+      "tags": [
+        "immunité du préposé",
+        "arrêt Costedoat"
+      ]
+    },
+    {
+      "id": "respaut-qcm-004",
+      "question": "Quelles conditions cumulatives permettent de caractériser un abus de fonctions du préposé, excluant alors la responsabilité de son commettant ?",
+      "options": [
+        "Seule l'absence d'autorisation du commettant suffit à caractériser cet abus de fonctions",
+        "Le seul dommage causé à un tiers extérieur à l'entreprise suffit à établir cet abus",
+        "La simple maladresse du préposé dans l'exercice normal de ses fonctions habituelles",
+        "Fins étrangères aux attributions, absence d'autorisation et acte hors des fonctions"
+      ],
+      "answer": 3,
+      "explanation": "Selon Ass. plén. 19 mai 1988, l'abus de fonctions suppose la réunion de trois conditions cumulatives : le préposé a agi à des fins étrangères à ses attributions, sans autorisation et hors de ses fonctions ; ces trois conditions sont difficiles à réunir en pratique.",
+      "tags": [
+        "abus de fonctions",
+        "commettant"
+      ]
+    },
+    {
+      "id": "respaut-qcm-005",
+      "question": "Un élève de l'enseignement public est victime d'un dommage causé par la négligence de surveillance d'un instituteur. Contre qui la victime doit-elle diriger son action en réparation ?",
+      "options": [
+        "Contre l'État, qui se substitue à l'instituteur en tant qu'agent du service public",
+        "Contre l'instituteur personnellement, seul responsable de sa propre négligence",
+        "Contre l'établissement scolaire uniquement, jamais contre l'État qui s'y substitue",
+        "Contre les parents de l'élève fautif, coresponsables du défaut de surveillance"
+      ],
+      "answer": 0,
+      "explanation": "L'instituteur étant un agent public, l'État se substitue à lui : la victime doit agir contre l'État devant le tribunal judiciaire, dans un délai de trois ans, sans pouvoir poursuivre directement l'enseignant, qui reste toutefois exposé à un recours de l'État.",
+      "tags": [
+        "instituteur",
+        "substitution de l'État"
+      ]
+    },
+    {
+      "id": "respaut-qcm-006",
+      "question": "Un élève d'un établissement scolaire privé subit un dommage causé par la négligence de surveillance d'un enseignant. Sur quel fondement la responsabilité est-elle alors engagée ?",
+      "options": [
+        "Sur le même fondement que l'enseignement public, par substitution automatique de l'État",
+        "Sur le fondement du rapport de préposition, l'État ne se substituant pas à l'enseignant",
+        "Sur le fondement de la responsabilité parentale, les parents restant seuls responsables",
+        "Sur aucun fondement, les établissements privés bénéficiant d'une immunité totale"
+      ],
+      "answer": 1,
+      "explanation": "L'État ne se substituant pas aux enseignants du privé, la responsabilité de l'instituteur ou de l'école privée est engagée sur le fondement du rapport de préposition (régime du commettant), et non sur celui, spécifique, applicable à l'enseignement public.",
+      "tags": [
+        "école privée",
+        "rapport de préposition"
+      ]
+    },
+    {
+      "id": "respaut-qcm-007",
+      "question": "Un club sportif peut-il voir sa responsabilité engagée pour le dommage causé par l'un de ses membres lors d'une compétition, en l'absence de toute faute personnelle du club ?",
+      "options": [
+        "Non, la responsabilité du club suppose toujours une faute personnelle de sa part",
+        "Oui, dès lors qu'un dommage est causé, quelle que soit la cause de sa survenance",
+        "Oui, mais seulement si une violation d'une règle du jeu imputable à l'auteur est établie",
+        "Non, seule la responsabilité personnelle du membre auteur du dommage peut être engagée"
+      ],
+      "answer": 2,
+      "explanation": "Depuis le revirement de l'Ass. plén. du 29 juin 2007, le club sportif répond sans faute personnelle du dommage causé par ses membres lors des compétitions, à condition qu'une violation d'une règle du jeu imputable à l'auteur du fait soit caractérisée.",
+      "tags": [
+        "associations sportives",
+        "principe général"
+      ]
+    },
+    {
+      "id": "respaut-qcm-008",
+      "question": "Des parents confient ponctuellement leur enfant à des amis pour une soirée. Ces amis peuvent-ils être considérés comme responsables du fait d'autrui sur le fondement du principe général ?",
+      "options": [
+        "Oui, toute personne surveillant temporairement un enfant en devient responsable",
+        "Oui, mais uniquement si l'enfant confié a moins de sept ans au moment des faits",
+        "Non, car seuls les établissements publics peuvent engager leur responsabilité à ce titre",
+        "Non, une garde ponctuelle ne suffit pas, un contrôle permanent du mode de vie étant exigé"
+      ],
+      "answer": 3,
+      "explanation": "Selon Civ. 2e, 6 juin 2002, le principe général du fait d'autrui exige un contrôle permanent du mode de vie de la personne ; une garde bénévole et ponctuelle, comme celle d'un enfant confié pour une soirée, est insuffisante pour engager la responsabilité des gardiens occasionnels.",
+      "tags": [
+        "gardiens bénévoles",
+        "contrôle permanent"
+      ]
+    }
+  ]
+}
