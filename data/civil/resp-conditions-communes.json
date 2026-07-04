@@ -1,0 +1,213 @@
+{
+  "id": "resp-conditions-communes",
+  "title": "Les conditions communes à toute responsabilité civile : le préjudice et le lien de causalité",
+  "category": "Droit civil — Responsabilité civile",
+  "flashcards": [
+    {
+      "id": "respcom-fc-001",
+      "front": "Quels sont les quatre caractères cumulatifs que doit présenter un préjudice pour être réparable ?",
+      "back": "Le préjudice doit être personnel (subi par le demandeur lui-même), certain (non purement éventuel), direct (résultant du fait dommageable) et légitime (non contraire à l'ordre public ou aux bonnes mœurs).",
+      "tags": [
+        "préjudice réparable",
+        "caractères cumulatifs"
+      ]
+    },
+    {
+      "id": "respcom-fc-002",
+      "front": "Quel est le délai de prescription de principe de l'action en responsabilité civile, et quelles en sont les deux principales exceptions ?",
+      "back": "Le principe est de cinq ans à compter de la manifestation du dommage (art. 2224 C. civ.) ; les exceptions portent le délai à dix ans en cas de dommage corporel, y compris pour les atteintes purement psychiques, et à vingt ans pour les actes de torture, de barbarie et les violences sexuelles sur mineurs (art. 2226 C. civ.).",
+      "tags": [
+        "prescription",
+        "délais"
+      ]
+    },
+    {
+      "id": "respcom-fc-003",
+      "front": "Qu'est-ce que la perte de chance, et à quelle condition est-elle indemnisable ?",
+      "back": "C'est la disparition d'une éventualité favorable, réparable lorsque la chance perdue était réelle et sérieuse ; l'indemnisation porte alors sur la chance perdue elle-même, et non sur l'intégralité du gain final espéré, qui reste par nature incertain.",
+      "tags": [
+        "perte de chance",
+        "préjudice certain"
+      ]
+    },
+    {
+      "id": "respcom-fc-004",
+      "front": "Que signifie le principe de réparation intégrale du préjudice ?",
+      "back": "« Tout le préjudice, mais rien que le préjudice » : une équivalence parfaite doit exister entre le dommage subi et les dommages-intérêts alloués, à l'exclusion de tout dommage-intérêt punitif ; l'évaluation se fait au jour du jugement et la victime n'est pas tenue de minimiser son propre préjudice.",
+      "tags": [
+        "réparation intégrale"
+      ]
+    },
+    {
+      "id": "respcom-fc-005",
+      "front": "Qu'est-ce que l'obligation in solidum entre plusieurs coresponsables d'un même dommage ?",
+      "back": "Chaque coresponsable est tenu envers la victime pour la totalité de la dette, qui peut ainsi assigner l'un, l'autre, ou tous ; un recours en contribution s'exerce ensuite entre eux, réparti selon la gravité respective des fautes ou par parts viriles en l'absence de faute.",
+      "tags": [
+        "obligation in solidum",
+        "pluralité de responsables"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "respcom-qcm-001",
+      "question": "Un dommage corporel s'aggrave après le décès de la victime initiale. Ses héritiers agissent en réparation de cette aggravation, incluant une atteinte purement psychique. Quel délai de prescription leur est applicable ?",
+      "options": [
+        "Le délai décennal applicable au dommage corporel, y compris pour les atteintes psychiques",
+        "Le délai de droit commun de cinq ans, aucune exception ne jouant pour les héritiers",
+        "Le délai de vingt ans réservé aux actes de torture, de barbarie et de violences sexuelles",
+        "Aucun délai de prescription ne court contre les héritiers agissant après un décès"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 2e, 7 juill. 2022, le délai décennal applicable au dommage corporel s'étend aux atteintes purement psychiques, y compris lorsque l'aggravation ou le dommage se manifeste après le décès de la victime, les héritiers agissant alors dans ce même délai de dix ans.",
+      "tags": [
+        "prescription",
+        "dommage corporel"
+      ]
+    },
+    {
+      "id": "respcom-qcm-002",
+      "question": "Un créancier exerce l'action oblique de son débiteur négligent contre l'auteur d'un dommage causé à ce dernier. Quels préjudices peut-il ainsi réclamer en réparation ?",
+      "options": [
+        "L'ensemble des préjudices matériels, corporels et moraux subis par son débiteur",
+        "Uniquement les préjudices matériels, à l'exclusion des dommages corporels et moraux",
+        "Uniquement les préjudices moraux, à l'exclusion de tout préjudice matériel ou corporel",
+        "Aucun préjudice, l'action oblique étant réservée aux créances contractuelles impayées"
+      ],
+      "answer": 1,
+      "explanation": "Les créanciers exerçant l'action oblique ne peuvent réclamer que les préjudices matériels de leur débiteur ; les dommages corporels et moraux, attachés à la personne de la victime, sont exclus du champ de cette action.",
+      "tags": [
+        "action oblique",
+        "créanciers"
+      ]
+    },
+    {
+      "id": "respcom-qcm-003",
+      "question": "Depuis l'arrêt de chambre mixte du 27 février 1970, à quelle condition le concubin survivant peut-il obtenir réparation du préjudice consécutif au décès de son compagnon ?",
+      "options": [
+        "À la condition que le concubinage ait été déclaré auprès d'une autorité publique",
+        "À aucune condition particulière, tout concubinage ouvrant droit à réparation automatique",
+        "À la condition que la relation entre les concubins ait présenté un caractère de stabilité",
+        "À la condition que les concubins aient eu au moins un enfant commun avant le décès"
+      ],
+      "answer": 2,
+      "explanation": "L'arrêt de chambre mixte du 27 février 1970 a abandonné l'exigence d'un lien de droit entre concubins, l'indemnisation étant depuis subordonnée à la seule preuve d'une relation stable, quelle que soit sa forme (y compris adultérine ou homosexuelle).",
+      "tags": [
+        "préjudice du concubin",
+        "chambre mixte 1970"
+      ]
+    },
+    {
+      "id": "respcom-qcm-004",
+      "question": "Que prévoit la loi du 4 mars 2002, adoptée en réaction à l'arrêt Perruche, concernant l'indemnisation de l'enfant né handicapé du fait d'une faute médicale ?",
+      "options": [
+        "Elle consacre pleinement le droit de l'enfant à réparation intégrale de son handicap",
+        "Elle laisse aux juges du fond toute liberté d'apprécier l'indemnisation de l'enfant",
+        "Elle étend l'indemnisation de l'enfant aux préjudices patrimoniaux futurs uniquement",
+        "Elle interdit l'indemnisation de l'enfant et limite les parents à leur préjudice moral"
+      ],
+      "answer": 3,
+      "explanation": "La loi du 4 mars 2002 interdit à l'enfant de demander réparation du préjudice résultant de sa seule naissance et limite les parents à l'indemnisation de leur préjudice moral, sous condition d'une faute caractérisée du médecin ; la France a été condamnée par la CEDH pour cette loi.",
+      "tags": [
+        "loi du 4 mars 2002",
+        "arrêt Perruche"
+      ]
+    },
+    {
+      "id": "respcom-qcm-005",
+      "question": "Une pollution cause un préjudice écologique pur au sens de l'article 1247 du Code civil. Quelle forme de réparation le juge doit-il privilégier par priorité ?",
+      "options": [
+        "La réparation en nature, destinée à restaurer l'environnement endommagé lui-même",
+        "Le versement de dommages-intérêts directement au profit de la collectivité territoriale",
+        "Le versement de dommages-intérêts punitifs proportionnés à la gravité de la pollution",
+        "Aucune réparation n'est possible tant que l'atteinte n'est pas définitivement stabilisée"
+      ],
+      "answer": 0,
+      "explanation": "En matière de préjudice écologique, la réparation en nature est imposée par priorité ; ce n'est qu'en cas d'impossibilité que des dommages-intérêts sont alloués, affectés à la réparation de l'environnement et versés au demandeur ou, à défaut, à l'État.",
+      "tags": [
+        "préjudice écologique",
+        "réparation en nature"
+      ]
+    },
+    {
+      "id": "respcom-qcm-006",
+      "question": "Un salarié exposé à une substance nocive, sans avoir développé de pathologie, invoque un préjudice d'anxiété. Que doit-il démontrer depuis l'arrêt d'assemblée plénière du 5 avril 2019 ?",
+      "options": [
+        "Il doit uniquement démontrer avoir travaillé dans un établissement classé amiante",
+        "Il doit démontrer la réalité de son anxiété face à un risque élevé de pathologie grave",
+        "Il doit démontrer avoir déjà développé les premiers symptômes de la pathologie redoutée",
+        "Il n'a rien à démontrer, toute exposition ouvrant droit à réparation automatique"
+      ],
+      "answer": 1,
+      "explanation": "L'assemblée plénière du 5 avril 2019 a étendu le préjudice d'anxiété à tout salarié exposé à une substance nocive ou toxique, à condition de démontrer la réalité de son anxiété face à un risque élevé de développer une pathologie grave, sans plus exiger l'inscription sur une liste ACAATA.",
+      "tags": [
+        "préjudice d'anxiété",
+        "assemblée plénière"
+      ]
+    },
+    {
+      "id": "respcom-qcm-007",
+      "question": "Un enfant naît après le décès accidentel de son père, mais était déjà conçu au moment de ce décès. Peut-il obtenir réparation d'un préjudice d'affection lié à cette perte ?",
+      "options": [
+        "Non, seul un enfant déjà né au moment du décès peut invoquer un préjudice d'affection",
+        "Oui, mais seulement si sa mère renonce elle-même à toute indemnisation personnelle",
+        "Oui, la conception au moment du décès suffit à ouvrir droit à réparation de ce préjudice",
+        "Non, le préjudice d'affection suppose nécessairement une relation affective déjà vécue"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 2e, 14 déc. 2017, un enfant déjà conçu au moment du décès de son père peut obtenir réparation d'un préjudice d'affection, alors qu'un enfant non encore conçu à cette date en est exclu (Civ. 2e, 11 févr. 2021, a contrario).",
+      "tags": [
+        "victime par ricochet",
+        "préjudice d'affection"
+      ]
+    },
+    {
+      "id": "respcom-qcm-008",
+      "question": "Entre la théorie de la causalité adéquate et celle de l'équivalence des conditions, quelle tendance se dégage de la jurisprudence récente de la deuxième chambre civile ?",
+      "options": [
+        "Un attachement constant et exclusif à la théorie de la causalité adéquate depuis toujours",
+        "Un abandon total de toute théorie doctrinale au profit d'un contrôle exclusivement légal",
+        "Une consécration légale expresse et définitive de l'équivalence des conditions",
+        "Une approche pragmatique, avec une inclination récente vers l'équivalence des conditions"
+      ],
+      "answer": 3,
+      "explanation": "La Cour de cassation n'a jamais tranché formellement entre les deux théories doctrinales, faisant preuve de pragmatisme ; après une préférence traditionnelle pour la causalité adéquate, la deuxième chambre civile penche plus récemment vers l'équivalence des conditions.",
+      "tags": [
+        "lien de causalité",
+        "théories doctrinales"
+      ]
+    },
+    {
+      "id": "respcom-qcm-009",
+      "question": "Un dommage a été causé par un membre non identifié d'un groupe de fabricants d'un même médicament. Contre qui la victime peut-elle diriger son action en réparation ?",
+      "options": [
+        "Contre n'importe lequel des fabricants, à charge pour lui de prouver son absence de rôle",
+        "Contre l'ensemble des fabricants réunis, aucune action individuelle n'étant recevable",
+        "Contre aucun fabricant tant que l'auteur exact du dommage n'a pas été identifié",
+        "Contre le fabricant détenant la plus grande part de marché au moment des faits"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 1re, 24 sept. 2009, lorsque le dommage est causé par un membre non identifié d'un groupe, la victime peut agir contre n'importe lequel des fabricants, à charge pour celui-ci de prouver que son propre produit n'est pas à l'origine du dommage.",
+      "tags": [
+        "présomption de causalité",
+        "groupe non identifié"
+      ]
+    },
+    {
+      "id": "respcom-qcm-010",
+      "question": "Un cas de force majeure survient concomitamment à un fait dommageable imputable au défendeur. Quel est l'effet de cette force majeure sur le lien de causalité, depuis l'arrêt Lamoricière (1951) ?",
+      "options": [
+        "Elle ne rompt que partiellement le lien de causalité, proportionnellement à son incidence",
+        "Elle rompt totalement le lien de causalité, sans possibilité de causalité partielle",
+        "Elle est sans incidence sur le lien de causalité si le défendeur a commis une faute",
+        "Elle ne joue que si la victime elle-même a commis une faute concomitante au dommage"
+      ],
+      "answer": 1,
+      "explanation": "Depuis l'arrêt Lamoricière (Com. 19 juin 1951), la force majeure constitue une cause d'exonération totale : elle rompt intégralement le lien de causalité, la jurisprudence n'admettant aucune forme de causalité partielle en présence d'un tel événement.",
+      "tags": [
+        "force majeure",
+        "exonération totale"
+      ]
+    }
+  ]
+}

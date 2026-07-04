@@ -1,0 +1,132 @@
+{
+  "id": "modalites-obligation",
+  "title": "Les modalités de l'obligation : condition, terme et solidarité passive",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "modobl-fc-001",
+      "front": "Qu'est-ce qu'une condition, et quelle est la conséquence de sa défaillance sur une obligation soumise à une condition suspensive ?",
+      "back": "Un événement futur et incertain dont dépend l'existence même de l'obligation ; si la condition suspensive défaille, l'obligation est réputée n'avoir jamais existé (art. 1304-6, al. 3, C. civ.), ce qui entraîne la restitution des prestations déjà exécutées.",
+      "tags": [
+        "condition",
+        "défaillance"
+      ]
+    },
+    {
+      "id": "modobl-fc-002",
+      "front": "Qu'est-ce qu'un terme, et en quoi se distingue-t-il fondamentalement d'une condition ?",
+      "back": "Un événement futur et certain dont dépend l'exigibilité (terme suspensif) ou l'extinction (terme extinctif) de l'obligation ; à la différence de la condition, le terme n'affecte jamais l'existence de l'obligation, déjà née, mais seulement le moment de son exécution.",
+      "tags": [
+        "terme",
+        "distinction avec la condition"
+      ]
+    },
+    {
+      "id": "modobl-fc-003",
+      "front": "Qu'est-ce que la solidarité passive, et cette modalité se présume-t-elle entre plusieurs débiteurs ?",
+      "back": "Plusieurs débiteurs sont tenus d'une même dette, chacun pour le tout : le créancier peut réclamer l'intégralité à n'importe lequel d'entre eux, et le paiement par l'un libère tous les autres ; la solidarité passive ne se présume jamais (art. 1310 C. civ.), sauf en matière commerciale, et doit résulter d'une clause expresse ou de la loi.",
+      "tags": [
+        "solidarité passive",
+        "absence de présomption"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "modobl-qcm-001",
+      "question": "Une obligation est contractée sous une condition dépendant de la seule volonté du débiteur (« je paierai si je veux »). Quelle sanction cette condition purement potestative encourt-elle, selon l'article 1304-2 du Code civil ?",
+      "options": [
+        "La nullité de l'obligation, incompatible avec une condition dépendant du seul débiteur",
+        "Aucune sanction, la condition étant simplement réputée non écrite dans le contrat",
+        "La requalification automatique de l'obligation en obligation pure et simple",
+        "La suspension de l'obligation jusqu'à ce que le débiteur manifeste sa volonté définitive"
+      ],
+      "answer": 0,
+      "explanation": "L'article 1304-2 du Code civil sanctionne par la nullité l'obligation contractée sous une condition qui dépend de la seule volonté du débiteur, cette dépendance étant incompatible avec la notion même d'engagement obligatoire.",
+      "tags": [
+        "condition potestative",
+        "nullité"
+      ]
+    },
+    {
+      "id": "modobl-qcm-002",
+      "question": "Un débiteur empêche frauduleusement la survenance de la condition suspensive à laquelle son obligation était soumise. Quel est l'effet de cette fraude sur la condition, selon l'article 1304-3 du Code civil ?",
+      "options": [
+        "La condition est purement et simplement annulée, l'obligation redevenant pure et simple",
+        "La condition est réputée accomplie, malgré l'absence de sa réalisation effective",
+        "La condition est réputée défaillie, ce qui libère définitivement le débiteur fraudeur",
+        "Aucun effet particulier, seule une action en dommages-intérêts distincte étant ouverte"
+      ],
+      "answer": 1,
+      "explanation": "L'article 1304-3 du Code civil répute la condition accomplie lorsque son accomplissement a été frauduleusement empêché par le débiteur qui y avait intérêt, afin de neutraliser les manœuvres destinées à échapper à son obligation.",
+      "tags": [
+        "condition",
+        "fraude"
+      ]
+    },
+    {
+      "id": "modobl-qcm-003",
+      "question": "Un débiteur paie spontanément sa dette avant l'échéance du terme suspensif qui l'affectait. Peut-il ensuite exiger la répétition de cette somme versée par avance ?",
+      "options": [
+        "Oui, la dette n'étant pas encore exigible, le paiement est nécessairement indu",
+        "Oui, mais seulement s'il démontre avoir payé par erreur sur l'existence du terme",
+        "Non, la dette existait déjà avant l'échéance, seule son exigibilité étant reportée",
+        "Non, mais uniquement si le créancier ignorait lui-même l'existence de ce terme"
+      ],
+      "answer": 2,
+      "explanation": "Selon l'article 1305-2 du Code civil, le terme n'affecte que l'exigibilité de l'obligation, non son existence : la dette existait déjà avant l'échéance, si bien que le paiement anticipé n'ouvre droit à aucune répétition de l'indu.",
+      "tags": [
+        "terme suspensif",
+        "paiement anticipé"
+      ]
+    },
+    {
+      "id": "modobl-qcm-004",
+      "question": "Un débiteur solidaire est déchu du terme qui lui avait été accordé, faute d'avoir fourni les sûretés promises. Cette déchéance est-elle opposable aux autres coobligés et aux cautions ?",
+      "options": [
+        "Oui, la déchéance du terme profite toujours au créancier à l'égard de tous les garants",
+        "Oui, mais seulement si les coobligés avaient connaissance du défaut de sûretés",
+        "Non, sauf clause contraire prévue expressément dans l'acte constitutif de la dette",
+        "Non, la déchéance du terme est purement personnelle et leur reste inopposable"
+      ],
+      "answer": 3,
+      "explanation": "L'article 1305-5 du Code civil précise que la déchéance du terme, sanction personnelle du débiteur fautif, est inopposable aux coobligés et aux cautions, qui continuent de bénéficier du terme initialement convenu.",
+      "tags": [
+        "déchéance du terme",
+        "caractère personnel"
+      ]
+    },
+    {
+      "id": "modobl-qcm-005",
+      "question": "Un créancier consent une remise partielle de dette à l'un des débiteurs solidaires. Les autres codébiteurs peuvent-ils se prévaloir de cette remise ?",
+      "options": [
+        "Oui, ils peuvent s'en prévaloir pour déduire de leur propre dette la part ainsi remise",
+        "Non, cette remise ne profite qu'au seul débiteur qui en a personnellement bénéficié",
+        "Oui, la remise partielle éteint intégralement la dette de tous les codébiteurs solidaires",
+        "Non, sauf si la remise a été consentie dans un acte notarié opposable à tous"
+      ],
+      "answer": 0,
+      "explanation": "La remise partielle de dette constitue une exception simplement personnelle : les autres codébiteurs solidaires, bien qu'ils ne puissent en réclamer le bénéfice intégral, peuvent néanmoins déduire de leur propre dette la part ainsi remise à leur coobligé.",
+      "tags": [
+        "solidarité passive",
+        "exceptions opposables"
+      ]
+    },
+    {
+      "id": "modobl-qcm-006",
+      "question": "Un débiteur solidaire ayant payé la totalité de la dette exerce son recours contributoire contre ses coobligés, mais l'un d'eux se révèle insolvable. Comment cette insolvabilité est-elle supportée ?",
+      "options": [
+        "Elle est supportée intégralement par le seul débiteur ayant payé la totalité de la dette",
+        "Elle est répartie entre tous les autres codébiteurs solvables, par parts viriles",
+        "Elle est supportée par le créancier initial, seul responsable du choix de ses débiteurs",
+        "Elle éteint purement et simplement la part de dette correspondante, sans aucun recours"
+      ],
+      "answer": 1,
+      "explanation": "En cas d'insolvabilité de l'un des codébiteurs solidaires, sa part contributoire est répartie entre tous les autres codébiteurs solvables, y compris celui qui a payé, chacun supportant par parts viriles le risque de cette insolvabilité.",
+      "tags": [
+        "solidarité passive",
+        "contribution à la dette"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "quasi-contrats",
+  "title": "Les quasi-contrats : gestion d'affaires, paiement de l'indu et enrichissement injustifié",
+  "category": "Droit civil — Quasi-contrats",
+  "flashcards": [
+    {
+      "id": "quasicont-fc-001",
+      "front": "Quelles sont les deux conditions essentielles pour qu'il y ait gestion d'affaires (art. 1301 et s. C. civ.) ?",
+      "back": "Le gérant doit agir sciemment pour autrui, sans y être tenu par une obligation préalable, légale ou contractuelle, et le maître de l'affaire ne doit pas s'être opposé à cet acte ; l'utilité de l'acte n'est pas une condition d'existence de la gestion, mais elle conditionne l'indemnisation du gérant.",
+      "tags": [
+        "gestion d'affaires",
+        "conditions"
+      ]
+    },
+    {
+      "id": "quasicont-fc-002",
+      "front": "Dans le paiement de l'indu, l'erreur du solvens est-elle toujours une condition de l'action en restitution ?",
+      "back": "Non : pour l'indu objectif (dette inexistante) et l'indu subjectif actif, l'erreur n'est plus exigée depuis Ass. plén. 2 avr. 1993 (codifiée à l'art. 1302-1 C. civ.) ; elle reste en revanche requise pour l'indu subjectif passif, lorsque le solvens paie par erreur la dette d'autrui (art. 1302-2).",
+      "tags": [
+        "paiement de l'indu",
+        "erreur du solvens"
+      ]
+    },
+    {
+      "id": "quasicont-fc-003",
+      "front": "Quelle est la condition centrale de l'action de in rem verso pour enrichissement injustifié, et quel est son caractère procédural ?",
+      "back": "L'absence de cause à l'enrichissement : celui-ci ne doit procéder ni d'une obligation de l'appauvri, ni d'une intention libérale, ni d'un délit, ni d'un devoir moral (art. 1303-1) ; l'action est en outre subsidiaire, n'étant ouverte qu'en l'absence de toute autre voie de droit (art. 1303-3).",
+      "tags": [
+        "enrichissement injustifié",
+        "absence de cause"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "quasicont-qcm-001",
+      "question": "Une banque vend les actions de son client parce qu'elle y était contractuellement tenue par un mandat de gestion. Peut-elle invoquer les règles de la gestion d'affaires pour cet acte ?",
+      "options": [
+        "Non, l'existence d'une obligation préalable exclut par nature toute gestion d'affaires",
+        "Oui, dès lors que l'acte accompli profite objectivement à l'intérêt de son client",
+        "Oui, mais seulement si son client ignorait l'existence de ce mandat de gestion",
+        "Non, mais uniquement si la banque a agi contre les instructions expresses de son client"
+      ],
+      "answer": 0,
+      "explanation": "Selon Com. 12 janv. 1999, une personne déjà tenue par une obligation préalable, légale ou contractuelle, d'accomplir l'acte litigieux n'agit pas comme gérant d'affaires : l'absence d'obligation préalable est une condition constitutive de la gestion d'affaires.",
+      "tags": [
+        "gestion d'affaires",
+        "obligation préalable"
+      ]
+    },
+    {
+      "id": "quasicont-qcm-002",
+      "question": "Le maître de l'affaire ratifie expressément l'acte accompli en son nom par le gérant d'affaires. Quel est l'effet juridique de cette ratification, selon l'article 1301-3 du Code civil ?",
+      "options": [
+        "Aucun effet particulier, les règles de la gestion d'affaires s'appliquant seules",
+        "L'acte se transforme rétroactivement en mandat, dont les règles s'appliquent alors seules",
+        "L'acte devient un quasi-délit, engageant la responsabilité personnelle du gérant",
+        "L'acte demeure un quasi-contrat autonome, distinct à la fois du mandat et du délit"
+      ],
+      "answer": 1,
+      "explanation": "L'article 1301-3 du Code civil prévoit que la ratification expresse de la gestion par le maître de l'affaire vaut mandat : les règles du mandat s'appliquent alors seules, la gestion d'affaires ne jouant qu'à défaut d'une telle ratification.",
+      "tags": [
+        "gestion d'affaires",
+        "ratification"
+      ]
+    },
+    {
+      "id": "quasicont-qcm-003",
+      "question": "Un cotisant verse une cotisation à un organisme social alors qu'aucune dette ne pesait réellement sur lui (indu objectif). Doit-il prouver une erreur pour obtenir la restitution des sommes versées ?",
+      "options": [
+        "Oui, l'erreur demeure une condition constante de toute action en répétition de l'indu",
+        "Oui, mais une simple négligence du solvens suffit à caractériser cette erreur",
+        "Non, la seule absence de dette suffit désormais à fonder l'action en restitution",
+        "Non, mais il doit alors prouver la mauvaise foi de l'organisme ayant perçu les sommes"
+      ],
+      "answer": 2,
+      "explanation": "Depuis Ass. plén. 2 avr. 1993, codifiée à l'art. 1302-1 du Code civil, l'indu objectif n'exige plus la preuve d'une erreur du solvens : la seule absence de dette suffit à fonder l'action en répétition, contrairement à l'indu subjectif passif.",
+      "tags": [
+        "paiement de l'indu",
+        "indu objectif"
+      ]
+    },
+    {
+      "id": "quasicont-qcm-004",
+      "question": "Un accipiens de mauvaise foi a reçu une somme d'argent qui ne lui était pas due. À partir de quand doit-il restituer les intérêts produits par cette somme ?",
+      "options": [
+        "Aucun intérêt n'est jamais dû, seul le capital devant être restitué à l'issue de l'action",
+        "À compter de la demande en justice formée, comme pour l'accipiens de bonne foi",
+        "À compter de la décision de justice constatant le caractère indu du paiement",
+        "Dès le jour du paiement, la mauvaise foi justifiant cette aggravation de la restitution"
+      ],
+      "answer": 3,
+      "explanation": "L'accipiens de mauvaise foi doit restituer le capital ainsi que les intérêts courant dès le jour du paiement, à la différence de l'accipiens de bonne foi qui ne doit les intérêts qu'à compter de la demande en restitution.",
+      "tags": [
+        "paiement de l'indu",
+        "restitution"
+      ]
+    },
+    {
+      "id": "quasicont-qcm-005",
+      "question": "L'appauvri a lui-même commis une faute ayant contribué à son propre appauvrissement. Cette faute fait-elle obstacle à l'action de in rem verso depuis la réforme de 2016 ?",
+      "options": [
+        "Non, elle ne fait plus obstacle à l'action mais peut seulement en modérer l'indemnité",
+        "Oui, toute faute de l'appauvri entraîne le rejet total et automatique de son action",
+        "Non, cette faute est totalement sans incidence, y compris sur le montant de l'indemnité",
+        "Oui, mais seulement si cette faute présente les caractères de la force majeure"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la réforme de 2016 (art. 1303-2, al. 2, C. civ.), la faute de l'appauvri ne fait plus obstacle à l'action de in rem verso, contrairement à la solution antérieure ; elle peut seulement conduire le juge à modérer le montant de l'indemnité allouée.",
+      "tags": [
+        "enrichissement injustifié",
+        "faute de l'appauvri"
+      ]
+    },
+    {
+      "id": "quasicont-qcm-006",
+      "question": "Comment est calculée l'indemnité due au titre de l'action de in rem verso, lorsque l'enrichi est de bonne foi ?",
+      "options": [
+        "Elle correspond systématiquement au montant total de l'enrichissement constaté",
+        "Elle correspond à la plus faible des deux valeurs d'appauvrissement et d'enrichissement",
+        "Elle correspond systématiquement au montant total de l'appauvrissement subi",
+        "Elle correspond à la moyenne arithmétique entre l'appauvrissement et l'enrichissement"
+      ],
+      "answer": 1,
+      "explanation": "L'indemnité de l'action de in rem verso correspond, en principe, à la plus faible des deux valeurs d'appauvrissement et d'enrichissement, appréciées au jour de l'action : ce mécanisme vise à corriger un déséquilibre sans enrichir le demandeur au-delà de sa perte réelle.",
+      "tags": [
+        "enrichissement injustifié",
+        "indemnité"
+      ]
+    }
+  ]
+}

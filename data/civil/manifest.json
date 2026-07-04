@@ -191,6 +191,24 @@
       "file": "resp-regimes-speciaux.json",
       "title": "Les régimes spéciaux de responsabilité : loi Badinter, produits défectueux et troubles de voisinage",
       "category": "Droit civil — Responsabilité civile"
+    },
+    {
+      "id": "resp-conditions-communes",
+      "file": "resp-conditions-communes.json",
+      "title": "Les conditions communes à toute responsabilité civile : le préjudice et le lien de causalité",
+      "category": "Droit civil — Responsabilité civile"
+    },
+    {
+      "id": "quasi-contrats",
+      "file": "quasi-contrats.json",
+      "title": "Les quasi-contrats : gestion d'affaires, paiement de l'indu et enrichissement injustifié",
+      "category": "Droit civil — Quasi-contrats"
+    },
+    {
+      "id": "modalites-obligation",
+      "file": "modalites-obligation.json",
+      "title": "Les modalités de l'obligation : condition, terme et solidarité passive",
+      "category": "Droit civil — Obligations"
     }
   ]
 }
