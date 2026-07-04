@@ -209,6 +209,18 @@
       "file": "modalites-obligation.json",
       "title": "Les modalités de l'obligation : condition, terme et solidarité passive",
       "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "transmission-obligations",
+      "file": "transmission-obligations.json",
+      "title": "La transmission des obligations : cession de créance, de dette, de contrat et subrogation personnelle",
+      "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "extinction-obligations",
+      "file": "extinction-obligations.json",
+      "title": "Les modes d'extinction de l'obligation : paiement, novation, délégation, compensation, confusion, remise de dette et prescription",
+      "category": "Droit civil — Obligations"
     }
   ]
 }

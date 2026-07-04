@@ -1,0 +1,255 @@
+{
+  "id": "extinction-obligations",
+  "title": "Les modes d'extinction de l'obligation : paiement, novation, délégation, compensation, confusion, remise de dette et prescription",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "extobl-fc-001",
+      "front": "Quelle est la nature juridique du paiement selon la doctrine contemporaine et la jurisprudence, et quelle conséquence en tire-t-on sur sa preuve ?",
+      "back": "Un fait juridique, et non un acte juridique comme le soutenait la doctrine traditionnelle ; il en résulte que la preuve du paiement est libre et peut être rapportée par tout moyen (art. 1342-8 C. civ.), sans exigence d'un écrit.",
+      "tags": [
+        "paiement",
+        "preuve libre"
+      ]
+    },
+    {
+      "id": "extobl-fc-002",
+      "front": "Quelles sont les deux caractéristiques essentielles de l'intention de nover, et quel est le principal effet défavorable au créancier lors d'une novation ?",
+      "back": "L'intention de nover ne se présume jamais et doit résulter clairement de l'acte (art. 1330 C. civ.) ; la novation éteint l'obligation ancienne avec tous ses accessoires, notamment les sûretés, qui disparaissent sauf réserve conventionnelle expresse.",
+      "tags": [
+        "novation",
+        "intention de nover"
+      ]
+    },
+    {
+      "id": "extobl-fc-003",
+      "front": "Quelle est la différence essentielle entre la délégation parfaite et la délégation imparfaite ?",
+      "back": "Dans la délégation parfaite, le délégataire décharge expressément le délégant, qui se trouve libéré par l'effet d'une novation par changement de débiteur ; dans la délégation imparfaite, sans décharge, le délégataire acquiert un nouveau droit contre le délégué tout en conservant son droit contre le délégant.",
+      "tags": [
+        "délégation parfaite",
+        "délégation imparfaite"
+      ]
+    },
+    {
+      "id": "extobl-fc-004",
+      "front": "Quelles sont les cinq conditions cumulatives de la compensation légale (art. 1347-1 C. civ.) ?",
+      "back": "Les dettes réciproques doivent être certaines, fongibles, liquides et exigibles ; même réunies, ces conditions ne suffisent pas à rendre la compensation automatique, celle-ci devant être invoquée par la partie qui souhaite s'en prévaloir (Com. 15 mars 2023).",
+      "tags": [
+        "compensation légale",
+        "conditions cumulatives"
+      ]
+    },
+    {
+      "id": "extobl-fc-005",
+      "front": "Qu'est-ce que la confusion, et quelle réserve limite son effet extinctif (art. 1349 C. civ.) ?",
+      "back": "La réunion dans la même personne des qualités de créancier et de débiteur d'une même obligation, par exemple lorsqu'un héritier hérite de son débiteur ; elle éteint la créance et ses accessoires, sous réserve des droits acquis par ou contre les tiers.",
+      "tags": [
+        "confusion",
+        "réserve des tiers"
+      ]
+    },
+    {
+      "id": "extobl-fc-006",
+      "front": "Quel est le délai de prescription extinctive de droit commun, et que retient-on aujourd'hui quant à l'objet exact de cette extinction ?",
+      "back": "Cinq ans à compter du jour où le titulaire du droit a connu ou aurait dû connaître les faits lui permettant d'agir (art. 2224 C. civ.) ; depuis la loi de 2008 et Civ. 2e, 9 juill. 2009, la prescription éteint le droit lui-même, et non plus seulement l'action qui le sanctionnait.",
+      "tags": [
+        "prescription extinctive",
+        "délai de droit commun"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "extobl-qcm-001",
+      "question": "Un tiers, non tenu à la dette et sans lien avec le débiteur, paie spontanément le créancier à la place de celui-ci, qui ne s'y oppose pas. Ce paiement est-il en principe valable ?",
+      "options": [
+        "Oui, toute personne ayant un intérêt à la dette peut valablement payer à sa place",
+        "Non, seul le débiteur ou son représentant légal peut valablement effectuer ce paiement",
+        "Oui, mais seulement si le tiers obtient l'accord préalable et exprès du débiteur",
+        "Non, sauf si le tiers justifie d'un lien de parenté avec le débiteur de la dette"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'article 1342-1 du Code civil, toute personne intéressée à l'obligation, et même une personne qui n'y est pas tenue, peut valablement payer le créancier, sauf lorsque le créancier a un intérêt légitime à en refuser le paiement, notamment pour les obligations intuitu personae.",
+      "tags": [
+        "paiement",
+        "solvens"
+      ]
+    },
+    {
+      "id": "extobl-qcm-002",
+      "question": "Un débiteur paie de bonne foi un créancier apparent, qui présentait toutes les apparences légitimes de la qualité de véritable créancier. Ce paiement libère-t-il le débiteur ?",
+      "options": [
+        "Non, seul un paiement fait au créancier véritable peut valablement libérer le débiteur",
+        "Oui, ce paiement le libère ; le vrai créancier dispose d'un recours contre l'accipiens",
+        "Oui, mais uniquement si le créancier apparent rembourse spontanément les sommes reçues",
+        "Non, sauf ratification expresse et postérieure donnée par le véritable créancier"
+      ],
+      "answer": 1,
+      "explanation": "L'article 1342-3 du Code civil valide le paiement fait de bonne foi à un créancier apparent : le débiteur est libéré, tandis que le véritable créancier ne dispose plus que d'une action de in rem verso contre l'accipiens ayant reçu le paiement à tort.",
+      "tags": [
+        "paiement",
+        "créancier apparent"
+      ]
+    },
+    {
+      "id": "extobl-qcm-003",
+      "question": "Une novation par changement de débiteur intervient sans que le débiteur originaire n'y ait donné son accord. Comment qualifie-t-on cette opération ?",
+      "options": [
+        "Une délégation imparfaite, laissant subsister le recours contre le débiteur originaire",
+        "Une cession de dette imparfaite, entraînant une solidarité entre les deux débiteurs",
+        "Une expromissio, novation valable malgré l'absence d'accord du débiteur originaire",
+        "Une remise de dette tacite, éteignant purement et simplement l'obligation originaire"
+      ],
+      "answer": 2,
+      "explanation": "La novation par changement de débiteur peut prendre la forme d'une expromissio, valable sans l'accord du débiteur originaire, ou d'une délégation parfaite, qui suppose au contraire l'accord de ce dernier ; les deux formes aboutissent à la libération du débiteur originaire.",
+      "tags": [
+        "novation",
+        "expromissio"
+      ]
+    },
+    {
+      "id": "extobl-qcm-004",
+      "question": "Une novation a été conclue, mais l'obligation nouvelle censée remplacer l'ancienne se révèle nulle. Quel est l'effet de cette nullité sur l'obligation ancienne ?",
+      "options": [
+        "Aucun effet, l'obligation ancienne demeurant définitivement éteinte malgré cette nullité",
+        "L'obligation ancienne renaît, mais uniquement pour l'avenir, sans effet rétroactif",
+        "Les deux obligations, ancienne et nouvelle, coexistent alors entre les parties",
+        "L'obligation ancienne est validée rétroactivement, la novation étant privée d'effet"
+      ],
+      "answer": 3,
+      "explanation": "L'article 1331 du Code civil prévoit que la nullité de l'obligation nouvelle entraîne la validation rétroactive de l'obligation ancienne, la novation étant elle-même privée d'effet : tout se passe comme si l'opération n'avait jamais eu lieu.",
+      "tags": [
+        "novation",
+        "nullité de l'obligation nouvelle"
+      ]
+    },
+    {
+      "id": "extobl-qcm-005",
+      "question": "Dans une délégation imparfaite, tant que le délégué n'a pas payé le délégataire, le délégant peut-il librement récupérer la créance qu'il détenait contre ce délégué ?",
+      "options": [
+        "Non, sauf dans la limite de l'excès entre le montant des deux créances en cause",
+        "Oui, sans aucune restriction, le délégant conservant l'entière disposition de sa créance",
+        "Non, cette faculté lui étant définitivement et totalement retirée dès la délégation",
+        "Oui, mais seulement avec l'accord exprès et préalable du délégataire concerné"
+      ],
+      "answer": 0,
+      "explanation": "L'article 1339 du Code civil interdit au délégant de disposer de sa créance contre le délégué tant que ce dernier n'a pas payé le délégataire, sauf dans la limite de l'excès éventuel entre le montant des deux créances en présence.",
+      "tags": [
+        "délégation imparfaite",
+        "recours du délégant"
+      ]
+    },
+    {
+      "id": "extobl-qcm-006",
+      "question": "En quoi la délégation se distingue-t-elle fondamentalement d'une simple indication de paiement, au sens de l'article 1340 du Code civil ?",
+      "options": [
+        "La délégation n'exige l'accord d'aucune partie, contrairement à l'indication de paiement",
+        "La délégation exige l'accord du délégué, contrairement à la simple indication de paiement",
+        "La délégation ne crée aucun engagement personnel du tiers envers le délégataire",
+        "La délégation suppose toujours la libération immédiate et automatique du délégant"
+      ],
+      "answer": 1,
+      "explanation": "À la différence de la simple indication de paiement, qui ne nécessite l'accord d'aucun tiers, la délégation exige l'accord du délégué, qui s'engage personnellement envers le délégataire : c'est précisément cet accord qui la caractérise.",
+      "tags": [
+        "délégation",
+        "indication de paiement"
+      ]
+    },
+    {
+      "id": "extobl-qcm-007",
+      "question": "Deux dettes réciproques, nées d'un même contrat synallagmatique, ne sont pas encore liquides ni exigibles. Peuvent-elles néanmoins se compenser, en tant que dettes connexes ?",
+      "options": [
+        "Non, la liquidité et l'exigibilité restent incontournables pour toute compensation légale",
+        "Non, seule une compensation judiciaire pourrait alors être prononcée par le juge saisi",
+        "Oui, la connexité permet la compensation malgré l'absence de liquidité et d'exigibilité",
+        "Oui, mais uniquement si les deux parties y consentent par un accord postérieur"
+      ],
+      "answer": 2,
+      "explanation": "L'article 1348-1 du Code civil permet la compensation de dettes connexes, notamment issues d'un même contrat synallagmatique, même en l'absence de liquidité ou d'exigibilité, cette connexité constituant une exception aux conditions de la compensation légale.",
+      "tags": [
+        "compensation",
+        "dettes connexes"
+      ]
+    },
+    {
+      "id": "extobl-qcm-008",
+      "question": "Un juge prononce une compensation judiciaire entre deux dettes réciproques, l'une d'elles n'étant pas encore liquide au moment de la demande. À quelle date cette compensation produit-elle ses effets ?",
+      "options": [
+        "Rétroactivement, au jour où les deux dettes sont nées l'une envers l'autre, réciproquement",
+        "Rétroactivement, au jour où la dette non liquide est devenue certaine dans son principe",
+        "À la date de l'assignation introductive de l'instance ayant donné lieu à ce jugement",
+        "À la date de la décision du juge, sans effet rétroactif antérieur à ce jugement"
+      ],
+      "answer": 3,
+      "explanation": "Contrairement à la compensation légale, qui opère à la date où toutes ses conditions sont réunies, la compensation judiciaire ne produit ses effets qu'à la date de la décision du juge, qui peut lui-même en fixer le montant.",
+      "tags": [
+        "compensation judiciaire",
+        "date des effets"
+      ]
+    },
+    {
+      "id": "extobl-qcm-009",
+      "question": "Une confusion réunit dans la même personne les qualités de créancier et de débiteur d'une obligation. Cette créance confondue peut-elle encore être invoquée à l'égard des tiers, selon l'article 1349 du Code civil ?",
+      "options": [
+        "Oui, la confusion opère sous réserve des droits acquis par ou contre les tiers concernés",
+        "Non, la confusion éteint la créance de façon absolue, y compris à l'égard des tiers",
+        "Oui, mais uniquement si les tiers concernés y consentent expressément au préalable",
+        "Non, sauf disposition contraire expressément stipulée dans l'acte ayant créé la confusion"
+      ],
+      "answer": 0,
+      "explanation": "L'article 1349, alinéa 2, du Code civil réserve expressément les droits acquis par ou contre les tiers : la créance confondue, bien qu'éteinte entre les parties réunies, peut ainsi demeurer opposable dans les rapports avec certains tiers.",
+      "tags": [
+        "confusion",
+        "droits des tiers"
+      ]
+    },
+    {
+      "id": "extobl-qcm-010",
+      "question": "Un créancier remet volontairement à son débiteur l'original du titre constatant sa créance, depuis le 1er octobre 2016. Quelle est la portée de cette remise sur la preuve d'une éventuelle libération ?",
+      "options": [
+        "Elle constitue une preuve irréfragable de libération, sans preuve contraire possible",
+        "Elle fait présumer la libération du débiteur, une preuve contraire restant possible",
+        "Elle est dépourvue de toute valeur probatoire quant à la libération du débiteur",
+        "Elle ne vaut présomption que si la remise est accompagnée d'un écrit authentique notarié"
+      ],
+      "answer": 1,
+      "explanation": "Depuis le 1er octobre 2016, l'article 1342-9 du Code civil ne fait plus naître qu'une présomption simple de libération en cas de remise volontaire du titre, alors que cette présomption était irréfragable sous l'empire du droit antérieur pour les actes sous seing privé.",
+      "tags": [
+        "remise de dette",
+        "présomption de libération"
+      ]
+    },
+    {
+      "id": "extobl-qcm-011",
+      "question": "Une victime subit un dommage corporel dont les conséquences ne se stabilisent que plusieurs décennies après le fait générateur. Le délai butoir de vingt ans lui est-il opposable pour agir en réparation ?",
+      "options": [
+        "Oui, ce délai butoir s'applique sans exception à toute action en responsabilité civile",
+        "Oui, mais seulement si le dommage corporel résulte d'une infraction pénale intentionnelle",
+        "Non, les actions en réparation d'un dommage corporel échappent à ce délai butoir",
+        "Non, mais uniquement si la victime était mineure au moment du fait générateur du dommage"
+      ],
+      "answer": 2,
+      "explanation": "L'article 2232 du Code civil, qui fixe un délai butoir de vingt ans à compter de la naissance du droit, prévoit expressément des exceptions, au nombre desquelles figurent les actions en réparation d'un dommage corporel, qui échappent à ce plafond.",
+      "tags": [
+        "prescription extinctive",
+        "délai butoir"
+      ]
+    },
+    {
+      "id": "extobl-qcm-012",
+      "question": "Un événement suspend le cours d'un délai de prescription, puis cet événement cesse. Comment ce délai reprend-il son cours, par opposition à l'effet d'une interruption ?",
+      "options": [
+        "Un nouveau délai de même durée repart intégralement à zéro, comme en cas d'interruption",
+        "Le délai s'éteint définitivement, empêchant toute action ultérieure du titulaire du droit",
+        "Le délai antérieur à l'événement suspensif est effacé, seul comptant celui postérieur",
+        "Le délai reprend son cours là où il s'était arrêté, sans effacer le temps déjà écoulé"
+      ],
+      "answer": 3,
+      "explanation": "À la différence de l'interruption, qui anéantit le délai déjà écoulé et fait courir un nouveau délai de même durée, la suspension n'arrête le délai que temporairement : celui-ci reprend son cours là où il s'était arrêté, sans effacer le temps déjà couru.",
+      "tags": [
+        "prescription extinctive",
+        "suspension"
+      ]
+    }
+  ]
+}

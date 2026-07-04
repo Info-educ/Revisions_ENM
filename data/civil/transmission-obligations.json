@@ -1,0 +1,182 @@
+{
+  "id": "transmission-obligations",
+  "title": "La transmission des obligations : cession de créance, de dette, de contrat et subrogation personnelle",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "transobl-fc-001",
+      "front": "Quelles sont les principales conditions de validité et d'opposabilité de la cession de créance (art. 1321 s. C. civ.) ?",
+      "back": "L'accord du débiteur cédé n'est pas requis (sauf clause d'incessibilité) ; un écrit est exigé à peine de nullité depuis le 1er oct. 2016 ; l'opposabilité aux tiers résulte de la seule date de l'acte, tandis que l'opposabilité au débiteur suppose une notification ou une prise d'acte de sa part.",
+      "tags": [
+        "cession de créance",
+        "conditions"
+      ]
+    },
+    {
+      "id": "transobl-fc-002",
+      "front": "Quelle est la condition essentielle de la cession de dette, et quel est l'effet par défaut sur le débiteur originaire en l'absence de décharge expresse ?",
+      "back": "L'accord du créancier cédé est indispensable ; à défaut de décharge expresse de sa part, le débiteur originaire n'est pas libéré et reste tenu solidairement avec le nouveau débiteur, ce qui aboutit à une adjonction de débiteur plutôt qu'à une véritable substitution.",
+      "tags": [
+        "cession de dette",
+        "solidarité"
+      ]
+    },
+    {
+      "id": "transobl-fc-003",
+      "front": "Que transfère la cession de contrat, et quelle est la nature de l'accord du cocontractant cédé selon Com. 24 avril 2024 ?",
+      "back": "Elle transfère les deux faces du rapport contractuel, la créance et la dette, du cédant au cessionnaire ; l'accord du cocontractant cédé n'est qu'une simple autorisation, condition d'opposabilité de la cession et non condition de sa validité entre les parties.",
+      "tags": [
+        "cession de contrat",
+        "accord du cédé"
+      ]
+    },
+    {
+      "id": "transobl-fc-004",
+      "front": "Qu'est-ce que la subrogation personnelle, et quelles en sont les principales sources depuis la réforme de 2016 ?",
+      "back": "Un tiers solvens qui paie volontairement la dette d'autrui, sans intention libérale, entre dans les droits du créancier désintéressé ; la subrogation peut être conventionnelle (ex parte creditoris ou ex parte debitoris) ou légale, celle-ci ayant été généralisée par l'article 1346 à tout solvens justifiant d'un intérêt légitime.",
+      "tags": [
+        "subrogation personnelle",
+        "sources"
+      ]
+    },
+    {
+      "id": "transobl-fc-005",
+      "front": "Quelle différence essentielle distingue le montant récupérable dans une cession de créance de celui récupérable dans une subrogation personnelle ?",
+      "back": "Le cessionnaire d'une créance peut en réclamer la valeur nominale totale, même s'il l'a acquise pour un prix inférieur, la cession étant une opération spéculative ; le solvens subrogé ne peut au contraire réclamer au débiteur que le montant qu'il a effectivement payé, cette limitation étant une règle d'ordre public.",
+      "tags": [
+        "cession de créance",
+        "subrogation personnelle"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "transobl-qcm-001",
+      "question": "Une créance a été cédée, mais le débiteur cédé n'en a reçu aucune notification et n'en a pas non plus pris acte. Ce débiteur peut-il valablement payer son créancier initial, le cédant ?",
+      "options": [
+        "Oui, la cession lui étant inopposable, il se libère valablement en payant le cédant",
+        "Non, la cession produit ses effets à son égard dès la signature de l'acte de cession",
+        "Oui, mais seulement s'il ignorait personnellement l'existence même de cette cession",
+        "Non, sauf s'il obtient l'accord exprès du cessionnaire avant d'effectuer ce paiement"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'article 1324 du Code civil, la cession de créance n'est opposable au débiteur qu'à compter de sa notification ou de sa prise d'acte : tant que cette formalité n'est pas accomplie, le débiteur se libère valablement en payant le cédant.",
+      "tags": [
+        "cession de créance",
+        "opposabilité au débiteur"
+      ]
+    },
+    {
+      "id": "transobl-qcm-002",
+      "question": "Un cessionnaire de créance souhaite demander la résolution du contrat ayant donné naissance à cette créance, sans que le cédant soit présent à l'instance. Cette demande est-elle recevable, selon Com. 15 mai 2019 ?",
+      "options": [
+        "Oui, la cession de créance confère automatiquement cette qualité au cessionnaire seul",
+        "Non, la cession de créance ne confère pas cette qualité en l'absence du cédant",
+        "Oui, mais seulement si le débiteur cédé donne son accord exprès à cette demande",
+        "Non, sauf si le cessionnaire justifie d'un intérêt légitime distinct de la créance cédée"
+      ],
+      "answer": 1,
+      "explanation": "Selon Com. 15 mai 2019, la cession de créance ne transmet que la créance elle-même : elle ne confère pas au cessionnaire la qualité pour demander la résolution du contrat source, laquelle suppose la présence du cédant, seul titulaire de cette prérogative contractuelle.",
+      "tags": [
+        "cession de créance",
+        "résolution du contrat"
+      ]
+    },
+    {
+      "id": "transobl-qcm-003",
+      "question": "Une dette a été cédée à un tiers cessionnaire, sans que le créancier n'ait donné de décharge expresse au débiteur originaire. Ce dernier est-il libéré de la dette pour l'avenir ?",
+      "options": [
+        "Oui, la cession de dette entraîne systématiquement la libération du débiteur originaire",
+        "Oui, mais seulement si le cessionnaire présente des garanties de solvabilité suffisantes",
+        "Non, il reste tenu solidairement avec le nouveau débiteur, faute de décharge expresse",
+        "Non, mais il peut alors se retourner contre le créancier pour obtenir sa libération"
+      ],
+      "answer": 2,
+      "explanation": "Selon l'article 1327-2 du Code civil, en l'absence de décharge expresse du créancier, le débiteur originaire n'est pas libéré : il demeure tenu solidairement avec le nouveau débiteur, la cession aboutissant alors à une simple adjonction de débiteur.",
+      "tags": [
+        "cession de dette",
+        "libération du débiteur"
+      ]
+    },
+    {
+      "id": "transobl-qcm-004",
+      "question": "Depuis quelle réforme la cession de dette doit-elle être obligatoirement constatée par un écrit, à peine de nullité ?",
+      "options": [
+        "Depuis l'ordonnance du 10 février 2016, dès l'entrée en vigueur du nouveau texte",
+        "Depuis l'origine du Code civil, cette exigence n'ayant jamais été remise en cause",
+        "Depuis un simple usage jurisprudentiel, sans texte légal l'imposant formellement",
+        "Depuis la loi de ratification du 20 avril 2018, applicable à compter du 1er octobre 2018"
+      ],
+      "answer": 3,
+      "explanation": "L'ordonnance de 2016 avait initialement rendu la cession de dette purement consensuelle ; c'est la loi de ratification du 20 avril 2018 qui a introduit l'exigence d'un écrit à peine de nullité, applicable aux cessions conclues à compter du 1er octobre 2018.",
+      "tags": [
+        "cession de dette",
+        "exigence d'écrit"
+      ]
+    },
+    {
+      "id": "transobl-qcm-005",
+      "question": "Un cocontractant cédé n'a donné aucun accord à la cession du contrat qui le lie. Cette absence d'accord entraîne-t-elle la nullité de la cession, selon Com. 24 avril 2024 ?",
+      "options": [
+        "Non, l'accord du cédé n'est qu'une condition d'opposabilité, non de validité de la cession",
+        "Oui, l'absence d'accord du cédé prive la cession de tout effet entre les parties",
+        "Oui, mais seulement pour les contrats conclus intuitu personae entre les parties",
+        "Non, mais la cession devient alors rétroactivement caduque à l'égard de tous"
+      ],
+      "answer": 0,
+      "explanation": "Selon Com. 24 avril 2024, l'accord du cocontractant cédé n'est qu'une simple autorisation conditionnant l'opposabilité de la cession de contrat à son égard, et non une condition de validité de cette cession entre le cédant et le cessionnaire.",
+      "tags": [
+        "cession de contrat",
+        "accord du cédé"
+      ]
+    },
+    {
+      "id": "transobl-qcm-006",
+      "question": "Dans une cession de contrat imparfaite relevant du droit commun, le cédant est-il libéré de ses obligations envers le cocontractant cédé ?",
+      "options": [
+        "Oui, le cessionnaire le remplace intégralement dès la notification de la cession",
+        "Non, il reste tenu solidairement au contrat avec le cessionnaire qui lui succède",
+        "Oui, sauf si le cocontractant cédé s'oppose expressément à cette libération",
+        "Non, mais uniquement pour les obligations nées avant la date de cette cession"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 1216-1, alinéa 2, du Code civil, la cession de contrat imparfaite, régime de droit commun en l'absence de décharge expresse du cédé, laisse le cédant tenu solidairement au contrat avec le cessionnaire qui lui succède.",
+      "tags": [
+        "cession de contrat",
+        "cession imparfaite"
+      ]
+    },
+    {
+      "id": "transobl-qcm-007",
+      "question": "Un solvens ne paie que partiellement la dette d'un débiteur et se trouve subrogé dans les droits du créancier à hauteur de ce paiement. En cas de recours concurrent, qui est payé par priorité sur le débiteur ?",
+      "options": [
+        "Le solvens subrogé, qui bénéficie d'une priorité de paiement sur le créancier initial",
+        "Aucune priorité ne joue, les deux créanciers étant payés à parts strictement égales",
+        "Le créancier subrogeant, qui reste prioritaire sur le solvens pour le solde impayé",
+        "Le débiteur choisit librement lequel des deux créanciers il souhaite payer en premier"
+      ],
+      "answer": 2,
+      "explanation": "En vertu de l'adage nemo contra se subrogasse censetur, le créancier subrogeant, non intégralement désintéressé, est payé par priorité sur le solvens subrogé, qui n'est indemnisé que sur le reliquat, sauf convention contraire écartant cette règle.",
+      "tags": [
+        "subrogation personnelle",
+        "règle de priorité"
+      ]
+    },
+    {
+      "id": "transobl-qcm-008",
+      "question": "Un solvens a payé 8 000 euros pour éteindre une dette dont le montant nominal s'élevait à 10 000 euros. Quel montant peut-il réclamer au débiteur au titre de son recours subrogatoire ?",
+      "options": [
+        "Il peut réclamer l'intégralité des 10 000 euros, comme dans une cession de créance",
+        "Il peut réclamer un montant fixé souverainement par le juge selon l'équité du litige",
+        "Il peut réclamer 10 000 euros augmentés des intérêts légaux depuis son paiement",
+        "Il ne peut réclamer que les 8 000 euros effectivement payés, et rien de plus"
+      ],
+      "answer": 3,
+      "explanation": "À la différence de la cession de créance, opération spéculative, le recours subrogatoire est limité, par une règle d'ordre public, au montant effectivement payé par le solvens, soit 8 000 euros, sans pouvoir excéder ce montant même si la dette nominale était supérieure.",
+      "tags": [
+        "subrogation personnelle",
+        "limite du recours"
+      ]
+    }
+  ]
+}
