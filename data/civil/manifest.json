@@ -233,6 +233,12 @@
       "file": "droit-biens-classification.json",
       "title": "La classification des biens : meubles, immeubles, biens corporels et incorporels",
       "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "biens-distinctions-annexes",
+      "file": "biens-distinctions-annexes.json",
+      "title": "La classification des biens : les distinctions annexes (consomptibles, fongibles, fruits, appropriation)",
+      "category": "Droit civil — Les biens"
     }
   ]
 }

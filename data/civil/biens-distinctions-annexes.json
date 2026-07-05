@@ -1,0 +1,273 @@
+{
+  "id": "biens-distinctions-annexes",
+  "title": "La classification des biens : les distinctions annexes (consomptibles, fongibles, fruits, appropriation)",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "biensannexes-fc-001",
+      "front": "Quel est le critère de distinction entre biens consomptibles et biens non consomptibles, et quelle conséquence en tire-t-on sur l'usufruit ?",
+      "back": "Le critère est celui de l'usage unique : le bien consomptible se détruit physiquement ou s'aliène juridiquement dès son premier usage (art. 587 C. civ.). L'usufruit classique ne peut porter sur un tel bien : seul un quasi-usufruit, conférant à l'usufruitier un droit de propriété, est alors possible.",
+      "tags": [
+        "biens consomptibles",
+        "quasi-usufruit"
+      ]
+    },
+    {
+      "id": "biensannexes-fc-002",
+      "front": "Quel est le critère de la fongibilité, et à quel moment le transfert de propriété d'une chose de genre s'opère-t-il, par opposition à un corps certain ?",
+      "back": "Les biens fongibles sont interchangeables entre eux, se comptant, se pesant ou se mesurant (art. 1343-1 C. civ.) ; le transfert de propriété d'une chose de genre est retardé jusqu'à son individualisation, alors qu'il s'opère solo consensu, dès l'échange des consentements, pour un corps certain.",
+      "tags": [
+        "biens fongibles",
+        "transfert de propriété"
+      ]
+    },
+    {
+      "id": "biensannexes-fc-003",
+      "front": "Quel est le critère décisif distinguant les biens productifs des biens frugifères ?",
+      "back": "L'altération ou non de la substance du bien lors de la production : les biens productifs donnent des produits qui altèrent ou diminuent sensiblement la substance (extraction), tandis que les biens frugifères donnent des fruits, revenus périodiques qui n'altèrent pas cette substance ; la périodicité n'est qu'un indice, non le critère décisif.",
+      "tags": [
+        "biens productifs",
+        "biens frugifères"
+      ]
+    },
+    {
+      "id": "biensannexes-fc-004",
+      "front": "Quels sont les trois types de fruits distingués par l'article 582 du Code civil ?",
+      "back": "Les fruits naturels, provenant spontanément de la chose sans intervention humaine ; les fruits industriels, résultant d'une intervention humaine telle que la culture ; et les fruits civils, issus d'un contrat, comme les loyers, intérêts ou arrérages de rentes.",
+      "tags": [
+        "fruits",
+        "article 582"
+      ]
+    },
+    {
+      "id": "biensannexes-fc-005",
+      "front": "Quelle règle commune se dégage de la jurisprudence des chambres civile et commerciale concernant la qualification des dividendes en présence d'un usufruit de droits sociaux ?",
+      "back": "Les dividendes prélevés sur le bénéfice distribuable non mis en réserve sont des fruits, revenant à l'usufruitier (Com. 5 oct. 1999) ; en revanche, les dividendes prélevés sur les réserves ne sont pas des fruits et reviennent en principe au nu-propriétaire (Civ. 1re, 22 juin 2016), ce point constituant l'accord commun des deux chambres.",
+      "tags": [
+        "dividendes",
+        "usufruit de droits sociaux"
+      ]
+    },
+    {
+      "id": "biensannexes-fc-006",
+      "front": "Quelles sont les trois catégories de choses non appropriées, et laquelle seule permet une acquisition par occupation ?",
+      "back": "Les res communes (air, eau de mer), inaliénables par nature ; les res nullius, susceptibles d'avoir un propriétaire mais qui n'en ont pas encore, et qui seules peuvent être acquises par occupation, cette catégorie étant réservée aux meubles ; et les res derelictae, choses volontairement abandonnées par leur propriétaire.",
+      "tags": [
+        "res nullius",
+        "choses non appropriées"
+      ]
+    },
+    {
+      "id": "biensannexes-fc-007",
+      "front": "Citez trois catégories de choses hors du commerce juridique, insusceptibles de faire l'objet de conventions.",
+      "back": "Les sépultures, en raison de leur caractère sacré et familial (Req. 23 janv. 1894) ; les souvenirs de famille, dont la garde est confiée à la personne la plus qualifiée ; et le corps humain ainsi que ses éléments, hors du commerce à titre onéreux, sauf finalité thérapeutique ou scientifique.",
+      "tags": [
+        "choses hors commerce",
+        "corps humain"
+      ]
+    },
+    {
+      "id": "biensannexes-fc-008",
+      "front": "Quelle est la différence entre une réunion-addition et une réunion-transformation de biens ?",
+      "back": "La réunion-addition, telle qu'un portefeuille de valeurs mobilières, forme une universalité de fait dont les éléments fongibles peuvent être remplacés sans altérer l'ensemble ; la réunion-transformation, telle qu'un fonds de commerce, fusionne des éléments corporels et incorporels distincts en un bien complexe et unique.",
+      "tags": [
+        "réunion-addition",
+        "réunion-transformation"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "biensannexes-qcm-001",
+      "question": "Un kilogramme de sucre, chose de genre interchangeable avec d'autres kilogrammes identiques, est-il nécessairement consomptible du seul fait de sa fongibilité ?",
+      "options": [
+        "Non, un bien peut être fongible sans être consomptible par sa simple détention",
+        "Oui, tout bien fongible se consume nécessairement par un usage unique et immédiat",
+        "Non, mais uniquement si ce bien fait l'objet d'un contrat de prêt à la consommation",
+        "Oui, la fongibilité et la consomptibilité désignent en réalité la même réalité juridique"
+      ],
+      "answer": 0,
+      "explanation": "La fongibilité et la consomptibilité sont deux critères distincts : un kilogramme de sucre est fongible, interchangeable avec un autre kilogramme identique, mais il ne se consume pas par sa seule détention, contrairement à ce qui se produit lors de son usage effectif.",
+      "tags": [
+        "biens fongibles",
+        "biens consomptibles"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-002",
+      "question": "Un jeton numérique de type NFT (non fungible token) présente des caractéristiques uniques au sein de son support blockchain. Ce jeton est-il fongible du seul fait de son support numérique partagé ?",
+      "options": [
+        "Oui, tout actif reposant sur la technologie blockchain est nécessairement fongible",
+        "Non, ses caractères uniques en font un bien non fongible malgré son support numérique",
+        "Oui, mais uniquement si le jeton représente une somme d'argent bien déterminée",
+        "Non, mais uniquement si le jeton a été émis par une autorité publique reconnue"
+      ],
+      "answer": 1,
+      "explanation": "Si les actifs en blockchain, tels que les bitcoins, sont en principe fongibles, les NFT présentent au contraire des caractères uniques qui en font des biens non fongibles, malgré leur support numérique partagé avec d'autres jetons.",
+      "tags": [
+        "NFT",
+        "biens fongibles"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-003",
+      "question": "Un usufruitier souhaite exercer un usufruit classique sur une somme d'argent, bien consomptible par nature. Cet usufruit ordinaire est-il juridiquement possible, selon l'article 587 du Code civil ?",
+      "options": [
+        "Oui, l'usufruit ordinaire s'applique indifféremment à tous les types de biens",
+        "Oui, mais uniquement si l'usufruitier constitue une garantie au profit du nu-propriétaire",
+        "Non, seul un quasi-usufruit, conférant un droit de propriété, est alors possible",
+        "Non, aucune forme d'usufruit ne peut jamais porter sur une simple somme d'argent"
+      ],
+      "answer": 2,
+      "explanation": "L'article 587 du Code civil exclut l'usufruit ordinaire sur les biens consomptibles : seul un quasi-usufruit peut s'exercer sur une somme d'argent, ce mécanisme conférant nécessairement à l'usufruitier un droit de propriété, puisqu'il doit pouvoir l'aliéner ou la dépenser.",
+      "tags": [
+        "quasi-usufruit",
+        "biens consomptibles"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-004",
+      "question": "Une vente porte sur un corps certain, bien unique et individualisé. À quel moment le transfert de propriété s'opère-t-il, par comparaison avec une vente de choses de genre ?",
+      "options": [
+        "Au moment de la livraison matérielle du bien, comme pour toute chose de genre",
+        "Au moment du paiement intégral du prix, quelle que soit la nature du bien vendu",
+        "Au moment de l'individualisation du bien, exactement comme pour les choses de genre",
+        "Dès l'échange des consentements, le transfert étant retardé pour les choses de genre"
+      ],
+      "answer": 3,
+      "explanation": "Pour un corps certain, le transfert de propriété s'opère solo consensu, dès l'échange des consentements (art. 1196 C. civ.) ; pour les choses de genre, en revanche, ce transfert est nécessairement retardé jusqu'à l'individualisation de la chose vendue.",
+      "tags": [
+        "corps certain",
+        "transfert de propriété"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-005",
+      "question": "Un animal sauvage vit en liberté dans son milieu naturel. Depuis la loi du 10 juillet 1976, cet animal peut-il encore être qualifié de res nullius, susceptible d'appropriation par simple occupation ?",
+      "options": [
+        "Non, les animaux sauvages ne sont plus des res nullius depuis cette loi de 1976",
+        "Oui, tout animal sauvage demeure une res nullius tant qu'il n'est pas capturé",
+        "Oui, mais uniquement pour les espèces non protégées par une réglementation spécifique",
+        "Non, les animaux sauvages sont depuis cette loi qualifiés de biens publics de l'État"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la loi du 10 juillet 1976, les animaux sauvages ne sont plus des res nullius : ils relèvent désormais d'un régime de protection spécifique (res collectivi ou res professionalis selon la doctrine), qui les soustrait à l'appropriation par simple occupation.",
+      "tags": [
+        "res nullius",
+        "animaux sauvages"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-006",
+      "question": "Une personne décède sans laisser d'héritier connu. Ses biens, restés sans maître, sont-ils des res nullius susceptibles d'appropriation par le premier occupant ?",
+      "options": [
+        "Oui, ces biens deviennent des res nullius, appropriables par occupation comme le gibier",
+        "Non, ils reviennent à l'État par succession en déshérence, non par voie d'occupation",
+        "Oui, mais uniquement si un délai de trente ans s'est écoulé depuis le décès",
+        "Non, ils sont partagés entre les créanciers du défunt, à défaut d'héritier connu"
+      ],
+      "answer": 1,
+      "explanation": "Les biens d'une personne décédée sans héritier connu ne sont pas des res nullius : ils reviennent à l'État par succession en déshérence, en vertu de son droit de souveraineté, l'État devant en demander l'envoi en possession au tribunal compétent.",
+      "tags": [
+        "succession en déshérence",
+        "res nullius"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-007",
+      "question": "Une sépulture, chose hors du commerce en raison de son caractère sacré et familial, fait obstacle à toute cession. Le terrain sur lequel elle est implantée peut-il néanmoins faire l'objet d'un transfert de propriété, selon Civ. 2e, 17 octobre 2013 ?",
+      "options": [
+        "Non, le caractère hors commerce de la sépulture s'étend nécessairement au terrain lui-même",
+        "Oui, mais uniquement après exhumation complète des restes qui y sont inhumés",
+        "Oui, le terrain d'une sépulture peut faire l'objet d'un transfert de propriété distinct",
+        "Non, sauf autorisation préfectorale préalable justifiée par un motif d'intérêt général"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 2e, 17 oct. 2013, le caractère hors commerce de la sépulture n'empêche pas le terrain sur lequel elle est implantée de faire l'objet d'un transfert de propriété distinct, ce terrain restant dissocié du caractère sacré attaché à la sépulture elle-même.",
+      "tags": [
+        "sépultures",
+        "choses hors commerce"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-008",
+      "question": "Des marchandises contrefaites sont proposées à la vente par leur détenteur. Cette vente peut-elle valablement porter sur de telles marchandises, selon Com. 24 septembre 2003 ?",
+      "options": [
+        "Oui, la vente de marchandises contrefaites est valable entre les parties contractantes",
+        "Oui, mais uniquement si l'acquéreur ignorait le caractère contrefait de la marchandise",
+        "Non, sauf lorsque la contrefaçon porte sur un brevet d'invention désormais expiré",
+        "Non, les marchandises contrefaites ne peuvent faire l'objet d'aucune vente valable"
+      ],
+      "answer": 3,
+      "explanation": "Selon Com. 24 sept. 2003, les marchandises contrefaites sont hors du commerce juridique et ne peuvent faire l'objet d'aucune vente valable, cette solution s'appliquant indépendamment de la connaissance ou non du caractère contrefait par l'acquéreur.",
+      "tags": [
+        "marchandises contrefaites",
+        "choses hors commerce"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-009",
+      "question": "Un usufruitier gère un portefeuille de valeurs mobilières, cédant et remplaçant librement les titres qui le composent. À l'expiration de l'usufruit, quelle obligation pèse sur lui à l'égard du nu-propriétaire, selon Civ. 1re, 16 juin 2011 ?",
+      "options": [
+        "L'obligation de conserver la substance du portefeuille et de le restituer intact",
+        "Aucune obligation particulière, le portefeuille demeurant sa propriété personnelle",
+        "L'obligation de restituer uniquement les titres n'ayant fait l'objet d'aucun mouvement",
+        "L'obligation de verser une rente viagère équivalente à la valeur initiale du portefeuille"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 1re, 16 juin 2011, si la fongibilité des titres permet à l'usufruitier de les céder et de les remplacer librement, il demeure tenu de conserver la substance du portefeuille, universalité de fait, et de le restituer au nu-propriétaire à l'expiration de l'usufruit.",
+      "tags": [
+        "portefeuille de valeurs mobilières",
+        "usufruit"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-010",
+      "question": "Un fonds libéral, comprenant notamment la clientèle attachée à son exploitant, fait l'objet d'une cession. Cette cession emporte-t-elle celle de la clientèle, tout en préservant la liberté de celle-ci de suivre un autre praticien ?",
+      "options": [
+        "Non, la clientèle ne peut jamais faire l'objet d'une cession, quelle qu'en soit la forme",
+        "Oui, la cession emporte celle de la clientèle, qui demeure toutefois libre de son choix",
+        "Oui, et la clientèle est alors définitivement liée au cessionnaire du fonds libéral",
+        "Non, seule une clientèle commerciale, non la clientèle civile, peut être cédée"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 1re, 2 mai 2001, la cession d'un fonds libéral emporte celle de sa clientèle civile ; mais selon Civ. 1re, 7 nov. 2001, cette clientèle demeure libre de choisir un autre praticien, la cession ne créant aucun lien de dépendance définitif envers le cessionnaire.",
+      "tags": [
+        "fonds libéral",
+        "clientèle civile"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-011",
+      "question": "Un bien appartenant au domaine public d'une collectivité territoriale est convoité par un acquéreur privé. Ce bien peut-il être aliéné en l'état, sans autre formalité ?",
+      "options": [
+        "Oui, les biens du domaine public sont librement aliénables comme les biens privés",
+        "Oui, mais uniquement si l'acquéreur justifie d'une utilité publique reconnue",
+        "Non, son aliénation suppose une décision préalable de déclassement de ce bien",
+        "Non, aucun bien du domaine public ne peut jamais faire l'objet d'une aliénation"
+      ],
+      "answer": 2,
+      "explanation": "Les biens du domaine public sont inaliénables tant qu'ils n'ont pas fait l'objet d'une décision de déclassement : ce n'est qu'après cette décision, les faisant sortir du domaine public, qu'ils peuvent être aliénés selon les règles applicables aux biens privés.",
+      "tags": [
+        "domaine public",
+        "déclassement"
+      ]
+    },
+    {
+      "id": "biensannexes-qcm-012",
+      "question": "La commercialité d'un bien, qui permet qu'il fasse l'objet de conventions, se confond-elle avec sa simple patrimonialité, c'est-à-dire son appartenance au patrimoine d'une personne ?",
+      "options": [
+        "Oui, tout bien patrimonial est nécessairement placé dans le commerce juridique",
+        "Oui, la commercialité et la patrimonialité sont deux expressions d'une même notion unique",
+        "Non, la commercialité est une notion exclusivement fiscale, sans lien avec le droit civil",
+        "Non, la commercialité suppose spécifiquement la possibilité d'un échange à titre onéreux"
+      ],
+      "answer": 3,
+      "explanation": "La commercialité ne se confond pas avec la patrimonialité : certains biens patrimoniaux, comme les souvenirs de famille, restent hors du commerce juridique, la commercialité supposant spécifiquement la possibilité d'un échange à titre onéreux.",
+      "tags": [
+        "commercialité",
+        "patrimonialité"
+      ]
+    }
+  ]
+}
