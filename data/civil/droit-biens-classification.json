@@ -1,0 +1,223 @@
+{
+  "id": "droit-biens-classification",
+  "title": "La classification des biens : meubles, immeubles, biens corporels et incorporels",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "biensclass-fc-001",
+      "front": "Quelles sont les trois catégories d'immeubles énumérées par l'article 517 du Code civil ?",
+      "back": "Les immeubles par nature, caractérisés par leur fixité physique au sol ; les immeubles par destination, meubles fictivement immobilisés par un lien fonctionnel ; et les immeubles par l'objet, qui regroupent les droits réels, actions et créances immobilières.",
+      "tags": [
+        "immeubles",
+        "article 517"
+      ]
+    },
+    {
+      "id": "biensclass-fc-002",
+      "front": "Quelles sont les deux conditions cumulatives requises pour qu'un meuble soit qualifié d'immeuble par destination ?",
+      "back": "Une unité de propriétaire, l'immeuble par nature et le meuble affecté devant appartenir à la même personne, et un lien de destination, légal (art. 524, par exemple le matériel agricole) ou conventionnel, résultant d'un acte juridique.",
+      "tags": [
+        "immeuble par destination",
+        "conditions cumulatives"
+      ]
+    },
+    {
+      "id": "biensclass-fc-003",
+      "front": "Quelles sont les trois catégories de biens meubles reconnues en droit français ?",
+      "back": "Les meubles par nature, définis par leur aptitude au déplacement (art. 528) ; les meubles par anticipation, catégorie prétorienne regroupant les immeubles considérés par avance comme meubles avant leur détachement ; et les meubles par détermination de la loi (art. 529-530), tels que les créances, les parts sociales ou les propriétés intellectuelles.",
+      "tags": [
+        "meubles",
+        "article 527"
+      ]
+    },
+    {
+      "id": "biensclass-fc-004",
+      "front": "Quelles sont les trois conditions cumulatives permettant de qualifier un bien de meuble par anticipation ?",
+      "back": "Une volonté certaine des parties de détacher le bien, une séparation réelle et sérieuse permettant l'information des créanciers inscrits, et une séparation prévue dans un délai bref, court et déterminé.",
+      "tags": [
+        "meubles par anticipation",
+        "conditions cumulatives"
+      ]
+    },
+    {
+      "id": "biensclass-fc-005",
+      "front": "Quelles sont les quatre conditions cumulatives de la définition légale du trésor (art. 716, al. 1er, C. civ.) ?",
+      "back": "Une chose mobilière et corporelle, enfouie ou cachée, distincte de son contenant (à la différence d'une richesse naturelle du sol), et dont le propriétaire est inconnu, nul ne pouvant en justifier la propriété.",
+      "tags": [
+        "trésor",
+        "conditions cumulatives"
+      ]
+    },
+    {
+      "id": "biensclass-fc-006",
+      "front": "Qu'est-ce qu'un bien incorporel véritable, et pourquoi les parts sociales d'une société à vocation immobilière en constituent-elles un exemple emblématique ?",
+      "back": "Un bien sans existence physique propre, produit de l'esprit ou de la loi, tel qu'une part sociale, une propriété intellectuelle ou une clientèle ; les parts sociales restent des meubles par détermination de la loi même lorsque l'actif social est immobilier (Ass. plén. 2 oct. 2015), l'exception fiscale du Conseil d'État ne remettant pas en cause ce principe civil.",
+      "tags": [
+        "biens incorporels",
+        "parts sociales"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "biensclass-qcm-001",
+      "question": "Des récoltes sur pied poussent sur un terrain agricole. Une fois coupées et séparées du sol, quelle est leur nouvelle qualification juridique ?",
+      "options": [
+        "Elles deviennent des meubles, alors qu'elles étaient immeubles avant leur coupe",
+        "Elles restent des immeubles par nature, la coupe ne modifiant jamais leur qualification",
+        "Elles deviennent des immeubles par destination, en raison de leur origine agricole",
+        "Elles demeurent des biens incorporels, insusceptibles de toute appropriation matérielle"
+      ],
+      "answer": 0,
+      "explanation": "Les récoltes pendantes sont des immeubles par nature tant qu'elles adhèrent au sol ; elles deviennent des meubles dès leur coupe ou leur abattage, la séparation matérielle entraînant automatiquement le changement de qualification juridique du bien.",
+      "tags": [
+        "immeuble par nature",
+        "récoltes pendantes"
+      ]
+    },
+    {
+      "id": "biensclass-qcm-002",
+      "question": "Des fresques ornant le mur d'une église sont matériellement détachées de ce mur. Quel est l'effet de cette séparation sur leur qualification, selon l'assemblée plénière du 15 avril 1988 ?",
+      "options": [
+        "Aucun effet, les fresques demeurant des immeubles par nature même après leur détachement",
+        "Les fresques détachées redeviennent des meubles, ayant perdu leur adhérence au mur",
+        "Les fresques deviennent des immeubles par destination, en raison de leur valeur artistique",
+        "Les fresques deviennent des biens incorporels, indépendamment de tout support matériel"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'assemblée plénière du 15 avril 1988, les fresques, immeubles par nature tant qu'elles adhèrent au mur, redeviennent des meubles une fois matériellement séparées de ce support, leur qualification suivant ainsi leur état physique réel.",
+      "tags": [
+        "immeuble par nature",
+        "fresques"
+      ]
+    },
+    {
+      "id": "biensclass-qcm-003",
+      "question": "Un propriétaire retire, de sa seule initiative et sans acte particulier, le matériel agricole qu'il avait affecté à l'exploitation de son fonds. Cette seule volonté suffit-elle à faire cesser l'immobilisation par destination, selon Civ. 1re, 7 avril 1998 ?",
+      "options": [
+        "Oui, la seule volonté du propriétaire suffit à créer ou supprimer une telle immobilisation",
+        "Oui, mais seulement si le matériel retiré est vendu séparément dans un délai bref",
+        "Non, seul un acte matériel ou juridique peut mettre fin à l'immobilisation par destination",
+        "Non, l'immobilisation par destination est irréversible une fois qu'elle est constituée"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 1re, 7 avr. 1998, la seule volonté du propriétaire ne suffit ni à créer ni à supprimer une immobilisation par destination : seul un acte matériel (enlèvement effectif) ou juridique (vente séparée) peut mettre fin à ce lien fonctionnel.",
+      "tags": [
+        "immeuble par destination",
+        "rupture du lien"
+      ]
+    },
+    {
+      "id": "biensclass-qcm-004",
+      "question": "Depuis la loi du 16 février 2015, un propriétaire affecte des animaux à l'exploitation de son fonds agricole, dans les mêmes conditions que du matériel. Comment ces animaux sont-ils alors qualifiés ?",
+      "options": [
+        "Ils demeurent des meubles par nature, l'affectation agricole étant sans incidence",
+        "Ils deviennent des immeubles par nature, en raison de leur fixation durable au fonds",
+        "Ils demeurent des biens hors de toute classification, en raison de leur sensibilité",
+        "Ils deviennent des immeubles par destination, à l'instar du matériel agricole affecté"
+      ],
+      "answer": 3,
+      "explanation": "Depuis la loi du 16 février 2015, les animaux ne sont plus qualifiés de meubles par nature, mais ils peuvent devenir des immeubles par destination lorsqu'ils sont affectés par leur propriétaire à l'exploitation d'un fonds, à l'instar du matériel agricole ou industriel.",
+      "tags": [
+        "immeuble par destination",
+        "animaux"
+      ]
+    },
+    {
+      "id": "biensclass-qcm-005",
+      "question": "Un tableau de très grande valeur orne effectivement le salon d'un appartement. Selon Com. 17 octobre 1995, sa valeur exceptionnelle fait-elle obstacle à sa qualification de meuble meublant ?",
+      "options": [
+        "Non, la valeur du tableau est indifférente dès lors qu'il orne effectivement le logement",
+        "Oui, seuls les objets de faible valeur peuvent être qualifiés de meubles meublants",
+        "Oui, mais uniquement si le tableau constitue l'unique décoration de la pièce concernée",
+        "Non, mais uniquement si le tableau a été acquis avant l'occupation du logement concerné"
+      ],
+      "answer": 0,
+      "explanation": "Selon Com. 17 oct. 1995, un tableau ornant effectivement un appartement constitue un meuble meublant même s'il présente une très grande valeur, seule la destination effective d'ornement du logement important pour cette qualification.",
+      "tags": [
+        "meubles meublants",
+        "meubles par nature"
+      ]
+    },
+    {
+      "id": "biensclass-qcm-006",
+      "question": "Les parts d'une société civile immobilière (SCI), dont l'actif est composé exclusivement d'immeubles, conservent-elles leur nature mobilière au regard du droit civil, selon Ass. plén. 2 octobre 2015 ?",
+      "options": [
+        "Non, elles deviennent des immeubles par l'objet dès que l'actif social est immobilier",
+        "Oui, elles restent des meubles par détermination de la loi, sans égard à l'actif social",
+        "Non, leur nature dépend du choix exprimé par les associés dans les statuts sociaux",
+        "Oui, mais uniquement si la société a été constituée sous une forme commerciale"
+      ],
+      "answer": 1,
+      "explanation": "Selon Ass. plén. 2 oct. 2015, les parts sociales, y compris celles d'une SCI dont l'actif est intégralement composé d'immeubles, restent des meubles par détermination de la loi à l'égard des associés, cette qualification demeurant indifférente à la nature de l'actif social.",
+      "tags": [
+        "parts sociales",
+        "meubles par détermination de la loi"
+      ]
+    },
+    {
+      "id": "biensclass-qcm-007",
+      "question": "Un possesseur de bonne foi acquiert un meuble corporel appartenant en réalité à un tiers. Quel est le principal avantage probatoire dont il bénéficie, par comparaison avec l'acquisition d'un immeuble par un possesseur de bonne foi ?",
+      "options": [
+        "Aucun avantage particulier, les deux situations obéissant aux mêmes règles probatoires",
+        "Il doit démontrer sa bonne foi pendant une durée équivalente à celle exigée en immobilier",
+        "La possession vaut immédiatement titre, sans délai, à la différence de l'usucapion",
+        "Il bénéficie d'une présomption irréfragable de propriété, quel que soit le bien"
+      ],
+      "answer": 2,
+      "explanation": "En matière mobilière, la possession vaut immédiatement titre au profit du possesseur de bonne foi, tandis qu'en matière immobilière, l'acquisition par possession suppose une possession trentenaire, la prescription acquisitive de trente ans.",
+      "tags": [
+        "possession vaut titre",
+        "effets meubles-immeubles"
+      ]
+    },
+    {
+      "id": "biensclass-qcm-008",
+      "question": "Une vente est conclue à un prix manifestement inférieur à la valeur réelle du bien vendu. Cette lésion peut-elle donner lieu à rescision, que le bien vendu soit un meuble ou un immeuble ?",
+      "options": [
+        "Oui, la rescision pour lésion s'applique indifféremment aux meubles et aux immeubles",
+        "Oui, mais uniquement pour les meubles présentant une valeur artistique ou historique",
+        "Non, la rescision pour lésion a été purement et simplement supprimée du droit positif",
+        "Non, seule la vente d'un immeuble peut être rescindée pour lésion, à certaines conditions"
+      ],
+      "answer": 3,
+      "explanation": "Seule la vente d'un immeuble peut être rescindée pour lésion de plus de sept douzièmes, aucune protection équivalente n'existant pour la vente de meubles, ce qui illustre la protection économique accrue accordée aux immeubles.",
+      "tags": [
+        "lésion rescisoire",
+        "effets meubles-immeubles"
+      ]
+    },
+    {
+      "id": "biensclass-qcm-009",
+      "question": "Un trésor est découvert de façon purement fortuite par un ouvrier travaillant sur le fonds d'un propriétaire, sans instruction particulière de ce dernier. Comment ce trésor est-il réparti entre les protagonistes ?",
+      "options": [
+        "Il est partagé par moitié entre le propriétaire du fonds et l'ouvrier découvreur",
+        "Il appartient intégralement au propriétaire du fonds, seul titulaire du droit d'accession",
+        "Il appartient intégralement à l'ouvrier, seul auteur matériel de la découverte fortuite",
+        "Il devient la propriété de l'État, indépendamment de toute considération archéologique"
+      ],
+      "answer": 0,
+      "explanation": "Lorsque la découverte du trésor est purement fortuite et réalisée par un tiers agissant sans instruction du propriétaire, celui-ci est partagé par moitié entre le propriétaire du fonds, au titre de l'accession, et l'inventeur, au titre de l'occupation.",
+      "tags": [
+        "trésor",
+        "découverte fortuite"
+      ]
+    },
+    {
+      "id": "biensclass-qcm-010",
+      "question": "Le droit de propriété portant sur une chose corporelle constitue-t-il lui-même un bien incorporel distinct de cette chose ?",
+      "options": [
+        "Oui, il constitue toujours un bien incorporel mobilier, quelle que soit la chose concernée",
+        "Non, le droit de propriété se confond entièrement avec la chose sur laquelle il porte",
+        "Oui, il constitue un bien incorporel immobilier, indépendamment de la nature de la chose",
+        "Non, mais uniquement lorsque la chose sur laquelle il porte est elle-même incorporelle"
+      ],
+      "answer": 1,
+      "explanation": "À la différence des autres droits réels (usufruit, servitude), qui portent sur la chose d'autrui et constituent des biens incorporels distincts, le droit de propriété se confond avec la chose elle-même et n'est donc pas, à proprement parler, un bien incorporel autonome.",
+      "tags": [
+        "droit de propriété",
+        "biens incorporels"
+      ]
+    }
+  ]
+}

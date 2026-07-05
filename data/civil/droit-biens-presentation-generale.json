@@ -1,0 +1,150 @@
+{
+  "id": "droit-biens-presentation-generale",
+  "title": "Le droit des biens : la notion de bien et le patrimoine",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "biens-fc-001",
+      "front": "Quels sont les deux critères cumulatifs de la définition doctrinale du bien (Zénati-Castaing et Revet) ?",
+      "back": "L'utilité pour l'homme et l'appropriabilité : une chose insusceptible d'appropriation, comme l'air libre, n'est pas un bien même si elle présente une utilité ; certains auteurs y ajoutent un troisième critère, la valeur économique (Berlioz).",
+      "tags": [
+        "notion de bien",
+        "critères cumulatifs"
+      ]
+    },
+    {
+      "id": "biens-fc-002",
+      "front": "Quelle est la distinction fondamentale entre une chose et un bien ?",
+      "back": "La chose est une notion primitive et matérielle ; elle ne devient un bien que si elle fait l'objet d'une appropriation, effective ou possible. Les choses communes insusceptibles d'appropriation, comme l'air ou l'eau libre, demeurent de simples choses et non des biens.",
+      "tags": [
+        "chose",
+        "bien"
+      ]
+    },
+    {
+      "id": "biens-fc-003",
+      "front": "Quel est le statut juridique de l'animal depuis la loi du 16 février 2015 (art. 515-14 C. civ.) ?",
+      "back": "L'animal est reconnu comme un être vivant doué de sensibilité, mais il demeure soumis au régime des biens sous réserve des lois qui le protègent : il reste appropriable, vendable, et ne bénéficie donc pas d'un statut juridique autonome distinct de celui des biens.",
+      "tags": [
+        "l'animal",
+        "article 515-14"
+      ]
+    },
+    {
+      "id": "biens-fc-004",
+      "front": "Selon la théorie classique d'Aubry et Rau, qu'est-ce que le patrimoine, et quelles en sont les deux composantes ?",
+      "back": "Une universalité juridique regroupant l'ensemble des biens et obligations d'une personne, comprenant un actif (tous les biens) et un passif (toutes les dettes) ; l'actif répond du passif et forme le gage général des créanciers (art. 2284 C. civ.).",
+      "tags": [
+        "patrimoine",
+        "théorie d'Aubry et Rau"
+      ]
+    },
+    {
+      "id": "biens-fc-005",
+      "front": "Qu'est-ce que la fiducie, définie à l'article 2011 du Code civil ?",
+      "back": "Une opération par laquelle un constituant transfère des biens, droits ou sûretés à un fiduciaire, qui les tient séparés de son patrimoine propre dans un but déterminé, au profit d'un bénéficiaire ; on distingue la fiducie-gestion, destinée à gérer pour le compte d'autrui, et la fiducie-sûreté, destinée à garantir une créance.",
+      "tags": [
+        "fiducie",
+        "patrimoine d'affectation"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "biens-qcm-001",
+      "question": "Un fonds de commerce est composé d'éléments corporels et incorporels affectés à l'exploitation, sans qu'aucune dette n'y soit rattachée. À quelle catégorie appartient-il, par opposition au patrimoine au sens classique ?",
+      "options": [
+        "Une universalité de fait, ne comprenant que des éléments actifs, sans passif attaché",
+        "Une universalité de droit, comprenant nécessairement un actif et un passif distincts",
+        "Un patrimoine autonome, distinct du patrimoine personnel de son propre exploitant",
+        "Une simple chose commune, insusceptible de faire l'objet d'une appropriation"
+      ],
+      "answer": 0,
+      "explanation": "Le fonds de commerce, comme la bibliothèque ou la clientèle, constitue une universalité de fait : il ne comprend que des éléments actifs, sans passif attaché, à la différence du patrimoine, universalité de droit associant nécessairement un actif et un passif.",
+      "tags": [
+        "patrimoine",
+        "universalité de fait"
+      ]
+    },
+    {
+      "id": "biens-qcm-002",
+      "question": "Selon la Cour européenne des droits de l'homme (arrêt Parrillo c. Italie, 27 août 2015), quel est le statut des embryons surnuméraires conservés in vitro ?",
+      "options": [
+        "Ce sont des biens meubles ordinaires, appropriables comme n'importe quelle chose",
+        "Ce ne sont pas des choses, leur destruction pouvant à ce titre être interdite",
+        "Ce sont des personnes juridiques à part entière, titulaires de droits patrimoniaux",
+        "Ce sont des choses communes, insusceptibles de toute appropriation individuelle"
+      ],
+      "answer": 1,
+      "explanation": "Dans l'arrêt Parrillo c. Italie du 27 août 2015, la Cour européenne des droits de l'homme a jugé que les embryons surnuméraires ne sont pas des choses, ce qui permet d'interdire leur destruction, sans pour autant leur reconnaître la qualité de personne.",
+      "tags": [
+        "embryon",
+        "CEDH"
+      ]
+    },
+    {
+      "id": "biens-qcm-003",
+      "question": "Selon le principe d'unité du patrimoine issu de la théorie classique d'Aubry et Rau, une même personne peut-elle être titulaire de plusieurs patrimoines distincts ?",
+      "options": [
+        "Oui, à condition que chacun de ces patrimoines soit affecté à un but différent",
+        "Oui, sans aucune limite, dès lors que les patrimoines demeurent distincts entre eux",
+        "Non, chaque personne ne peut avoir, selon cette théorie, qu'un seul patrimoine",
+        "Non, sauf autorisation judiciaire préalable accordée à l'entrepreneur individuel"
+      ],
+      "answer": 2,
+      "explanation": "La théorie classique d'Aubry et Rau lie indissolublement le patrimoine à la personne : chaque personne n'a nécessairement qu'un seul patrimoine, ce principe d'unité et d'indivisibilité étant précisément ce que la théorie de l'affectation est venue remettre en cause.",
+      "tags": [
+        "patrimoine",
+        "principe d'unité"
+      ]
+    },
+    {
+      "id": "biens-qcm-004",
+      "question": "Le propriétaire d'un château photographié sans son accord peut-il invoquer un droit exclusif à l'image de son bien pour interdire cette photographie, depuis le revirement de l'assemblée plénière du 7 mai 2004 ?",
+      "options": [
+        "Oui, le propriétaire dispose d'un monopole exclusif sur toute image de son bien",
+        "Oui, mais uniquement si le bien photographié constitue sa résidence principale",
+        "Non, aucune action ne lui est ouverte, quelles que soient les circonstances en cause",
+        "Non, il ne peut agir que s'il démontre l'existence d'un trouble anormal causé par l'image"
+      ],
+      "answer": 3,
+      "explanation": "Depuis le revirement de l'assemblée plénière du 7 mai 2004, le propriétaire d'un bien ne dispose plus d'un droit exclusif sur son image : il ne peut agir que sur le fondement d'un trouble anormal causé par l'exploitation de cette image, le fondement glissant depuis vers la concurrence déloyale.",
+      "tags": [
+        "droit à l'image des biens",
+        "trouble anormal"
+      ]
+    },
+    {
+      "id": "biens-qcm-005",
+      "question": "Depuis la loi du 14 février 2022, quel critère permet de distinguer les biens relevant du patrimoine professionnel de l'entrepreneur individuel de ceux relevant de son patrimoine personnel ?",
+      "options": [
+        "La nécessité absolue du bien pour l'exercice même de l'activité professionnelle",
+        "L'utilité du bien pour l'activité professionnelle, les biens mixtes étant inclus",
+        "La déclaration préalable du bien effectuée par l'entrepreneur auprès du greffe",
+        "La valeur du bien, seuls les biens excédant un certain montant étant professionnels"
+      ],
+      "answer": 1,
+      "explanation": "La loi du 14 février 2022 retient le critère de l'utilité du bien pour l'activité professionnelle, et non celui, plus restrictif, de la nécessité : les biens à usage mixte, à la fois personnel et professionnel, sont ainsi inclus dans le patrimoine professionnel.",
+      "tags": [
+        "patrimoine professionnel",
+        "loi du 14 février 2022"
+      ]
+    },
+    {
+      "id": "biens-qcm-006",
+      "question": "Selon la conception retenue par la Cour européenne des droits de l'homme au titre de l'article 1er du Protocole n° 1, une simple espérance légitime à valeur patrimoniale peut-elle constituer un « bien » ?",
+      "options": [
+        "Oui, cette conception extensive et fonctionnelle inclut une telle espérance légitime",
+        "Non, seule une créance déjà reconnue par une décision de justice définitive peut l'être",
+        "Non, la notion de bien reste strictement limitée aux droits réels sur une chose corporelle",
+        "Oui, mais uniquement si cette espérance porte sur un bien immobilier déterminé"
+      ],
+      "answer": 0,
+      "explanation": "La Cour européenne des droits de l'homme retient une conception très étendue et fonctionnelle de la notion de bien : toute espérance légitime à valeur patrimoniale peut y être rattachée, ce qui excède largement la notion civiliste classique de bien corporel ou incorporel.",
+      "tags": [
+        "notion de bien",
+        "CEDH Protocole n° 1"
+      ]
+    }
+  ]
+}

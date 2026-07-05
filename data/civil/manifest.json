@@ -221,6 +221,18 @@
       "file": "extinction-obligations.json",
       "title": "Les modes d'extinction de l'obligation : paiement, novation, délégation, compensation, confusion, remise de dette et prescription",
       "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "droit-biens-presentation-generale",
+      "file": "droit-biens-presentation-generale.json",
+      "title": "Le droit des biens : la notion de bien et le patrimoine",
+      "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "droit-biens-classification",
+      "file": "droit-biens-classification.json",
+      "title": "La classification des biens : meubles, immeubles, biens corporels et incorporels",
+      "category": "Droit civil — Les biens"
     }
   ]
 }
