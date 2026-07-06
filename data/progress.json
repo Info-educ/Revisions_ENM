@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1783262033991,
+  "updatedAt": 1783349079382,
   "themes": {
     "civil": {
       "items": {
@@ -2320,6 +2320,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1783261979448
+        },
+        "droitsbiens-qcm-006": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1783349075369
         }
       }
     },
