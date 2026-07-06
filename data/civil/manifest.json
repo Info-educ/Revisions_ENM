@@ -239,6 +239,24 @@
       "file": "biens-distinctions-annexes.json",
       "title": "La classification des biens : les distinctions annexes (consomptibles, fongibles, fruits, appropriation)",
       "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "droits-portant-biens",
+      "file": "droits-portant-biens.json",
+      "title": "Les droits portant sur les biens : droit réel, droit personnel et classification des droits réels",
+      "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "propriete",
+      "file": "propriete.json",
+      "title": "La propriété : attributs, caractères et protections du droit de propriété",
+      "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "possession",
+      "file": "possession.json",
+      "title": "La possession : corpus, animus, qualités requises et effets juridiques",
+      "category": "Droit civil — Les biens"
     }
   ]
 }

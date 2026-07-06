@@ -1,0 +1,255 @@
+{
+  "id": "possession",
+  "title": "La possession : corpus, animus, qualités requises et effets juridiques",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "poss-fc-001",
+      "front": "Que prévoit l'article 2255 du Code civil, et quels sont les deux éléments constitutifs de la possession qu'en dégagent la doctrine et la jurisprudence ?",
+      "back": "La possession est la détention ou la jouissance d'une chose ou d'un droit que nous tenons ou exerçons par nous-mêmes ou par autrui en notre nom ; elle suppose le corpus, pouvoir de fait et maîtrise matérielle, et l'animus, l'intention de se comporter comme le maître de la chose, l'animus domini.",
+      "tags": [
+        "article 2255",
+        "corpus et animus"
+      ]
+    },
+    {
+      "id": "poss-fc-002",
+      "front": "Quelle est la différence essentielle entre le possesseur et le détenteur précaire, et quelle conséquence en tire l'article 2266 du Code civil ?",
+      "back": "Le possesseur réunit corpus et animus, tandis que le détenteur précaire (locataire, dépositaire, usufruitier) n'a que le corpus, sa détention étant exercée en vertu d'un titre qui l'empêche de prétendre posséder pour son propre compte ; l'article 2266 en tire la conséquence que ceux qui possèdent pour autrui ne prescrivent jamais, quel que soit le temps écoulé.",
+      "tags": [
+        "détention précaire",
+        "article 2266"
+      ]
+    },
+    {
+      "id": "poss-fc-003",
+      "front": "Quelle double présomption pose l'article 2256 du Code civil pour faciliter la preuve de l'animus ?",
+      "back": "On est toujours présumé posséder pour soi-même et à titre de propriétaire ; celui qui détient matériellement une chose, corpus prouvé, est ainsi présumé avoir l'animus, cette présomption simple pouvant être renversée par la preuve d'une simple détention précaire.",
+      "tags": [
+        "article 2256",
+        "présomption d'animus"
+      ]
+    },
+    {
+      "id": "poss-fc-004",
+      "front": "Quelles sont les quatre qualités que doit présenter une possession pour être utile et produire son plein effet acquisitif (art. 2261 C. civ.) ?",
+      "back": "Elle doit être continue, exercée régulièrement selon la nature du bien, paisible, non acquise par violence, publique, manifestée par des actes apparents, et non équivoque, manifestant clairement l'intention de se comporter en propriétaire.",
+      "tags": [
+        "article 2261",
+        "qualités de la possession"
+      ]
+    },
+    {
+      "id": "poss-fc-005",
+      "front": "Que prévoit l'article 2276, alinéa 1er, du Code civil quant à l'effet probatoire de la possession mobilière ?",
+      "back": "En matière mobilière, la possession fait présumer, jusqu'à preuve du contraire, que le possesseur a un titre ; c'est au demandeur en revendication qu'il incombe de prouver sa propre propriété, le possesseur profitant du rôle avantageux de défendeur au procès.",
+      "tags": [
+        "effet probatoire",
+        "article 2276"
+      ]
+    },
+    {
+      "id": "poss-fc-006",
+      "front": "Quels sont les délais de l'effet acquisitif de la possession selon qu'elle porte sur un meuble ou un immeuble ?",
+      "back": "Pour les meubles, l'acquisition de la propriété est immédiate, « en fait de meubles, possession vaut titre » (art. 2276, al. 1er) ; pour les immeubles, la prescription est de trente ans en cas de simple possession utile (art. 2272, al. 1er), réduite à dix ans en cas de bonne foi et de juste titre (art. 2272, al. 2).",
+      "tags": [
+        "effet acquisitif",
+        "prescription acquisitive"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "poss-qcm-001",
+      "question": "Entre la conception subjective de Savigny et la conception objective d'Ihéring, laquelle a été retenue par le droit français pour caractériser la possession ?",
+      "options": [
+        "La conception subjective de Savigny, exigeant un animus distinct du seul pouvoir de fait",
+        "La conception objective d'Ihéring, le corpus suffisant seul à caractériser la possession",
+        "Une conception mixte, combinant à parts égales les deux théories doctrinales opposées",
+        "Aucune des deux conceptions, le droit français ayant développé sa propre théorie autonome"
+      ],
+      "answer": 0,
+      "explanation": "Le droit français retient la conception subjective de Savigny : l'animus, volonté distincte de se comporter en propriétaire, s'ajoute au corpus, ce qui seul permet d'exclure le détenteur précaire du bénéfice de la possession.",
+      "tags": [
+        "débat Savigny Ihéring",
+        "animus"
+      ]
+    },
+    {
+      "id": "poss-qcm-002",
+      "question": "Un enfant en bas âge accomplit des actes matériels sur un bien qui lui appartient. Peut-il être qualifié de possesseur de ce bien, au regard de l'exigence de l'animus ?",
+      "options": [
+        "Oui, les actes matériels suffisent à eux seuls à caractériser la possession de l'enfant",
+        "Non, l'enfant en bas âge est exclu de l'animus, faute de volonté libre suffisante",
+        "Oui, mais uniquement si un tuteur légal accomplit ces actes en son nom et pour son compte",
+        "Non, mais uniquement si l'enfant a moins de trois ans au moment des faits considérés"
+      ],
+      "answer": 1,
+      "explanation": "L'infans et l'aliéné sont exclus de l'animus, faute d'une volonté apte à se déterminer librement, quels que soient les actes matériels qu'ils accomplissent par ailleurs sur le bien concerné.",
+      "tags": [
+        "animus",
+        "incapacité de posséder"
+      ]
+    },
+    {
+      "id": "poss-qcm-003",
+      "question": "Une personne souscrit un contrat d'abonnement électrique et un raccordement au réseau d'eau concernant un immeuble. Selon Civ. 3e, 9 février 2017, ces seuls actes juridiques suffisent-ils à caractériser le corpus de la possession ?",
+      "options": [
+        "Oui, la souscription de tels contrats suffit à elle seule à établir une emprise physique",
+        "Oui, mais si ces contrats ont été souscrits pendant plus de dix années consécutives",
+        "Non, seuls des actes matériels effectifs peuvent fonder le corpus initial de la possession",
+        "Non, mais uniquement si la personne ne réside pas effectivement dans l'immeuble concerné"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 3e, 9 février 2017, souscrire un contrat d'abonnement EDF ou de raccordement à l'eau ne caractérise pas à lui seul le corpus ; seuls des actes matériels effectifs, comme l'occupation ou la construction, peuvent fonder le corpus initial de la possession.",
+      "tags": [
+        "corpus",
+        "actes juridiques insuffisants"
+      ]
+    },
+    {
+      "id": "poss-qcm-004",
+      "question": "Un locataire acquiert de bonne foi l'appartement qu'il loue auprès d'un tiers qui se prétendait propriétaire sans l'être réellement. Ce locataire devient-il possesseur par cette seule acquisition, sans autre changement de comportement ?",
+      "options": [
+        "Oui, l'acquisition de bonne foi transforme automatiquement le détenteur en possesseur",
+        "Oui, mais uniquement si l'acquisition a été constatée par un acte notarié authentique",
+        "Non, cette acquisition ne produit strictement aucun effet sur la nature de sa détention",
+        "Non, il faut aussi que son comportement change, en cessant par exemple de payer le loyer"
+      ],
+      "answer": 3,
+      "explanation": "L'interversion de titre par le fait d'un tiers suppose non seulement une acquisition de bonne foi, mais également un changement effectif de comportement du détenteur, tel que la cessation du paiement du loyer à son ancien bailleur.",
+      "tags": [
+        "interversion de titre",
+        "fait d'un tiers"
+      ]
+    },
+    {
+      "id": "poss-qcm-005",
+      "question": "Un locataire cesse de payer ses loyers pendant plusieurs décennies, sans que son bailleur ne réagisse. Selon Civ. 3e, 27 septembre 2006, ce seul non-paiement prolongé caractérise-t-il une interversion de titre ?",
+      "options": [
+        "Non, ce comportement passif ne suffit pas, il faut un acte actif et univoque",
+        "Oui, le non-paiement prolongé constitue à lui seul un acte positif et univoque suffisant",
+        "Oui, mais uniquement si le bailleur avait connaissance de ce non-paiement dès l'origine",
+        "Non, mais si le bailleur ne l'a jamais mis en demeure de régulariser sa situation"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 3e, 27 septembre 2006, le non-paiement prolongé des loyers, comportement purement passif, ne suffit pas à caractériser une interversion de titre, qui exige un acte positif et non équivoque manifestant la volonté de se comporter en propriétaire.",
+      "tags": [
+        "interversion de titre",
+        "fait du détenteur"
+      ]
+    },
+    {
+      "id": "poss-qcm-006",
+      "question": "Un possesseur n'occupe sa résidence secondaire que trois mois par an, conformément à l'usage habituel de ce type de bien. Cette occupation partielle rend-elle sa possession discontinue ?",
+      "options": [
+        "Oui, toute occupation inférieure à six mois par an rend la possession discontinue",
+        "Non, la continuité s'apprécie selon la nature du bien et les usages qui lui sont propres",
+        "Oui, la continuité exige une occupation permanente, sans aucune exception possible",
+        "Non, mais uniquement si le possesseur y séjourne au moins un mois consécutif chaque année"
+      ],
+      "answer": 1,
+      "explanation": "La continuité de la possession s'apprécie selon la nature du bien et les usages qui lui sont propres : ne pas occuper une résidence secondaire pendant plusieurs mois de l'année ne rend pas, pour autant, la possession discontinue.",
+      "tags": [
+        "continuité",
+        "qualités de la possession"
+      ]
+    },
+    {
+      "id": "poss-qcm-007",
+      "question": "Une possession a été acquise par la violence, laquelle cesse ensuite au bout de quelques mois. Le vice de violence affecte-t-il alors la possession de façon définitive ?",
+      "options": [
+        "Oui, le vice de violence affecte définitivement la possession, quelle que soit sa suite",
+        "Oui, mais si la victime de la violence n'a engagé aucune action dans l'année suivante",
+        "Non, le vice de violence est temporaire et cesse dès que la violence prend fin",
+        "Non, mais uniquement si l'auteur de la violence obtient le pardon exprès de sa victime"
+      ],
+      "answer": 2,
+      "explanation": "Le vice de violence est temporaire, conformément à l'article 2263, alinéa 2, du Code civil : dès que la violence cesse, la possession recommence à produire son effet juridique normalement, sans qu'un pardon de la victime soit requis.",
+      "tags": [
+        "vice de violence",
+        "caractère temporaire"
+      ]
+    },
+    {
+      "id": "poss-qcm-008",
+      "question": "Un indivisaire exploite seul le bien indivis, y construit et y conclut des baux. Ces actes caractérisent-ils, en principe, une possession non équivoque à l'égard de ses coindivisaires ?",
+      "options": [
+        "Oui, tout acte d'exploitation accompli par un indivisaire est en principe non équivoque",
+        "Oui, mais si l'indivisaire exploite le bien depuis plus de dix années consécutives",
+        "Non, mais si les coindivisaires résident hors du territoire national concerné",
+        "Non, ces actes sont équivoques, un indivisaire ayant déjà le droit d'agir ainsi"
+      ],
+      "answer": 3,
+      "explanation": "Les actes d'exploitation accomplis par un indivisaire sont en principe équivoques à l'égard de ses coindivisaires, car un indivisaire a déjà le droit d'agir ainsi ; il faut des actes manifestant l'intention claire de se comporter comme seul et unique propriétaire (Civ. 3e, 9 nov. 2022).",
+      "tags": [
+        "équivoque",
+        "indivisaire"
+      ]
+    },
+    {
+      "id": "poss-qcm-009",
+      "question": "Une possession présente un vice, par exemple une discontinuité ou un caractère équivoque. Ce vice fait-il obstacle à l'effet probatoire de la possession, permettant au possesseur de bénéficier du rôle de défendeur au procès ?",
+      "options": [
+        "Non, l'effet probatoire profite au possesseur même en présence d'une possession viciée",
+        "Oui, seule une possession exempte de tout vice peut bénéficier de cet effet probatoire",
+        "Oui, mais seulement si le vice affecte la continuité, à l'exclusion des autres",
+        "Non, mais si le véritable propriétaire ne s'est jamais manifesté durant l'instance"
+      ],
+      "answer": 0,
+      "explanation": "Contrairement à l'effet acquisitif, l'effet probatoire de la possession ne distingue pas entre possession utile ou viciée : même une possession viciée fait profiter son titulaire de la qualité avantageuse de défendeur au procès en revendication.",
+      "tags": [
+        "effet probatoire",
+        "possession viciée"
+      ]
+    },
+    {
+      "id": "poss-qcm-010",
+      "question": "Un adjudicataire d'un immeuble n'a pas payé le prix convenu au véritable propriétaire vendeur. Peut-il néanmoins invoquer la prescription abrégée de dix ans, selon Civ. 2e, 11 juillet 2013 ?",
+      "options": [
+        "Oui, la prescription abrégée s'applique dès lors que l'acquéreur est de bonne foi",
+        "Non, ce bénéfice suppose une acquisition a non domino, non un défaut d'exécution",
+        "Oui, mais uniquement si le défaut de paiement résulte d'une simple négligence involontaire",
+        "Non, mais uniquement si l'adjudication a eu lieu il y a moins de dix années"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 2e, 11 juillet 2013, la prescription abrégée suppose une acquisition a non domino, d'un non-propriétaire : elle ne sert pas à régulariser un défaut d'exécution d'un contrat par ailleurs valable conclu avec le véritable propriétaire.",
+      "tags": [
+        "prescription abrégée",
+        "acquisition a non domino"
+      ]
+    },
+    {
+      "id": "poss-qcm-011",
+      "question": "Une société acquiert de bonne foi un fragment sculpté ayant appartenu au domaine public. Peut-elle invoquer la maxime « en fait de meubles, possession vaut titre » pour en devenir propriétaire, selon Civ. 1re, 13 février 2019 ?",
+      "options": [
+        "Oui, la bonne foi de l'acquéreur l'emporte sur l'origine domaniale du bien concerné",
+        "Oui, mais uniquement si le bien a quitté le domaine public depuis plus de trente ans",
+        "Non, l'inaliénabilité et l'imprescriptibilité du domaine public l'emportent ici",
+        "Non, mais si l'acquéreur savait pertinemment que le bien venait du domaine public"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 1re, 13 février 2019, l'inaliénabilité et l'imprescriptibilité du domaine public, protégées par l'intérêt général, l'emportent sur la maxime « possession vaut titre », même au détriment d'un acquéreur de bonne foi.",
+      "tags": [
+        "possession vaut titre",
+        "domaine public"
+      ]
+    },
+    {
+      "id": "poss-qcm-012",
+      "question": "Depuis la loi du 16 février 2015, les trois actions possessoires traditionnelles (complainte, dénonciation de nouvel œuvre, action en réintégration) existent-elles toujours en droit positif ?",
+      "options": [
+        "Oui, elles demeurent pleinement en vigueur aux côtés de la procédure de référé",
+        "Oui, mais seule l'action en réintégration a été maintenue par cette réforme de 2015",
+        "Non, mais elles ont été remplacées par une action unique devant le tribunal judiciaire",
+        "Non, elles ont été supprimées et remplacées par la seule voie du référé rapide"
+      ],
+      "answer": 3,
+      "explanation": "La loi du 16 février 2015 a supprimé les trois actions possessoires traditionnelles, devenues rarissimes en pratique : la protection de la possession passe désormais uniquement par la voie du référé, plus simple et plus rapide.",
+      "tags": [
+        "actions possessoires",
+        "loi du 16 février 2015"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "propriete",
+  "title": "La propriété : attributs, caractères et protections du droit de propriété",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "propr-fc-001",
+      "front": "Que prévoit l'article 544 du Code civil, et quelle tension structure cette définition ?",
+      "back": "Le droit de propriété est le droit de jouir et de disposer des choses de la manière la plus absolue, pourvu qu'on n'en fasse pas un usage prohibé par les lois ou par les règlements ; la première partie affiche un pouvoir maximal, tandis que la seconde le borne aussitôt par le seul respect des lois et règlements, un rapport d'exclusivité selon lequel seule la loi, non un tiers, peut limiter ce pouvoir.",
+      "tags": [
+        "article 544",
+        "propriété"
+      ]
+    },
+    {
+      "id": "propr-fc-002",
+      "front": "Quels sont les trois attributs classiques du droit de propriété, et pourquoi l'article 544 n'en mentionne-t-il explicitement que deux ?",
+      "back": "L'usus (jus utendi, user de la chose), le fructus (jus fruendi, en percevoir les fruits) et l'abusus (jus abutendi, en disposer) ; l'article 544 ne nomme que « jouir » et « disposer », car, selon Carbonnier, l'usus est virtuellement contenu dans le fait de jouir.",
+      "tags": [
+        "usus fructus abusus",
+        "attributs de la propriété"
+      ]
+    },
+    {
+      "id": "propr-fc-003",
+      "front": "Que signifie le caractère absolu de la propriété selon la formule consacrée par le Conseil constitutionnel ?",
+      "back": "Le droit de propriété est absolu dans sa définition, le propriétaire pouvant accomplir tous les actes qui ne lui sont pas expressément interdits, mais non dans son régime, qui autorise de multiples restrictions au nom de l'intérêt général (Cons. const., 30 sept. 2011 ; 23 sept. 2011).",
+      "tags": [
+        "caractère absolu",
+        "Conseil constitutionnel"
+      ]
+    },
+    {
+      "id": "propr-fc-004",
+      "front": "Quel est le fondement textuel du caractère perpétuel de la propriété, et quel paradoxe la prescription acquisitive soulève-t-elle à son égard ?",
+      "back": "L'article 2227 du Code civil dispose que le droit de propriété est imprescriptible ; le paradoxe tient à ce que le propriétaire peut néanmoins perdre son bien par l'usucapion d'un possesseur, la jurisprudence résolvant cette contradiction en considérant que ce n'est pas le droit ancien qui s'éteint par le temps, mais un droit nouveau qui naît chez le possesseur.",
+      "tags": [
+        "caractère perpétuel",
+        "imprescriptibilité"
+      ]
+    },
+    {
+      "id": "propr-fc-005",
+      "front": "Qu'est-ce que le caractère exclusif de la propriété, et de quel autre caractère découle-t-il logiquement ?",
+      "back": "Le pouvoir du propriétaire d'écarter toute intervention d'un tiers ou de l'État sur son bien sans son accord ; ce caractère découle logiquement du caractère absolu, puisque si le pouvoir du propriétaire est total, personne d'autre ne peut en exercer une part sans son consentement.",
+      "tags": [
+        "caractère exclusif",
+        "propriété"
+      ]
+    },
+    {
+      "id": "propr-fc-006",
+      "front": "Quel principe gouverne la sanction de l'empiétement d'une construction sur le fonds d'autrui, selon l'article 545 du Code civil ?",
+      "back": "La démolition systématique est ordonnée sans aucune pondération, quelle que soit l'ampleur de l'empiétement, l'absence de préjudice réel ou la bonne foi de l'auteur : la défense du droit de propriété contre un empiétement ne saurait dégénérer en abus.",
+      "tags": [
+        "empiétement",
+        "article 545"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "propr-qcm-001",
+      "question": "Selon la thèse de J.-B. Chazal, la figure du « propriétaire souverain », érigée en dogme au XIXe siècle, est-elle aujourd'hui conforme au droit positif ? Quelle réponse Dross lui oppose-t-il ?",
+      "options": [
+        "Non selon Chazal, dogme dépassé ; Dross réplique en distinguant définition et régime",
+        "Oui selon les deux auteurs, qui admettent le caractère intangible absolu de la propriété",
+        "Non selon Dross uniquement, Chazal défendant au contraire le maintien intégral de ce dogme",
+        "Oui selon Chazal, qui y voit la validation contemporaine du modèle individualiste de 1804"
+      ],
+      "answer": 0,
+      "explanation": "Chazal considère que le « propriétaire souverain » est un dogme construit au XIXe siècle, aujourd'hui contraire au droit positif qui multiplie les limites ; Dross lui répond en distinguant le caractère absolu de la définition de l'article 544 de son régime, contingent et évolutif.",
+      "tags": [
+        "débat doctrinal",
+        "Chazal Dross"
+      ]
+    },
+    {
+      "id": "propr-qcm-002",
+      "question": "Un locataire sous-loue sans autorisation une partie de son logement social via une plateforme de location. Selon Civ. 3e, 22 juin 2022, à qui appartiennent les loyers ainsi perçus par ce locataire ?",
+      "options": [
+        "Au locataire lui-même, seul auteur matériel du contrat de sous-location conclu",
+        "Au bailleur, ces loyers constituant un fruit civil de sa propriété du logement",
+        "À la plateforme de location, qui a permis matériellement cette mise en relation",
+        "Ils sont partagés par moitié entre le locataire et le bailleur du logement social"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 3e, 22 juin 2022, le loyer perçu par le locataire au titre de la sous-location interdite constitue un fruit civil de la propriété du bailleur, et non du locataire, la propriété des fruits suivant la propriété du bien loué.",
+      "tags": [
+        "fruits civils",
+        "sous-location"
+      ]
+    },
+    {
+      "id": "propr-qcm-003",
+      "question": "Sur quel fondement l'assemblée plénière du 7 mai 2004 a-t-elle opéré son revirement concernant le droit à l'image des biens, abandonnant le rattachement antérieur à la seule jouissance ?",
+      "options": [
+        "Le fondement de la contrefaçon de marque, protégeant l'image comme un signe distinctif",
+        "Le fondement du droit à l'oubli numérique, propre à la protection des données personnelles",
+        "Le fondement du trouble anormal, rapprochant la matière des troubles de voisinage",
+        "Le fondement de la concurrence déloyale exclusivement, à l'exclusion de tout autre critère"
+      ],
+      "answer": 2,
+      "explanation": "L'assemblée plénière du 7 mai 2004 a basculé le fondement du droit à l'image des biens vers le trouble anormal, sur le modèle des troubles de voisinage : le propriétaire ne peut plus agir qu'en cas de trouble anormal, indépendamment de sa seule qualité de propriétaire.",
+      "tags": [
+        "droit à l'image des biens",
+        "revirement 2004"
+      ]
+    },
+    {
+      "id": "propr-qcm-004",
+      "question": "Un propriétaire choisit de ne jamais utiliser le bien immobilier dont il est titulaire. Cette abstention prolongée est-elle sanctionnée par la perte de son droit d'usage ?",
+      "options": [
+        "Oui, le non-usage prolongé d'un immeuble entraîne l'extinction automatique de l'usus",
+        "Oui, mais uniquement après un délai de trente ans sans aucune utilisation du bien",
+        "Non, mais le propriétaire doit justifier annuellement de son intention de le conserver",
+        "Non, aucune sanction ne frappe le non-usage, sauf prescription acquisitive d'un tiers"
+      ],
+      "answer": 3,
+      "explanation": "Le non-usage d'un bien n'est jamais sanctionné en tant que tel : la seule limite provient d'un tiers possesseur qui, en s'installant durablement, peut acquérir le bien par prescription acquisitive, un nouveau droit naissant alors chez ce possesseur.",
+      "tags": [
+        "usus",
+        "absence de sanction du non-usage"
+      ]
+    },
+    {
+      "id": "propr-qcm-005",
+      "question": "Un propriétaire souhaite insérer dans un acte de donation une clause d'inaliénabilité perpétuelle et sans justification particulière. Cette clause est-elle valable, au regard de l'article 900-1 du Code civil ?",
+      "options": [
+        "Non, une telle clause n'est valable que si elle est temporaire et justifiée sérieusement",
+        "Oui, toute clause d'inaliénabilité insérée dans une donation est valable sans condition",
+        "Oui, mais uniquement si le donateur est encore en vie au moment où elle est invoquée",
+        "Non, aucune clause d'inaliénabilité n'est jamais valable en droit français contemporain"
+      ],
+      "answer": 0,
+      "explanation": "L'article 900-1 du Code civil subordonne la validité d'une clause d'inaliénabilité à son caractère temporaire et à sa justification par un intérêt sérieux et légitime, sous peine de vider l'abusus de tout contenu de façon permanente.",
+      "tags": [
+        "clause d'inaliénabilité",
+        "abusus"
+      ]
+    },
+    {
+      "id": "propr-qcm-006",
+      "question": "Une collectivité territoriale dispose d'un droit de préemption sur un bien mis en vente. Ce droit supprime-t-il l'abusus du propriétaire, c'est-à-dire sa faculté de vendre le bien ?",
+      "options": [
+        "Oui, le droit de préemption prive totalement le propriétaire de sa faculté de vendre",
+        "Non, il ne supprime pas l'abusus mais limite seulement le choix de l'acquéreur",
+        "Oui, mais uniquement lorsque le bien concerné se situe en zone littorale protégée",
+        "Non, il ne produit strictement aucun effet sur les prérogatives du propriétaire vendeur"
+      ],
+      "answer": 1,
+      "explanation": "Le droit de préemption ne supprime pas l'abusus du propriétaire, qui conserve la faculté de vendre : il limite seulement le choix de l'acquéreur, en permettant à la collectivité d'acquérir en priorité un bien stratégique sans empêcher la vente elle-même.",
+      "tags": [
+        "droit de préemption",
+        "abusus"
+      ]
+    },
+    {
+      "id": "propr-qcm-007",
+      "question": "Un étang disparaît, absorbé par le domaine public maritime, puis réapparaît plus d'un siècle plus tard au même endroit. Selon l'assemblée plénière du 23 juin 1972, que devient la propriété de cet étang pendant sa disparition ?",
+      "options": [
+        "Elle demeure inchangée pendant la disparition, la propriété étant imprescriptible",
+        "Elle est transférée automatiquement et définitivement à l'État dès sa disparition",
+        "Elle s'éteint pendant la disparition de la chose, puis revit à sa réapparition ultérieure",
+        "Elle se transforme en un droit personnel, dépourvu de tout caractère réel durant ce temps"
+      ],
+      "answer": 2,
+      "explanation": "Selon l'assemblée plénière du 23 juin 1972, la propriété de l'étang s'était éteinte pendant sa disparition, puis a revécu à sa réapparition : la propriété n'a pas d'existence autonome, elle dure exactement aussi longtemps que dure son objet.",
+      "tags": [
+        "caractère perpétuel",
+        "étang Napoléon"
+      ]
+    },
+    {
+      "id": "propr-qcm-008",
+      "question": "Une personne occupe un logement sans droit ni titre. Le juge des référés doit-il, avant d'ordonner l'expulsion, prendre en considération la situation personnelle de cet occupant, selon Civ. 3e, 20 janv. 2010 et 21 déc. 2017 ?",
+      "options": [
+        "Oui, le juge doit systématiquement peser la situation personnelle de l'occupant",
+        "Oui, mais uniquement si l'occupant démontre sa bonne foi lors de son installation",
+        "Non, mais uniquement si l'occupant est une personne morale plutôt qu'une personne physique",
+        "Non, l'occupation sans droit ni titre constitue un trouble manifestement illicite"
+      ],
+      "answer": 3,
+      "explanation": "Selon Civ. 3e, 20 janv. 2010 et 21 déc. 2017, l'occupation sans droit ni titre constitue par elle-même un trouble manifestement illicite justifiant l'expulsion en référé, sans considération de la situation personnelle de l'occupant.",
+      "tags": [
+        "occupation sans droit ni titre",
+        "caractère exclusif"
+      ]
+    },
+    {
+      "id": "propr-qcm-009",
+      "question": "Une loi impose aux petits propriétaires fonciers d'adhérer à une association de chasse communale, permettant à des tiers de pénétrer sur leur terrain. Selon la CEDH, Chassagnou c. France (1999), cette atteinte à l'exclusivité est-elle jugée proportionnée ?",
+      "options": [
+        "Non, cette atteinte permanente à l'exclusivité est jugée disproportionnée par la Cour",
+        "Oui, l'objectif de gestion rationnelle de la chasse justifie pleinement cette obligation",
+        "Oui, mais uniquement pour les propriétaires possédant plus d'un hectare de terrain",
+        "Non, mais uniquement parce que la loi ne prévoyait aucune indemnisation compensatoire"
+      ],
+      "answer": 0,
+      "explanation": "Dans l'arrêt Chassagnou c. France du 29 avril 1999, la Cour européenne juge disproportionnée l'atteinte permanente et sans échappatoire réelle à l'exclusivité de la propriété que constituait l'obligation d'adhérer à une association de chasse.",
+      "tags": [
+        "caractère exclusif",
+        "Chassagnou CEDH"
+      ]
+    },
+    {
+      "id": "propr-qcm-010",
+      "question": "Une construction empiète, non sur la propriété pleine et entière d'un fonds, mais sur une simple servitude de passage. Selon Civ. 3e, 19 décembre 2019, les juges du fond doivent-ils alors examiner la proportionnalité de la démolition ordonnée ?",
+      "options": [
+        "Non, le principe de démolition systématique de l'empiétement s'applique sans exception",
+        "Oui, les juges doivent vérifier la disproportion de la démolition et une alternative",
+        "Non, seule la construction sur le sol d'autrui admet un contrôle de proportionnalité",
+        "Oui, mais si l'empiétement concerne une servitude de plus de trente ans d'ancienneté"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 3e, 19 déc. 2019, à propos d'un empiétement sur une servitude de passage, la Cour impose pour la première fois aux juges du fond de vérifier si la démolition n'est pas disproportionnée et si une solution alternative n'est pas possible.",
+      "tags": [
+        "empiétement",
+        "servitude de passage"
+      ]
+    },
+    {
+      "id": "propr-qcm-011",
+      "question": "Un preneur à bail emphytéotique constate qu'une construction voisine empiète sur le fonds dont il jouit. Peut-il invoquer la défense perpétuelle attachée au droit de propriété pour obtenir la démolition de cet empiétement ?",
+      "options": [
+        "Oui, tout titulaire d'un droit d'usage sur le fonds invoque cette défense perpétuelle",
+        "Oui, mais si son bail emphytéotique porte sur une durée supérieure à cinquante ans",
+        "Non, seul le propriétaire privatif du fonds invoque cette protection réelle perpétuelle",
+        "Non, aucune action en cessation n'est ouverte, quelle que soit la qualité du demandeur"
+      ],
+      "answer": 2,
+      "explanation": "Seul le propriétaire privatif du bien peut invoquer la défense perpétuelle de la propriété : le preneur à bail emphytéotique ne peut se prévaloir que d'un manquement contractuel, prescriptible en cinq ans, et non d'une atteinte réelle et perpétuelle.",
+      "tags": [
+        "empiétement",
+        "bail emphytéotique"
+      ]
+    },
+    {
+      "id": "propr-qcm-012",
+      "question": "Selon la CEDH, Sovtransavto Holding c. Ukraine (2002), l'obligation de protéger le droit au respect des biens pèse-t-elle sur l'État uniquement dans ses propres rapports avec les particuliers ?",
+      "options": [
+        "Oui, cette obligation ne concerne que les atteintes commises par l'État lui-même",
+        "Oui, les litiges entre personnes privées relèvent du seul droit interne de chaque État",
+        "Non, mais si l'une des parties au litige est elle-même une personne publique",
+        "Non, l'État a aussi une obligation positive de protéger la propriété entre particuliers"
+      ],
+      "answer": 3,
+      "explanation": "Selon la CEDH, Sovtransavto Holding c. Ukraine, l'État a une obligation positive de protéger la propriété même dans un litige entre personnes privées : il ne suffit pas qu'il s'abstienne d'y porter atteinte, il doit aussi organiser des voies de droit effectives entre les particuliers.",
+      "tags": [
+        "protection européenne",
+        "obligation positive de l'État"
+      ]
+    }
+  ]
+}

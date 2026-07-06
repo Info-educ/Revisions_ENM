@@ -1,0 +1,182 @@
+{
+  "id": "droits-portant-biens",
+  "title": "Les droits portant sur les biens : droit réel, droit personnel et classification des droits réels",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "droitsbiens-fc-001",
+      "front": "Quelles sont les quatre différences de régime essentielles entre le droit réel et le droit personnel ?",
+      "back": "L'opposabilité (absolue, erga omnes, pour le droit réel ; relative au débiteur pour le droit personnel), le droit de suite (existant pour le droit réel, absent pour le droit personnel, limité au gage général sur le patrimoine du débiteur), le droit de préférence (le droit réel l'emporte en cas de conflit) et le nombre (limité, numerus clausus discuté, art. 543 C. civ., pour le droit réel ; illimité par liberté contractuelle pour le droit personnel).",
+      "tags": [
+        "droit réel",
+        "droit personnel"
+      ]
+    },
+    {
+      "id": "droitsbiens-fc-002",
+      "front": "Quels sont les trois attributs du droit de propriété, et que se passe-t-il lorsqu'ils sont répartis entre plusieurs personnes ?",
+      "back": "L'usus (user de la chose), le fructus (en percevoir les fruits) et l'abusus (en disposer) ; toute diminution de ces attributs constitue un démembrement de la propriété, comme dans l'usufruit, où l'usufruitier détient l'usus et le fructus tandis que le nu-propriétaire conserve l'abusus.",
+      "tags": [
+        "droit de propriété",
+        "démembrement"
+      ]
+    },
+    {
+      "id": "droitsbiens-fc-003",
+      "front": "Quelle est la différence entre un droit réel principal et un droit réel accessoire ?",
+      "back": "Le droit réel principal, tel que la propriété, l'usufruit ou la servitude, porte directement sur la matérialité et l'utilité de la chose ; le droit réel accessoire, ou sûreté réelle, tel que l'hypothèque, le gage ou le nantissement, n'affecte la chose qu'à titre de garantie d'une créance, sans conférer aucun usage.",
+      "tags": [
+        "droits réels principaux",
+        "droits réels accessoires"
+      ]
+    },
+    {
+      "id": "droitsbiens-fc-004",
+      "front": "Qu'est-ce que le droit réel de jouissance spéciale (DRJS), et quelle est sa principale limite temporelle ?",
+      "back": "Un droit réel sui generis de libre création conventionnelle, conférant la jouissance spéciale du bien d'autrui, librement déterminée par les parties ; il n'est pas perpétuel et sa durée est en principe limitée à trente ans pour une personne morale, ou à la vie du bénéficiaire pour une personne physique, à défaut de durée conventionnelle prévue.",
+      "tags": [
+        "droit réel de jouissance spéciale",
+        "non-perpétuité"
+      ]
+    },
+    {
+      "id": "droitsbiens-fc-005",
+      "front": "Qu'est-ce qu'une obligation réelle (propter rem), et qu'est-ce que l'obligation réelle environnementale (ORE) ?",
+      "back": "Une obligation liée à la chose, pesant non sur un débiteur personnellement désigné mais sur le propriétaire de cette chose en tant que tel, et qui disparaît dès que la propriété cesse ; l'ORE (art. L. 132-3 C. envir.) est un contrat volontaire par lequel un propriétaire s'engage envers une collectivité ou une association à des obligations à finalité écologique, qui suivent le bien et s'imposent aux propriétaires successifs.",
+      "tags": [
+        "obligation propter rem",
+        "ORE"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "droitsbiens-qcm-001",
+      "question": "Un acquéreur signe un contrat de vente portant sur un immeuble à construire, non encore individualisé au moment de la signature. Quelle est la nature du droit dont il est titulaire avant cette individualisation ?",
+      "options": [
+        "Un droit personnel, l'objet du droit réel supposant une chose existante et individualisée",
+        "Un droit réel de jouissance spéciale, portant sur le futur immeuble à construire",
+        "Un droit réel principal, la propriété future étant déjà acquise dès la signature",
+        "Aucun droit, l'acquéreur ne disposant d'aucune prérogative avant l'achèvement complet"
+      ],
+      "answer": 0,
+      "explanation": "Le droit réel suppose une chose existante et individualisée ; avant l'achèvement et l'individualisation de l'immeuble à construire, l'acquéreur n'est titulaire que d'un droit personnel envers le vendeur, la propriété ne se transférant qu'au fur et à mesure de la construction.",
+      "tags": [
+        "droit personnel",
+        "vente en l'état futur d'achèvement"
+      ]
+    },
+    {
+      "id": "droitsbiens-qcm-002",
+      "question": "Selon la théorie personnaliste de Planiol, le droit réel constituerait une obligation passive universelle pesant sur toute la société. Quelle critique doctrinale majeure est adressée à cette théorie ?",
+      "options": [
+        "Elle confond à tort le droit réel avec un simple droit de créance ordinaire",
+        "Elle interprète à tort l'opposabilité erga omnes comme créant des obligations universelles",
+        "Elle ignore totalement l'existence même du droit de suite attaché au droit réel",
+        "Elle nie à tort l'existence même d'une distinction entre droit réel et droit personnel"
+      ],
+      "answer": 1,
+      "explanation": "La critique majeure adressée à la théorie de Planiol est d'avoir interprété à tort l'opposabilité erga omnes du droit réel comme la création d'obligations universelles : les tiers doivent seulement respecter le droit réel, sans en devenir débiteurs d'une prestation.",
+      "tags": [
+        "théorie personnaliste",
+        "Planiol"
+      ]
+    },
+    {
+      "id": "droitsbiens-qcm-003",
+      "question": "Le droit au bail, bien que doté par le législateur de prérogatives renforcées comparables à celles d'un droit réel, conserve-t-il sa qualification de droit personnel, selon l'arrêt Syndicat Vollot de 1861 ?",
+      "options": [
+        "Non, il a été reclassé comme droit réel principal par la jurisprudence contemporaine",
+        "Non, il constitue désormais un droit intellectuel selon la classification tripartite",
+        "Oui, il demeure un droit personnel malgré ses prérogatives réelles renforcées",
+        "Oui, mais uniquement pour les baux commerciaux, à l'exclusion des baux d'habitation"
+      ],
+      "answer": 2,
+      "explanation": "Depuis l'arrêt Syndicat Vollot de 1861, le droit au bail demeure qualifié de droit personnel, bien que le législateur lui ait progressivement conféré des prérogatives renforcées, se rapprochant de celles d'un droit réel, sans pour autant en changer la nature.",
+      "tags": [
+        "droit au bail",
+        "droits intermédiaires"
+      ]
+    },
+    {
+      "id": "droitsbiens-qcm-004",
+      "question": "L'article 543 du Code civil dresse une liste des droits réels, ce qui pourrait suggérer un numerus clausus fermé. La jurisprudence Maison de la Poésie permet-elle néanmoins de créer des droits réels non prévus par cette liste ?",
+      "options": [
+        "Non, aucun droit réel ne peut être créé en dehors de la liste légale fermée",
+        "Non, seul le législateur peut créer de nouveaux droits réels par une loi expresse",
+        "Oui, mais uniquement pour les droits réels accessoires constitués en garantie",
+        "Oui, un droit réel de jouissance spéciale peut être créé par simple convention"
+      ],
+      "answer": 3,
+      "explanation": "La jurisprudence Maison de la Poésie a consacré le droit réel de jouissance spéciale, pouvant être créé par simple convention entre les parties, ce qui remet en cause le caractère fermé du numerus clausus suggéré par la liste de l'article 543 du Code civil.",
+      "tags": [
+        "numerus clausus",
+        "droit réel de jouissance spéciale"
+      ]
+    },
+    {
+      "id": "droitsbiens-qcm-005",
+      "question": "Un droit au bois bourgeois est attaché à la personne de son titulaire plutôt qu'à un fonds dominant. Selon Civ. 3e, 2009, ce droit constitue-t-il une servitude ?",
+      "options": [
+        "Non, il s'agit d'un droit personnel attaché à la personne, non à un fonds dominant",
+        "Oui, il constitue une servitude dès lors qu'il porte sur l'utilité d'un fonds",
+        "Oui, mais uniquement si le titulaire du droit est également propriétaire d'un fonds voisin",
+        "Non, il s'agit d'un droit réel de jouissance spéciale, distinct de la servitude classique"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 3e, 2009, le droit au bois bourgeois, attaché à la personne de son titulaire et non à un fonds dominant, ne peut être qualifié de servitude : il s'agit d'un droit personnel, la servitude supposant nécessairement l'existence de deux fonds distincts.",
+      "tags": [
+        "servitude",
+        "droit personnel attaché à la personne"
+      ]
+    },
+    {
+      "id": "droitsbiens-qcm-006",
+      "question": "La clause de réserve de propriété, par laquelle la propriété d'un bien est retenue à titre de garantie, confère-t-elle un droit de suite au vendeur identique dans toutes les hypothèses ?",
+      "options": [
+        "Oui, le droit de suite s'exerce toujours et uniquement sur la chose elle-même",
+        "Non, le droit de suite est variable, pouvant porter sur la chose ou sur son substitut",
+        "Oui, mais uniquement lorsque l'acquéreur a été déclaré en liquidation judiciaire",
+        "Non, cette clause ne confère en réalité aucun droit de suite au profit du vendeur"
+      ],
+      "answer": 1,
+      "explanation": "Le droit de suite attaché à la clause de réserve de propriété est variable : il peut porter sur la chose elle-même lorsqu'elle subsiste en nature, ou sur son substitut (créance de sous-acquéreur, indemnité d'assurance) lorsque la chose a été revendue ou détruite.",
+      "tags": [
+        "clause de réserve de propriété",
+        "droit de suite"
+      ]
+    },
+    {
+      "id": "droitsbiens-qcm-007",
+      "question": "Le droit de rétention, qualifié par la Cour de cassation de « droit réel opposable à tous », peut-il être rangé parmi les droits réels principaux ou parmi les droits réels accessoires classiques ?",
+      "options": [
+        "Oui, il constitue un droit réel principal, comparable à l'usufruit ou à la servitude",
+        "Oui, il constitue un droit réel accessoire classique, comme le gage ou le nantissement",
+        "Non, la doctrine y voit une catégorie intermédiaire, parfois qualifiée de quasi-sûreté",
+        "Non, il s'agit d'un simple droit personnel, malgré sa qualification jurisprudentielle"
+      ],
+      "answer": 2,
+      "explanation": "Le droit de rétention ne correspond ni à un droit réel principal, faute de droit de jouissance sur la chose, ni à un droit réel accessoire classique, faute de droit direct sur sa valeur : la doctrine y voit une catégorie intermédiaire, parfois qualifiée de quasi-sûreté.",
+      "tags": [
+        "droit de rétention",
+        "quasi-sûreté"
+      ]
+    },
+    {
+      "id": "droitsbiens-qcm-008",
+      "question": "Selon le projet de réforme du droit des biens (APRDB), la distinction entre droit réel principal et droit réel accessoire est-elle maintenue, et pour quel motif ?",
+      "options": [
+        "Oui, elle est maintenue à l'identique, aucune réforme n'étant envisagée sur ce point",
+        "Non, elle est remplacée par une distinction fondée sur la seule durée du droit concerné",
+        "Oui, mais son critère de distinction est profondément renouvelé par le projet de réforme",
+        "Non, elle est abandonnée, la propriété-sûreté ayant brouillé la frontière entre elles"
+      ],
+      "answer": 3,
+      "explanation": "Le projet de réforme du droit des biens (APRDB) abandonne la distinction entre droit réel principal et droit réel accessoire, la propriété-sûreté (clause de réserve de propriété, fiducie-sûreté) ayant brouillé la frontière entre ces deux catégories classiques.",
+      "tags": [
+        "projet de réforme",
+        "propriété-sûreté"
+      ]
+    }
+  ]
+}
