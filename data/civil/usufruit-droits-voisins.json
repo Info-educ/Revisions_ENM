@@ -1,0 +1,221 @@
+{
+  "id": "usufruit-droits-voisins",
+  "title": "L'usufruit et les droits réels voisins : usage, habitation, superficie et jouissance spéciale",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "usufruit-fc-001",
+      "front": "Que prévoit l'article 578 du Code civil définissant l'usufruit, et quelle répartition des droits en résulte entre usufruitier et nu-propriétaire ?",
+      "back": "L'usufruit est le droit de jouir des choses dont un autre a la propriété, comme le propriétaire lui-même, mais à charge d'en conserver la substance ; l'usufruitier détient l'usus et le fructus, tandis que le nu-propriétaire conserve l'abusus.",
+      "tags": [
+        "article 578",
+        "usufruit"
+      ]
+    },
+    {
+      "id": "usufruit-fc-002",
+      "front": "Quelles sont les trois sources possibles de l'usufruit ?",
+      "back": "L'usufruit légal, institué par la loi (conjoint survivant, prestation compensatoire, jouissance légale des parents) ; l'usufruit volontaire, résultant d'une convention à titre onéreux ou gratuit ou d'un testament ; et l'usufruit par possession, acquis a non domino de bonne foi par juste titre.",
+      "tags": [
+        "sources de l'usufruit"
+      ]
+    },
+    {
+      "id": "usufruit-fc-003",
+      "front": "Quelle est la répartition de principe des charges entre l'usufruitier et le nu-propriétaire concernant les réparations ?",
+      "back": "L'usufruitier supporte les réparations d'entretien (art. 605) et les charges annuelles, impôts fonciers, contributions ; le nu-propriétaire supporte les grosses réparations, énumérées limitativement à l'article 606, gros murs, voûtes, poutres, couvertures entières, digues ; il ne peut être contraint de les exécuter.",
+      "tags": [
+        "charges usufructuaires",
+        "grosses réparations"
+      ]
+    },
+    {
+      "id": "usufruit-fc-004",
+      "front": "Quelles sont les quatre causes d'extinction de l'usufruit ?",
+      "back": "L'extinction normale, arrivée du terme, mort de l'usufruitier ou trente ans maximum pour une personne morale ; l'extinction volontaire, terme conventionnel ou renonciation ; l'extinction accidentelle, perte totale de la chose, non-usage trentenaire ou consolidation ; et la sanction d'un comportement abusif, déchéance pour abus de jouissance.",
+      "tags": [
+        "extinction de l'usufruit"
+      ]
+    },
+    {
+      "id": "usufruit-fc-005",
+      "front": "Quelle est la différence fondamentale entre les droits d'usage et d'habitation et le droit de superficie quant à leur cessibilité ?",
+      "back": "Les droits d'usage et d'habitation sont incessibles, insaisissables et ne peuvent être ni loués ni hypothéqués (art. 631, 634), très marqués par l'intuitu personae ; le droit de superficie, à l'inverse, est librement cessible entre vifs et transmissible à cause de mort, sans caractère viager par nature.",
+      "tags": [
+        "droits d'usage et d'habitation",
+        "droit de superficie"
+      ]
+    },
+    {
+      "id": "usufruit-fc-006",
+      "front": "Qu'est-ce que le droit réel de jouissance spéciale, consacré par la jurisprudence Maison de la Poésie ?",
+      "back": "Un droit réel sui generis permettant au propriétaire de consentir, sous réserve des règles d'ordre public, une jouissance spéciale librement déterminée par les parties (installations sportives, bateau, droit de chasse...), distinct de l'usufruit et de l'usage ou l'habitation ; en l'absence de durée conventionnelle, il s'éteint après trente ans pour une personne morale ou à la mort pour une personne physique.",
+      "tags": [
+        "droit réel de jouissance spéciale",
+        "Maison de la Poésie"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "usufruit-qcm-001",
+      "question": "L'usufruitier de parts sociales d'une société est-il titulaire de la qualité d'associé, réservée en principe au nu-propriétaire, selon l'avis de la chambre commerciale du 1er décembre 2021 ?",
+      "options": [
+        "Non, la qualité d'associé reste réservée au nu-propriétaire, l'usufruitier en étant exclu",
+        "Oui, l'usufruitier acquiert cette qualité automatiquement dès constitution de l'usufruit",
+        "Oui, mais uniquement si les statuts de la société le prévoient expressément par une clause",
+        "Non, ni l'usufruitier ni le nu-propriétaire ne disposent alors de la qualité d'associé"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'avis de la chambre commerciale du 1er décembre 2021, confirmé par Civ. 3e, 16 février 2022, l'usufruitier n'a pas la qualité d'associé, réservée au nu-propriétaire, mais il peut provoquer une délibération sur une question ayant une incidence directe sur son droit de jouissance.",
+      "tags": [
+        "usufruit de parts sociales",
+        "qualité d'associé"
+      ]
+    },
+    {
+      "id": "usufruit-qcm-002",
+      "question": "L'usufruitier de parts sociales dispose-t-il, en principe, du droit de vote lors des décisions collectives, à l'exception d'une catégorie particulière de décisions ?",
+      "options": [
+        "Non, le droit de vote appartient au seul nu-propriétaire pour toutes les décisions",
+        "Oui, sauf pour les décisions sur l'affectation des bénéfices, réservée au nu-propriétaire",
+        "Oui, mais seulement pour celles ayant une incidence directe sur son droit de jouissance",
+        "Non, sauf clause statutaire attribuant ce droit à l'usufruitier de façon exceptionnelle"
+      ],
+      "answer": 1,
+      "explanation": "Le principe légal attribue le droit de vote à l'usufruitier, sauf pour les décisions relatives à l'affectation des bénéfices, réservées au nu-propriétaire, une clause statutaire contraire pouvant toutefois moduler cette répartition légale.",
+      "tags": [
+        "usufruit de parts sociales",
+        "droit de vote"
+      ]
+    },
+    {
+      "id": "usufruit-qcm-003",
+      "question": "Des dividendes sont prélevés sur les réserves d'une société dont les parts sont grevées d'usufruit. Les chambres commerciale et civile de la Cour de cassation retiennent-elles la même analyse de ces dividendes ?",
+      "options": [
+        "Oui, les deux chambres s'accordent à y voir un quasi-usufruit au profit de l'usufruitier",
+        "Oui, les deux chambres s'accordent pour exclure tout droit de l'usufruitier sur ces sommes",
+        "Non, la chambre commerciale y voit un quasi-usufruit, la civile l'excluant totalement",
+        "Non, les deux chambres divergent, mais sur la seule question du taux d'imposition dû"
+      ],
+      "answer": 2,
+      "explanation": "Selon Com. 27 mai 2015, les dividendes prélevés sur les réserves relèvent d'un quasi-usufruit au profit de l'usufruitier, tandis que selon Civ. 1re, 22 juin 2016, aucun droit ne lui revient, ces sommes constituant un accroissement de l'actif social au profit du nu-propriétaire.",
+      "tags": [
+        "dividendes",
+        "divergence entre chambres"
+      ]
+    },
+    {
+      "id": "usufruit-qcm-004",
+      "question": "Une construction sur le bien de l'usufruitier est affectée d'un défaut relevant de la garantie décennale. L'usufruitier peut-il agir contre le constructeur et son assureur comme s'il était propriétaire ?",
+      "options": [
+        "Oui, l'usufruitier bénéficie de la garantie décennale exactement comme le propriétaire",
+        "Oui, mais uniquement si le nu-propriétaire l'autorise expressément à agir en son nom",
+        "Non, mais uniquement si la construction a été réalisée avant la constitution de l'usufruit",
+        "Non, l'usufruitier ne bénéficie pas de la garantie décennale envers ceux-ci"
+      ],
+      "answer": 3,
+      "explanation": "L'usufruitier ne peut bénéficier de la garantie décennale envers le constructeur et son assureur comme s'il était le propriétaire, cette action restant réservée au propriétaire de l'ouvrage, en l'occurrence le nu-propriétaire.",
+      "tags": [
+        "garantie décennale",
+        "usufruitier"
+      ]
+    },
+    {
+      "id": "usufruit-qcm-005",
+      "question": "Un trésor est découvert sur un immeuble pendant la durée de l'usufruit qui le grève. Ce trésor revient-il à l'usufruitier au même titre que les fruits du bien ?",
+      "options": [
+        "Non, l'usufruitier n'a pas droit au trésor pendant l'usufruit, revenant au nu-propriétaire",
+        "Oui, le trésor découvert pendant l'usufruit revient à l'usufruitier, comme un fruit civil",
+        "Oui, mais uniquement si l'usufruitier est lui-même l'auteur matériel de cette découverte",
+        "Non, ce trésor est partagé par moitié entre l'usufruitier et le nu-propriétaire du bien"
+      ],
+      "answer": 0,
+      "explanation": "L'usufruitier n'a pas droit au trésor découvert sur le bien pendant la durée de l'usufruit, ni aux produits du bien en général : ce trésor revient au nu-propriétaire, la découverte ne constituant pas un fruit relevant du droit de jouissance de l'usufruitier.",
+      "tags": [
+        "trésor",
+        "droits de l'usufruitier"
+      ]
+    },
+    {
+      "id": "usufruit-qcm-006",
+      "question": "La chose grevée d'usufruit périt partiellement, sans que cette perte soit imputable à l'une des parties. L'usufruit s'éteint-il alors totalement ?",
+      "options": [
+        "Oui, toute perte, même partielle, de la chose entraîne l'extinction totale de l'usufruit",
+        "Non, l'usufruit continue de s'exercer sur la partie du bien ayant subsisté à la perte",
+        "Oui, mais uniquement si la perte partielle affecte plus de la moitié de la valeur du bien",
+        "Non, mais uniquement si l'usufruitier reconstitue à ses frais la partie perdue du bien"
+      ],
+      "answer": 1,
+      "explanation": "En cas de perte partielle et non imputable de la chose grevée, l'usufruit continue de s'exercer sur la partie du bien ayant subsisté, seule la perte totale de la chose constituant une cause d'extinction accidentelle de l'usufruit.",
+      "tags": [
+        "extinction accidentelle",
+        "perte partielle"
+      ]
+    },
+    {
+      "id": "usufruit-qcm-007",
+      "question": "Un usufruitier commet des dégradations sur le bien grevé, caractérisant un abus de jouissance. Le juge est-il tenu de prononcer systématiquement la déchéance de l'usufruit, selon Civ. 3e, 4 juin 1975 ?",
+      "options": [
+        "Oui, la déchéance est la seule sanction possible en cas d'abus de jouissance caractérisé",
+        "Oui, mais si le nu-propriétaire a mis en demeure l'usufruitier de cesser ces agissements",
+        "Non, les juges du fond disposent d'un pouvoir souverain pour une sanction modérée",
+        "Non, aucune sanction n'est possible en l'absence de mise en demeure préalable adressée"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 3e, 4 juin 1975, les juges du fond disposent d'un pouvoir d'appréciation souverain en cas d'abus de jouissance : ils peuvent prononcer la déchéance de l'usufruit ou une sanction plus modérée, telle qu'une indemnité compensatrice.",
+      "tags": [
+        "abus de jouissance",
+        "pouvoir souverain des juges"
+      ]
+    },
+    {
+      "id": "usufruit-qcm-008",
+      "question": "Une mésentente survient entre le titulaire d'un droit d'usage et le propriétaire du bien concerné. Cette mésentente constitue-t-elle une cause d'extinction du droit d'usage ?",
+      "options": [
+        "Oui, toute mésentente durable entre les parties entraîne l'extinction du droit d'usage",
+        "Oui, mais uniquement si la mésentente a donné lieu à une procédure judiciaire préalable",
+        "Non, mais uniquement si le titulaire du droit d'usage renonce expressément à celui-ci",
+        "Non, la mésentente entre usager et propriétaire n'est pas une cause d'extinction du droit"
+      ],
+      "answer": 3,
+      "explanation": "La mésentente entre l'usager et le propriétaire n'est pas une cause d'extinction du droit d'usage, celui-ci ne s'éteignant que par les causes empruntées à l'usufruit, à savoir la mort, le délai de trente ans ou la déchéance pour abus.",
+      "tags": [
+        "droit d'usage",
+        "extinction"
+      ]
+    },
+    {
+      "id": "usufruit-qcm-009",
+      "question": "Un superficiaire invoque la prescription acquisitive à l'égard du fonds sur lequel porte son droit. Cette prescription, exceptionnelle en pratique, porte-t-elle uniquement sur les constructions et plantations, ou sur le fonds tout entier ?",
+      "options": [
+        "Sur le fonds tout entier, et non uniquement sur les constructions ou plantations élevées",
+        "Uniquement sur les constructions et plantations, à l'exclusion du tréfonds correspondant",
+        "Uniquement sur le tréfonds, les constructions demeurant la propriété du tréfoncier",
+        "Sur aucun élément du fonds, la prescription acquisitive étant exclue pour ce droit réel"
+      ],
+      "answer": 0,
+      "explanation": "L'acquisition du droit de superficie par prescription, exceptionnelle en pratique, porte sur le fonds tout entier et non uniquement sur les constructions ou plantations qui s'y trouvent, à la différence de l'accession qui ne vise que ces éléments.",
+      "tags": [
+        "droit de superficie",
+        "prescription acquisitive"
+      ]
+    },
+    {
+      "id": "usufruit-qcm-010",
+      "question": "Un droit réel de jouissance spéciale est constitué sans qu'aucune durée n'ait été fixée par les parties. Ce droit peut-il être perpétuel, selon Civ. 3e, 28 janvier 2015 ?",
+      "options": [
+        "Oui, en l'absence de durée conventionnelle, le droit devient perpétuel par nature",
+        "Non, il ne peut être perpétuel et s'éteint dans les conditions applicables à l'usufruit",
+        "Oui, mais si le bénéficiaire est une personne physique et non une personne morale",
+        "Non, ce droit est alors nul, faute de durée déterminée entre les parties concernées"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 3e, 28 janvier 2015, si le droit de jouissance spéciale n'est pas limité dans le temps par la volonté des parties, il ne peut être perpétuel et s'éteint dans les conditions applicables à l'usufruit, soit trente ans pour une personne morale.",
+      "tags": [
+        "droit réel de jouissance spéciale",
+        "non-perpétuité"
+      ]
+    }
+  ]
+}

@@ -275,6 +275,12 @@
       "file": "preuve-protection-propriete.json",
       "title": "La preuve et la protection de la propriété : régime probatoire dualiste et action en revendication",
       "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "usufruit-droits-voisins",
+      "file": "usufruit-droits-voisins.json",
+      "title": "L'usufruit et les droits réels voisins : usage, habitation, superficie et jouissance spéciale",
+      "category": "Droit civil — Les biens"
     }
   ]
 }
