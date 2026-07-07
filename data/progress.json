@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1783456716284,
+  "updatedAt": 1783456740252,
   "themes": {
     "civil": {
       "items": {
@@ -2789,6 +2789,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1783456712274
+        },
+        "usufruit-qcm-002": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1783456736237
         }
       }
     },
