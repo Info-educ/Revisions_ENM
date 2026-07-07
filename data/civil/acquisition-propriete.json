@@ -1,0 +1,223 @@
+{
+  "id": "acquisition-propriete",
+  "title": "L'acquisition de la propriété : acquisition dérivée, originaire et par possession utile",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "acqprop-fc-001",
+      "front": "Quelles sont les trois familles de modes d'acquisition de la propriété énumérées à l'article 711 du Code civil ?",
+      "back": "L'acquisition dérivée, l'acquéreur tenant ses droits d'un prédécesseur par acte unilatéral ou convention ; l'acquisition originaire, l'acquéreur n'étant l'ayant cause de personne (occupation, accession) ; et l'acquisition par l'effet d'une possession utile, la prescription acquisitive ou usucapion.",
+      "tags": [
+        "article 711",
+        "modes d'acquisition"
+      ]
+    },
+    {
+      "id": "acqprop-fc-002",
+      "front": "Que prévoit le principe d'instantanéité du transfert de propriété posé par l'article 1196 du Code civil ?",
+      "back": "Le transfert de propriété s'opère solo consensu, par le seul échange des consentements, sans formalité ni exigence de l'accomplissement d'une obligation de donner ; la réforme de 2016 en a fait un simple effet légal du contrat, et non plus la conséquence de l'exécution d'une obligation.",
+      "tags": [
+        "article 1196",
+        "transfert solo consensu"
+      ]
+    },
+    {
+      "id": "acqprop-fc-003",
+      "front": "Comment se résout, selon l'article 1198 du Code civil, le conflit entre deux acquéreurs successifs d'un même bien ?",
+      "back": "En matière mobilière, celui qui est entré en possession le premier l'emporte, à condition d'être de bonne foi ; en matière immobilière, la publicité foncière tranche en faveur de celui qui a publié le premier, sauf mauvaise foi de ce dernier, exigence introduite par l'ordonnance du 10 février 2016.",
+      "tags": [
+        "article 1198",
+        "conflit d'acquéreurs successifs"
+      ]
+    },
+    {
+      "id": "acqprop-fc-004",
+      "front": "Quelles sont les deux hypothèses distinguées par les articles 554 et 555 du Code civil en matière d'accession par incorporation artificielle ?",
+      "back": "La construction avec des matériaux d'autrui sur son propre terrain (art. 554), où le propriétaire du sol devient propriétaire des matériaux moyennant indemnisation, et la construction ou plantation par un tiers sur le terrain d'autrui (art. 555), où l'accession opère de plein droit selon un régime variant selon la bonne ou mauvaise foi du constructeur.",
+      "tags": [
+        "article 554",
+        "article 555"
+      ]
+    },
+    {
+      "id": "acqprop-fc-005",
+      "front": "Quelles sont les trois conditions cumulatives de l'acquisition a non domino d'un meuble, fondée sur la maxime « en fait de meubles, possession vaut titre » (art. 2276 C. civ.) ?",
+      "back": "Un bien meuble corporel susceptible d'appropriation, la qualité de possesseur, et non de simple détenteur précaire, au moment où le véritable propriétaire agit en revendication, et une possession de bonne foi, croyance pleine et entière au moment de l'acquisition, toujours présumée (art. 2274).",
+      "tags": [
+        "acquisition a non domino",
+        "article 2276"
+      ]
+    },
+    {
+      "id": "acqprop-fc-006",
+      "front": "Quelles sont les deux durées de la prescription acquisitive immobilière, et quelles conditions les distinguent ?",
+      "back": "Trente ans pour la prescription de droit commun, applicable au possesseur de bonne ou de mauvaise foi (art. 2272, al. 1er) ; dix ans pour la prescription abrégée, qui exige le cumul d'un juste titre et de la bonne foi (art. 2272, al. 2).",
+      "tags": [
+        "prescription acquisitive",
+        "juste titre"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "acqprop-qcm-001",
+      "question": "Un testateur lègue l'ensemble de ses biens à plusieurs légataires, la transmission s'opérant immédiatement à son décès. Cette immédiateté signifie-t-elle que chaque légataire obtient aussitôt des droits privatifs sur des biens déterminés ?",
+      "options": [
+        "Non, le bien indivis reste indivisaire entre les légataires jusqu'à l'opération du partage",
+        "Oui, chaque légataire devient immédiatement propriétaire exclusif d'un bien précis",
+        "Oui, mais uniquement si le testament désigne précisément les biens attribués à chacun",
+        "Non, aucun droit ne naît avant l'homologation judiciaire du partage successoral"
+      ],
+      "answer": 0,
+      "explanation": "L'immédiateté de la transmission testamentaire n'implique pas que chaque légataire obtienne instantanément des droits privatifs : en présence de plusieurs légataires, le bien indivis reste indivisaire jusqu'à l'opération du partage entre eux.",
+      "tags": [
+        "testament",
+        "indivision successorale"
+      ]
+    },
+    {
+      "id": "acqprop-qcm-002",
+      "question": "Un acheteur devient propriétaire d'un bien avant sa livraison matérielle par le vendeur, en application de l'article 1196 du Code civil. Selon l'adage res perit domino, qui supporte en principe le risque de perte fortuite de ce bien ?",
+      "options": [
+        "Le vendeur, qui reste débiteur de l'obligation de livraison jusqu'à son exécution complète",
+        "L'acheteur, devenu propriétaire, sauf mise en demeure de délivrer adressée au vendeur",
+        "Les deux parties, par moitié, indépendamment de toute mise en demeure de délivrer",
+        "Aucune des parties, le risque étant alors supporté par l'assureur du bien vendu"
+      ],
+      "answer": 1,
+      "explanation": "Le transfert des risques suit le transfert de propriété : l'acheteur, devenu propriétaire, supporte en principe les pertes fortuites même avant la livraison, sauf tempérament tiré de la mise en demeure de délivrer, qui remet les risques à la charge du vendeur.",
+      "tags": [
+        "res perit domino",
+        "transfert des risques"
+      ]
+    },
+    {
+      "id": "acqprop-qcm-003",
+      "question": "Une vente porte sur des marchandises vendues « au poids, au compte ou à la mesure », selon l'article 1585 du Code civil. Le transfert de propriété s'opère-t-il dès l'échange des consentements, comme pour une vente ordinaire ?",
+      "options": [
+        "Oui, le transfert s'opère immédiatement dès l'accord sur la chose et sur le prix convenu",
+        "Oui, mais uniquement si l'acheteur a déjà procédé au paiement intégral du prix convenu",
+        "Non, le transfert est retardé jusqu'à l'individualisation par séparation du stock concerné",
+        "Non, le transfert n'intervient qu'après l'expiration d'un délai de rétractation légal"
+      ],
+      "answer": 2,
+      "explanation": "L'article 1585 du Code civil retarde le transfert de propriété des choses fongibles vendues au poids, au compte ou à la mesure jusqu'à leur individualisation, c'est-à-dire leur séparation effective du stock global dont elles proviennent.",
+      "tags": [
+        "choses fongibles",
+        "transfert retardé"
+      ]
+    },
+    {
+      "id": "acqprop-qcm-004",
+      "question": "Un trésor est découvert fortuitement par un tiers sur le fonds d'autrui, distinct d'une trouvaille archéologique. Comment ce trésor est-il en principe réparti, par opposition au régime propre aux trouvailles archéologiques ?",
+      "options": [
+        "Il revient intégralement à l'État, comme pour toute trouvaille archéologique découverte",
+        "Il revient intégralement à l'inventeur, seul auteur matériel de la découverte fortuite",
+        "Il revient intégralement au propriétaire du fonds, à l'exclusion de tout autre partage",
+        "Il est partagé par moitié entre le propriétaire du fonds et l'inventeur du trésor"
+      ],
+      "answer": 3,
+      "explanation": "Le trésor découvert fortuitement par un tiers est partagé par moitié entre le propriétaire du fonds et l'inventeur ; les trouvailles archéologiques échappent en revanche à ce partage et reviennent à l'État, en raison de leur intérêt patrimonial et scientifique particulier.",
+      "tags": [
+        "trésor",
+        "trouvailles archéologiques"
+      ]
+    },
+    {
+      "id": "acqprop-qcm-005",
+      "question": "Deux choses mobilières de propriétaires distincts sont réunies, la matière d'autrui étant transformée par le travail de l'un d'eux en une chose entièrement nouvelle (bois transformé en table). Quel mécanisme d'accession mobilière est ici en cause, par opposition à l'adjonction ?",
+      "options": [
+        "La spécification, une matière transformée par le travail en une chose nouvelle",
+        "L'adjonction, deux choses séparables restant unies sans transformer leur nature",
+        "Le mélange, deux choses fondues ensemble sans qu'aucune ne soit principale par nature",
+        "L'accession par production, résultant de la seule perception des fruits du bien transformé"
+      ],
+      "answer": 0,
+      "explanation": "La spécification se caractérise par la transformation d'une matière appartenant à autrui en une chose nouvelle par le travail, à la différence de l'adjonction, qui unit deux choses distinctes restant séparables sans transformation de leur nature.",
+      "tags": [
+        "spécification",
+        "accession mobilière"
+      ]
+    },
+    {
+      "id": "acqprop-qcm-006",
+      "question": "Une construction empiète, même très légèrement, sur le fonds voisin. La Cour de cassation applique-t-elle à cet empiétement un contrôle de proportionnalité avant d'ordonner sa démolition, selon Civ. 3e, 21 novembre 1969 ?",
+      "options": [
+        "Oui, un contrôle de proportionnalité systématique s'applique à tout empiétement constaté",
+        "Non, tout empiétement entraîne la démolition, quelle que soit son ampleur ou la bonne foi",
+        "Oui, mais uniquement lorsque l'empiétement dépasse un pourcentage déterminé de la surface",
+        "Non, aucune démolition n'est jamais ordonnée en présence d'un empiétement minime"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 3e, 21 novembre 1969, tout empiétement, même minime, entraîne la démolition, quelle que soit la bonne foi de son auteur, la Cour de cassation refusant tout contrôle de proportionnalité sur ce terrain, à la différence des servitudes de passage.",
+      "tags": [
+        "empiétement",
+        "démolition systématique"
+      ]
+    },
+    {
+      "id": "acqprop-qcm-007",
+      "question": "Un concubin construit sur le terrain appartenant à sa compagne, en dehors de toute simple contribution aux charges de la vie courante. Peut-il se prévaloir du régime de l'article 555 du Code civil, selon Civ. 1re, 2 septembre 2020 ?",
+      "options": [
+        "Non, ce régime est réservé aux tiers sans relation affective avec le propriétaire concerné",
+        "Oui, mais uniquement si les concubins étaient pacsés au moment de la construction réalisée",
+        "Oui, le concubin constructeur en bénéficie, sauf simple contribution aux charges courantes",
+        "Non, seul un régime spécifique aux concubins, distinct du droit commun, est applicable ici"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 1re, 2 septembre 2020, le concubin constructeur bénéficie du régime de l'article 555, sauf lorsque la construction ne relève que d'une simple contribution aux charges de la vie courante, exclue de ce régime protecteur.",
+      "tags": [
+        "concubinage",
+        "article 555"
+      ]
+    },
+    {
+      "id": "acqprop-qcm-008",
+      "question": "Un meuble corporel a été volé à son propriétaire, qui souhaite le revendiquer directement contre le voleur lui-même. Cette action en revendication contre le voleur est-elle soumise au délai préfix de trois ans applicable contre un acquéreur de bonne foi ?",
+      "options": [
+        "Oui, le même délai de trois ans s'applique indifféremment contre le voleur et l'acquéreur",
+        "Oui, mais uniquement si le voleur n'a pas revendu le bien à un tiers de bonne foi",
+        "Non, aucune action en revendication n'est jamais recevable contre l'auteur d'un vol",
+        "Non, l'action contre le voleur est imprescriptible, ce délai ne visant que l'acquéreur"
+      ],
+      "answer": 3,
+      "explanation": "L'action en revendication contre le voleur ou l'inventeur, nécessairement de mauvaise foi, est imprescriptible ; le délai préfix de trois ans ne s'applique qu'à l'acquéreur de bonne foi ayant acquis le bien dans des circonstances commerciales normales.",
+      "tags": [
+        "vol",
+        "revendication imprescriptible"
+      ]
+    },
+    {
+      "id": "acqprop-qcm-009",
+      "question": "Un acheteur souhaite joindre à sa propre possession celle de son vendeur, qui bénéficiait d'un juste titre et de la bonne foi, alors que lui-même ne dispose que d'une possession trentenaire sans juste titre. Cette jonction des possessions est-elle possible pour bénéficier de la prescription abrégée de dix ans ?",
+      "options": [
+        "Non, la jonction pour prescription abrégée exige que les possessions soient de même nature",
+        "Oui, la jonction des possessions permet de cumuler librement deux possessions différentes",
+        "Oui, mais si le vendeur avait lui-même possédé le bien pendant au moins quinze ans",
+        "Non, aucune jonction des possessions n'est jamais admise entre un vendeur et son acheteur"
+      ],
+      "answer": 0,
+      "explanation": "L'ayant cause à titre particulier ne peut joindre la possession de son auteur que si les deux possessions sont de même nature, deux possessions trentenaires ou deux possessions abrégées ; il ne peut ajouter une possession abrégée à une possession trentenaire sans juste titre.",
+      "tags": [
+        "jonction des possessions",
+        "prescription abrégée"
+      ]
+    },
+    {
+      "id": "acqprop-qcm-010",
+      "question": "Un possesseur acquiert la propriété d'un immeuble par l'effet de la prescription acquisitive, le délai requis étant désormais accompli. À compter de quelle date ce possesseur est-il réputé propriétaire, selon Civ. 3e, 10 juillet 1996 ?",
+      "options": [
+        "À compter du jour où le délai de prescription s'est définitivement accompli en sa faveur",
+        "Rétroactivement, dès le premier jour de sa possession, effet consacré par cet arrêt",
+        "À compter du jour où un juge a expressément constaté l'acquisition par prescription",
+        "À compter du jour où il a publié un acte de notoriété acquisitive établi par un notaire"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 3e, 10 juillet 1996, la prescription acquisitive produit un effet rétroactif : le possesseur est réputé propriétaire dès le premier jour de sa possession, ce qui entraîne l'annulation rétroactive des actes accomplis entre-temps par le véritable propriétaire initial.",
+      "tags": [
+        "effet rétroactif",
+        "prescription acquisitive"
+      ]
+    }
+  ]
+}

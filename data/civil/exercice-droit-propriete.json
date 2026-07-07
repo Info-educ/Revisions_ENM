@@ -1,0 +1,273 @@
+{
+  "id": "exercice-droit-propriete",
+  "title": "L'exercice du droit de propriété : abus de droit, troubles anormaux de voisinage et limitations spéciales",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "exprop-fc-001",
+      "front": "Quel est le seul critère retenu par la jurisprudence pour caractériser l'abus de droit de propriété, parmi les trois critères doctrinaux proposés ?",
+      "back": "Le critère psychologique, l'intention de nuire à autrui, à l'exclusion des critères fonctionnel ou finaliste (Josserand, exercice antisocial) et du résultat (dommage disproportionné) ; la preuve, difficile à rapporter, est déduite par les juges de l'absence d'utilité de l'acte pour son auteur et de son caractère nuisible pour le tiers.",
+      "tags": [
+        "abus de droit",
+        "critère psychologique"
+      ]
+    },
+    {
+      "id": "exprop-fc-002",
+      "front": "Quelles sont les conditions de mise en œuvre de l'abus de droit de propriété, et sur quel fondement textuel repose cette responsabilité ?",
+      "back": "Une faute caractérisée, intention de nuire, imprudence ou violation d'un texte, un préjudice et un lien de causalité, sur le fondement de l'article 1240 du Code civil (ex-1382), responsabilité de droit commun.",
+      "tags": [
+        "abus de droit",
+        "article 1240"
+      ]
+    },
+    {
+      "id": "exprop-fc-003",
+      "front": "Quelle est la différence fondamentale entre l'abus de droit de propriété et les troubles anormaux de voisinage quant à leur nature juridique ?",
+      "back": "L'abus de droit repose sur une responsabilité pour faute, l'intention de nuire, tandis que les troubles anormaux de voisinage constituent une responsabilité objective, détachée de toute faute : il suffit que le trouble revête un caractère anormal, indépendamment de la licéité ou de l'utilité de l'activité en cause.",
+      "tags": [
+        "troubles anormaux de voisinage",
+        "responsabilité objective"
+      ]
+    },
+    {
+      "id": "exprop-fc-004",
+      "front": "Que prévoit l'article 1253 du Code civil, entré en vigueur le 16 avril 2024, concernant les troubles anormaux de voisinage ?",
+      "back": "Il consacre légalement le principe prétorien selon lequel celui qui est à l'origine d'un trouble excédant les inconvénients normaux de voisinage est responsable de plein droit du dommage qui en résulte ; son second alinéa prévoit une exception d'antériorité au profit des activités préexistantes, conformes aux lois et règlements et poursuivies dans les mêmes conditions.",
+      "tags": [
+        "article 1253",
+        "consécration légale"
+      ]
+    },
+    {
+      "id": "exprop-fc-005",
+      "front": "Quels sont les critères d'appréciation du caractère anormal d'un trouble de voisinage, condition unique et fondamentale de cette responsabilité ?",
+      "back": "La fréquence et l'importance du trouble, appréciées souverainement par les juges du fond selon les circonstances de temps (jour ou nuit) et de lieu (milieu rural ou urbain) ; le trouble s'apprécie à l'égard d'une personne normale et bien portante, non d'une victime hypersensible ou malade.",
+      "tags": [
+        "caractère anormal",
+        "critères d'appréciation"
+      ]
+    },
+    {
+      "id": "exprop-fc-006",
+      "front": "Quel est le délai de prescription retenu par la Cour de cassation pour l'action en responsabilité pour troubles anormaux de voisinage, et quelle qualification juridique justifie ce choix ?",
+      "back": "La prescription quinquennale (Civ. 2e, 13 sept. 2018), l'action étant qualifiée d'action en responsabilité civile extracontractuelle, même si elle repose non sur un comportement imputable mais sur la seule consistance du fonds.",
+      "tags": [
+        "prescription",
+        "action extracontractuelle"
+      ]
+    },
+    {
+      "id": "exprop-fc-007",
+      "front": "Qu'est-ce que le bornage, et quels sont ses deux effets caractéristiques ?",
+      "back": "La délimitation territoriale de la propriété par des marques visibles entre fonds contigus, que tout propriétaire peut imposer à son voisin (art. 646 C. civ.) ; ses effets sont déclaratifs, non translatifs de propriété car il ne fait que fixer une limite préexistante, et définitifs, faisant échec à toute nouvelle action en bornage.",
+      "tags": [
+        "bornage",
+        "effets déclaratif et définitif"
+      ]
+    },
+    {
+      "id": "exprop-fc-008",
+      "front": "Que prévoit l'article 545 du Code civil concernant l'expropriation pour cause d'utilité publique ?",
+      "back": "Nul ne peut être contraint de céder sa propriété si ce n'est pour cause d'utilité publique et moyennant une juste et préalable indemnité ; l'expropriation suppose ainsi une cause d'utilité publique et une indemnité juste et préalable, fixée par le juge de l'expropriation, le préjudice moral n'étant pas indemnisable.",
+      "tags": [
+        "expropriation",
+        "article 545"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "exprop-qcm-001",
+      "question": "Une activité respecte scrupuleusement l'ensemble des règlements administratifs et sanitaires qui lui sont applicables. Ce seul respect suffit-il à écarter la qualification de trouble anormal de voisinage, selon Civ. 3e, 25 mars 2014 ?",
+      "options": [
+        "Non, le respect d'une norme administrative ne suffit pas à écarter l'anormalité",
+        "Oui, le respect intégral de la réglementation exclut nécessairement tout trouble anormal",
+        "Oui, mais si l'activité dispose en outre d'une autorisation préfectorale expresse",
+        "Non, mais uniquement si l'activité a débuté après l'installation du voisin qui s'en plaint"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 3e, 25 mars 2014, le respect des normes administratives ou sanitaires n'est ni une condition nécessaire ni une condition suffisante de l'anormalité : le non-respect d'un règlement n'est pas requis pour caractériser le trouble, et son seul respect ne suffit pas à l'écarter.",
+      "tags": [
+        "caractère anormal",
+        "réglementation administrative"
+      ]
+    },
+    {
+      "id": "exprop-qcm-002",
+      "question": "Un constructeur intervient occasionnellement sur un chantier à l'origine d'un trouble de voisinage. Quel critère la jurisprudence récente retient-elle désormais pour engager sa responsabilité, selon Civ. 3e, 28 avril 2011 ?",
+      "options": [
+        "La seule qualité de voisin occasionnel, sans lien avec le trouble effectivement constaté",
+        "Une relation de cause directe entre sa mission ou ses travaux et le trouble subi",
+        "La seule qualité de voisin permanent, étendue à tous les intervenants du chantier",
+        "L'existence d'un contrat écrit entre le constructeur et la victime du trouble constaté"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 3e, 28 avril 2011, la jurisprudence récente abandonne la distinction historique entre voisins permanents et occasionnels au profit d'un critère unique, la relation de cause directe entre la mission ou les travaux du constructeur et le trouble effectivement subi.",
+      "tags": [
+        "voisins occasionnels",
+        "relation de cause directe"
+      ]
+    },
+    {
+      "id": "exprop-qcm-003",
+      "question": "Un entrepreneur principal a recours à un sous-traitant pour exécuter des travaux à l'origine d'un trouble de voisinage. L'entrepreneur principal est-il responsable de plein droit de ce trouble s'il n'en est pas l'auteur matériel ?",
+      "options": [
+        "Oui, l'entrepreneur principal répond toujours des travaux exécutés par son sous-traitant",
+        "Oui, mais uniquement si le sous-traitant est insolvable au moment de l'action engagée",
+        "Non, il n'est pas responsable de plein droit s'il n'est pas l'auteur matériel des travaux",
+        "Non, aucune action ne peut alors être engagée contre l'entrepreneur ni le sous-traitant"
+      ],
+      "answer": 2,
+      "explanation": "En cas de sous-traitance, l'entrepreneur principal n'est pas responsable de plein droit du trouble de voisinage s'il n'est pas l'auteur matériel des travaux : cette exception écarte la coresponsabilité automatique, à la différence des autres hypothèses de pluralité d'auteurs.",
+      "tags": [
+        "sous-traitance",
+        "responsabilité de plein droit"
+      ]
+    },
+    {
+      "id": "exprop-qcm-004",
+      "question": "Depuis la loi du 29 janvier 2021 (loi « Maurice »), les sons et odeurs caractéristiques d'une campagne intègrent le patrimoine sensoriel commun de la nation. Quelle conséquence pratique en résulte-t-il pour le plaignant en milieu rural ?",
+      "options": [
+        "Il n'a plus jamais à prouver d'anormalité, la présence d'animaux étant toujours licite",
+        "Il peut désormais agir contre l'État directement, sans avoir à identifier le voisin fautif",
+        "Il bénéficie d'une présomption irréfragable d'anormalité pour tout trouble sonore rural",
+        "Il doit prouver que le trouble excède les inconvénients normaux de cette présence rurale"
+      ],
+      "answer": 3,
+      "explanation": "La loi Maurice ne crée pas d'immunité générale : elle intègre les sons et odeurs caractéristiques des campagnes dans le patrimoine sensoriel commun, ce qui a pour conséquence pratique que le plaignant doit démontrer que le trouble excède les inconvénients normaux liés à cette présence rurale habituelle.",
+      "tags": [
+        "loi Maurice",
+        "patrimoine sensoriel commun"
+      ]
+    },
+    {
+      "id": "exprop-qcm-005",
+      "question": "Une victime a fréquenté régulièrement, en toute connaissance de cause, un lieu source de nuisances sonores avant de s'en plaindre. L'acceptation des risques est-elle facilement retenue par les juges du fond en matière de troubles de voisinage ?",
+      "options": [
+        "Non, elle suppose une démonstration stricte, quasi exceptionnelle, d'acceptation éclairée",
+        "Oui, la simple fréquentation régulière du lieu suffit à caractériser cette acceptation",
+        "Oui, cette cause d'exonération est retenue dans la majorité des litiges de voisinage",
+        "Non, cette cause d'exonération a été purement supprimée par la réforme de 2024"
+      ],
+      "answer": 0,
+      "explanation": "L'acceptation des risques n'est en principe pas envisageable en matière de troubles de voisinage : elle suppose une démonstration stricte, par les juges du fond, d'une acceptation en toute connaissance de cause, ce qui reste une situation quasi exceptionnelle en pratique.",
+      "tags": [
+        "acceptation des risques",
+        "cause d'exonération"
+      ]
+    },
+    {
+      "id": "exprop-qcm-006",
+      "question": "Des squatters occupent sans droit ni titre un immeuble, provoquant un trouble anormal chez les voisins. Le propriétaire de cet immeuble peut-il invoquer la force majeure pour s'exonérer de sa responsabilité ?",
+      "options": [
+        "Oui, l'occupation par des squatters constitue systématiquement un cas de force majeure",
+        "Non, les juges du fond n'admettent pas que cela constitue un cas de force majeure",
+        "Oui, mais uniquement si le propriétaire a porté plainte dans le mois suivant l'occupation",
+        "Non, mais uniquement si le propriétaire réside habituellement dans cet immeuble occupé"
+      ],
+      "answer": 1,
+      "explanation": "Les juges du fond exigent un événement réellement imprévisible et irrésistible pour caractériser la force majeure : l'occupation d'un immeuble par des squatters n'est pas considérée comme remplissant ces conditions, ce qui exclut cette cause d'exonération pour le propriétaire.",
+      "tags": [
+        "force majeure",
+        "occupation par des squatters"
+      ]
+    },
+    {
+      "id": "exprop-qcm-007",
+      "question": "Un trouble anormal de voisinage résulte d'une activité par ailleurs licite et autorisée administrativement. Le juge saisi peut-il ordonner l'interdiction définitive de cette activité ?",
+      "options": [
+        "Oui, le juge peut toujours interdire définitivement une activité à l'origine d'un trouble",
+        "Oui, mais uniquement si l'autorisation administrative encadrant l'activité a expiré depuis",
+        "Non, il peut seulement ordonner la cessation du trouble, sans interdiction définitive",
+        "Non, aucune réparation en nature n'est jamais possible en présence d'une autorisation"
+      ],
+      "answer": 2,
+      "explanation": "Lorsqu'une autorisation administrative encadre l'activité litigieuse, le juge ne doit pas l'empiéter mais peut néanmoins ordonner des mesures de cessation du trouble actuel, sans interdiction définitive de l'activité elle-même, qui demeure licite.",
+      "tags": [
+        "réparation en nature",
+        "activité licite autorisée"
+      ]
+    },
+    {
+      "id": "exprop-qcm-008",
+      "question": "L'article 1253, alinéa 1er, du Code civil énumère les personnes susceptibles d'être responsables d'un trouble anormal de voisinage. Cette liste inclut-elle le constructeur et le syndicat des copropriétaires, comme le faisait la jurisprudence antérieure ?",
+      "options": [
+        "Oui, ces deux catégories figurent explicitement dans cette nouvelle liste légale",
+        "Oui, mais seul le constructeur y figure, le syndicat des copropriétaires en étant exclu",
+        "Non, mais la liste reste ouverte et sera précisée ultérieurement par la jurisprudence",
+        "Non, cette liste écarte explicitement le constructeur et le syndicat des copropriétaires"
+      ],
+      "answer": 3,
+      "explanation": "La liste de l'article 1253, alinéa 1er, élargit l'énumération antérieure de l'ancien article L. 113-8 du Code de la construction et de l'habitation, mais écarte explicitement le constructeur et le syndicat des copropriétaires, que la jurisprudence antérieure y intégrait largement.",
+      "tags": [
+        "article 1253",
+        "liste des débiteurs"
+      ]
+    },
+    {
+      "id": "exprop-qcm-009",
+      "question": "Un exploitant agricole met son activité en conformité avec une nouvelle réglementation, sans modifier substantiellement sa nature ou son intensité. Cette mise en conformité fait-elle obstacle à l'exonération prévue pour les activités agricoles antérieures ?",
+      "options": [
+        "Non, cette mise en conformité sans modification substantielle n'exclut pas l'exonération",
+        "Oui, toute modification de l'activité, même une mise en conformité, exclut l'exonération",
+        "Oui, mais uniquement si la mise en conformité a entraîné une baisse du chiffre d'affaires",
+        "Non, mais uniquement si la mise en conformité a été imposée par une décision de justice"
+      ],
+      "answer": 0,
+      "explanation": "L'exonération spécifique aux activités agricoles s'étend aux conditions nouvelles résultant d'une mise en conformité aux lois et règlements, dès lors que celle-ci ne modifie pas substantiellement la nature ou l'intensité de l'activité, sans faire obstacle à l'exonération.",
+      "tags": [
+        "exonération agricole",
+        "mise en conformité"
+      ]
+    },
+    {
+      "id": "exprop-qcm-010",
+      "question": "Un éleveur de bovins voit son cheptel passer de 160 à 250 têtes après une extension de son exploitation. Selon Civ. 3e, 7 décembre 2023, cette augmentation fait-elle obstacle à l'exonération fondée sur l'antériorité de son activité ?",
+      "options": [
+        "Non, l'antériorité de l'activité agricole exonère toujours, quelle que soit son évolution",
+        "Oui, cette aggravation du trouble fait échec à l'exonération malgré l'antériorité invoquée",
+        "Non, mais uniquement si l'extension a fait l'objet d'un permis de construire définitif",
+        "Oui, mais uniquement si le cheptel a doublé par rapport à son effectif antérieur"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 3e, 7 décembre 2023, l'augmentation substantielle du cheptel constitue une aggravation du trouble faisant obstacle à l'exonération, l'activité n'étant plus poursuivie dans les mêmes conditions, malgré l'antériorité de l'exploitation agricole concernée.",
+      "tags": [
+        "antériorité",
+        "aggravation du trouble"
+      ]
+    },
+    {
+      "id": "exprop-qcm-011",
+      "question": "Un voisin souhaite saisir le tribunal judiciaire d'une action fondée sur un trouble anormal de voisinage. Une tentative de résolution amiable préalable est-elle obligatoire avant cette saisine, depuis le décret du 25 février 2022 ?",
+      "options": [
+        "Non, aucune tentative amiable préalable n'est jamais exigée pour ce type de contentieux",
+        "Oui, mais uniquement si le montant du litige dépasse un certain seuil déterminé",
+        "Oui, à peine d'irrecevabilité que le juge peut prononcer d'office, sauf dispense légale",
+        "Non, cette tentative n'est qu'une faculté laissée à la libre appréciation du demandeur"
+      ],
+      "answer": 2,
+      "explanation": "Depuis le décret du 25 février 2022, une tentative de conciliation, de médiation ou de procédure participative est obligatoire, à peine d'irrecevabilité que le juge peut prononcer d'office, sauf dispense (urgence manifeste, indisponibilité de conciliateur, etc.).",
+      "tags": [
+        "procédure amiable préalable",
+        "irrecevabilité"
+      ]
+    },
+    {
+      "id": "exprop-qcm-012",
+      "question": "L'autorité administrative procède à la réquisition d'un bien immobilier appartenant à un particulier. Cette réquisition emporte-t-elle un transfert de la propriété du bien au profit de l'autorité requérante ?",
+      "options": [
+        "Oui, la réquisition emporte systématiquement un transfert complet de la propriété du bien",
+        "Oui, mais uniquement si le propriétaire ne conteste pas la réquisition dans le délai légal",
+        "Non, la réquisition ne produit aucun effet sur les prérogatives du propriétaire concerné",
+        "Non, la réquisition ne transfère que l'usage du bien, non sa propriété elle-même"
+      ],
+      "answer": 3,
+      "explanation": "À la différence de l'expropriation et de la nationalisation, la réquisition ne transfère que l'usage du bien à l'autorité requérante, le propriétaire conservant son droit de propriété, ce qui la distingue des procédés d'appropriation publique translatifs de propriété.",
+      "tags": [
+        "réquisition",
+        "transfert d'usage"
+      ]
+    }
+  ]
+}

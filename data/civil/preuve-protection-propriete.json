@@ -1,0 +1,214 @@
+{
+  "id": "preuve-protection-propriete",
+  "title": "La preuve et la protection de la propriété : régime probatoire dualiste et action en revendication",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "preuveprop-fc-001",
+      "front": "Que prévoit l'article 2276, alinéa 1er, du Code civil quant à la fonction probatoire de la possession mobilière, et quelle est la nature de la présomption qui en résulte ?",
+      "back": "« En fait de meubles, possession vaut titre » : la possession fait présumer un titre translatif de propriété au bénéfice du possesseur ; cette présomption est simple, la charge de la preuve contraire pesant sur le revendiquant, qui doit démontrer que la possession n'a pas été acquise du propriétaire.",
+      "tags": [
+        "article 2276",
+        "présomption simple"
+      ]
+    },
+    {
+      "id": "preuveprop-fc-002",
+      "front": "Pourquoi la preuve de la propriété immobilière est-elle qualifiée de probatio diabolica, et quelle règle en tire-t-on ?",
+      "back": "Parce qu'aucun titre officiel de propriété n'est conféré par l'État en droit français, à la différence d'un cadastre constitutif de droits ; la preuve est donc libre mais très difficile à rapporter, ce qui conduit à retenir non la preuve parfaite, par nature impossible, mais la règle du droit le plus probable ou du meilleur droit.",
+      "tags": [
+        "probatio diabolica",
+        "meilleur droit"
+      ]
+    },
+    {
+      "id": "preuveprop-fc-003",
+      "front": "Quelle est la règle de résolution retenue par la jurisprudence en cas de conflit entre deux possessions concurrentes sur un même bien ?",
+      "back": "C'est la possession la meilleure et la plus caractérisée qui l'emporte, et non nécessairement la plus ancienne (Civ. 1re, 3 déc. 1959) ; si les deux possessions sont équivalentes, le juge du fond apprécie souverainement laquelle doit prévaloir.",
+      "tags": [
+        "conflit de possessions",
+        "possession la plus caractérisée"
+      ]
+    },
+    {
+      "id": "preuveprop-fc-004",
+      "front": "Quelles sont les trois catégories de dépenses distinguées par la théorie des impenses, et leur régime de remboursement respectif ?",
+      "back": "Les dépenses nécessaires à la conservation du bien, remboursées intégralement quelle que soit la bonne ou mauvaise foi ; les dépenses utiles, améliorant le bien, remboursées dans la limite de la plus-value procurée ; et les dépenses somptuaires ou voluptuaires, non remboursées, sauf droit d'enlever les éléments détachables sans dégradation.",
+      "tags": [
+        "théorie des impenses",
+        "remboursement des dépenses"
+      ]
+    },
+    {
+      "id": "preuveprop-fc-005",
+      "front": "L'action en revendication de la propriété est-elle prescriptible, et quelle est la seule limite pratique à cette règle ?",
+      "back": "Non, la jurisprudence consacre l'imprescriptibilité de l'action en revendication, tant mobilière qu'immobilière, en tant qu'attribut par nature du droit de propriété ; la seule limite pratique tient à ce que la prescription acquisitive trentenaire d'un tiers possesseur éteint cette action par voie de conséquence.",
+      "tags": [
+        "action en revendication",
+        "imprescriptibilité"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "preuveprop-qcm-001",
+      "question": "Les héritiers d'un galeriste invoquent la possession d'œuvres d'art pour se prévaloir de la présomption de propriété mobilière. Le propriétaire allégué démontre que cette détention résultait d'un contrat de dépôt. Quel est l'effet de cette preuve, selon Civ. 1re, 8 décembre 2009 ?",
+      "options": [
+        "La détention précaire ainsi prouvée écarte la présomption et rend l'usucapion impossible",
+        "Aucun effet, la présomption de propriété mobilière demeurant acquise malgré cette preuve",
+        "Cette preuve renforce au contraire la présomption de propriété au bénéfice du détenteur",
+        "Cette preuve ne produit d'effet que si le dépôt a été constaté par un écrit notarié"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 1re, 8 décembre 2009, la preuve d'une détention précaire, résultant d'un contrat de dépôt, anéantit la possession utile et écarte la présomption de propriété : la possession précaire ne peut jamais fonder ni la présomption ni l'usucapion.",
+      "tags": [
+        "détention précaire",
+        "présomption écartée"
+      ]
+    },
+    {
+      "id": "preuveprop-qcm-002",
+      "question": "Deux époux séparés de biens s'opposent sur la propriété d'un meuble acquis durant leur mariage. La présomption de l'article 2276 du Code civil s'applique-t-elle entre eux, selon Civ. 1re, 8 octobre 2014 ?",
+      "options": [
+        "Oui, cette présomption s'applique pleinement entre époux comme entre tout autre tiers",
+        "Non, la règle de preuve par tous moyens entre conjoints écarte cette présomption",
+        "Oui, mais uniquement si les époux ont adopté le régime de la communauté universelle",
+        "Non, aucune preuve de propriété n'est alors recevable entre époux séparés de biens"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 1re, 8 octobre 2014, la règle spéciale de la preuve par tous moyens entre conjoints écarte la présomption de l'article 2276, règle spéciale primant règle générale dans les rapports entre époux séparés de biens.",
+      "tags": [
+        "preuve entre époux",
+        "règle spéciale"
+      ]
+    },
+    {
+      "id": "preuveprop-qcm-003",
+      "question": "Un possesseur a acquis un meuble d'un tiers non-propriétaire (acquisition a non domino). La bonne foi de ce possesseur a-t-elle une incidence sur la durée pendant laquelle il peut se prévaloir de la présomption de propriété, contrairement à l'usucapion immobilière ?",
+      "options": [
+        "Oui, la bonne foi réduit cette durée de moitié, exactement comme en matière immobilière",
+        "Oui, seule la mauvaise foi impose une durée de possession supplémentaire de trois ans",
+        "Non, la bonne foi est sans incidence, seule la matérialité de la possession comptant",
+        "Non, aucune durée de possession n'est exigée en matière mobilière, bonne foi incluse"
+      ],
+      "answer": 2,
+      "explanation": "À la différence de l'usucapion immobilière, où la bonne foi conditionne la durée du délai de prescription, la bonne foi est ici sans incidence directe : la question porte uniquement sur la matérialité de la possession et non sur une quelconque durée.",
+      "tags": [
+        "acquisition a non domino",
+        "bonne foi"
+      ]
+    },
+    {
+      "id": "preuveprop-qcm-004",
+      "question": "Deux titres de propriété, tenant leurs droits d'un même auteur, ont tous deux été publiés. Depuis l'ordonnance du 10 février 2016, quel titre l'emporte, et à quelle condition ?",
+      "options": [
+        "Le titre le plus ancien à date certaine, indépendamment de toute publicité ou bonne foi",
+        "Le titre publié en premier, quelle que soit la bonne ou mauvaise foi de son titulaire",
+        "Le titre le plus récent, l'ancienneté de la publication étant devenue indifférente",
+        "Le titre publié en premier, à condition que son titulaire soit de bonne foi"
+      ],
+      "answer": 3,
+      "explanation": "Depuis l'ordonnance du 10 février 2016, la priorité au premier titre publié est désormais subordonnée à la bonne foi de son titulaire, alors que la seule antériorité de publication suffisait auparavant, indépendamment de toute bonne ou mauvaise foi.",
+      "tags": [
+        "titre contre titre",
+        "conflit d'acquéreurs"
+      ]
+    },
+    {
+      "id": "preuveprop-qcm-005",
+      "question": "Un titre de propriété est antérieur à la possession invoquée par un tiers sur le même bien. Ce titre l'emporte-t-il systématiquement sur cette possession postérieure, selon Civ. 22 juin 1864 ?",
+      "options": [
+        "Oui en principe, sauf si la possession permet d'invoquer l'usucapion, qui prime alors",
+        "Oui, le titre antérieur l'emporte systématiquement, sans aucune exception possible",
+        "Non, la possession postérieure l'emporte systématiquement sur tout titre antérieur",
+        "Non, seul le juge du fond décide souverainement, sans critère d'antériorité applicable"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 22 juin 1864, le critère de l'antériorité fait en principe prévaloir le titre antérieur sur la possession, sauf lorsque cette possession, elle-même antérieure et utile, permet d'invoquer l'usucapion, qui prime alors le titre invoqué.",
+      "tags": [
+        "titre contre possession",
+        "critère d'antériorité"
+      ]
+    },
+    {
+      "id": "preuveprop-qcm-006",
+      "question": "Un possesseur invoque l'usucapion d'un moulin, tandis que le propriétaire du fonds voisin invoque la présomption d'accession de l'article 546 du Code civil. Selon Civ. 3e, 27 avril 2017, laquelle de ces deux règles l'emporte ?",
+      "options": [
+        "L'usucapion l'emporte toujours, en tant que mode d'acquisition originaire de la propriété",
+        "L'usucapion cède face à la présomption d'accession, renversable par preuve contraire",
+        "Les deux règles s'appliquent cumulativement, entraînant un partage de la propriété du bien",
+        "Aucune des deux règles ne s'applique, le juge devant renvoyer les parties à une expertise"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 3e, 27 avril 2017 (affaire du moulin), l'usucapion cède face à la présomption d'accession, cette dernière restant elle-même renversable par la preuve contraire résultant précisément d'une prescription acquisitive dûment établie.",
+      "tags": [
+        "usucapion",
+        "présomption d'accession"
+      ]
+    },
+    {
+      "id": "preuveprop-qcm-007",
+      "question": "Un contrat de vente est conclu entre deux parties. Un tiers à ce contrat peut-il néanmoins s'en prévaloir pour prouver un fait, en application de l'article 1200 du Code civil ?",
+      "options": [
+        "Non, l'effet obligatoire du contrat empêche tout tiers de s'en prévaloir à quelque titre",
+        "Non, seul un juge peut autoriser un tiers à invoquer un contrat auquel il n'est pas partie",
+        "Oui, l'effet probatoire rayonne au-delà des parties, contrairement à l'effet obligatoire",
+        "Oui, mais uniquement si le tiers a été personnellement informé de la conclusion du contrat"
+      ],
+      "answer": 2,
+      "explanation": "L'article 1200 du Code civil distingue l'effet obligatoire du contrat, limité aux parties, de son effet probatoire, qui rayonne au-delà : les tiers peuvent s'en prévaloir, notamment pour en apporter la preuve d'un fait, conséquence de son opposabilité.",
+      "tags": [
+        "effet probatoire du contrat",
+        "article 1200"
+      ]
+    },
+    {
+      "id": "preuveprop-qcm-008",
+      "question": "Des poteaux électriques sont implantés sans droit ni titre sur un terrain privé par un opérateur assimilé à l'administration. Depuis l'arrêt Bergoend de 2013, ce fait constitue-t-il une voie de fait justifiant la compétence du juge judiciaire ?",
+      "options": [
+        "Oui, toute atteinte grave au droit de propriété constitue une voie de fait caractérisée",
+        "Oui, mais uniquement si l'implantation a été réalisée sans aucune autorisation préalable",
+        "Non, la voie de fait a été purement et simplement supprimée par cet arrêt de 2013",
+        "Non, seule une atteinte entraînant l'extinction du droit de propriété la caractérise"
+      ],
+      "answer": 3,
+      "explanation": "Depuis l'arrêt Bergoend de 2013, la voie de fait ne recouvre plus la simple atteinte grave au droit de propriété : seule une atteinte ayant pour effet l'extinction de ce droit la caractérise désormais, l'implantation de poteaux relevant en principe du juge administratif.",
+      "tags": [
+        "voie de fait",
+        "arrêt Bergoend"
+      ]
+    },
+    {
+      "id": "preuveprop-qcm-009",
+      "question": "Une action en revendication immobilière est accueillie, mais un tiers avait acquis un droit sur le bien auprès du possesseur évincé en croyant légitimement à sa qualité de propriétaire. La théorie de l'apparence peut-elle protéger ce tiers ?",
+      "options": [
+        "Oui, sous réserve d'une erreur commune et de bonne foi, moyennant indemnisation",
+        "Non, le jugement accueillant la revendication est opposable à tous sans aucune exception",
+        "Oui, mais uniquement si le tiers a lui-même publié son droit avant le jugement rendu",
+        "Non, la théorie de l'apparence est réservée aux seuls rapports contractuels entre parties"
+      ],
+      "answer": 0,
+      "explanation": "Le jugement de revendication n'a qu'une autorité relative envers les tiers, qui peuvent le contester en produisant un droit meilleur ; toutefois, la théorie de l'apparence, sous réserve d'une erreur commune et de la bonne foi du tiers, peut le protéger, moyennant une indemnisation supplémentaire due par le revendiquant.",
+      "tags": [
+        "théorie de l'apparence",
+        "protection des tiers"
+      ]
+    },
+    {
+      "id": "preuveprop-qcm-010",
+      "question": "Un possesseur évincé par une action en revendication accueillie dispose d'un solde créditeur au titre du règlement des impenses. Selon l'article 2286 du Code civil, quel droit ce solde créditeur lui confère-t-il, et à quelle condition ?",
+      "options": [
+        "Un droit de propriété résiduel sur une fraction du bien restitué au revendiquant",
+        "Un droit de rétention sur le bien, consacré pour le possesseur de bonne foi",
+        "Un droit de rétention sur le bien, réservé au seul possesseur de mauvaise foi",
+        "Aucun droit particulier, ce solde ne pouvant être recouvré que par voie d'exécution forcée"
+      ],
+      "answer": 1,
+      "explanation": "L'article 2286 du Code civil reconnaît au possesseur évincé disposant d'un solde créditeur un droit de rétention sur le bien, consacré pour le possesseur de bonne foi, une extension au possesseur de mauvaise foi étant plaidée par alignement sur le régime de l'accession.",
+      "tags": [
+        "droit de rétention",
+        "article 2286"
+      ]
+    }
+  ]
+}

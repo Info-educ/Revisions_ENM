@@ -257,6 +257,24 @@
       "file": "possession.json",
       "title": "La possession : corpus, animus, qualités requises et effets juridiques",
       "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "exercice-droit-propriete",
+      "file": "exercice-droit-propriete.json",
+      "title": "L'exercice du droit de propriété : abus de droit, troubles anormaux de voisinage et limitations spéciales",
+      "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "acquisition-propriete",
+      "file": "acquisition-propriete.json",
+      "title": "L'acquisition de la propriété : acquisition dérivée, originaire et par possession utile",
+      "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "preuve-protection-propriete",
+      "file": "preuve-protection-propriete.json",
+      "title": "La preuve et la protection de la propriété : régime probatoire dualiste et action en revendication",
+      "category": "Droit civil — Les biens"
     }
   ]
 }
