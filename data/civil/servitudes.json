@@ -1,0 +1,271 @@
+{
+  "id": "servitudes",
+  "title": "Les servitudes : notion, classification, régime juridique et extinction",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "servit-fc-001",
+      "front": "Que prévoit l'article 637 du Code civil définissant la servitude, et quelle est sa nature juridique ?",
+      "back": "La servitude est une charge imposée sur un héritage (fonds servant) pour l'usage et l'utilité d'un autre héritage (fonds dominant) appartenant à un autre propriétaire ; c'est un droit réel démembré immobilier, opposable à tous, créant un rapport d'interdépendance matériel entre deux fonds, et non entre deux personnes.",
+      "tags": [
+        "article 637",
+        "servitude"
+      ]
+    },
+    {
+      "id": "servit-fc-002",
+      "front": "Quelles sont les trois conditions cumulatives constitutives de la servitude ?",
+      "back": "L'existence de deux fonds distincts (excluant par exemple un réseau électrique sans fonds dominant), des propriétaires distincts pour chacun des deux fonds (un propriétaire ne peut avoir de servitude sur sa propre chose), et l'affectation du fonds servant à l'utilité du fonds dominant, selon le principe servitus in faciendo non consistit : la servitude ne peut jamais consister en une obligation de faire.",
+      "tags": [
+        "conditions constitutives",
+        "servitus in faciendo non consistit"
+      ]
+    },
+    {
+      "id": "servit-fc-003",
+      "front": "Quels sont les cinq caractères de la servitude ?",
+      "back": "Réelle et immobilière (opposable erga omnes si publiée), perpétuelle par vocation (tempérament du non-usage trentenaire), indivisible (grève et profite à l'ensemble des fonds), accessoire (attachée obligatoirement au fonds dominant, transmise de plein droit avec l'immeuble), et charge de type in patiendo ou in non faciendo, jamais une obligation de faire.",
+      "tags": [
+        "caractères de la servitude"
+      ]
+    },
+    {
+      "id": "servit-fc-004",
+      "front": "Quelles sont les quatre sources possibles de la servitude selon l'article 639 du Code civil ?",
+      "back": "La situation naturelle des lieux (servitude d'écoulement des eaux), la loi (servitudes d'utilité publique ou privée, comme l'enclave), les conventions (fait de l'homme, liberté contractuelle) et le juge (servitude de cour commune en urbanisme).",
+      "tags": [
+        "article 639",
+        "sources de la servitude"
+      ]
+    },
+    {
+      "id": "servit-fc-005",
+      "front": "Quelle est la distinction entre servitudes continues et discontinues, et entre servitudes apparentes et non apparentes ?",
+      "back": "Les servitudes continues s'exercent sans fait actuel de l'homme (conduite d'eau, vue), les discontinues nécessitent son intervention (passage, puisage) ; les servitudes apparentes se manifestent par un ouvrage extérieur visible (chemin, aqueduc), les non apparentes n'ont aucun signe extérieur (non aedificandi).",
+      "tags": [
+        "servitudes continues",
+        "servitudes apparentes"
+      ]
+    },
+    {
+      "id": "servit-fc-006",
+      "front": "Par quels modes une servitude peut-elle être établie, et à quelle condition l'usucapion est-elle possible ?",
+      "back": "Par titre, contrat ou testament, pour toute servitude ; par usucapion trentenaire (art. 690), réservée aux servitudes continues et apparentes uniquement ; ou par destination du père de famille (art. 692-694), soumise à la même condition de continuité et d'apparence, sauf clause contraire de l'acte de division.",
+      "tags": [
+        "modes d'établissement",
+        "destination du père de famille"
+      ]
+    },
+    {
+      "id": "servit-fc-007",
+      "front": "Que prévoit le principe de fixité de la servitude (art. 701-702), et quelle est son exception ?",
+      "back": "Le fonds dominant ne peut aggraver la condition du fonds servant, et le fonds servant ne peut diminuer l'usage de la servitude ni la rendre plus incommode ; l'exception est le déplacement unilatéral de l'assiette par le propriétaire du fonds servant (art. 701, al. 3), sous deux conditions cumulatives : la servitude est devenue plus onéreuse et le nouvel endroit est aussi commode pour le fonds dominant.",
+      "tags": [
+        "principe de fixité",
+        "déplacement de l'assiette"
+      ]
+    },
+    {
+      "id": "servit-fc-008",
+      "front": "Quelles sont les cinq causes légales d'extinction de la servitude ?",
+      "back": "L'impossibilité d'exercice (art. 703), le non-usage trentenaire (art. 706), la confusion des deux fonds entre les mêmes mains (art. 705), la perte matérielle ou juridique de l'un des fonds (art. 703), et la renonciation certaine du propriétaire du fonds dominant (art. 710-1), qui doit être publiée pour être opposable.",
+      "tags": [
+        "extinction de la servitude"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "servit-qcm-001",
+      "question": "Un réseau électrique traverse plusieurs fonds successifs sans qu'aucun fonds déterminé n'en tire directement l'utilité en tant que fonds dominant. Ce réseau peut-il être qualifié de servitude, selon Civ. 3e, 2012 ?",
+      "options": [
+        "Non, l'absence de fonds dominant identifiable exclut la qualification de servitude",
+        "Oui, tout ouvrage traversant plusieurs fonds constitue nécessairement une servitude",
+        "Oui, mais uniquement si le réseau appartient à un opérateur de service public",
+        "Non, mais si le réseau a été installé sans autorisation administrative préalable"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 3e, 2012, un réseau électrique sans fonds dominant identifiable ne peut être qualifié de servitude, l'existence de deux fonds distincts, servant et dominant, étant une condition constitutive impérative de toute servitude.",
+      "tags": [
+        "deux fonds distincts",
+        "réseau électrique"
+      ]
+    },
+    {
+      "id": "servit-qcm-002",
+      "question": "Un propriétaire prétend disposer d'un droit de chasse sur le fonds de son voisin et souhaite le qualifier de servitude réelle. Cette qualification est-elle admise, selon Civ. 3e, 22 juin 1976 ?",
+      "options": [
+        "Oui, tout droit portant sur l'utilité d'un fonds constitue une servitude réelle",
+        "Non, ce droit profite à une personne déterminée, non à un fonds, excluant la servitude",
+        "Oui, mais uniquement si le droit de chasse a été constitué par acte authentique publié",
+        "Non, aucun droit de chasse conventionnel n'est reconnu quelle que soit sa qualification"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 3e, 22 juin 1976, le droit de chasse profite à une personne déterminée et non à un fonds : il ne peut donc être qualifié de servitude, la servitude devant nécessairement bénéficier à un fonds dominant, non à un individu.",
+      "tags": [
+        "droit de chasse",
+        "bénéficiaire d'un fonds"
+      ]
+    },
+    {
+      "id": "servit-qcm-003",
+      "question": "Une convention entre deux propriétaires voisins prétend instituer une servitude conférant à l'un le droit d'empiéter sur le fonds de l'autre. Une telle servitude est-elle valable, selon Civ. 3e, 24 mai 2000 ?",
+      "options": [
+        "Oui, les parties peuvent librement convenir d'un tel empiétement par voie de servitude",
+        "Oui, mais uniquement si l'empiétement porte sur une surface inférieure à un mètre carré",
+        "Non, la servitude ne peut jamais conférer un droit d'empiéter sur la propriété d'autrui",
+        "Non, sauf si l'empiétement était déjà réalisé avant la conclusion de la convention"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 3e, 24 mai 2000, la servitude ne peut jamais conférer un droit d'empiéter sur la propriété d'autrui : l'empiétement n'est pas un droit reconnu en droit français, quelle que soit la volonté des parties exprimée dans la convention.",
+      "tags": [
+        "empiétement",
+        "incompatibilité avec la servitude"
+      ]
+    },
+    {
+      "id": "servit-qcm-004",
+      "question": "Une servitude d'utilité publique, telle qu'une ligne électrique haute tension, est instituée sans qu'aucun fonds dominant ne soit identifiable au sens strict du droit civil. Ce type de servitude relève-t-il du régime de droit commun des servitudes, selon Civ. 3e, 7 mars 2007 ?",
+      "options": [
+        "Oui, ce type de servitude relève pleinement du régime de droit commun des servitudes",
+        "Oui, mais si l'utilité publique invoquée est reconnue par décret en Conseil d'État",
+        "Non, ce type de servitude est purement et simplement inexistant en droit français positif",
+        "Non, ces servitudes sont exclues du régime de droit commun, faute de fonds dominant"
+      ],
+      "answer": 3,
+      "explanation": "Selon Civ. 3e, 7 mars 2007, les servitudes d'utilité publique sont exclues du régime de droit commun des servitudes, faute de fonds dominant identifiable au sens strict du droit civil, ce qui les rapproche davantage d'une charge administrative.",
+      "tags": [
+        "servitudes d'utilité publique",
+        "régime de droit commun"
+      ]
+    },
+    {
+      "id": "servit-qcm-005",
+      "question": "Un fonds devient enclavé à la suite d'un partage successoral entre plusieurs héritiers. Sur quels terrains le passage doit-il alors s'exercer, et une indemnité est-elle due, selon l'article 684 du Code civil ?",
+      "options": [
+        "Uniquement sur les terrains issus du partage à l'origine de l'enclave, sans indemnité due",
+        "Sur n'importe quel terrain voisin, moyennant une indemnité proportionnée au dommage causé",
+        "Sur les terrains les plus proches de la voie publique, moyennant une indemnité forfaitaire",
+        "Sur aucun terrain particulier, le juge désignant alors librement l'assiette du passage"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'article 684 du Code civil, lorsque l'enclave résulte d'un partage, d'une vente ou d'un échange, le passage ne s'exerce que sur les terrains issus de cet acte, et aucune indemnité n'est alors due, à la différence du régime général de l'enclave.",
+      "tags": [
+        "enclave par division",
+        "article 684"
+      ]
+    },
+    {
+      "id": "servit-qcm-006",
+      "question": "Le propriétaire d'un fonds enclavé exerce son droit de passage légal sans avoir préalablement versé l'indemnité due au propriétaire du fonds servant. Cet exercice est-il subordonné au paiement préalable de cette indemnité, selon Civ. 3e, 25 mars 2021 ?",
+      "options": [
+        "Oui, l'exercice du passage est subordonné au paiement préalable de l'indemnité due",
+        "Non, l'exercice du passage n'est pas subordonné au paiement préalable de l'indemnité",
+        "Oui, mais uniquement si le fonds servant a formellement exigé ce paiement par écrit",
+        "Non, aucune indemnité n'est due au titre d'une servitude légale de passage pour enclave"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 3e, 25 mars 2021, l'exercice du droit de passage légal n'est pas subordonné au paiement préalable de l'indemnité due au fonds servant, cette indemnité restant néanmoins exigible indépendamment de l'exercice du passage lui-même.",
+      "tags": [
+        "enclave",
+        "indemnité de passage"
+      ]
+    },
+    {
+      "id": "servit-qcm-007",
+      "question": "Un passage pour cause d'enclave est exercé au même endroit depuis plus de trente années consécutives. Cet usage prolongé permet-il de prescrire la servitude légale elle-même, ou seulement son assiette, selon Civ. 3e, 21 septembre 2023 ?",
+      "options": [
+        "Il permet de prescrire la servitude légale elle-même, devenue perpétuelle et fixe",
+        "Il ne permet de prescrire ni la servitude ni son assiette, l'enclave restant révisable",
+        "Il permet seulement de prescrire l'assiette du passage, non la servitude légale elle-même",
+        "Il transforme la servitude légale en servitude conventionnelle, distincte de l'enclave"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 3e, 21 septembre 2023, seul l'emplacement du passage, son assiette, peut se prescrire par trente ans d'usage continu ; la servitude légale de passage elle-même, attachée à l'enclave, demeure quant à elle en dehors de toute prescription acquisitive.",
+      "tags": [
+        "enclave",
+        "prescription de l'assiette"
+      ]
+    },
+    {
+      "id": "servit-qcm-008",
+      "question": "Des branches d'un arbre dépassent sur un fonds voisin séparé du fonds planté par une voie publique. Le propriétaire voisin peut-il exercer l'action en élagage prévue à l'article 673 du Code civil, selon Civ. 3e, 20 juin 2019 ?",
+      "options": [
+        "Oui, l'action en élagage s'applique à tous les fonds voisins, quelle que soit leur forme",
+        "Oui, mais uniquement si la voie publique séparant les fonds est une voie communale",
+        "Non, aucune action en élagage n'existe en droit français, quelle que soit la configuration",
+        "Non, l'action en élagage suppose des fonds contigus, inapplicable si une voie les sépare"
+      ],
+      "answer": 3,
+      "explanation": "Selon Civ. 3e, 20 juin 2019, l'action en élagage de l'article 673 du Code civil suppose des fonds contigus : elle est inapplicable lorsque les fonds concernés sont séparés par une voie publique, quelle que soit la nature de cette voie.",
+      "tags": [
+        "action en élagage",
+        "fonds contigus"
+      ]
+    },
+    {
+      "id": "servit-qcm-009",
+      "question": "Un locataire aménage seul deux parcelles appartenant à son bailleur de façon à créer un rapport apparent de servitude entre elles. Cet aménagement peut-il fonder ultérieurement une servitude par destination du père de famille, selon Civ. 3e, 26 juin 1979 ?",
+      "options": [
+        "Non, l'aménagement ne peut être le fait d'un locataire, seul le propriétaire le pouvant",
+        "Oui, tout aménagement matériel, quel qu'en soit l'auteur, peut fonder cette servitude",
+        "Oui, mais uniquement si le bailleur a expressément ratifié cet aménagement par écrit",
+        "Non, mais uniquement si le locataire occupait les lieux depuis moins de dix années"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 3e, 26 juin 1979, la destination du père de famille suppose que l'aménagement ait été réalisé par le propriétaire lui-même : il ne peut être le fait d'un locataire, ni d'un simple indivisaire ou de plusieurs propriétaires indivis.",
+      "tags": [
+        "destination du père de famille",
+        "aménagement par le propriétaire"
+      ]
+    },
+    {
+      "id": "servit-qcm-010",
+      "question": "Le propriétaire du fonds dominant, bénéficiaire d'une servitude de passage, installe des canalisations souterraines sous le chemin existant. Cette installation constitue-t-elle une aggravation prohibée de la servitude, selon Civ. 1re, 14 octobre 1963 ?",
+      "options": [
+        "Oui, toute modification matérielle de l'assiette constitue une aggravation prohibée",
+        "Non, cette installation constitue une adaptation de la servitude, non une aggravation",
+        "Oui, mais si les canalisations traversent une portion non prévue par le titre",
+        "Non, mais si le fonds servant donne son accord exprès et préalable à l'installation"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 1re, 14 octobre 1963, l'installation de canalisations sous une servitude de passage existante constitue une simple adaptation de la servitude, distincte de son aggravation prohibée, dès lors qu'elle ne modifie pas l'économie générale du droit.",
+      "tags": [
+        "principe de fixité",
+        "adaptation de la servitude"
+      ]
+    },
+    {
+      "id": "servit-qcm-011",
+      "question": "Une servitude de passage devient purement inutile pour le fonds dominant, sans que son exercice soit devenu matériellement impossible. Cette seule inutilité entraîne-t-elle l'extinction de la servitude, selon Civ. 3e, 17 septembre 2013 ?",
+      "options": [
+        "Oui, l'inutilité constatée d'une servitude suffit à elle seule à entraîner son extinction",
+        "Oui, mais uniquement si l'inutilité perdure depuis plus de dix années consécutives",
+        "Non, seule l'impossibilité d'exercice, distincte de la simple inutilité, éteint le droit",
+        "Non, aucune servitude ne peut jamais s'éteindre pour un motif tiré de son inutilité"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 3e, 17 septembre 2013, la seule inutilité d'une servitude n'entraîne pas son extinction : l'article 703 du Code civil exige une véritable impossibilité d'exercice, notion distincte et plus exigeante que la simple inutilité constatée.",
+      "tags": [
+        "impossibilité d'exercice",
+        "inutilité de la servitude"
+      ]
+    },
+    {
+      "id": "servit-qcm-012",
+      "question": "Le titulaire d'une servitude cesse d'exercer une partie seulement de ses prérogatives, tout en continuant à exercer le reste normalement. Ce non-usage partiel entraîne-t-il l'extinction totale de la servitude, selon l'article 708 du Code civil ?",
+      "options": [
+        "Oui, tout non-usage, même partiel, entraîne l'extinction totale de la servitude",
+        "Oui, mais si le non-usage partiel dépasse une durée de quinze années consécutives",
+        "Non, le non-usage partiel est indifférent, sans incidence sur l'étendue de la servitude",
+        "Non, le non-usage partiel n'entraîne qu'une restriction de l'étendue de la servitude"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'article 708 du Code civil, le non-usage partiel d'une servitude n'entraîne qu'une simple restriction de son étendue, et non son extinction totale, seul le non-usage complet et trentenaire pouvant éteindre la servitude dans son ensemble.",
+      "tags": [
+        "non-usage",
+        "article 708"
+      ]
+    }
+  ]
+}
