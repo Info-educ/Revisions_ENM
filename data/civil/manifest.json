@@ -287,6 +287,12 @@
       "file": "servitudes.json",
       "title": "Les servitudes : notion, classification, régime juridique et extinction",
       "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "proprietes-collectives",
+      "file": "proprietes-collectives.json",
+      "title": "Les propriétés collectives : indivision, mitoyenneté et copropriété des immeubles bâtis",
+      "category": "Droit civil — Les biens"
     }
   ]
 }

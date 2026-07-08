@@ -1,0 +1,272 @@
+{
+  "id": "proprietes-collectives",
+  "title": "Les propriétés collectives : indivision, mitoyenneté et copropriété des immeubles bâtis",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "propcoll-fc-001",
+      "front": "Que prévoit l'article 815 du Code civil concernant l'indivision, et quelle est la conséquence pratique de son caractère temporaire ?",
+      "back": "Nul ne peut être contraint de demeurer dans l'indivision ; chaque indivisaire peut provoquer le partage à tout moment, ce droit étant imprescriptible, l'indivision étant par nature une situation précaire, sauf maintien judiciaire ou conventionnel temporaire.",
+      "tags": [
+        "article 815",
+        "caractère temporaire"
+      ]
+    },
+    {
+      "id": "propcoll-fc-002",
+      "front": "Quelles sont les trois sources principales de l'indivision ?",
+      "back": "L'indivision successorale, naissant au décès entre les héritiers du défunt ; l'indivision post-communautaire, naissant de la dissolution de la communauté entre ex-époux ou leurs héritiers ; et l'indivision par acquisition conjointe, un bien acquis ensemble par plusieurs personnes, la jurisprudence se référant à la volonté des parties plutôt qu'au financement.",
+      "tags": [
+        "sources de l'indivision"
+      ]
+    },
+    {
+      "id": "propcoll-fc-003",
+      "front": "Qu'est-ce que la subrogation réelle au sein de la masse indivise (art. 815-10, al. 1er), et quelle présomption s'y attache ?",
+      "back": "Le bien entrant dans la masse indivise remplace celui qui en est sorti, par exemple une indemnité d'assurance remplaçant le bien détruit ; un bien acheté avec des fonds indivis est présumé personnel à l'indivisaire acquéreur, la preuve du remploi de fonds indivis étant requise pour le faire entrer dans la masse.",
+      "tags": [
+        "subrogation réelle",
+        "masse indivise"
+      ]
+    },
+    {
+      "id": "propcoll-fc-004",
+      "front": "Selon quelles règles de majorité les indivisaires peuvent-ils accomplir des actes sur les biens indivis (art. 815-3) ?",
+      "back": "Les actes conservatoires peuvent être accomplis par un seul indivisaire agissant seul ; les actes d'administration requièrent la majorité des deux tiers des droits indivis ; et les actes de disposition requièrent l'unanimité des indivisaires, tout acte irrégulier étant inopposable aux autres pendant l'indivision.",
+      "tags": [
+        "gestion de l'indivision",
+        "article 815-3"
+      ]
+    },
+    {
+      "id": "propcoll-fc-005",
+      "front": "Quelles sont les modalités du droit de préemption des coïndivisaires (art. 815-14) en cas de cession de part à un tiers, et quelle est la sanction de sa violation ?",
+      "back": "L'indivisaire cédant doit notifier aux coïndivisaires le prix et les conditions de la cession envisagée ; ceux-ci disposent d'un mois pour réagir et de deux mois pour réaliser l'acte ; à défaut de respect de cette procédure, la cession est entachée de nullité relative, prescriptible par cinq ans.",
+      "tags": [
+        "droit de préemption",
+        "article 815-14"
+      ]
+    },
+    {
+      "id": "propcoll-fc-006",
+      "front": "Qu'est-ce que la mitoyenneté, et quel est le mode d'acquisition spécial prévu par l'article 661 du Code civil ?",
+      "back": "Une propriété collective sur un mur, une haie ou un fossé séparant deux fonds, qualifiée d'indivision spéciale ; l'article 661 permet la cession forcée, tout propriétaire pouvant rendre mitoyen un mur privatif délimitant son fonds moyennant remboursement de la moitié des dépenses de construction et de la moitié de la valeur du sol.",
+      "tags": [
+        "mitoyenneté",
+        "cession forcée"
+      ]
+    },
+    {
+      "id": "propcoll-fc-007",
+      "front": "Que comporte obligatoirement chaque lot de copropriété, et quels sont les trois types de parties communes ?",
+      "back": "Une partie privative et une quote-part de parties communes, indissociables l'une de l'autre ; les parties communes générales, affectées à l'usage de tous, les parties communes spéciales, affectées à l'usage de plusieurs copropriétaires seulement, et les parties communes à jouissance privative, affectées à l'usage exclusif d'un lot, droit réel perpétuel accessoire au lot.",
+      "tags": [
+        "lot de copropriété",
+        "parties communes"
+      ]
+    },
+    {
+      "id": "propcoll-fc-008",
+      "front": "Quels sont les quatre niveaux de majorité applicables aux décisions de l'assemblée générale des copropriétaires ?",
+      "back": "La majorité simple des voix exprimées (art. 24, budget, entretien courant), la majorité absolue de tous les copropriétaires (art. 25, désignation du syndic), la double majorité, la moitié des membres et les deux tiers des voix (art. 26, modification du règlement), et l'unanimité (changement de destination de l'immeuble, aliénation de parties communes nécessaires).",
+      "tags": [
+        "assemblée générale",
+        "majorités"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "propcoll-qcm-001",
+      "question": "Un congé est délivré à un locataire au nom de l'indivision, sans que tous les indivisaires n'y figurent. Ce congé est-il valable, selon Civ. 3e, 16 mars 2017 ?",
+      "options": [
+        "Non, un congé donné par l'indivision seule, sans tous les indivisaires, est nul",
+        "Oui, un seul indivisaire peut donner congé au nom de l'ensemble de l'indivision",
+        "Oui, mais si l'indivisaire signataire détient plus de la moitié des droits indivis",
+        "Non, mais uniquement si le locataire n'avait pas connaissance de la situation d'indivision"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 3e, 16 mars 2017, un congé donné par l'indivision seule, sans que tous les indivisaires n'y figurent, est nul : l'indivision n'ayant pas de personnalité morale, tous les indivisaires doivent en principe figurer aux actes juridiques la concernant.",
+      "tags": [
+        "indivision sans personnalité morale",
+        "congé"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-002",
+      "question": "Un nu-propriétaire et un usufruitier exercent chacun un droit distinct sur un même bien. Ces deux droits sont-ils en situation d'indivision au sens de l'article 815 du Code civil ?",
+      "options": [
+        "Oui, dès lors que deux personnes ont des droits sur un même bien, il y a indivision",
+        "Non, leurs droits se suivent sans concourir, ce qui exclut toute indivision entre eux",
+        "Oui, mais uniquement si l'usufruit porte sur la totalité du bien immobilier concerné",
+        "Non, mais uniquement si l'usufruit a été constitué par voie testamentaire notariée"
+      ],
+      "answer": 1,
+      "explanation": "L'indivision est une technique fondée sur la concurrence de droits identiques : les droits du nu-propriétaire et de l'usufruitier ne concourent pas mais se suivent, chacun exerçant un attribut distinct de la propriété, ce qui exclut toute indivision entre eux.",
+      "tags": [
+        "indivision",
+        "usufruit et nue-propriété"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-003",
+      "question": "Un créancier personnel d'un indivisaire souhaite recouvrer sa créance. Peut-il directement saisir la part de cet indivisaire dans les biens indivis ?",
+      "options": [
+        "Oui, il peut saisir directement la part de son débiteur dans les biens indivis",
+        "Oui, mais uniquement s'il obtient l'accord préalable des autres indivisaires",
+        "Non, mais il peut prendre une sûreté sur cette part et provoquer le partage",
+        "Non, aucune voie de droit ne lui est ouverte tant que l'indivision subsiste"
+      ],
+      "answer": 2,
+      "explanation": "Les créanciers personnels d'un indivisaire ne peuvent saisir directement sa part dans les biens indivis (art. 815-17, al. 2) ; ils peuvent en revanche prendre une sûreté sur cette part et provoquer le partage pour parvenir au recouvrement de leur créance.",
+      "tags": [
+        "dettes personnelles",
+        "créanciers de l'indivisaire"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-004",
+      "question": "Un indivisaire occupe seul et de façon exclusive un bien appartenant à l'indivision. Est-il redevable d'une indemnité envers l'indivision, et à quelle condition cette exclusivité doit-elle être caractérisée, selon Civ. 1re, 20 septembre 2023 ?",
+      "options": [
+        "Non, aucune indemnité n'est due tant que les autres indivisaires ne réclament rien",
+        "Oui, mais uniquement si cette occupation a duré plus de cinq années consécutives",
+        "Non, sauf clause expresse prévue dans une convention d'indivision entre les parties",
+        "Oui, il doit une indemnité, l'exclusivité supposant une exclusivité de droit ou de fait"
+      ],
+      "answer": 3,
+      "explanation": "Selon Civ. 1re, 20 septembre 2023, l'indivisaire jouissant privativement d'un bien indivis est débiteur d'une indemnité d'occupation, la jouissance exclusive devant être caractérisée par une exclusivité de droit ou de fait, sauf convention contraire entre les indivisaires.",
+      "tags": [
+        "indemnité d'occupation",
+        "jouissance exclusive"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-005",
+      "question": "Un indivisaire a régulièrement accompli un acte sous mandat ou autorisation judiciaire avant le partage. Le résultat du partage peut-il remettre en cause cet acte, en dépit de son effet déclaratif prévu à l'article 883 du Code civil ?",
+      "options": [
+        "Non, les actes accomplis sous mandat ou autorisation judiciaire restent valables",
+        "Oui, l'effet déclaratif du partage permet de remettre en cause les actes antérieurs",
+        "Oui, mais si l'acte litigieux portait sur un bien immobilier de valeur importante",
+        "Non, mais uniquement si tous les indivisaires avaient donné leur accord exprès à cet acte"
+      ],
+      "answer": 0,
+      "explanation": "Bien que le partage soit déclaratif et rétroactif, les actes régulièrement accomplis sous mandat ou autorisation judiciaire pendant l'indivision ne peuvent être remis en cause, quels que soient les résultats du partage intervenu ultérieurement.",
+      "tags": [
+        "effet déclaratif du partage",
+        "article 883"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-006",
+      "question": "Un copropriétaire d'un mur mitoyen tire encore un avantage de ce mur, par exemple en tant que mur de soutènement de son terrain. Peut-il néanmoins abandonner unilatéralement son droit de mitoyenneté pour cesser de financer les réparations ?",
+      "options": [
+        "Oui, l'abandon de mitoyenneté est un droit discrétionnaire, sans aucune limite possible",
+        "Non, l'abandon est impossible tant qu'il retire encore un avantage du mur concerné",
+        "Oui, mais uniquement si l'abandon est constaté par un acte sous seing privé simple",
+        "Non, mais uniquement si le mur a moins de trente ans d'ancienneté au moment de l'abandon"
+      ],
+      "answer": 1,
+      "explanation": "L'abandon de mitoyenneté connaît deux limites : il est impossible si le copropriétaire retire encore un avantage du mur, tel qu'un mur de soutènement, et il est également impossible pour se soustraire aux réparations dues par sa propre faute.",
+      "tags": [
+        "mitoyenneté",
+        "abandon"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-007",
+      "question": "Un mur séparatif présente un profil incliné, un côté vertical et l'autre en pente. À qui la présomption légale de l'article 654 du Code civil attribue-t-elle la propriété exclusive de ce mur ?",
+      "options": [
+        "Au propriétaire du fonds situé du côté vertical du mur, présumé seul propriétaire",
+        "Aux deux propriétaires concernés, le mur incliné étant présumé mitoyen dans tous les cas",
+        "Au propriétaire du fonds situé du côté de l'inclinaison, présumé seul propriétaire",
+        "À aucun des deux propriétaires, une expertise judiciaire étant systématiquement requise"
+      ],
+      "answer": 2,
+      "explanation": "L'article 654 du Code civil pose une présomption de non-mitoyenneté pour les murs à profil incliné : le propriétaire du fonds situé du côté de l'inclinaison est présumé seul propriétaire du mur, le côté vertical révélant en principe l'auteur de la construction.",
+      "tags": [
+        "présomption de non-mitoyenneté",
+        "article 654"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-008",
+      "question": "Un associé d'une société de multipropriété bénéficie d'une jouissance à temps partagé d'un bien immobilier. Cet associé dispose-t-il d'un droit réel de propriété sur ce bien, à la différence d'un copropriétaire ordinaire ?",
+      "options": [
+        "Oui, l'associé de multipropriété a un droit de propriété identique à un copropriétaire",
+        "Oui, mais uniquement pour la période de jouissance qui lui est contractuellement attribuée",
+        "Non, il ne dispose même d'aucun droit d'usage, la société pouvant révoquer ce droit",
+        "Non, il ne dispose que d'un droit d'usage, la société restant seule propriétaire du bien"
+      ],
+      "answer": 3,
+      "explanation": "À la différence de la copropriété, la multipropriété est une jouissance à temps partagé : la société reste seule propriétaire du bien, l'associé ne disposant que d'un droit d'usage, sans droit réel de propriété sur le bien concerné.",
+      "tags": [
+        "multipropriété",
+        "distinction avec la copropriété"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-009",
+      "question": "Une partie commune à jouissance privative, accessoire à un lot, n'est mentionnée nulle part dans le règlement de copropriété. Ce droit peut-il encore s'acquérir par usucapion, depuis l'ordonnance ELAN de 2019 ?",
+      "options": [
+        "Non, l'usucapion n'est plus possible si cette partie n'est pas mentionnée au règlement",
+        "Oui, l'usucapion reste possible indépendamment de toute mention dans le règlement",
+        "Oui, mais si le règlement a été publié avant l'entrée en vigueur de l'ordonnance",
+        "Non, aucune partie commune à jouissance privative ne peut jamais s'acquérir par usucapion"
+      ],
+      "answer": 0,
+      "explanation": "Depuis l'ordonnance ELAN de 2019, l'usucapion n'est plus possible pour acquérir une partie commune à jouissance privative si celle-ci n'est pas mentionnée dans le règlement de copropriété, alors que cette acquisition demeurait auparavant envisageable.",
+      "tags": [
+        "parties communes à jouissance privative",
+        "ordonnance ELAN"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-010",
+      "question": "Un acte de vente d'un lot de copropriété comporte une erreur de mesurage de la superficie exacte du lot. Contre qui l'acquéreur et le vendeur peuvent-ils respectivement agir en cas de préjudice résultant de cette erreur ?",
+      "options": [
+        "Seul le vendeur dispose d'un recours, contre l'expert ayant réalisé le mesurage",
+        "L'acquéreur obtient une diminution du prix ; le vendeur agit contre l'expert",
+        "Seul l'acquéreur dispose d'un recours, exclusivement contre le vendeur ayant signé l'acte",
+        "Ni l'acquéreur ni le vendeur ne disposent d'un recours en cas d'erreur constatée"
+      ],
+      "answer": 1,
+      "explanation": "En cas d'erreur de mesurage de la superficie d'un lot, l'acquéreur obtient une diminution proportionnelle du prix auprès du vendeur, tandis que ce dernier dispose d'une action en responsabilité contre l'expert ayant réalisé le mesurage erroné.",
+      "tags": [
+        "erreur de mesurage",
+        "loi Carrez"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-011",
+      "question": "Une décision soumise à la majorité absolue de l'article 25 n'obtient que le tiers des voix de tous les copropriétaires. Le mécanisme de la passerelle, introduit par l'ordonnance ELAN, permet-il un second vote immédiat lors de la même assemblée ?",
+      "options": [
+        "Non, une nouvelle assemblée générale doit être convoquée dans un délai de trois mois",
+        "Oui, mais uniquement si le syndic donne son accord exprès à ce second vote immédiat",
+        "Oui, la même assemblée se prononce immédiatement à la majorité simple des voix",
+        "Non, ce mécanisme de la passerelle a été supprimé par une réforme ultérieure"
+      ],
+      "answer": 2,
+      "explanation": "Le mécanisme de la passerelle, introduit par l'ordonnance ELAN de 2019, permet à la même assemblée de se prononcer immédiatement à la majorité simple lorsque le projet soumis à la majorité absolue a recueilli au moins un tiers des voix de tous les copropriétaires.",
+      "tags": [
+        "mécanisme de la passerelle",
+        "ordonnance ELAN"
+      ]
+    },
+    {
+      "id": "propcoll-qcm-012",
+      "question": "Un copropriétaire, absent lors de l'assemblée générale et non représenté, souhaite contester une décision prise lors de cette assemblée. Est-il recevable à agir, selon l'article 42, alinéa 2, de la loi du 10 juillet 1965 ?",
+      "options": [
+        "Non, seul le copropriétaire ayant expressément voté contre la décision peut la contester",
+        "Oui, mais uniquement s'il justifie d'un empêchement légitime à son absence à l'assemblée",
+        "Non, l'absence à l'assemblée générale prive définitivement de tout droit de contestation",
+        "Oui, en tant que défaillant, il dispose d'un délai de deux mois pour contester la décision"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'article 42, alinéa 2, de la loi du 10 juillet 1965, seuls les copropriétaires opposants ou défaillants peuvent contester une décision d'assemblée générale ; le copropriétaire absent et non représenté, qualifié de défaillant, dispose d'un délai de deux mois pour agir.",
+      "tags": [
+        "contestation des décisions",
+        "article 42"
+      ]
+    }
+  ]
+}
