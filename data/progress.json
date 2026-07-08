@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1783523070195,
+  "updatedAt": 1783523093860,
   "themes": {
     "civil": {
       "items": {
@@ -2980,11 +2980,11 @@
           "lastSeenAt": 1783522996478
         },
         "propcoll-qcm-003": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1783523030964
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1783523089847
         },
         "propcoll-qcm-001": {
           "level": 1,
