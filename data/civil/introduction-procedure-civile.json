@@ -1,0 +1,181 @@
+{
+  "id": "introduction-procedure-civile",
+  "title": "Introduction à la procédure civile : finalités, sources et numérisation",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "procciv-fc-001",
+      "front": "Quelle est la double utilité de la procédure civile, selon la doctrine contemporaine ?",
+      "back": "Une utilité pratique, imposant une marche équitable et régulière vers le jugement (procedere), gage de paix sociale ; et une utilité théorique, donnant au droit à un juge son critère de juridicité et construisant les grands concepts du procès (partie, instance, acte juridictionnel, voies de recours).",
+      "tags": [
+        "utilité de la procédure",
+        "procedere"
+      ]
+    },
+    {
+      "id": "procciv-fc-002",
+      "front": "Quels sont les trois caractères essentiels de la procédure civile, et quelle nuance affecte chacun d'eux ?",
+      "back": "Formaliste, les formes protégeant les parties contre l'arbitraire du juge et les pratiques déloyales sans jamais exister pour elles-mêmes ; impératif, l'organisation judiciaire étant d'ordre public mais ce caractère demeurant variable pour la conduite de l'instance ; et d'applicabilité immédiate, sauf lorsque la loi nouvelle prive d'effet des actes régulièrement accomplis sous la loi ancienne.",
+      "tags": [
+        "caractères de la procédure civile"
+      ]
+    },
+    {
+      "id": "procciv-fc-003",
+      "front": "Que garantit l'article 6, paragraphe 1er, de la Convention européenne des droits de l'homme, et pourquoi ne faut-il jamais confondre le Conseil de l'Europe et l'Union européenne ?",
+      "back": "Il garantit le droit à un procès équitable, dont découlent l'accès au juge, l'impartialité, la publicité, le délai raisonnable et l'égalité des armes ; le Conseil de l'Europe (Conv. EDH, Cour EDH à Strasbourg, 46 États) et l'Union européenne (CJUE à Luxembourg, 27 États) sont deux organisations distinctes, sans lien institutionnel, et les confondre constitue une erreur éliminatoire aux concours.",
+      "tags": [
+        "article 6 Conv. EDH",
+        "Conseil de l'Europe et UE"
+      ]
+    },
+    {
+      "id": "procciv-fc-004",
+      "front": "Quelles sont les quatre techniques de constitutionnalisation de la procédure civile ?",
+      "back": "La constitutionnalisation directe par la question prioritaire de constitutionnalité, depuis 2010 ; le contrôle de constitutionnalité des décrets de procédure civile par le juge administratif ; l'autorité des décisions du Conseil constitutionnel s'imposant à toutes les autorités juridictionnelles ; et le rôle du juge judiciaire comme juge de la constitutionnalité des actes juridictionnels et administratifs.",
+      "tags": [
+        "constitutionnalisation",
+        "QPC"
+      ]
+    },
+    {
+      "id": "procciv-fc-005",
+      "front": "Comment se répartit la compétence entre le Parlement et le Gouvernement pour modifier les règles de procédure civile ?",
+      "back": "La procédure civile relève par principe du pouvoir réglementaire, le Code de procédure civile étant lui-même un décret ; mais le législateur reprend la main dès que la règle met en cause les droits de la défense, la contradiction, la charge de la preuve ou les libertés publiques, ainsi que pour toute règle relative à la structure et à la composition des juridictions, qui demeure toujours de nature législative.",
+      "tags": [
+        "répartition des compétences",
+        "domaine réglementaire"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "procciv-qcm-001",
+      "question": "Le choix du tribunal compétent pour connaître d'un litige peut révéler la nature substantielle de l'obligation en cause. Cette fonction révélatrice de la procédure illustre quelle utilité de la procédure civile, selon Com. 15 décembre 2021 ?",
+      "options": [
+        "Son utilité théorique, la procédure éclairant le droit substantiel qu'elle met en œuvre",
+        "Son utilité pratique exclusivement, sans lien avec la qualification du droit substantiel",
+        "Aucune utilité particulière, ce choix relevant uniquement de considérations pratiques",
+        "Son utilité fiscale, la compétence du tribunal fixant le régime d'imposition applicable"
+      ],
+      "answer": 0,
+      "explanation": "Selon Com. 15 décembre 2021, le choix du tribunal compétent peut révéler la nature substantielle de l'obligation en cause : la procédure est ainsi un droit savant et servant, superposé au droit substantiel qu'elle contribue à éclairer.",
+      "tags": [
+        "utilité théorique",
+        "droit savant et servant"
+      ]
+    },
+    {
+      "id": "procciv-qcm-002",
+      "question": "Un acte de procédure présente une irrégularité formelle mineure. Quelle est la tendance actuelle de la jurisprudence face à une telle irrégularité, par opposition à l'annulation systématique de l'acte ?",
+      "options": [
+        "Annuler systématiquement l'acte, le formalisme devant toujours être strictement sanctionné",
+        "Chercher à sauver l'acte de procédure plutôt qu'à l'annuler, tendance dite in favorem",
+        "Laisser au seul juge d'appel le soin d'apprécier la validité de l'acte concerné",
+        "Suspendre l'instance jusqu'à régularisation complète de l'acte par la partie concernée"
+      ],
+      "answer": 1,
+      "explanation": "La tendance actuelle de la jurisprudence est de chercher à sauver la procédure, tendance dite in favorem, plutôt que d'annuler systématiquement l'acte litigieux, le formalisme ne devant jamais exister pour lui-même.",
+      "tags": [
+        "caractère formaliste",
+        "tendance in favorem"
+      ]
+    },
+    {
+      "id": "procciv-qcm-003",
+      "question": "La Déclaration universelle des droits de l'homme du 10 décembre 1948 peut-elle être directement invoquée par un justiciable devant le juge français, selon CE 18 avril 1951 ?",
+      "options": [
+        "Oui, elle constitue un texte directement applicable devant toute juridiction française",
+        "Oui, mais uniquement devant les juridictions administratives, non devant les civiles",
+        "Non, elle n'a que la valeur d'un idéal et n'est pas auto-exécutoire devant le juge",
+        "Non, ce texte a été abrogé par l'entrée en vigueur d'un texte européen équivalent"
+      ],
+      "answer": 2,
+      "explanation": "Selon CE 18 avril 1951, la Déclaration universelle des droits de l'homme n'a que la valeur d'un idéal et n'est pas auto-exécutoire : elle ne peut être directement invoquée devant le juge français, à la différence de la Convention européenne des droits de l'homme.",
+      "tags": [
+        "sources internationales",
+        "DUDH"
+      ]
+    },
+    {
+      "id": "procciv-qcm-004",
+      "question": "Selon Cass. ass. plén. 30 juin 1995, l'accès à un défenseur pour assurer sa défense en justice est-il un droit de nature purement légale, ou revêt-il un caractère supérieur ?",
+      "options": [
+        "Il s'agit d'un droit de nature purement légale, aménageable librement par le législateur",
+        "Il s'agit d'un droit de nature purement réglementaire, relevant du pouvoir exécutif seul",
+        "Il s'agit d'un droit d'origine conventionnelle exclusive, issu d'un texte international",
+        "Il s'agit d'un droit fondamental constitutionnel, protégé contre toute atteinte excessive"
+      ],
+      "answer": 3,
+      "explanation": "Selon Cass. ass. plén. 30 juin 1995, l'accès à un défenseur constitue un droit fondamental à caractère constitutionnel, ce qui signifie qu'une loi de procédure qui l'entraverait de façon excessive serait elle-même inconstitutionnelle.",
+      "tags": [
+        "constitutionnalisation",
+        "droit à un défenseur"
+      ]
+    },
+    {
+      "id": "procciv-qcm-005",
+      "question": "Un ressortissant d'un autre État membre de l'Union européenne agit en justice en France. Peut-on lui imposer une caution judiciaire (cautio judicatum solvi) que l'on n'imposerait pas à un ressortissant français, selon CJCE, 1er juillet 1993, Hubbard ?",
+      "options": [
+        "Non, cette exigence serait discriminatoire et contraire au principe de non-discrimination",
+        "Oui, cette caution peut être exigée de tout justiciable étranger, sans distinction",
+        "Oui, mais uniquement si le montant du litige dépasse un seuil déterminé par le juge",
+        "Non, mais uniquement si le ressortissant réside habituellement sur le territoire français"
+      ],
+      "answer": 0,
+      "explanation": "Selon CJCE, 1er juillet 1993, Hubbard, l'imposition d'une caution judiciaire aux seuls ressortissants d'autres États membres serait discriminatoire et contraire au principe de non-discrimination fondant la construction européenne.",
+      "tags": [
+        "principes généraux du droit",
+        "non-discrimination"
+      ]
+    },
+    {
+      "id": "procciv-qcm-006",
+      "question": "Selon Cass. ass. plén. 7 juillet 2006 (Césareo), une partie ayant perdu son procès en première instance peut-elle soulever, dans une nouvelle instance, un moyen juridique qu'elle aurait pu invoquer dès la première procédure ?",
+      "options": [
+        "Oui, chaque moyen juridique peut être invoqué séparément dans des instances successives",
+        "Non, l'autorité de la chose jugée s'étend à tout moyen pouvant être soulevé dès l'origine",
+        "Oui, mais uniquement si le moyen nouveau porte sur un fondement juridique différent",
+        "Non, mais uniquement si la première instance s'est achevée par un jugement définitif"
+      ],
+      "answer": 1,
+      "explanation": "Selon Cass. ass. plén. 7 juillet 2006 (Césareo), l'autorité de la chose jugée s'étend à tout moyen qui aurait pu être soulevé dès la première instance, ce qui impose aux parties de concentrer l'ensemble de leurs moyens dès l'origine du litige.",
+      "tags": [
+        "logique de gestion des flux",
+        "concentration des moyens"
+      ]
+    },
+    {
+      "id": "procciv-qcm-007",
+      "question": "La Chancellerie publie des foires aux questions (FAQ) destinées à expliquer aux praticiens l'application des décrets de procédure civile. Ces FAQ constituent-elles des sources de droit à proprement parler ?",
+      "options": [
+        "Oui, elles ont exactement la même valeur normative que les circulaires qu'elles remplacent",
+        "Oui, mais uniquement lorsqu'elles sont publiées sur le site du ministère concerné",
+        "Non, elles sont dépourvues de toute valeur normative propre, malgré leur utilité pratique",
+        "Non, elles n'ont même aucune utilité pratique pour les praticiens du droit judiciaire"
+      ],
+      "answer": 2,
+      "explanation": "Les foires aux questions publiées par la Chancellerie remplacent les circulaires ministérielles supprimées en 2019, mais elles sont dépourvues de toute valeur normative propre, ne constituant pas des sources de droit au sens strict.",
+      "tags": [
+        "sources d'application",
+        "FAQ de la Chancellerie"
+      ]
+    },
+    {
+      "id": "procciv-qcm-008",
+      "question": "Un justiciable souhaite saisir une juridiction sans recourir à la voie électronique, alors que la dématérialisation des procédures se généralise. Peut-on lui imposer exclusivement cette voie électronique, selon CJUE, 18 mars 2012, Rosalba Alassini ?",
+      "options": [
+        "Oui, la voie électronique peut être rendue obligatoire si elle simplifie la procédure",
+        "Oui, mais uniquement si le justiciable est assisté d'un avocat pour la procédure concernée",
+        "Non, mais uniquement si le justiciable est domicilié dans une zone sans accès internet",
+        "Non, la dématérialisation doit rester une simple possibilité, non une obligation"
+      ],
+      "answer": 3,
+      "explanation": "Selon CJUE, 18 mars 2012, Rosalba Alassini, l'obligation exclusive de recourir à la voie électronique peut heurter le droit à une protection juridictionnelle effective : la dématérialisation doit demeurer une possibilité, non une obligation imposée à tout justiciable.",
+      "tags": [
+        "numérisation",
+        "dématérialisation"
+      ]
+    }
+  ]
+}

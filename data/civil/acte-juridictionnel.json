@@ -1,0 +1,214 @@
+{
+  "id": "acte-juridictionnel",
+  "title": "La théorie de la juridiction : l'acte juridictionnel, son régime et sa diversité pratique",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "actejur-fc-001",
+      "front": "Que prévoit la définition de l'acte juridictionnel proposée par Motulsky, reprise par la CEDH (Belilos c. Suisse, 1988) ?",
+      "back": "L'acte juridictionnel est un acte qui émane d'un organe juridictionnel, qui est rendu selon les formes d'une procédure, et qui tranche une prétention concernant une situation juridique par application d'une règle de droit ; la CEDH caractérise de même le tribunal par son rôle juridictionnel, consistant à trancher toute question relevant de sa compétence sur la base de normes de droit.",
+      "tags": [
+        "acte juridictionnel",
+        "définition Motulsky"
+      ]
+    },
+    {
+      "id": "actejur-fc-002",
+      "front": "Quelle différence de nature juridictionnelle distingue le jugement de donné acte et le jugement d'expédient ?",
+      "back": "Le jugement de donné acte n'est pas juridictionnel, le juge se contentant de constater l'accord des parties sans exercer aucun contrôle de légalité ; le jugement d'expédient est en revanche pleinement juridictionnel, les parties dissimulant leur accord pour obtenir un véritable jugement, motivé et soumis à un contrôle réel du juge.",
+      "tags": [
+        "jugement de donné acte",
+        "jugement d'expédient"
+      ]
+    },
+    {
+      "id": "actejur-fc-003",
+      "front": "Quels sont les deux fondements de l'autorité de la chose jugée, et quelle triple identité conditionne sa dimension négative (art. 1355 C. civ.) ?",
+      "back": "La présomption de vérité, res judicata pro veritate habetur, présomption irréfragable, et l'intérêt d'une fin des litiges, interest rei publicae ut sit finis litium ; la dimension négative exige une triple identité, de parties, d'objet et de cause, entre la demande nouvelle et celle déjà jugée.",
+      "tags": [
+        "autorité de la chose jugée",
+        "triple identité"
+      ]
+    },
+    {
+      "id": "actejur-fc-004",
+      "front": "Que consacre le revirement Cesareo (Ass. plén., 7 juill. 2006) sur la notion d'identité de cause, et quelle obligation en découle pour le demandeur ?",
+      "back": "Il y a identité de cause dès lors que les demandes successives, fondées sur le même objet, tendent aux mêmes fins, seul le moyen juridique différant ; il en résulte une obligation de concentration des moyens, le demandeur devant présenter dès la première instance l'ensemble des moyens de nature à fonder sa demande.",
+      "tags": [
+        "jurisprudence Cesareo",
+        "concentration des moyens"
+      ]
+    },
+    {
+      "id": "actejur-fc-005",
+      "front": "Que prévoit le principe du dessaisissement du juge (art. 481 CPC), et quelles sont ses deux exceptions ?",
+      "back": "Une fois la sentence rendue, le juge cesse d'être juge, lata sententia judex desinit esse judex, et ne peut plus revenir sur sa décision, même avec le consentement des parties ; l'action en interprétation, tant que la décision n'est pas frappée d'appel, et l'action en rectification d'une erreur ou omission matérielle permettent cependant au juge d'être ressaisi, sans pouvoir modifier les droits reconnus.",
+      "tags": [
+        "dessaisissement du juge",
+        "article 481 CPC"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "actejur-qcm-001",
+      "question": "Une mesure d'administration judiciaire, telle qu'une décision de radiation d'une affaire, est-elle en principe susceptible de recours, y compris un pourvoi pour excès de pouvoir ?",
+      "options": [
+        "Non, elle est en principe insusceptible de recours, même un pourvoi pour excès de pouvoir",
+        "Oui, elle est susceptible d'appel dans les mêmes conditions qu'un jugement sur le fond",
+        "Oui, mais si la mesure a été prise par un magistrat unique, non une formation collégiale",
+        "Non, aucune exception n'est admise, quelles que soient les conséquences de cette mesure"
+      ],
+      "answer": 0,
+      "explanation": "Les mesures d'administration judiciaire sont en principe insusceptibles de recours, même un pourvoi pour excès de pouvoir, ces mesures ne relevant pas d'un contrôle de conformité au droit mais de la bonne administration de la justice.",
+      "tags": [
+        "mesure d'administration judiciaire",
+        "insusceptibilité de recours"
+      ]
+    },
+    {
+      "id": "actejur-qcm-002",
+      "question": "Une mesure d'administration judiciaire affecte concrètement l'exercice du droit d'appel d'une partie. Un recours pour excès de pouvoir est-il alors admis, selon Civ. 2e, 9 janvier 2020 ?",
+      "options": [
+        "Non, aucune mesure d'administration judiciaire ne peut faire l'objet d'un tel recours",
+        "Oui, un recours pour excès de pouvoir est admis si la mesure affecte l'accès à un juge",
+        "Oui, mais uniquement si la mesure a été prise en violation d'un texte réglementaire exprès",
+        "Non, seule une action en responsabilité contre l'État peut être engagée par la partie"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 2e, 9 janvier 2020, un tempérament au principe d'insusceptibilité de recours admet le pourvoi pour excès de pouvoir lorsque la mesure d'administration judiciaire affecte l'exercice du droit d'appel et, partant, l'accès à un juge.",
+      "tags": [
+        "excès de pouvoir",
+        "accès au juge"
+      ]
+    },
+    {
+      "id": "actejur-qcm-003",
+      "question": "Un jugement modifie objectivement l'ordonnancement juridique. Ce jugement crée-t-il directement des droits ou des obligations à l'égard des tiers qui n'y étaient ni parties ni représentés ?",
+      "options": [
+        "Oui, tout jugement crée nécessairement des droits et obligations à l'égard des tiers",
+        "Oui, mais si les tiers concernés ont été informés du jugement par voie d'huissier",
+        "Non, mais les tiers doivent respecter cette modification, sans en être directement liés",
+        "Non, les tiers peuvent ignorer purement et simplement l'existence de ce jugement rendu"
+      ],
+      "answer": 2,
+      "explanation": "En vertu du principe de relativité de la chose jugée, un jugement ne crée directement ni droits ni obligations à l'égard des tiers ; ceux-ci doivent néanmoins respecter la modification objective de l'ordonnancement juridique qu'il opère, ce que traduit l'opposabilité.",
+      "tags": [
+        "relativité de la chose jugée",
+        "opposabilité"
+      ]
+    },
+    {
+      "id": "actejur-qcm-004",
+      "question": "Selon Ass. plén., 13 mars 2009, l'autorité de la chose jugée s'attache-t-elle aux motifs d'un jugement, ou seulement à son dispositif ?",
+      "options": [
+        "Elle s'attache aux motifs décisoires uniquement, à l'exclusion du dispositif du jugement",
+        "Elle s'attache indifféremment aux motifs et au dispositif, sans distinction entre eux",
+        "Elle ne s'attache à rien de précis, le juge appréciant souverainement au cas par cas",
+        "Elle s'attache exclusivement à ce qui a été tranché dans le dispositif du jugement"
+      ],
+      "answer": 3,
+      "explanation": "Selon Ass. plén., 13 mars 2009, l'autorité de la chose jugée n'a lieu qu'à l'égard de ce qui fait l'objet du jugement et a été tranché dans son dispositif, les motifs en étant exclus, quels qu'ils soient, sauf tempéraments ponctuels ultérieurs.",
+      "tags": [
+        "dispositif du jugement",
+        "orthodoxie formelle"
+      ]
+    },
+    {
+      "id": "actejur-qcm-005",
+      "question": "Une jurisprudence antérieure est ultérieurement modifiée par un revirement. Ce simple changement de jurisprudence constitue-t-il un fait juridique nouveau permettant d'échapper à l'autorité de la chose jugée, selon Civ. 2e, 18 octobre 2007 ?",
+      "options": [
+        "Non, un simple changement de jurisprudence ne constitue pas un fait juridique nouveau",
+        "Oui, tout revirement de jurisprudence constitue nécessairement un fait juridique nouveau",
+        "Oui, mais si le revirement est intervenu moins d'un an après le jugement initial",
+        "Non, aucun fait, quelle qu'il soit, ne peut permettre d'échapper à la chose jugée"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 2e, 18 octobre 2007, un simple changement de jurisprudence ne constitue pas un fait juridique nouveau permettant de contourner l'autorité de la chose jugée, ce tempérament restant réservé à des faits véritablement inédits.",
+      "tags": [
+        "fait juridique nouveau",
+        "revirement de jurisprudence"
+      ]
+    },
+    {
+      "id": "actejur-qcm-006",
+      "question": "Le demandeur ayant perdu son procès doit-il, selon la jurisprudence de la deuxième chambre civile (26 mai 2011), présenter dans la même instance toutes les demandes fondées sur les mêmes faits, à l'instar de l'obligation de concentration des moyens ?",
+      "options": [
+        "Oui, l'obligation de concentration s'étend aux demandes, exactement comme aux moyens",
+        "Non, le demandeur n'est pas tenu de concentrer ses demandes, à la différence de ses moyens",
+        "Oui, mais uniquement si les demandes concernées portent sur des sommes d'argent",
+        "Non, aucune concentration n'est jamais exigée, ni des moyens ni des demandes du plaideur"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 2e, 26 mai 2011, le demandeur n'est pas tenu de présenter dans la même instance toutes les demandes fondées sur les mêmes faits, la deuxième chambre civile refusant tout glissement de l'obligation de concentration des moyens vers celle des demandes.",
+      "tags": [
+        "concentration des demandes",
+        "chambre de la procédure"
+      ]
+    },
+    {
+      "id": "actejur-qcm-007",
+      "question": "Le droit français reconnaît-il, à la différence du droit anglais, une autorité positive à la chose jugée entre les mêmes parties mais à propos d'un objet différent ?",
+      "options": [
+        "Oui, cette autorité positive est largement admise en droit français depuis les années 1990",
+        "Oui, mais uniquement pour les jugements rendus par les juridictions du premier degré",
+        "Non, cette autorité positive est largement rejetée en droit français, sauf exceptions",
+        "Non, aucune autorité positive n'existe dans aucun système juridique occidental"
+      ],
+      "answer": 2,
+      "explanation": "L'autorité positive de la chose jugée, admise par le droit anglais, est largement rejetée en droit français depuis les années 1990, sous réserve de quelques exceptions fondées sur des principes généraux ou des textes spécifiques.",
+      "tags": [
+        "autorité positive",
+        "droit comparé"
+      ]
+    },
+    {
+      "id": "actejur-qcm-008",
+      "question": "Un jugement vient d'être prononcé par le tribunal, sans avoir encore été signifié aux parties. Ce jugement a-t-il déjà autorité de la chose jugée à ce stade ?",
+      "options": [
+        "Non, l'autorité de la chose jugée ne naît qu'à compter de la signification du jugement",
+        "Oui, mais uniquement si le jugement est en outre assorti de l'exécution provisoire",
+        "Non, il faut attendre l'expiration du délai d'appel pour que cette autorité naisse",
+        "Oui, le jugement a autorité de la chose jugée dès son prononcé, sans signification"
+      ],
+      "answer": 3,
+      "explanation": "Le jugement a autorité de la chose jugée dès son prononcé, sans qu'il soit besoin d'être signifié aux parties ; cette autorité doit être distinguée de la force exécutoire, dont la mise en œuvre est modulée dans le temps par des règles propres.",
+      "tags": [
+        "autorité dès le prononcé",
+        "dimension progressive"
+      ]
+    },
+    {
+      "id": "actejur-qcm-009",
+      "question": "Une ordonnance sur requête est rendue par un juge sans que le principe du contradictoire n'ait été respecté à l'égard de la partie adverse. Cette absence de contradictoire suffit-elle à qualifier la procédure de gracieuse ?",
+      "options": [
+        "Non, l'absence de contradictoire ne suffit pas seule à caractériser le gracieux",
+        "Oui, toute procédure évinçant le contradictoire relève nécessairement du gracieux",
+        "Oui, mais si la requête a été présentée par un avocat inscrit au barreau concerné",
+        "Non, aucune ordonnance sur requête ne peut jamais relever, même partiellement, du gracieux"
+      ],
+      "answer": 0,
+      "explanation": "L'absence de contradictoire ne suffit pas à elle seule à caractériser la matière gracieuse : une ordonnance sur requête, qui évince le contradictoire, témoigne souvent d'un conflit sous-jacent occulté, ce qui exclut la qualification de gracieuse.",
+      "tags": [
+        "matière gracieuse",
+        "critères cumulatifs"
+      ]
+    },
+    {
+      "id": "actejur-qcm-010",
+      "question": "En matière gracieuse, le juge peut-il fonder sa décision sur des faits non allégués par le requérant, à la différence du principe dispositif applicable en matière contentieuse (art. 7 CPC) ?",
+      "options": [
+        "Non, le juge reste tenu, même en matière gracieuse, de statuer sur les faits allégués",
+        "Oui, le juge statuant in rem se fonde sur tous les faits relatifs au cas soumis",
+        "Oui, mais uniquement si le requérant a expressément autorisé le juge à s'en écarter",
+        "Non, cette faculté n'est ouverte qu'au juge des référés, jamais au juge du gracieux"
+      ],
+      "answer": 1,
+      "explanation": "En matière gracieuse, le juge statue in rem, sur un acte et non sur des prétentions contradictoires : il peut fonder sa décision sur tous les faits relatifs au cas qui lui est soumis, même non allégués, sous réserve du respect du contradictoire.",
+      "tags": [
+        "office du juge gracieux",
+        "statuer in rem"
+      ]
+    }
+  ]
+}

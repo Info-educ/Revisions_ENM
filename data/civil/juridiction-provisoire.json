@@ -1,0 +1,214 @@
+{
+  "id": "juridiction-provisoire",
+  "title": "La juridiction provisoire : référé, requête et régime commun de l'acte juridictionnel provisoire",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "provisoire-fc-001",
+      "front": "Qu'est-ce que la juridiction provisoire, quel paradoxe procédural justifie son existence, et quel revirement la CEDH a-t-elle opéré à son égard ?",
+      "back": "Le pouvoir de prendre des mesures provisoires dans l'attente du jugement au fond ; son fondement tient au paradoxe selon lequel protéger les droits suppose du temps, alors que ce temps du procès peut ruiner l'effectivité de la protection recherchée (dépérissement de la preuve, fuite du débiteur) ; la CEDH, Micallef c. Malte (2009), a jugé que les procédures provisoires doivent désormais respecter l'article 6§1 de la Convention lorsqu'elles produisent des effets durables.",
+      "tags": [
+        "juridiction provisoire",
+        "Micallef c. Malte"
+      ]
+    },
+    {
+      "id": "provisoire-fc-002",
+      "front": "Quels sont les quatre types de jugements distingués selon leur rapport au principal, et quel régime s'attache à chacun ?",
+      "back": "Le jugement définitif, qui tranche tout ou partie du principal, bénéficie de l'autorité de la chose jugée ; le jugement provisoire, mesure prise dans l'attente du fond, n'a pas d'autorité au principal ; le jugement avant dire droit, qui ordonne une mesure sans trancher le fond, ne dessaisit pas le juge ; et le jugement mixte, qui tranche une partie du principal tout en ordonnant une mesure provisoire, fait l'objet d'une analyse distributive.",
+      "tags": [
+        "classification des jugements",
+        "jugement mixte"
+      ]
+    },
+    {
+      "id": "provisoire-fc-003",
+      "front": "Quel est le critère déterminant le choix entre la procédure de référé et la procédure sur requête ?",
+      "back": "Le requérant est-il fondé à ne pas appeler de partie adverse ? Si oui, la requête s'impose, la décision étant alors rendue non contradictoirement ; si non, le référé s'impose, la procédure respectant le principe du contradictoire par voie d'assignation.",
+      "tags": [
+        "référé",
+        "requête"
+      ]
+    },
+    {
+      "id": "provisoire-fc-004",
+      "front": "Quelle est la sanction lorsque le juge du provisoire statue en l'absence de tout cas d'ouverture, urgence, obligation non sérieusement contestable, etc. ?",
+      "back": "Il ne s'agit pas d'une incompétence mais d'un excès de pouvoir s'il statue malgré tout ; en pratique, le juge rend un jugement de « il n'y a lieu à référer », décision de rejet sans renvoi constituant une fin de non-recevoir opposée au demandeur.",
+      "tags": [
+        "excès de pouvoir",
+        "il n'y a lieu à référer"
+      ]
+    },
+    {
+      "id": "provisoire-fc-005",
+      "front": "Quel est le double régime de l'autorité de l'acte juridictionnel provisoire, et quel en est le fondement ?",
+      "back": "Au principal, absence totale d'autorité de la chose jugée, le juge du fond saisi ultérieurement n'étant pas lié par la décision provisoire ; au provisoire, présence d'une autorité propre, le juge du provisoire ne pouvant revenir sur sa décision sauf circonstances nouvelles ; le fondement de cette autorité au provisoire tient à la nécessité d'une stabilité minimale, sans laquelle une partie pourrait indéfiniment ressaisir le juge selon son bon vouloir.",
+      "tags": [
+        "autorité de l'acte provisoire",
+        "stabilité"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "provisoire-qcm-001",
+      "question": "Un juge des référés est saisi d'une demande relevant, quant au fond, de la compétence d'attribution d'un tribunal déterminé. La compétence de ce juge des référés se détermine-t-elle de manière autonome, indépendamment de la juridiction dont il émane ?",
+      "options": [
+        "Non, la compétence du juge du provisoire se décalque sur la juridiction dont il émane",
+        "Oui, le juge des référés dispose d'une compétence d'attribution autonome et générale",
+        "Oui, mais si les demandes présentent un caractère d'urgence particulièrement marqué",
+        "Non, le juge des référés ne peut jamais connaître d'une demande relevant du provisoire"
+      ],
+      "answer": 0,
+      "explanation": "La compétence d'attribution et territoriale du juge du provisoire se décalque en principe sur celle de la juridiction dont il émane, sous réserve de particularités propres à certaines procédures, telle l'option de compétence de l'article 145 du Code de procédure civile.",
+      "tags": [
+        "compétence du juge du provisoire",
+        "décalque"
+      ]
+    },
+    {
+      "id": "provisoire-qcm-002",
+      "question": "Une mesure d'instruction in futurum est demandée sur le fondement de l'article 145 du Code de procédure civile, à propos d'un immeuble déterminé. Depuis le décret n° 2025-619 du 8 juillet 2025, quelle règle de compétence territoriale s'applique en cette matière ?",
+      "options": [
+        "Une option de compétence demeure ouverte, même en matière immobilière, sans exception",
+        "Une compétence exclusive du lieu de situation de l'immeuble s'applique désormais",
+        "Une compétence exclusive du domicile du défendeur s'applique, sans autre option",
+        "Aucune règle de compétence territoriale spécifique n'a été codifiée par ce décret de 2025"
+      ],
+      "answer": 1,
+      "explanation": "Le décret n° 2025-619 du 8 juillet 2025 codifie l'option de compétence pour les mesures fondées sur l'article 145, tout en prévoyant une exception en matière immobilière, où seule la compétence exclusive du lieu de situation de l'immeuble s'applique.",
+      "tags": [
+        "article 145 CPC",
+        "décret 2025"
+      ]
+    },
+    {
+      "id": "provisoire-qcm-003",
+      "question": "Un requérant saisit le juge par une requête, tandis qu'un autre plaideur assigne son adversaire en référé. Ces deux modes de saisine produisent-ils le même effet interruptif sur la prescription ?",
+      "options": [
+        "Oui, la requête et l'assignation en référé interrompent la prescription pareillement",
+        "Oui, mais si la requête a été déposée avant l'expiration du délai de prescription",
+        "Non, seule l'assignation en référé interrompt la prescription, non la requête",
+        "Non, ni la requête ni l'assignation en référé n'interrompent la prescription en cours"
+      ],
+      "answer": 2,
+      "explanation": "L'assignation en référé interrompt le délai de prescription, tandis que la requête, saisine non contradictoire, n'interrompt en principe pas ce délai, ce qui constitue une différence notable de régime entre ces deux modes de saisine.",
+      "tags": [
+        "interruption de la prescription",
+        "requête vs assignation"
+      ]
+    },
+    {
+      "id": "provisoire-qcm-004",
+      "question": "Une ordonnance sur requête est rétractée par le juge qui l'avait initialement rendue, à la suite d'un référé-rétractation. Quel est l'effet de cette rétractation sur les mesures déjà exécutées en vertu de cette ordonnance, selon Civ. 2e, 26 septembre 2019 ?",
+      "options": [
+        "Aucun effet, les mesures déjà exécutées restant valables malgré la rétractation",
+        "Les mesures exécutées restent valables, mais seulement pour l'avenir, sans rétroactivité",
+        "Le requérant initial doit indemniser la partie adverse, sans preuve du préjudice",
+        "L'ordonnance devient nulle et non avenue, perdant son fondement pour les mesures exécutées"
+      ],
+      "answer": 3,
+      "explanation": "Selon Civ. 2e, 26 septembre 2019, la rétractation d'une ordonnance sur requête la rend nulle et non avenue, ce qui entraîne la perte rétroactive du fondement juridique des mesures déjà exécutées en vertu de cette ordonnance.",
+      "tags": [
+        "référé-rétractation",
+        "effet rétroactif"
+      ]
+    },
+    {
+      "id": "provisoire-qcm-005",
+      "question": "Un créancier saisit le juge des référés d'une demande de provision, fondée sur une obligation non sérieusement contestable de son débiteur. Ce référé-provision est-il subordonné à la démonstration d'une urgence particulière ?",
+      "options": [
+        "Non, le référé-provision ne requiert pas la démonstration d'une urgence particulière",
+        "Oui, l'urgence demeure une condition impérative de toute demande de provision en référé",
+        "Oui, mais si le montant de la provision réclamée dépasse un seuil déterminé",
+        "Non, mais si le débiteur a expressément reconnu le principe de sa dette envers lui"
+      ],
+      "answer": 0,
+      "explanation": "Le référé-provision, fondé sur le caractère non sérieusement contestable de l'obligation, ne requiert pas la démonstration d'une urgence particulière, à la différence du référé de droit commun, ce qui explique son efficacité comme mode de recouvrement.",
+      "tags": [
+        "référé-provision",
+        "absence d'urgence"
+      ]
+    },
+    {
+      "id": "provisoire-qcm-006",
+      "question": "Un trouble manifestement illicite est allégué devant le juge des référés, alors même que la partie adverse soulève une contestation sérieuse sur le fond du droit invoqué. Cette contestation sérieuse fait-elle obstacle à la caractérisation du trouble manifestement illicite ?",
+      "options": [
+        "Oui, toute contestation sérieuse du défendeur exclut nécessairement ce trouble",
+        "Non, le trouble peut être caractérisé même en présence d'une contestation sérieuse",
+        "Oui, mais uniquement si la contestation porte sur l'existence même du droit invoqué",
+        "Non, mais uniquement si la contestation émane d'une personne physique et non morale"
+      ],
+      "answer": 1,
+      "explanation": "Le trouble manifestement illicite désigne une violation dénoncée, évidente et incontestable, qui peut être caractérisée même en présence d'une contestation sérieuse soulevée par le défendeur, cette contestation ne faisant pas obstacle à la qualification retenue.",
+      "tags": [
+        "trouble manifestement illicite",
+        "contestation sérieuse"
+      ]
+    },
+    {
+      "id": "provisoire-qcm-007",
+      "question": "Une mesure d'instruction in futurum est sollicitée sur le fondement de l'article 145 du Code de procédure civile. Le juge peut-il ordonner une mesure s'apparentant à une perquisition, selon Civ. 2e, 15 novembre 2012 ?",
+      "options": [
+        "Oui, le juge des référés dispose des mêmes pouvoirs de perquisition qu'une autorité pénale",
+        "Oui, mais si la mesure est exécutée en présence d'un officier de police judiciaire",
+        "Non, une mesure s'apparentant à une perquisition n'est pas admissible sur ce fondement",
+        "Non, aucune mesure d'instruction n'est jamais admissible sur ce fondement légal"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 2e, 15 novembre 2012, une mesure s'apparentant à une perquisition n'est pas légalement admissible sur le fondement de l'article 145 : la mesure d'instruction in futurum doit rester compatible avec les pouvoirs propres au juge civil.",
+      "tags": [
+        "article 145 CPC",
+        "mesure légalement admissible"
+      ]
+    },
+    {
+      "id": "provisoire-qcm-008",
+      "question": "Une partie sollicite du juge des référés qu'il condamne son adversaire à lui verser des dommages-intérêts en réparation d'un préjudice subi. Le juge du provisoire peut-il, en principe, faire droit à une telle demande ?",
+      "options": [
+        "Oui, le juge des référés condamne à des dommages-intérêts comme un juge du fond",
+        "Oui, mais si le montant réclamé reste inférieur au taux de compétence en dernier ressort",
+        "Non, aucune condamnation pécuniaire n'est jamais possible devant le juge des référés",
+        "Non, sauf procédure abusive devant lui, il ne peut condamner à des dommages-intérêts"
+      ],
+      "answer": 3,
+      "explanation": "Le juge du provisoire ne peut, en principe, condamner à des dommages-intérêts, cette prérogative relevant du juge du fond ; une exception est toutefois admise en cas de procédure abusive commise devant le juge des référés lui-même.",
+      "tags": [
+        "pouvoirs du juge du provisoire",
+        "dommages-intérêts"
+      ]
+    },
+    {
+      "id": "provisoire-qcm-009",
+      "question": "Un juge des référés ordonne une première mesure d'instruction sur le fondement de l'article 145 du Code de procédure civile. Peut-il ensuite ordonner une seconde mesure d'instruction complémentaire, selon la jurisprudence critiquée de la Cour de cassation (Civ. 2e, 15 juin 1994 et 24 juin 1998) ?",
+      "options": [
+        "Non, la Cour de cassation juge que le juge épuise ses pouvoirs après une mesure",
+        "Oui, le juge des référés ordonne autant de mesures complémentaires que nécessaire",
+        "Oui, mais uniquement si les parties sollicitent conjointement cette mesure complémentaire",
+        "Non, mais uniquement si la première mesure ordonnée s'est révélée totalement inexécutable"
+      ],
+      "answer": 0,
+      "explanation": "Selon une jurisprudence contra legem critiquée en doctrine (Civ. 2e, 15 juin 1994 et 24 juin 1998), la Cour de cassation considère que le juge des référés épuise ses pouvoirs après avoir ordonné une première mesure d'instruction sur le fondement de l'article 145.",
+      "tags": [
+        "épuisement des pouvoirs",
+        "jurisprudence contra legem"
+      ]
+    },
+    {
+      "id": "provisoire-qcm-010",
+      "question": "Une décision de première instance est assortie de l'exécution provisoire de droit. Le juge des référés peut-il écarter cette exécution provisoire, et quelle marge de manœuvre lui reste-t-il malgré tout ?",
+      "options": [
+        "Oui, le juge des référés écarte librement l'exécution provisoire s'il la juge inopportune",
+        "Non, il ne peut l'écarter, mais peut subordonner l'exécution à une garantie",
+        "Oui, mais si toutes les parties au litige s'accordent expressément pour l'écarter",
+        "Non, et il ne dispose d'aucune marge, même pour subordonner l'exécution à une garantie"
+      ],
+      "answer": 1,
+      "explanation": "Le juge des référés ne peut écarter l'exécution provisoire de droit, généralisée par le décret du 11 décembre 2019, mais il conserve la faculté de subordonner cette exécution à la constitution d'une garantie, ménageant ainsi un équilibre entre les parties.",
+      "tags": [
+        "exécution provisoire de droit",
+        "constitution d'une garantie"
+      ]
+    }
+  ]
+}

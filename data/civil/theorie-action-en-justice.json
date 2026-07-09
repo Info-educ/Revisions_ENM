@@ -1,0 +1,182 @@
+{
+  "id": "theorie-action-en-justice",
+  "title": "La théorie générale de l'action en justice : reconnaissance et encadrement du droit d'agir",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "action-fc-001",
+      "front": "Que prévoit l'article 30 du Code de procédure civile définissant l'action en justice, et quel est son fondement philosophique ?",
+      "back": "L'action est le droit, pour l'auteur d'une prétention, d'être entendu sur le fond de celle-ci afin que le juge la dise bien ou mal fondée ; ce droit trouve son fondement dans l'interdit de la vengeance privée, nul ne pouvant se faire justice à soi-même, dont il constitue le corollaire indispensable — un État qui ne le garantirait pas se rendrait coupable d'un déni de justice.",
+      "tags": [
+        "article 30 CPC",
+        "action en justice"
+      ]
+    },
+    {
+      "id": "action-fc-002",
+      "front": "Combien de conditions de recevabilité pose désormais l'article 31 du Code de procédure civile, et en quoi cela diffère-t-il du droit antérieur ?",
+      "back": "Seulement deux conditions, l'intérêt et la qualité à agir ; sous l'ancien code, quatre conditions étaient confondues, intérêt, qualité, existence d'un droit et capacité, cette dernière étant désormais reclassée comme une condition de fond et non de recevabilité.",
+      "tags": [
+        "article 31 CPC",
+        "conditions de recevabilité"
+      ]
+    },
+    {
+      "id": "action-fc-003",
+      "front": "Quels sont les quatre caractères exigés de l'intérêt à agir ?",
+      "back": "Positif et concret, l'intérêt devant exister et être suffisant ; direct et personnel, le demandeur devant souffrir d'une lésion de ses intérêts propres, sauf tempéraments comme la jurisprudence Férodo ; né et actuel, excluant en principe les actions préventives et déclaratoires ; et légitime, juridiquement protégé, ce dernier caractère étant critiqué car il tend à confondre le droit d'agir avec son bien-fondé.",
+      "tags": [
+        "intérêt à agir",
+        "caractères"
+      ]
+    },
+    {
+      "id": "action-fc-004",
+      "front": "Quel est le principe gouvernant le rapport entre intérêt à agir et qualité à agir, et comment ce principe peut-il être infléchi ?",
+      "back": "En principe, l'intérêt donne qualité, l'intérêt englobant la qualité, action dite banale, ouverte à tout intéressé ; ce principe peut être infléchi dans deux directions : la qualité restreint le droit d'agir dans les actions attitrées, réservées par la loi à certaines personnes, ou l'étend au-delà de l'intérêt personnel pour la défense d'un intérêt général, des intérêts individuels d'autrui, ou d'un intérêt collectif.",
+      "tags": [
+        "qualité à agir",
+        "actions attitrées"
+      ]
+    },
+    {
+      "id": "action-fc-005",
+      "front": "Quelles sont les principales différences entre le délai de prescription et le délai de forclusion ?",
+      "back": "Le délai de prescription sanctionne une abstention générale et ne peut être soulevé d'office par le juge, laissant subsister l'exception en défense malgré l'extinction de l'action ; le délai de forclusion sanctionne le non-respect d'un délai spécifique à une action déterminée, doit être soulevé d'office s'il est d'ordre public, et interdit à la fois l'action et le moyen de défense.",
+      "tags": [
+        "prescription",
+        "forclusion"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "action-qcm-001",
+      "question": "La Cour européenne des droits de l'homme a-t-elle immédiatement reconnu un droit d'accès effectif et concret au tribunal, ou seulement un droit d'accès implicite dans un premier temps ?",
+      "options": [
+        "Elle l'a d'abord reconnu implicitement, avant d'exiger son caractère effectif et concret",
+        "Elle l'a immédiatement consacré comme un droit effectif dès son tout premier arrêt",
+        "Elle ne l'a jamais consacré comme un droit autonome, le rattachant au droit de propriété",
+        "Elle l'a consacré uniquement pour les litiges pénaux, à l'exclusion du contentieux civil"
+      ],
+      "answer": 0,
+      "explanation": "La Cour européenne a d'abord reconnu implicitement le droit d'accès au tribunal dans l'arrêt Golder c. Royaume-Uni (1975), avant d'exiger, dans l'arrêt Airey c. Irlande (1979), que ce droit soit effectif et concret, notamment par l'octroi de l'aide juridictionnelle.",
+      "tags": [
+        "droit d'accès au juge",
+        "Golder et Airey"
+      ]
+    },
+    {
+      "id": "action-qcm-002",
+      "question": "Selon la Cour européenne des droits de l'homme, Ashingdane c. Royaume-Uni (1985), l'État peut-il réglementer l'accès au juge sans limite, ou existe-t-il une limite à ce pouvoir de réglementation ?",
+      "options": [
+        "Non, aucune réglementation de l'accès au juge n'est jamais admise en aucun cas",
+        "Oui, il peut réglementer cet accès, sans porter atteinte à la substance même du droit",
+        "Oui, il peut réglementer cet accès sans limite, cet accès n'étant pas un droit absolu",
+        "Non, seule une loi organique peut réglementer l'accès au juge, à l'exclusion du décret"
+      ],
+      "answer": 1,
+      "explanation": "Selon Ashingdane c. Royaume-Uni (1985), le droit d'accès à la justice appelle par nature une réglementation par l'État, mais celle-ci ne doit jamais porter atteinte à la substance même du droit, sous un contrôle de proportionnalité exercé par la Cour.",
+      "tags": [
+        "droit conditionnel",
+        "Ashingdane"
+      ]
+    },
+    {
+      "id": "action-qcm-003",
+      "question": "Un plaideur souhaite renoncer, de manière générale et pour l'avenir, à tout droit d'agir en justice concernant l'ensemble de ses litiges potentiels. Une telle renonciation est-elle valable ?",
+      "options": [
+        "Oui, toute renonciation au droit d'agir en justice est valable, générale ou spéciale",
+        "Oui, mais uniquement si cette renonciation est constatée par un acte authentique notarié",
+        "Non, seule une renonciation spéciale, pour un litige déterminé, peut être consentie",
+        "Non, aucune renonciation au droit d'agir n'est valable, même pour un litige déterminé"
+      ],
+      "answer": 2,
+      "explanation": "Le droit d'agir en justice ne peut faire l'objet d'une renonciation générale et absolue : seule une renonciation spéciale, pour un litige déterminé, peut être valablement consentie, sans pouvoir être implicite ou ambiguë.",
+      "tags": [
+        "renonciation au droit d'agir",
+        "article 30 CPC"
+      ]
+    },
+    {
+      "id": "action-qcm-004",
+      "question": "Un plaideur agit en justice de manière dilatoire ou abusive. Sur quel critère la jurisprudence se fonde-t-elle principalement pour caractériser cet abus, en application de l'article 32-1 du Code de procédure civile ?",
+      "options": [
+        "Le seul fait que le plaideur ait perdu son procès, indépendamment de tout autre élément",
+        "L'existence d'un préjudice matériel important subi par la partie adverse au litige",
+        "Le seul montant des sommes réclamées, sans considération du comportement du plaideur",
+        "Une faute intentionnelle, une mauvaise foi, ou plus souplement une légèreté blâmable"
+      ],
+      "answer": 3,
+      "explanation": "La jurisprudence retient principalement une faute intentionnelle, une mauvaise foi ou une erreur grossière équipollente au dol, critère ponctuellement assoupli à une simple légèreté blâmable, pour caractériser l'abus du droit d'agir sanctionné par une amende civile.",
+      "tags": [
+        "abus du droit d'agir",
+        "article 32-1 CPC"
+      ]
+    },
+    {
+      "id": "action-qcm-005",
+      "question": "Le caractère légitime de l'intérêt à agir suppose-t-il, selon Civ. 2e, 6 mai 2004, que le demandeur démontre préalablement le bien-fondé de son action ?",
+      "options": [
+        "Non, l'intérêt à agir n'est pas subordonné à la preuve préalable du bien-fondé de l'action",
+        "Oui, la légitimité de l'intérêt à agir se confond avec le bien-fondé de l'action au fond",
+        "Oui, mais uniquement lorsque l'intérêt invoqué présente une coloration purement morale",
+        "Non, mais uniquement si le demandeur a déjà obtenu gain de cause dans un litige antérieur"
+      ],
+      "answer": 0,
+      "explanation": "Selon Civ. 2e, 6 mai 2004, l'intérêt à agir n'est pas subordonné à la démonstration préalable du bien-fondé de l'action, la Cour de cassation dissociant ainsi la légitimité de l'intérêt de l'examen du fond du litige.",
+      "tags": [
+        "intérêt légitime",
+        "dissociation du bien-fondé"
+      ]
+    },
+    {
+      "id": "action-qcm-006",
+      "question": "Un créancier exerce l'action oblique contre le débiteur de son propre débiteur, en raison de la carence de ce dernier. Doit-il uniquement démontrer sa qualité de créancier, ou une condition supplémentaire est-elle exigée ?",
+      "options": [
+        "Il doit uniquement démontrer sa qualité de créancier, l'intérêt étant alors présumé",
+        "Il doit démontrer sa qualité de créancier et un intérêt tenant au péril de ses droits",
+        "Il doit uniquement démontrer un intérêt personnel, sans égard à sa qualité de créancier",
+        "Il doit obtenir l'autorisation préalable du débiteur défaillant avant d'agir ainsi"
+      ],
+      "answer": 1,
+      "explanation": "À la différence des actions attitrées où la qualité suffit, l'action oblique exige une double condition de recevabilité : la qualité de créancier et un intérêt personnel du créancier, tenant au péril que la carence de son débiteur fait courir à ses propres droits.",
+      "tags": [
+        "action oblique",
+        "double condition"
+      ]
+    },
+    {
+      "id": "action-qcm-007",
+      "question": "Le modèle français de l'action de groupe repose-t-il sur un mécanisme d'opt-in ou d'opt-out, et la réforme du 30 avril 2025 (loi DADDUE) a-t-elle modifié ce choix fondamental ?",
+      "options": [
+        "Le modèle français repose sur l'opt-out, et la réforme de 2025 l'a définitivement consacré",
+        "Le modèle français combinait les deux mécanismes, la réforme ayant supprimé l'opt-in",
+        "Le modèle français repose sur l'opt-in, la réforme ayant maintenu l'exclusion de l'opt-out",
+        "Le modèle français ne reposait sur aucun des deux mécanismes avant la réforme de 2025"
+      ],
+      "answer": 2,
+      "explanation": "Le modèle français de l'action de groupe repose sur l'opt-in, le justiciable devant manifester expressément sa volonté de rejoindre le groupe ; la réforme structurelle du 30 avril 2025 a unifié les régimes existants sans renoncer à ce principe, l'opt-out restant exclu.",
+      "tags": [
+        "action de groupe",
+        "opt-in"
+      ]
+    },
+    {
+      "id": "action-qcm-008",
+      "question": "Un défendeur soulève une exception de procédure après avoir déjà conclu au fond du litige. Cette exception est-elle recevable, en application de l'article 74 du Code de procédure civile ?",
+      "options": [
+        "Oui, les exceptions de procédure peuvent être soulevées à tout moment de l'instance",
+        "Oui, mais uniquement si l'exception concerne l'incompétence de la juridiction saisie",
+        "Non, aucune exception de procédure n'est recevable après l'introduction de l'instance",
+        "Non, les exceptions de procédure doivent être soulevées avant toute défense au fond"
+      ],
+      "answer": 3,
+      "explanation": "L'exigence de cohérence procédurale, inspirée de la règle anglaise de l'estoppel, impose que les exceptions de procédure soient soulevées avant toute défense au fond, sous peine d'irrecevabilité de l'exception invoquée tardivement.",
+      "tags": [
+        "cohérence procédurale",
+        "estoppel"
+      ]
+    }
+  ]
+}

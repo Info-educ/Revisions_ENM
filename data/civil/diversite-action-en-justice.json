@@ -1,0 +1,214 @@
+{
+  "id": "diversite-action-en-justice",
+  "title": "La diversité de l'action en justice : demandes, défenses et classifications de l'action",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "diversite-fc-001",
+      "front": "Quelles sont les trois catégories de moyens de défense, et sur quel terrain porte chacune d'elles ?",
+      "back": "La défense au fond, qui porte sur le fond du droit et tend au rejet de la prétention en contestant son existence ; l'exception de procédure, qui porte sur la régularité de la procédure et constitue un obstacle temporaire et formel ; et la fin de non-recevoir, qui porte sur le droit d'agir lui-même et constitue un obstacle définitif sanctionnant l'absence des conditions d'ouverture de l'action.",
+      "tags": [
+        "moyens de défense",
+        "classification"
+      ]
+    },
+    {
+      "id": "diversite-fc-002",
+      "front": "Quelle est la double exigence pesant sur l'exception de procédure (art. 74 CPC), et quelle sanction frappe son non-respect ?",
+      "back": "La simultanéité, toutes les exceptions devant être invoquées ensemble, et l'antériorité, avant toute défense au fond ou fin de non-recevoir ; le non-respect de cette double exigence est sanctionné par l'irrecevabilité de l'exception, même si la règle invoquée est d'ordre public, sous réserve du régime particulier des nullités.",
+      "tags": [
+        "exception de procédure",
+        "article 74 CPC"
+      ]
+    },
+    {
+      "id": "diversite-fc-003",
+      "front": "Qu'est-ce que la nature mixte de la fin de non-recevoir, et quelles sont les principales règles de son régime ?",
+      "back": "Comme la défense au fond, elle oppose un obstacle définitif à la demande, mais comme l'exception de procédure, elle ne discute pas le bien-fondé de la prétention ; elle peut en principe être invoquée en tout état de cause, le juge devant la relever d'office si elle est d'ordre public, sauf la prescription qui ne peut jamais l'être, et elle demeure régularisable à tout moment, même en appel, si l'obstacle initial disparaît.",
+      "tags": [
+        "fin de non-recevoir",
+        "nature mixte"
+      ]
+    },
+    {
+      "id": "diversite-fc-004",
+      "front": "Quels sont les trois effets juridiques principaux de la demande en justice ?",
+      "back": "La naissance du lien d'instance, créant un rapport juridique entre les parties dès la demande, ce lien n'atteignant le juge qu'avec l'enrôlement lorsque la demande est introduite par assignation ; l'interruption des délais de prescription et de forclusion ; et la mise en demeure du débiteur, faisant courir les intérêts moratoires sans mise en demeure préalable nécessaire.",
+      "tags": [
+        "effets de la demande",
+        "lien d'instance"
+      ]
+    },
+    {
+      "id": "diversite-fc-005",
+      "front": "Quelles sont les deux classifications substantielles de l'action en justice, et quel est leur unique intérêt pratique ?",
+      "back": "La classification selon la nature du droit, action réelle, personnelle ou mixte, cette dernière portant conjointement sur un droit réel et un droit personnel nés d'une même opération, et la classification selon l'objet du droit litigieux, action mobilière ou immobilière ; leur unique intérêt pratique est de déterminer la juridiction territorialement compétente.",
+      "tags": [
+        "classifications de l'action",
+        "compétence territoriale"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "diversite-qcm-001",
+      "question": "Un défendeur invoque la nullité du contrat, non pour en demander le prononcé et en tirer les conséquences, mais uniquement pour se soustraire à son exécution. Selon Com., 15 mai 2012, ce moyen constitue-t-il une demande reconventionnelle ou une défense au fond ?",
+      "options": [
+        "Une défense au fond, puisque le défendeur ne demande pas que la nullité soit prononcée",
+        "Une demande reconventionnelle, toute invocation de nullité élargissant le litige",
+        "Une fin de non-recevoir, la nullité relevant des conditions d'ouverture de l'action",
+        "Une exception de procédure, la nullité relevant de la régularité formelle du contrat"
+      ],
+      "answer": 0,
+      "explanation": "Selon Com., 15 mai 2012, lorsque le défendeur invoque la nullité seulement pour se soustraire à l'exécution du contrat, sans demander qu'elle soit prononcée, ce moyen constitue une défense au fond ; la qualification de demande reconventionnelle n'est retenue que si le défendeur réclame en outre les conséquences de la nullité, telle une restitution.",
+      "tags": [
+        "demande reconventionnelle",
+        "défense au fond"
+      ]
+    },
+    {
+      "id": "diversite-qcm-002",
+      "question": "Un demandeur formule une prétention principale et, à titre subsidiaire, une prétention accessoire pour le cas où la première serait rejetée. Le juge peut-il accueillir conjointement ces deux prétentions, selon Civ. 1re, 19 décembre 2012 ?",
+      "options": [
+        "Oui, le juge peut toujours accueillir la prétention principale et la subsidiaire",
+        "Non, la prétention subsidiaire n'est examinée qu'en cas de rejet de la principale",
+        "Oui, mais si les deux prétentions portent sur des fondements juridiques identiques",
+        "Non, la prétention subsidiaire devient alors caduque dès l'introduction de l'instance"
+      ],
+      "answer": 1,
+      "explanation": "Selon Civ. 1re, 19 décembre 2012, le juge ne peut accueillir conjointement la prétention principale et la prétention subsidiaire : cette dernière n'est examinée que dans l'hypothèse où la prétention principale serait rejetée par le juge.",
+      "tags": [
+        "demande subsidiaire",
+        "prétentions"
+      ]
+    },
+    {
+      "id": "diversite-qcm-003",
+      "question": "Un demandeur saisit le juge par une requête non contradictoire. Selon Civ. 2e, 14 janvier 2021, cette requête interrompt-elle le délai de prescription, en principe ?",
+      "options": [
+        "Oui, toute requête, contradictoire ou non, interrompt le délai de prescription",
+        "Oui, mais si la requête a été déposée avant l'expiration du délai de prescription",
+        "Non, la requête non contradictoire n'interrompt en principe pas le délai de prescription",
+        "Non, aucune saisine du juge, quelle que soit sa forme, n'interrompt jamais la prescription"
+      ],
+      "answer": 2,
+      "explanation": "Selon Civ. 2e, 14 janvier 2021, la requête non contradictoire n'interrompt en principe pas le délai de prescription, un tempérament étant toutefois admis en cas de tentative d'assignation infructueuse menaçant le droit d'accès au juge.",
+      "tags": [
+        "requête non contradictoire",
+        "interruption de la prescription"
+      ]
+    },
+    {
+      "id": "diversite-qcm-004",
+      "question": "Une demande est portée devant un juge incompétent, ou l'acte introductif est annulé pour un vice de procédure. Selon l'article 2241, alinéa 2, du Code civil, l'effet interruptif de la prescription est-il maintenu ?",
+      "options": [
+        "Non, l'incompétence du juge ou l'annulation de l'acte anéantit cet effet interruptif",
+        "Oui, mais si le demandeur ressaisit une juridiction compétente dans le mois suivant",
+        "Non, sauf si l'incompétence du juge résulte d'une erreur commise par son propre avocat",
+        "Oui, l'effet interruptif joue quand même, sauf mauvaise foi établie du demandeur"
+      ],
+      "answer": 3,
+      "explanation": "L'article 2241, alinéa 2, du Code civil maintient l'effet interruptif de la prescription même en cas de saisine d'un juge incompétent ou d'annulation de l'acte pour vice de procédure, sauf mauvaise foi du demandeur à l'origine de cette irrégularité.",
+      "tags": [
+        "juge incompétent",
+        "acte annulé"
+      ]
+    },
+    {
+      "id": "diversite-qcm-005",
+      "question": "Un créancier adresse à son débiteur une simple mise en demeure, y compris par lettre recommandée avec accusé de réception, sans introduire aucune demande en justice. Selon Com., 18 mai 2022, cette mise en demeure isolée interrompt-elle la prescription ?",
+      "options": [
+        "Non, une mise en demeure isolée n'interrompt pas la prescription, même recommandée",
+        "Oui, toute mise en demeure recommandée interrompt nécessairement la prescription",
+        "Oui, mais si le débiteur en accuse formellement réception dans un délai donné",
+        "Non, mais uniquement si le créancier n'a pas répété cette mise en demeure une seconde fois"
+      ],
+      "answer": 0,
+      "explanation": "Selon Com., 18 mai 2022, une mise en demeure isolée, même envoyée en lettre recommandée avec accusé de réception, n'interrompt pas la prescription, seule une demande en justice ou un acte d'exécution forcée produisant cet effet interruptif.",
+      "tags": [
+        "mise en demeure isolée",
+        "absence d'interruption"
+      ]
+    },
+    {
+      "id": "diversite-qcm-006",
+      "question": "Une instance a été régulièrement introduite, interrompant la prescription, mais le demandeur laisse ensuite l'instance s'éteindre sans poursuivre la procédure jusqu'à la péremption. Quel est l'effet de cette péremption d'instance sur l'interruption initialement acquise ?",
+      "options": [
+        "Aucun effet, l'interruption de la prescription reste définitivement acquise malgré cela",
+        "Elle anéantit rétroactivement l'effet interruptif attaché à la demande en justice initiale",
+        "Elle suspend seulement, pour l'avenir, le cours du délai de prescription resté à courir",
+        "Elle transforme le délai de prescription en un délai de forclusion, plus bref"
+      ],
+      "answer": 1,
+      "explanation": "La péremption d'instance figure parmi les trois cas d'anéantissement de l'effet interruptif prévus par l'article 2243 du Code civil, aux côtés du désistement du demandeur et du rejet définitif de la demande : elle anéantit rétroactivement l'interruption acquise.",
+      "tags": [
+        "péremption d'instance",
+        "anéantissement de l'effet interruptif"
+      ]
+    },
+    {
+      "id": "diversite-qcm-007",
+      "question": "Une partie soulève pour la première fois, devant la Cour de cassation, un moyen de défense au fond tiré d'une règle de droit qu'elle n'avait jamais invoquée auparavant. Ce moyen est-il recevable à ce stade de la procédure, s'il constitue un moyen de pur droit ?",
+      "options": [
+        "Non, la défense au fond ne peut plus être invoquée après la clôture des débats en appel",
+        "Oui, mais uniquement si l'adversaire ne s'y oppose pas expressément devant la Cour",
+        "Oui, la défense au fond peut être présentée à toute hauteur, même en cassation",
+        "Non, seule l'exception de procédure peut être soulevée pour la première fois en cassation"
+      ],
+      "answer": 2,
+      "explanation": "La défense au fond bénéficie d'un régime privilégié : elle peut être présentée à toute hauteur de la procédure, y compris pour la première fois devant la Cour de cassation lorsqu'elle constitue un moyen de pur droit, et elle est en outre imprescriptible.",
+      "tags": [
+        "défense au fond",
+        "régime privilégié"
+      ]
+    },
+    {
+      "id": "diversite-qcm-008",
+      "question": "Une partie adopte, au cours de deux instances distinctes portant sur le même objet, des positions contradictoires préjudiciables à son adversaire. Cette seule contradiction suffit-elle, selon Ass. plén., 27 février 2009, à caractériser une fin de non-recevoir ?",
+      "options": [
+        "Oui, toute contradiction entre deux instances emporte une fin de non-recevoir",
+        "Oui, mais si les deux instances concernées portent sur un objet strictement identique",
+        "Non, aucune contradiction entre deux instances ne constitue une fin de non-recevoir",
+        "Non, se contredire seul au détriment d'autrui n'emporte pas nécessairement cette sanction"
+      ],
+      "answer": 3,
+      "explanation": "Selon Ass. plén., 27 février 2009, la seule circonstance qu'une partie se contredise au détriment d'autrui n'emporte pas nécessairement une fin de non-recevoir ; a contrario, une telle contradiction peut, dans certaines hypothèses rares, en constituer une, sur le modèle de l'estoppel.",
+      "tags": [
+        "estoppel",
+        "contradiction au détriment d'autrui"
+      ]
+    },
+    {
+      "id": "diversite-qcm-009",
+      "question": "Une clause contractuelle impose une tentative de conciliation préalable à toute action en justice, non respectée par le demandeur. Une tentative de conciliation intervenue en cours d'instance régularise-t-elle cette fin de non-recevoir, selon Cass. ch. mixte, 12 décembre 2014 ?",
+      "options": [
+        "Non, une tentative de conciliation en cours d'instance ne régularise pas ce défaut initial",
+        "Oui, toute tentative intervenant avant le jugement régularise cette fin de non-recevoir",
+        "Oui, mais uniquement si les deux parties donnent leur accord exprès à cette régularisation",
+        "Non, mais si la clause de conciliation figurait dans un contrat conclu avant 2014"
+      ],
+      "answer": 0,
+      "explanation": "Selon Cass. ch. mixte, 12 décembre 2014, une tentative de conciliation intervenue en cours d'instance ne régularise pas le non-respect initial d'une clause de conciliation préalable, cette fin de non-recevoir devant être caractérisée dès l'introduction de la demande.",
+      "tags": [
+        "clause de conciliation préalable",
+        "régularisation"
+      ]
+    },
+    {
+      "id": "diversite-qcm-010",
+      "question": "Depuis la suppression des actions possessoires par la loi du 16 février 2015 et le décret du 6 mai 2017, la possession d'un bien demeure-t-elle protégée en droit positif, et par quelle voie procédurale ?",
+      "options": [
+        "Non, la possession n'est plus protégée depuis la suppression de ces actions spécifiques",
+        "Oui, la possession reste protégée, notamment par la voie de la procédure de référé",
+        "Oui, mais uniquement par une action en revendication qui a absorbé cette protection",
+        "Non, seule une action en responsabilité civile protège désormais la possession"
+      ],
+      "answer": 1,
+      "explanation": "Le législateur a jugé superflue l'existence d'actions possessoires spécifiques : la possession reste protégée, sans égard au fond du droit, contre le trouble qui l'affecte ou la menace, cette protection étant désormais assurée efficacement par la voie du référé.",
+      "tags": [
+        "actions possessoires supprimées",
+        "protection par le référé"
+      ]
+    }
+  ]
+}

@@ -293,6 +293,36 @@
       "file": "proprietes-collectives.json",
       "title": "Les propriétés collectives : indivision, mitoyenneté et copropriété des immeubles bâtis",
       "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "introduction-procedure-civile",
+      "file": "introduction-procedure-civile.json",
+      "title": "Introduction à la procédure civile : finalités, sources et numérisation",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "theorie-action-en-justice",
+      "file": "theorie-action-en-justice.json",
+      "title": "La théorie générale de l'action en justice : reconnaissance et encadrement du droit d'agir",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "diversite-action-en-justice",
+      "file": "diversite-action-en-justice.json",
+      "title": "La diversité de l'action en justice : demandes, défenses et classifications de l'action",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "acte-juridictionnel",
+      "file": "acte-juridictionnel.json",
+      "title": "La théorie de la juridiction : l'acte juridictionnel, son régime et sa diversité pratique",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "juridiction-provisoire",
+      "file": "juridiction-provisoire.json",
+      "title": "La juridiction provisoire : référé, requête et régime commun de l'acte juridictionnel provisoire",
+      "category": "Procédure civile"
     }
   ]
 }
