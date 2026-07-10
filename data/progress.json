@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1783701194261,
+  "updatedAt": 1783701215754,
   "themes": {
     "civil": {
       "items": {
@@ -3407,11 +3407,11 @@
           "lastSeenAt": 1783700649243
         },
         "competence-qcm-003": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1783700681276
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1783701211743
         },
         "formalisme-instance-qcm-001": {
           "level": 1,
