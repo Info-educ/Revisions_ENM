@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1783701756903,
+  "updatedAt": 1783701766933,
   "themes": {
     "civil": {
       "items": {
@@ -3568,11 +3568,11 @@
           "lastSeenAt": 1783701718718
         },
         "repr-avocat-qcm-002": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1783701677488
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1783701762922
         },
         "extension-qcm-008": {
           "level": 1,
