@@ -1,0 +1,143 @@
+{
+  "id": "competence-determination-regles",
+  "title": "La détermination des règles de compétence",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "competence-fc-001",
+      "front": "Quelle est la différence entre compétence d'attribution et compétence territoriale ?",
+      "back": "La compétence d'attribution répartit les contentieux entre types de juridictions différents selon la matière à juger (TJ, tribunal de commerce, conseil de prud'hommes...). La compétence territoriale répartit les affaires entre juridictions du même type, chacune ayant un ressort géographique prédéterminé. Une spécialisation matérielle interne à une même catégorie de juridiction reste une compétence d'attribution, même si elle peut évoquer à tort une compétence territoriale.",
+      "tags": ["compétence d'attribution", "compétence territoriale"]
+    },
+    {
+      "id": "competence-fc-002",
+      "front": "Quels sont les quatre « taux » qui permettent d'évaluer un litige civil et à quoi servent-ils ?",
+      "back": "Le taux du ressort détermine si l'appel est ouvert (seuil de 5 000 € pour les actions personnelles/mobilières). Le taux de compétence, largement résiduel depuis la fusion TGI/TI, ne subsiste que pour fixer le dernier ressort des compétences exclusives (≤ 5 000 €). Le taux procédural déclenche la procédure orale sans représentation obligatoire (≤ 10 000 € ou montant indéterminé). Le taux de conciliation impose un mode amiable de résolution des différends avant toute saisine, à peine d'irrecevabilité (≤ 5 000 €).",
+      "tags": ["taux du ressort", "taux de conciliation"]
+    },
+    {
+      "id": "competence-fc-003",
+      "front": "Quel est le principe territorial de base pour saisir le tribunal judiciaire, et quelle en est l'origine ?",
+      "back": "Le demandeur doit porter son action devant le tribunal du lieu où demeure le défendeur : c'est la règle actor sequitur forum rei, qui remonte au droit romain. Pour une personne physique, il s'agit du domicile ou, à défaut, de la résidence ; pour une personne morale, du lieu où elle est établie, en général son siège social.",
+      "tags": ["actor sequitur forum rei", "compétence territoriale"]
+    },
+    {
+      "id": "competence-fc-004",
+      "front": "Quelles sont les principales compétences du juge des contentieux de la protection (JCP) ?",
+      "back": "Le JCP est l'héritier de certains contentieux des anciens tribunaux d'instance, recentré sur la vulnérabilité économique et sociale plutôt que sur la proximité géographique. Il connaît notamment des majeurs protégés, des expulsions de logements occupés sans droit ni titre, du droit de la consommation (crédit à la consommation, FICP), du surendettement, ainsi que des injonctions de payer partagées avec le président du tribunal judiciaire.",
+      "tags": ["juge des contentieux de la protection", "majeurs protégés"]
+    },
+    {
+      "id": "competence-fc-005",
+      "front": "Quelles sont les trois branches d'attributions du président du tribunal judiciaire, hors référé et requête ?",
+      "back": "Le président du tribunal judiciaire dispose d'une juridiction contentieuse et définitive (rectification d'actes d'état civil, fixation du prix du bail commercial révisé, procédure accélérée au fond), il est juge de l'exécution (JEX) pour les difficultés relatives aux titres exécutoires, et il est juge des injonctions de payer, compétence partagée avec le juge des contentieux de la protection depuis le 1er janvier 2020.",
+      "tags": ["président du tribunal judiciaire", "juge de l'exécution"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "competence-qcm-001",
+      "question": "Un même TJ dispose d'une chambre spécialisée pour les contentieux de sécurité sociale. Comment qualifier cette répartition interne ?",
+      "options": [
+        "C'est une compétence d'attribution malgré son apparente dimension territoriale interne",
+        "C'est une compétence territoriale car elle repose sur un ressort géographique particulier",
+        "C'est une compétence mixte, sans rattachement à l'une des deux catégories classiques",
+        "C'est une compétence exclusive fondée sur la seule valeur pécuniaire du litige en cause"
+      ],
+      "answer": 0,
+      "explanation": "La spécialisation interne à une même catégorie de juridiction selon la matière reste une compétence d'attribution, même si elle peut à tort évoquer une compétence territoriale, comme c'était le cas pour l'ancien contentieux des TASS.",
+      "tags": ["compétence d'attribution", "spécialisation interne"]
+    },
+    {
+      "id": "competence-qcm-002",
+      "question": "Un demandeur évalue volontairement sa demande à un montant très bas. Quel effet stratégique cela peut-il produire ?",
+      "options": [
+        "Obtenir automatiquement la représentation obligatoire par un avocat dans l'instance",
+        "Garantir un jugement rendu en premier ressort quel que soit le montant réel du litige",
+        "Transférer d'office le litige vers la compétence exclusive du tribunal de commerce",
+        "Échapper à l'obligation de tentative préalable de résolution amiable du différend"
+      ],
+      "answer": 3,
+      "explanation": "Comme le calcul du montant de la demande est laissé au demandeur, celui-ci peut être tenté de sous-évaluer sa demande pour rester sous le seuil de 5 000 € du taux de conciliation et ainsi échapper à l'obligation de MARD préalable, alors que le juge se prononce ensuite sur le fond indépendamment de cette évaluation initiale.",
+      "tags": ["taux de conciliation", "stratégie procédurale"]
+    },
+    {
+      "id": "competence-qcm-003",
+      "question": "Un demandeur forme deux demandes non connexes contre le même défendeur. Comment la compétence et le ressort sont-ils déterminés ?",
+      "options": [
+        "En additionnant systématiquement les deux demandes pour obtenir une valeur globale unique",
+        "En retenant uniquement la demande dont le montant pécuniaire est le plus élevé des deux",
+        "En appréciant chaque demande de façon isolée, indépendamment du montant de l'autre demande",
+        "En renvoyant systématiquement les deux demandes vers des juridictions distinctes"
+      ],
+      "answer": 2,
+      "explanation": "Lorsque les demandes formées par un même demandeur contre un même défendeur ne sont pas connexes, la compétence et le taux du ressort sont déterminés par la valeur de chaque demande prise isolément, contrairement aux demandes connexes qui s'apprécient globalement.",
+      "tags": ["pluralité de demandes", "demandes non connexes"]
+    },
+    {
+      "id": "competence-qcm-004",
+      "question": "Quel est l'apport principal de la réforme de 2019-2020 issue de la loi du 23 mars 2019 sur l'organisation judiciaire civile ?",
+      "options": [
+        "La suppression complète et définitive des juges uniques ad hoc au sein du tribunal",
+        "La fusion des tribunaux d'instance et de grande instance en un tribunal unique",
+        "Le transfert intégral de toutes les compétences civiles vers les cours d'appel",
+        "La création d'un taux de compétence unique venant remplacer les quatre taux existants"
+      ],
+      "answer": 1,
+      "explanation": "La réforme absorbe les tribunaux d'instance dans les tribunaux de grande instance pour créer le tribunal judiciaire, tribunal unique de première instance en matière civile, qui est à la fois une juridiction et une institution accueillant différentes juridictions.",
+      "tags": ["tribunal judiciaire", "réforme 2019"]
+    },
+    {
+      "id": "competence-qcm-005",
+      "question": "Dans une matière relevant de la compétence exclusive du tribunal judiciaire, une autre juridiction est-elle compétente pour statuer sur une question préjudicielle connexe ?",
+      "options": [
+        "Oui, à condition que les parties donnent leur accord exprès et unanime à cette extension",
+        "Oui, mais uniquement lorsque le montant du litige en cause reste particulièrement modeste",
+        "Non, un sursis à statuer obligatoire s'impose alors à cette juridiction saisie",
+        "Non, sauf lorsque la question préjudicielle soulevée ne porte que sur un point accessoire"
+      ],
+      "answer": 2,
+      "explanation": "Dans le domaine de l'exclusivité, toutes les autres juridictions sont radicalement incompétentes : elles ne peuvent ni être saisies à titre principal, ni connaître d'une question préjudicielle, ce qui impose un sursis à statuer obligatoire en attendant que le tribunal judiciaire tranche.",
+      "tags": ["compétence exclusive", "question préjudicielle"]
+    },
+    {
+      "id": "competence-qcm-006",
+      "question": "Une personne souhaite agir contre un défendeur dont le domicile et la résidence sont inconnus. Quelle juridiction est alors compétente ?",
+      "options": [
+        "Celle du dernier domicile connu du défendeur avant sa disparition constatée",
+        "Celle du siège de la juridiction la plus proche géographiquement du lieu du litige",
+        "Celle désignée d'office par le premier président de la cour d'appel compétente",
+        "Celle du lieu où demeure le demandeur, avec option en cas de résidence à l'étranger"
+      ],
+      "answer": 3,
+      "explanation": "Lorsque le défendeur n'a ni domicile ni résidence connus, la compétence revient à la juridiction du lieu où demeure le demandeur, ce dernier pouvant choisir la juridiction de son choix s'il réside lui-même à l'étranger.",
+      "tags": ["compétence territoriale", "défendeur sans domicile connu"]
+    },
+    {
+      "id": "competence-qcm-007",
+      "question": "Depuis la décision QPC de novembre 2023 sur la compétence du juge de l'exécution, quel tribunal connaît désormais des contestations de l'exécution forcée pour les actions patrimoniales inférieures à 10 000 € ?",
+      "options": [
+        "Le tribunal de commerce, statuant collégialement en toutes les hypothèses envisageables",
+        "Le tribunal judiciaire, statuant à juge unique pour ce contentieux patrimonial précis",
+        "La cour d'appel, statuant en premier et en dernier ressort de manière exclusive",
+        "Le juge des contentieux de la protection, seul habilité en la matière depuis 2024"
+      ],
+      "answer": 1,
+      "explanation": "Le Conseil constitutionnel a invalidé la compétence du juge de l'exécution pour les seules contestations de l'exécution forcée, jugeant l'incompétence négative ; depuis le 1er décembre 2024, cette compétence est revenue au tribunal judiciaire, à juge unique pour les actions patrimoniales n'excédant pas ce montant.",
+      "tags": ["juge de l'exécution", "QPC"]
+    },
+    {
+      "id": "competence-qcm-008",
+      "question": "Quelle est la fonction principale des cours d'appel en matière civile ?",
+      "options": [
+        "Juger en premier ressort la totalité des litiges relevant du droit civil français",
+        "Statuer comme juridictions de recours contre les décisions rendues en premier ressort",
+        "Trancher exclusivement les litiges relatifs aux professions judiciaires réglementées",
+        "Contrôler la légalité des décrets d'application pris en matière civile et sociale"
+      ],
+      "answer": 1,
+      "explanation": "Les cours d'appel sont avant tout des juridictions de recours contre les décisions rendues en premier ressort par les juridictions du premier degré, la cour statuant alors souverainement sur le fond de l'affaire ; certaines matières leur sont toutefois portées directement en premier et dernier ressort, comme le contentieux électoral.",
+      "tags": ["cour d'appel", "voies de recours"]
+    }
+  ]
+}

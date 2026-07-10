@@ -1,0 +1,149 @@
+{
+  "id": "extension-sanctions-competence",
+  "title": "L'extension et les sanctions des règles de compétence",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "extension-fc-001",
+      "front": "Quelles sont les trois sortes d'extensions de compétence en procédure civile ?",
+      "back": "La prorogation conventionnelle ou volontaire résulte d'un accord des parties. La prorogation légale résulte d'un effet automatique de la loi, selon l'idée que le juge de l'action est juge de l'exception. La prorogation par renvoi judiciaire résulte d'une décision du juge qui renvoie l'affaire à une juridiction normalement incompétente.",
+      "tags": ["prorogation de compétence", "extension de compétence"]
+    },
+    {
+      "id": "extension-fc-002",
+      "front": "Que prévoit l'article 48 du code de procédure civile sur les clauses dérogeant à la compétence territoriale, et quelle en est l'exception ?",
+      "back": "Toute clause dérogeant aux règles de compétence territoriale est réputée non écrite. L'exception admise ne joue qu'entre personnes ayant toutes contracté en qualité de commerçant, et à condition que la clause soit spécifiée de manière très apparente dans l'engagement de la partie à qui elle est opposée.",
+      "tags": ["clause attributive de compétence", "compétence territoriale"]
+    },
+    {
+      "id": "extension-fc-003",
+      "front": "Quelle différence sépare la litispendance de la connexité, et quel rôle le juge peut-il jouer dans chaque cas ?",
+      "back": "La litispendance suppose une identité de litiges et de demandes entre deux juridictions compétentes de même degré ; elle peut être relevée d'office par le juge. La connexité suppose des demandes distinctes quant au fond mais liées par un intérêt de bonne justice à les juger ensemble ; elle ne peut jamais être relevée d'office et suppose une saisine par une partie.",
+      "tags": ["litispendance", "connexité"]
+    },
+    {
+      "id": "extension-fc-004",
+      "front": "Quelles sont les conditions de recevabilité du déclinatoire de compétence prévues par les articles 74 et 75 du code de procédure civile ?",
+      "back": "Le déclinatoire de compétence doit être soulevé simultanément avec les autres exceptions de procédure et avant toute défense au fond ou fin de non-recevoir, même lorsque les règles de compétence en cause sont d'ordre public. Il doit en outre être motivé et désigner la juridiction estimée compétente, à peine d'irrecevabilité.",
+      "tags": ["déclinatoire de compétence", "exception de procédure"]
+    },
+    {
+      "id": "extension-fc-005",
+      "front": "Depuis le décret n° 2017-891, quel recours unique existe contre un jugement statuant exclusivement sur la compétence, et quel était l'ancien recours supprimé ?",
+      "back": "Le contredit de compétence a disparu depuis le décret n° 2017-891 du 6 mai 2017 : seul l'appel subsiste comme voie de recours, dans les cas d'ouverture prévus par les articles 79, 80 et pour le cas de mesure d'instruction ou provisoire de l'article 83, alinéa 2, du code de procédure civile.",
+      "tags": ["contredit", "appel"]
+    },
+    {
+      "id": "extension-fc-006",
+      "front": "Quel est le régime de l'incompétence d'attribution relevée d'office par le juge du premier degré ?",
+      "back": "Le juge du premier degré ne peut relever d'office son incompétence d'attribution que si la règle en cause est d'ordre public, ou si le défendeur ne comparaît pas ; il ne s'agit jamais d'une obligation, sauf texte contraire. Ce régime diffère de celui applicable en cour d'appel ou devant la Cour de cassation, où l'incompétence ne peut être relevée d'office que si l'affaire relève d'une juridiction répressive ou administrative, ou échappe aux juridictions françaises.",
+      "tags": ["incompétence relevée d'office", "compétence d'attribution"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "extension-qcm-001",
+      "question": "Un demandeur saisit directement une juridiction supérieure d'une demande à titre principal, sans passer par le degré inférieur. Quel est le régime de cette incompétence ?",
+      "options": [
+        "Une incompétence absolue, non couvrable même par une renonciation expresse des parties",
+        "Une incompétence relative, susceptible d'être couverte par une renonciation expresse",
+        "Une incompétence facultative laissée à la seule appréciation du juge saisi de l'affaire",
+        "Une simple irrégularité de forme sans incidence sur la validité de la procédure engagée"
+      ],
+      "answer": 0,
+      "explanation": "Lorsqu'une demande est portée de plano à titre principal devant la juridiction supérieure, sans passer par le degré inférieur, l'incompétence est absolue et ne peut être couverte même par une renonciation expresse des parties, à la différence d'une demande nouvelle formée à l'occasion d'un appel qui n'entraîne qu'une incompétence relative.",
+      "tags": ["degré de juridiction", "incompétence absolue"]
+    },
+    {
+      "id": "extension-qcm-002",
+      "question": "Une clause attributive de compétence territoriale figure dans un contrat entre un commerçant et un particulier non-commerçant. Quel est son sort ?",
+      "options": [
+        "Elle demeure valable si le commerçant l'a rédigée de bonne foi, sans intention de tromper",
+        "Elle demeure valable si elle a fait l'objet d'une acceptation tacite lors du contrat",
+        "Elle est réputée non écrite, les parties n'ayant pas toutes la qualité de commerçant",
+        "Elle reste opposable au seul particulier, qui ne peut s'en prévaloir à son propre profit"
+      ],
+      "answer": 2,
+      "explanation": "L'exception à la nullité de principe des clauses dérogeant à la compétence territoriale ne joue qu'entre personnes ayant toutes contracté en qualité de commerçant ; dès lors que l'une des parties n'a pas cette qualité, la clause reste réputée non écrite conformément au principe posé par l'article 48 du code de procédure civile.",
+      "tags": ["clause attributive de compétence", "commerçant"]
+    },
+    {
+      "id": "extension-qcm-003",
+      "question": "Devant une juridiction d'exception, une demande incidente porte sur une matière qui échappe à sa compétence d'attribution mais n'est pas non plus exclusivement attribuée à une autre juridiction. Cette demande peut-elle être examinée ?",
+      "options": [
+        "Non, elle ne peut connaître que des demandes entrant dans sa compétence d'attribution",
+        "Oui, car il suffit que la demande échappe à une compétence exclusive ailleurs",
+        "Oui, si le président de la juridiction autorise expressément cet examen particulier",
+        "Non, sauf si la demande incidente émane du défendeur plutôt que du demandeur initial"
+      ],
+      "answer": 0,
+      "explanation": "Contrairement au tribunal judiciaire, les juridictions d'exception ne peuvent connaître des demandes incidentes que si elles entrent dans leur compétence d'attribution ; il ne suffit pas que la demande échappe à une compétence exclusive ailleurs, sauf le cas particulier de l'indivisibilité admis par la Cour de cassation.",
+      "tags": ["demande incidente", "juridiction d'exception"]
+    },
+    {
+      "id": "extension-qcm-004",
+      "question": "Un juge du premier degré est saisi d'une exception d'incompétence territoriale en matière contentieuse. Dans quel cas peut-il la relever d'office ?",
+      "options": [
+        "Dans tous les cas, dès lors qu'une des parties ne comparaît pas à l'audience",
+        "Uniquement lorsque le défendeur est domicilié dans un pays étranger, hors Union",
+        "Uniquement en matière d'état des personnes, compétence exclusive ou défaut de comparution",
+        "Jamais, la compétence territoriale relevant de la seule initiative des parties"
+      ],
+      "answer": 2,
+      "explanation": "En matière contentieuse, l'incompétence territoriale ne peut être relevée d'office que dans trois cas limitativement énumérés par l'article 77 du code de procédure civile : l'état des personnes, la compétence exclusive territoriale d'une autre juridiction, et le défendeur ne comparaissant pas.",
+      "tags": ["incompétence relevée d'office", "compétence territoriale"]
+    },
+    {
+      "id": "extension-qcm-005",
+      "question": "Deux juridictions de degrés différents sont saisies des mêmes demandes, en situation de litispendance. Devant laquelle le déclinatoire doit-il être formé ?",
+      "options": [
+        "Devant la juridiction occupant le degré supérieur, seule habilitée à trancher",
+        "Devant la juridiction occupant le degré inférieur parmi les deux juridictions saisies",
+        "Devant les deux juridictions simultanément, à charge pour elles de se concerter",
+        "Devant la Cour de cassation, seule compétente pour ces conflits entre degrés"
+      ],
+      "answer": 1,
+      "explanation": "Lorsque les juridictions saisies sont de degré différent, l'article 102 du code de procédure civile impose que le déclinatoire de litispendance soit formé devant celle occupant le degré inférieur, quelle que soit par ailleurs la chronologie des saisines.",
+      "tags": ["litispendance", "degré de juridiction"]
+    },
+    {
+      "id": "extension-qcm-006",
+      "question": "Deux juridictions de même degré se sont chacune déclarées incompétentes au profit de l'autre, dans un même litige. Quelle solution le code de procédure civile retient-il ?",
+      "options": [
+        "La première décision rendue en date s'impose, l'autre juridiction demeurant saisie",
+        "Les deux décisions sont annulées, l'affaire étant portée devant la juridiction supérieure",
+        "Les parties doivent choisir elles-mêmes la juridiction demeurant valablement saisie",
+        "La décision rendue en second est non avenue, cette juridiction restant saisie du litige"
+      ],
+      "answer": 3,
+      "explanation": "En cas de double dessaisissement par excès de zèle, l'article 106 du code de procédure civile prévoit que la décision rendue la seconde en date sur la compétence est non avenue, de sorte que la juridiction qui l'a rendue reste saisie de l'affaire.",
+      "tags": ["litispendance", "double dessaisissement"]
+    },
+    {
+      "id": "extension-qcm-007",
+      "question": "Un plaideur soulève une exception de connexité plusieurs mois après le début de la procédure, sans intention dilatoire. Cette exception est-elle recevable en principe ?",
+      "options": [
+        "Non, elle devait être soulevée simultanément avec les autres exceptions de procédure",
+        "Oui, la connexité peut en principe être soulevée en tout état de cause de la procédure",
+        "Non, seul un accord exprès du défendeur permettrait de la soulever aussi tardivement",
+        "Oui, mais seulement si la demande principale n'a pas encore été jugée sur le fond"
+      ],
+      "answer": 1,
+      "explanation": "À la différence du déclinatoire de compétence, l'exception de connexité peut être soulevée en tout état de cause, sauf si le tribunal estime que le plaideur a laissé passer le temps dans une intention dilatoire, ce qui n'est pas le cas ici.",
+      "tags": ["connexité", "recevabilité"]
+    },
+    {
+      "id": "extension-qcm-008",
+      "question": "Un jugement rendu en premier ressort statue à la fois sur la compétence et sur le fond du litige. La cour d'appel infirme la compétence retenue, et se trouve être la juridiction d'appel du tribunal réellement compétent. Que se passe-t-il alors ?",
+      "options": [
+        "La cour renvoie systématiquement l'affaire devant le tribunal compétent sans statuer",
+        "La cour annule purement et simplement l'instance, reprise depuis son origine",
+        "La cour suspend son examen dans l'attente d'un pourvoi formé par une partie",
+        "La cour statue elle-même sur le fond, par extension légale de l'effet dévolutif"
+      ],
+      "answer": 3,
+      "explanation": "Lorsque le jugement de premier ressort a statué sur la compétence et le fond et que la cour d'appel infirme la compétence retenue tout en étant elle-même la juridiction d'appel du tribunal compétent, elle statue directement sur le fond par extension légale de l'effet dévolutif de l'appel, sans renvoi nécessaire.",
+      "tags": ["effet dévolutif", "appel"]
+    }
+  ]
+}

@@ -323,6 +323,18 @@
       "file": "juridiction-provisoire.json",
       "title": "La juridiction provisoire : référé, requête et régime commun de l'acte juridictionnel provisoire",
       "category": "Procédure civile"
+    },
+    {
+      "id": "competence-determination-regles",
+      "file": "competence-determination-regles.json",
+      "title": "La détermination des règles de compétence",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "extension-sanctions-competence",
+      "file": "extension-sanctions-competence.json",
+      "title": "L'extension et les sanctions des règles de compétence",
+      "category": "Procédure civile"
     }
   ]
 }
