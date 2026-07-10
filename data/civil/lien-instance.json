@@ -1,0 +1,175 @@
+{
+  "id": "lien-instance",
+  "title": "Le lien d'instance",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "lien-instance-fc-001",
+      "front": "Quelles sont les deux thèses doctrinales sur la nature juridique du lien d'instance, et laquelle est retenue par les auteurs ?",
+      "back": "La thèse contractuelle voit dans le lien d'instance un accord tacite entre les parties, mais elle n'explique pas comment un jugement par défaut peut être rendu contre un défendeur non comparant, sans son consentement. La thèse légale, retenue par la majorité des auteurs, considère que c'est la loi qui impose au demandeur de saisir la justice et au défendeur de comparaître, la justice étant un service public incarné par le juge.",
+      "tags": ["nature du lien d'instance", "thèse légale"]
+    },
+    {
+      "id": "lien-instance-fc-002",
+      "front": "Que signifie l'absence d'effet novatoire du lien d'instance ?",
+      "back": "Le lien processuel se superpose au rapport substantiel préexistant (par exemple un contrat) sans l'absorber. Le droit substantiel survit donc à l'instance : si celle-ci se périme faute de diligence pendant deux ans, le procès peut être recommencé, sauf si le droit substantiel lui-même est prescrit. En droit international privé, la loi de procédure reste toujours la loi du for, même si le fond est régi par une loi étrangère.",
+      "tags": ["effet novatoire", "péremption d'instance"]
+    },
+    {
+      "id": "lien-instance-fc-003",
+      "front": "Quelle différence sépare la naissance du lien d'instance et la saisine de la juridiction en cas d'assignation ?",
+      "back": "La naissance du lien d'instance résulte de la signification de l'assignation au défendeur, tandis que la saisine de la juridiction résulte de l'enrôlement, c'est-à-dire de la remise au greffe d'une copie de l'assignation. Le délai pour introduire une action se calcule à la date de signification, tandis que le délai pour saisir une juridiction se calcule à la date d'enrôlement.",
+      "tags": ["naissance de l'instance", "enrôlement"]
+    },
+    {
+      "id": "lien-instance-fc-004",
+      "front": "Quelle est la différence entre la représentation à l'action (ad agendum) et la représentation à l'instance (ad litem) ?",
+      "back": "La représentation à l'action confère au tiers le pouvoir d'agir au nom et dans l'intérêt d'autrui : s'il figure à l'instance, il engage celui qu'il représente comme véritable titulaire du droit d'agir. La représentation à l'instance ne confère que le pouvoir d'accomplir les actes de procédure à la place d'une partie qui conserve elle-même la titularité de son droit d'agir ; le jugement produit alors ses effets dans la personne du représenté.",
+      "tags": ["ad agendum", "ad litem"]
+    },
+    {
+      "id": "lien-instance-fc-005",
+      "front": "Que recouvre la conception mixte de la cause de la demande, retenue en pratique par la jurisprudence ?",
+      "back": "La conception mixte définit la cause de la demande comme l'ensemble des faits juridiquement qualifiés, en s'appuyant sur les articles 6 et 565 du code de procédure civile. Elle se distingue de la conception purement juridique, fondée sur la règle de droit invoquée, et de la conception purement factuelle, fondée sur le seul complexe de faits, en retenant une position de compromis entre le fait apporté par les parties et sa qualification par le juge.",
+      "tags": ["cause de la demande", "conception mixte"]
+    },
+    {
+      "id": "lien-instance-fc-006",
+      "front": "Que juge l'arrêt Cesareo de l'assemblée plénière du 7 juillet 2006 sur la présentation des moyens par le demandeur ?",
+      "back": "L'arrêt Cesareo impose au demandeur de présenter, dès l'instance relative à sa première demande, l'ensemble des moyens qu'il estime de nature à la fonder. La Cour de cassation retient une acception matérielle de la cause : la même cause correspond au même fait matériel, indépendamment de sa qualification juridique, de sorte qu'un fondement nouveau invoqué sur les mêmes faits dans une seconde instance se heurte à l'autorité de la chose jugée.",
+      "tags": ["Cesareo", "autorité de la chose jugée"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "lien-instance-qcm-001",
+      "question": "Un demandeur fait délivrer une assignation au défendeur mais ne procède jamais à l'enrôlement auprès du greffe. Quel est le sort du lien d'instance ?",
+      "options": [
+        "Le lien d'instance devient caduc, né sous condition suspensive de l'enrôlement",
+        "Le lien d'instance demeure pleinement valable, indépendamment de tout enrôlement ultérieur",
+        "Le lien d'instance est simplement suspendu jusqu'à ce que l'enrôlement intervienne un jour",
+        "Le lien d'instance se transforme automatiquement en une simple mesure conservatoire"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'avis de la Cour de cassation du 4 mai 2010, une assignation délivrée mais jamais enrôlée rend le lien d'instance caduc, celui-ci étant né sous condition suspensive de l'enrôlement auprès du greffe.",
+      "tags": ["enrôlement", "caducité"]
+    },
+    {
+      "id": "lien-instance-qcm-002",
+      "question": "En appel, un plaideur se désiste de son recours. À quel moment précis l'instance d'appel prend-elle réellement fin ?",
+      "options": [
+        "Au moment même où le désistement est formé, indépendamment de toute autre formalité",
+        "Au moment où la juridiction vide sa saisine, et non à la date du désistement lui-même",
+        "Au moment où l'adversaire donne son accord exprès et écrit à ce désistement précis",
+        "Au moment où le greffe notifie formellement le désistement à toutes les parties concernées"
+      ],
+      "answer": 1,
+      "explanation": "Même lorsque le désistement est suivi d'effet, il ne met fin à l'instance qu'au moment où la juridiction vide sa saisine, la date du désistement lui-même n'étant pas celle qui détermine la fin effective de l'instance.",
+      "tags": ["extinction de l'instance", "désistement"]
+    },
+    {
+      "id": "lien-instance-qcm-003",
+      "question": "Un tribunal se déclare incompétent et renvoie l'affaire devant une autre juridiction, en application des articles 86 et 87 du code de procédure civile. Que devient l'instance devant la nouvelle juridiction ?",
+      "options": [
+        "Une instance totalement nouvelle et autonome s'ouvre devant la juridiction de renvoi",
+        "Les parties doivent introduire une nouvelle demande, l'ancienne instance étant éteinte",
+        "C'est la même instance qui se poursuit devant la seconde juridiction saisie du renvoi",
+        "L'instance reste suspendue indéfiniment jusqu'à ce qu'une des parties la réactive"
+      ],
+      "answer": 2,
+      "explanation": "En cas d'incompétence avec renvoi selon les articles 86 et 87 du code de procédure civile, c'est la même instance qui se poursuit devant la seconde juridiction, sans qu'une nouvelle instance ne soit ouverte.",
+      "tags": ["poursuite de l'instance", "renvoi pour incompétence"]
+    },
+    {
+      "id": "lien-instance-qcm-004",
+      "question": "Un groupement de fait sans personnalité morale souhaite agir en demande devant une juridiction civile. Quel est le principe applicable ?",
+      "options": [
+        "Il ne peut en principe pas ester en justice, faute de capacité de jouissance reconnue",
+        "Il peut agir librement en demande, la personnalité morale n'étant jamais requise",
+        "Il doit obligatoirement obtenir l'autorisation préalable du procureur de la République",
+        "Il peut agir uniquement si tous ses membres signent personnellement l'assignation"
+      ],
+      "answer": 0,
+      "explanation": "Les groupements de fait, dépourvus de personnalité morale, ne peuvent en principe pas ester en justice faute de capacité de jouissance, sous réserve de tempéraments comme celui admis par la CEDH lorsque ce refus porterait atteinte à la substance même du droit à un tribunal.",
+      "tags": ["capacité de jouissance", "groupement de fait"]
+    },
+    {
+      "id": "lien-instance-qcm-005",
+      "question": "Un majeur en curatelle souhaite se défendre seul, sans l'assistance de son curateur, devant une juridiction civile. Cela est-il possible ?",
+      "options": [
+        "Oui, la curatelle ne concerne que les actes civils, hors toute instance judiciaire",
+        "Oui, avec l'autorisation expresse et préalable du juge des tutelles saisi de l'affaire",
+        "Non, le majeur en curatelle doit être assisté par son curateur, en demande et défense",
+        "Non, seul le curateur peut agir en justice, le majeur étant totalement représenté"
+      ],
+      "answer": 2,
+      "explanation": "En application de l'article 467 du code civil, le majeur en curatelle doit être assisté par son curateur aussi bien en demande qu'en défense ; toute signification qui lui est faite doit également être faite à son curateur, à peine de nullité.",
+      "tags": ["curatelle", "capacité d'exercice"]
+    },
+    {
+      "id": "lien-instance-qcm-006",
+      "question": "Un gérant de société de gestion reçoit des bailleurs un mandat d'agir en justice en leur nom. Ce mandat l'autorise-t-il également à les représenter devant le tribunal ?",
+      "options": [
+        "Oui, le mandat d'agir en justice emporte automatiquement mandat de représentation ad litem",
+        "Oui, mais uniquement s'il agit en son nom propre plutôt qu'en sa qualité de gérant",
+        "Non, les deux mandats sont indépendants, le mandat ad agendum n'emportant pas ad litem",
+        "Non, sauf clause contraire expressément stipulée dans le contrat de mandat initial"
+      ],
+      "answer": 2,
+      "explanation": "Selon l'arrêt du 5 septembre 2012, un mandat d'agir en justice (ad agendum) ne confère pas au gérant le pouvoir de représenter les mandants devant le tribunal (ad litem), ni en son nom propre ni en sa qualité de gérant, les deux mandats demeurant indépendants l'un de l'autre.",
+      "tags": ["ad agendum", "ad litem"]
+    },
+    {
+      "id": "lien-instance-qcm-007",
+      "question": "Un défendeur, assigné avec une erreur sur sa dénomination sociale, invoque cette erreur pour obtenir la nullité de l'assignation. Quel régime de nullité s'applique ?",
+      "options": [
+        "Une nullité pour vice de fond, insusceptible d'être couverte par régularisation",
+        "Une nullité pour vice de forme, exigeant du défendeur qu'il rapporte la preuve d'un grief",
+        "Une irrecevabilité pure et simple, sanctionnant l'absence de capacité du défendeur assigné",
+        "Une nullité relevée d'office par le juge, sans que le défendeur ne la soulève"
+      ],
+      "answer": 1,
+      "explanation": "L'erreur sur la dénomination d'une partie constitue un vice de forme, car elle n'affecte pas la capacité attachée à la personne elle-même ; sa nullité suppose donc que le défendeur rapporte la preuve d'un grief.",
+      "tags": ["vice de forme", "nullité"]
+    },
+    {
+      "id": "lien-instance-qcm-008",
+      "question": "Devant le tribunal judiciaire, une action personnelle et mobilière porte sur un montant de 8 000 euros et ne relève d'aucune compétence exclusive. La représentation par avocat est-elle obligatoire ?",
+      "options": [
+        "Oui, la représentation par avocat demeure obligatoire quel que soit le montant en jeu",
+        "Non, cette action bénéficie d'une dispense de représentation obligatoire par avocat",
+        "Oui, sauf si les deux parties donnent leur accord exprès pour s'en dispenser ensemble",
+        "Non, mais uniquement si le défendeur est lui-même une personne publique désignée"
+      ],
+      "answer": 1,
+      "explanation": "L'article 761 du code de procédure civile dispense de représentation obligatoire par avocat les actions personnelles et mobilières dont le montant n'excède pas 10 000 euros, sauf si la matière relève par ailleurs de la compétence exclusive du tribunal judiciaire.",
+      "tags": ["représentation obligatoire", "dispense"]
+    },
+    {
+      "id": "lien-instance-qcm-009",
+      "question": "Un avocat, sans mandat exprès de représentation, souhaite acquiescer à la demande adverse au nom de son client qu'il assiste seulement. Le peut-il ?",
+      "options": [
+        "Oui, l'assistance emporte de plein droit un mandat implicite de représentation complet",
+        "Oui, à condition que le client ait donné son accord oral préalable devant témoins",
+        "Non, seul un commissaire de justice peut accomplir un tel acte au nom d'une partie",
+        "Non, l'assistance n'emporte pas de plein droit un mandat de représentation étendu"
+      ],
+      "answer": 3,
+      "explanation": "L'assistance d'une partie n'emporte pas, de plein droit, mandat de représentation : un avocat qui assiste son client sans disposer d'un mandat de représentation ne peut ni acquiescer ni transiger en son nom.",
+      "tags": ["assistance", "mandat de représentation"]
+    },
+    {
+      "id": "lien-instance-qcm-010",
+      "question": "Un demandeur a échoué dans une première instance sans avoir invoqué tous les fondements juridiques disponibles sur les mêmes faits. Peut-il introduire une seconde instance en invoquant un fondement nouveau ?",
+      "options": [
+        "Oui, chaque fondement juridique distinct ouvre droit à une instance qui lui est propre",
+        "Oui, mais uniquement si le fondement nouveau n'était pas connu du demandeur à l'époque",
+        "Non, sauf si le défendeur consent expressément à la réouverture d'une nouvelle instance",
+        "Non, l'autorité de la chose jugée s'oppose à un fondement nouveau sur les mêmes faits"
+      ],
+      "answer": 3,
+      "explanation": "Depuis l'arrêt Cesareo du 7 juillet 2006, le demandeur doit présenter dès la première instance l'ensemble des moyens de nature à fonder sa prétention ; à défaut, l'autorité de la chose jugée s'oppose à l'invocation d'un fondement nouveau sur les mêmes faits matériels dans une seconde instance.",
+      "tags": ["Cesareo", "autorité de la chose jugée"]
+    }
+  ]
+}

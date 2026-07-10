@@ -1,0 +1,41 @@
+{
+  "id": "representation-avocat-tableau",
+  "title": "La représentation obligatoire par avocat : tableau récapitulatif",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "repr-avocat-fc-001",
+      "front": "Le seuil de 10 000 € constitue-t-il une dispense universelle de représentation par avocat ?",
+      "back": "Non, le seuil de 10 000 € n'est pas une dispense universelle : il ne joue que dans les hypothèses prévues par les textes, propres à chaque juridiction (tribunal judiciaire, juge de l'exécution, tribunal de commerce...). Une même demande peut ainsi rester soumise à représentation obligatoire malgré un montant inférieur, si elle relève d'une matière exclue de la dispense ou d'une compétence exclusive.",
+      "tags": ["représentation obligatoire", "seuil de 10 000 euros"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "repr-avocat-qcm-001",
+      "question": "Devant le juge aux affaires familiales, la représentation par avocat est-elle obligatoire de manière uniforme, quelle que soit la matière traitée ?",
+      "options": [
+        "Oui, l'avocat est toujours obligatoire devant le JAF, sans aucune distinction de matière",
+        "Non, cela dépend de la matière : requis pour le divorce, pas toujours ailleurs",
+        "Non, l'avocat n'est jamais obligatoire devant le JAF, quelle que soit la procédure engagée",
+        "Oui, mais uniquement lorsque la demande porte sur un montant supérieur à 10 000 euros"
+      ],
+      "answer": 1,
+      "explanation": "Devant le juge aux affaires familiales, le régime varie selon la matière : l'avocat est obligatoire pour le divorce judiciaire, mais non requis dans plusieurs contentieux comme l'autorité parentale, la résidence de l'enfant, le droit de visite ou la pension alimentaire.",
+      "tags": ["juge aux affaires familiales", "représentation obligatoire"]
+    },
+    {
+      "id": "repr-avocat-qcm-002",
+      "question": "En appel dans une affaire prud'homale, une partie souhaite être représentée sans recourir à un avocat. Est-ce possible ?",
+      "options": [
+        "Non, seul un avocat peut représenter la partie devant la cour en matière prud'homale",
+        "Oui, la comparution personnelle sans aucun représentant est admise en appel prud'homal",
+        "Oui, un défenseur syndical peut la représenter, la représentation demeurant obligatoire",
+        "Non, la partie doit obligatoirement se défendre elle-même sans représentation en appel"
+      ],
+      "answer": 2,
+      "explanation": "En appel prud'homal, la représentation demeure obligatoire, mais elle peut être assurée soit par un avocat, soit par un défenseur syndical ; il serait donc inexact d'affirmer que seul l'avocat peut remplir ce rôle.",
+      "tags": ["appel prud'homal", "défenseur syndical"]
+    }
+  ]
+}

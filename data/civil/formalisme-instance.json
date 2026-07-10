@@ -1,0 +1,169 @@
+{
+  "id": "formalisme-instance",
+  "title": "Le formalisme de l'instance",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "formalisme-instance-fc-001",
+      "front": "Quelles sont les mentions obligatoires exigées par l'article 648 du code de procédure civile pour un acte de commissaire de justice, à peine de nullité pour vice de forme ?",
+      "back": "L'acte doit comporter la date (jour, mois, an, l'heure n'étant exigée que pour les assignations d'heure à heure) ; les mentions sur le requérant (identité complète pour une personne physique, forme/dénomination/siège social/organe représentant pour une personne morale) ; le nom, prénoms, demeure et signature du commissaire de justice ; et, en cas de signification, les mentions sur le destinataire (nom/domicile ou dénomination/siège social).",
+      "tags": ["article 648", "mentions obligatoires"]
+    },
+    {
+      "id": "formalisme-instance-fc-002",
+      "front": "Quel est l'ordre hiérarchique « en cascade » des modes de signification papier prévu par le code de procédure civile ?",
+      "back": "La signification s'opère en priorité à personne, c'est-à-dire par remise au destinataire lui-même (art. 654). À défaut, elle peut être faite à domicile ou résidence, à toute personne présente (art. 655). À défaut encore, elle peut être faite en l'étude du commissaire de justice, si nul ne peut ou ne veut recevoir la copie (art. 656). En dernier recours, un procès-verbal de recherches infructueuses accompagné d'un double envoi postal est dressé si aucun domicile, résidence ou lieu de travail n'est connu en France.",
+      "tags": ["signification", "ordre hiérarchique"]
+    },
+    {
+      "id": "formalisme-instance-fc-003",
+      "front": "Quelles sont les cinq différences de régime entre le vice de forme et le vice de fond en matière de nullité des actes de procédure ?",
+      "back": "D'abord, le vice de forme exige un texte prévoyant la nullité, sauf formalité substantielle ou d'ordre public, tandis que le vice de fond n'exige aucun texte exprès. Ensuite, le vice de forme exige la preuve d'un grief, contrairement au vice de fond. La régularisation est possible dans les deux cas, sous des conditions différentes. Le moment d'invocation diffère : au fur et à mesure pour le vice de forme, en tout état de cause pour le vice de fond. Enfin, le juge ne peut relever d'office un vice de forme, alors qu'il peut ou doit le faire pour certains vices de fond.",
+      "tags": ["vice de forme", "vice de fond"]
+    },
+    {
+      "id": "formalisme-instance-fc-004",
+      "front": "Que prévoit l'article 2241, alinéa 2, du code civil sur l'effet interruptif de prescription attaché à un acte de saisine annulé ?",
+      "back": "Depuis la loi du 17 juin 2008, l'effet interruptif de prescription ou de forclusion attaché à la demande en justice est maintenu même si l'acte de saisine est annulé pour un vice de procédure, entendu largement comme englobant à la fois le vice de forme et le vice de fond. Le délai interrompu ne recommence à courir qu'à l'extinction de l'instance, ce qui a fait perdre toute utilité pratique à l'exigence traditionnelle d'une régularisation avant l'expiration du délai initial.",
+      "tags": ["article 2241 code civil", "effet interruptif"]
+    },
+    {
+      "id": "formalisme-instance-fc-005",
+      "front": "Comment se calcule le point de départ et l'expiration d'un délai de procédure exprimé en jours, selon les articles 640 à 642 du code de procédure civile ?",
+      "back": "Le jour où l'acte ou l'événement qui fait courir le délai s'est produit ne compte pas ; le délai commence à courir seulement à la fin de ce jour, à minuit. Le dernier jour du délai doit voir la formalité accomplie, le délai expirant à 24 heures ce dernier jour. Si ce dernier jour est un samedi, un dimanche ou un jour férié ou chômé, le délai est prorogé jusqu'au premier jour ouvrable suivant ; en revanche, un jour férié survenant pendant le cours du délai est compté comme un jour ordinaire et n'allonge pas le délai.",
+      "tags": ["computation des délais", "prorogation"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "formalisme-instance-qcm-001",
+      "question": "Un acte de commissaire de justice omet de mentionner le nom de l'organe représentant une personne morale requérante. Quelle est la nature de cette irrégularité ?",
+      "options": [
+        "Une irrecevabilité, sanctionnant l'absence de droit d'action de la personne morale",
+        "Un vice de fond, assimilé au défaut de pouvoir du représentant de la personne morale",
+        "Une caducité de l'acte, celui-ci étant privé d'un élément essentiel à sa validité",
+        "Un vice de forme, car il s'agit d'une omission d'une mention obligatoire de l'acte"
+      ],
+      "answer": 3,
+      "explanation": "L'omission ou la mention erronée d'une mention obligatoire, telle que l'organe représentant une personne morale, constitue un vice de forme et non un vice de fond, contrairement à l'hypothèse où l'irrégularité réside dans le défaut de pouvoir même du représentant désigné.",
+      "tags": ["mentions obligatoires", "vice de forme"]
+    },
+    {
+      "id": "formalisme-instance-qcm-002",
+      "question": "Un commissaire de justice ne parvient pas à signifier un acte à personne, ni à domicile ou résidence à une personne présente. Que doit-il faire selon l'ordre hiérarchique de signification ?",
+      "options": [
+        "Renoncer immédiatement à toute signification et attendre les instructions du greffe",
+        "Procéder directement au procès-verbal de recherches infructueuses sans autre démarche",
+        "Déposer la copie de l'acte en son étude, si nul ne peut ou ne veut la recevoir",
+        "Solliciter l'autorisation préalable du juge avant nouvelle tentative de signification"
+      ],
+      "answer": 2,
+      "explanation": "À défaut de signification à personne ou à domicile/résidence à une personne présente, le commissaire de justice doit déposer la copie de l'acte en son étude, conformément à l'article 656 du code de procédure civile, avant d'envisager un procès-verbal de recherches infructueuses en dernier recours.",
+      "tags": ["signification", "ordre hiérarchique"]
+    },
+    {
+      "id": "formalisme-instance-qcm-003",
+      "question": "Un plaideur invoque un vice de fond pour la première fois en cause d'appel, alors qu'il ne l'avait pas soulevé en première instance. Cette exception est-elle recevable ?",
+      "options": [
+        "Oui, le vice de fond peut en principe être proposé en tout état de cause de la procédure",
+        "Non, tout moyen de nullité doit être soulevé dès la première instance, sous peine d'échec",
+        "Non, sauf accord exprès de l'adversaire à ce que l'exception soit examinée en appel",
+        "Oui, mais seulement si le vice de fond n'était pas connu du plaideur en première instance"
+      ],
+      "answer": 0,
+      "explanation": "Contrairement au vice de forme, qui doit être invoqué au fur et à mesure de l'accomplissement des actes de procédure, le vice de fond peut en principe être proposé en tout état de cause, à moins qu'il en soit disposé autrement.",
+      "tags": ["vice de fond", "moment d'invocation"]
+    },
+    {
+      "id": "formalisme-instance-qcm-004",
+      "question": "Un jugement est signifié à une personne physique, et l'accusé de réception de la lettre recommandée porte une signature illisible. Quel effet cette circonstance produit-elle sur la preuve du destinataire ?",
+      "options": [
+        "La signature est présumée celle du destinataire ou son mandataire, sauf preuve contraire",
+        "Aucune présomption ne joue, le demandeur devant prouver la réception de l'acte",
+        "La notification est nulle de plein droit, la signature n'étant pas parfaitement lisible",
+        "Le juge doit ordonner une expertise graphologique avant de statuer sur ce point précis"
+      ],
+      "answer": 0,
+      "explanation": "Selon un arrêt du 15 décembre 2011, la signature figurant sur l'avis de réception d'une lettre recommandée adressée à une personne physique est présumée, jusqu'à preuve du contraire, être celle de son destinataire ou de son mandataire.",
+      "tags": ["présomption", "notification"]
+    },
+    {
+      "id": "formalisme-instance-qcm-005",
+      "question": "Une clause de nullité n'est prévue par aucun texte pour une irrégularité de forme donnée. Le juge peut-il malgré tout prononcer la nullité de l'acte concerné ?",
+      "options": [
+        "Non, aucune nullité pour vice de forme ne peut jamais être prononcée sans texte exprès",
+        "Oui, si l'irrégularité affecte une formalité substantielle ou d'ordre public de l'acte",
+        "Oui, systématiquement, dès lors que l'adversaire démontre un préjudice quelconque subi",
+        "Non, sauf si les deux parties consentent expressément à l'annulation de l'acte concerné"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 114, alinéa 1er, du code de procédure civile, aucun acte ne peut être déclaré nul sans texte exprès, sauf en cas d'inobservation d'une formalité substantielle ou d'ordre public, hypothèse dans laquelle la nullité peut être prononcée malgré l'absence de texte spécifique.",
+      "tags": ["vice de forme", "formalité substantielle"]
+    },
+    {
+      "id": "formalisme-instance-qcm-006",
+      "question": "Un défendeur invoque un vice de forme mais échoue à démontrer un quelconque grief causé par l'irrégularité alléguée. Le juge peut-il prononcer la nullité ?",
+      "options": [
+        "Oui, dès lors que la formalité en cause est substantielle ou d'ordre public",
+        "Oui, si l'irrégularité touche l'identité même du destinataire de l'acte concerné",
+        "Non, la nullité pour vice de forme exige toujours la preuve d'un grief, même ici",
+        "Non, sauf preuve que l'irrégularité était volontaire de la part de son auteur"
+      ],
+      "answer": 2,
+      "explanation": "La nullité pour vice de forme ne peut être prononcée qu'à charge pour l'adversaire de prouver le grief que lui cause l'irrégularité, cette exigence s'appliquant même lorsque la formalité méconnue revêt un caractère substantiel ou d'ordre public.",
+      "tags": ["grief", "vice de forme"]
+    },
+    {
+      "id": "formalisme-instance-qcm-007",
+      "question": "Un texte permet à un justiciable de saisir une juridiction par voie électronique. Le greffier peut-il refuser d'enregistrer cette demande au motif qu'il n'est pas équipé pour la traiter ?",
+      "options": [
+        "Oui, le greffier peut refuser s'il ne dispose pas de l'équipement informatique adéquat",
+        "Non, le greffier ne peut refuser l'enregistrement en invoquant son défaut d'équipement",
+        "Oui, mais uniquement si le justiciable est lui-même représenté par un avocat constitué",
+        "Non, sauf autorisation préalable du président de la juridiction saisie de la demande"
+      ],
+      "answer": 1,
+      "explanation": "Selon la Cour européenne des droits de l'homme dans l'arrêt Lawyer Partner contre Slovaquie du 16 juin 2009, lorsqu'un texte permet de former une demande par voie électronique, le greffier ne peut refuser l'enregistrement en arguant du défaut d'équipement pour traiter des demandes contenues dans un support électronique.",
+      "tags": ["voie électronique", "CEDH"]
+    },
+    {
+      "id": "formalisme-instance-qcm-008",
+      "question": "Un acte de saisine d'une juridiction est annulé pour un vice de procédure après l'expiration du délai de prescription initial. Quel est le sort de l'effet interruptif attaché à cet acte ?",
+      "options": [
+        "L'effet interruptif disparaît, le demandeur devant agir de nouveau avant l'expiration",
+        "L'effet interruptif ne subsiste que si l'acte est régularisé avant l'expiration du délai",
+        "L'effet interruptif dépend exclusivement de l'accord donné par le défendeur à l'instance",
+        "L'effet interruptif est maintenu, le délai ne recourant qu'à l'extinction de l'instance"
+      ],
+      "answer": 3,
+      "explanation": "Depuis l'article 2241, alinéa 2, du code civil, l'effet interruptif de prescription attaché à la demande est maintenu même si l'acte de saisine est annulé pour un vice de procédure, entendu largement ; le délai interrompu ne recommence à courir qu'à l'extinction de l'instance.",
+      "tags": ["article 2241 code civil", "effet interruptif"]
+    },
+    {
+      "id": "formalisme-instance-qcm-009",
+      "question": "Le dernier jour d'un délai de procédure calculé en jours tombe un dimanche. Quelle est la conséquence sur l'expiration de ce délai ?",
+      "options": [
+        "Le délai expire normalement ce dimanche, aucune prorogation n'étant prévue par les textes",
+        "Le délai est prorogé jusqu'au premier jour ouvrable suivant ce dimanche non travaillé",
+        "Le délai expire la veille, soit le samedi précédant ce dimanche non ouvrable désigné",
+        "Le délai est suspendu indéfiniment jusqu'à ce que la partie concernée saisisse le juge"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 642, alinéa 2, du code de procédure civile, lorsque le dernier jour d'un délai est un samedi, un dimanche ou un jour férié ou chômé, le délai est prorogé jusqu'au premier jour ouvrable suivant.",
+      "tags": ["computation des délais", "prorogation"]
+    },
+    {
+      "id": "formalisme-instance-qcm-010",
+      "question": "Une partie n'a pas eu connaissance en temps utile d'un jugement rendu par défaut, sans faute de sa part, et n'a donc pas pu exercer son recours dans le délai imparti. Quelle solution le code de procédure civile prévoit-il ?",
+      "options": [
+        "Aucune, le délai de recours étant un délai de forclusion insusceptible d'être relevé",
+        "La partie doit saisir la Cour de cassation pour obtenir un relevé de cette forclusion",
+        "Seul un pourvoi en révision permettrait de remettre en cause le jugement par défaut",
+        "Le juge peut relever la partie de la forclusion sans faute de sa part, dans ce cas"
+      ],
+      "answer": 3,
+      "explanation": "L'article 540 du code de procédure civile autorise le juge à relever une partie de la forclusion, sans faute de sa part, lorsqu'elle n'a pas eu connaissance du jugement en temps utile pour exercer son recours, ou lorsqu'elle s'est trouvée dans l'impossibilité d'agir.",
+      "tags": ["forclusion", "relevé de forclusion"]
+    }
+  ]
+}

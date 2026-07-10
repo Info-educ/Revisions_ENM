@@ -335,6 +335,24 @@
       "file": "extension-sanctions-competence.json",
       "title": "L'extension et les sanctions des règles de compétence",
       "category": "Procédure civile"
+    },
+    {
+      "id": "lien-instance",
+      "file": "lien-instance.json",
+      "title": "Le lien d'instance",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "representation-avocat-tableau",
+      "file": "representation-avocat-tableau.json",
+      "title": "La représentation obligatoire par avocat : tableau récapitulatif",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "formalisme-instance",
+      "file": "formalisme-instance.json",
+      "title": "Le formalisme de l'instance",
+      "category": "Procédure civile"
     }
   ]
 }
