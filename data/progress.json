@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1783701542224,
+  "updatedAt": 1783701614411,
   "themes": {
     "civil": {
       "items": {
@@ -3559,6 +3559,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1783701522471
+        },
+        "competence-qcm-001": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1783701610404
         }
       }
     },
