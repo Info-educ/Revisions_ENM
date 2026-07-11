@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1783786761220,
+  "updatedAt": 1783786774215,
   "themes": {
     "civil": {
       "items": {
@@ -3715,11 +3715,11 @@
           "lastSeenAt": 1783786559118
         },
         "procedure-type-qcm-006": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1783786579335
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1783786770203
         },
         "procedure-tj-qcm-007": {
           "level": 1,
