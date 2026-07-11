@@ -1,0 +1,143 @@
+{
+  "id": "procedure-tribunal-judiciaire",
+  "title": "La procédure devant le tribunal judiciaire",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "procedure-tj-fc-001",
+      "front": "Sur quel critère repose la dualité entre procédure écrite et procédure orale devant le tribunal judiciaire ?",
+      "back": "La dualité repose sur un critère de montant et de matière, et non sur le caractère obligatoire ou facultatif de la représentation par avocat. La procédure orale concerne notamment les litiges inférieurs ou égaux à 10 000 euros et certaines matières spécifiques, tandis que la procédure écrite s'applique aux litiges supérieurs à ce montant et à des matières telles que le divorce ou les loyers commerciaux. Il existe cependant des textes spéciaux qui font primer la matière sur le montant, de sorte qu'un litige supérieur à 10 000 euros peut malgré tout relever de la procédure orale.",
+      "tags": ["procédure écrite", "procédure orale"]
+    },
+    {
+      "id": "procedure-tj-fc-002",
+      "front": "Quelles sont les trois voies de saisine du tribunal judiciaire et leurs conditions respectives ?",
+      "back": "L'assignation est la voie de droit commun, ouverte dans tous les cas. La requête unilatérale est réservée à la procédure orale pour les demandes n'excédant pas 5 000 euros ou aux matières fixées par la loi, et reste en principe impossible au-delà de ce seuil. La requête conjointe peut être utilisée dans tous les cas, sans restriction de montant, dès lors que les deux parties s'accordent pour la déposer ensemble.",
+      "tags": ["assignation", "requête"]
+    },
+    {
+      "id": "procedure-tj-fc-003",
+      "front": "Quels sont les quatre offices du juge de la mise en état identifiés dans la procédure écrite ordinaire ?",
+      "back": "Le juge de la mise en état exerce un office d'administration de l'instance, à travers la fixation du calendrier et des délais aux avocats. Il exerce un office juridictionnel de résolution des aspects procéduraux, étant seul compétent depuis sa désignation pour statuer sur les points de l'article 789 du code de procédure civile. Il exerce également un office juridictionnel définitif pour les incidents mettant fin à l'instance et les fins de non-recevoir. Enfin, il exerce un office d'encouragement à la résolution amiable, pouvant enjoindre aux parties de rencontrer un conciliateur ou homologuer leur accord.",
+      "tags": ["juge de la mise en état", "article 789"]
+    },
+    {
+      "id": "procedure-tj-fc-004",
+      "front": "Quelle différence sépare les conclusions tardives stricto sensu et les conclusions dites de dernière heure ?",
+      "back": "Les conclusions tardives stricto sensu sont celles déposées postérieurement à l'ordonnance de clôture : elles sont irrecevables d'office, sans qu'une révocation de l'ordonnance soit nécessaire, en application de l'article 802, alinéa 1er, du code de procédure civile. Les conclusions dites de dernière heure, déposées avant la clôture mais tardivement, ne sont écartées que si elles font obstacle aux droits de la défense de l'adversaire, conformément à la jurisprudence issue de l'arrêt Exacod de la chambre mixte du 3 février 2006.",
+      "tags": ["ordonnance de clôture", "conclusions tardives"]
+    },
+    {
+      "id": "procedure-tj-fc-005",
+      "front": "Comment fonctionne le mécanisme de la césure du procès institué par le décret du 29 juillet 2023 ?",
+      "back": "L'initiative de la césure est réservée aux parties, qui doivent parvenir à un accord contresigné par leurs avocats, le juge de la mise en état ne pouvant l'imposer. Le juge de la mise en état ordonne alors une clôture partielle à l'égard des prétentions concernées, suivie d'un jugement partiel qui tranche ces seules prétentions et peut faire l'objet d'un appel immédiat. La clôture finale de l'instance reste impossible tant que le délai d'appel du jugement partiel n'est pas expiré, afin d'éviter toute contradiction entre décisions rendues dans la même instance.",
+      "tags": ["césure du procès", "clôture partielle"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "procedure-tj-qcm-001",
+      "question": "Un demandeur souhaite obtenir le paiement d'une somme de 3 000 euros dans un litige ne relevant d'aucune dispense légale. Doit-il tenter une résolution amiable avant de saisir le tribunal ?",
+      "options": [
+        "Non, cette obligation ne concerne que les demandes supérieures à 10 000 euros",
+        "Oui, la tentative préalable est obligatoire pour les demandes n'excédant pas 5 000 euros",
+        "Non, la tentative préalable ne s'applique jamais aux demandes de paiement d'une somme",
+        "Oui, mais uniquement lorsque le défendeur est représenté par un avocat constitué"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 750-1 du code de procédure civile, la demande doit être précédée d'une tentative de conciliation, médiation ou procédure participative à peine d'irrecevabilité lorsqu'elle tend au paiement d'une somme n'excédant pas 5 000 euros ou porte sur un trouble de voisinage, sauf dispense légale applicable.",
+      "tags": ["tentative préalable", "article 750-1"]
+    },
+    {
+      "id": "procedure-tj-qcm-002",
+      "question": "Un défendeur est assigné devant le tribunal judiciaire dans une matière où la représentation par avocat est obligatoire. De combien de temps dispose-t-il pour constituer avocat ?",
+      "options": [
+        "D'un délai de 15 jours à compter de la signification de l'assignation reçue",
+        "D'un délai d'un mois à compter de la première audience d'orientation qui suit",
+        "D'un délai de 8 jours francs à compter de la date d'enrôlement de l'affaire",
+        "D'aucun délai précis, la constitution pouvant intervenir à tout moment utile"
+      ],
+      "answer": 0,
+      "explanation": "En application de l'article 763 du code de procédure civile, le défendeur doit constituer avocat dans un délai de 15 jours à compter de l'assignation, par acte dénoncé au demandeur ; si l'assignation est délivrée à moins de 15 jours de la date d'audience, il peut cependant constituer avocat jusqu'à l'audience elle-même.",
+      "tags": ["constitution d'avocat", "représentation obligatoire"]
+    },
+    {
+      "id": "procedure-tj-qcm-003",
+      "question": "Un avocat dépose son dernier jeu de conclusions devant le juge de la mise en état. Quelle fonction ce dernier jeu doit-il remplir ?",
+      "options": [
+        "Il doit se limiter aux seuls moyens nouveaux non encore soumis au débat contradictoire",
+        "Il doit reproduire à l'identique le contenu de l'assignation initiale délivrée",
+        "Il doit récapituler l'ensemble des prétentions et moyens échangés depuis le début",
+        "Il doit uniquement lister les pièces justificatives numérotées produites au dossier"
+      ],
+      "answer": 2,
+      "explanation": "Le dernier jeu de conclusions doit récapituler l'ensemble des échanges précédents entre les parties ; le tribunal ne tiendra compte que des prétentions figurant dans le dispositif de ces conclusions récapitulatives, les prétentions non reprises étant réputées abandonnées.",
+      "tags": ["conclusions récapitulatives", "instruction écrite"]
+    },
+    {
+      "id": "procedure-tj-qcm-004",
+      "question": "Le juge de la mise en état ordonne d'office la clôture partielle de l'instance à l'égard des prétentions d'une partie. Cette initiative est-elle conforme au mécanisme de la césure du procès ?",
+      "options": [
+        "Oui, le juge de la mise en état peut toujours imposer une césure lorsqu'il l'estime utile",
+        "Oui, à condition que l'une des deux parties au moins ait formulé cette demande",
+        "Non, l'initiative de la césure est réservée aux parties, qui doivent y consentir ensemble",
+        "Non, seule la formation de jugement collégiale peut décider d'une telle césure"
+      ],
+      "answer": 2,
+      "explanation": "Selon l'article 807-1, alinéa 1er, du code de procédure civile, l'initiative de la césure du procès est réservée aux parties, qui doivent parvenir à un accord contresigné par leurs avocats ; le juge de la mise en état ne peut l'imposer de sa propre initiative.",
+      "tags": ["césure du procès", "initiative des parties"]
+    },
+    {
+      "id": "procedure-tj-qcm-005",
+      "question": "Une partie dépose des conclusions après le prononcé de l'ordonnance de clôture, sans qu'aucune révocation de cette ordonnance n'ait été prononcée. Ces conclusions sont-elles recevables ?",
+      "options": [
+        "Oui, sous réserve que l'adversaire ne soulève pas expressément leur irrecevabilité",
+        "Oui, à condition qu'elles portent sur un point non contesté par les parties",
+        "Non, mais seulement si le juge estime qu'elles bouleversent l'équilibre du débat",
+        "Non, elles sont irrecevables d'office, sans qu'une révocation soit nécessaire"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'article 802, alinéa 1er, du code de procédure civile, les conclusions déposées postérieurement à l'ordonnance de clôture sont irrecevables d'office, cette sanction étant autonome et ne nécessitant pas la révocation préalable de l'ordonnance de clôture.",
+      "tags": ["ordonnance de clôture", "conclusions tardives"]
+    },
+    {
+      "id": "procedure-tj-qcm-006",
+      "question": "Un juge de la mise en état souhaite à la fois révoquer l'ordonnance de clôture et statuer immédiatement sur le fond du litige dans la même décision. Cela est-il possible ?",
+      "options": [
+        "Oui, cette pratique est expressément admise pour accélérer le traitement des affaires",
+        "Oui, mais uniquement lorsque les deux parties donnent leur accord exprès et écrit",
+        "Non, sauf lorsque l'affaire présente un caractère d'urgence manifeste avéré",
+        "Non, une même décision ne peut simultanément révoquer la clôture et statuer au fond"
+      ],
+      "answer": 3,
+      "explanation": "Selon un arrêt du 1er mars 2018, une même décision ne peut simultanément révoquer l'ordonnance de clôture et statuer sur le fond du litige, ces deux étapes devant nécessairement être distinguées dans le déroulement de la procédure.",
+      "tags": ["révocation de clôture", "jurisprudence"]
+    },
+    {
+      "id": "procedure-tj-qcm-007",
+      "question": "Les deux parties à une instance devant le tribunal judiciaire souhaitent que le litige soit jugé sans qu'aucune audience ne se tienne. Quelle condition cette procédure sans audience suppose-t-elle ?",
+      "options": [
+        "Le simple dépôt d'un dossier par les avocats, sans nécessité d'un accord formalisé",
+        "Un accord exprès des deux parties, signé, daté et comportant leur identité complète",
+        "Une autorisation discrétionnaire du juge, donnée sans consultation des parties",
+        "La seule absence de contestation du défendeur à la demande initiale qui est formée"
+      ],
+      "answer": 1,
+      "explanation": "La procédure sans audience prévue par l'article 828 du code de procédure civile suppose une initiative expresse des parties, formalisée par un accord signé, daté, et comportant leur identité complète, ce qui la distingue du simple dépôt de dossier sans plaidoirie prévu par l'article 799, alinéa 3.",
+      "tags": ["procédure sans audience", "article 828"]
+    },
+    {
+      "id": "procedure-tj-qcm-008",
+      "question": "Le juge de la mise en état renvoie l'examen d'une fin de non-recevoir à la formation de jugement, en raison de la complexité de l'affaire. Les parties doivent-elles reprendre ce moyen devant cette formation ?",
+      "options": [
+        "Oui, les parties doivent reprendre la fin de non-recevoir dans leurs conclusions",
+        "Non, le renvoi opéré par le juge de la mise en état dispense les parties de toute reprise",
+        "Non, la formation de jugement statue d'office sur ce point sans nouvelle demande",
+        "Oui, mais seulement si le juge de la mise en état l'exige expressément par ordonnance"
+      ],
+      "answer": 0,
+      "explanation": "Depuis l'assouplissement introduit par le décret n° 2024-673, le juge de la mise en état peut renvoyer l'examen d'une fin de non-recevoir à la formation de jugement lorsque la complexité de l'affaire le justifie, mais les parties doivent alors reprendre ce moyen dans leurs conclusions adressées à cette formation.",
+      "tags": ["fin de non-recevoir", "décret 2024-673"]
+    }
+  ]
+}

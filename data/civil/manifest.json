@@ -365,6 +365,18 @@
       "file": "principe-contradiction.json",
       "title": "Le principe de la contradiction",
       "category": "Procédure civile"
+    },
+    {
+      "id": "procedure-type-instance",
+      "file": "procedure-type-instance.json",
+      "title": "La procédure type de l'instance : introduction, mise en état, débats et procédures orales",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "procedure-tribunal-judiciaire",
+      "file": "procedure-tribunal-judiciaire.json",
+      "title": "La procédure devant le tribunal judiciaire",
+      "category": "Procédure civile"
     }
   ]
 }

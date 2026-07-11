@@ -1,0 +1,143 @@
+{
+  "id": "procedure-type-instance",
+  "title": "La procédure type de l'instance : introduction, mise en état, débats et procédures orales",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "procedure-type-fc-001",
+      "front": "Depuis le décret n° 2019-1333, quels sont les deux modes d'introduction d'une instance contentieuse prévus par l'article 54 du code de procédure civile ?",
+      "back": "L'article 54 du code de procédure civile ne cite plus que deux modes d'introduction d'une instance contentieuse : l'assignation et la requête, qui peut être unilatérale ou conjointe. La déclaration au greffe et la présentation volontaire des parties, autrefois prévues, ont été supprimées par ce décret.",
+      "tags": ["assignation", "requête"]
+    },
+    {
+      "id": "procedure-type-fc-002",
+      "front": "Pourquoi dit-on que l'assignation ne suffit pas à elle seule à saisir le tribunal ?",
+      "back": "L'assignation cite et informe seulement le défendeur du déclenchement de la procédure, mais elle ne saisit pas matériellement le tribunal. La saisine matérielle résulte de la remise au greffe d'une copie de l'assignation, appelée le placement de l'affaire, suivie de son enrôlement par le greffe, qui lui attribue un numéro au rôle des affaires en cours.",
+      "tags": ["saisine de la juridiction", "enrôlement"]
+    },
+    {
+      "id": "procedure-type-fc-003",
+      "front": "Que change le décret n° 2025-660 du 18 juillet 2025 dans l'articulation entre instruction conventionnelle et instruction judiciaire ?",
+      "back": "Le décret n° 2025-660 institue un nouveau titre VI dans le livre Ier du code de procédure civile, faisant de l'instruction conventionnelle le principe et de l'instruction judiciaire l'exception, à travers deux formes de conventions : la convention simplifiée, conclue entre avocats seuls, et la procédure participative aux fins de mise en état, plus formelle et soumise aux articles 2062 à 2067 du code civil.",
+      "tags": ["instruction conventionnelle", "décret 2025-660"]
+    },
+    {
+      "id": "procedure-type-fc-004",
+      "front": "Quels sont les trois principes fondamentaux qui gouvernent la phase des débats ?",
+      "back": "Trois principes structurent la phase d'audience : la langue française des débats, sous réserve du recours possible à un interprète ou à une langue régionale lorsque le juge ne la maîtrise pas ; la publicité des débats, garantie de bonne justice qui dépasse l'intérêt privé des parties, sauf exceptions tenant à la chambre du conseil ; et l'oralité des débats, dont l'importance décline en pratique au profit des dossiers de plaidoiries.",
+      "tags": ["publicité des débats", "oralité des débats"]
+    },
+    {
+      "id": "procedure-type-fc-005",
+      "front": "Quel est le principe de primauté de l'oral posé par l'article 446-1 du code de procédure civile, et quelle en est la conséquence la plus rigoureuse ?",
+      "back": "Selon l'article 446-1, alinéa 1er, les parties présentent oralement à l'audience leurs prétentions et les moyens à leur soutien ; seul l'oral saisit le juge, l'écrit étant en principe dénué de valeur juridique propre. La conséquence la plus rigoureuse est que si le demandeur ne soutient pas oralement ses prétentions à l'audience, celles-ci sont irrecevables, quand bien même elles auraient été formulées dans l'acte introductif d'instance ou dans des écritures ultérieures.",
+      "tags": ["primauté de l'oral", "procédure orale"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "procedure-type-qcm-001",
+      "question": "Un justiciable saisit seul, sans avocat, une juridiction à représentation facultative depuis la suppression de la déclaration au greffe. Quelle formalité doit-il désormais accomplir ?",
+      "options": [
+        "Rédiger une requête écrite énonçant clairement l'objet précis de sa demande",
+        "Se présenter volontairement au greffe avec son adversaire pour exposer l'affaire",
+        "Déposer une simple déclaration orale de ses prétentions auprès du greffier saisi",
+        "Solliciter une autorisation préalable du président avant toute saisine du tribunal"
+      ],
+      "answer": 0,
+      "explanation": "Depuis la suppression de la déclaration au greffe par le décret n° 2019-1333, la requête unilatérale est devenue le mode de saisine de droit commun pour les juridictions à représentation facultative ; le justiciable qui saisit seul doit rédiger une requête contenant l'objet de la demande, exigence plus lourde que l'ancienne déclaration.",
+      "tags": ["requête unilatérale", "décret 2019-1333"]
+    },
+    {
+      "id": "procedure-type-qcm-002",
+      "question": "Un demandeur formule certains moyens dans son assignation, puis souhaite s'en écarter ultérieurement sans modifier formellement ses prétentions. Cela est-il possible ?",
+      "options": [
+        "Oui, l'assignation n'ayant aucune valeur juridique propre avant l'audience de plaidoirie",
+        "Non, l'assignation vaut conclusions pour le demandeur, qui reste lié par son contenu",
+        "Oui, à condition d'en informer verbalement le greffier avant la première audience",
+        "Non, sauf accord exprès et écrit donné au préalable par le défendeur concerné"
+      ],
+      "answer": 1,
+      "explanation": "L'assignation vaut conclusions pour le demandeur selon l'article 56 in fine du code de procédure civile ; les moyens et prétentions qu'elle formule ont valeur juridique de conclusions, de sorte que le demandeur ne peut s'en écarter sans modifier formellement ses prétentions, en application du principe de loyauté procédurale.",
+      "tags": ["assignation qualificative", "article 56"]
+    },
+    {
+      "id": "procedure-type-qcm-003",
+      "question": "Une convention simplifiée d'instruction conventionnelle est envisagée entre les avocats des deux parties. Les parties elles-mêmes doivent-elles la signer ?",
+      "options": [
+        "Oui, la signature des deux parties demeure une condition de validité de la convention",
+        "Oui, mais uniquement lorsque l'affaire est portée devant la cour d'appel saisie",
+        "Non, la convention simplifiée peut être conclue entre les seuls avocats des parties",
+        "Non, sauf si l'une des parties n'est pas elle-même représentée par un avocat"
+      ],
+      "answer": 2,
+      "explanation": "La convention simplifiée, créée par le décret n° 2025-660 pour pallier l'échec de la procédure participative classique, peut être conclue entre les seuls avocats, sans signature des parties, ce qui la distingue de la procédure participative aux fins de mise en état régie par les articles 2062 à 2067 du code civil.",
+      "tags": ["convention simplifiée", "instruction conventionnelle"]
+    },
+    {
+      "id": "procedure-type-qcm-004",
+      "question": "Une affaire est instruite selon une procédure participative aux fins de mise en état conclue entre les parties. Le juge saisi est-il dessaisi pendant la durée de cette convention ?",
+      "options": [
+        "Non, le juge n'est pas dessaisi et demeure informé de la conclusion de la convention",
+        "Oui, le juge perd tout pouvoir sur l'affaire jusqu'à l'extinction de la convention",
+        "Non, mais il perd son pouvoir de statuer sur les incidents nés pendant l'instruction",
+        "Oui, sauf pour ordonner des mesures conservatoires en cas d'urgence caractérisée"
+      ],
+      "answer": 0,
+      "explanation": "Le juge n'est pas dessaisi pendant la durée de la convention de procédure participative aux fins de mise en état : il en est informé dès qu'il en reçoit connaissance et peut statuer sur toute demande liée à la convention, connaître de tout incident ou exception de procédure, et ordonner des mesures conservatoires ou provisoires.",
+      "tags": ["procédure participative", "dessaisissement du juge"]
+    },
+    {
+      "id": "procedure-type-qcm-005",
+      "question": "Une affaire civile est jugée en chambre du conseil, sans que les débats n'aient été publics. Le prononcé du jugement peut-il rester lui aussi confidentiel ?",
+      "options": [
+        "Oui, la confidentialité des débats s'étend nécessairement au prononcé du jugement rendu",
+        "Oui, mais uniquement lorsque toutes les parties en ont fait la demande conjointe",
+        "Non, le prononcé demeure public, sauf substitution possible par un dépôt au greffe",
+        "Non, sauf si l'affaire concerne l'état ou la capacité des personnes concernées"
+      ],
+      "answer": 2,
+      "explanation": "Même lorsque l'audience s'est déroulée en chambre du conseil, le prononcé du jugement demeure en principe public selon l'article 451 du code de procédure civile, cette publicité pouvant toutefois être assouplie par le dépôt du jugement au greffe comme substitut de prononcé public.",
+      "tags": ["chambre du conseil", "publicité du jugement"]
+    },
+    {
+      "id": "procedure-type-qcm-006",
+      "question": "Après la clôture des débats, une partie souhaite déposer une note pour répondre aux conclusions prises par le ministère public à l'audience. Cette note est-elle recevable ?",
+      "options": [
+        "Non, toute note déposée après la clôture des débats est en principe irrecevable",
+        "Non, sauf accord exprès du président donné avant la clôture des débats concernés",
+        "Oui, mais uniquement si la note est déposée le jour même de la clôture prononcée",
+        "Oui, cette note en délibéré est admise pour répondre au ministère public entendu"
+      ],
+      "answer": 3,
+      "explanation": "Si l'article 445 du code de procédure civile interdit en principe tout dépôt de note après la clôture des débats, une exception est admise pour les notes en délibéré destinées à répondre aux arguments développés par le ministère public, en application du principe de la contradiction.",
+      "tags": ["clôture des débats", "notes en délibéré"]
+    },
+    {
+      "id": "procedure-type-qcm-007",
+      "question": "Devant une juridiction où la procédure orale s'applique, une partie comparaît à l'audience et se contente de déposer un dossier contenant ses écritures, sans prononcer un mot à leur sujet. Ses prétentions sont-elles recevables ?",
+      "options": [
+        "Non, l'absence de développement oral rend les prétentions nécessairement irrecevables",
+        "Non, sauf si le juge autorise expressément cette simple référence aux écritures",
+        "Oui, mais uniquement lorsque la partie est représentée par un avocat constitué",
+        "Oui, une partie peut se contenter de comparaître et déposer un dossier sans les développer"
+      ],
+      "answer": 3,
+      "explanation": "Selon un arrêt du 1er juillet 2021, en l'absence de formalisme particulier pour se référer à des écritures, une partie peut se contenter de comparaître et de déposer un dossier contenant ses écritures, sans qu'un mot soit prononcé à leur propos, ce qui constitue une atténuation jurisprudentielle du principe de primauté de l'oral.",
+      "tags": ["primauté de l'oral", "atténuation jurisprudentielle"]
+    },
+    {
+      "id": "procedure-type-qcm-008",
+      "question": "Dans une procédure orale, le juge a organisé les échanges écrits entre parties comparantes en application de l'article 446-2 du code de procédure civile. À quelle date les prétentions et moyens ainsi présentés par écrit sont-ils réputés formulés ?",
+      "options": [
+        "À la date de l'audience à laquelle l'affaire est finalement appelée et plaidée",
+        "À la date de leur communication entre les parties, et non celle de l'audience",
+        "À la date de leur dépôt matériel au greffe de la juridiction saisie de l'affaire",
+        "À la date de la décision du juge d'organiser les échanges entre les parties"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 446-4 du code de procédure civile, la date des prétentions et des moyens d'une partie régulièrement présentés par écrit est celle de leur communication entre parties, et non celle de l'audience, dès lors que le juge a organisé les échanges écrits conformément à l'article 446-2.",
+      "tags": ["article 446-4", "date de communication"]
+    }
+  ]
+}
