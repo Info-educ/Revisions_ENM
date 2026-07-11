@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1783787050064,
+  "updatedAt": 1783787063492,
   "themes": {
     "civil": {
       "items": {
@@ -3407,11 +3407,11 @@
           "lastSeenAt": 1783701232192
         },
         "competence-qcm-003": {
-          "level": 1,
-          "seenCount": 2,
-          "correctCount": 1,
+          "level": 2,
+          "seenCount": 3,
+          "correctCount": 2,
           "lastResult": "hit",
-          "lastSeenAt": 1783701211743
+          "lastSeenAt": 1783787059477
         },
         "formalisme-instance-qcm-001": {
           "level": 1,
@@ -3435,11 +3435,11 @@
           "lastSeenAt": 1783700760740
         },
         "competence-qcm-004": {
-          "level": 1,
-          "seenCount": 1,
-          "correctCount": 1,
+          "level": 2,
+          "seenCount": 2,
+          "correctCount": 2,
           "lastResult": "hit",
-          "lastSeenAt": 1783700779164
+          "lastSeenAt": 1783787051623
         },
         "formalisme-instance-qcm-008": {
           "level": 1,
