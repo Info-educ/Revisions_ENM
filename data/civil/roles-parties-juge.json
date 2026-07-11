@@ -1,0 +1,143 @@
+{
+  "id": "roles-parties-juge",
+  "title": "Les principes relatifs aux rôles respectifs des parties et du juge dans le procès",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "roles-parties-juge-fc-001",
+      "front": "Quels sont les trois principes directeurs qui organisent le procès civil ?",
+      "back": "Le principe d'initiative détermine qui déclenche et arrête l'instance : les parties, sous réserve de l'office du juge. Le principe dispositif détermine qui maîtrise l'objet et les faits du litige : les parties, le juge n'ayant de pouvoir qu'à l'intérieur du cadre qu'elles ont tracé. Le principe de juridiction détermine qui contrôle le droit applicable : le juge, selon la logique de l'adage « donne-moi les faits, je te donnerai le droit ».",
+      "tags": ["principe d'initiative", "principe dispositif", "principe de juridiction"]
+    },
+    {
+      "id": "roles-parties-juge-fc-002",
+      "front": "Que prévoit l'article 7 du code de procédure civile sur les pouvoirs du juge à l'égard des faits du litige ?",
+      "back": "Le juge ne peut fonder sa décision sur des faits qui ne sont pas dans le débat, ce qui traduit un principe d'indisponibilité des faits pour le juge, qualifié de « servant des plaideurs » par la doctrine. Il peut néanmoins prendre en compte des faits que les parties n'ont pas spécialement invoqués, dits faits adventices, à condition qu'ils soient déjà présents dans le débat, et peut inviter les parties à fournir des explications de fait par simple faculté discrétionnaire.",
+      "tags": ["indisponibilité des faits", "faits adventices"]
+    },
+    {
+      "id": "roles-parties-juge-fc-003",
+      "front": "Quelle différence sépare le devoir de requalification des faits et la faculté de relever d'office un moyen de droit nouveau ?",
+      "back": "Selon l'article 12, alinéa 2, du code de procédure civile, le juge a l'obligation de donner ou restituer leur exacte qualification aux faits et actes litigieux, sans s'arrêter à la dénomination proposée par les parties. En revanche, selon la jurisprudence Dauvin de l'assemblée plénière du 21 décembre 2007, le changement de dénomination ou de fondement juridique de la demande ne relève que d'une simple faculté pour le juge, non d'une obligation.",
+      "tags": ["requalification", "jurisprudence Dauvin"]
+    },
+    {
+      "id": "roles-parties-juge-fc-004",
+      "front": "Quelles sont les trois conditions de l'amiable composition judiciaire ?",
+      "back": "L'amiable composition judiciaire suppose un litige déjà né, excluant toute clause compromissoire anticipée dans un contrat ; un accord exprès des parties, portant sur des droits dont elles ont la libre disposition ; et un juge affranchi des règles de droit ordinaires, mais toujours tenu de respecter l'ordre public procédural, notamment le principe du contradictoire et l'obligation de motivation.",
+      "tags": ["amiable composition judiciaire", "équité"]
+    },
+    {
+      "id": "roles-parties-juge-fc-005",
+      "front": "Quel est l'apport combiné de la jurisprudence Cesareo et de la jurisprudence Dauvin sur la charge processuelle des parties ?",
+      "back": "La jurisprudence Cesareo impose au demandeur de concentrer dès la première instance l'ensemble des moyens de droit qu'il estime de nature à fonder sa prétention, sous peine de se heurter à l'autorité de la chose jugée en cas de nouveau procès sur un fondement différent. Combinée à la jurisprudence Dauvin, qui dispense le juge de l'obligation de relever d'office un fondement juridique nouveau, cette évolution reporte sur les parties et leur conseil la responsabilité d'invoquer eux-mêmes les règles de droit applicables.",
+      "tags": ["Cesareo", "Dauvin"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "roles-parties-juge-qcm-001",
+      "question": "Une juridiction civile souhaite se saisir spontanément d'un litige, sans qu'aucune partie ne l'ait saisie. Cela est-il possible ?",
+      "options": [
+        "Non, sauf exception légale expresse et sous réserve d'un motif d'intérêt général",
+        "Oui, dans tous les cas, le juge disposant d'un pouvoir général d'auto-saisine civile",
+        "Oui, mais uniquement si l'affaire présente un caractère d'urgence manifeste avéré",
+        "Non, en toute hypothèse, aucune exception n'étant jamais admise en la matière"
+      ],
+      "answer": 0,
+      "explanation": "En application de l'article 16 de la Déclaration des droits de l'homme et du citoyen consacrant la séparation des pouvoirs, une juridiction ne peut en principe s'auto-saisir spontanément, sauf exception légale prévue et à condition qu'un motif d'intérêt général et des garanties d'impartialité l'accompagnent.",
+      "tags": ["principe d'initiative", "auto-saisine"]
+    },
+    {
+      "id": "roles-parties-juge-qcm-002",
+      "question": "Au cours d'une instance, une partie invoque un fait précis, mais ne rapporte aucune preuve à son appui. Quelle conséquence en résulte pour sa prétention ?",
+      "options": [
+        "Le juge doit rechercher lui-même les preuves manquantes pour compléter le dossier",
+        "La prétention est rejetée, la charge de la preuve incombant à celui qui l'invoque",
+        "Le juge doit inviter d'office l'adversaire à prouver le fait à la place de la partie",
+        "La prétention est automatiquement présumée fondée, faute de contestation adverse"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 9 du code de procédure civile, il incombe à chaque partie de prouver conformément à la loi les faits nécessaires au succès de sa prétention ; à défaut d'une telle preuve, la prétention est rejetée, la distinction entre allégation et preuve étant au cœur de la théorie de Motulsky.",
+      "tags": ["charge de la preuve", "article 9"]
+    },
+    {
+      "id": "roles-parties-juge-qcm-003",
+      "question": "Un juge souhaite fonder sa décision sur un fait qui n'a jamais été évoqué par aucune des parties au cours du débat. Peut-il le faire ?",
+      "options": [
+        "Non, le juge ne peut fonder sa décision que sur des faits déjà présents dans le débat",
+        "Oui, le juge peut toujours introduire un fait nouveau s'il l'estime pertinent au litige",
+        "Oui, à condition d'en informer préalablement les parties par une simple notification",
+        "Non, sauf si ce fait résulte d'une évidence notoire connue de tous les justiciables"
+      ],
+      "answer": 0,
+      "explanation": "L'article 7, alinéa 1er, du code de procédure civile pose un principe d'indisponibilité des faits pour le juge : celui-ci ne peut fonder sa décision sur des faits qui ne sont pas dans le débat, le juge étant décrit par la doctrine comme le servant des plaideurs sur ce terrain.",
+      "tags": ["indisponibilité des faits", "article 7"]
+    },
+    {
+      "id": "roles-parties-juge-qcm-004",
+      "question": "Un demandeur invoque une vente, mais les éléments du dossier révèlent en réalité un contrat de prêt. Le juge doit-il retenir la qualification proposée par le demandeur ?",
+      "options": [
+        "Oui, le juge est toujours lié par la qualification juridique choisie par les parties",
+        "Non, le juge doit restituer l'exacte qualification aux faits et actes litigieux en cause",
+        "Oui, sauf si le défendeur conteste expressément cette qualification devant le juge",
+        "Non, mais uniquement si les deux parties s'accordent pour solliciter une requalification"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 12, alinéa 2, du code de procédure civile, le juge doit donner ou restituer leur exacte qualification aux faits et actes litigieux, sans s'arrêter à la dénomination que les parties en auraient proposée, ce qui constitue une obligation et non une simple faculté.",
+      "tags": ["requalification", "article 12"]
+    },
+    {
+      "id": "roles-parties-juge-qcm-005",
+      "question": "Un litige oppose deux parties devant un juge, sans qu'aucun fondement juridique précis n'ait été invoqué par le demandeur. Le juge doit-il rechercher lui-même la règle applicable ?",
+      "options": [
+        "Non, il appartient exclusivement au demandeur de fournir un fondement juridique précis",
+        "Non, le juge doit dans ce cas rejeter la demande comme insuffisamment fondée en droit",
+        "Oui, la recherche de la règle applicable devient obligatoire dans une telle hypothèse",
+        "Oui, mais seulement si le défendeur en formule expressément la demande auprès du juge"
+      ],
+      "answer": 2,
+      "explanation": "Lorsqu'aucun fondement n'est invoqué par les parties, la recherche de la règle applicable devient obligatoire pour le juge, qui doit alors vérifier les conditions d'application de la règle de droit pertinente, quelle que soit son origine législative, jurisprudentielle, coutumière ou conventionnelle.",
+      "tags": ["office du juge", "recherche de la règle applicable"]
+    },
+    {
+      "id": "roles-parties-juge-qcm-006",
+      "question": "Un juge civil constate qu'une loi qu'il doit appliquer lui semble contraire à la Constitution. Peut-il soulever d'office une question prioritaire de constitutionnalité ?",
+      "options": [
+        "Oui, le juge peut soulever d'office une QPC dès qu'il doute de la constitutionnalité",
+        "Oui, mais seulement en présence d'un accord préalable et exprès des deux parties au litige",
+        "Non, il doit obligatoirement transmettre la question au Conseil constitutionnel sans délai",
+        "Non, le juge doit appliquer la norme, sauf saisine d'une QPC par une partie au litige"
+      ],
+      "answer": 3,
+      "explanation": "Le contrôle de la conformité d'une loi à la Constitution échappe au pouvoir de relevé d'office du juge civil : celui-ci doit appliquer la norme même s'il la sait potentiellement inconstitutionnelle, sauf si la question prioritaire de constitutionnalité est soulevée par une partie au litige.",
+      "tags": ["question prioritaire de constitutionnalité", "office du juge"]
+    },
+    {
+      "id": "roles-parties-juge-qcm-007",
+      "question": "Les parties souhaitent recourir à l'amiable composition judiciaire pour un litige déjà né entre elles, portant sur des droits dont elles ont la libre disposition. Le juge affranchi des règles ordinaires peut-il pour autant ignorer le principe du contradictoire ?",
+      "options": [
+        "Oui, l'amiable composition libère le juge de toute contrainte procédurale existante",
+        "Oui, à condition que les parties aient expressément renoncé au contradictoire par écrit",
+        "Non, le juge reste tenu de respecter l'ordre public procédural, dont le contradictoire",
+        "Non, sauf accord unanime des parties pour écarter cette exigence procédurale précise"
+      ],
+      "answer": 2,
+      "explanation": "Même lorsqu'il statue en amiable composition, le juge demeure affranchi des seules règles de droit ordinaires applicables au fond du litige, mais reste tenu de respecter l'ordre public procédural, au premier rang duquel figurent le principe du contradictoire et l'obligation de motivation.",
+      "tags": ["amiable composition judiciaire", "ordre public procédural"]
+    },
+    {
+      "id": "roles-parties-juge-qcm-008",
+      "question": "Un demandeur invoque une prescription pour la première fois devant la Cour de cassation, sans que le juge du fond ne l'ait relevée d'office. Le juge du fond avait-il l'obligation de la relever lui-même ?",
+      "options": [
+        "Oui, la prescription constitue un moyen d'ordre public que le juge doit toujours soulever",
+        "Oui, mais uniquement lorsque le défendeur est une personne physique non représentée",
+        "Non, sauf si le demandeur avait explicitement demandé ce relevé au juge du fond",
+        "Non, le juge est lié négativement et ne peut relever d'office la prescription civile"
+      ],
+      "answer": 3,
+      "explanation": "L'article 2247 du code civil interdit au juge de relever d'office le moyen tiré de la prescription : il s'agit d'une hypothèse où le juge est lié négativement, c'est-à-dire où il lui est interdit de soulever certains moyens tels que la prescription ou l'incompétence d'attribution.",
+      "tags": ["prescription", "juge lié négativement"]
+    }
+  ]
+}

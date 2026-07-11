@@ -1,0 +1,143 @@
+{
+  "id": "principe-contradiction",
+  "title": "Le principe de la contradiction",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "contradiction-fc-001",
+      "front": "Quelle différence sépare les droits de la défense et le principe de la contradiction ?",
+      "back": "Les droits de la défense constituent la notion la plus large : ils englobent le contradictoire stricto sensu, mais aussi le devoir de donner connaissance de l'instance, le principe de loyauté notamment probatoire, la neutralité du juge et l'organisation rationnelle des voies de recours. La contradiction, qualifiée de « fleuron » des droits de la défense par Cornu et Foyer, en constitue une composante plus précise, tout en bénéficiant d'une consécration jurisprudentielle propre et autonome.",
+      "tags": ["droits de la défense", "principe de la contradiction"]
+    },
+    {
+      "id": "contradiction-fc-002",
+      "front": "Quelle est la triple consécration dont bénéficie le principe de la contradiction ?",
+      "back": "Le Conseil d'État en a fait un principe général du droit doté d'une valeur législative, s'imposant même à une disposition réglementaire contraire, sauf en matière gracieuse. Le Conseil constitutionnel lui reconnaît une nature législative et le présente comme le corollaire du droit fondamental à caractère constitutionnel des droits de la défense. La Cour européenne des droits de l'homme l'intègre dans la notion de procès équitable de l'article 6, paragraphe 1, aux côtés de l'égalité des armes.",
+      "tags": ["consécration triple", "principe de la contradiction"]
+    },
+    {
+      "id": "contradiction-fc-003",
+      "front": "Quelle est la différence de régime entre le jugement réputé contradictoire et le jugement par défaut ?",
+      "back": "Le jugement réputé contradictoire est rendu soit contre un défendeur assigné à personne qui a choisi de ne pas comparaître, soit contre un défendeur non cité à personne mais dont le jugement n'est pas rendu en dernier ressort ; il n'ouvre que la voie de l'appel, l'opposition étant fermée. Le jugement par défaut concerne le défendeur non cité à personne lorsque le jugement est rendu en dernier ressort ; il ouvre la voie de l'opposition devant le même tribunal, mais devient non avenu s'il n'est pas notifié dans les six mois de sa date.",
+      "tags": ["jugement réputé contradictoire", "jugement par défaut"]
+    },
+    {
+      "id": "contradiction-fc-004",
+      "front": "Que prévoit l'article 16, alinéa 3, du code de procédure civile sur les moyens de droit relevés d'office par le juge ?",
+      "back": "Le juge ne peut fonder sa décision sur les moyens de droit qu'il a relevés d'office sans avoir au préalable invité les parties à présenter leurs observations. Ce principe vaut pour toutes les activités du juge, qu'il s'agisse de produire un argument, une preuve, ou un moyen de fait ou de droit, et s'applique à tous les niveaux de la procédure, quelle que soit la juridiction saisie, y compris pour les moyens d'ordre public.",
+      "tags": ["article 16 alinéa 3", "relevé d'office"]
+    },
+    {
+      "id": "contradiction-fc-005",
+      "front": "Comment a évolué la situation de l'avocat général devant la Cour de cassation sous l'impulsion de la Cour européenne des droits de l'homme ?",
+      "back": "L'arrêt Borgers contre Belgique de 1991 a condamné la présence de l'avocat général au délibéré. L'affaire Reinhardt et Slimane Kaïd de 1998 a condamné la France pour rupture d'égalité des armes, l'avocat général recevant le rapport complet du conseiller-rapporteur alors que les parties n'en recevaient qu'une partie, ce qui a conduit à la communication d'un rapport enrichi identique pour toutes les parties. Aujourd'hui, le sens des conclusions de l'avocat général est communiqué avant l'audience et les parties peuvent y répondre par note en délibéré.",
+      "tags": ["avocat général", "égalité des armes"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "contradiction-qcm-001",
+      "question": "Un défendeur a été assigné à personne mais choisit délibérément de ne pas comparaître à l'audience. Quel type de jugement sera rendu et quelle voie de recours lui reste ouverte ?",
+      "options": [
+        "Un jugement par défaut, ouvrant la voie de l'opposition devant le même tribunal",
+        "Un jugement réputé contradictoire, seul l'appel restant ouvert au défendeur défaillant",
+        "Un jugement non avenu, imposant au demandeur d'introduire une nouvelle instance",
+        "Un jugement nul de plein droit pour violation du principe de la contradiction"
+      ],
+      "answer": 1,
+      "explanation": "Lorsque le défendeur a été assigné à personne mais choisit de ne pas comparaître, le jugement est réputé contradictoire par présomption irréfragable de circonstances normales, le défendeur étant responsable de sa non-comparution ; seule la voie de l'appel lui reste ouverte, l'opposition étant fermée.",
+      "tags": ["jugement réputé contradictoire", "assignation à personne"]
+    },
+    {
+      "id": "contradiction-qcm-002",
+      "question": "Un juge relève d'office un moyen de droit d'ordre public sans avoir invité les parties à présenter leurs observations préalables. Sa décision est-elle régulière ?",
+      "options": [
+        "Oui, les moyens d'ordre public échappent à l'exigence de contradiction préalable",
+        "Oui, à condition que le moyen relevé soit favorable à l'une des deux parties au litige",
+        "Non, le juge doit se soumettre à la contradiction même pour un moyen d'ordre public",
+        "Non, sauf si les parties ont expressément renoncé au débat contradictoire préalable"
+      ],
+      "answer": 2,
+      "explanation": "Selon la chambre mixte de la Cour de cassation du 10 juillet 1981, le juge doit se soumettre à la contradiction pour tout moyen relevé d'office, y compris les moyens d'ordre public, l'article 16, alinéa 3, du code de procédure civile ne connaissant en principe aucune exception à cet égard.",
+      "tags": ["relevé d'office", "moyen d'ordre public"]
+    },
+    {
+      "id": "contradiction-qcm-003",
+      "question": "Une partie produit une pièce déterminante pour l'affaire, mais la communique à son adversaire seulement la veille de la clôture des débats, l'empêchant matériellement d'y répondre. Quelle sanction le juge doit-il appliquer ?",
+      "options": [
+        "Il doit obligatoirement prononcer la nullité de l'ensemble de la procédure engagée",
+        "Il doit écarter la pièce des débats, faute de communication en temps utile suffisant",
+        "Il doit reporter le prononcé du jugement de plusieurs mois sans autre formalité",
+        "Il doit condamner d'office la partie fautive à des dommages-intérêts automatiques"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 135 du code de procédure civile, le juge doit écarter du débat les pièces qui n'auraient pas été communiquées en temps utile, de même que des conclusions déposées tardivement dans des circonstances où l'adversaire n'aurait pas eu la possibilité matérielle d'y répondre.",
+      "tags": ["communication tardive", "article 135"]
+    },
+    {
+      "id": "contradiction-qcm-004",
+      "question": "Devant une juridiction statuant selon une procédure orale, une pièce a été versée au débat sans que sa communication n'ait fait l'objet d'une contestation. Cette pièce est-elle présumée avoir été régulièrement soumise au débat ?",
+      "options": [
+        "Non, la preuve du respect de la contradiction doit toujours être rapportée expressément",
+        "Non, une nouvelle communication formelle est systématiquement exigée avant tout jugement",
+        "Oui, sauf preuve contraire, elle est présumée régulièrement soumise au débat",
+        "Oui, mais uniquement si les deux parties étaient personnellement présentes à l'audience"
+      ],
+      "answer": 2,
+      "explanation": "Selon un arrêt du 21 février 2013, en procédure orale, les pièces dont la communication n'a pas donné lieu à contestation sont, sauf preuve contraire, présumées avoir été régulièrement versées et soumises au débat, à défaut d'énonciations contraires dans la décision.",
+      "tags": ["procédure orale", "présomption"]
+    },
+    {
+      "id": "contradiction-qcm-005",
+      "question": "Un juge ordonne une expertise, mais l'une des parties n'a jamais pu consulter le rapport avant que le juge ne statue au fond. Peut-il fonder sa décision sur ce rapport ?",
+      "options": [
+        "Oui, le rapport d'expertise judiciaire échappe par nature à l'exigence de contradiction",
+        "Oui, si l'expert a lui-même respecté le contradictoire lors de ses opérations",
+        "Non, sauf si l'expertise porte sur un point purement technique sans incidence juridique",
+        "Non, le juge ne peut statuer au vu d'une expertise non consultée par une partie"
+      ],
+      "answer": 3,
+      "explanation": "Selon un arrêt du 11 mars 2009, le juge ne peut pas statuer au vu d'une expertise qu'il a ordonnée si le rapport n'a pu être consulté par une des parties, ce qui constitue une application stricte du principe de la contradiction aux mesures d'instruction judiciaires.",
+      "tags": ["expertise judiciaire", "irrecevabilité"]
+    },
+    {
+      "id": "contradiction-qcm-006",
+      "question": "Devant la Cour de cassation, l'avocat général émet des conclusions destinées à influencer la décision. Les parties doivent-elles en avoir connaissance avant que la Cour ne statue ?",
+      "options": [
+        "Non, les conclusions de l'avocat général restent confidentielles jusqu'à l'arrêt",
+        "Non, seul le rapporteur est tenu de communiquer ses conclusions préalablement aux parties",
+        "Oui, mais uniquement lorsque l'affaire est jugée par la formation la plus solennelle",
+        "Oui, dès qu'il émet un avis destiné à influencer la Cour, les parties en sont informées"
+      ],
+      "answer": 3,
+      "explanation": "Selon la jurisprudence européenne, notamment les arrêts Vermeulen contre Belgique et Lobo Machado contre Portugal, dès lors que le ministère public émet un avis destiné à influencer la Cour, les parties doivent en avoir connaissance, ce qui a conduit à la communication du sens des conclusions avant l'audience.",
+      "tags": ["avocat général", "CEDH"]
+    },
+    {
+      "id": "contradiction-qcm-007",
+      "question": "Un juge déclare d'office irrecevables des conclusions déposées tardivement par une partie, sans avoir provoqué au préalable un débat contradictoire sur ce point. Cette solution est-elle admise en jurisprudence ?",
+      "options": [
+        "Oui, cette solution paradoxale a été admise, malgré les critiques doctrinales",
+        "Non, un débat contradictoire préalable est requis avant toute irrecevabilité",
+        "Non, seule la partie adverse peut soulever une telle irrecevabilité devant le juge saisi",
+        "Oui, mais seulement lorsque la tardiveté résulte d'une faute intentionnelle démontrée"
+      ],
+      "answer": 0,
+      "explanation": "Selon un arrêt du 13 janvier 2022, le juge peut déclarer d'office irrecevables des conclusions rendues tardivement sans provoquer préalablement un débat contradictoire, solution jugée paradoxale par la doctrine puisque le juge échappe ainsi à la contradiction au moment même où il la fait respecter.",
+      "tags": ["irrecevabilité", "moyen d'ordre public"]
+    },
+    {
+      "id": "contradiction-qcm-008",
+      "question": "Un jugement réputé contradictoire par défaut de notification demeure sans notification pendant plus de six mois après sa date. Quel est l'effet de ce délai sur le jugement ?",
+      "options": [
+        "Le jugement devient non avenu, faute de notification dans le délai de six mois imparti",
+        "Le jugement conserve ses effets, la notification n'étant qu'une simple formalité",
+        "Le jugement doit être annulé rétroactivement pour violation de la contradiction",
+        "Le jugement devient exécutoire de plein droit, sans possibilité de recours ultérieur"
+      ],
+      "answer": 0,
+      "explanation": "Selon un arrêt du 14 septembre 2023 relatif à l'article 478 du code de procédure civile, un jugement réputé contradictoire non avenu devient tel s'il n'a pas été notifié dans les six mois de sa date, ce qui prive alors le jugement de tout effet, sous réserve de la voie de l'appel.",
+      "tags": ["jugement non avenu", "délai de notification"]
+    }
+  ]
+}

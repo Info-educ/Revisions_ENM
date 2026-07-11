@@ -353,6 +353,18 @@
       "file": "formalisme-instance.json",
       "title": "Le formalisme de l'instance",
       "category": "Procédure civile"
+    },
+    {
+      "id": "roles-parties-juge",
+      "file": "roles-parties-juge.json",
+      "title": "Les principes relatifs aux rôles respectifs des parties et du juge dans le procès",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "principe-contradiction",
+      "file": "principe-contradiction.json",
+      "title": "Le principe de la contradiction",
+      "category": "Procédure civile"
     }
   ]
 }
