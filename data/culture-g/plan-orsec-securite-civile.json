@@ -1,0 +1,28 @@
+{
+  "id": "plan-orsec-securite-civile",
+  "title": "Le plan Orsec, dispositif d'urgence de la sécurité civile",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "orsec-fc-001",
+      "front": "Qu'est-ce que le plan Orsec et depuis quand existe-t-il ?",
+      "back": "Le plan Orsec, créé en 1952 sous le nom de plan Organisation des secours puis renommé en 2006 plan Organisation de la réponse de sécurité civile, est un dispositif d'urgence déclenché pour intervenir rapidement après une catastrophe de grande ampleur, qu'elle soit d'origine naturelle, industrielle ou sanitaire. Il est conçu pour mobiliser et coordonner, sous l'autorité unique du préfet, les acteurs de la sécurité civile au-delà du niveau de réponse courant ou quotidien des services.",
+      "tags": ["plan Orsec", "sécurité civile"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "orsec-qcm-001",
+      "question": "Sous l'autorité de quelle personne le plan Orsec mobilise-t-il et coordonne-t-il les acteurs de la sécurité civile ?",
+      "options": [
+        "Sous l'autorité unique du préfet, seul habilité à déclencher ce dispositif d'urgence",
+        "Sous l'autorité conjointe du maire et du président du conseil départemental concerné",
+        "Sous l'autorité du Premier ministre, seul compétent en matière de sécurité civile",
+        "Sous l'autorité du directeur général de la sécurité civile au ministère de l'Intérieur"
+      ],
+      "answer": 0,
+      "explanation": "Le plan Orsec est conçu pour mobiliser et coordonner, sous l'autorité unique du préfet, les acteurs de la sécurité civile au-delà du niveau de réponse courant ou quotidien des services, comme le signale le site de la préfecture des Hauts-de-Seine.",
+      "tags": ["plan Orsec", "préfet"]
+    }
+  ]
+}

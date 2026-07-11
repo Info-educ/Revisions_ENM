@@ -305,6 +305,18 @@
       "file": "agriculture-crise-2026.json",
       "title": "La crise du modèle agricole français",
       "category": "Culture générale"
+    },
+    {
+      "id": "plan-orsec-securite-civile",
+      "file": "plan-orsec-securite-civile.json",
+      "title": "Le plan Orsec, dispositif d'urgence de la sécurité civile",
+      "category": "Culture générale"
+    },
+    {
+      "id": "symboles-republique-cocorico",
+      "file": "symboles-republique-cocorico.json",
+      "title": "Les symboles de la République française",
+      "category": "Culture générale"
     }
   ]
 }

@@ -1,0 +1,92 @@
+{
+  "id": "symboles-republique-cocorico",
+  "title": "Les symboles de la République française",
+  "category": "Culture générale",
+  "flashcards": [],
+  "qcm": [
+    {
+      "id": "cocorico-qcm-001",
+      "question": "Depuis quand le 14 juillet est-il le jour de la fête nationale ?",
+      "options": ["1880", "1789", "1918", "1958"],
+      "answer": 0,
+      "explanation": "Le 14 juillet devient officiellement fête nationale par la loi du 6 juillet 1880, en référence à la fois à la prise de la Bastille en 1789 et à la Fête de la Fédération de 1790.",
+      "tags": ["fête nationale", "14 juillet"]
+    },
+    {
+      "id": "cocorico-qcm-002",
+      "question": "Quels édifices sont les seuls à avoir l'obligation légale d'ériger le drapeau français ?",
+      "options": ["Les préfectures", "Les mairies", "Les écoles", "Les casernes de gendarmerie"],
+      "answer": 1,
+      "explanation": "Seules les mairies ont l'obligation légale d'arborer le drapeau tricolore sur leur façade ; les autres bâtiments publics peuvent le faire mais n'y sont pas tenus par la loi.",
+      "tags": ["drapeau tricolore", "mairies"]
+    },
+    {
+      "id": "cocorico-qcm-003",
+      "question": "Pourquoi le coq est-il associé à la France ?",
+      "options": [
+        "En raison d'un plat emblématique, le coq au vin",
+        "En raison du statut sacré de l'animal pour les druides",
+        "En raison d'un jeu de mot issu du latin",
+        "En hommage à une victoire sportive du coq gaulois"
+      ],
+      "answer": 2,
+      "explanation": "En latin, le mot « gallus » signifie à la fois « coq » et « gaulois » ; c'est ce jeu de mot antique, d'abord moqueur puis fièrement récupéré, qui a associé le coq à la France.",
+      "tags": ["coq gaulois", "symboles nationaux"]
+    },
+    {
+      "id": "cocorico-qcm-004",
+      "question": "Pourquoi l'hymne national s'appelle-t-il « La Marseillaise » ?",
+      "options": [
+        "Son auteur, Rouget de Lisle, est né à Marseille",
+        "Les paroles ont été imprimées pour la première fois à Marseille",
+        "Le chant a été composé pour le carnaval de Marseille",
+        "Des Marseillais l'ont chanté lors d'une révolte"
+      ],
+      "answer": 3,
+      "explanation": "Composé à Strasbourg par Rouget de Lisle, ce chant révolutionnaire a pris le nom de « Marseillaise » car des volontaires venus de Marseille l'ont entonné en marchant sur Paris en 1792.",
+      "tags": ["Marseillaise", "hymne national"]
+    },
+    {
+      "id": "cocorico-qcm-005",
+      "question": "D'où vient le bonnet phrygien que porte Marianne ?",
+      "options": [
+        "C'était le couvre-chef des esclaves romains affranchis",
+        "Il évoque un chapeau porté par Louis XIV enfant",
+        "Il faisait partie de la tenue des marins bretons",
+        "Il rappelle le couvre-chef porté par les soldats de Napoléon"
+      ],
+      "answer": 0,
+      "explanation": "Le bonnet phrygien reprend le pileus, couvre-chef porté dans la Rome antique par les esclaves affranchis en signe de liberté retrouvée, symbole repris par les révolutionnaires puis incarné par Marianne.",
+      "tags": ["bonnet phrygien", "Marianne"]
+    },
+    {
+      "id": "cocorico-qcm-006",
+      "question": "Sous Emmanuel Macron, la présidence de la République a discrètement modifié un symbole français. Qu'a-t-elle changé ?",
+      "options": [
+        "Elle a retiré les virgules entre les mots de la devise",
+        "Elle a changé la teinte de bleu du drapeau tricolore",
+        "Elle a changé une phrase dans « La Marseillaise »",
+        "Elle a modifié la forme du bonnet phrygien de Marianne"
+      ],
+      "answer": 1,
+      "explanation": "En 2020, l'Élysée a discrètement adopté un bleu plus foncé pour le drapeau tricolore affiché lors des interventions présidentielles, plus proche de la teinte du drapeau de 1794.",
+      "tags": ["drapeau tricolore", "Emmanuel Macron"]
+    },
+    {
+      "id": "cocorico-qcm-007",
+      "question": "Quel autre pays que la France a pour devise « Liberté, Égalité, Fraternité » ?",
+      "options": ["Le Cameroun", "Le Vietnam", "Haïti", "Le Sénégal"],
+      "answer": 2,
+      "explanation": "Haïti a pour devise nationale la même que celle de la France. Le Cameroun a pour devise « Paix-Travail-Patrie » et le Vietnam « Indépendance-Liberté-Bonheur ».",
+      "tags": ["devise nationale", "Haïti"]
+    },
+    {
+      "id": "cocorico-qcm-008",
+      "question": "Parmi tous les symboles associés à la France, un seul est reconnu comme « emblème national » dans la Constitution. Lequel ?",
+      "options": ["« La Marseillaise »", "Marianne", "Le coq gaulois", "Le drapeau tricolore"],
+      "answer": 3,
+      "explanation": "L'article 2 de la Constitution reconnaît le drapeau tricolore comme emblème national ; il précise aussi que l'hymne national est « La Marseillaise » et que la devise de la République est « Liberté, Égalité, Fraternité ».",
+      "tags": ["Constitution article 2", "drapeau tricolore"]
+    }
+  ]
+}
