@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1783856753208,
+  "updatedAt": 1783856764874,
   "themes": {
     "civil": {
       "items": {
@@ -3918,11 +3918,11 @@
           "lastSeenAt": 1783856540657
         },
         "incidents-qcm-006": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1783856555654
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1783856760863
         },
         "incidents-qcm-004": {
           "level": 1,
