@@ -1,0 +1,169 @@
+{
+  "id": "procedures-accelerees-definitives",
+  "title": "Les procédures accélérées définitives",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "proc-accel-fc-001",
+      "front": "Quels sont les trois grands types de procédures accélérées définitives et leur nature respective ?",
+      "back": "La procédure à jour fixe est une procédure écrite accélérée, réservée aux litiges urgents relevant normalement de la procédure écrite ordinaire devant le tribunal judiciaire. La procédure accélérée au fond, anciennement dénommée référé en la forme, est une procédure orale accélérée applicable aux cas prévus par la loi ou le règlement. Les procédures monitoires, injonction de payer et injonction de faire, reposent sur un mécanisme unilatéral d'inversion du contentieux aboutissant à une ordonnance conditionnelle.",
+      "tags": ["procédure à jour fixe", "procédure accélérée au fond"]
+    },
+    {
+      "id": "proc-accel-fc-002",
+      "front": "En quoi consiste le mécanisme de la passerelle prévu à l'article 837 du code de procédure civile ?",
+      "back": "Lorsque le juge du provisoire, saisi en référé, constate qu'il ne peut statuer faute de contestation sérieuse ou d'urgence au sens du référé, il peut, sur demande d'une partie et non d'office, autoriser l'assignation à jour fixe et fixer lui-même la date d'audience dans son ordonnance de non-lieu à référer. Ce mécanisme évite au demandeur d'avoir à former une nouvelle assignation selon la procédure ordinaire.",
+      "tags": ["passerelle", "article 837"]
+    },
+    {
+      "id": "proc-accel-fc-003",
+      "front": "Pourquoi la dénomination officielle de procédure accélérée au fond a-t-elle remplacé l'expression référé en la forme ?",
+      "back": "La loi du 23 mars 2019, dite loi de programmation et de réforme pour la justice, complétée par l'ordonnance du 17 juillet 2019 et le décret du 20 décembre 2019, a supprimé l'ancien article 492-1 pour créer l'article 481-1 nouveau. Cette réforme a substitué la dénomination sans ambiguïté de procédure accélérée au fond à l'expression référé en la forme, car cette procédure conduit à un jugement définitif au fond, et non à une décision provisoire comme le laissait entendre l'ancienne appellation.",
+      "tags": ["procédure accélérée au fond", "loi du 23 mars 2019"]
+    },
+    {
+      "id": "proc-accel-fc-004",
+      "front": "Quelles sont les conditions relatives à la nature de la créance pour recourir à l'injonction de payer depuis la réforme de 2021 ?",
+      "back": "La créance doit être civile ou commerciale, peu importe désormais son montant depuis la suppression du chiffre-plafond. Elle doit avoir une origine contractuelle ou statutaire, ce qui exclut les créances d'origine délictuelle, quasi-délictuelle ou légale. Elle doit enfin présenter un caractère liquide, certain et exigible ; des cas spéciaux sont également prévus pour la lettre de change, le billet à ordre, l'endossement, l'aval et la cession de créances.",
+      "tags": ["injonction de payer", "conditions de la créance"]
+    },
+    {
+      "id": "proc-accel-fc-005",
+      "front": "Quelle est la nature juridique de l'ordonnance rendue en matière d'injonction de payer, et quel effet produit l'opposition du débiteur ?",
+      "back": "L'ordonnance monitoire n'est pas une ordonnance sur requête provisoire, mais une décision de justice conditionnelle ayant vocation à acquérir l'autorité de la chose jugée au principal en l'absence d'opposition ; elle n'est pas exécutoire immédiatement à sa remise, son exécution étant soumise à l'expiration du délai d'opposition sans opposition formée. L'opposition n'est pas une voie de recours à proprement parler, mais une phase de la procédure qui réintroduit le contradictoire : elle vaut citation en justice et rend l'ordonnance non avenue.",
+      "tags": ["injonction de payer", "opposition"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "proc-accel-qcm-001",
+      "question": "Un demandeur souhaite être autorisé à assigner à jour fixe devant le président du tribunal judiciaire. Quelle condition d'ouverture doit-il démontrer, appréciée plus strictement qu'en référé ?",
+      "options": [
+        "Une urgence caractérisée par un préjudice particulier causé par tout retard d'intervention",
+        "Un accord préalable et exprès donné par la partie défenderesse au litige concerné",
+        "Une compétence exclusive du tribunal judiciaire pour connaître de la matière litigieuse",
+        "Un montant du litige supérieur au seuil de dix mille euros fixé par les textes"
+      ],
+      "answer": 0,
+      "explanation": "La condition d'ouverture de la procédure à jour fixe est l'urgence, appréciée souverainement comme une nécessité qui ne souffre aucun délai et dans laquelle tout retard d'intervention du juge cause un préjudice particulier aux intérêts du demandeur, standard plus strict qu'en matière de référé.",
+      "tags": ["procédure à jour fixe", "urgence"]
+    },
+    {
+      "id": "proc-accel-qcm-002",
+      "question": "Une requête en autorisation d'assigner à jour fixe est déposée devant le président du tribunal judiciaire. Le demandeur pourra-t-il ensuite déposer de nouvelles conclusions librement ?",
+      "options": [
+        "Oui, le demandeur conserve une liberté totale de déposer de nouvelles conclusions",
+        "Oui, mais uniquement avec l'autorisation expresse du président ayant statué",
+        "Non, sauf pour répondre à l'argumentation adverse ou soulever une fin de non-recevoir",
+        "Non, en toute hypothèse, aucune conclusion nouvelle n'étant jamais recevable"
+      ],
+      "answer": 2,
+      "explanation": "La requête en autorisation d'assigner à jour fixe doit déjà contenir les conclusions du demandeur ainsi que les pièces visées ; celui-ci ne pourra ensuite déposer d'autres conclusions que pour répondre à l'argumentation adverse ou soulever une fin de non-recevoir.",
+      "tags": ["procédure à jour fixe", "conclusions"]
+    },
+    {
+      "id": "proc-accel-qcm-003",
+      "question": "Le juge des référés, saisi en urgence, constate l'absence de contestation sérieuse justifiant sa compétence. Peut-il autoriser d'office une assignation à jour fixe ?",
+      "options": [
+        "Oui, le juge des référés peut toujours autoriser d'office cette assignation à jour fixe",
+        "Oui, mais uniquement lorsque les deux parties le sollicitent conjointement ensemble",
+        "Non, cette autorisation ne peut intervenir que sur demande d'une partie au litige",
+        "Non, cette passerelle n'existe que devant la cour d'appel et non en première instance"
+      ],
+      "answer": 2,
+      "explanation": "Le mécanisme de la passerelle prévu par l'article 837 du code de procédure civile suppose que le juge du provisoire autorise l'assignation à jour fixe sur demande d'une partie et non d'office, dans son ordonnance de non-lieu à référer.",
+      "tags": ["passerelle", "article 837"]
+    },
+    {
+      "id": "proc-accel-qcm-004",
+      "question": "Un ancien texte spécial mentionne encore l'expression référé en la forme pour désigner une procédure. Comment cette référence doit-elle être interprétée depuis la réforme de 2019 ?",
+      "options": [
+        "Comme visant désormais la procédure accélérée au fond, par interprétation téléologique",
+        "Comme devenue caduque et privée de tout effet depuis l'entrée en vigueur de la réforme",
+        "Comme continuant à désigner une procédure de référé purement provisoire classique",
+        "Comme nécessitant une modification législative expresse avant toute application"
+      ],
+      "answer": 0,
+      "explanation": "Selon un avis de la Cour de cassation du 14 septembre 2022 et un arrêt du 9 novembre 2022, les textes anciens mentionnant encore l'expression référé en la forme doivent être interprétés téléologiquement comme visant la procédure accélérée au fond, la réforme de 2019 ne procédant pas par substitution générale automatique.",
+      "tags": ["procédure accélérée au fond", "interprétation téléologique"]
+    },
+    {
+      "id": "proc-accel-qcm-005",
+      "question": "Un créancier titulaire d'une créance commerciale, sans limite de montant, souhaite recourir à l'injonction de payer. Devant quelle juridiction doit-il porter sa requête ?",
+      "options": [
+        "Devant le juge des contentieux de la protection, seul compétent en matière commerciale",
+        "Devant le président du tribunal judiciaire, quelle que soit la nature de la créance",
+        "Devant la formation collégiale du tribunal de commerce statuant en premier ressort",
+        "Devant le président du tribunal de commerce, sans limite de taux applicable"
+      ],
+      "answer": 3,
+      "explanation": "Pour une créance commerciale, la requête en injonction de payer doit être portée devant le président du tribunal de commerce, sans limite de taux applicable, contrairement à la créance civile qui relève du président du tribunal judiciaire au-delà de 10 000 euros ou du juge des contentieux de la protection en deçà.",
+      "tags": ["injonction de payer", "compétence"]
+    },
+    {
+      "id": "proc-accel-qcm-006",
+      "question": "Une clause contractuelle prévoit une compétence territoriale différente de celle du lieu où demeure le débiteur, pour une procédure d'injonction de payer. Cette clause est-elle valable ?",
+      "options": [
+        "Oui, les parties peuvent librement déroger à la compétence territoriale par convention",
+        "Oui, mais uniquement lorsque le débiteur a expressément accepté cette clause",
+        "Non, sauf si la clause a été négociée entre professionnels de même qualité juridique",
+        "Non, une telle clause est réputée non écrite, la compétence territoriale étant exclusive"
+      ],
+      "answer": 3,
+      "explanation": "En matière d'injonction de payer, la compétence territoriale exclusive du lieu où demeure le ou les débiteurs relève de l'ordre public renforcé : toute clause contraire est réputée non écrite et le juge doit se déclarer d'office incompétent en présence d'une telle clause.",
+      "tags": ["injonction de payer", "compétence territoriale exclusive"]
+    },
+    {
+      "id": "proc-accel-qcm-007",
+      "question": "Une ordonnance d'injonction de payer n'a fait l'objet d'aucune opposition dans le délai imparti. Quel est l'effet de l'absence d'opposition sur cette ordonnance ?",
+      "options": [
+        "Elle demeure une simple mesure provisoire sans effet sur le fond du litige concerné",
+        "Elle devient un titre exécutoire produisant les effets d'un jugement contradictoire",
+        "Elle doit être confirmée par un jugement rendu par la formation collégiale saisie",
+        "Elle perd toute valeur juridique et le créancier doit engager une nouvelle procédure"
+      ],
+      "answer": 1,
+      "explanation": "En l'absence d'opposition dans le délai d'un mois suivant la signification, l'ordonnance d'injonction de payer devient un titre exécutoire produisant les effets d'un jugement contradictoire, la formule exécutoire étant depuis le décret n° 2021-1322 immédiatement apposée sur l'ordonnance sous cette condition suspensive.",
+      "tags": ["injonction de payer", "absence d'opposition"]
+    },
+    {
+      "id": "proc-accel-qcm-008",
+      "question": "Un débiteur forme opposition à une ordonnance d'injonction de payer dans le délai légal. Quel est l'effet principal de cette opposition sur la procédure ?",
+      "options": [
+        "Elle rend l'ordonnance non avenue et vaut citation en justice devant le tribunal saisi",
+        "Elle constitue une simple voie de recours suspensive sans réintroduire le contradictoire",
+        "Elle nécessite le dépôt d'une nouvelle requête complète par le débiteur opposant",
+        "Elle transforme automatiquement l'instance monitoire en procédure de référé classique"
+      ],
+      "answer": 0,
+      "explanation": "L'opposition n'est pas une voie de recours à proprement parler mais une phase de la procédure qui réintroduit le contradictoire : elle vaut citation en justice, saisit le tribunal de la demande initiale, et rend l'ordonnance monitoire non avenue et dépourvue d'autorité de chose jugée.",
+      "tags": ["injonction de payer", "opposition"]
+    },
+    {
+      "id": "proc-accel-qcm-009",
+      "question": "Un créancier obtient une ordonnance d'injonction de faire contre un débiteur non-commerçant qui ne s'exécute pas dans le délai imparti. Cette ordonnance constitue-t-elle immédiatement un titre exécutoire ?",
+      "options": [
+        "Oui, comme en matière d'injonction de payer, l'absence d'exécution vaut titre exécutoire",
+        "Non, l'absence d'exécution impose la tenue d'une audience contradictoire normale",
+        "Oui, mais uniquement si le débiteur a expressément reconnu son obligation initiale",
+        "Non, le créancier doit alors former une nouvelle requête devant une autre juridiction"
+      ],
+      "answer": 1,
+      "explanation": "Contrairement à l'injonction de payer, l'injonction de faire ne produit aucun titre exécutoire immédiat en cas de non-exécution par le débiteur : une audience contradictoire normale doit alors se tenir devant le juge des contentieux de la protection pour obtenir un jugement revêtu de l'autorité de la chose jugée.",
+      "tags": ["injonction de faire", "non-exécution"]
+    },
+    {
+      "id": "proc-accel-qcm-010",
+      "question": "Devant le tribunal judiciaire, les parties souhaitent recourir à la procédure sans audience prévue par l'article 836-1 pour une procédure accélérée au fond. Le juge conserve-t-il malgré tout la possibilité de tenir une audience ?",
+      "options": [
+        "Non, l'accord exprès des parties ne prive pas le juge de la faculté de tenir audience",
+        "Oui, le juge peut tenir une audience s'il l'estime nécessaire ou si une partie le demande",
+        "Non, seule une nouvelle demande conjointe des parties permettrait de revenir sur ce choix",
+        "Oui, mais uniquement lorsque le ministère public en formule expressément la demande"
+      ],
+      "answer": 1,
+      "explanation": "Même lorsque les parties ont donné leur accord exprès pour une procédure sans audience conformément à l'article 836-1, une soupape est prévue : le juge peut tenir une audience s'il l'estime nécessaire ou si une partie le demande, en application de l'article 828 in fine.",
+      "tags": ["procédure sans audience", "article 836-1"]
+    }
+  ]
+}

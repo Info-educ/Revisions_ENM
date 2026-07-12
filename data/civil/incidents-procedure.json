@@ -1,0 +1,169 @@
+{
+  "id": "incidents-procedure",
+  "title": "Les incidents de la procédure",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "incidents-fc-001",
+      "front": "Quelle est la règle cardinale posée par l'article 74 du code de procédure civile pour les exceptions de procédure ?",
+      "back": "Toutes les exceptions de procédure doivent être soulevées simultanément, avant toute défense au fond ou fin de non-recevoir. Le non-respect de cette règle d'antériorité est sanctionné par l'irrecevabilité de l'exception soulevée tardivement, cette exigence s'appliquant même lorsque la règle de compétence en cause est d'ordre public.",
+      "tags": ["article 74", "exceptions de procédure"]
+    },
+    {
+      "id": "incidents-fc-002",
+      "front": "Quelle différence sépare la demande reconventionnelle hybride et la demande reconventionnelle pure et simple ?",
+      "back": "La demande reconventionnelle hybride vise à la fois à faire rejeter la demande initiale et à obtenir un avantage distinct : c'est le cas le plus fréquent en pratique. La demande reconventionnelle pure et simple n'exerce en revanche aucune influence sur le sort de la demande principale et se borne à réclamer un avantage totalement indépendant, hypothèse plus rare.",
+      "tags": ["demande reconventionnelle", "qualification"]
+    },
+    {
+      "id": "incidents-fc-003",
+      "front": "Quels sont les cinq événements entraînant une interruption de plein droit de l'instance selon l'article 369 du code de procédure civile ?",
+      "back": "L'interruption de plein droit résulte de la majorité d'un plaideur, de la cessation des fonctions de l'avocat lorsque la représentation est obligatoire, de l'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaire entraînant dessaisissement ou assistance du débiteur, de la conclusion d'une convention de procédure participative aux fins de mise en état, et de la décision de convocation à une audience de règlement amiable.",
+      "tags": ["interruption d'instance", "article 369"]
+    },
+    {
+      "id": "incidents-fc-004",
+      "front": "Qu'est-ce qu'une diligence interruptive du délai de péremption selon la clarification jurisprudentielle du 27 mars 2025 ?",
+      "back": "Une diligence interruptive suppose l'initiative d'une des parties manifestant sa volonté de parvenir à la résolution du litige, prise utilement dans le cours de l'instance, la nature de l'affaire et les circonstances de fait étant appréciées souverainement par le juge du fond. Depuis cette clarification, ne constituent plus une diligence interruptive le simple changement d'avocat ni la sommation de communiquer délivrée dans le seul but d'obtenir des pièces déjà échangées entre les parties.",
+      "tags": ["péremption d'instance", "diligence interruptive"]
+    },
+    {
+      "id": "incidents-fc-005",
+      "front": "Quelle différence sépare le désistement d'instance, le désistement d'acte de procédure et le désistement d'action ?",
+      "back": "Le désistement d'instance offre d'arrêter le procès sans attendre le jugement, sans toucher au droit litigieux, et doit être accepté par le défendeur sauf si celui-ci n'a présenté aucune défense. Le désistement d'acte de procédure est l'abandon unilatéral d'un acte isolé, comme des conclusions reconventionnelles, ne nécessitant ni pouvoir spécial ni acceptation adverse. Le désistement d'action, le plus grave des trois, abandonne le droit lui-même et exige la capacité de disposer du droit litigieux.",
+      "tags": ["désistement d'instance", "désistement d'action"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "incidents-qcm-001",
+      "question": "Un défendeur soulève une exception d'incompétence après avoir déjà conclu au fond dans ses premières écritures. Cette exception est-elle recevable ?",
+      "options": [
+        "Non, elle est irrecevable faute d'avoir été soulevée avant toute défense au fond",
+        "Oui, l'exception d'incompétence peut toujours être soulevée en tout état de cause",
+        "Oui, à condition que l'incompétence invoquée relève d'une règle d'ordre public",
+        "Non, sauf accord exprès du demandeur pour examiner cette exception malgré tout"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'article 74 du code de procédure civile, toutes les exceptions de procédure doivent être soulevées simultanément et avant toute défense au fond ou fin de non-recevoir ; le non-respect de cette règle d'antériorité entraîne l'irrecevabilité de l'exception, même pour une règle d'ordre public.",
+      "tags": ["exception de procédure", "article 74"]
+    },
+    {
+      "id": "incidents-qcm-002",
+      "question": "Un débiteur assigné appelle son garant en cours d'instance. Ce mécanisme crée-t-il un lien juridique direct entre le demandeur initial et le garant appelé ?",
+      "options": [
+        "Oui, l'appel en garantie crée systématiquement un lien juridique direct entre eux",
+        "Oui, mais uniquement lorsque le garant accepte lui-même de comparaître à l'instance",
+        "Non, l'appel en garantie ne crée de lien qu'entre le garanti et son propre garant",
+        "Non, sauf si le demandeur initial forme lui-même une demande contre le garant"
+      ],
+      "answer": 2,
+      "explanation": "L'appel en garantie, mécanisme à trois personnes entre le créancier, le débiteur et le garant, ne crée pas de lien juridique entre l'appelant et l'appelé au sens strict : il ne crée un lien qu'entre le garanti qui appelle en garantie et le garant qu'il appelle.",
+      "tags": ["appel en garantie", "article 1202"]
+    },
+    {
+      "id": "incidents-qcm-003",
+      "question": "La Cour de cassation qualifie-t-elle l'appel en garantie d'exception de procédure ou de défense au fond ?",
+      "options": [
+        "D'exception de procédure, soumise à la règle d'antériorité des exceptions soulevées",
+        "De défense au fond, ce qui rend irrecevable une exception d'incompétence postérieure",
+        "De fin de non-recevoir, pouvant être soulevée en tout état de cause du procès",
+        "De mesure d'administration judiciaire, insusceptible de tout recours possible"
+      ],
+      "answer": 1,
+      "explanation": "La Cour de cassation qualifie l'appel en garantie de défense au fond et non d'exception de procédure, ce dont il résulte qu'une exception d'incompétence soulevée après un appel en garantie devient irrecevable en application de la règle d'antériorité de l'article 74.",
+      "tags": ["appel en garantie", "qualification jurisprudentielle"]
+    },
+    {
+      "id": "incidents-qcm-004",
+      "question": "Un demandeur initial souhaite former une demande reconventionnelle en réponse à la demande reconventionnelle formée par le défendeur. Cette pratique est-elle admise depuis l'arrêt du 10 janvier 2013 ?",
+      "options": [
+        "Oui, la Cour de cassation a abandonné ce principe et admet désormais cette pratique",
+        "Non, le principe selon lequel reconvention sur reconvention ne vaut demeure applicable",
+        "Non, sauf lorsque les deux demandes reconventionnelles portent sur des objets distincts",
+        "Oui, mais uniquement lorsque l'affaire est portée en cause d'appel devant la cour"
+      ],
+      "answer": 0,
+      "explanation": "L'arrêt de la deuxième chambre civile du 10 janvier 2013 a abandonné le principe selon lequel reconvention sur reconvention ne vaut, permettant désormais au demandeur initial de former une demande reconventionnelle en défense aux prétentions reconventionnelles de l'adversaire.",
+      "tags": ["demande reconventionnelle", "arrêt du 10 janvier 2013"]
+    },
+    {
+      "id": "incidents-qcm-005",
+      "question": "Un tiers souhaite intervenir volontairement à titre accessoire pour soutenir les prétentions d'une partie. Que se passe-t-il pour son intervention si cette partie se désiste de l'instance ?",
+      "options": [
+        "L'intervention accessoire subsiste malgré le désistement de la partie soutenue",
+        "L'intervenant accessoire devient automatiquement partie principale à l'instance",
+        "L'intervention accessoire tombe avec le désistement de la partie qu'elle soutenait",
+        "L'intervention se transforme de plein droit en intervention volontaire principale"
+      ],
+      "answer": 2,
+      "explanation": "L'intervention accessoire, qui se borne à soutenir les prétentions d'un plaideur sans élever de prétention personnelle, tombe lorsque la partie qu'elle soutient se désiste, contrairement à l'intervention volontaire principale qui permet à l'intervenant de rester au procès malgré la disparition des parties principales.",
+      "tags": ["intervention accessoire", "désistement"]
+    },
+    {
+      "id": "incidents-qcm-006",
+      "question": "Un magistrat s'abstient spontanément de siéger en raison d'un doute sur son impartialité, sans qu'aucune partie n'ait formé de demande de récusation. Ce mécanisme correspond-il à la procédure de récusation ?",
+      "options": [
+        "Oui, l'abstention spontanée constitue une simple modalité de la procédure de récusation",
+        "Oui, mais uniquement lorsque le magistrat en informe préalablement les parties",
+        "Non, l'abstention spontanée n'est admise que pour les juges de la mise en état",
+        "Non, l'abstention spontanée relève d'un mécanisme distinct de la récusation classique"
+      ],
+      "answer": 3,
+      "explanation": "L'abstention spontanée du magistrat relève d'un mécanisme distinct prévu par l'article 339 du code de procédure civile, différent de la procédure de récusation proprement dite qui suppose une demande formée par une partie contre le juge dont l'impartialité est mise en cause.",
+      "tags": ["abstention du magistrat", "article 339"]
+    },
+    {
+      "id": "incidents-qcm-007",
+      "question": "Deux instances distinctes, pendantes devant la même juridiction, présentent des liens si étroits que la solution de l'une influence la solution de l'autre. Le juge peut-il ordonner leur jonction de sa propre initiative ?",
+      "options": [
+        "Oui, le juge peut prononcer la jonction d'office dans l'intérêt d'une bonne justice",
+        "Non, la jonction ne peut être prononcée qu'à la demande expresse d'une des parties",
+        "Non, la jonction suppose un accord préalable et unanime de toutes les parties concernées",
+        "Oui, mais uniquement lorsque les deux instances ont été introduites simultanément"
+      ],
+      "answer": 0,
+      "explanation": "La jonction d'instances connexes, qui vise à les faire instruire ou juger ensemble dans l'intérêt d'une bonne justice, peut être prononcée d'office par le juge, cette décision constituant un acte d'administration judiciaire insusceptible de recours.",
+      "tags": ["jonction d'instances", "connexité"]
+    },
+    {
+      "id": "incidents-qcm-008",
+      "question": "Une instance a fait l'objet d'une radiation-sanction en raison du défaut de diligences des parties. Cette radiation interrompt-elle le délai de péremption en cours ?",
+      "options": [
+        "Oui, la radiation-sanction interrompt automatiquement le délai de péremption courant",
+        "Non, seule la demande de réinscription de l'affaire au rôle produit cet effet interruptif",
+        "Oui, mais uniquement lorsque la radiation a été prononcée par ordonnance motivée",
+        "Non, aucun acte ne peut jamais interrompre le délai de péremption après une radiation"
+      ],
+      "answer": 1,
+      "explanation": "Selon un arrêt du 24 septembre 2015, la radiation-sanction n'interrompt pas le délai de péremption, seule la demande de réinscription de l'affaire au rôle général produisant cet effet interruptif, conformément à l'article 383, alinéa 2, du code de procédure civile.",
+      "tags": ["radiation-sanction", "péremption d'instance"]
+    },
+    {
+      "id": "incidents-qcm-009",
+      "question": "Un jugement, non encore exécutoire, a fait l'objet d'une exécution sans réserve par la partie condamnée. Cette exécution vaut-elle acquiescement au jugement ?",
+      "options": [
+        "Non, seule l'exécution d'un jugement déjà exécutoire peut valoir acquiescement",
+        "Non, l'acquiescement suppose toujours une déclaration expresse et non un comportement",
+        "Oui, mais uniquement lorsque la partie a été assistée d'un avocat lors de l'exécution",
+        "Oui, l'exécution sans réserve d'un jugement non encore exécutoire vaut acquiescement"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'article 410, alinéa 2, du code de procédure civile, l'exécution sans réserve d'un jugement non encore exécutoire vaut acquiescement, alors qu'à l'inverse l'exécution d'un jugement déjà exécutoire ne vaut pas, à elle seule, acquiescement à ce jugement.",
+      "tags": ["acquiescement au jugement", "article 410"]
+    },
+    {
+      "id": "incidents-qcm-010",
+      "question": "Une instance civile demeure sans aucune diligence des parties pendant deux années consécutives. Quel est l'effet de cette inaction prolongée sur l'instance ?",
+      "options": [
+        "L'instance est suspendue jusqu'à ce qu'une partie reprenne l'initiative du procès",
+        "L'instance est anéantie par péremption, sans que le droit substantiel ne soit atteint",
+        "Le juge doit automatiquement statuer sur le fond au vu des éléments déjà versés",
+        "L'instance se transforme de plein droit en une procédure de désistement d'instance"
+      ],
+      "answer": 1,
+      "explanation": "L'inaction des parties pendant deux ans entraîne la péremption de l'instance, fondée sur la bonne administration de la justice et la sécurité juridique : celle-ci s'éteint avec tous les actes qui en font partie, mais le demandeur reste libre d'intenter un nouveau procès si son action n'est pas prescrite.",
+      "tags": ["péremption d'instance", "article 386"]
+    }
+  ]
+}

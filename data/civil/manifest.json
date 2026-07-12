@@ -377,6 +377,24 @@
       "file": "procedure-tribunal-judiciaire.json",
       "title": "La procédure devant le tribunal judiciaire",
       "category": "Procédure civile"
+    },
+    {
+      "id": "preuve-procedure-civile",
+      "file": "preuve-procedure-civile.json",
+      "title": "La preuve en procédure civile",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "procedures-accelerees-definitives",
+      "file": "procedures-accelerees-definitives.json",
+      "title": "Les procédures accélérées définitives",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "incidents-procedure",
+      "file": "incidents-procedure.json",
+      "title": "Les incidents de la procédure",
+      "category": "Procédure civile"
     }
   ]
 }
