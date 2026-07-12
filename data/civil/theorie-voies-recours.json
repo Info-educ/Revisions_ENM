@@ -1,0 +1,169 @@
+{
+  "id": "theorie-voies-recours",
+  "title": "La théorie générale des voies de recours",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "voies-recours-fc-001",
+      "front": "Quelle est la différence entre la voie de rétractation et la voie de réformation, et pourquoi cette distinction est-elle critiquée par la doctrine ?",
+      "back": "La voie de rétractation, comme l'opposition, est examinée par la juridiction même qui a statué et remet en cause la chose jugée pour qu'il soit à nouveau statué en fait et en droit. La voie de réformation, dont l'appel est l'exemple type, est portée devant une juridiction de degré supérieur et produit un effet dévolutif. Cadiet et Jeuland qualifient cette distinction de fondamentalement boiteuse, notamment parce que le pourvoi en cassation est une voie d'annulation qui ne correspond ni exactement à l'une ni exactement à l'autre catégorie.",
+      "tags": ["voie de rétractation", "voie de réformation"]
+    },
+    {
+      "id": "voies-recours-fc-002",
+      "front": "Quels sont les quatre critères de distinction entre voies de recours ordinaires et voies de recours extraordinaires ?",
+      "back": "Les voies ordinaires, appel et opposition, sont largement ouvertes dans tous les cas où la loi ne les ferme pas expressément, tandis que les voies extraordinaires ne sont recevables que dans les cas spécifiés par la loi. Les voies ordinaires bénéficient en théorie d'un effet suspensif, désormais fortement réduit par l'exécution provisoire de droit, alors que les voies extraordinaires n'ont en principe pas d'effet suspensif. Le délai des voies ordinaires est plus court que celui des voies extraordinaires. Enfin, tant qu'une voie ordinaire reste ouverte, aucune voie extraordinaire ne peut être exercée.",
+      "tags": ["voies ordinaires", "voies extraordinaires"]
+    },
+    {
+      "id": "voies-recours-fc-003",
+      "front": "Quelles sont les quatre conditions cumulatives du recours restauré identifiées depuis la chambre mixte du 28 janvier 2005 ?",
+      "back": "La première condition est la suppression expresse par un texte de tout recours ou de tout recours immédiat contre le jugement. La deuxième, seule condition suffisante depuis 2005, est un excès de pouvoir commis par les premiers juges, la simple violation d'un principe fondamental de procédure ne suffisant plus. La troisième est la qualité et l'intérêt à agir de toute personne intéressée, sans que la recevabilité soit subordonnée à la preuve d'un préjudice. La quatrième est le respect du délai de droit commun, sans obligation d'informer les parties de l'ouverture de ce recours particulier.",
+      "tags": ["recours restauré", "chambre mixte 2005"]
+    },
+    {
+      "id": "voies-recours-fc-004",
+      "front": "Quelle différence sépare l'excès de pouvoir positif et l'excès de pouvoir négatif du juge ?",
+      "back": "L'excès de pouvoir positif consiste, pour le juge, à user de prérogatives que la loi ne lui attribue pas, par exemple un bureau de conciliation accordant une provision au-delà du plafond légal autorisé. L'excès de pouvoir négatif consiste au contraire à refuser d'exercer son office, par exemple un juge qui ne procède pas à une vérification d'écriture qui s'imposait, ou qui déclare à tort un recours irrecevable en statuant ainsi en dehors de ses pouvoirs.",
+      "tags": ["excès de pouvoir positif", "excès de pouvoir négatif"]
+    },
+    {
+      "id": "voies-recours-fc-005",
+      "front": "Quelles sont les conditions d'ouverture du relevé de forclusion prévu par l'article 540 du code de procédure civile ?",
+      "back": "Le relevé de forclusion, réservé aux voies ordinaires que sont l'appel et l'opposition, suppose que le jugement ait été rendu par défaut ou soit réputé contradictoire, et que le défendeur n'ait pas eu connaissance du jugement en temps utile pour exercer un recours sans faute de sa part, ou qu'il ait été dans l'impossibilité d'agir. La demande doit être formée dans les deux mois suivant le premier acte signifié à personne ou la première mesure d'exécution rendant indisponibles les biens du débiteur, devant le président de la juridiction compétente pour statuer sur le recours, par une décision insusceptible de recours.",
+      "tags": ["relevé de forclusion", "article 540"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "voies-recours-qcm-001",
+      "question": "Un État n'a prévu aucune voie de recours contre les décisions rendues par ses juridictions civiles de première instance. Cette absence viole-t-elle l'article 6, paragraphe 1, de la Convention européenne des droits de l'homme ?",
+      "options": [
+        "Non, cette convention n'impose aux États aucune obligation de prévoir une voie de recours",
+        "Oui, tout système judiciaire national doit obligatoirement offrir au moins un recours",
+        "Non, sauf lorsque la matière litigieuse touche à des droits fondamentaux protégés",
+        "Oui, mais uniquement pour les décisions rendues en matière pénale ou administrative"
+      ],
+      "answer": 0,
+      "explanation": "Selon la jurisprudence de la Cour européenne des droits de l'homme, notamment les arrêts De Cubber contre Belgique et Zubac contre Croatie, l'article 6, paragraphe 1, de la Convention n'impose pas aux États de prévoir une voie de recours ; en revanche, si des recours existent, les garanties de cet article leur sont applicables.",
+      "tags": ["CEDH", "article 6 paragraphe 1"]
+    },
+    {
+      "id": "voies-recours-qcm-002",
+      "question": "Un plaideur exerce un recours manifestement infondé dans le seul but de retarder l'exécution d'un jugement. Quelle sanction encourt-il ?",
+      "options": [
+        "Une amende civile et des dommages-intérêts, dans la limite de dix mille euros",
+        "Aucune sanction spécifique, l'exercice d'un recours restant en principe toujours libre",
+        "L'irrecevabilité automatique de tout recours ultérieur formé par ce même plaideur",
+        "La radiation immédiate et définitive de l'affaire du rôle de la juridiction saisie"
+      ],
+      "answer": 0,
+      "explanation": "L'abus du droit de recours, qu'il s'agisse de l'appel ou du pourvoi en cassation, expose son auteur à une amende civile et à des dommages-intérêts, dans la limite de dix mille euros, conformément aux articles 559 pour l'appel et 628 pour la cassation.",
+      "tags": ["abus de recours", "amende civile"]
+    },
+    {
+      "id": "voies-recours-qcm-003",
+      "question": "Une décision d'irrecevabilité résulte d'une erreur de qualification commise par le premier juge sur la nature du jugement rendu. Le plaideur dispose-t-il encore d'une voie pour faire valoir ses droits ?",
+      "options": [
+        "Oui, la notification de l'irrecevabilité ouvre un nouveau délai pour le recours approprié",
+        "Non, l'erreur de qualification du jugement rend son recours définitivement irrecevable",
+        "Non, sauf s'il parvient à démontrer la mauvaise foi du juge ayant commis l'erreur",
+        "Oui, mais uniquement s'il saisit directement la Cour de cassation d'un pourvoi immédiat"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'article 536, alinéa 2, du code de procédure civile, si le recours exercé s'avère irrecevable du fait d'une erreur de qualification du jugement, la décision d'irrecevabilité est notifiée par le greffe à toutes les parties, ce qui fait courir un nouveau délai pour exercer le recours approprié.",
+      "tags": ["erreur de qualification", "article 536"]
+    },
+    {
+      "id": "voies-recours-qcm-004",
+      "question": "Un juge de la mise en état statue en accordant une provision à une partie au-delà du plafond légalement autorisé pour ce type de décision. Cette situation caractérise-t-elle un excès de pouvoir ?",
+      "options": [
+        "Non, il s'agit d'une simple erreur de droit insusceptible de qualification particulière",
+        "Non, sauf si la partie adverse démontre l'existence d'une intention frauduleuse du juge",
+        "Oui, un excès de pouvoir positif, le juge usant d'une prérogative non attribuée",
+        "Oui, mais seulement si le montant excède le double du plafond légalement fixé"
+      ],
+      "answer": 2,
+      "explanation": "Le fait pour un juge d'accorder une provision au-delà du plafond légal autorisé constitue un excès de pouvoir positif, caractérisé par l'usage de prérogatives que la loi ne lui attribue pas, catégorie identifiée par le rapport Charruault et consacrée par la chambre mixte du 28 janvier 2005.",
+      "tags": ["excès de pouvoir positif", "rapport Charruault"]
+    },
+    {
+      "id": "voies-recours-qcm-005",
+      "question": "Un texte a expressément supprimé tout recours contre une catégorie de jugements. Un plaideur souhaite néanmoins contester une décision de cette catégorie en invoquant une simple violation d'un principe fondamental de procédure, sans excès de pouvoir caractérisé. Son recours restauré est-il recevable ?",
+      "options": [
+        "Oui, la violation d'un principe fondamental de procédure suffit à elle seule depuis 2005",
+        "Oui, mais uniquement si le plaideur démontre en outre l'existence d'un préjudice réel",
+        "Non, seul un excès de pouvoir caractérisé permet désormais d'ouvrir le recours restauré",
+        "Non, le recours restauré ayant été purement et simplement supprimé depuis cette date"
+      ],
+      "answer": 2,
+      "explanation": "Depuis la chambre mixte du 28 janvier 2005, seul l'excès de pouvoir suffit à ouvrir le recours restauré ; la simple violation d'un principe fondamental de procédure, qui pouvait auparavant justifier ce recours, ne suffit plus à elle seule depuis cette évolution jurisprudentielle.",
+      "tags": ["recours restauré", "excès de pouvoir"]
+    },
+    {
+      "id": "voies-recours-qcm-006",
+      "question": "Une partie représentée obligatoirement par avocat se voit notifier le jugement uniquement à son représentant, sans notification ultérieure à son domicile réel. Le délai d'appel court-il à compter de cette seule notification au représentant ?",
+      "options": [
+        "Oui, la notification au représentant suffit à elle seule à faire courir le délai d'appel",
+        "Oui, sauf si le représentant démontre avoir informé son client de cette notification",
+        "Non, sauf disposition contraire prévue dans le mandat conclu entre la partie et son avocat",
+        "Non, le délai d'appel court de la signification à la partie elle-même, non au représentant"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'article 678, alinéa 5, du code de procédure civile, si le jugement doit d'abord être notifié au représentant sous peine de nullité, le délai d'appel court de la signification à la partie elle-même à son domicile réel, et non de la seule notification faite au représentant.",
+      "tags": ["notification", "article 678"]
+    },
+    {
+      "id": "voies-recours-qcm-007",
+      "question": "Un jugement par défaut n'a fait l'objet d'aucune notification pendant sept mois après son prononcé. Quel est l'effet de ce délai sur le jugement ?",
+      "options": [
+        "Aucun effet, le jugement conservant toute sa valeur indépendamment du délai écoulé",
+        "Le jugement doit être renotifié dans un délai supplémentaire de trois mois maximum",
+        "Le jugement devient immédiatement exécutoire malgré l'absence de toute notification",
+        "Le jugement devient non avenu, faute de notification dans les six mois de sa date"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'article 478 du code de procédure civile, le jugement par défaut doit être notifié dans les six mois de sa date, faute de quoi il devient non avenu, seul le défaillant pouvant se prévaloir de cette règle destinée à le protéger.",
+      "tags": ["jugement par défaut", "article 478"]
+    },
+    {
+      "id": "voies-recours-qcm-008",
+      "question": "Un défendeur, victime d'un jugement rendu par défaut, découvre son existence huit mois après le premier acte signifié à personne, sans faute de sa part. Peut-il encore solliciter un relevé de forclusion ?",
+      "options": [
+        "Oui, le relevé de forclusion peut être sollicité à tout moment sans aucune limite de délai",
+        "Non, la demande devait être formée dans les deux mois suivant cet acte signifié à personne",
+        "Oui, à condition de saisir directement la Cour de cassation d'un pourvoi immédiat",
+        "Non, le relevé de forclusion n'étant ouvert qu'aux voies extraordinaires de recours"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 540 du code de procédure civile, la demande de relevé de forclusion doit être formée dans les deux mois suivant le premier acte signifié à personne ou la première mesure d'exécution rendant indisponibles les biens du débiteur, ce délai n'ayant pas été respecté en l'espèce.",
+      "tags": ["relevé de forclusion", "délai de deux mois"]
+    },
+    {
+      "id": "voies-recours-qcm-009",
+      "question": "Un jugement de première instance n'a fait l'objet d'aucune notification pendant plus de deux ans, alors que la partie concernée avait comparu à l'instance. Cette partie peut-elle encore exercer un recours à titre principal contre ce jugement ?",
+      "options": [
+        "Oui, l'absence de notification préserve indéfiniment le droit d'exercer tout recours",
+        "Non, une fin de non-recevoir d'ordre public interdit tout recours à titre principal",
+        "Oui, mais uniquement si elle démontre l'absence de faute dans ce défaut de recours",
+        "Non, sauf pour former un pourvoi en cassation dans un délai supplémentaire d'un an"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 528-1 du code de procédure civile, si le jugement n'a pas été notifié dans les deux ans de son prononcé, la partie qui a comparu ne peut plus exercer de recours à titre principal, cette fin de non-recevoir d'ordre public étant relevable d'office, sous la seule réserve du recours en révision.",
+      "tags": ["forclusion", "article 528-1"]
+    },
+    {
+      "id": "voies-recours-qcm-010",
+      "question": "Une décision de radiation prononcée par un juge affecte directement l'exercice du droit d'appel d'une partie. Cette décision, qualifiée de mesure d'administration judiciaire, échappe-t-elle nécessairement à tout recours ?",
+      "options": [
+        "Oui, les mesures d'administration judiciaire échappent en toute hypothèse à tout recours",
+        "Non, un recours restauré reste possible si cette mesure caractérise un excès de pouvoir",
+        "Oui, sauf si toutes les parties à l'instance s'accordent pour contester cette mesure",
+        "Non, seule une nouvelle instance introduite devant le même juge permettrait d'y remédier"
+      ],
+      "answer": 1,
+      "explanation": "Si les mesures d'administration judiciaire échappent en principe à tout recours selon l'article 537, la Cour de cassation a admis, notamment par un arrêt du 23 mars 2023, qu'un recours restauré reste possible lorsqu'une décision de radiation affecte l'exercice du droit d'appel et caractérise un excès de pouvoir.",
+      "tags": ["mesure d'administration judiciaire", "recours restauré"]
+    }
+  ]
+}

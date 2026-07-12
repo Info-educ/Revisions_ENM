@@ -395,6 +395,18 @@
       "file": "incidents-procedure.json",
       "title": "Les incidents de la procédure",
       "category": "Procédure civile"
+    },
+    {
+      "id": "le-jugement",
+      "file": "le-jugement.json",
+      "title": "Le jugement",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "theorie-voies-recours",
+      "file": "theorie-voies-recours.json",
+      "title": "La théorie générale des voies de recours",
+      "category": "Procédure civile"
     }
   ]
 }

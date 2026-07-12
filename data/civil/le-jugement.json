@@ -1,0 +1,169 @@
+{
+  "id": "le-jugement",
+  "title": "Le jugement",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "jugement-fc-001",
+      "front": "Quelles sont les règles imposées au délibéré par les articles 447 à 449 du code de procédure civile ?",
+      "back": "Seuls les magistrats ayant assisté aux débats peuvent délibérer, en application du principe de l'immédiateté posé par l'article 447, sous peine de nullité du jugement. Le nombre de juges doit être impair pour permettre une majorité, à défaut de quoi le président départage, cette règle étant elle aussi sanctionnée par la nullité. Le secret du délibéré, principe général d'ordre public, exclut toute personne étrangère au délibéré, la jurisprudence sanctionnant même la mention selon laquelle le jugement aurait été rendu à l'unanimité.",
+      "tags": ["délibéré", "secret du délibéré"]
+    },
+    {
+      "id": "jugement-fc-002",
+      "front": "Quelles sont les quatre mentions obligatoires du jugement prévues par les articles 454 à 456 du code de procédure civile ?",
+      "back": "La régularité formelle exige l'indication de la juridiction, du nom des juges ayant délibéré, de la date, du nom du greffier et des parties. L'exposé des prétentions et moyens des parties peut se faire par un exposé succinct ou par visa des conclusions. Les motifs et le dispositif doivent figurer, seul le dispositif développant l'autorité de la chose jugée. La signature du président et du greffier est enfin exigée, son retrait constituant un vice de forme.",
+      "tags": ["mentions obligatoires", "article 454"]
+    },
+    {
+      "id": "jugement-fc-003",
+      "front": "Quelles sont les deux formes de prononcé du jugement prévues par l'article 451 du code de procédure civile, sous peine de nullité ?",
+      "back": "La lecture publique s'applique aux jugements contentieux, lors d'une audience publique, et peut être effectuée par un seul des juges ayant délibéré même si les autres sont absents ; le juge peut se contenter de lire le dispositif. La mise à disposition au greffe s'applique aux jugements gracieux et à certaines matières touchant l'état ou la capacité des personnes, la vie privée ou le secret des affaires, le président devant alors aviser les parties à l'issue des débats.",
+      "tags": ["prononcé du jugement", "article 451"]
+    },
+    {
+      "id": "jugement-fc-004",
+      "front": "Quelles sont les trois conditions cumulatives requises pour qu'un jugement puisse être exécuté, selon les articles 500 à 503 du code de procédure civile ?",
+      "back": "Le jugement doit avoir acquis force de chose jugée, c'est-à-dire n'être plus susceptible d'un recours suspensif d'exécution ou avoir vu son délai de recours expirer sans qu'un recours n'ait été exercé. Il doit être revêtu de la formule exécutoire, obligatoire sauf exception légale. Il doit enfin avoir été notifié à celui à qui il est opposé, sauf exécution volontaire ou hypothèse d'exécution sur minute, où la présentation de la minute vaut notification.",
+      "tags": ["conditions d'exécution", "force de chose jugée"]
+    },
+    {
+      "id": "jugement-fc-005",
+      "front": "Depuis le décret du 11 décembre 2019, quel est le principe applicable en matière d'exécution provisoire et quelle en est la portée ?",
+      "back": "Depuis le 1er janvier 2020, l'exécution provisoire est de droit pour toutes les décisions de première instance, sauf si la loi ou la décision en dispose autrement. Le juge peut néanmoins l'écarter d'office ou à la demande d'une partie si elle est incompatible avec la nature de l'affaire, par une décision spécialement motivée ; cet écartement demeure toutefois impossible lorsque le juge statue en référé, prescrit des mesures provisoires, ordonne des mesures conservatoires ou accorde une provision au créancier.",
+      "tags": ["exécution provisoire de droit", "article 514"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "jugement-qcm-001",
+      "question": "Un jugement collégial est rendu par une formation de trois juges, mais l'un d'eux n'a assisté à aucune des audiences de débats. Ce jugement encourt-il la nullité ?",
+      "options": [
+        "Oui, seuls les magistrats ayant assisté aux débats peuvent délibérer valablement",
+        "Non, la présence aux débats n'est pas une condition pour participer au délibéré",
+        "Non, sauf si les parties démontrent un grief résultant de cette absence précise",
+        "Oui, mais uniquement si le jugement a été rendu à l'unanimité des voix exprimées"
+      ],
+      "answer": 0,
+      "explanation": "En application du principe de l'immédiateté posé par l'article 447 du code de procédure civile, seuls les magistrats ayant assisté aux débats peuvent délibérer ; la participation d'un juge n'ayant pas assisté aux débats entache le jugement de nullité, sanction prévue par l'article 458.",
+      "tags": ["délibéré", "principe de l'immédiateté"]
+    },
+    {
+      "id": "jugement-qcm-002",
+      "question": "Un jugement mentionne expressément qu'il a été « rendu à l'unanimité » des juges composant la formation. Cette mention est-elle conforme au secret du délibéré ?",
+      "options": [
+        "Non, la jurisprudence sanctionne cette mention qui trahit le secret du délibéré",
+        "Oui, une telle mention ne révèle aucune information sur le contenu du délibéré",
+        "Oui, à condition que tous les juges aient donné leur accord exprès à cette mention",
+        "Non, sauf lorsque le jugement est rendu par une juridiction à juge unique compétente"
+      ],
+      "answer": 0,
+      "explanation": "Le secret du délibéré, principe général d'ordre public excluant toute personne étrangère au délibéré, est trahi par la mention selon laquelle le jugement aurait été rendu à l'unanimité, cette précision révélant indûment le déroulement des échanges entre les juges.",
+      "tags": ["secret du délibéré", "article 448"]
+    },
+    {
+      "id": "jugement-qcm-003",
+      "question": "Un jugement se contente de reproduire intégralement les conclusions déposées par le demandeur, sans développer de motivation propre. Cette pratique est-elle conforme aux exigences de motivation ?",
+      "options": [
+        "Non, la Cour de cassation sanctionne la simple reproduction des conclusions d'une partie",
+        "Oui, cette pratique est admise dès lors que les conclusions sont elles-mêmes motivées",
+        "Non, sauf lorsque le défendeur n'a présenté aucune défense au fond du litige",
+        "Oui, mais uniquement pour les jugements rendus par une juridiction à juge unique"
+      ],
+      "answer": 0,
+      "explanation": "Selon des arrêts du 17 mars 2011 et du 19 décembre 2018, la Cour de cassation sanctionne la simple reproduction des conclusions d'une partie, cette pratique étant de nature à faire peser un doute sur l'impartialité de la juridiction ayant statué.",
+      "tags": ["motivation", "impartialité"]
+    },
+    {
+      "id": "jugement-qcm-004",
+      "question": "Un jugement gracieux touchant à l'état d'une personne doit être prononcé. Quelle forme de prononcé est applicable, à peine de nullité ?",
+      "options": [
+        "La lecture publique en audience, seule forme valable pour tout type de jugement",
+        "La notification individuelle à chaque partie sans forme de prononcé en audience",
+        "La mise à disposition au greffe, le président avisant les parties à l'issue des débats",
+        "L'affichage du dispositif au greffe pendant une durée de quinze jours francs"
+      ],
+      "answer": 2,
+      "explanation": "Pour les jugements gracieux et les matières relatives à l'état ou à la capacité des personnes, à la vie privée ou au secret des affaires, l'article 450, alinéa 2, prévoit la mise à disposition au greffe, le président devant aviser les parties à l'issue des débats de cette modalité de prononcé.",
+      "tags": ["prononcé du jugement", "mise à disposition au greffe"]
+    },
+    {
+      "id": "jugement-qcm-005",
+      "question": "Une partie souhaite contester le contenu d'un jugement, notamment les mentions relatives au déroulement de l'audience. Quelle procédure doit-elle engager ?",
+      "options": [
+        "Une simple demande de rectification adressée directement au greffe de la juridiction",
+        "Un référé-provision permettant d'obtenir rapidement une décision provisoire adaptée",
+        "La procédure d'inscription de faux, incidente ou principale, devant le tribunal judiciaire",
+        "Une opposition formée dans le délai d'un mois suivant la signification du jugement"
+      ],
+      "answer": 2,
+      "explanation": "Le jugement ayant la force probante d'un acte authentique selon l'article 457 du code de procédure civile, son contenu ne peut être contesté que par la procédure d'inscription de faux, incidente ou principale, portée devant le tribunal judiciaire compétent en application de l'article 286.",
+      "tags": ["force probante", "inscription de faux"]
+    },
+    {
+      "id": "jugement-qcm-006",
+      "question": "Un jugement omet de mentionner le nom du greffier présent lors du prononcé, alors que les registres d'audience établissent sa présence effective. Cette omission entraîne-t-elle nécessairement la nullité ?",
+      "options": [
+        "Oui, l'omission d'une mention obligatoire entraîne toujours et automatiquement la nullité",
+        "Oui, sauf si le greffier confirme lui-même expressément sa présence a posteriori",
+        "Non, mais uniquement lorsque l'omission résulte d'une erreur purement matérielle",
+        "Non, une preuve extrinsèque au jugement peut établir la régularité malgré l'omission"
+      ],
+      "answer": 3,
+      "explanation": "L'article 459 du code de procédure civile tempère la sanction de nullité en admettant que des preuves extrinsèques au jugement, telles que les pièces de procédure ou le registre d'audience, puissent établir que les prescriptions légales ont bien été observées malgré une mention omise ou erronée.",
+      "tags": ["présomption de régularité", "article 459"]
+    },
+    {
+      "id": "jugement-qcm-007",
+      "question": "Une partie notifie elle-même le jugement à son adversaire afin de faire courir les délais de recours. Cette notification a-t-elle un effet sur le délai de recours de la partie notifiante elle-même ?",
+      "options": [
+        "Non, le délai ne court que contre le destinataire de la notification effectuée",
+        "Non, sauf si la partie notifiante renonce expressément à son droit de recours",
+        "Oui, mais uniquement lorsque la notification est effectuée par voie électronique",
+        "Oui, la notification fait courir le délai de recours même contre celui qui notifie"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'article 528, alinéa 2, du code de procédure civile, la notification fait courir le délai de recours à l'encontre du destinataire comme de la partie qui procède elle-même à la notification, cette dernière ne pouvant se prévaloir d'un délai différent.",
+      "tags": ["notification", "article 528"]
+    },
+    {
+      "id": "jugement-qcm-008",
+      "question": "Un jugement de première instance a été rendu en matière de référé, le juge ayant ordonné une mesure conservatoire. Le juge peut-il écarter l'exécution provisoire de droit pour cette décision ?",
+      "options": [
+        "Oui, le juge conserve toujours la faculté d'écarter l'exécution provisoire de droit",
+        "Non, l'écartement de l'exécution provisoire est impossible pour les mesures conservatoires",
+        "Oui, à condition de motiver spécialement sa décision d'écartement dans le jugement",
+        "Non, sauf lorsque la mesure conservatoire porte sur une somme d'argent précise"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 514-1 du code de procédure civile, l'écartement de l'exécution provisoire de droit est impossible lorsque le juge statue en référé, prescrit des mesures provisoires, ordonne des mesures conservatoires ou accorde une provision au créancier devant le juge de la mise en état.",
+      "tags": ["exécution provisoire de droit", "article 514-1"]
+    },
+    {
+      "id": "jugement-qcm-009",
+      "question": "Une décision est infirmée en appel après avoir fait l'objet d'une exécution provisoire. Quelles sont les conséquences pour le gagnant provisoire en première instance ?",
+      "options": [
+        "Aucune conséquence, l'exécution provisoire couvrant définitivement les actes accomplis",
+        "Il doit restituer les sommes versées et réparer le dommage causé par l'exécution",
+        "Il doit uniquement restituer les sommes versées, sans obligation de réparation",
+        "Il conserve les sommes perçues si son adversaire n'a pas formé appel dans le délai"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article L. 111-10 du code des procédures civiles d'exécution, l'exécution provisoire est poursuivie aux risques et périls du créancier ; si la décision est infirmée, le gagnant provisoire doit restituer toutes les sommes versées et réparer le dommage causé par l'exécution immédiate, sur le fondement d'une responsabilité sans faute.",
+      "tags": ["exécution provisoire", "responsabilité sans faute"]
+    },
+    {
+      "id": "jugement-qcm-010",
+      "question": "Un jugement français doit produire ses effets exécutoires en Espagne, dans le cadre d'une procédure introduite en 2023. Une procédure d'exequatur est-elle nécessaire ?",
+      "options": [
+        "Oui, l'exequatur demeure requis pour tout jugement français exécuté hors de France",
+        "Non, le règlement Bruxelles I bis supprime l'exequatur en matière civile et commerciale",
+        "Oui, mais uniquement lorsque le jugement porte sur une matière extrapatrimoniale précise",
+        "Non, sauf si la partie condamnée conteste expressément la reconnaissance de la décision"
+      ],
+      "answer": 1,
+      "explanation": "Le règlement Bruxelles I bis supprime l'exequatur en matière civile et commerciale pour les décisions rendues dans les procédures introduites depuis le 10 janvier 2015 au sein de l'Union européenne, la reconnaissance étant automatique et le contrôle reporté au seul stade de l'exécution.",
+      "tags": ["exequatur", "Bruxelles I bis"]
+    }
+  ]
+}
