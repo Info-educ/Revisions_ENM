@@ -1,0 +1,201 @@
+{
+  "id": "voies-recours-ordinaires",
+  "title": "Les voies de recours ordinaires : l'appel et l'opposition",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "vr-ord-fc-001",
+      "front": "Quelle est la différence de régime d'appel entre un jugement définitif, un jugement mixte et un jugement avant dire droit ?",
+      "back": "Le jugement définitif, qui tranche le fond, peut faire l'objet d'un appel immédiat dès son prononcé. Le jugement mixte, qui tranche une partie du principal tout en ordonnant une mesure d'instruction, admet un appel immédiat mais uniquement sur le chef ayant tranché le principal. Le jugement avant dire droit ne peut en principe faire l'objet d'un appel immédiat : la partie doit attendre le jugement définitif pour attaquer les deux ensemble, sous réserve d'exceptions telles que l'expertise autorisée par le premier président pour motif grave et légitime.",
+      "tags": ["jugement définitif", "jugement avant dire droit"]
+    },
+    {
+      "id": "vr-ord-fc-002",
+      "front": "Quelles sont les deux sanctions indépendantes attachées à l'omission des chefs du dispositif expressément critiqués dans la déclaration d'appel ?",
+      "back": "La première sanction est la nullité de la déclaration d'appel pour vice de forme, régularisable par une nouvelle déclaration dans le délai pour conclure. La seconde, indépendante de la première, est l'absence totale d'effet dévolutif : la cour d'appel n'étant saisie de rien, elle ne peut que confirmer le jugement attaqué. Depuis le décret du 29 décembre 2023, l'appelant peut cependant compléter, retrancher ou rectifier les chefs critiqués dans ses premières conclusions.",
+      "tags": ["déclaration d'appel", "effet dévolutif"]
+    },
+    {
+      "id": "vr-ord-fc-003",
+      "front": "Quelle est la distinction entre les compétences exclusives du conseiller de la mise en état et celles de la formation collégiale de la cour d'appel ?",
+      "back": "Le conseiller de la mise en état connaît des fins de non-recevoir touchant à la procédure d'appel elle-même, telles que l'irrecevabilité des conclusions pour tardiveté ou la caducité de la déclaration d'appel. La formation collégiale connaît en revanche des fins de non-recevoir relevant de l'appel lui-même, comme l'irrecevabilité pour prétentions nouvelles ou pour défaut de concentration des prétentions sur le fond, car elle seule est investie du pouvoir d'infirmer ou d'annuler la décision attaquée.",
+      "tags": ["conseiller de la mise en état", "formation collégiale"]
+    },
+    {
+      "id": "vr-ord-fc-004",
+      "front": "Quand une prétention est-elle considérée comme nouvelle en appel, et quelles sont les principales exceptions à l'interdiction posée par l'article 564 du code de procédure civile ?",
+      "back": "Une prétention est nouvelle si elle change les parties, leur qualité, ou l'objet de la demande ; en revanche, une prétention tendant aux mêmes fins que celle soumise au premier juge n'est pas nouvelle, même avec un fondement juridique différent. Les exceptions légales à l'interdiction des prétentions nouvelles concernent la compensation judiciaire, le rejet des prétentions adverses, les questions nées de l'intervention d'un tiers ou d'un fait nouveau, l'accessoire ou le complément nécessaire d'une prétention initiale, et les demandes reconventionnelles connexes.",
+      "tags": ["prétentions nouvelles", "article 564"]
+    },
+    {
+      "id": "vr-ord-fc-005",
+      "front": "Quelles sont les deux conditions cumulatives permettant de qualifier un jugement de jugement par défaut susceptible d'opposition ?",
+      "back": "Le jugement doit avoir été rendu en dernier ressort, de sorte que l'appel n'est pas ouvert contre lui, et la citation ne doit pas avoir été délivrée à personne. Si l'une de ces deux conditions cumulatives fait défaut, le jugement est réputé contradictoire en application de l'article 473, alinéa 2, du code de procédure civile, ce qui ferme la voie de l'opposition et laisse seul l'appel ouvert, sous réserve de textes spéciaux excluant expressément l'opposition.",
+      "tags": ["jugement par défaut", "article 473"]
+    },
+    {
+      "id": "vr-ord-fc-006",
+      "front": "Que signifie la règle de l'unicité de l'opposition prévue par l'article 578 du code de procédure civile ?",
+      "back": "Sur opposition, le jugement rendu est toujours réputé contradictoire, quelle que soit la présence des parties à la nouvelle audience. Celui qui se laisse à nouveau juger par défaut à l'occasion de cette instance ne peut plus former une seconde opposition contre cette nouvelle décision : cette règle d'ordre public signifie qu'un défaillant ne dispose que d'une seule chance de revenir sur le jugement par défaut initialement rendu contre lui.",
+      "tags": ["unicité de l'opposition", "article 578"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "vr-ord-qcm-001",
+      "question": "Un jugement avant dire droit ordonne une expertise, sans trancher aucune partie du principal. La partie mécontente peut-elle en principe interjeter appel immédiatement contre cette décision ?",
+      "options": [
+        "Non, elle doit en principe attendre le jugement définitif pour attaquer les deux ensemble",
+        "Oui, tout jugement avant dire droit peut être frappé d'appel immédiat sans restriction",
+        "Oui, mais uniquement si l'expertise ordonnée présente un coût manifestement excessif",
+        "Non, aucun recours n'étant jamais ouvert contre un jugement ordonnant une expertise"
+      ],
+      "answer": 0,
+      "explanation": "Le principe est que le jugement avant dire droit ne peut faire l'objet d'un appel immédiat : la partie doit attendre le jugement définitif pour l'attaquer avec ce dernier, sous réserve d'exceptions comme l'autorisation du premier président d'appel immédiat contre un jugement ordonnant une expertise pour motif grave et légitime.",
+      "tags": ["jugement avant dire droit", "appel immédiat"]
+    },
+    {
+      "id": "vr-ord-qcm-002",
+      "question": "Une déclaration d'appel ne mentionne aucun chef du dispositif expressément critiqué par l'appelant. Quelle est la conséquence de cette omission sur la saisine de la cour d'appel ?",
+      "options": [
+        "La cour n'est saisie de rien et ne peut que confirmer le jugement de première instance",
+        "La cour est saisie de l'intégralité du litige, comme en cas d'appel tendant à l'annulation",
+        "La cour invite d'office l'appelant à préciser les chefs critiqués avant toute décision",
+        "La cour statue uniquement sur les chefs favorables à l'intimé dans le jugement attaqué"
+      ],
+      "answer": 0,
+      "explanation": "Depuis le décret du 6 mai 2017 interdisant l'appel général, si la déclaration ne mentionne aucun chef critiqué, la cour d'appel n'est saisie de rien et ne peut que confirmer le jugement, comme l'a rappelé un arrêt du 30 janvier 2020, cette absence d'effet dévolutif étant indépendante de la nullité éventuelle de la déclaration.",
+      "tags": ["déclaration d'appel", "absence d'effet dévolutif"]
+    },
+    {
+      "id": "vr-ord-qcm-003",
+      "question": "Un appelant dépose ses premières conclusions au fond quatre mois après la déclaration d'appel, en procédure ordinaire avec représentation obligatoire. Quelle sanction encourt-il ?",
+      "options": [
+        "L'irrecevabilité de ses conclusions, sans conséquence sur la déclaration d'appel elle-même",
+        "La caducité de la déclaration d'appel, faute d'avoir conclu dans le délai de trois mois",
+        "Aucune sanction, le délai de conclusion n'étant qu'indicatif pour l'appelant principal",
+        "La radiation automatique de l'affaire du rôle de la cour d'appel saisie du litige"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 908 du code de procédure civile, l'appelant doit déposer ses premières conclusions au fond dans un délai de trois mois à compter de la déclaration d'appel, sous peine de caducité de cette déclaration, sanction relevée d'office par le conseiller de la mise en état.",
+      "tags": ["délais de procédure d'appel", "article 908"]
+    },
+    {
+      "id": "vr-ord-qcm-004",
+      "question": "Une partie souhaite invoquer un nouveau moyen de droit devant la cour d'appel, sans avoir modifié l'objet de sa demande initiale. Cette invocation se heurte-t-elle au principe de concentration temporelle des prétentions ?",
+      "options": [
+        "Oui, les moyens nouveaux étant soumis aux mêmes règles strictes que les prétentions",
+        "Non, le principe de concentration ne s'applique qu'aux prétentions, non aux moyens",
+        "Oui, sauf si le moyen nouveau est présenté dès les toutes premières conclusions déposées",
+        "Non, mais uniquement lorsque le moyen nouveau est fondé sur un texte d'ordre public"
+      ],
+      "answer": 1,
+      "explanation": "Le principe de concentration temporelle des prétentions, introduit par le décret de 2017, ne s'applique pas aux moyens : les parties peuvent toujours invoquer de nouveaux moyens juridiques dans des conclusions ultérieures, cette liberté se distinguant nettement du régime plus strict applicable aux prétentions elles-mêmes.",
+      "tags": ["concentration temporelle", "moyens nouveaux"]
+    },
+    {
+      "id": "vr-ord-qcm-005",
+      "question": "Une partie ayant demandé la résolution d'un contrat en première instance sollicite désormais en appel l'annulation de ce même contrat. Cette prétention est-elle recevable au regard de l'article 565 du code de procédure civile ?",
+      "options": [
+        "Non, le changement de fondement juridique rendant nécessairement la prétention nouvelle",
+        "Oui, la prétention tend aux mêmes fins que celle du premier juge malgré le changement",
+        "Non, sauf si le défendeur consent expressément à l'examen de cette nouvelle prétention",
+        "Oui, mais uniquement si l'annulation et la résolution reposent sur des faits identiques"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 565 du code de procédure civile, une prétention n'est pas nouvelle si elle tend aux mêmes fins que celle soumise au premier juge, même avec un fondement juridique différent ; demander la nullité après avoir demandé la résolution poursuit la même fin d'anéantissement du contrat, la prétention étant donc recevable.",
+      "tags": ["prétentions nouvelles", "article 565"]
+    },
+    {
+      "id": "vr-ord-qcm-006",
+      "question": "Le conseiller de la mise en état est saisi d'une exception d'irrecevabilité des conclusions de l'intimé pour tardiveté. Cette question relève-t-elle de sa compétence exclusive ?",
+      "options": [
+        "Non, seule la formation collégiale peut statuer sur une irrecevabilité touchant l'appel",
+        "Non, cette question devant être tranchée par le premier président de la cour d'appel",
+        "Oui, cette question touche la procédure d'appel et relève du conseiller de la mise en état",
+        "Oui, mais uniquement si les parties donnent leur accord exprès pour cette compétence"
+      ],
+      "answer": 2,
+      "explanation": "Le conseiller de la mise en état connaît des fins de non-recevoir touchant à la procédure d'appel elle-même, telle que l'irrecevabilité des conclusions pour tardiveté, cette compétence étant exclusive jusqu'à son dessaisissement, contrairement aux fins de non-recevoir relevant de l'appel lui-même qui appartiennent à la formation collégiale.",
+      "tags": ["conseiller de la mise en état", "compétence exclusive"]
+    },
+    {
+      "id": "vr-ord-qcm-007",
+      "question": "Un appelant n'a pas exécuté le jugement de première instance frappé d'appel, bénéficiant de l'exécution provisoire de droit. Quelle conséquence l'intimé peut-il en tirer ?",
+      "options": [
+        "Il peut demander la radiation de l'affaire du rôle de la cour d'appel saisie du litige",
+        "Il peut obtenir automatiquement la confirmation du jugement sans nouvel examen",
+        "Il ne peut tirer aucune conséquence procédurale de ce défaut d'exécution volontaire",
+        "Il doit nécessairement attendre le jugement définitif de la cour d'appel pour agir"
+      ],
+      "answer": 0,
+      "explanation": "Depuis le décret du 11 décembre 2019 rendant l'exécution provisoire de droit pour les jugements de première instance, si l'appelant n'exécute pas la décision frappée d'appel, l'intimé peut demander au conseiller de la mise en état ou au premier président la radiation de l'affaire du rôle, sauf conséquences manifestement excessives.",
+      "tags": ["radiation du rôle", "article 524"]
+    },
+    {
+      "id": "vr-ord-qcm-008",
+      "question": "La cour d'appel infirme un jugement ayant mis fin à l'instance et estime qu'il serait de bonne justice de donner à l'affaire une solution définitive. Peut-elle statuer directement sur le fond sans renvoi au premier degré ?",
+      "options": [
+        "Non, la cour d'appel devant nécessairement renvoyer l'affaire devant le premier juge",
+        "Non, sauf accord exprès et unanime des parties pour ce mode de règlement du litige",
+        "Oui, par la technique de l'évocation, en invitant les parties à conclure sur le fond",
+        "Oui, systématiquement, dès lors qu'un jugement a mis fin à l'instance de première instance"
+      ],
+      "answer": 2,
+      "explanation": "La technique de l'évocation, prévue par l'article 568 du code de procédure civile, permet à la cour d'appel de statuer directement sur le fond lorsqu'elle infirme ou annule un jugement ayant mis fin à l'instance, si elle estime de bonne justice de donner une solution définitive, à condition d'inviter les parties à conclure sur le fond.",
+      "tags": ["évocation", "article 568"]
+    },
+    {
+      "id": "vr-ord-qcm-009",
+      "question": "Un jugement a été rendu en dernier ressort après citation du défendeur délivrée à personne. Ce jugement est-il susceptible d'opposition ?",
+      "options": [
+        "Oui, tout jugement rendu en dernier ressort ouvrant nécessairement la voie de l'opposition",
+        "Oui, mais uniquement si le défendeur n'a présenté aucune défense au fond du litige",
+        "Non, la citation ayant été délivrée à personne, le jugement est réputé contradictoire",
+        "Non, seul un pourvoi en cassation étant alors ouvert contre ce type de décision précise"
+      ],
+      "answer": 2,
+      "explanation": "Les deux conditions cumulatives du jugement par défaut sont le prononcé en dernier ressort et l'absence de citation délivrée à personne ; dès lors que la citation a été délivrée à personne, le jugement est réputé contradictoire en application de l'article 473, alinéa 2, ce qui ferme la voie de l'opposition.",
+      "tags": ["jugement réputé contradictoire", "article 473"]
+    },
+    {
+      "id": "vr-ord-qcm-010",
+      "question": "Un défaillant forme opposition contre un jugement par défaut, sans exposer aucun moyen à l'appui de sa demande. Cette opposition est-elle recevable en l'état ?",
+      "options": [
+        "Oui, la simple volonté de contester le jugement suffisant à la recevabilité du recours",
+        "Oui, à condition que le défaillant complète ses moyens avant l'audience de plaidoirie",
+        "Non, sauf si le demandeur initial ne conteste pas expressément cette absence de motivation",
+        "Non, l'opposition devant être motivée et exposer les moyens, à peine d'irrecevabilité"
+      ],
+      "answer": 3,
+      "explanation": "L'opposition doit être motivée et contenir les moyens du défaillant ; l'absence de motivation rend l'opposition irrecevable, cette exigence étant qualifiée selon la jurisprudence tantôt de vice de fond, tantôt de vice de forme selon les circonstances de l'espèce.",
+      "tags": ["opposition", "motivation obligatoire"]
+    },
+    {
+      "id": "vr-ord-qcm-011",
+      "question": "Un défaillant, après avoir formé opposition, ne comparaît de nouveau pas à la nouvelle audience fixée par le tribunal. Le jugement rendu sur cette opposition est-il par défaut, et une seconde opposition est-elle possible ?",
+      "options": [
+        "Le jugement est par défaut et une seconde opposition reste possible contre cette décision",
+        "Le jugement est nul de plein droit, faute de comparution du défaillant à cette audience",
+        "Le jugement doit être renvoyé à une nouvelle audience jusqu'à comparution effective",
+        "Le jugement est réputé contradictoire et aucune seconde opposition n'est plus possible"
+      ],
+      "answer": 3,
+      "explanation": "Selon la règle de l'unicité de l'opposition posée par l'article 578 du code de procédure civile, le jugement rendu sur opposition est toujours réputé contradictoire, et celui qui se laisse de nouveau juger par défaut ne peut plus former une seconde opposition contre cette nouvelle décision.",
+      "tags": ["unicité de l'opposition", "article 578"]
+    },
+    {
+      "id": "vr-ord-qcm-012",
+      "question": "Une partie a exécuté sans réserve un jugement de première instance, avant l'expiration du délai d'appel. Un tiers forme ensuite lui-même appel contre ce même jugement. La renonciation tacite à l'appel de la première partie fait-elle obstacle à l'appel de ce tiers ?",
+      "options": [
+        "Oui, la renonciation tacite d'une partie empêche définitivement tout appel ultérieur",
+        "Oui, mais uniquement si le tiers avait connaissance de cette exécution sans réserve",
+        "Non, sauf si le jugement exécuté porte sur une matière relevant de l'ordre public",
+        "Non, la renonciation ne vaut pas si une autre partie interjette elle-même appel après"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'article 558 du code de procédure civile, la renonciation à l'appel, même tacite par exécution sans réserve du jugement, ne vaut pas si une autre partie interjette elle-même appel après cette exécution, ce qui permet à l'appel formé par cette autre partie de produire son plein effet.",
+      "tags": ["renonciation à l'appel", "article 558"]
+    }
+  ]
+}

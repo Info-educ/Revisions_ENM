@@ -1,0 +1,201 @@
+{
+  "id": "voies-recours-extraordinaires",
+  "title": "Les voies de recours extraordinaires : tierce opposition, révision, cassation, réexamen",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "vr-extra-fc-001",
+      "front": "Pourquoi la tierce opposition est-elle qualifiée de paradoxale au sein des voies de recours extraordinaires ?",
+      "back": "Bien que classée parmi les voies extraordinaires, la tierce opposition est en réalité ouverte contre tout jugement, sauf disposition contraire, ce qui la rapproche davantage du régime des voies ordinaires largement ouvertes. Elle permet à un tiers lésé par un jugement auquel il n'a pas été partie de le faire rétracter ou réformer à son égard, ce jugement lui étant opposable bien qu'il n'ait pu se défendre lors de son prononcé.",
+      "tags": ["tierce opposition", "paradoxe"]
+    },
+    {
+      "id": "vr-extra-fc-002",
+      "front": "Quelles sont les quatre causes limitatives d'ouverture du recours en révision énumérées par l'article 595 du code de procédure civile ?",
+      "back": "La première cause est la fraude de la partie adverse ayant surpris la décision à son profit. La deuxième est le recouvrement, depuis le jugement, de pièces décisives qui avaient été retenues du fait d'une autre partie. La troisième est le jugement rendu sur des pièces reconnues ou judiciairement déclarées fausses depuis lors. La quatrième est le jugement rendu sur des attestations, témoignages ou serments judiciaires déclarés faux depuis le jugement.",
+      "tags": ["recours en révision", "article 595"]
+    },
+    {
+      "id": "vr-extra-fc-003",
+      "front": "Pourquoi le pourvoi en cassation n'est-il ni une voie de rétractation ni une voie de réformation ?",
+      "back": "Le pourvoi en cassation n'est pas une voie de rétractation car l'affaire ne revient pas devant les mêmes juges, et ce n'est pas non plus une voie de réformation car la Cour de cassation ne réexamine pas entièrement l'affaire au fond. Ce n'est pas le procès qui lui est déféré, mais seulement sa solution : la Cour recherche uniquement si la solution donnée au litige est conforme au droit, sans prendre en compte les faits souverainement constatés par les juges du fond.",
+      "tags": ["pourvoi en cassation", "nature du recours"]
+    },
+    {
+      "id": "vr-extra-fc-004",
+      "front": "Quels sont les trois types de vices de motivation identifiés parmi les sept cas d'ouverture à cassation ?",
+      "back": "Le défaut de motifs est un vice de forme regroupant l'absence totale de motifs, la contradiction entre motifs, et le défaut de réponse à conclusions. Le manque de base légale est un vice de fond, caractérisé par des motifs insuffisants pour permettre à la Cour de contrôler l'application de la règle de droit. La dénaturation est une motivation qualitativement contestable, résultant d'une mauvaise lecture d'un acte clair ou d'une fausse interprétation d'un écrit clair.",
+      "tags": ["vices de motivation", "cassation"]
+    },
+    {
+      "id": "vr-extra-fc-005",
+      "front": "Quelle est la différence entre la cassation avec renvoi, principe posé par l'article 626 du code de procédure civile, et la cassation sans renvoi de l'article 627 ?",
+      "back": "Le principe est la cassation avec renvoi : la Cour renvoie l'affaire à une autre juridiction de même nature et de même degré, autrement composée, les parties disposant de deux mois pour la saisir ; si la juridiction de renvoi résiste, un second pourvoi impose la saisine de l'assemblée plénière. La cassation sans renvoi demeure l'exception : elle suppose soit que la cassation n'implique pas qu'il soit statué à nouveau sur le fond, soit que l'intérêt d'une bonne administration de la justice le justifie et que les faits permettent d'appliquer la règle de droit.",
+      "tags": ["cassation avec renvoi", "cassation sans renvoi"]
+    },
+    {
+      "id": "vr-extra-fc-006",
+      "front": "Quelles sont les conditions du réexamen en matière civile institué par la loi du 18 novembre 2016 ?",
+      "back": "Le réexamen n'est possible qu'à l'égard d'une décision civile définitive rendue en matière d'état des personnes, au bénéfice de toute personne ayant été partie à l'instance et ayant intérêt à le solliciter. Il suppose qu'un arrêt de la Cour européenne des droits de l'homme ait constaté que cette décision a été prononcée en violation de la Convention ou de ses protocoles, et que la violation ait entraîné des conséquences dommageables auxquelles la satisfaction équitable accordée par la Cour ne pourrait mettre un terme, dans un délai d'un an à compter de la décision européenne.",
+      "tags": ["réexamen", "état des personnes"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "vr-extra-qcm-001",
+      "question": "Un garant subit les conséquences d'un jugement condamnant son débiteur, alors qu'il n'a pas été partie à cette instance. Peut-il former tierce opposition contre ce jugement ?",
+      "options": [
+        "Oui, un tiers lésé ou menacé d'un préjudice par le jugement peut former ce recours",
+        "Non, seules les parties à l'instance initiale peuvent contester le jugement rendu",
+        "Non, le garant devant nécessairement attendre d'être lui-même assigné en paiement",
+        "Oui, mais uniquement si le jugement a été rendu en premier ressort par le tribunal"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'article 582 du code de procédure civile, la tierce opposition est ouverte à tous les tiers lésés ou menacés d'un préjudice en raison d'un jugement auquel ils n'ont pas été parties, comme dans l'exemple classique du garant subissant les effets d'une condamnation prononcée contre le débiteur garanti.",
+      "tags": ["tierce opposition", "article 582"]
+    },
+    {
+      "id": "vr-extra-qcm-002",
+      "question": "Un tiers ayant été représenté par son mandataire conventionnel lors de l'instance initiale souhaite former tierce opposition contre le jugement rendu. Cette voie de recours lui est-elle ouverte ?",
+      "options": [
+        "Oui, la représentation ne fait jamais obstacle à l'exercice de la tierce opposition",
+        "Non, une personne représentée dans l'instance ne peut former tierce opposition",
+        "Oui, mais uniquement si son mandataire ne l'a pas informé de l'issue du litige",
+        "Non, sauf si le tiers invoque des moyens totalement étrangers à la représentation"
+      ],
+      "answer": 1,
+      "explanation": "Une personne représentée dans l'instance par son mandataire légal ou conventionnel ne peut former tierce opposition, cette voie de recours étant réservée à ceux qui n'ont ni été parties ni représentés lors de l'instance ayant donné lieu au jugement contesté.",
+      "tags": ["tierce opposition", "représentation"]
+    },
+    {
+      "id": "vr-extra-qcm-003",
+      "question": "Une partie découvre, plusieurs années après un jugement passé en force de chose jugée, que son adversaire avait dissimulé des revenus déterminants pour la solution du litige. Quelle voie de recours lui permet de contester cette décision ?",
+      "options": [
+        "L'appel, dès lors que le délai normal n'a pas encore expiré au jour de la découverte",
+        "La tierce opposition, ouverte à toute personne lésée par les effets du jugement",
+        "Le recours en révision, fondé sur la fraude ayant surpris la décision contestée",
+        "Le pourvoi en cassation, pour violation des règles relatives à la preuve des faits"
+      ],
+      "answer": 2,
+      "explanation": "Le recours en révision permet de faire rétracter un jugement passé en force de chose jugée lorsque la décision a été surprise par la fraude de la partie adverse, telle que la dissimulation de revenus déterminants, cette fraude devant avoir été déterminante pour la solution du litige.",
+      "tags": ["recours en révision", "fraude"]
+    },
+    {
+      "id": "vr-extra-qcm-004",
+      "question": "Une décision de justice demeure susceptible d'un pourvoi en cassation suspensif d'exécution, en matière de divorce. Cette décision peut-elle faire l'objet d'un recours en révision ?",
+      "options": [
+        "Non, seules les décisions passées en force de chose jugée peuvent être ainsi attaquées",
+        "Oui, le recours en révision peut toujours être formé indépendamment du caractère suspensif",
+        "Oui, mais uniquement si la fraude alléguée porte sur une pièce décisive du dossier",
+        "Non, le recours en révision étant réservé aux seules décisions rendues en référé"
+      ],
+      "answer": 0,
+      "explanation": "Le recours en révision suppose que le jugement attaqué soit passé en force de chose jugée, c'est-à-dire qu'il ne puisse plus faire l'objet d'une voie de recours suspensive d'exécution ; une décision encore susceptible d'un pourvoi suspensif, comme en matière de divorce, ne peut donc pas faire l'objet de ce recours.",
+      "tags": ["recours en révision", "force de chose jugée"]
+    },
+    {
+      "id": "vr-extra-qcm-005",
+      "question": "Un jugement en dernier ressort a statué en violation manifeste d'une règle de droit. Quelle est la nature du contrôle exercé par la Cour de cassation saisie d'un pourvoi contre cette décision ?",
+      "options": [
+        "Un contrôle portant sur l'ensemble des faits et du droit, comme en appel classique",
+        "Un contrôle limité à la conformité au droit de la solution donnée au litige",
+        "Un contrôle discrétionnaire laissé à l'appréciation souveraine de la Cour de cassation",
+        "Un contrôle limité aux seules questions de compétence territoriale du premier juge"
+      ],
+      "answer": 1,
+      "explanation": "La Cour de cassation ne connaît pas du fond des affaires : elle recherche uniquement si la solution donnée au litige est conforme au droit, sans pouvoir remettre en cause les faits souverainement constatés par les juges du fond, ce qui distingue fondamentalement ce contrôle de celui exercé par une juridiction d'appel.",
+      "tags": ["pourvoi en cassation", "contrôle de la Cour"]
+    },
+    {
+      "id": "vr-extra-qcm-006",
+      "question": "Un plaideur invoque pour la première fois devant la Cour de cassation un moyen tiré d'une incompétence qu'il n'avait jamais soulevée auparavant devant les juges du fond. Ce moyen est-il recevable ?",
+      "options": [
+        "Oui, l'incompétence pouvant toujours être invoquée pour la première fois en cassation",
+        "Oui, mais uniquement si l'incompétence invoquée relève d'une règle d'ordre public",
+        "Non, l'incompétence devant être invoquée avant toute défense au fond du litige",
+        "Non, sauf si le plaideur démontre avoir découvert cette incompétence après le jugement"
+      ],
+      "answer": 2,
+      "explanation": "Le cas d'ouverture à cassation tiré de l'incompétence doit être invoqué in limine litis, c'est-à-dire avant toute fin de non-recevoir ou défense au fond ; les parties ne peuvent donc pas l'invoquer pour la première fois devant la Cour de cassation, même si les juges de cassation peuvent eux-mêmes attirer l'attention sur cette question.",
+      "tags": ["incompétence", "cassation"]
+    },
+    {
+      "id": "vr-extra-qcm-007",
+      "question": "Un jugement est motivé par la simple reprise des conclusions déposées par l'une des parties, sans développement propre du juge. Quel cas d'ouverture à cassation cette pratique peut-elle caractériser ?",
+      "options": [
+        "Le défaut de motifs, vice de forme regroupant l'absence de motivation véritable",
+        "L'incompétence du juge ayant statué sur le fond du litige soumis à son appréciation",
+        "La perte de fondement juridique, résultant de l'annulation postérieure d'un texte",
+        "La contrariété de jugements entre deux décisions rendues par des tribunaux distincts"
+      ],
+      "answer": 0,
+      "explanation": "La reproduction pure et simple des conclusions d'une partie, sans motivation propre du juge, peut caractériser un défaut de motifs, vice de forme regroupant l'absence totale de motifs, la contradiction entre motifs, et le défaut de réponse à conclusions, tel que sanctionné par la jurisprudence.",
+      "tags": ["défaut de motifs", "vices de motivation"]
+    },
+    {
+      "id": "vr-extra-qcm-008",
+      "question": "La Cour de cassation casse un arrêt et estime que les faits déjà constatés par les juges du fond permettent d'appliquer directement la règle de droit, sans qu'il soit nécessaire de statuer à nouveau sur le fond. Quelle solution peut-elle retenir ?",
+      "options": [
+        "Une cassation avec renvoi devant une juridiction de même degré et de même nature",
+        "Une cassation sans renvoi, si la bonne administration de la justice le justifie",
+        "Un simple arrêt de rejet confirmant la solution retenue par les juges du fond initiaux",
+        "Une transmission automatique du dossier à l'assemblée plénière de la Cour de cassation"
+      ],
+      "answer": 1,
+      "explanation": "La Cour de cassation peut casser sans renvoi lorsque la cassation n'implique pas qu'il soit statué à nouveau sur le fond, ou lorsque l'intérêt d'une bonne administration de la justice le justifie et que les faits constatés permettent d'appliquer directement la règle de droit appropriée.",
+      "tags": ["cassation sans renvoi", "article 627"]
+    },
+    {
+      "id": "vr-extra-qcm-009",
+      "question": "Une juridiction de renvoi, saisie après une première cassation, résiste et retient la même solution que celle censurée par la Cour de cassation. Quelle formation doit obligatoirement être saisie d'un second pourvoi contre cette nouvelle décision ?",
+      "options": [
+        "Une chambre ordinaire de la Cour de cassation statuant dans sa composition habituelle",
+        "La chambre mixte de la Cour de cassation, réunissant plusieurs chambres spécialisées",
+        "L'assemblée plénière, dont la décision s'impose à la juridiction de renvoi désignée",
+        "Une nouvelle juridiction de renvoi désignée directement par le premier président"
+      ],
+      "answer": 2,
+      "explanation": "Si la juridiction de renvoi résiste à la première cassation en retenant la même solution, un second pourvoi impose la saisine obligatoire de l'assemblée plénière de la Cour de cassation, dont la décision s'imposera alors à la seconde juridiction de renvoi désignée pour statuer.",
+      "tags": ["cassation avec renvoi", "assemblée plénière"]
+    },
+    {
+      "id": "vr-extra-qcm-010",
+      "question": "Une décision civile définitive rendue en matière de filiation fait l'objet d'un arrêt de la Cour européenne des droits de l'homme constatant une violation grave de la Convention. Quelle voie de recours permet de solliciter la remise en cause de cette décision en droit interne ?",
+      "options": [
+        "Le recours en révision, fondé sur la fraude ayant entaché la procédure initiale",
+        "La tierce opposition, ouverte à toute personne intéressée par cette décision",
+        "Le pourvoi en cassation, pour violation des règles relatives à l'état des personnes",
+        "Le réexamen en matière civile, institué par la loi du 18 novembre 2016 en France"
+      ],
+      "answer": 3,
+      "explanation": "Le réexamen en matière civile, institué par la loi n° 2016-1547 du 18 novembre 2016, est réservé aux décisions civiles définitives rendues en matière d'état des personnes, telles que la filiation, lorsqu'un arrêt de la Cour européenne des droits de l'homme a constaté une violation grave de la Convention.",
+      "tags": ["réexamen", "état des personnes"]
+    },
+    {
+      "id": "vr-extra-qcm-011",
+      "question": "Une tierce opposition est formée par un créancier contre un jugement rendu entre son débiteur et un tiers, en invoquant que ce jugement a été rendu en fraude de ses droits. Cette action est-elle recevable malgré le principe d'exclusion des ayants cause ?",
+      "options": [
+        "Non, les créanciers d'une partie sont toujours exclus de la tierce opposition possible",
+        "Non, seule la partie elle-même pourrait contester ce jugement rendu à son encontre",
+        "Oui, mais uniquement si le créancier était déjà partie à l'instance initiale engagée",
+        "Oui, une exception est admise pour fraude aux droits ou moyens propres invoqués"
+      ],
+      "answer": 3,
+      "explanation": "Bien que les ayants cause universels ou à titre universel soient en principe exclus de la tierce opposition, l'article 583, alinéa 2, du code de procédure civile prévoit une exception permettant aux créanciers et autres ayants cause de former ce recours si le jugement a été rendu en fraude de leurs droits ou s'ils invoquent des moyens qui leur sont propres.",
+      "tags": ["tierce opposition", "article 583"]
+    },
+    {
+      "id": "vr-extra-qcm-012",
+      "question": "Une tierce opposition principale est formée trente-cinq ans après le prononcé du jugement contesté, sans qu'aucun texte spécial n'ait réduit ce délai. Ce recours est-il recevable au regard du délai de droit commun ?",
+      "options": [
+        "Oui, la tierce opposition principale pouvant être formée sans aucune limite de temps",
+        "Oui, à condition que le tiers démontre n'avoir eu connaissance du jugement que récemment",
+        "Non, le délai applicable à la tierce opposition principale étant de dix ans seulement",
+        "Non, le délai de droit commun de trente ans à compter du jugement étant expiré"
+      ],
+      "answer": 3,
+      "explanation": "Le délai de droit commun de la tierce opposition principale est de trente ans à compter du jugement, sauf délais plus courts prévus par des textes spéciaux ; un recours formé trente-cinq ans après le prononcé du jugement est donc irrecevable pour dépassement de ce délai de droit commun.",
+      "tags": ["tierce opposition", "délai de trente ans"]
+    }
+  ]
+}

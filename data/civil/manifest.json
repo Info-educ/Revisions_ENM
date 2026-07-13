@@ -407,6 +407,18 @@
       "file": "theorie-voies-recours.json",
       "title": "La théorie générale des voies de recours",
       "category": "Procédure civile"
+    },
+    {
+      "id": "voies-recours-extraordinaires",
+      "file": "voies-recours-extraordinaires.json",
+      "title": "Les voies de recours extraordinaires : tierce opposition, révision, cassation, réexamen",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "voies-recours-ordinaires",
+      "file": "voies-recours-ordinaires.json",
+      "title": "Les voies de recours ordinaires : l'appel et l'opposition",
+      "category": "Procédure civile"
     }
   ]
 }
