@@ -1,0 +1,143 @@
+{
+  "id": "recours-devant-cedh",
+  "title": "Les recours devant la CEDH",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "cedh-fc-001",
+      "front": "Quelles sont les cinq conditions cumulatives de recevabilité d'une requête individuelle devant la CEDH ?",
+      "back": "La première est l'épuisement des voies de recours internes utiles, efficaces et adéquates, fondé sur le principe de subsidiarité. La deuxième est le respect du délai de quatre mois suivant la décision interne définitive, délai ramené de six à quatre mois par le Protocole 15. La troisième est d'avoir soumis en substance le grief aux autorités nationales. La quatrième exclut les requêtes anonymes, déjà examinées sans faits nouveaux, ou manifestement mal fondées ou abusives. La cinquième, introduite par le Protocole 14, exige un préjudice important, apprécié in concreto.",
+      "tags": ["conditions de recevabilité", "article 35"]
+    },
+    {
+      "id": "cedh-fc-002",
+      "front": "Quelles sont les quatre formations de jugement de la CEDH et leur logique de filtre progressif ?",
+      "back": "Le juge unique ne peut que déclarer une requête irrecevable ou la rayer du rôle, sans jamais statuer sur le fond. Le comité de trois juges peut, depuis le Protocole 14, statuer aussi sur le fond en une seule décision si la question relève d'une jurisprudence bien établie, à l'unanimité. La chambre de sept juges a une compétence résiduelle dès qu'aucune irrecevabilité n'a été prononcée en amont. La Grande chambre de dix-sept juges, formation la plus solennelle, est saisie par dessaisissement d'une chambre ou par renvoi accepté par un collège de cinq juges.",
+      "tags": ["formations de jugement", "filtre progressif"]
+    },
+    {
+      "id": "cedh-fc-003",
+      "front": "Pourquoi dit-on que l'arrêt de la CEDH est déclaratoire, et quelle en est la conséquence pratique pour le requérant qui obtient gain de cause ?",
+      "back": "L'arrêt de la CEDH constate la violation ou la non-violation de la Convention mais ne dispose pas d'une force exécutoire comparable à une décision nationale : il ne peut ni abroger une loi, ni annuler un jugement, ni rouvrir d'office une procédure nationale. En conséquence, la partie qui obtient gain de cause à Strasbourg n'obtient pas automatiquement un nouveau procès en France : elle reçoit une condamnation symbolique de l'État et, le cas échéant, une satisfaction équitable, l'État demeurant néanmoins obligé de se conformer à l'arrêt.",
+      "tags": ["arrêt déclaratoire", "absence de force exécutoire"]
+    },
+    {
+      "id": "cedh-fc-004",
+      "front": "Quelles sont les trois catégories de mesures vérifiées par le Comité des ministres dans le cadre du contrôle de l'exécution des arrêts définitifs ?",
+      "back": "Le Comité des ministres vérifie d'abord le paiement de la satisfaction équitable dans le délai fixé, généralement trois mois. Il vérifie ensuite les mesures individuelles destinées à remettre la partie lésée dans la situation antérieure à la violation, telles que la réouverture d'une procédure ou la libération d'un détenu. Il vérifie enfin les mesures générales destinées à éviter de nouvelles violations similaires, telles qu'une modification législative ou un changement de jurisprudence, cette surveillance pouvant être standard ou soutenue selon la gravité de la violation.",
+      "tags": ["Comité des ministres", "contrôle de l'exécution"]
+    },
+    {
+      "id": "cedh-fc-005",
+      "front": "Dans quels domaines le réexamen d'une décision nationale est-il légalement possible en France à la suite d'une condamnation de la CEDH ?",
+      "back": "En matière pénale, la personne condamnée peut solliciter le réexamen depuis la loi de 2000, devant une Cour de réexamen pénale spéciale constituée au sein de la Cour de cassation. En matière civile, le réexamen n'est possible que pour les décisions définitives touchant à l'état des personnes, tels que la filiation, le mariage ou l'adoption, depuis la loi de 2016, devant une Cour de réexamen civile également constituée au sein de la Cour de cassation, dans un délai d'un an à compter de la décision de la CEDH. Dans les autres matières civiles, aucun mécanisme légal de réexamen n'existe en principe.",
+      "tags": ["réexamen", "état des personnes"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "cedh-qcm-001",
+      "question": "Un requérant français saisit la CEDH sans avoir formé de pourvoi en cassation contre la décision qui lui fait grief. Sa requête respecte-t-elle la condition d'épuisement des voies de recours internes ?",
+      "options": [
+        "Non, le pourvoi en cassation constituant une voie à épuiser avant toute saisine de la Cour",
+        "Oui, seul l'appel devant être épuisé avant toute saisine de cette Cour européenne",
+        "Non, sauf si le requérant démontre l'inutilité manifeste de ce pourvoi en cassation",
+        "Oui, le pourvoi en cassation n'étant jamais considéré comme une voie de recours utile"
+      ],
+      "answer": 0,
+      "explanation": "Le principe de subsidiarité impose au requérant d'épuiser toutes les voies de recours utiles, efficaces et adéquates ; en France, le pourvoi en cassation constitue une telle voie à épuiser, le délai de quatre mois courant précisément à compter de l'arrêt de cassation.",
+      "tags": ["épuisement des recours internes", "pourvoi en cassation"]
+    },
+    {
+      "id": "cedh-qcm-002",
+      "question": "Un requérant dépose sa requête cinq mois après la décision interne définitive rendue à son encontre. Cette requête respecte-t-elle le délai applicable depuis le Protocole 15 ?",
+      "options": [
+        "Oui, le délai de six mois antérieur au Protocole 15 restant seul applicable en pratique",
+        "Non, le délai de quatre mois issu du Protocole 15 étant désormais expiré ici",
+        "Oui, aucun délai n'étant opposable dès lors que la décision interne est irrévocable",
+        "Non, sauf si le requérant justifie d'un motif légitime ayant retardé sa saisine"
+      ],
+      "answer": 1,
+      "explanation": "Depuis l'entrée en vigueur du Protocole 15, le délai de saisine de la Cour a été ramené de six à quatre mois à compter de la décision interne définitive ; une requête déposée cinq mois après cette décision est donc tardive et irrecevable pour ce motif.",
+      "tags": ["délai de quatre mois", "Protocole 15"]
+    },
+    {
+      "id": "cedh-qcm-003",
+      "question": "Un juge unique de la CEDH estime qu'une requête n'est pas manifestement irrecevable. Peut-il statuer lui-même sur le fond de cette affaire ?",
+      "options": [
+        "Oui, le juge unique disposant d'une compétence pleine et entière sur le fond du litige",
+        "Oui, mais uniquement si l'affaire relève d'une jurisprudence déjà bien établie",
+        "Non, il doit alors transmettre la requête au comité de juges ou à la chambre",
+        "Non, il doit dans ce cas renvoyer directement l'affaire devant la Grande chambre"
+      ],
+      "answer": 2,
+      "explanation": "Le juge unique ne peut en aucun cas statuer sur le fond d'une affaire : son rôle se limite au filtrage, et si la requête n'est pas manifestement irrecevable, il doit la transmettre au comité de trois juges ou à la chambre selon les cas.",
+      "tags": ["juge unique", "filtrage"]
+    },
+    {
+      "id": "cedh-qcm-004",
+      "question": "Une chambre de sept juges estime qu'une affaire soulève une question grave d'interprétation de la Convention risquant de créer une contradiction avec un arrêt antérieur. Que peut-elle décider ?",
+      "options": [
+        "Elle doit statuer elle-même sur le fond, sans transmission à une autre formation",
+        "Elle doit renvoyer l'affaire au comité de trois juges pour un nouvel examen préalable",
+        "Elle peut se dessaisir au profit de la Grande chambre, sans opposition des parties",
+        "Elle peut seulement suggérer aux parties de solliciter elles-mêmes un avis consultatif"
+      ],
+      "answer": 2,
+      "explanation": "Une chambre peut se dessaisir au profit de la Grande chambre lorsque l'affaire soulève une question grave d'interprétation ou risque de créer une contradiction avec un arrêt antérieur ; depuis le Protocole 15, les parties ne peuvent plus s'opposer à ce dessaisissement.",
+      "tags": ["dessaisissement", "Grande chambre"]
+    },
+    {
+      "id": "cedh-qcm-005",
+      "question": "Une partie ayant obtenu un constat de violation de la Convention européenne souhaite faire annuler directement le jugement national à l'origine de cette violation. Cette annulation résulte-t-elle automatiquement de l'arrêt de la CEDH ?",
+      "options": [
+        "Oui, l'arrêt de la CEDH emportant annulation immédiate de la décision nationale visée",
+        "Oui, mais uniquement si la violation constatée porte sur un droit indérogeable",
+        "Non, sauf si l'État concerné consent expressément à cette annulation directe",
+        "Non, l'arrêt étant déclaratoire et ne pouvant annuler le jugement national visé"
+      ],
+      "answer": 3,
+      "explanation": "L'arrêt de la CEDH est déclaratoire par nature : il constate la violation mais ne dispose pas d'une force exécutoire lui permettant d'abroger une loi ou d'annuler un jugement national, l'État demeurant seulement obligé de se conformer à cet arrêt selon ses propres mécanismes internes.",
+      "tags": ["arrêt déclaratoire", "absence d'annulation automatique"]
+    },
+    {
+      "id": "cedh-qcm-006",
+      "question": "Une personne condamnée pénalement en France sollicite le réexamen de sa condamnation après un constat de violation de la Convention par la CEDH. Cette voie lui est-elle ouverte ?",
+      "options": [
+        "Non, aucun mécanisme de réexamen n'existant en matière pénale en droit français",
+        "Oui, mais uniquement pour une infraction relevant de la cour d'assises jugée",
+        "Non, seul un recours en grâce présidentielle permettant de remédier à cette situation",
+        "Oui, devant une Cour de réexamen pénale spéciale au sein de la Cour de cassation"
+      ],
+      "answer": 3,
+      "explanation": "Depuis la loi du 15 juin 2000, le réexamen est possible en matière pénale devant une Cour de réexamen pénale spéciale constituée au sein de la Cour de cassation, à condition que la violation constatée par la CEDH ait entraîné des conséquences dommageables auxquelles la satisfaction équitable ne peut mettre un terme.",
+      "tags": ["réexamen pénal", "Cour de cassation"]
+    },
+    {
+      "id": "cedh-qcm-007",
+      "question": "Une décision civile définitive rendue en matière de contrat commercial fait l'objet d'un constat de violation par la CEDH. Cette décision peut-elle faire l'objet d'un réexamen en droit français ?",
+      "options": [
+        "Non, le réexamen civil étant réservé aux décisions en matière d'état des personnes",
+        "Oui, le réexamen civil s'appliquant à toutes les décisions définitives sans exception",
+        "Oui, mais uniquement si le montant du litige commercial dépasse un seuil déterminé",
+        "Non, aucun mécanisme de réexamen n'existant en matière civile en droit français"
+      ],
+      "answer": 0,
+      "explanation": "Le réexamen en matière civile, institué par la loi du 18 novembre 2016, est strictement réservé aux décisions civiles définitives rendues en matière d'état des personnes, telles que la filiation, le mariage ou l'adoption, à l'exclusion des autres matières civiles comme le droit des contrats commerciaux.",
+      "tags": ["réexamen civil", "état des personnes"]
+    },
+    {
+      "id": "cedh-qcm-008",
+      "question": "Le Comité des ministres constate qu'un État partie refuse obstinément d'exécuter un arrêt définitif de la CEDH le condamnant. Quel mécanisme peut-il déclencher depuis le Protocole 14 ?",
+      "options": [
+        "Une simple recommandation politique sans portée contraignante à l'égard de cet État",
+        "Un recours en manquement porté devant la Cour, qui renvoie ensuite au Comité",
+        "Une exclusion automatique et immédiate de cet État du Conseil de l'Europe concerné",
+        "Une saisine automatique de la Grande chambre pour rejuger l'ensemble de l'affaire initiale"
+      ],
+      "answer": 1,
+      "explanation": "Depuis le Protocole 14, le Comité des ministres dispose du recours en manquement contre un État qui refuse d'exécuter un arrêt définitif : la Cour constate alors le manquement et renvoie au Comité des ministres pour déterminer les mesures à prendre, ce mécanisme ayant été utilisé pour la première fois en décembre 2017.",
+      "tags": ["recours en manquement", "Protocole 14"]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "frais-instance-aide-juridique",
+  "title": "Les frais de l'instance et l'aide juridique",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "frais-fc-001",
+      "front": "Quelle différence sépare les dépens des frais irrépétibles couverts par l'article 700 du code de procédure civile ?",
+      "back": "Les dépens regroupent les frais du procès limitativement énumérés par le code de procédure civile, tels que les droits de greffe, les frais de traduction, les frais d'instruction ou les émoluments des officiers publics, que le gagnant peut faire payer au perdant. Les frais irrépétibles, tels que les honoraires de plaidoirie et de postulation de l'avocat, restent en principe à la charge de celui qui les a engagés ; l'article 700 permet cependant au juge de condamner la partie perdante à en compenser une partie au profit de l'autre partie.",
+      "tags": ["dépens", "article 700"]
+    },
+    {
+      "id": "frais-fc-002",
+      "front": "Quelles sont les trois dérogations notables au principe selon lequel la partie perdante est condamnée aux dépens ?",
+      "back": "La première dérogation permet au tribunal de partager les dépens entre les plaideurs, voire de les mettre entièrement à la charge du gagnant, par une décision spécialement motivée. La deuxième concerne la partie perdante bénéficiaire de l'aide juridique, qui échappe en pratique à la charge des dépens. La troisième concerne la mesure d'instruction in futurum, où la partie défenderesse à la demande ne peut être condamnée ni aux dépens ni sur le fondement de l'article 700, selon un arrêt du 21 novembre 2024.",
+      "tags": ["dépens", "dérogations"]
+    },
+    {
+      "id": "frais-fc-003",
+      "front": "Quelles sont les quatre conditions cumulatives d'octroi de l'aide juridictionnelle, durcies par la loi du 28 décembre 2019 ?",
+      "back": "La première condition est de formuler une demande, formalité obligatoire pour bénéficier de l'aide. La deuxième est l'insuffisance de ressources, appréciée selon le revenu fiscal de référence et des plafonds variant selon le foyer. La troisième est l'absence de patrimoine excessif, mobilier ou immobilier, au-delà de certains plafonds. La quatrième est le caractère non manifestement irrecevable ou non dénué de fondement de l'action, condition qui ne s'applique qu'au demandeur, à laquelle s'ajoute l'absence de protection juridique déjà couvrant les frais du procès.",
+      "tags": ["aide juridictionnelle", "conditions d'octroi"]
+    },
+    {
+      "id": "frais-fc-004",
+      "front": "Quel est l'effet de la demande d'aide juridictionnelle sur les délais pour agir en justice ?",
+      "back": "La demande d'aide juridictionnelle interrompt le délai pour agir devant toutes les juridictions, qu'il s'agisse du premier degré, de l'appel ou de la cassation, à condition d'être adressée au bureau avant l'expiration du délai initial ; une nouvelle action doit alors être introduite dans un délai de même durée courant à compter de la notification de la décision du bureau. Cette demande interrompt également le délai de péremption, et la juridiction saisie doit surseoir à statuer au fond dans l'attente de la décision sur l'aide, sauf irrecevabilité manifeste de l'action.",
+      "tags": ["aide juridictionnelle", "interruption des délais"]
+    },
+    {
+      "id": "frais-fc-005",
+      "front": "Quels sont les deux principaux effets de l'admission à l'aide juridictionnelle pour son bénéficiaire ?",
+      "back": "Le premier effet est le concours gratuit des auxiliaires de justice : les avocats et officiers publics ministériels assistent le bénéficiaire, celui-ci choisissant lui-même son auxiliaire, une désignation d'office n'intervenant qu'à défaut de choix. Le second effet est la dispense de paiement de certains frais : l'État avance notamment les taxes des témoins et les frais de correspondance, et seuls les bénéficiaires de l'aide totale sont dispensés du droit de plaidoirie de treize euros, l'État pouvant ensuite recouvrer ces sommes avancées dans un délai de cinq ans.",
+      "tags": ["aide juridictionnelle", "effets de l'admission"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "frais-qcm-001",
+      "question": "Un plaideur gagnant souhaite récupérer auprès du perdant les honoraires de plaidoirie versés à son avocat pour la première instance. Ces honoraires entrent-ils dans les dépens récupérables ?",
+      "options": [
+        "Non, les honoraires de plaidoirie restant à la charge de la partie qui les a engagés",
+        "Oui, tous les frais engagés pour le procès entrant dans les dépens récupérables",
+        "Oui, mais uniquement si le juge estime que le perdant dispose de ressources suffisantes",
+        "Non, sauf si l'avocat a lui-même sollicité expressément leur inclusion dans les dépens"
+      ],
+      "answer": 0,
+      "explanation": "Les honoraires de plaidoirie et de postulation de l'avocat n'entrent pas dans les dépens énumérés par le code de procédure civile et restent en principe à la charge de la partie qui les a engagés, sauf compensation partielle possible par le biais de l'article 700 du même code.",
+      "tags": ["dépens", "honoraires d'avocat"]
+    },
+    {
+      "id": "frais-qcm-002",
+      "question": "Une partie perdante conteste la somme allouée à son adversaire au titre de l'article 700 du code de procédure civile, estimant son montant excessif. Cette appréciation du juge du fond est-elle susceptible d'un contrôle par la Cour de cassation ?",
+      "options": [
+        "Oui, la Cour de cassation exerçant un contrôle plein sur le montant alloué au titre",
+        "Non, l'appréciation de ces frais relevant du pouvoir souverain des juges du fond",
+        "Oui, mais uniquement si le montant alloué dépasse un plafond fixé par décret",
+        "Non, sauf si les parties avaient fixé conventionnellement un montant différent"
+      ],
+      "answer": 1,
+      "explanation": "Selon un arrêt du 25 mai 2023, l'appréciation de l'article 700 du code de procédure civile relève du pouvoir souverain des juges du fond, sans contrôle possible de la Cour de cassation, les conventions des parties ne pouvant elles-mêmes porter atteinte à ce pouvoir discrétionnaire.",
+      "tags": ["article 700", "pouvoir souverain"]
+    },
+    {
+      "id": "frais-qcm-003",
+      "question": "Un tribunal condamne aux dépens la partie gagnante plutôt que la partie perdante, par une décision spécialement motivée. Cette solution est-elle conforme au principe posé par l'article 696 du code de procédure civile ?",
+      "options": [
+        "Non, seule la partie perdante pouvant être condamnée aux dépens du procès engagé",
+        "Non, sauf accord exprès et préalable donné par la partie perdante à cette solution",
+        "Oui, le tribunal pouvant mettre les dépens à la charge du gagnant par décision motivée",
+        "Oui, mais uniquement lorsque les deux parties ont succombé partiellement à leurs demandes"
+      ],
+      "answer": 2,
+      "explanation": "L'article 696 du code de procédure civile permet au tribunal ou à la cour de partager les dépens entre les plaideurs, voire de les mettre entièrement à la charge du gagnant, même s'il n'y a qu'un seul perdant, à condition que cette décision soit spécialement motivée.",
+      "tags": ["dépens", "article 696"]
+    },
+    {
+      "id": "frais-qcm-004",
+      "question": "Un étranger en situation irrégulière résidant en France sollicite l'aide juridictionnelle pour une procédure civile. Cette demande peut-elle aboutir depuis la décision du Conseil constitutionnel de mai 2024 ?",
+      "options": [
+        "Non, la condition de régularité du séjour restant un obstacle absolu à l'octroi",
+        "Non, sauf si l'étranger dispose d'un titre de séjour délivré depuis plus de cinq ans",
+        "Oui, mais uniquement pour les procédures relevant du droit du travail ou social",
+        "Oui, cette condition ayant été censurée, l'aide pouvant être accordée à titre exceptionnel"
+      ],
+      "answer": 3,
+      "explanation": "Selon la décision du Conseil constitutionnel du 28 mai 2024, l'exigence de régularité du séjour pour les étrangers a été censurée comme portant atteinte au principe d'égalité devant la justice et au principe de fraternité, de sorte que l'aide juridictionnelle peut désormais être accordée à titre exceptionnel aux étrangers en situation irrégulière.",
+      "tags": ["aide juridictionnelle", "étrangers"]
+    },
+    {
+      "id": "frais-qcm-005",
+      "question": "Un demandeur voit sa demande d'aide juridictionnelle rejetée au motif que son action était manifestement dénuée de fondement, mais le juge fait finalement droit à cette action au fond. Ce demandeur peut-il obtenir un remboursement ?",
+      "options": [
+        "Oui, il peut obtenir un remboursement à hauteur de l'aide initialement due au demandeur",
+        "Non, le rejet de l'aide juridictionnelle restant définitif quelle que soit l'issue",
+        "Non, sauf s'il démontre avoir subi un préjudice financier distinct de ce rejet initial",
+        "Oui, mais uniquement si le rejet de l'aide résultait d'une erreur manifeste du bureau"
+      ],
+      "answer": 0,
+      "explanation": "Une soupape est prévue lorsque l'action a été jugée manifestement irrecevable ou dénuée de fondement pour refuser l'aide juridictionnelle au demandeur : si le juge fait finalement droit à cette action, un remboursement est possible à hauteur de l'aide juridictionnelle qu'aurait eue le demandeur.",
+      "tags": ["aide juridictionnelle", "remboursement"]
+    },
+    {
+      "id": "frais-qcm-006",
+      "question": "Un demandeur à un pourvoi en cassation sollicite l'aide juridictionnelle pour former ce recours. Le bureau peut-il rejeter cette demande au seul motif qu'aucun moyen de cassation sérieux ne peut être relevé ?",
+      "options": [
+        "Non, ce motif portant atteinte au droit d'accès effectif au juge du requérant",
+        "Oui, ce motif validé par la CEDH dès lors que la représentation n'est pas obligatoire",
+        "Non, sauf si le requérant a déjà bénéficié de l'aide juridictionnelle en première instance",
+        "Oui, mais uniquement si le pourvoi porte sur une matière relevant du droit de la famille"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'arrêt Gnahoré contre France du 19 septembre 2000, la CEDH a validé le motif de rejet tiré de l'absence de moyen de cassation sérieux, ce motif visant à n'allouer l'aide juridictionnelle qu'aux pourvois ayant une chance raisonnable de succès, sans porter atteinte au droit au recours effectif dès lors que la représentation n'est pas obligatoire.",
+      "tags": ["aide juridictionnelle", "pourvoi en cassation"]
+    },
+    {
+      "id": "frais-qcm-007",
+      "question": "Un bénéficiaire de l'aide juridictionnelle en première instance est ensuite visé par un appel formé par son adversaire. Doit-il redemander l'octroi de l'aide pour se défendre dans cette instance d'appel ?",
+      "options": [
+        "Oui, l'aide devant systématiquement être redemandée à chaque nouvelle instance ouverte",
+        "Oui, mais uniquement si l'appel porte sur un montant supérieur au plafond retenu",
+        "Non, il conserve de plein droit le bénéfice de l'aide pour se défendre en recours",
+        "Non, sauf si le bureau exige expressément une nouvelle demande formelle du bénéficiaire"
+      ],
+      "answer": 2,
+      "explanation": "Selon l'article 8 de la loi du 10 juillet 1991, le bénéficiaire de l'aide juridictionnelle conserve de plein droit le bénéfice de l'aide pour se défendre contre une voie de recours formée par son adversaire, cette conservation automatique ne valant toutefois pas s'il est lui-même demandeur à l'appel ou au pourvoi.",
+      "tags": ["aide juridictionnelle", "conservation en défense"]
+    },
+    {
+      "id": "frais-qcm-008",
+      "question": "Une décision d'admission à l'aide juridictionnelle est notifiée au bénéficiaire, mais celui-ci ne saisit la juridiction concernée que dix-huit mois plus tard. Cette décision d'admission demeure-t-elle valable ?",
+      "options": [
+        "Oui, la décision d'admission demeurant valable indéfiniment sans limite de temps",
+        "Oui, mais uniquement si le bénéficiaire justifie d'un motif ayant retardé la saisine",
+        "Non, sauf si le bureau d'aide juridictionnelle a expressément prorogé le délai",
+        "Non, la décision devenant caduque si la juridiction n'a pas été saisie dans l'année"
+      ],
+      "answer": 3,
+      "explanation": "La décision d'admission à l'aide juridictionnelle devient caduque si, dans l'année de sa notification, la juridiction concernée n'a pas été saisie de l'instance visée par cette décision, ce qui prive alors le bénéficiaire de l'aide accordée pour cette instance.",
+      "tags": ["aide juridictionnelle", "caducité"]
+    }
+  ]
+}

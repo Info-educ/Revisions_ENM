@@ -419,6 +419,18 @@
       "file": "voies-recours-ordinaires.json",
       "title": "Les voies de recours ordinaires : l'appel et l'opposition",
       "category": "Procédure civile"
+    },
+    {
+      "id": "recours-devant-cedh",
+      "file": "recours-devant-cedh.json",
+      "title": "Les recours devant la CEDH",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "frais-instance-aide-juridique",
+      "file": "frais-instance-aide-juridique.json",
+      "title": "Les frais de l'instance et l'aide juridique",
+      "category": "Procédure civile"
     }
   ]
 }
