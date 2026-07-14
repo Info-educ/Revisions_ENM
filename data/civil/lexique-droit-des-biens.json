@@ -1,0 +1,917 @@
+{
+  "id": "lexique-droit-des-biens",
+  "title": "Lexique de droit des biens",
+  "category": "Droit civil — Les biens",
+  "flashcards": [
+    {
+      "id": "lexique-biens-fc-001",
+      "front": "Que signifie l'expression latine « a domino » et à quelle situation correspond-elle ?",
+      "back": "L'expression latine « a domino » signifie « de celui qui est propriétaire ». Une acquisition a domino est réalisée auprès du véritable propriétaire du bien, par exemple lorsqu'on achète une voiture directement à son propriétaire ; c'est la situation normale en droit.",
+      "tags": [
+        "a domino",
+        "acquisition"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-002",
+      "front": "Que signifie l'expression latine « a non domino » et quel principe s'applique en cette matière ?",
+      "back": "L'expression latine « a non domino » signifie « de celui qui n'est pas propriétaire ». Il s'agit de l'acquisition d'un bien auprès d'une personne qui n'en est pas propriétaire ; en principe, nul ne peut transmettre plus de droits qu'il n'en possède, sauf exceptions prévues par la loi.",
+      "tags": [
+        "a non domino",
+        "transmission de droits"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-003",
+      "front": "Quand un propriétaire commet-il un abus du droit de propriété ?",
+      "back": "Le propriétaire commet un abus du droit de propriété lorsqu'il exerce son droit dans l'intention de nuire ou d'une manière manifestement excessive, par exemple en construisant un mur uniquement pour priver son voisin de lumière.",
+      "tags": [
+        "abus du droit de propriété",
+        "intention de nuire"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-004",
+      "front": "Qu'est-ce que l'abusus et quels sont les deux autres attributs de la propriété ?",
+      "back": "L'abusus est l'une des trois prérogatives du droit de propriété : il correspond au droit de disposer du bien, permettant au propriétaire de le vendre, le donner, le détruire, ou l'hypothéquer. Les deux autres attributs sont l'usus et le fructus.",
+      "tags": [
+        "abusus",
+        "usus et fructus"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-005",
+      "front": "Qu'est-ce que la théorie de l'acceptation des risques ?",
+      "back": "L'acceptation des risques est le principe selon lequel une personne qui accepte volontairement de participer à une activité comportant des risques normaux ne peut pas toujours demander réparation des dommages qui en résultent ; cette théorie est aujourd'hui fortement encadrée par la jurisprudence.",
+      "tags": [
+        "acceptation des risques",
+        "réparation du dommage"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-006",
+      "front": "Qu'est-ce que l'adjonction en matière d'accession mobilière ?",
+      "back": "L'adjonction est un mode d'accession mobilière dans lequel deux biens appartenant à des propriétaires différents sont réunis tout en restant séparables ; le juge détermine ensuite les droits de chacun.",
+      "tags": [
+        "adjonction",
+        "accession mobilière"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-007",
+      "front": "Qu'est-ce que l'alluvion ?",
+      "back": "L'alluvion est un mode d'acquisition de propriété résultant du dépôt progressif de terres par les eaux : le propriétaire du terrain riverain devient propriétaire de ces nouveaux dépôts. L'alluvion suppose un phénomène lent et naturel.",
+      "tags": [
+        "alluvion",
+        "dépôt progressif"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-008",
+      "front": "Qu'est-ce que l'animus et quel est l'autre élément nécessaire à la possession ?",
+      "back": "L'animus est l'élément psychologique de la possession : il correspond à la volonté de se comporter comme le propriétaire du bien. Pour qu'il y ait possession, il faut le corpus, la maîtrise matérielle, et l'animus, l'intention de posséder pour soi.",
+      "tags": [
+        "animus",
+        "corpus"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-009",
+      "front": "Qu'est-ce que l'avulsion et en quoi se distingue-t-elle de l'alluvion ?",
+      "back": "L'avulsion correspond à l'arrachement soudain d'une portion de terrain par un cours d'eau. Contrairement à l'alluvion, le phénomène est brusque ; le propriétaire initial peut, sous certaines conditions, récupérer son terrain.",
+      "tags": [
+        "avulsion",
+        "alluvion"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-010",
+      "front": "Qu'est-ce qu'un bail emphytéotique et quelle contrepartie l'emphytéote verse-t-il ?",
+      "back": "Le bail emphytéotique est un bail de très longue durée, entre 18 et 99 ans, conférant au preneur un droit réel immobilier : l'emphytéote peut construire, hypothéquer son droit, et améliorer le fonds. En contrepartie, il paie une redevance appelée canon emphytéotique.",
+      "tags": [
+        "bail emphytéotique",
+        "canon emphytéotique"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-011",
+      "front": "Qu'est-ce qu'un bien abandonné et que devient-il juridiquement ?",
+      "back": "Un bien abandonné est un bien dont le propriétaire manifeste clairement sa volonté de s'en défaire : il devient alors une res derelicta et peut, sous certaines conditions, être approprié par une autre personne.",
+      "tags": [
+        "bien abandonné",
+        "res derelicta"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-012",
+      "front": "Qu'est-ce qu'un bien complexe ?",
+      "back": "Un bien complexe est un bien composé de plusieurs éléments formant un ensemble économique ou fonctionnel, par exemple une exploitation agricole comprenant bâtiments, matériel et installations.",
+      "tags": [
+        "bien complexe",
+        "ensemble fonctionnel"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-013",
+      "front": "Qu'est-ce qu'un bien consumptible ?",
+      "back": "Un bien consumptible est un bien qui disparaît dès son premier usage, comme le carburant, la nourriture, ou l'argent au sens juridique.",
+      "tags": [
+        "bien consumptible",
+        "premier usage"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-014",
+      "front": "Qu'est-ce qu'un bien non consumptible ?",
+      "back": "Un bien non consumptible est un bien pouvant être utilisé plusieurs fois sans disparaître, comme une voiture, une maison, ou un meuble.",
+      "tags": [
+        "bien non consumptible",
+        "usage répété"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-015",
+      "front": "Qu'est-ce qu'un bien culturel ?",
+      "back": "Un bien culturel est un bien présentant un intérêt artistique, historique, archéologique ou patrimonial ; il bénéficie souvent d'un régime de protection particulier, par exemple un monument historique.",
+      "tags": [
+        "bien culturel",
+        "régime de protection"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-016",
+      "front": "Qu'est-ce qu'un bien dangereux ?",
+      "back": "Un bien dangereux est un bien dont les caractéristiques présentent un risque particulier pour les personnes ou les biens ; cette qualification peut entraîner un régime de responsabilité spécifique.",
+      "tags": [
+        "bien dangereux",
+        "régime de responsabilité"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-017",
+      "front": "Qu'est-ce qu'un bien fongible et de quoi faut-il le distinguer ?",
+      "back": "Un bien fongible est un bien interchangeable avec un autre de même nature, qualité et quantité, comme le blé, le pétrole, ou l'argent ; il faut le distinguer du corps certain.",
+      "tags": [
+        "bien fongible",
+        "corps certain"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-018",
+      "front": "Qu'est-ce qu'un bien frugifère et quelles catégories de fruits peut-il produire ?",
+      "back": "Un bien frugifère est un bien produisant naturellement ou juridiquement des fruits, qui peuvent être naturels, industriels, ou civils, par exemple un appartement produisant des loyers.",
+      "tags": [
+        "bien frugifère",
+        "fruits civils"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-019",
+      "front": "Qu'est-ce qu'un bien indivisible ?",
+      "back": "Un bien indivisible est un bien qui ne peut être partagé matériellement sans perdre sa valeur ou sa destination, par exemple certaines œuvres d'art.",
+      "tags": [
+        "bien indivisible",
+        "perte de valeur"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-020",
+      "front": "Qu'est-ce qu'un bien productif ?",
+      "back": "Un bien productif est un bien destiné à produire des richesses ou des revenus, comme un immeuble locatif, un fonds de commerce, ou une machine industrielle.",
+      "tags": [
+        "bien productif",
+        "revenus"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-021",
+      "front": "Qu'est-ce qu'un bien subjectif ?",
+      "back": "Le bien subjectif est une expression doctrinale désignant un bien dont la valeur dépend principalement de l'intérêt que lui porte son titulaire ; cette notion est peu utilisée en pratique.",
+      "tags": [
+        "bien subjectif",
+        "notion doctrinale"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-022",
+      "front": "Qu'est-ce que le bornage et quelles formes peut-il prendre ?",
+      "back": "Le bornage est l'opération consistant à fixer définitivement la limite séparative entre deux propriétés voisines ; il peut être amiable ou judiciaire, et ne concerne que les propriétés privées contiguës.",
+      "tags": [
+        "bornage",
+        "limite séparative"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-023",
+      "front": "Qu'est-ce que le capital en matière d'usufruit ?",
+      "back": "En usufruit, le capital correspond à la substance même du bien ; l'usufruitier doit conserver ce capital et ne peut normalement pas le consommer, c'est le nu-propriétaire qui récupérera le capital à la fin de l'usufruit.",
+      "tags": [
+        "capital",
+        "usufruit"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-024",
+      "front": "Qu'est-ce qu'une charge usufruitière ?",
+      "back": "Une charge usufruitière est une obligation pesant sur l'usufruitier pendant toute la durée de son droit : il doit notamment entretenir le bien, supporter certaines réparations, et respecter sa destination.",
+      "tags": [
+        "charge usufruitière",
+        "obligations de l'usufruitier"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-025",
+      "front": "Qu'est-ce que le droit de clôture et à quelles limites est-il soumis ?",
+      "back": "La clôture est le droit reconnu au propriétaire de fermer son terrain, sous forme de mur, de grillage, ou de haie ; ce droit est soumis au respect des règles d'urbanisme et des droits des voisins.",
+      "tags": [
+        "clôture",
+        "règles d'urbanisme"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-026",
+      "front": "Qu'est-ce qu'un coïndivisaire ?",
+      "back": "Un coïndivisaire est une personne propriétaire d'une quote-part indivise sur un même bien : chaque coïndivisaire possède une fraction abstraite de l'ensemble du bien, par exemple deux héritiers possédant ensemble une maison.",
+      "tags": [
+        "coïndivisaire",
+        "quote-part indivise"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-027",
+      "front": "Qu'est-ce que le constitut possessoire ?",
+      "back": "Le constitut possessoire est un mode de transfert de la possession dans lequel le propriétaire cède son bien mais en conserve matériellement la détention, cette fois pour le compte du nouveau propriétaire : la chose ne change pas physiquement de mains, mais la qualité juridique de celui qui la détient change, par exemple lorsqu'une personne vend un meuble mais continue à le conserver comme locataire ou dépositaire.",
+      "tags": [
+        "constitut possessoire",
+        "transfert de possession"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-028",
+      "front": "Qu'est-ce qu'un vice caché et quel recours ouvre-t-il à l'acheteur ?",
+      "back": "Un vice caché est un défaut grave d'un bien qui existait au moment de la vente, n'était pas apparent, et rend le bien impropre à son usage ou en diminue fortement l'utilité. L'acheteur peut demander la résolution de la vente ou une réduction du prix, dans le cadre de la garantie des vices cachés prévue par le Code civil.",
+      "tags": [
+        "vice caché",
+        "garantie des vices cachés"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-029",
+      "front": "Qu'est-ce que la corporéité ?",
+      "back": "La corporéité désigne le caractère matériel d'un bien : un bien corporel possède une existence physique, à l'inverse d'un brevet ou d'une créance, qui sont des biens incorporels.",
+      "tags": [
+        "corporéité",
+        "bien incorporel"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-030",
+      "front": "Qu'est-ce que le corpus et de quoi doit-il être accompagné pour qu'il y ait possession ?",
+      "back": "Le corpus est l'élément matériel de la possession : il correspond à la maîtrise effective de la chose, par exemple habiter une maison, conduire une voiture, ou cultiver un terrain. Pour qu'il y ait possession, le corpus doit être accompagné de l'animus.",
+      "tags": [
+        "corpus",
+        "animus"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-031",
+      "front": "Qu'est-ce qu'un corps certain et de quoi faut-il le distinguer ?",
+      "back": "Un corps certain est un bien individualisé et non interchangeable, unique, comme cette maison, ce tableau, ou cette voiture immatriculée ; il faut le distinguer d'un bien fongible, qui peut être remplacé par un autre identique.",
+      "tags": [
+        "corps certain",
+        "bien fongible"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-032",
+      "front": "Qu'est-ce que la déchéance de l'usufruit ?",
+      "back": "La déchéance de l'usufruit est une sanction pouvant être prononcée par le juge lorsque l'usufruitier abuse gravement de son droit ou dégrade le bien : il perd alors son usufruit avant son terme, par exemple lorsqu'un usufruitier laisse volontairement un immeuble se détériorer.",
+      "tags": [
+        "déchéance de l'usufruit",
+        "abus du droit"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-033",
+      "front": "Qu'est-ce que le délaissement et de quoi faut-il le distinguer ?",
+      "back": "Le délaissement est l'abandon volontaire d'un bien ou d'un droit dans les cas prévus par la loi ; selon les situations, il peut entraîner un transfert de propriété ou une libération d'une charge. En droit des biens, il faut le distinguer de l'abandon matériel d'une chose.",
+      "tags": [
+        "délaissement",
+        "abandon matériel"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-034",
+      "front": "Qu'est-ce que la nue-propriété ?",
+      "back": "La nue-propriété est le droit de propriété privé de l'usufruit : le nu-propriétaire possède le bien mais ne peut ni l'utiliser ni en percevoir les fruits tant que dure l'usufruit. À l'extinction de l'usufruit, il retrouve automatiquement la pleine propriété.",
+      "tags": [
+        "nue-propriété",
+        "extinction de l'usufruit"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-035",
+      "front": "Qu'est-ce que le droit d'accession et quelles en sont les deux grandes formes ?",
+      "back": "Le droit d'accession est le droit reconnu au propriétaire d'acquérir tout ce qui s'unit ou s'incorpore à son bien ; il existe deux grandes formes, l'accession immobilière et l'accession mobilière, par exemple les constructions édifiées sur un terrain appartenant en principe au propriétaire du sol.",
+      "tags": [
+        "droit d'accession",
+        "accession immobilière"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-036",
+      "front": "Qu'est-ce que le démembrement de propriété ?",
+      "back": "Le démembrement de propriété consiste à diviser la propriété entre plusieurs personnes ; le cas le plus fréquent est la séparation entre la nue-propriété et l'usufruit, le droit de propriété étant alors partagé entre plusieurs titulaires.",
+      "tags": [
+        "démembrement de propriété",
+        "nue-propriété et usufruit"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-037",
+      "front": "Qu'est-ce que le droit de rétention et rend-il son titulaire propriétaire du bien ?",
+      "back": "Le droit de rétention permet à une personne qui détient légitimement un bien de refuser de le restituer tant qu'elle n'a pas obtenu le paiement de ce qui lui est dû, par exemple un garagiste conservant un véhicule jusqu'au paiement des réparations. Ce droit ne rend pas son titulaire propriétaire du bien.",
+      "tags": [
+        "droit de rétention",
+        "garagiste"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-038",
+      "front": "Qu'est-ce que le droit des biens et quels sont ses principaux objets d'étude ?",
+      "back": "Le droit des biens est la branche du droit civil qui étudie les différentes catégories de biens, le droit de propriété, les démembrements de propriété, la possession, les sûretés réelles, et les modes d'acquisition et de perte de la propriété : il organise les rapports entre les personnes et les biens.",
+      "tags": [
+        "droit des biens",
+        "démembrements de propriété"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-039",
+      "front": "Qu'est-ce qu'un droit réel de jouissance spéciale ?",
+      "back": "Un droit réel de jouissance spéciale est un droit réel créé par la pratique et reconnu par la jurisprudence, permettant à une personne de jouir d'un bien selon des modalités particulières, sans relever des catégories classiques comme l'usufruit ou la servitude ; il est souvent constitué par contrat et répond à des besoins spécifiques, comme un droit exclusif d'utiliser certaines installations sur le terrain d'autrui pendant une durée déterminée.",
+      "tags": [
+        "droit réel de jouissance spéciale",
+        "création jurisprudentielle"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-040",
+      "front": "Qu'est-ce qu'une EARL ?",
+      "back": "L'EARL, ou Exploitation Agricole à Responsabilité Limitée, est une société civile créée pour permettre l'exploitation d'une activité agricole ; sa particularité est que la responsabilité des associés est, en principe, limitée à leurs apports, ce qui permet de protéger le patrimoine personnel de l'exploitant.",
+      "tags": [
+        "EARL",
+        "responsabilité limitée"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-041",
+      "front": "Qu'est-ce que l'EIRL et que lui est-il arrivé depuis la réforme de 2022 ?",
+      "back": "L'EIRL permettait à un entrepreneur individuel d'affecter un patrimoine à son activité professionnelle afin de protéger son patrimoine personnel. Depuis la réforme de 2022, ce régime a disparu, remplacé par le nouveau statut unique de l'entrepreneur individuel, qui prévoit automatiquement une séparation entre patrimoine professionnel et patrimoine personnel.",
+      "tags": [
+        "EIRL",
+        "réforme de 2022"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-042",
+      "front": "Qu'est-ce que l'empiètement et comment est-il sanctionné en droit français ?",
+      "back": "L'empiètement consiste à construire ou à occuper une partie du terrain appartenant au voisin, par exemple un garage débordant de trente centimètres sur le terrain voisin. En droit français, l'empiètement est sanctionné très sévèrement : le propriétaire victime peut, en principe, demander la démolition, même si l'empiètement est minime.",
+      "tags": [
+        "empiètement",
+        "démolition"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-043",
+      "front": "Qu'est-ce qu'un fonds enclavé et quel droit le propriétaire peut-il obtenir ?",
+      "back": "Un fonds est enclavé lorsqu'il ne dispose d'aucun accès ou d'un accès insuffisant à la voie publique ; le propriétaire peut alors obtenir un droit de passage sur le terrain voisin, qui doit être pris à l'endroit le moins dommageable pour le fonds servant.",
+      "tags": [
+        "enclave",
+        "droit de passage"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-044",
+      "front": "Qu'est-ce qu'une épave ?",
+      "back": "Une épave est un bien abandonné ou perdu dont le propriétaire est inconnu ou ne se manifeste plus ; le régime juridique varie selon qu'il s'agit d'un véhicule, d'un navire, d'un aéronef, ou d'un objet trouvé.",
+      "tags": [
+        "épave",
+        "bien perdu"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-045",
+      "front": "Que signifie l'expression latine « erga omnes » et à quels droits s'applique-t-elle ?",
+      "back": "L'expression latine « erga omnes » signifie « à l'égard de tous ». Les droits réels sont opposables erga omnes : tout le monde doit respecter le droit du propriétaire, à la différence des droits personnels, qui ne produisent d'effets qu'entre les parties.",
+      "tags": [
+        "erga omnes",
+        "droits réels"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-046",
+      "front": "Qu'est-ce qu'une EURL ?",
+      "back": "L'EURL est une SARL comportant un seul associé : elle possède une personnalité juridique distincte de celle de son associé, dont la responsabilité est, en principe, limitée au montant de ses apports.",
+      "tags": [
+        "EURL",
+        "personnalité juridique distincte"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-047",
+      "front": "Qu'est-ce que l'expropriation ?",
+      "back": "L'expropriation est la procédure permettant à une personne publique de contraindre un propriétaire à céder son bien pour une cause d'utilité publique, moyennant une juste et préalable indemnité ; elle constitue une exception au caractère absolu du droit de propriété.",
+      "tags": [
+        "expropriation",
+        "utilité publique"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-048",
+      "front": "Quelles sont les principales causes d'extinction de l'usufruit ?",
+      "back": "L'usufruit prend fin notamment par le décès de l'usufruitier personne physique, par l'arrivée du terme, par la réunion de l'usufruit et de la nue-propriété appelée consolidation, par la déchéance judiciaire, ou par la perte totale de la chose. À son extinction, le nu-propriétaire retrouve automatiquement la pleine propriété.",
+      "tags": [
+        "extinction de l'usufruit",
+        "consolidation"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-049",
+      "front": "Qu'est-ce que la fiducie et de quoi faut-il la distinguer ?",
+      "back": "La fiducie est l'opération par laquelle une personne, le constituant, transfère temporairement des biens à un fiduciaire, qui les gère dans un but déterminé au profit d'un bénéficiaire ; elle crée un patrimoine d'affectation, distinct du patrimoine personnel du fiduciaire, et est souvent utilisée comme garantie. Il faut la distinguer du trust, qui relève des systèmes de common law.",
+      "tags": [
+        "fiducie",
+        "patrimoine d'affectation"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-050",
+      "front": "Qu'est-ce que le fonds dominant en matière de servitude ?",
+      "back": "En matière de servitude, le fonds dominant est le terrain qui bénéficie de la servitude, par exemple le terrain bénéficiant d'un droit de passage ; il faut le distinguer du fonds servant, qui supporte la servitude.",
+      "tags": [
+        "fonds dominant",
+        "fonds servant"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-051",
+      "front": "Qu'est-ce que le fructus et quelles catégories de fruits peuvent en résulter ?",
+      "back": "Le fructus est l'un des trois attributs du droit de propriété : il correspond au droit de percevoir les fruits d'un bien, qui peuvent être naturels, comme les pommes d'un verger, industriels, comme des récoltes, ou civils, comme des loyers. Les deux autres attributs sont l'usus et l'abusus.",
+      "tags": [
+        "fructus",
+        "usus et abusus"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-052",
+      "front": "Qu'est-ce que le gage ?",
+      "back": "Le gage est une sûreté réelle mobilière : il permet à un créancier d'obtenir un droit sur un bien meuble appartenant au débiteur afin de garantir le paiement de sa créance. En cas de non-paiement, le créancier peut faire vendre le bien pour être payé par priorité.",
+      "tags": [
+        "gage",
+        "sûreté réelle mobilière"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-053",
+      "front": "Qu'est-ce que l'hypothèque et en quoi se distingue-t-elle du gage ?",
+      "back": "L'hypothèque est une sûreté réelle immobilière : elle porte sur un immeuble sans que le propriétaire en soit dépossédé. En cas de non-paiement, le créancier hypothécaire peut faire vendre l'immeuble et être payé par préférence ; elle se distingue du gage, qui porte sur un bien meuble.",
+      "tags": [
+        "hypothèque",
+        "sûreté réelle immobilière"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-054",
+      "front": "Qu'est-ce qu'un immeuble par nature ?",
+      "back": "Un immeuble par nature est un bien qui ne peut être déplacé sans être détruit ou détérioré, comme un terrain, une maison, ou un arbre non coupé.",
+      "tags": [
+        "immeuble par nature",
+        "déplacement impossible"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-055",
+      "front": "Qu'est-ce qu'un immeuble par destination et quelles en sont les deux conditions ?",
+      "back": "Un immeuble par destination est un bien meuble que la loi considère comme immeuble parce qu'il est affecté au service ou à l'exploitation d'un immeuble. Deux conditions principales sont requises : un même propriétaire pour le meuble et l'immeuble, et une affectation durable, par exemple les machines d'une exploitation agricole fixées au bâtiment.",
+      "tags": [
+        "immeuble par destination",
+        "affectation durable"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-056",
+      "front": "Qu'est-ce que la réquisition d'immeubles et en quoi diffère-t-elle de l'expropriation ?",
+      "back": "La réquisition d'immeubles permet à l'autorité publique d'imposer temporairement l'utilisation d'un immeuble privé dans des circonstances exceptionnelles, comme une crise, une catastrophe, ou des besoins de défense, moyennant une indemnisation. À la différence de l'expropriation, qui entraîne un transfert définitif de propriété, la réquisition est temporaire.",
+      "tags": [
+        "réquisition d'immeubles",
+        "expropriation"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-057",
+      "front": "Qu'est-ce qu'une impense et quelles en sont les trois catégories ?",
+      "back": "Les impenses sont les dépenses réalisées sur le bien d'autrui. On distingue trois catégories : les impenses nécessaires, indispensables à la conservation du bien, comme réparer une toiture qui menace de s'effondrer, qui donnent lieu à remboursement ; les impenses utiles, qui augmentent la valeur du bien, comme installer un système de chauffage performant, qui ouvrent généralement droit à indemnisation ; et les impenses voluptuaires, qui ne servent qu'à l'agrément, comme installer une fontaine décorative, qui ne sont en principe pas remboursées.",
+      "tags": [
+        "impense",
+        "impenses nécessaires utiles voluptuaires"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-058",
+      "front": "Qu'est-ce que l'imprescriptibilité et le droit de propriété est-il imprescriptible ?",
+      "back": "L'imprescriptibilité signifie qu'un droit ne peut pas être perdu par l'écoulement du temps ; le droit de propriété est imprescriptible au sens où le propriétaire ne perd pas son droit par le seul effet du temps, même si un tiers peut l'acquérir par usucapion.",
+      "tags": [
+        "imprescriptibilité",
+        "usucapion"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-059",
+      "front": "Qu'est-ce que l'inaliénabilité et de quoi peut-elle résulter ?",
+      "back": "L'inaliénabilité est l'impossibilité de vendre, donner ou transmettre un bien ; elle peut résulter de la loi, d'un contrat sous conditions, ou d'une décision judiciaire, et reste exceptionnelle en droit français.",
+      "tags": [
+        "inaliénabilité",
+        "impossibilité de vendre"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-060",
+      "front": "Qu'est-ce que l'interruption de la prescription et en quoi diffère-t-elle de la suspension ?",
+      "back": "L'interruption efface le délai de prescription déjà écoulé, un nouveau délai recommençant intégralement à courir ; elle peut résulter d'une action en justice ou de la reconnaissance du droit par le débiteur. Elle se distingue de la suspension, qui arrête simplement le délai sans l'effacer.",
+      "tags": [
+        "interruption de la prescription",
+        "suspension"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-061",
+      "front": "Qu'est-ce que l'interversion de titre ?",
+      "back": "L'interversion de titre est le mécanisme par lequel un détenteur précaire devient possesseur ; il faut un fait nouveau démontrant clairement qu'il possède désormais pour lui-même, un locataire ne devenant pas propriétaire simplement parce qu'il reste longtemps dans les lieux.",
+      "tags": [
+        "interversion de titre",
+        "détenteur précaire"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-062",
+      "front": "Qu'est-ce que la jonction des possessions ?",
+      "back": "La jonction des possessions permet à un possesseur d'ajouter à sa propre durée de possession celle de son auteur afin d'atteindre le délai nécessaire à l'usucapion, par exemple un héritier additionnant sa possession à celle de son parent décédé.",
+      "tags": [
+        "jonction des possessions",
+        "usucapion"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-063",
+      "front": "Qu'est-ce qu'un lotissement ?",
+      "back": "Le lotissement est la division d'un terrain en plusieurs lots destinés à être bâtis ; il est soumis aux règles du Code de l'urbanisme et comprend souvent des lots privatifs et des équipements communs.",
+      "tags": [
+        "lotissement",
+        "Code de l'urbanisme"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-064",
+      "front": "Qu'est-ce que la mitoyenneté ?",
+      "back": "La mitoyenneté est un régime de copropriété forcée portant sur certains ouvrages séparatifs, comme un mur, une clôture, une haie, ou un fossé : les voisins sont copropriétaires de l'ouvrage et participent ensemble à son entretien.",
+      "tags": [
+        "mitoyenneté",
+        "copropriété forcée"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-065",
+      "front": "Qu'est-ce que la multipropriété ?",
+      "back": "La multipropriété permet à plusieurs personnes de disposer successivement d'un même bien pendant des périodes déterminées, le plus souvent une ou plusieurs semaines par an ; elle est fréquente dans les résidences de vacances.",
+      "tags": [
+        "multipropriété",
+        "résidences de vacances"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-066",
+      "front": "Qu'est-ce que les parties communes dans une copropriété ?",
+      "back": "Dans une copropriété, les parties communes appartiennent à l'ensemble des copropriétaires, comme la toiture, les escaliers, l'ascenseur, ou le hall d'entrée ; chaque copropriétaire possède une quote-part de ces parties communes.",
+      "tags": [
+        "parties communes",
+        "copropriété"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-067",
+      "front": "Qu'est-ce que les parties privatives ?",
+      "back": "Les parties privatives appartiennent exclusivement à un copropriétaire, qui en dispose librement sous réserve du règlement de copropriété et des droits des autres copropriétaires, par exemple l'intérieur d'un appartement.",
+      "tags": [
+        "parties privatives",
+        "règlement de copropriété"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-068",
+      "front": "Qu'est-ce que les parts sociales ?",
+      "back": "Les parts sociales représentent les droits détenus par un associé dans une société : elles donnent notamment droit à une part des bénéfices, au vote selon les statuts, et à une quote-part de l'actif ; elles constituent des biens meubles incorporels.",
+      "tags": [
+        "parts sociales",
+        "biens meubles incorporels"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-069",
+      "front": "Qu'est-ce que la destination du père de famille ?",
+      "back": "La destination du père de famille est un mode d'établissement d'une servitude : lorsqu'un propriétaire organise matériellement deux fonds de manière à ce que l'un profite à l'autre puis les vend séparément, la servitude peut naître automatiquement, par exemple un propriétaire créant une canalisation traversant deux parcelles avant de les vendre séparément.",
+      "tags": [
+        "destination du père de famille",
+        "établissement de servitude"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-070",
+      "front": "Qu'est-ce que le pétitoire et de quoi faut-il le distinguer ?",
+      "back": "Le pétitoire est l'action permettant de faire reconnaître ou protéger un droit réel, principalement le droit de propriété : le juge recherche qui est véritablement propriétaire. Il faut le distinguer de la protection possessoire.",
+      "tags": [
+        "pétitoire",
+        "protection possessoire"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-071",
+      "front": "Qu'est-ce qu'un portefeuille de valeurs mobilières ?",
+      "back": "Un portefeuille de valeurs mobilières est l'ensemble des titres financiers appartenant à une personne, comme des actions, des obligations, ou des parts d'OPCVM ; il constitue un bien meuble incorporel.",
+      "tags": [
+        "portefeuille de valeurs mobilières",
+        "bien meuble incorporel"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-072",
+      "front": "Qu'est-ce qu'un détenteur précaire ?",
+      "back": "Le détenteur précaire exerce un pouvoir matériel sur une chose en reconnaissant le droit d'autrui, comme un locataire, un dépositaire, ou un emprunteur ; il ne possède pas juridiquement la chose.",
+      "tags": [
+        "détenteur précaire",
+        "reconnaissance du droit d'autrui"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-073",
+      "front": "Qu'est-ce que l'effet acquisitif de la possession ?",
+      "back": "La possession peut conduire à l'acquisition de la propriété par usucapion lorsque toutes les conditions sont réunies.",
+      "tags": [
+        "effet acquisitif de la possession",
+        "usucapion"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-074",
+      "front": "Qu'est-ce que l'effet probatoire de la possession ?",
+      "back": "La possession constitue un élément de preuve : elle crée une présomption selon laquelle le possesseur est propriétaire.",
+      "tags": [
+        "effet probatoire de la possession",
+        "présomption de propriété"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-075",
+      "front": "Qu'est-ce que l'effet rétroactif de l'usucapion ?",
+      "back": "Lorsque l'usucapion est acquise, le possesseur est réputé propriétaire depuis le début de sa possession ; cette rétroactivité explique de nombreuses conséquences juridiques.",
+      "tags": [
+        "effet rétroactif de l'usucapion",
+        "rétroactivité"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-076",
+      "front": "Qu'est-ce qu'un juste titre et pour quel type d'usucapion est-il une condition ?",
+      "back": "Le juste titre est un acte qui aurait permis de transférer la propriété s'il avait été conclu avec le véritable propriétaire ; il constitue l'une des conditions de l'usucapion abrégée, par exemple acheter un bien à une personne que l'on croyait propriétaire.",
+      "tags": [
+        "juste titre",
+        "usucapion abrégée"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-077",
+      "front": "Qu'est-ce que la protection possessoire et qu'est-il advenu des anciennes actions possessoires depuis 2015 ?",
+      "back": "La protection possessoire est l'ensemble des mécanismes protégeant la possession indépendamment du droit de propriété. Depuis la réforme de 2015, les anciennes actions possessoires ont disparu, mais la possession continue d'être protégée par d'autres actions, notamment le référé.",
+      "tags": [
+        "protection possessoire",
+        "réforme de 2015"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-078",
+      "front": "Qu'est-ce que l'usucapion et quelles conditions doit remplir la possession ?",
+      "back": "L'usucapion, ou prescription acquisitive, permet d'acquérir la propriété d'un bien par une possession continue, paisible, publique, non équivoque, et exercée à titre de propriétaire ; c'est un mode d'acquisition originaire de la propriété.",
+      "tags": [
+        "usucapion",
+        "prescription acquisitive"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-079",
+      "front": "Qu'est-ce qu'une présomption et quelle présomption la possession crée-t-elle ?",
+      "back": "La présomption est une conséquence que la loi ou le juge tire d'un fait connu pour établir un fait inconnu. En droit des biens, la possession crée notamment une présomption de propriété : le possesseur est présumé propriétaire jusqu'à preuve du contraire.",
+      "tags": [
+        "présomption",
+        "présomption de propriété"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-080",
+      "front": "Qu'est-ce que le principe de précaution ?",
+      "back": "Le principe de précaution permet que des mesures de prévention soient prises lorsqu'il existe un risque de dommage grave ou irréversible, même si ce risque n'est pas scientifiquement certain ; il est surtout utilisé en droit de l'environnement mais peut avoir des incidences en droit des biens, comme en urbanisme ou pour les installations dangereuses.",
+      "tags": [
+        "principe de précaution",
+        "risque de dommage grave"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-081",
+      "front": "Qu'est-ce que le quasi-usufruit et en quoi se distingue-t-il de l'usufruit classique ?",
+      "back": "Le quasi-usufruit porte sur des biens consomptibles, comme de l'argent ou des denrées : l'usufruitier peut les utiliser librement, mais il devra restituer, à la fin de l'usufruit, une quantité équivalente ou leur valeur, par exemple un usufruit portant sur une somme d'argent. Il se distingue de l'usufruit classique, où la chose doit être conservée.",
+      "tags": [
+        "quasi-usufruit",
+        "biens consomptibles"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-082",
+      "front": "Qu'est-ce que la renonciation et quelles conditions doit-elle remplir ?",
+      "back": "La renonciation est l'acte par lequel une personne abandonne volontairement un droit qui lui appartient ; elle doit être certaine et non équivoque, par exemple renoncer à un usufruit.",
+      "tags": [
+        "renonciation",
+        "abandon volontaire d'un droit"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-083",
+      "front": "Qu'est-ce que la réquisition et en quoi se distingue-t-elle de l'expropriation ?",
+      "back": "La réquisition est la décision par laquelle l'autorité publique impose temporairement l'utilisation d'un bien privé pour répondre à un besoin d'intérêt général. Contrairement à l'expropriation, elle n'entraîne pas de transfert de propriété.",
+      "tags": [
+        "réquisition",
+        "expropriation"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-084",
+      "front": "Que signifie l'expression latine « res nullius » et que peut-on faire de ces biens ?",
+      "back": "L'expression latine « res nullius » signifie « chose n'appartenant à personne ». Ces biens peuvent, en principe, être acquis par la première personne qui les appréhende, par exemple certains animaux sauvages ou des choses qui n'ont jamais eu de propriétaire.",
+      "tags": [
+        "res nullius",
+        "appropriation"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-085",
+      "front": "Que signifie l'expression latine « res communes » ?",
+      "back": "L'expression latine « res communes » signifie « choses communes » : ce sont des biens qui appartiennent à tout le monde et dont l'usage est commun, ne pouvant faire l'objet d'une appropriation privée, comme l'air ou la haute mer sous certaines réserves.",
+      "tags": [
+        "res communes",
+        "appropriation privée"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-086",
+      "front": "Que désigne l'expression latine « res derelictae » et en quoi diffère-t-elle de la res nullius ?",
+      "back": "L'expression latine « res derelictae » désigne les choses volontairement abandonnées par leur propriétaire : une fois abandonnées, elles peuvent être appropriées par une autre personne. Il faut la distinguer de la res nullius, qui n'a jamais eu de propriétaire.",
+      "tags": [
+        "res derelictae",
+        "res nullius"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-087",
+      "front": "Qu'est-ce que la subrogation réelle ?",
+      "back": "La subrogation réelle est le mécanisme par lequel un bien est remplacé par un autre dans un patrimoine, tout en conservant le même régime juridique, par exemple un bien vendu remplacé par le prix de vente, qui prend sa place dans certains régimes comme la fiducie ou la communauté.",
+      "tags": [
+        "subrogation réelle",
+        "prix de vente"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-088",
+      "front": "Qu'est-ce qu'une succession en déshérence et en quoi diffère-t-elle de la succession vacante ?",
+      "back": "Une succession est dite en déshérence lorsqu'aucun héritier n'est connu ou lorsque tous les héritiers ont renoncé à la succession ; l'État peut alors être chargé de l'administrer et, à défaut d'héritiers, en recueillir les biens. Elle se distingue de la succession vacante, où il peut encore exister des héritiers, mais ils sont inconnus ou ne se sont pas manifestés.",
+      "tags": [
+        "succession en déshérence",
+        "succession vacante"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-089",
+      "front": "Qu'est-ce qu'un superficiaire ?",
+      "back": "Le superficiaire est la personne titulaire d'un droit de superficie : il est propriétaire des constructions ou plantations qu'il a édifiées sur le terrain d'autrui.",
+      "tags": [
+        "superficiaire",
+        "droit de superficie"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-090",
+      "front": "Qu'est-ce que le droit de superficie et pour quelles opérations est-il utilisé ?",
+      "back": "Le droit de superficie est un droit réel permettant de dissocier la propriété du sol de celle des constructions : le propriétaire du terrain n'est donc pas nécessairement propriétaire du bâtiment. Ce mécanisme est largement utilisé pour les baux emphytéotiques, certaines opérations immobilières, et des constructions sur le domaine public.",
+      "tags": [
+        "superficie",
+        "dissociation du sol et des constructions"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-091",
+      "front": "Qu'est-ce qu'un syndic de copropriété ?",
+      "back": "Le syndic est la personne, physique ou morale, chargée d'administrer la copropriété : il exécute les décisions de l'assemblée générale, gère les finances, et représente le syndicat des copropriétaires.",
+      "tags": [
+        "syndic",
+        "assemblée générale"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-092",
+      "front": "Qu'est-ce que le syndicat des copropriétaires ?",
+      "back": "Le syndicat des copropriétaires regroupe automatiquement tous les copropriétaires d'un immeuble : il possède une personnalité juridique distincte et assure la gestion des parties communes, le syndic agissant en son nom.",
+      "tags": [
+        "syndicat des copropriétaires",
+        "personnalité juridique distincte"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-093",
+      "front": "Que sont les tantièmes et à quoi servent-ils ?",
+      "back": "Les tantièmes représentent la quote-part de chaque copropriétaire dans les parties communes ; ils servent notamment à déterminer la répartition des charges et les droits de vote en assemblée générale, et sont fixés dans le règlement de copropriété.",
+      "tags": [
+        "tantièmes",
+        "règlement de copropriété"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-094",
+      "front": "Qu'est-ce qu'une sûreté réelle ?",
+      "back": "Une sûreté réelle est une garantie portant directement sur un bien du débiteur : elle permet au créancier d'être payé par priorité sur la valeur de ce bien, par exemple l'hypothèque, le gage, ou le nantissement.",
+      "tags": [
+        "sûreté réelle",
+        "paiement par priorité"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-095",
+      "front": "Qu'est-ce que le titre en droit des biens ?",
+      "back": "En droit des biens, le titre est l'acte juridique qui fonde ou justifie un droit, comme un acte de vente, une donation, ou un jugement déclaratif de propriété ; le titre est souvent un élément de preuve de la propriété.",
+      "tags": [
+        "titre",
+        "élément de preuve"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-096",
+      "front": "Qu'est-ce qu'un titre putatif et quel effet peut-il produire pour l'usucapion ?",
+      "back": "Le titre putatif est un titre que son bénéficiaire croit valable alors qu'il est en réalité inefficace ; il peut néanmoins constituer un juste titre pour l'usucapion abrégée si le possesseur est de bonne foi, par exemple acheter un immeuble à une personne que l'on croit propriétaire alors qu'elle ne l'est pas.",
+      "tags": [
+        "titre putatif",
+        "usucapion abrégée"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-097",
+      "front": "Qu'est-ce que le trust et quel mécanisme français s'en rapproche ?",
+      "back": "Le trust est une institution de common law par laquelle une personne, le settlor, transfère des biens à un trustee, chargé de les gérer dans l'intérêt d'un bénéficiaire. Le droit français ne connaît pas le trust au sens strict, mais la fiducie s'en rapproche.",
+      "tags": [
+        "trust",
+        "fiducie"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-098",
+      "front": "Qu'est-ce que la voie de fait et dans quelles deux hypothèses est-elle reconnue depuis 2013 ?",
+      "back": "La voie de fait est une atteinte particulièrement grave portée par l'administration à une liberté fondamentale ou au droit de propriété, lorsqu'elle agit manifestement en dehors de ses pouvoirs ; dans ce cas, le litige relève exceptionnellement du juge judiciaire. Depuis la décision Bergoend contre ERDF du Tribunal des conflits de 2013, la voie de fait n'est reconnue que si l'administration procède à l'exécution forcée irrégulière d'une décision entraînant l'extinction du droit de propriété ou une atteinte à une liberté individuelle, ou si elle prend une décision manifestement insusceptible de se rattacher à un pouvoir de l'administration.",
+      "tags": [
+        "voie de fait",
+        "Bergoend contre ERDF"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-099",
+      "front": "Qu'est-ce que l'usus et quels sont les trois attributs de la propriété ?",
+      "back": "L'usus est l'un des trois attributs du droit de propriété : il correspond au droit d'utiliser la chose, sans en percevoir les fruits ni en disposer, par exemple habiter sa maison ou utiliser sa voiture. Les trois attributs de la propriété sont l'usus, pour utiliser, le fructus, pour percevoir les fruits, et l'abusus, pour disposer du bien.",
+      "tags": [
+        "usus",
+        "fructus et abusus"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-100",
+      "front": "Qu'est-ce que le fonds servant ?",
+      "back": "Le fonds servant est le terrain qui supporte une servitude au profit d'un autre terrain, par exemple un terrain supportant un droit de passage permettant au voisin enclavé d'accéder à la voie publique ; il faut le distinguer du fonds dominant, qui bénéficie de la servitude.",
+      "tags": [
+        "fonds servant",
+        "fonds dominant"
+      ]
+    },
+    {
+      "id": "lexique-biens-fc-101",
+      "front": "Quelles sont les principales causes d'extinction d'un droit réel ?",
+      "back": "L'extinction est la disparition d'un droit réel ; elle peut résulter de plusieurs causes selon le droit concerné : la renonciation du titulaire, la destruction du bien, l'arrivée d'un terme, la consolidation, c'est-à-dire la réunion de deux droits entre les mêmes mains, ou la prescription dans certains cas prévus par la loi, par exemple l'usufruit qui s'éteint au décès de l'usufruitier personne physique.",
+      "tags": [
+        "extinction d'un droit réel",
+        "consolidation"
+      ]
+    }
+  ],
+  "qcm": []
+}

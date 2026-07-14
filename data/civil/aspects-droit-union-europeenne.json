@@ -1,0 +1,169 @@
+{
+  "id": "aspects-droit-union-europeenne",
+  "title": "Les aspects de droit de l'Union européenne en procédure civile",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "droit-ue-fc-001",
+      "front": "Quelle est l'articulation entre la Convention de Bruxelles, le règlement Bruxelles I et le règlement Bruxelles I bis ?",
+      "back": "La Convention de Bruxelles de 1968 fut le premier texte liant les États sur la compétence et la reconnaissance en matière civile et commerciale ; elle conserve aujourd'hui un champ résiduel. Elle a été remplacée par le règlement 44/2001, dit Bruxelles I, lui-même refondu par le règlement 1215/2012, dit Bruxelles I bis, entré en application le 10 janvier 2015. La Convention de Lugano de 1988, révisée en 2007, a un contenu quasi identique pour les rapports avec les États de l'AELE.",
+      "tags": ["Bruxelles I bis", "Convention de Bruxelles"]
+    },
+    {
+      "id": "droit-ue-fc-002",
+      "front": "Quel est le principe posé par l'article 4 de Bruxelles I bis, et quelle doctrine la CJUE refuse-t-elle en conséquence ?",
+      "back": "L'article 4 pose le principe de la compétence des tribunaux de l'État du domicile du défendeur, selon l'adage actor sequitur forum rei. La CJUE considère que les questions de champ d'application du règlement sont d'ordre public : elle refuse la doctrine du forum non conveniens, qui permettrait à un juge compétent de décliner sa compétence au profit d'un juge qu'il estime mieux placé, et exclut les règles nationales exorbitantes fondées sur la nationalité, comme les articles 14 et 15 du code civil.",
+      "tags": ["article 4", "forum non conveniens"]
+    },
+    {
+      "id": "droit-ue-fc-003",
+      "front": "Quelle est la différence entre les compétences spéciales de l'article 7 et les compétences exclusives de l'article 24 de Bruxelles I bis ?",
+      "back": "L'article 7 ouvre au demandeur une simple option entre le tribunal du domicile du défendeur et une juridiction spécialement désignée pour la matière contractuelle ou délictuelle, sans écarter la compétence de principe. L'article 24 prévoit au contraire cinq hypothèses de compétence exclusive, à caractère impératif, où la compétence du domicile du défendeur est totalement écartée au profit d'une autre juridiction à laquelle les parties ne peuvent déroger, ni par clause attributive ni par comparution volontaire ; un juge saisi à tort dans ce cadre doit se déclarer d'office incompétent.",
+      "tags": ["article 7", "article 24"]
+    },
+    {
+      "id": "droit-ue-fc-004",
+      "front": "Comment Bruxelles I bis a-t-il transformé le régime de la reconnaissance et de l'exécution des décisions au sein de l'Union européenne ?",
+      "back": "Bruxelles I bis a supprimé de façon générale l'exequatur en matière civile et commerciale : une décision exécutoire dans son État d'origine jouit directement de la force exécutoire dans les autres États membres, sans déclaration constatant cette force exécutoire. Un contrôle reste néanmoins possible au stade de l'exécution, à travers cinq motifs de refus de reconnaissance et d'exécution interprétés de façon autonome et très étroite, notamment l'ordre public ou l'inconciliabilité de décisions.",
+      "tags": ["suppression de l'exequatur", "Bruxelles I bis"]
+    },
+    {
+      "id": "droit-ue-fc-005",
+      "front": "Quelles sont les deux procédures européennes facultatives qui s'ajoutent aux procédures nationales, et quel est leur mécanisme commun ?",
+      "back": "L'injonction de payer européenne et la procédure européenne de règlement des petits litiges sont deux procédures facultatives qui s'ajoutent, sans s'y substituer, aux procédures nationales. L'injonction de payer européenne repose sur un mécanisme d'inversion du contentieux : il incombe au débiteur d'engager une procédure contradictoire s'il entend contester la créance, faute de quoi l'injonction devient exécutoire sans exequatur. La procédure de règlement des petits litiges, plafonnée à 5 000 euros depuis 2017, prévoit une décision immédiatement exécutoire, sans représentation obligatoire par avocat.",
+      "tags": ["injonction de payer européenne", "petits litiges"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "droit-ue-qcm-001",
+      "question": "Un défendeur domicilié dans un État membre est assigné devant les juridictions de cet État par un demandeur domicilié hors de l'Union européenne. Le règlement Bruxelles I bis s'applique-t-il malgré la domiciliation extérieure du demandeur ?",
+      "options": [
+        "Oui, le règlement s'appliquant en principe dès lors que le défendeur y est domicilié",
+        "Non, le règlement exigeant que les deux parties soient domiciliées dans un État membre",
+        "Non, sauf accord exprès des deux parties pour appliquer ce règlement européen",
+        "Oui, mais uniquement si le litige porte sur une matière strictement commerciale"
+      ],
+      "answer": 0,
+      "explanation": "Le règlement Bruxelles I bis s'applique en principe dès lors que le défendeur est domicilié dans un État membre, même si le demandeur ne l'est pas, sous réserve des exceptions protectrices, des compétences exclusives et des clauses attributives qui peuvent jouer indépendamment de la domiciliation du défendeur.",
+      "tags": ["Bruxelles I bis", "domicile du défendeur"]
+    },
+    {
+      "id": "droit-ue-qcm-002",
+      "question": "Un juge français, saisi d'un litige contractuel entrant dans le champ de Bruxelles I bis, envisage de se déclarer incompétent au profit d'une juridiction étrangère qu'il estime mieux placée pour connaître de l'affaire, sans texte l'y obligeant. Cette pratique est-elle admise par la CJUE ?",
+      "options": [
+        "Oui, le juge conservant cette faculté au nom d'une bonne administration de la justice",
+        "Non, la CJUE refusant la doctrine du forum non conveniens dans le champ du règlement",
+        "Oui, mais uniquement si les deux parties consentent expressément à ce déclinatoire",
+        "Non, sauf si la juridiction étrangère est elle-même située dans un État membre proche"
+      ],
+      "answer": 1,
+      "explanation": "Selon la jurisprudence Owusu contre Jackson du 1er mars 2005, la CJUE refuse la doctrine du forum non conveniens dans le champ d'application du règlement, les questions de compétence étant considérées comme d'ordre public et ne pouvant être écartées par une simple appréciation d'opportunité du juge saisi.",
+      "tags": ["forum non conveniens", "Owusu"]
+    },
+    {
+      "id": "droit-ue-qcm-003",
+      "question": "Un litige oppose deux professionnels sur l'exécution d'un contrat de vente de marchandises entre deux États membres. Comment le règlement Bruxelles I bis détermine-t-il le lieu de la juridiction compétente en matière contractuelle ?",
+      "options": [
+        "En appliquant les règles de conflit du juge saisi pour déterminer la loi du contrat",
+        "En retenant systématiquement le lieu du siège social du vendeur, quel que soit le contrat",
+        "En localisant de façon autonome le lieu où les marchandises devaient être livrées",
+        "En imposant une saisine exclusive du tribunal du domicile de l'acheteur uniquement"
+      ],
+      "answer": 2,
+      "explanation": "Depuis Bruxelles I bis, le règlement procède à une localisation autonome pour la vente de marchandises et la prestation de services, en retenant le lieu d'exécution de la prestation caractéristique, ce qui évite le détour antérieur par les règles de conflit de lois qu'imposait la jurisprudence Tessili de 1976.",
+      "tags": ["matière contractuelle", "article 7 paragraphe 1"]
+    },
+    {
+      "id": "droit-ue-qcm-004",
+      "question": "Un litige porte sur la validité d'une inscription au registre du commerce et des sociétés d'un État membre. Les parties peuvent-elles convenir contractuellement d'attribuer compétence à une juridiction d'un autre État membre pour ce litige ?",
+      "options": [
+        "Non, cette matière relevant d'une compétence exclusive à laquelle il ne peut être dérogé",
+        "Oui, une clause attributive pouvant toujours écarter la compétence de principe posée",
+        "Oui, à condition que la clause soit rédigée par écrit et signée par les deux parties",
+        "Non, sauf si la juridiction désignée par la clause est celle du siège de la société"
+      ],
+      "answer": 0,
+      "explanation": "Les inscriptions sur les registres publics relèvent des compétences exclusives de l'article 24 du règlement, au profit de l'État où le registre est tenu ; ces compétences, à caractère impératif, ne peuvent être écartées ni par une clause attributive de juridiction ni par une comparution volontaire des parties.",
+      "tags": ["compétences exclusives", "article 24"]
+    },
+    {
+      "id": "droit-ue-qcm-005",
+      "question": "Une victime d'une atteinte à sa réputation diffusée sur internet dans plusieurs États membres saisit le juge du lieu où se trouve le centre de ses intérêts. Cette juridiction est-elle compétente pour l'intégralité du dommage subi dans tous les États concernés ?",
+      "options": [
+        "Non, cette juridiction n'étant compétente que pour le dommage subi sur son territoire",
+        "Oui, le for du centre des intérêts étant compétent pour l'intégralité du dommage",
+        "Non, chaque État membre concerné devant être saisi séparément par la victime lésée",
+        "Oui, mais uniquement si l'auteur est également domicilié dans cet État membre visé"
+      ],
+      "answer": 1,
+      "explanation": "Selon la jurisprudence eDate Advertising transposant la solution Fiona Shevill à internet, le for du centre des intérêts de la victime est compétent pour l'intégralité du dommage, à la différence du for du lieu d'accessibilité du contenu dans chaque État, qui n'est compétent que pour le dommage causé sur ce territoire selon l'approche dite mosaïque.",
+      "tags": ["matière délictuelle", "centre des intérêts de la victime"]
+    },
+    {
+      "id": "droit-ue-qcm-006",
+      "question": "Une clause attributive de juridiction figure dans les conditions générales d'un contrat conclu en ligne, accessibles par un lien hypertexte permettant de les consulter, télécharger et imprimer avant la signature, sans case à cocher spécifique. Cette clause est-elle valable au regard de l'article 25 du règlement ?",
+      "options": [
+        "Non, l'absence de case à cocher spécifique rendant la clause nécessairement inopposable",
+        "Non, une signature manuscrite distincte étant toujours exigée pour la validité",
+        "Oui, mais uniquement si le contrat est conclu entre deux professionnels de même secteur",
+        "Oui, cette modalité satisfaisant aux conditions de forme exigées par la CJUE"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'arrêt Tilman SA du 24 novembre 2022, une clause attributive figurant dans des conditions générales accessibles par un lien hypertexte permettant de les consulter, télécharger et imprimer avant signature satisfait aux conditions de forme de l'article 25, sans qu'une case à cocher spécifique soit requise.",
+      "tags": ["clause attributive de juridiction", "article 25"]
+    },
+    {
+      "id": "droit-ue-qcm-007",
+      "question": "Une juridiction d'un État membre demande à une juridiction d'un autre État membre de procéder directement à l'audition d'un témoin sur son territoire, sans recourir à des mesures coercitives. Cette exécution directe est-elle possible sous le règlement relatif à l'obtention des preuves ?",
+      "options": [
+        "Oui, sur une base volontaire, l'organisme central disposant de trente jours pour répondre",
+        "Non, seule la juridiction requise pouvant réaliser l'acte d'instruction sollicité",
+        "Non, sauf accord exprès et préalable donné par les autorités diplomatiques concernées",
+        "Oui, mais uniquement si le témoin est ressortissant de l'État de la juridiction requérante"
+      ],
+      "answer": 0,
+      "explanation": "L'exécution directe d'un acte d'instruction par la juridiction requérante sur le territoire d'un autre État membre est possible sur une base volontaire et sans mesures coercitives, l'organisme central de l'État requis disposant de trente jours pour répondre et ne pouvant refuser que dans des cas limitativement énumérés.",
+      "tags": ["obtention des preuves", "exécution directe"]
+    },
+    {
+      "id": "droit-ue-qcm-008",
+      "question": "Une décision étrangère est reconnue conforme au règlement Bruxelles I bis, mais son exécution en France se heurte à une décision antérieure inconciliable rendue entre les mêmes parties par une juridiction française. La reconnaissance de la décision étrangère peut-elle être refusée ?",
+      "options": [
+        "Non, le règlement interdisant tout refus fondé sur une décision nationale antérieure",
+        "Oui, l'inconciliabilité avec une décision rendue dans l'État requis étant un motif",
+        "Non, seule une contrariété à l'ordre public pouvant justifier un refus de reconnaissance",
+        "Oui, mais uniquement si la décision française est elle-même passée en force de chose jugée"
+      ],
+      "answer": 1,
+      "explanation": "Parmi les cinq motifs de refus de reconnaissance et d'exécution prévus par les articles 45 et 46 du règlement, figure l'inconciliabilité de la décision étrangère avec une décision rendue entre les mêmes parties dans l'État membre requis, ce motif justifiant un refus de reconnaissance malgré la suppression générale de l'exequatur.",
+      "tags": ["motifs de refus", "inconciliabilité de décisions"]
+    },
+    {
+      "id": "droit-ue-qcm-009",
+      "question": "Un débiteur n'a jamais contesté une créance au cours d'une procédure engagée contre lui et n'a pas comparu à l'audience. Le créancier souhaite obtenir un titre exécutoire européen pour cette créance qualifiée d'incontestée. Cette qualification est-elle possible ?",
+      "options": [
+        "Non, l'absence de comparution empêchant toute qualification de créance incontestée",
+        "Non, seule une reconnaissance expresse du débiteur pouvant caractériser une telle créance",
+        "Oui, cette situation figurant parmi les hypothèses légales de créance incontestée retenues",
+        "Oui, mais uniquement si le débiteur a été personnellement informé de cette conséquence"
+      ],
+      "answer": 2,
+      "explanation": "Parmi les quatre hypothèses de créance incontestée retenues par le règlement sur le titre exécutoire européen figure le cas où le débiteur, ayant contesté la créance en cours de procédure, n'a ensuite pas comparu ni ne s'est fait représenter à l'audience, ce qui permet la délivrance du titre exécutoire européen.",
+      "tags": ["titre exécutoire européen", "créance incontestée"]
+    },
+    {
+      "id": "droit-ue-qcm-010",
+      "question": "Un créancier engage une procédure d'injonction de payer européenne contre un débiteur qui forme opposition dans le délai légal, sans avoir à motiver sa contestation. Quel est l'effet de cette opposition sur la procédure engagée ?",
+      "options": [
+        "L'injonction devient caduque et le créancier doit engager une nouvelle procédure",
+        "Le débiteur doit nécessairement motiver son opposition pour que celle-ci soit recevable",
+        "L'opposition suspend définitivement toute action du créancier contre le débiteur",
+        "La procédure se poursuit comme une instance au fond devant les juridictions compétentes"
+      ],
+      "answer": 3,
+      "explanation": "Lorsque le défendeur forme opposition à l'injonction de payer européenne dans le délai de trente jours, sans devoir motiver sa contestation, la procédure continue alors comme une instance au fond conformément aux règles de la procédure civile ordinaire applicable devant la juridiction compétente.",
+      "tags": ["injonction de payer européenne", "opposition"]
+    }
+  ]
+}

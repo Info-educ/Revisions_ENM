@@ -1,0 +1,638 @@
+{
+  "id": "lexique-introduction-personnes-famille",
+  "title": "Lexique d'introduction au droit, des personnes et de la famille",
+  "category": "Droit civil — Les personnes",
+  "flashcards": [
+    {
+      "id": "lexique-pf-fc-001",
+      "front": "Qu'est-ce qu'un acte en droit et que peut-il désigner selon le contexte ?",
+      "back": "En droit, un acte est une manifestation de volonté ou un événement auquel le droit attache des effets juridiques. Le terme est très large : il peut désigner un document, comme un acte notarié ou un acte de naissance, une opération juridique, comme une vente ou une donation, ou un acte de procédure, comme une assignation. Le contexte permet de savoir de quel type d'acte il s'agit.",
+      "tags": [
+        "acte",
+        "manifestation de volonté"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-002",
+      "front": "Qu'est-ce qu'un acte authentique et quelles en sont les trois grandes caractéristiques ?",
+      "back": "L'acte authentique est un acte rédigé par un officier public compétent, tel qu'un notaire, un officier d'état civil, ou un commissaire de justice dans certains cas, dans les formes prévues par la loi. Il présente trois grandes caractéristiques : il fait foi jusqu'à inscription de faux concernant ce que l'officier public a personnellement constaté, il possède une date certaine, et il est, dans de nombreux cas, revêtu de la force exécutoire, par exemple un acte de vente signé devant un notaire. Il se distingue de l'acte sous seing privé.",
+      "tags": [
+        "acte authentique",
+        "acte sous seing privé"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-003",
+      "front": "Qu'est-ce qu'un acte conservatoire ?",
+      "back": "L'acte conservatoire est un acte destiné uniquement à préserver un droit ou un patrimoine, sans en modifier la consistance ; il est accompli pour éviter la perte d'un droit, par exemple interrompre une prescription, inscrire une hypothèque conservatoire, ou effectuer une saisie conservatoire. Même une personne ayant des pouvoirs limités peut souvent accomplir un acte conservatoire.",
+      "tags": [
+        "acte conservatoire",
+        "préservation d'un droit"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-004",
+      "front": "Qu'est-ce qu'un acte d'administration et entre quels actes se situe-t-il ?",
+      "back": "L'acte d'administration correspond à la gestion normale d'un patrimoine : il vise à conserver ou faire fructifier les biens sans modifier durablement leur valeur, par exemple louer un appartement pour une durée classique, réaliser des travaux d'entretien, ou placer des fonds sur un compte sécurisé. Il se situe entre l'acte conservatoire et l'acte de disposition.",
+      "tags": [
+        "acte d'administration",
+        "gestion du patrimoine"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-005",
+      "front": "Qu'est-ce qu'un acte de disposition ?",
+      "back": "L'acte de disposition est un acte qui modifie de manière importante le patrimoine et engage durablement les droits de son titulaire, par exemple vendre un immeuble, consentir une hypothèque, faire une donation, ou renoncer à un droit. Les actes de disposition nécessitent souvent des pouvoirs plus importants que les actes d'administration.",
+      "tags": [
+        "acte de disposition",
+        "patrimoine"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-006",
+      "front": "Que sont les actes de l'état civil et quels en sont les principaux exemples ?",
+      "back": "Les actes de l'état civil constatent officiellement les principaux événements de la vie d'une personne et sont établis par les officiers d'état civil. Les principaux sont l'acte de naissance, l'acte de mariage, et l'acte de décès ; ils font foi jusqu'à inscription de faux.",
+      "tags": [
+        "acte de l'état civil",
+        "officier d'état civil"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-007",
+      "front": "Qu'est-ce qu'un acte de la vie courante et pour quelle notion est-il particulièrement important ?",
+      "back": "Il s'agit des actes que toute personne accomplit quotidiennement sans conséquence patrimoniale importante, comme acheter du pain, prendre les transports, ou acheter un vêtement. Cette notion est importante notamment pour apprécier l'autonomie des mineurs ou des majeurs protégés.",
+      "tags": [
+        "acte de la vie courante",
+        "autonomie du mineur"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-008",
+      "front": "Qu'est-ce qu'un acte juridique et en quoi se distingue-t-il du fait juridique ?",
+      "back": "L'acte juridique est une manifestation de volonté destinée à produire des effets de droit : les parties veulent créer, modifier, transmettre ou éteindre des droits, par exemple un contrat de vente, une donation, un testament, ou une reconnaissance de dette. Il se distingue du fait juridique, qui produit des effets de droit indépendamment de la volonté de son auteur, comme un accident, un décès, ou une naissance.",
+      "tags": [
+        "acte juridique",
+        "fait juridique"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-009",
+      "front": "Qu'est-ce que l'acte sous signature privée et que se passe-t-il en cas de contestation de la signature ?",
+      "back": "L'acte sous signature privée, anciennement appelé acte sous seing privé, est un acte rédigé et signé directement par les parties, sans intervention d'un officier public. Il possède une force probante importante mais inférieure à celle d'un acte authentique ; en cas de contestation de la signature, on recourt à la vérification d'écriture, par exemple pour un contrat de vente signé uniquement entre un vendeur et un acheteur.",
+      "tags": [
+        "acte sous seing privé",
+        "vérification d'écriture"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-010",
+      "front": "Qu'est-ce que l'action de in rem verso et quelles en sont les conditions principales ?",
+      "back": "L'action de in rem verso est l'ancien nom de l'action fondée sur l'enrichissement injustifié : elle permet à une personne appauvrie d'obtenir une indemnisation lorsqu'une autre personne s'est enrichie sans justification juridique. Ses conditions principales sont un enrichissement, un appauvrissement corrélatif, un lien entre les deux, l'absence de cause légitime, et le caractère subsidiaire de l'action, par exemple lorsqu'une personne finance par erreur des travaux chez son voisin, qui voit la valeur de sa maison augmenter.",
+      "tags": [
+        "action de in rem verso",
+        "enrichissement injustifié"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-011",
+      "front": "Qu'est-ce que l'action à fins de subsides et crée-t-elle un lien de filiation ?",
+      "back": "L'action à fins de subsides permet à un enfant dont la filiation paternelle ne peut être légalement établie de demander une contribution financière à celui qui a eu des relations avec sa mère pendant la période de conception. Cette action ne crée aucun lien de filiation : elle ouvre uniquement droit à une aide financière.",
+      "tags": [
+        "action à fins de subsides",
+        "filiation"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-012",
+      "front": "Qu'est-ce que l'action en nullité et quelles en sont les principales causes ?",
+      "back": "L'action en nullité vise à faire prononcer par le juge l'annulation d'un acte juridique qui ne respecte pas les conditions de validité prévues par la loi. Les principales causes sont le vice du consentement, l'incapacité, l'objet illicite, et le défaut de forme lorsque la loi l'exige ; la nullité peut être absolue ou relative.",
+      "tags": [
+        "action en nullité",
+        "nullité absolue"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-013",
+      "front": "Qu'est-ce que l'action en contestation d'état ?",
+      "back": "L'action en contestation d'état est l'action permettant de contester un état civil ou une filiation déjà établie, par exemple contester une paternité légalement reconnue.",
+      "tags": [
+        "action en contestation d'état",
+        "filiation"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-014",
+      "front": "Qu'est-ce que l'action en réclamation d'état et quelle matière concerne-t-elle le plus souvent ?",
+      "back": "L'action en réclamation d'état est l'action permettant de faire reconnaître un état auquel une personne prétend avoir droit ; elle concerne le plus souvent la filiation, par exemple lorsqu'un enfant demande que soit judiciairement reconnue sa filiation paternelle.",
+      "tags": [
+        "action en réclamation d'état",
+        "filiation"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-015",
+      "front": "Qu'est-ce que l'action en rectification ?",
+      "back": "L'action en rectification est l'action destinée à corriger une erreur figurant dans un acte de l'état civil, par exemple une erreur de prénom ou de date de naissance.",
+      "tags": [
+        "action en rectification",
+        "acte de l'état civil"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-016",
+      "front": "Qu'est-ce que l'action en rescision pour lésion ?",
+      "back": "Cette action permet d'obtenir l'annulation ou la révision de certains contrats lorsqu'une partie a subi une lésion, c'est-à-dire un déséquilibre économique particulièrement important au moment de la conclusion du contrat. La simple lésion n'est pas toujours une cause de nullité : elle n'est admise que dans les cas prévus par la loi, par exemple la vente d'un immeuble pour un prix très inférieur à sa valeur réelle dans certaines hypothèses prévues par le Code civil.",
+      "tags": [
+        "action en rescision pour lésion",
+        "lésion"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-017",
+      "front": "Qu'est-ce que l'action en répétition de l'indu et sur quel principe repose-t-elle ?",
+      "back": "Cette action permet à une personne qui a payé par erreur une somme qu'elle ne devait pas de demander son remboursement. Elle repose sur le principe selon lequel personne ne doit conserver ce qui lui a été versé sans être dû, par exemple lorsqu'une banque verse deux fois le même salaire et peut demander la restitution du second paiement.",
+      "tags": [
+        "action en répétition de l'indu",
+        "paiement de l'indu"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-018",
+      "front": "Qu'est-ce qu'un administrateur ad hoc ?",
+      "back": "L'administrateur ad hoc est une personne désignée par le juge pour représenter temporairement une personne lorsque son représentant légal est empêché ou se trouve en conflit d'intérêts, par exemple lorsqu'un enfant est en conflit judiciaire avec ses parents et que le juge désigne un administrateur ad hoc pour défendre exclusivement les intérêts de l'enfant.",
+      "tags": [
+        "administrateur ad hoc",
+        "conflit d'intérêts"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-019",
+      "front": "Qu'est-ce qu'un argument et quelles formes peut-il prendre ?",
+      "back": "Un argument est un raisonnement utilisé pour convaincre le juge : il peut être de fait, de droit, logique, ou jurisprudentiel. Plusieurs arguments forment généralement un moyen ou soutiennent une prétention.",
+      "tags": [
+        "argument",
+        "moyen"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-020",
+      "front": "Qui sont les auxiliaires de justice ?",
+      "back": "Les auxiliaires de justice sont les professionnels qui participent au fonctionnement de la justice sans être eux-mêmes des magistrats : parmi eux figurent les avocats, les commissaires de justice, les notaires dans certaines fonctions, les greffiers, les administrateurs judiciaires, et les mandataires judiciaires, chacun jouant un rôle spécifique dans le déroulement des procédures ou la sécurité juridique.",
+      "tags": [
+        "auxiliaire de justice",
+        "avocat"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-021",
+      "front": "Qu'est-ce qu'un bien corporel et en quoi se distingue-t-il du bien incorporel ?",
+      "back": "Un bien corporel est un bien qui possède une existence matérielle et qui peut être perçu par les sens, notamment par le toucher : il s'agit de tous les objets physiques, comme une voiture, une maison, un livre, ou un téléphone. Il se distingue du bien incorporel, qui n'a pas d'existence matérielle, comme un brevet, un droit d'auteur, une créance, ou des parts sociales.",
+      "tags": [
+        "bien corporel",
+        "bien incorporel"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-022",
+      "front": "Qu'est-ce qu'un bien meuble et quelles en sont les deux catégories distinguées par le Code civil ?",
+      "back": "Le bien meuble est un bien qui peut être déplacé ou qui est juridiquement assimilé à un meuble. Le Code civil distingue les meubles par nature, qui peuvent être déplacés physiquement, comme une chaise, une voiture, ou un ordinateur, et les meubles par détermination de la loi, qui sont juridiquement considérés comme des meubles alors qu'ils sont immatériels, comme une créance, des actions de société, ou un droit d'auteur. Le bien meuble s'oppose au bien immeuble, qui ne peut pas être déplacé sans être détruit ou détérioré.",
+      "tags": [
+        "bien meuble",
+        "bien immeuble"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-023",
+      "front": "Qu'est-ce que la blockchain et quelles en sont les principales caractéristiques ?",
+      "back": "La blockchain est une technologie de stockage et de transmission d'informations reposant sur un registre partagé entre plusieurs utilisateurs. Ses principales caractéristiques sont la décentralisation, la traçabilité, la sécurité, et l'impossibilité ou la très grande difficulté de modifier les données enregistrées. En droit, elle est utilisée notamment pour les cryptoactifs, les NFT, certains contrats intelligents, et la preuve de certaines opérations ; la blockchain n'est pas une cryptomonnaie, c'est la technologie sur laquelle reposent certaines cryptomonnaies.",
+      "tags": [
+        "blockchain",
+        "cryptoactifs"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-024",
+      "front": "Qu'est-ce que la common law et en quoi diffère-t-elle du système français ?",
+      "back": "La common law est le système juridique principalement appliqué dans les pays anglo-saxons, tels que le Royaume-Uni, les États-Unis, le Canada anglophone, ou l'Australie ; sa principale caractéristique est l'importance accordée à la jurisprudence, les décisions rendues par les juridictions supérieures servant de référence pour les affaires futures. À l'inverse, la France appartient à la famille du droit romano-germanique, dans laquelle la loi occupe une place centrale, même si les lois existent aussi en common law, simplement moins exclusivement qu'en droit français.",
+      "tags": [
+        "common law",
+        "droit romano-germanique"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-025",
+      "front": "Qu'est-ce qu'un conflit de juridiction et quelles formes peut-il prendre ?",
+      "back": "Le conflit de juridiction consiste à déterminer quel tribunal est compétent pour juger un litige : il peut s'agir d'un conflit entre plusieurs juridictions françaises, d'un conflit entre une juridiction française et une juridiction étrangère, ou d'un conflit entre l'ordre judiciaire et l'ordre administratif, par exemple lorsqu'un accident implique une personne publique et qu'il faut déterminer s'il faut saisir le juge administratif ou le juge judiciaire.",
+      "tags": [
+        "conflit de juridiction",
+        "ordre judiciaire"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-026",
+      "front": "Qu'est-ce qu'un conflit de lois et comment le juge le résout-il ?",
+      "back": "Le conflit de lois apparaît lorsqu'un litige présente un élément d'extranéité et que plusieurs lois nationales pourraient s'appliquer ; le juge doit alors déterminer quelle loi est compétente grâce aux règles de droit international privé, par exemple lorsque deux époux de nationalités différentes divorcent alors qu'ils vivent dans un troisième État.",
+      "tags": [
+        "conflit de lois",
+        "droit international privé"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-027",
+      "front": "Qu'est-ce qu'un contrat synallagmatique et en quoi se distingue-t-il du contrat unilatéral ?",
+      "back": "Le contrat synallagmatique est un contrat dans lequel chaque partie est à la fois créancière et débitrice, chaque obligation trouvant sa contrepartie dans celle de l'autre partie, par exemple la vente, le bail, ou le contrat de travail : dans une vente, le vendeur doit livrer la chose et l'acheteur doit payer le prix. Il se distingue du contrat unilatéral, où une seule partie s'oblige.",
+      "tags": [
+        "contrat synallagmatique",
+        "contrat unilatéral"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-028",
+      "front": "Qu'est-ce que le contrôle de constitutionnalité et quelles en sont les deux formes ?",
+      "back": "Le contrôle de constitutionnalité consiste à vérifier qu'une loi est conforme à la Constitution ; en France, il est exercé principalement par le Conseil constitutionnel. Il existe deux formes : le contrôle a priori, qui intervient avant la promulgation de la loi, et le contrôle a posteriori, qui intervient après son entrée en vigueur grâce à la question prioritaire de constitutionnalité. Si la loi est déclarée contraire à la Constitution, elle peut être abrogée.",
+      "tags": [
+        "contrôle de constitutionnalité",
+        "QPC"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-029",
+      "front": "Qu'est-ce que le contrôle de conventionnalité et qui peut l'exercer ?",
+      "back": "Le contrôle de conventionnalité consiste à vérifier qu'une loi française est conforme aux traités internationaux. Contrairement au contrôle de constitutionnalité, tous les juges français peuvent l'exercer ; les principaux textes contrôlés sont la Convention européenne des droits de l'homme, le droit de l'Union européenne, et les autres traités internationaux. Il n'annule pas la loi : le juge refuse simplement de l'appliquer dans le litige qui lui est soumis.",
+      "tags": [
+        "contrôle de conventionnalité",
+        "CEDH"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-030",
+      "front": "Qu'est-ce que le contrôle de proportionnalité et quelles trois questions le juge se pose-t-il ?",
+      "back": "Le contrôle de proportionnalité consiste à vérifier qu'une atteinte portée à un droit fondamental n'est ni excessive ni disproportionnée au regard de l'objectif poursuivi. Le juge se pose généralement trois questions : la mesure poursuit-elle un objectif légitime, est-elle nécessaire, et est-elle proportionnée ? Ce contrôle est aujourd'hui très utilisé par la Cour européenne des droits de l'homme, la Cour de cassation, le Conseil d'État, et le Conseil constitutionnel.",
+      "tags": [
+        "contrôle de proportionnalité",
+        "droit fondamental"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-031",
+      "front": "Qu'est-ce que l'état des personnes et quelles en sont les trois caractéristiques ?",
+      "back": "L'état des personnes désigne l'ensemble des éléments juridiques qui permettent d'identifier une personne et de déterminer sa situation juridique dans la société, comme le nom, le prénom, le sexe, la date et le lieu de naissance, la nationalité, la filiation, ou la situation matrimoniale ; ces éléments sont inscrits dans les actes de l'état civil. L'état des personnes est indisponible, imprescriptible, et hors du commerce juridique : on ne peut pas conclure un contrat pour renoncer définitivement à sa qualité d'enfant, par exemple.",
+      "tags": [
+        "état des personnes",
+        "indisponibilité"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-032",
+      "front": "Qu'est-ce que l'eugénisme et sur quoi repose son interdiction en droit français ?",
+      "back": "L'eugénisme consiste à sélectionner ou éliminer certaines caractéristiques génétiques afin de modifier la population humaine. Le droit français interdit les pratiques eugéniques organisées, cette interdiction reposant notamment sur le respect de la dignité humaine, le principe d'égalité entre les êtres humains, et les règles de bioéthique ; il ne faut pas confondre l'eugénisme avec certains examens médicaux destinés uniquement à dépister ou soigner une maladie.",
+      "tags": [
+        "eugénisme",
+        "dignité humaine"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-033",
+      "front": "Qu'est-ce que la méthode de l'exégèse et quelle est son importance aujourd'hui ?",
+      "back": "L'exégèse est une méthode d'interprétation du droit qui consiste à rechercher la volonté du législateur à partir du texte lui-même ; elle a dominé le droit français au dix-neuvième siècle après l'adoption du Code civil, la loi étant alors la source essentielle du droit et le juge devant appliquer fidèlement le texte. Aujourd'hui, cette méthode est beaucoup moins exclusive : la jurisprudence, les principes généraux et les droits fondamentaux jouent un rôle beaucoup plus important.",
+      "tags": [
+        "exégèse",
+        "interprétation du droit"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-034",
+      "front": "Qu'est-ce que l'exception d'illégalité ?",
+      "back": "L'exception d'illégalité permet à une personne de soutenir, à l'occasion d'un litige, qu'un acte administratif est illégal. Le juge n'annule pas nécessairement cet acte, mais il peut décider de ne pas l'appliquer au litige, par exemple lorsqu'une administration refuse une autorisation en se fondant sur un règlement illégal ; cette notion relève principalement du droit administratif.",
+      "tags": [
+        "exception d'illégalité",
+        "droit administratif"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-035",
+      "front": "Qu'est-ce que l'incapacité juridique et quelles en sont les deux catégories ?",
+      "back": "L'incapacité juridique est l'impossibilité, totale ou partielle, d'exercer certains droits. Il existe deux catégories qu'il est essentiel de distinguer : l'incapacité de jouissance et l'incapacité d'exercice.",
+      "tags": [
+        "incapacité juridique",
+        "incapacité de jouissance"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-036",
+      "front": "Qu'est-ce que l'incapacité de jouissance ?",
+      "back": "L'incapacité de jouissance empêche une personne d'être titulaire de certains droits ; elle est exceptionnelle, par exemple un médecin ne peut pas recevoir certains dons de la part d'un patient qu'il a soigné dans certaines conditions prévues par la loi. La personne n'acquiert donc jamais ce droit.",
+      "tags": [
+        "incapacité de jouissance",
+        "titularité du droit"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-037",
+      "front": "Qu'est-ce que l'incapacité d'exercice et en quoi se distingue-t-elle de l'incapacité de jouissance ?",
+      "back": "L'incapacité d'exercice signifie que la personne possède le droit, mais ne peut pas l'exercer seule : elle doit être représentée ou assistée, par exemple un mineur ou un majeur sous tutelle. La personne conserve ses droits, mais ne peut pas les exercer personnellement ; à la différence de l'incapacité de jouissance, où l'on ne possède pas le droit, dans l'incapacité d'exercice on possède le droit mais on ne peut pas l'exercer seul.",
+      "tags": [
+        "incapacité d'exercice",
+        "représentation"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-038",
+      "front": "Qu'est-ce que l'indivision et quelle en est la règle fondamentale ?",
+      "back": "L'indivision est la situation dans laquelle plusieurs personnes sont simultanément propriétaires d'un même bien sans que leurs parts soient matériellement divisées, chaque indivisaire possédant une quote-part abstraite, par exemple trois enfants héritant ensemble d'une maison, possédant chacun un tiers de la propriété sans pouvoir revendiquer une pièce précise. La règle fondamentale est que nul n'est contraint de demeurer dans l'indivision : chaque indivisaire peut, en principe, demander le partage.",
+      "tags": [
+        "indivision",
+        "quote-part"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-039",
+      "front": "Qu'est-ce qu'un jugement déclaratif ?",
+      "back": "Le jugement déclaratif est un jugement qui se contente de reconnaître officiellement un droit déjà existant : il ne crée pas de droit nouveau, par exemple lorsque le juge reconnaît qu'une personne est propriétaire d'un terrain depuis plusieurs années. Le jugement ne crée pas la propriété, il la constate.",
+      "tags": [
+        "jugement déclaratif",
+        "reconnaissance d'un droit"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-040",
+      "front": "Qu'est-ce qu'une loi d'abrogation et quelles en sont les deux formes ?",
+      "back": "Une loi d'abrogation est une loi qui supprime totalement ou partiellement une loi antérieure. L'abrogation peut être expresse, lorsque la nouvelle loi indique clairement que la loi antérieure est abrogée, ou tacite, lorsque la nouvelle loi est incompatible avec l'ancienne.",
+      "tags": [
+        "loi d'abrogation",
+        "abrogation tacite"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-041",
+      "front": "Qu'est-ce que la promulgation de la loi et quel est son effet sur son opposabilité ?",
+      "back": "La promulgation est l'acte par lequel le Président de la République constate officiellement qu'une loi a été régulièrement adoptée et ordonne son exécution ; elle intervient après le vote du Parlement et, le cas échéant, après le contrôle du Conseil constitutionnel. La promulgation ne rend pas encore la loi opposable aux citoyens.",
+      "tags": [
+        "promulgation de la loi",
+        "Président de la République"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-042",
+      "front": "Qu'est-ce que la publication de la loi et quand la loi entre-t-elle en vigueur ?",
+      "back": "La publication consiste à rendre officiellement la loi accessible au public, aujourd'hui principalement par sa publication au Journal officiel. En principe, la loi entre en vigueur le lendemain de sa publication, sauf disposition contraire : la promulgation authentifie la loi tandis que la publication la porte à la connaissance de tous.",
+      "tags": [
+        "publication de la loi",
+        "entrée en vigueur"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-043",
+      "front": "Qu'est-ce qu'une loi en désuétude ?",
+      "back": "Une loi en désuétude est une loi toujours officiellement en vigueur mais qui n'est plus appliquée en pratique depuis très longtemps : en théorie, elle existe encore, mais en pratique, elle est devenue sans effet. En droit français, la désuétude n'abroge pas automatiquement une loi.",
+      "tags": [
+        "loi en désuétude",
+        "abrogation"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-044",
+      "front": "Qu'est-ce qu'une loi expérimentale et que peut-il advenir à l'issue de l'expérimentation ?",
+      "back": "Une loi expérimentale est adoptée pour une durée limitée afin de tester une réforme ; à l'issue de l'expérimentation, elle peut être généralisée, modifiée, ou abandonnée, par exemple une nouvelle procédure testée uniquement dans certains départements.",
+      "tags": [
+        "loi expérimentale",
+        "réforme"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-045",
+      "front": "Qu'est-ce qu'une loi impérative et que protège-t-elle généralement ?",
+      "back": "La loi impérative est une règle à laquelle les particuliers ne peuvent pas déroger par contrat. Elle protège généralement l'ordre public, les personnes faibles, et l'intérêt général, par exemple les règles relatives au mariage ou à la filiation.",
+      "tags": [
+        "loi impérative",
+        "ordre public"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-046",
+      "front": "Qu'est-ce qu'une loi interprétative et pourquoi produit-elle souvent un effet rétroactif ?",
+      "back": "La loi interprétative précise le sens d'une loi ancienne lorsqu'elle était ambiguë ; en principe, elle est considérée comme faisant corps avec la loi qu'elle interprète, c'est pourquoi elle produit souvent un effet rétroactif.",
+      "tags": [
+        "loi interprétative",
+        "effet rétroactif"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-047",
+      "front": "Qu'est-ce qu'une loi ordinaire ?",
+      "back": "La loi ordinaire est la loi votée selon la procédure législative classique ; elle constitue la majorité des lois françaises et intervient dans le domaine défini par l'article 34 de la Constitution.",
+      "tags": [
+        "loi ordinaire",
+        "procédure législative"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-048",
+      "front": "Qu'est-ce qu'une loi organique et selon quelle procédure est-elle adoptée ?",
+      "back": "La loi organique complète la Constitution : elle organise notamment le fonctionnement des pouvoirs publics et certaines institutions. Elle est adoptée selon une procédure plus stricte que la loi ordinaire, et avant sa promulgation, elle doit obligatoirement être contrôlée par le Conseil constitutionnel.",
+      "tags": [
+        "loi organique",
+        "Conseil constitutionnel"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-049",
+      "front": "Qu'est-ce qu'une loi référendaire ?",
+      "back": "La loi référendaire est une loi adoptée directement par le peuple à l'issue d'un référendum ; elle possède la même valeur qu'une loi ordinaire, mais son mode d'adoption est différent.",
+      "tags": [
+        "loi référendaire",
+        "référendum"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-050",
+      "front": "Qu'est-ce qu'une loi rétroactive et dans quels cas la rétroactivité est-elle admise ?",
+      "back": "Une loi rétroactive s'applique à des situations nées avant son entrée en vigueur. En principe, la loi ne dispose que pour l'avenir : la rétroactivité est donc exceptionnelle, admise notamment pour certaines lois interprétatives ou lorsqu'un texte le prévoit expressément, sous réserve du respect des principes constitutionnels.",
+      "tags": [
+        "loi rétroactive",
+        "non-rétroactivité"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-051",
+      "front": "Qu'est-ce qu'une loi supplétive ?",
+      "back": "La loi supplétive ne s'applique que si les parties n'ont rien prévu : les particuliers peuvent donc y déroger librement, par exemple de nombreuses règles du droit des contrats.",
+      "tags": [
+        "loi supplétive",
+        "dérogation"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-052",
+      "front": "Qu'est-ce qu'une loi uniforme ?",
+      "back": "Une loi uniforme est un texte destiné à harmoniser le droit entre plusieurs États : elle permet que les mêmes règles s'appliquent dans différents pays, par exemple certaines conventions internationales ou actes uniformes de l'OHADA.",
+      "tags": [
+        "loi uniforme",
+        "harmonisation du droit"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-053",
+      "front": "Qu'est-ce qu'une obligation de moyens et que doit démontrer le créancier pour engager la responsabilité du débiteur ?",
+      "back": "Une obligation de moyens est une obligation dans laquelle le débiteur promet de mettre en œuvre tous les moyens raisonnables pour atteindre un résultat, sans garantir que ce résultat sera effectivement obtenu. Le créancier devra démontrer que le débiteur n'a pas agi avec toute la diligence normalement attendue, c'est-à-dire prouver une faute ; ainsi, le médecin ne promet pas de guérir son patient, mais de poser un diagnostic consciencieux et d'agir avec prudence et compétence.",
+      "tags": [
+        "obligation de moyens",
+        "preuve de la faute"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-054",
+      "front": "Qu'est-ce qu'une obligation de résultat et comment le débiteur peut-il s'exonérer ?",
+      "back": "L'obligation de résultat est beaucoup plus exigeante que l'obligation de moyens : le débiteur s'engage à atteindre un résultat déterminé, et si ce résultat n'est pas obtenu, sa responsabilité est en principe engagée, le créancier n'ayant généralement qu'à prouver l'existence de l'obligation et l'absence du résultat promis, sans démontrer de faute. Le débiteur ne pourra s'exonérer qu'en démontrant une cause étrangère, comme un cas de force majeure, une faute de la victime, ou le fait d'un tiers ; ainsi, un transporteur ferroviaire doit conduire le voyageur à destination.",
+      "tags": [
+        "obligation de résultat",
+        "cause étrangère"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-055",
+      "front": "Qu'est-ce que la possession d'état et sur quels trois éléments repose-t-elle traditionnellement ?",
+      "back": "La possession d'état est une situation de fait dans laquelle une personne est traitée, de manière constante, comme si elle possédait un certain état juridique, notamment une filiation. Elle repose traditionnellement sur trois éléments : le nom, la personne portant le nom de la famille ; le traitement, la famille la considérant et l'élevant comme son enfant ; et la réputation, l'entourage la considérant également comme appartenant à cette famille. Lorsque ces éléments sont réunis de manière continue, paisible et publique, la possession d'état peut servir à établir une filiation ; il ne faut pas la confondre avec la possession en droit des biens.",
+      "tags": [
+        "possession d'état",
+        "nomen tractatus fama"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-056",
+      "front": "Qu'est-ce que le pourvoi en cassation et que vérifie la Cour de cassation ?",
+      "back": "Le pourvoi en cassation est une voie de recours extraordinaire exercée devant la Cour de cassation. Contrairement à l'appel, la Cour de cassation ne rejuge pas les faits : elle vérifie uniquement si les juges du fond ont correctement appliqué le droit. Si elle estime le droit correctement appliqué, elle rejette le pourvoi et la décision devient définitive ; si elle constate une erreur de droit, elle casse la décision, l'affaire étant généralement renvoyée devant une autre cour d'appel. La Cour de cassation ne recherche pas qui dit vrai, mais uniquement si la règle de droit a été correctement appliquée.",
+      "tags": [
+        "pourvoi en cassation",
+        "erreur de droit"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-057",
+      "front": "Qu'est-ce qu'une présomption irréfragable ?",
+      "back": "Une présomption irréfragable est une présomption contre laquelle aucune preuve contraire n'est admise : une fois les conditions légales réunies, le juge est obligé d'en tirer les conséquences, par exemple l'autorité de la chose jugée, qui rend impossible de prouver le contraire pour rouvrir le même litige. Il faut la distinguer de la présomption simple.",
+      "tags": [
+        "présomption irréfragable",
+        "présomption simple"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-058",
+      "front": "Qu'est-ce que la qualification juridique et pourquoi est-elle si importante ?",
+      "back": "La qualification juridique consiste à attribuer à un fait ou à une situation la catégorie juridique qui lui correspond : c'est une étape essentielle du raisonnement juridique, par exemple lorsque le juge doit déterminer si un document constitue une vente, une donation, un prêt, ou un bail. Elle est importante car les mêmes faits peuvent recevoir des qualifications différentes, entraînant des conséquences juridiques totalement différentes ; la remise d'une somme d'argent peut ainsi être un prêt, une donation, ou un acompte selon la qualification retenue.",
+      "tags": [
+        "qualification juridique",
+        "raisonnement juridique"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-059",
+      "front": "Qu'est-ce que la relativité de la chose jugée et en quoi se distingue-t-elle de l'autorité de la chose jugée ?",
+      "back": "La relativité de la chose jugée signifie que les effets d'une décision de justice ne concernent que les parties au procès, ainsi que leurs ayants cause dans certaines situations : les tiers ne sont, en principe, ni bénéficiaires ni tenus par cette décision, ce qui justifie l'existence de la tierce opposition, permettant à un tiers dont les droits sont affectés de demander qu'elle soit réexaminée à son égard. L'autorité de la chose jugée interdit de rejuger le même litige lorsque les conditions sont réunies, tandis que la relativité indique à qui la décision s'impose, en principe uniquement aux parties.",
+      "tags": [
+        "relativité de la chose jugée",
+        "autorité de la chose jugée"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-060",
+      "front": "Qu'est-ce que la responsabilité contractuelle et quelles en sont les trois conditions ?",
+      "back": "La responsabilité contractuelle est engagée lorsqu'une personne n'exécute pas ou exécute mal une obligation née d'un contrat. Elle suppose trois conditions : un contrat valable, une inexécution ou une mauvaise exécution du contrat, et un préjudice accompagné en principe d'un lien de causalité ; la preuve exigée varie selon que l'obligation est de moyens ou de résultat. Elle ne peut être engagée qu'entre les parties au contrat.",
+      "tags": [
+        "responsabilité contractuelle",
+        "inexécution"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-061",
+      "front": "Qu'est-ce que la responsabilité délictuelle et quelles en sont les trois conditions ?",
+      "back": "La responsabilité délictuelle naît en dehors de tout contrat : elle repose sur le principe selon lequel toute personne qui cause un dommage à autrui doit le réparer. Elle suppose généralement une faute ou un fait générateur, un dommage, et un lien de causalité entre les deux, par exemple lorsqu'un cycliste renverse un piéton dans la rue alors qu'aucun contrat ne les lie. Elle est régie principalement par les articles 1240 et suivants du Code civil.",
+      "tags": [
+        "responsabilité délictuelle",
+        "fait générateur"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-062",
+      "front": "Qu'est-ce que la responsabilité parentale et en quoi se distingue-t-elle de la responsabilité civile des parents ?",
+      "back": "La responsabilité parentale désigne l'ensemble des droits et des devoirs des parents envers leurs enfants mineurs : elle s'exerce dans l'intérêt de l'enfant et comprend notamment sa protection, son éducation, sa santé, son entretien, et son développement. Depuis les réformes récentes, on parle davantage de l'exercice de l'autorité parentale, même si l'expression est encore utilisée, notamment en droit européen ; il ne faut pas la confondre avec la responsabilité civile des parents, qui concerne l'obligation de réparer les dommages causés par leur enfant mineur.",
+      "tags": [
+        "responsabilité parentale",
+        "autorité parentale"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-063",
+      "front": "Qu'est-ce que la sauvegarde de justice et en quoi se distingue-t-elle de la curatelle et de la tutelle ?",
+      "back": "La sauvegarde de justice est la mesure de protection juridique la plus légère pour un majeur vulnérable ; elle est généralement temporaire, la personne conservant en principe l'exercice de ses droits, mais les actes qu'elle accomplit peuvent être remis en cause s'ils lui sont gravement préjudiciables, par exemple une personne hospitalisée après un accident placée sous sauvegarde de justice pendant quelques mois. Elle se distingue de la curatelle et de la tutelle, qui sont des mesures plus contraignantes.",
+      "tags": [
+        "sauvegarde de justice",
+        "majeur protégé"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-064",
+      "front": "Qu'est-ce que la séparation de corps et que conservent les époux ?",
+      "back": "La séparation de corps est une décision judiciaire qui met fin à l'obligation de vie commune entre les époux, sans dissoudre le mariage : les époux restent mariés et conservent notamment leur qualité d'époux et les empêchements à un nouveau mariage, mais n'ont plus l'obligation de cohabiter. Ils peuvent demander ultérieurement la conversion de cette séparation en divorce.",
+      "tags": [
+        "séparation de corps",
+        "obligation de vie commune"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-065",
+      "front": "Qu'est-ce que la séparation de fait et en quoi se distingue-t-elle de la séparation de corps ?",
+      "back": "La séparation de fait correspond à une situation purement matérielle : les époux cessent de vivre ensemble sans décision judiciaire, et le mariage continue de produire ses effets. Contrairement à la séparation de corps, aucune décision du juge n'est nécessaire et aucune conséquence juridique automatique n'en découle.",
+      "tags": [
+        "séparation de fait",
+        "séparation de corps"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-066",
+      "front": "Qu'est-ce que le syllogisme juridique et quelles en sont les trois étapes ?",
+      "back": "Le syllogisme juridique est le raisonnement utilisé par tous les juristes pour résoudre un problème de droit. Il comporte trois étapes : la majeure, où l'on énonce la règle de droit ; la mineure, où l'on applique cette règle aux faits ; et la conclusion, où l'on déduit la solution juridique. Tout raisonnement juridique suit cette logique, qui est au cœur du raisonnement attendu à l'ENM, en licence, en master et aux concours.",
+      "tags": [
+        "syllogisme juridique",
+        "majeure mineure conclusion"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-067",
+      "front": "Qu'est-ce qu'un vice du consentement et quels sont les trois vices prévus par le Code civil ?",
+      "back": "Le consentement est valable uniquement s'il est libre et éclairé ; lorsqu'il est altéré, on parle de vice du consentement. Le Code civil en prévoit principalement trois : l'erreur, le dol, et la violence.",
+      "tags": [
+        "vice du consentement",
+        "consentement libre et éclairé"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-068",
+      "front": "Qu'est-ce que l'erreur en tant que vice du consentement ?",
+      "back": "L'erreur est une fausse représentation de la réalité : elle entraîne la nullité lorsqu'elle porte sur une qualité essentielle de la prestation ou de la personne, dans certains contrats, par exemple lorsqu'une personne achète un tableau en pensant qu'il est authentique alors qu'il s'agit d'une copie.",
+      "tags": [
+        "erreur",
+        "vice du consentement"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-069",
+      "front": "Qu'est-ce que le dol en tant que vice du consentement ?",
+      "back": "Le dol est une tromperie volontaire destinée à obtenir le consentement de l'autre partie : il suppose des manœuvres, des mensonges ou une dissimulation intentionnelle, par exemple lorsqu'un vendeur maquille volontairement le kilométrage d'une voiture.",
+      "tags": [
+        "dol",
+        "manœuvres frauduleuses"
+      ]
+    },
+    {
+      "id": "lexique-pf-fc-070",
+      "front": "Qu'est-ce que la violence en tant que vice du consentement, et quelles formes peut-elle prendre ?",
+      "back": "La violence consiste à obtenir le consentement sous la menace ; cette menace peut être physique, morale, ou économique dans certaines hypothèses reconnues par la jurisprudence et le Code civil, par exemple lorsqu'une personne signe un contrat parce qu'elle est menacée de graves représailles.",
+      "tags": [
+        "violence",
+        "menace économique"
+      ]
+    }
+  ],
+  "qcm": []
+}

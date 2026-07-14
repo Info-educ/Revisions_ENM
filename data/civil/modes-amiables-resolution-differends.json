@@ -1,0 +1,143 @@
+{
+  "id": "modes-amiables-resolution-differends",
+  "title": "Les modes amiables de résolution des différends (MARD)",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "mard-fc-001",
+      "front": "Qu'est-ce qu'un MARD et en quoi se distingue-t-il des modes alternatifs de règlement des différends incluant l'arbitrage ?",
+      "back": "Un MARD est un mode amiable de résolution des différends : l'ensemble des procédés visant à résoudre un différend par un accord entre les parties, sans intervention d'un tiers qui tranche. Il se distingue des modes alternatifs de règlement des différends, catégorie plus large incluant l'arbitrage, où l'arbitre dispose au contraire d'un véritable pouvoir juridictionnel pour trancher le litige.",
+      "tags": ["MARD", "arbitrage"]
+    },
+    {
+      "id": "mard-fc-002",
+      "front": "Depuis le décret du 18 juillet 2025, quelle est l'unique différence juridique subsistant entre la conciliation et la médiation ?",
+      "back": "Depuis ce décret, l'article 1530 du code de procédure civile retient une définition unique de la conciliation et de la médiation, les deux étant définies comme tout processus structuré par lequel deux ou plusieurs parties tentent de parvenir à un accord avec l'aide d'un tiers. Le législateur a choisi de ne pas trancher le débat doctrinal sur leur distinction : la seule différence juridique qui subsiste tient au statut du tiers, bénévole pour le conciliateur de justice, rémunéré pour le médiateur.",
+      "tags": ["conciliation", "médiation"]
+    },
+    {
+      "id": "mard-fc-003",
+      "front": "Qu'est-ce que l'audience de règlement amiable et pourquoi est-elle qualifiée de « conciliation augmentée teintée de médiation » ?",
+      "back": "L'audience de règlement amiable, créée par le décret du 29 juillet 2023, est une variante de la conciliation par le juge, mais menée par un juge différent de celui saisi du litige, à l'instar de la conférence de règlement amiable québécoise. Selon N. Fricero, elle est qualifiée de « conciliation augmentée teintée de médiation » car le juge conserve un pouvoir d'évaluation juridique propre à la conciliation classique, tout en empruntant le vocabulaire et les techniques de la médiation, comme l'évaluation des besoins et des intérêts des parties.",
+      "tags": ["audience de règlement amiable", "conciliation augmentée"]
+    },
+    {
+      "id": "mard-fc-004",
+      "front": "Qu'est-ce que la procédure participative aux fins de résolution amiable et quelle forme doit revêtir la convention à peine de nullité ?",
+      "back": "La procédure participative est un contrat spécial par lequel les parties, assistées obligatoirement de leur avocat, s'engagent à œuvrer conjointement et de bonne foi à la résolution amiable de leur différend, pour des droits dont elles ont la libre disposition. La convention doit être écrite à peine de nullité, en mentionnant le terme, l'objet, et les modalités d'échange des pièces ; issue de la loi du 18 novembre 2016, elle a été refondue par le décret du 18 juillet 2025 en un régime simplifié, bien qu'elle n'ait jamais été très utilisée en pratique.",
+      "tags": ["procédure participative", "convention écrite"]
+    },
+    {
+      "id": "mard-fc-005",
+      "front": "Quelle est la différence entre l'effet extinctif et l'effet déclaratif de la transaction ?",
+      "back": "L'effet extinctif, prévu par l'article 2052 du code civil, signifie que la transaction fait obstacle à l'introduction ou à la poursuite entre les parties d'une action en justice ayant le même objet, ce qui donne lieu à une exception de transaction. L'effet déclaratif, non constitutif, signifie que la transaction ne transfère aucun droit nouveau : elle constate ou reconnaît une situation préexistante, selon une fiction juridique, sans créer de droit nouveau au profit des parties.",
+      "tags": ["effet extinctif", "effet déclaratif"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "mard-qcm-001",
+      "question": "Devant quelle juridiction la conciliation menée par le juge demeure-t-elle obligatoire, historiquement en tant que seul MARD prévu ?",
+      "options": [
+        "Devant le tribunal judiciaire, pour tous les litiges relevant de sa compétence générale",
+        "Devant le conseil de prud'hommes, en application du code du travail français",
+        "Devant le tribunal de commerce, pour tous les litiges entre professionnels commerçants",
+        "Devant la cour d'appel, pour tous les recours formés contre un jugement rendu"
+      ],
+      "answer": 1,
+      "explanation": "La conciliation menée au seuil de l'instance par le juge, historiquement le seul mode amiable prévu, reste obligatoire uniquement devant le conseil de prud'hommes, en application de l'article L. 1454-1 du code du travail, alors qu'elle demeure seulement facultative devant le tribunal paritaire des baux ruraux.",
+      "tags": ["conciliation obligatoire", "conseil de prud'hommes"]
+    },
+    {
+      "id": "mard-qcm-002",
+      "question": "Un juge enjoint aux parties de rencontrer un conciliateur de justice, en subordonnant dans la même décision l'injonction au recueil de leur consentement par ce conciliateur. Cette pratique, dite ordonnance à double détente, poursuit quel objectif ?",
+      "options": [
+        "Contraindre les parties à parvenir obligatoirement à un accord amiable définitif",
+        "Éviter la multiplication des décisions rendues successivement par le même juge",
+        "Transférer intégralement la compétence du litige au conciliateur ainsi désigné",
+        "Supprimer toute possibilité de saisine ultérieure du juge par les deux parties"
+      ],
+      "answer": 1,
+      "explanation": "Selon l'article 1533, alinéa 3, du code de procédure civile, l'ordonnance à double détente permet au juge de subordonner, dans la même décision, l'injonction de rencontrer un conciliateur au recueil du consentement des parties par ce dernier, ce qui évite la multiplication des décisions rendues par le juge.",
+      "tags": ["ordonnance à double détente", "injonction de conciliation"]
+    },
+    {
+      "id": "mard-qcm-003",
+      "question": "Une partie s'abstient sans justification de se rendre à la réunion d'information sur la conciliation à laquelle le juge l'avait enjoint de participer. Quelle sanction encourt-elle ?",
+      "options": [
+        "Une amende civile pouvant atteindre dix mille euros pour cette absence non justifiée",
+        "L'irrecevabilité automatique et définitive de l'ensemble de ses demandes en justice",
+        "La radiation immédiate de l'affaire du rôle de la juridiction saisie du litige",
+        "Aucune sanction, la réunion d'information demeurant purement facultative en pratique"
+      ],
+      "answer": 0,
+      "explanation": "L'absence non justifiée à la réunion d'information sur la conciliation ou la médiation, à laquelle le juge peut enjoindre les parties de se rendre, est sanctionnée par une amende civile pouvant atteindre dix mille euros, cette réunion d'information ne créant toutefois pas d'obligation de conciliation elle-même.",
+      "tags": ["amende civile", "réunion d'information"]
+    },
+    {
+      "id": "mard-qcm-004",
+      "question": "Une partie souhaite transiger sur une indemnité de licenciement avant d'avoir reçu la lettre de licenciement. Cette transaction est-elle valable ?",
+      "options": [
+        "Oui, la transaction pouvant valablement porter sur tout droit futur, même d'ordre public",
+        "Oui, à condition que l'employeur consente expressément à cette transaction anticipée",
+        "Non, une transaction ne pouvant valablement porter sur un droit futur d'ordre public",
+        "Non, sauf si un juge homologue préalablement cette transaction avant sa conclusion"
+      ],
+      "answer": 2,
+      "explanation": "Si l'on peut transiger sur un droit déjà né même d'ordre public, une transaction ne peut valablement porter sur un droit futur d'ordre public, ce qui exclut par exemple toute transaction valable sur une indemnité de licenciement avant réception de la lettre de licenciement par le salarié.",
+      "tags": ["transaction", "droit futur d'ordre public"]
+    },
+    {
+      "id": "mard-qcm-005",
+      "question": "Une partie invoque une erreur pour demander l'annulation d'une transaction, en se fondant uniquement sur un motif erroné qui l'a conduite à transiger, sans erreur sur les données mêmes du litige. Cette erreur permet-elle l'annulation selon l'article 2052 du code civil ?",
+      "options": [
+        "Oui, toute erreur ayant conduit une partie à transiger permettant d'obtenir l'annulation",
+        "Oui, mais uniquement si l'autre partie connaissait cette erreur au moment de transiger",
+        "Non, seule une erreur sur l'objet de la contestation, sur les données du litige, le permet",
+        "Non, aucune erreur ne pouvant jamais justifier l'annulation d'une transaction conclue"
+      ],
+      "answer": 2,
+      "explanation": "L'article 2052, alinéa 2, du code civil n'admet l'annulation de la transaction que pour une erreur sur l'objet de la contestation, c'est-à-dire une erreur sur les données du litige lui-même, à l'exclusion d'une simple erreur sur les motifs qui a conduit une partie à transiger.",
+      "tags": ["erreur sur l'objet", "article 2052"]
+    },
+    {
+      "id": "mard-qcm-006",
+      "question": "Un accord amiable obtenu à l'issue d'une conciliation menée par le juge saisi du litige lui-même est constaté par un procès-verbal. Ce procès-verbal nécessite-t-il un contrôle supplémentaire pour acquérir force exécutoire ?",
+      "options": [
+        "Oui, un contrôle de licéité de l'objet et de conformité à l'ordre public reste nécessaire",
+        "Oui, une homologation par une juridiction distincte de celle ayant mené la conciliation",
+        "Non, mais seulement si les deux parties renoncent expressément à tout contrôle ultérieur",
+        "Non, aucun contrôle supplémentaire n'étant requis puisque le juge a mené la conciliation"
+      ],
+      "answer": 3,
+      "explanation": "Selon l'article 1542 du code de procédure civile, lorsque l'accord résulte d'une conciliation menée par le juge ou d'une audience de règlement amiable, les extraits du procès-verbal valent titre exécutoire sans contrôle supplémentaire, le juge ayant déjà mené lui-même la conciliation.",
+      "tags": ["procès-verbal du juge", "force exécutoire"]
+    },
+    {
+      "id": "mard-qcm-007",
+      "question": "Un accord amiable est homologué par un juge à la demande des parties. L'une d'elles souhaite ensuite agir en nullité contre cet accord homologué. Cette action est-elle possible malgré l'homologation ?",
+      "options": [
+        "Non, l'homologation judiciaire faisant obstacle à toute action en nullité ultérieure",
+        "Non, sauf si le juge ayant homologué l'accord commet lui-même une erreur manifeste",
+        "Oui, mais uniquement dans le délai d'un mois suivant la notification de l'homologation",
+        "Oui, l'action en nullité demeurant toujours possible contre un accord homologué"
+      ],
+      "answer": 3,
+      "explanation": "Selon un arrêt du 14 septembre 2022, l'action en nullité reste toujours possible contre un accord homologué, le juge de l'homologation ne contrôlant pas la validité de l'accord au fond ; l'autorité de la chose jugée ne s'oppose qu'à la contestation déjà tranchée par ce juge de l'homologation.",
+      "tags": ["action en nullité", "homologation judiciaire"]
+    },
+    {
+      "id": "mard-qcm-008",
+      "question": "Un greffe refuse d'apposer la formule exécutoire sur un accord amiable contresigné par les avocats des parties. Quelle voie de contestation ce refus ouvre-t-il aux parties ?",
+      "options": [
+        "Aucune voie de contestation n'est prévue contre ce refus opposé par le greffe saisi",
+        "Un référé-rétractation ouvert à toute partie intéressée par cet accord amiable",
+        "Un appel immédiat porté directement devant la cour d'appel territorialement compétente",
+        "Une demande d'homologation judiciaire substituée à la formule initialement refusée"
+      ],
+      "answer": 0,
+      "explanation": "Contrairement au refus d'homologuer, qui ouvre la voie de l'appel au demandeur, le refus du greffe d'apposer la formule exécutoire sur un accord contresigné par avocats n'ouvre aucune voie de contestation prévue par les textes, ce qui constitue une différence notable entre ces deux mécanismes d'acquisition de la force exécutoire.",
+      "tags": ["formule du greffe", "absence de recours"]
+    }
+  ]
+}

@@ -1,0 +1,1133 @@
+{
+  "id": "lexique-droit-obligations",
+  "title": "Lexique de droit des obligations",
+  "category": "Droit civil — Obligations",
+  "flashcards": [
+    {
+      "id": "lexique-obl-fc-001",
+      "front": "Qu'est-ce que l'abus de dépendance en tant que vice du consentement ?",
+      "back": "L'abus de dépendance est un vice du consentement consistant à profiter de l'état de dépendance d'une personne pour obtenir d'elle un engagement qu'elle n'aurait pas pris en l'absence de cette contrainte ; il peut entraîner la nullité du contrat.",
+      "tags": [
+        "abus de dépendance",
+        "vice du consentement"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-002",
+      "front": "Qu'est-ce que l'abus de fonction et quel effet produit-il sur la responsabilité du commettant ?",
+      "back": "L'abus de fonction est la situation dans laquelle un préposé agit en dehors des fonctions qui lui ont été confiées, sans autorisation et à des fins personnelles. Dans ce cas, le commettant peut être exonéré de sa responsabilité.",
+      "tags": [
+        "abus de fonction",
+        "commettant"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-003",
+      "front": "Qu'est-ce que l'action en responsabilité et quelles en sont les deux formes ?",
+      "back": "L'action en responsabilité est une action en justice visant à obtenir la réparation d'un dommage subi ; elle peut être contractuelle ou délictuelle selon l'origine du préjudice.",
+      "tags": [
+        "action en responsabilité",
+        "réparation du dommage"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-004",
+      "front": "Qu'est-ce que l'action interrogatoire ?",
+      "back": "L'action interrogatoire est l'action permettant à une personne de contraindre une autre à prendre position dans un certain délai afin d'éviter une situation d'incertitude juridique, par exemple demander à un bénéficiaire potentiel d'un pacte de préférence ou d'une promesse de se prononcer.",
+      "tags": [
+        "action interrogatoire",
+        "pacte de préférence"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-005",
+      "front": "Qu'est-ce que l'action paulienne ?",
+      "back": "L'action paulienne est l'action permettant à un créancier de faire déclarer inopposable un acte accompli frauduleusement par son débiteur lorsqu'il organise son insolvabilité au détriment de ses créanciers, par exemple lorsqu'un débiteur donne sa maison à un proche pour échapper à ses créanciers.",
+      "tags": [
+        "action paulienne",
+        "insolvabilité organisée"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-006",
+      "front": "Qu'est-ce que l'anatocisme ?",
+      "back": "L'anatocisme est la capitalisation des intérêts : les intérêts échus produisent eux-mêmes des intérêts, sous certaines conditions prévues par la loi.",
+      "tags": [
+        "anatocisme",
+        "capitalisation des intérêts"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-007",
+      "front": "Qu'est-ce qu'un avant-contrat et quelle obligation crée-t-il généralement ?",
+      "back": "Un avant-contrat est une convention préparant la conclusion d'un contrat définitif ; il crée généralement une obligation de conclure ou de négocier, par exemple la promesse unilatérale de vente ou le pacte de préférence.",
+      "tags": [
+        "avant-contrat",
+        "promesse unilatérale de vente"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-008",
+      "front": "Qu'est-ce que la causalité en matière de responsabilité ?",
+      "back": "La causalité est le lien de cause à effet entre un fait générateur et un dommage ; sans lien de causalité, la responsabilité ne peut pas être engagée.",
+      "tags": [
+        "causalité",
+        "fait générateur"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-009",
+      "front": "Qu'est-ce que la cession de contrat ?",
+      "back": "La cession de contrat est l'opération par laquelle une partie transmet à un tiers l'ensemble de sa position contractuelle, droits et obligations compris, avec l'accord du cocontractant lorsque la loi l'exige.",
+      "tags": [
+        "cession de contrat",
+        "position contractuelle"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-010",
+      "front": "Qu'est-ce que la cession de créance ?",
+      "back": "La cession de créance est la transmission d'une créance par un créancier, le cédant, à une autre personne, le cessionnaire, qui devient le nouveau créancier.",
+      "tags": [
+        "cession de créance",
+        "cédant"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-011",
+      "front": "Qu'est-ce que la cession de dette et quel accord nécessite-t-elle en principe ?",
+      "back": "La cession de dette est l'opération par laquelle un débiteur transmet sa dette à un nouveau débiteur ; elle nécessite en principe l'accord du créancier.",
+      "tags": [
+        "cession de dette",
+        "accord du créancier"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-012",
+      "front": "Qu'est-ce qu'un cessionnaire ?",
+      "back": "Le cessionnaire est la personne qui reçoit un droit cédé ; par exemple, dans une cession de créance, le cessionnaire devient le nouveau créancier.",
+      "tags": [
+        "cessionnaire",
+        "cession de créance"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-013",
+      "front": "Qu'est-ce qu'une clause abusive et quelle en est la sanction ?",
+      "back": "Une clause abusive est une clause créant un déséquilibre significatif entre les droits et obligations des parties, au détriment du consommateur ; elle est réputée non écrite.",
+      "tags": [
+        "clause abusive",
+        "déséquilibre significatif"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-014",
+      "front": "Qu'est-ce qu'une clause de dédit et en quoi se distingue-t-elle de la clause pénale ?",
+      "back": "Une clause de dédit permet à une partie de renoncer au contrat en versant une somme d'argent prévue à l'avance ; elle se distingue de la clause pénale, qui sanctionne une inexécution.",
+      "tags": [
+        "clause de dédit",
+        "clause pénale"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-015",
+      "front": "Qu'est-ce qu'une clause de réserve de propriété ?",
+      "back": "Une clause de réserve de propriété est une clause par laquelle le vendeur conserve la propriété du bien jusqu'au paiement intégral du prix.",
+      "tags": [
+        "clause de réserve de propriété",
+        "paiement intégral"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-016",
+      "front": "Qu'est-ce qu'une clause de révision ?",
+      "back": "Une clause de révision est une clause prévoyant les conditions dans lesquelles certaines stipulations du contrat pourront être modifiées en cours d'exécution.",
+      "tags": [
+        "clause de révision",
+        "modification du contrat"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-017",
+      "front": "Qu'est-ce qu'une clause d'indexation ?",
+      "back": "Une clause d'indexation est une clause faisant varier automatiquement une somme, comme un prix ou un loyer, en fonction d'un indice déterminé.",
+      "tags": [
+        "clause d'indexation",
+        "indice"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-018",
+      "front": "Qu'est-ce qu'une clause exonératoire de responsabilité et quand est-elle interdite ?",
+      "back": "Une clause exonératoire de responsabilité est une clause supprimant totalement la responsabilité d'une partie dans certaines hypothèses ; elle est interdite lorsqu'elle vide de sa substance une obligation essentielle ou en cas de faute lourde ou dolosive.",
+      "tags": [
+        "clause exonératoire de responsabilité",
+        "faute lourde"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-019",
+      "front": "Qu'est-ce qu'une clause limitative de responsabilité ?",
+      "back": "Une clause limitative de responsabilité est une clause plafonnant le montant de l'indemnisation due en cas d'inexécution ; elle est soumise aux mêmes limites que la clause exonératoire.",
+      "tags": [
+        "clause limitative de responsabilité",
+        "plafonnement"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-020",
+      "front": "Qu'est-ce qu'une clause pénale et le juge peut-il en modifier le montant ?",
+      "back": "Une clause pénale est une clause fixant à l'avance le montant des dommages-intérêts dus en cas d'inexécution du contrat ; le juge peut en augmenter ou en diminuer le montant s'il est manifestement excessif ou dérisoire.",
+      "tags": [
+        "clause pénale",
+        "dommages-intérêts"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-021",
+      "front": "Qu'est-ce qu'une clause résolutoire ?",
+      "back": "Une clause résolutoire est une clause prévoyant que le contrat sera résolu automatiquement en cas d'inexécution d'une obligation déterminée.",
+      "tags": [
+        "clause résolutoire",
+        "résolution automatique"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-022",
+      "front": "Qu'est-ce qu'un commettant ?",
+      "back": "Le commettant est la personne qui emploie un préposé et répond, en principe, des dommages causés par celui-ci dans l'exercice de ses fonctions.",
+      "tags": [
+        "commettant",
+        "préposé"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-023",
+      "front": "Qu'est-ce que la confusion comme mode d'extinction de l'obligation ?",
+      "back": "La confusion est un mode d'extinction d'une obligation lorsque les qualités de créancier et de débiteur se réunissent sur la tête d'une même personne, par exemple un héritier héritant d'une dette qu'il devait à son parent décédé.",
+      "tags": [
+        "confusion",
+        "extinction de l'obligation"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-024",
+      "front": "Qu'est-ce que le principe du consensualisme ?",
+      "back": "Le consensualisme est le principe selon lequel un contrat est valablement formé par le seul échange des consentements, sauf lorsque la loi exige une forme particulière.",
+      "tags": [
+        "consensualisme",
+        "échange des consentements"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-025",
+      "front": "Qu'est-ce que la confirmation d'un acte juridique et à quelle nullité s'applique-t-elle ?",
+      "back": "La confirmation est l'acte par lequel une personne renonce volontairement à invoquer la nullité relative d'un acte juridique, en connaissance de cause ; elle n'est possible que pour une nullité relative.",
+      "tags": [
+        "confirmation",
+        "nullité relative"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-026",
+      "front": "Qu'est-ce qu'un contrat à exécution instantanée ?",
+      "back": "Un contrat à exécution instantanée est un contrat dont les obligations sont exécutées en une seule fois ou sur une très courte période, par exemple l'achat d'un livre payé et remis immédiatement.",
+      "tags": [
+        "contrat à exécution instantanée",
+        "exécution en une fois"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-027",
+      "front": "Qu'est-ce qu'un contrat à exécution successive et pourquoi cette distinction est-elle importante ?",
+      "back": "Un contrat à exécution successive est un contrat dont les obligations s'exécutent de façon continue ou répétée dans le temps, comme le bail, le contrat de travail, ou l'abonnement. Cette distinction est importante car la résolution produit des effets différents selon le type de contrat.",
+      "tags": [
+        "contrat à exécution successive",
+        "résolution"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-028",
+      "front": "Qu'est-ce qu'un contrat à titre gratuit ?",
+      "back": "Un contrat à titre gratuit est un contrat dans lequel une partie procure un avantage à l'autre sans recevoir de contrepartie, par exemple la donation.",
+      "tags": [
+        "contrat à titre gratuit",
+        "donation"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-029",
+      "front": "Qu'est-ce qu'un contrat à titre onéreux ?",
+      "back": "Un contrat à titre onéreux est un contrat dans lequel chaque partie reçoit une contrepartie en échange de son engagement, par exemple la vente.",
+      "tags": [
+        "contrat à titre onéreux",
+        "contrepartie"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-030",
+      "front": "Qu'est-ce qu'un contrat aléatoire ?",
+      "back": "Un contrat aléatoire est un contrat dont les effets dépendent d'un événement incertain, chaque partie acceptant un risque, par exemple le contrat d'assurance ou la rente viagère.",
+      "tags": [
+        "contrat aléatoire",
+        "événement incertain"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-031",
+      "front": "Qu'est-ce qu'un contrat commutatif et en quoi se distingue-t-il du contrat aléatoire ?",
+      "back": "Un contrat commutatif est un contrat dans lequel les prestations sont connues dès sa conclusion, chaque partie sachant ce qu'elle reçoit, par exemple une vente classique. Il se distingue du contrat aléatoire.",
+      "tags": [
+        "contrat commutatif",
+        "contrat aléatoire"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-032",
+      "front": "Qu'est-ce qu'un contrat consensuel ?",
+      "back": "Un contrat consensuel est un contrat formé par le seul échange des consentements, sans formalité particulière ; la majorité des contrats sont consensuels.",
+      "tags": [
+        "contrat consensuel",
+        "échange des consentements"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-033",
+      "front": "Qu'est-ce qu'un contrat-cadre ?",
+      "back": "Un contrat-cadre est un contrat fixant les règles générales qui gouverneront les contrats futurs entre les parties ; les contrats d'application préciseront ensuite les modalités particulières.",
+      "tags": [
+        "contrat-cadre",
+        "contrats d'application"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-034",
+      "front": "Qu'est-ce qu'un contrat d'adhésion ?",
+      "back": "Un contrat d'adhésion est un contrat dont les conditions générales sont rédigées à l'avance par une seule partie, sans véritable possibilité de négociation, par exemple un contrat d'assurance ou un abonnement téléphonique.",
+      "tags": [
+        "contrat d'adhésion",
+        "conditions générales"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-035",
+      "front": "Qu'est-ce qu'un contrat de distribution et que regroupe-t-il ?",
+      "back": "Un contrat de distribution est un contrat organisant la commercialisation d'un produit ou d'un service ; il regroupe notamment la franchise, la concession, et la distribution sélective.",
+      "tags": [
+        "contrat de distribution",
+        "franchise"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-036",
+      "front": "Qu'est-ce qu'un contrat de gré à gré ?",
+      "back": "Un contrat de gré à gré est un contrat dont toutes les clauses ont été librement négociées entre les parties ; il s'oppose au contrat d'adhésion.",
+      "tags": [
+        "contrat de gré à gré",
+        "contrat d'adhésion"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-037",
+      "front": "Qu'est-ce qu'un contrat innommé ?",
+      "back": "Un contrat innommé est un contrat qui n'est pas spécialement réglementé par la loi ; les parties l'aménagent librement dans le respect des règles générales.",
+      "tags": [
+        "contrat innommé",
+        "aménagement libre"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-038",
+      "front": "Qu'est-ce qu'un contrat nommé ?",
+      "back": "Un contrat nommé est un contrat expressément prévu et organisé par la loi, par exemple la vente, le bail, le mandat, ou le prêt.",
+      "tags": [
+        "contrat nommé",
+        "contrat innommé"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-039",
+      "front": "Qu'est-ce qu'un contrat réel ?",
+      "back": "Un contrat réel est un contrat qui n'est parfaitement formé qu'au moment de la remise de la chose, exemple traditionnel du prêt à usage ou commodat ; beaucoup de contrats autrefois réels sont aujourd'hui devenus consensuels.",
+      "tags": [
+        "contrat réel",
+        "prêt à usage"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-040",
+      "front": "Qu'est-ce qu'un contrat solennel ?",
+      "back": "Un contrat solennel est un contrat dont la validité dépend du respect d'une formalité imposée par la loi, par exemple la donation entre vifs qui doit être reçue par un notaire.",
+      "tags": [
+        "contrat solennel",
+        "formalité imposée"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-041",
+      "front": "Qu'est-ce qu'un contrat unilatéral et de quoi faut-il le distinguer ?",
+      "back": "Un contrat unilatéral est un contrat dans lequel une seule partie s'oblige envers l'autre, par exemple la donation ; il faut le distinguer de l'acte juridique unilatéral.",
+      "tags": [
+        "contrat unilatéral",
+        "acte juridique unilatéral"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-042",
+      "front": "Qu'est-ce qu'un contrat intuitu personae ?",
+      "back": "Un contrat intuitu personae est un contrat conclu en considération de la personne du cocontractant, les qualités personnelles étant déterminantes, par exemple le contrat de travail, le mandat, ou un contrat avec un artiste. La cession du contrat est souvent impossible sans l'accord de l'autre partie.",
+      "tags": [
+        "contrat intuitu personae",
+        "qualités personnelles"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-043",
+      "front": "Qu'est-ce que des contrats interdépendants ?",
+      "back": "Les contrats interdépendants forment un ensemble de contrats liés entre eux de telle sorte que la disparition de l'un peut entraîner celle des autres, par exemple l'achat d'un matériel financé par un crédit affecté.",
+      "tags": [
+        "contrats interdépendants",
+        "crédit affecté"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-044",
+      "front": "Qu'est-ce qu'une contre-lettre ?",
+      "back": "Une contre-lettre est un acte secret conclu entre les parties afin de modifier ou dissimuler les effets apparents d'un acte public ; elle intervient dans une simulation et est en principe inopposable aux tiers de bonne foi.",
+      "tags": [
+        "contre-lettre",
+        "simulation"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-045",
+      "front": "Qu'est-ce qu'un créancier chirographaire ?",
+      "back": "Le créancier chirographaire est un créancier qui ne bénéficie d'aucune sûreté particulière ; il est payé après les créanciers privilégiés ou titulaires de garanties, son seul gage étant le patrimoine général du débiteur.",
+      "tags": [
+        "créancier chirographaire",
+        "sûreté"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-046",
+      "front": "Qu'est-ce que la dation en paiement ?",
+      "back": "La dation en paiement est un mode de paiement consistant à remettre un bien différent de celui initialement prévu, avec l'accord du créancier, par exemple lorsqu'au lieu de payer une somme d'argent, le débiteur remet une voiture acceptée par le créancier.",
+      "tags": [
+        "dation en paiement",
+        "accord du créancier"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-047",
+      "front": "Qu'est-ce que le défaut de contrepartie et depuis quand permet-il d'annuler un contrat à titre onéreux ?",
+      "back": "Le défaut de contrepartie est l'absence de véritable contrepartie à l'engagement d'une partie. Depuis la réforme de 2016, un contrat à titre onéreux peut être annulé lorsqu'au moment de sa formation la contrepartie convenue est illusoire ou dérisoire.",
+      "tags": [
+        "défaut de contrepartie",
+        "réforme de 2016"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-048",
+      "front": "Qu'est-ce que la délégation et quelles en sont les deux formes principales ?",
+      "back": "La délégation est l'opération par laquelle une personne, le délégant, demande à une autre, le délégué, de s'engager envers une troisième, le délégataire. Il en existe deux formes principales : la délégation imparfaite et la délégation parfaite.",
+      "tags": [
+        "délégation",
+        "délégant délégué délégataire"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-049",
+      "front": "Qu'est-ce que la délégation imparfaite ?",
+      "back": "Dans la délégation imparfaite, le débiteur initial reste tenu, le créancier disposant alors de deux débiteurs ; c'est le régime de droit commun.",
+      "tags": [
+        "délégation imparfaite",
+        "deux débiteurs"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-050",
+      "front": "Qu'est-ce que la délégation parfaite ?",
+      "back": "Dans la délégation parfaite, le créancier libère expressément le débiteur initial : seul le nouveau débiteur reste engagé.",
+      "tags": [
+        "délégation parfaite",
+        "libération du débiteur initial"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-051",
+      "front": "Qu'est-ce que la dénaturation et qui la sanctionne ?",
+      "back": "La dénaturation est l'erreur commise par un juge lorsqu'il modifie le sens clair et précis d'un contrat ou d'un écrit ; la Cour de cassation sanctionne la dénaturation, contrôlant ainsi directement l'interprétation du juge.",
+      "tags": [
+        "dénaturation",
+        "Cour de cassation"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-052",
+      "front": "Qu'est-ce que le dol en tant que vice du consentement ?",
+      "back": "Le dol est un vice du consentement consistant à tromper volontairement son cocontractant afin d'obtenir son consentement ; il entraîne la nullité du contrat lorsqu'il est déterminant.",
+      "tags": [
+        "dol",
+        "vice du consentement"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-053",
+      "front": "Qu'est-ce que le dol déterminant ?",
+      "back": "Le dol déterminant est un dol sans lequel la victime n'aurait jamais contracté ; il permet d'obtenir la nullité du contrat.",
+      "tags": [
+        "dol déterminant",
+        "nullité du contrat"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-054",
+      "front": "Qu'est-ce que le dol incident ?",
+      "back": "Le dol incident influence seulement les conditions du contrat : la victime aurait tout de même contracté, mais à d'autres conditions ; il ouvre généralement droit à des dommages-intérêts.",
+      "tags": [
+        "dol incident",
+        "dommages-intérêts"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-055",
+      "front": "Qu'est-ce que le dol principal ?",
+      "back": "Le dol principal est un autre nom du dol déterminant : il provoque la conclusion même du contrat.",
+      "tags": [
+        "dol principal",
+        "dol déterminant"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-056",
+      "front": "Qu'est-ce que le dol du contractant ?",
+      "back": "Le dol du contractant est un dol commis directement par le cocontractant : c'est l'hypothèse la plus classique.",
+      "tags": [
+        "dol du contractant",
+        "cocontractant"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-057",
+      "front": "Qu'est-ce que l'élément matériel du dol ?",
+      "back": "L'élément matériel du dol correspond aux comportements frauduleux : mensonges, manœuvres, ou dissimulation intentionnelle constitutive d'une réticence dolosive.",
+      "tags": [
+        "élément matériel du dol",
+        "réticence dolosive"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-058",
+      "front": "Qu'est-ce que l'élément intentionnel du dol ?",
+      "back": "L'élément intentionnel du dol est la volonté de tromper l'autre partie : sans cette intention, il n'y a pas de dol.",
+      "tags": [
+        "élément intentionnel du dol",
+        "volonté de tromper"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-059",
+      "front": "Qu'est-ce que le droit de préférence et en quoi se distingue-t-il du droit de préemption ?",
+      "back": "Le droit de préférence est le droit reconnu à une personne d'être prioritaire pour conclure un contrat si le propriétaire décide de contracter, par exemple dans un pacte de préférence où le bénéficiaire est prioritaire si le propriétaire décide de vendre son bien. Il se distingue du droit de préemption, qui permet d'acheter en se substituant à l'acquéreur.",
+      "tags": [
+        "droit de préférence",
+        "droit de préemption"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-060",
+      "front": "Qu'est-ce que le droit de repentir et en quoi se distingue-t-il du droit de rétractation ?",
+      "back": "Le droit de repentir permet à une personne de revenir sur un engagement ou une décision dans les cas prévus par la loi ou le contrat, par exemple certains contrats de consommation prévoyant un délai de rétractation. Il ne faut pas le confondre avec le droit de rétractation, qui est un mécanisme légal plus spécifique.",
+      "tags": [
+        "droit de repentir",
+        "droit de rétractation"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-061",
+      "front": "Qu'est-ce que le droit de suite ?",
+      "back": "Le droit de suite est le droit attaché à un droit réel permettant à son titulaire de suivre le bien entre les mains de tout détenteur, par exemple un créancier hypothécaire pouvant exercer ses droits sur un immeuble même vendu à un tiers ; c'est une caractéristique essentielle des droits réels.",
+      "tags": [
+        "droit de suite",
+        "droit réel"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-062",
+      "front": "Qu'est-ce que l'exception d'inexécution ?",
+      "back": "L'exception d'inexécution est le mécanisme permettant à une partie de refuser d'exécuter sa propre obligation tant que son cocontractant n'exécute pas la sienne ; elle suppose une inexécution suffisamment grave, par exemple un acheteur refusant de payer tant que le vendeur ne livre pas la marchandise.",
+      "tags": [
+        "exception d'inexécution",
+        "inexécution grave"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-063",
+      "front": "Qu'est-ce que l'exécution forcée et quelles en sont les deux formes ?",
+      "back": "Lorsque le débiteur n'exécute pas volontairement son obligation, le créancier peut demander au juge d'en imposer l'exécution forcée, en nature, en obligeant à exécuter, ou par équivalent, sous forme de dommages-intérêts, lorsque l'exécution en nature est impossible ou disproportionnée.",
+      "tags": [
+        "exécution forcée",
+        "exécution par équivalent"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-064",
+      "front": "Qu'est-ce que la responsabilité du fait de la chose ?",
+      "back": "La responsabilité du fait de la chose peut être engagée lorsqu'un dommage est causé par une chose dont une personne a la garde ; le gardien est, en principe, responsable sans que la victime ait à prouver une faute, par exemple lorsqu'une branche d'un arbre tombe sur une voiture.",
+      "tags": [
+        "fait de la chose",
+        "gardien"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-065",
+      "front": "Qu'est-ce que la responsabilité du fait de l'enfant ?",
+      "back": "La responsabilité du fait de l'enfant est la responsabilité des parents du fait des dommages causés par leur enfant mineur. Depuis la jurisprudence moderne, il n'est plus nécessaire de démontrer une faute de l'enfant : il suffit d'un fait causal.",
+      "tags": [
+        "fait de l'enfant",
+        "fait causal"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-066",
+      "front": "Qu'est-ce que le fait du créancier comme cause d'exonération ?",
+      "back": "Le comportement du créancier peut exonérer totalement ou partiellement le débiteur lorsque ce comportement a contribué au dommage ou empêché l'exécution, par exemple lorsqu'un créancier refuse sans raison la livraison qui lui est proposée.",
+      "tags": [
+        "fait du créancier",
+        "exonération"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-067",
+      "front": "Qu'est-ce que le fait du tiers comme cause d'exonération ?",
+      "back": "Le comportement d'un tiers peut, dans certains cas, exonérer le débiteur de sa responsabilité s'il présente les caractères de la force majeure ou s'il rompt le lien de causalité.",
+      "tags": [
+        "fait du tiers",
+        "force majeure"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-068",
+      "front": "Qu'est-ce qu'un fait juridique et en quoi se distingue-t-il de l'acte juridique ?",
+      "back": "Un fait juridique est un événement ou un comportement produisant des effets de droit indépendamment de la volonté de son auteur, comme une naissance, un décès, un accident, ou une catastrophe naturelle ; il se distingue de l'acte juridique, qui repose sur une volonté de produire des effets de droit.",
+      "tags": [
+        "fait juridique",
+        "acte juridique"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-069",
+      "front": "Qu'est-ce qu'un fait justificatif ?",
+      "back": "Un fait justificatif est une circonstance qui fait disparaître le caractère fautif d'un comportement, comme la légitime défense, l'état de nécessité, ou l'ordre de la loi ; ces notions sont surtout développées en droit pénal mais peuvent avoir des incidences en responsabilité civile.",
+      "tags": [
+        "fait justificatif",
+        "légitime défense"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-070",
+      "front": "Qu'est-ce qu'une faute d'abstention ?",
+      "back": "Une faute d'abstention est une faute consistant à ne pas accomplir un acte qui aurait dû être réalisé, par exemple ne pas signaler un danger dont on a connaissance alors qu'on avait l'obligation de le faire.",
+      "tags": [
+        "faute d'abstention",
+        "obligation d'agir"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-071",
+      "front": "Qu'est-ce qu'une faute de commission ?",
+      "back": "Une faute de commission est une faute résultant d'un acte positif, par exemple heurter volontairement le véhicule d'autrui.",
+      "tags": [
+        "faute de commission",
+        "acte positif"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-072",
+      "front": "Qu'est-ce que la faute objective ?",
+      "back": "La faute objective est appréciée par comparaison avec le comportement qu'aurait adopté une personne normalement prudente et diligente ; on ne tient pas compte des caractéristiques personnelles de l'auteur.",
+      "tags": [
+        "faute objective",
+        "personne normalement prudente"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-073",
+      "front": "Qu'est-ce que la faute subjective ?",
+      "back": "La faute subjective est appréciée en tenant compte des caractéristiques propres à la personne, comme l'âge, les capacités, ou l'expérience ; cette conception est aujourd'hui moins retenue en droit français.",
+      "tags": [
+        "faute subjective",
+        "caractéristiques personnelles"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-074",
+      "front": "Qu'est-ce qu'une faute contractuelle ?",
+      "back": "Une faute contractuelle consiste à ne pas exécuter correctement une obligation née d'un contrat ; elle engage la responsabilité contractuelle.",
+      "tags": [
+        "faute contractuelle",
+        "responsabilité contractuelle"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-075",
+      "front": "Qu'est-ce qu'une faute contractuelle dolosive et quel effet produit-elle sur les clauses limitatives ?",
+      "back": "Une faute contractuelle dolosive est une faute commise avec l'intention de ne pas exécuter le contrat ou de nuire au cocontractant ; elle est particulièrement grave et prive souvent d'effet les clauses limitatives ou exonératoires de responsabilité.",
+      "tags": [
+        "faute contractuelle dolosive",
+        "clauses limitatives"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-076",
+      "front": "Qu'est-ce qu'une faute lourde ?",
+      "back": "Une faute lourde est une faute d'une exceptionnelle gravité révélant une négligence particulièrement importante ; elle dépasse la simple imprudence et peut, comme la faute dolosive, rendre inefficaces certaines clauses limitatives de responsabilité.",
+      "tags": [
+        "faute lourde",
+        "négligence importante"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-077",
+      "front": "Qu'est-ce qu'une faute délictuelle de commission ?",
+      "back": "Une faute délictuelle de commission est une faute délictuelle résultant d'un acte positif ayant causé un dommage, par exemple dégrader volontairement le bien d'autrui.",
+      "tags": [
+        "faute délictuelle de commission",
+        "acte positif"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-078",
+      "front": "Qu'est-ce qu'une faute délictuelle d'omission ?",
+      "back": "Une faute délictuelle d'omission est une faute délictuelle résultant d'une abstention fautive ; elle suppose généralement qu'il existait une obligation d'agir.",
+      "tags": [
+        "faute délictuelle d'omission",
+        "abstention fautive"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-079",
+      "front": "Qu'est-ce que l'élément objectif de la faute ?",
+      "back": "L'élément objectif de la faute correspond au comportement matériel reproché : le juge vérifie si un comportement anormal a été adopté.",
+      "tags": [
+        "élément objectif de la faute",
+        "comportement anormal"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-080",
+      "front": "Qu'est-ce que l'élément subjectif de la faute ?",
+      "back": "L'élément subjectif de la faute correspond à l'état d'esprit de l'auteur, sa volonté, sa conscience ou son imprudence ; selon les matières, cet élément est plus ou moins important.",
+      "tags": [
+        "élément subjectif de la faute",
+        "état d'esprit"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-081",
+      "front": "Qu'est-ce qu'une faute inexcusable ?",
+      "back": "Une faute inexcusable est une faute d'une gravité exceptionnelle exposant autrui à un danger dont l'auteur avait ou aurait dû avoir conscience ; elle entraîne souvent un régime d'indemnisation aggravé, notamment en droit du travail ou en matière d'accidents.",
+      "tags": [
+        "faute inexcusable",
+        "indemnisation aggravée"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-082",
+      "front": "Qu'est-ce que la force majeure et quelles en sont les trois caractéristiques ?",
+      "back": "La force majeure est un événement extérieur, dans certaines matières, imprévisible, et irrésistible ; elle exonère le débiteur lorsqu'elle rend l'exécution impossible, par exemple une catastrophe naturelle empêchant totalement l'exécution du contrat.",
+      "tags": [
+        "force majeure",
+        "imprévisible et irrésistible"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-083",
+      "front": "Qu'est-ce que la force obligatoire du contrat et connaît-elle des limites ?",
+      "back": "La force obligatoire du contrat est le principe selon lequel le contrat légalement formé tient lieu de loi à ceux qui l'ont conclu ; les parties sont donc tenues de respecter leurs engagements. Ce principe connaît aujourd'hui plusieurs limites, telles que la bonne foi, l'imprévision, ou l'ordre public.",
+      "tags": [
+        "force obligatoire du contrat",
+        "imprévision"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-084",
+      "front": "Qu'est-ce que la gestion d'affaires et quelles obligations fait-elle naître ?",
+      "back": "La gestion d'affaires est un quasi-contrat par lequel une personne, le gérant, intervient spontanément pour gérer les affaires d'une autre, le maître de l'affaire, sans y être obligée. Si la gestion est utile et conforme à l'intérêt du maître de l'affaire, le gérant doit poursuivre sa gestion avec diligence et le maître de l'affaire doit rembourser les dépenses utiles ou nécessaires.",
+      "tags": [
+        "gestion d'affaires",
+        "quasi-contrat"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-085",
+      "front": "Qu'est-ce que l'indu et quelle action permet d'en obtenir la restitution ?",
+      "back": "L'indu est ce qui a été reçu ou payé alors qu'il n'était pas dû. Lorsqu'un paiement est indu, celui qui l'a effectué peut en demander la restitution grâce à l'action en répétition de l'indu.",
+      "tags": [
+        "indu",
+        "action en répétition de l'indu"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-086",
+      "front": "Qu'est-ce que l'infans et quelle est son importance en droit de la responsabilité ?",
+      "back": "L'infans est un très jeune enfant dépourvu de discernement. Aujourd'hui, en responsabilité civile, l'absence de discernement n'empêche plus nécessairement que son fait engage la responsabilité de ses parents ; cette notion est surtout importante en droit de la responsabilité.",
+      "tags": [
+        "infans",
+        "discernement"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-087",
+      "front": "Qu'est-ce que l'inopposabilité et en quoi diffère-t-elle de la nullité ?",
+      "back": "L'inopposabilité signifie qu'un acte reste valable entre les parties, mais ne peut pas produire d'effets à l'égard de certains tiers ; le contrat n'est donc pas annulé, par exemple une contre-lettre valable entre les signataires mais inopposable aux tiers de bonne foi. C'est une différence fondamentale avec la nullité.",
+      "tags": [
+        "inopposabilité",
+        "nullité"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-088",
+      "front": "Qu'est-ce que la lésion et quand entraîne-t-elle la nullité ?",
+      "back": "La lésion est un déséquilibre important entre les prestations des parties au moment de la conclusion du contrat. En droit français, la lésion n'entraîne la nullité que dans les cas expressément prévus par la loi, par exemple certaines ventes d'immeubles ou le partage successoral ; le simple fait qu'un contrat soit désavantageux ne suffit pas.",
+      "tags": [
+        "lésion",
+        "nullité"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-089",
+      "front": "Qu'est-ce que la loi Badinter et quels en sont les principes essentiels ?",
+      "back": "La loi du 5 juillet 1985, dite loi Badinter, organise l'indemnisation des victimes d'accidents de la circulation impliquant un véhicule terrestre à moteur, afin de faciliter et d'accélérer leur indemnisation. Ses principes essentiels sont la protection renforcée des victimes non conductrices, un régime spécifique pour les conducteurs, et la limitation des possibilités d'exonération.",
+      "tags": [
+        "loi Badinter",
+        "véhicule terrestre à moteur"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-090",
+      "front": "Que sont les manœuvres dolosives ?",
+      "back": "Les manœuvres dolosives sont les procédés frauduleux utilisés pour tromper le cocontractant afin d'obtenir son consentement ; elles constituent l'élément matériel du dol, par exemple de faux documents, des mensonges, ou une mise en scène destinée à tromper.",
+      "tags": [
+        "manœuvres dolosives",
+        "élément matériel du dol"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-091",
+      "front": "Qu'est-ce que la mise en demeure et quels effets peut-elle produire ?",
+      "back": "La mise en demeure est l'acte par lequel un créancier demande officiellement au débiteur d'exécuter son obligation. Elle fait courir plusieurs effets juridiques, notamment les intérêts moratoires, certaines responsabilités, et la possibilité, dans certains cas, de demander la résolution du contrat ; elle peut résulter d'une lettre recommandée, d'un acte de commissaire de justice, ou parfois du seul contrat ou de la loi.",
+      "tags": [
+        "mise en demeure",
+        "intérêts moratoires"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-092",
+      "front": "Qu'est-ce que la nullité d'un acte juridique ?",
+      "back": "La nullité est la sanction qui entraîne la disparition rétroactive d'un acte juridique ne respectant pas les conditions de validité prévues par la loi : le contrat est censé n'avoir jamais existé.",
+      "tags": [
+        "nullité",
+        "disparition rétroactive"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-093",
+      "front": "Qu'est-ce que la nullité absolue et qui peut la demander ?",
+      "back": "La nullité absolue protège l'intérêt général ; elle peut être demandée par toute personne ayant un intérêt ainsi que, dans certains cas, par le ministère public, par exemple en cas d'objet illicite ou de violation d'une règle d'ordre public.",
+      "tags": [
+        "nullité absolue",
+        "intérêt général"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-094",
+      "front": "Qu'est-ce que la nullité relative et qui seul peut agir ?",
+      "back": "La nullité relative protège un intérêt privé ; seule la personne protégée par la règle peut agir, par exemple en cas d'erreur, de dol, de violence, ou d'incapacité de protection. Elle peut être confirmée.",
+      "tags": [
+        "nullité relative",
+        "intérêt privé"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-095",
+      "front": "Qu'est-ce que la nullité partielle ?",
+      "back": "Dans la nullité partielle, seule une ou plusieurs clauses du contrat disparaissent, le reste du contrat demeurant valable si celui-ci peut continuer à produire ses effets, par exemple une clause abusive réputée non écrite sans entraîner la nullité du contrat entier.",
+      "tags": [
+        "nullité partielle",
+        "clause réputée non écrite"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-096",
+      "front": "Qu'est-ce que l'action en nullité ?",
+      "back": "L'action en nullité est l'action en justice permettant de demander au juge de prononcer la nullité d'un acte : elle est le moyen procédural d'obtenir la nullité.",
+      "tags": [
+        "action en nullité",
+        "moyen procédural"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-097",
+      "front": "Quel est le délai de prescription de l'action en nullité et comment son point de départ varie-t-il ?",
+      "back": "L'action en nullité n'est pas éternelle : en principe, elle se prescrit par cinq ans, mais le point de départ varie selon la cause de nullité. En cas de dol ou de violence, le délai court à compter de leur découverte ou de leur cessation ; dans d'autres cas, il court à compter de la conclusion du contrat.",
+      "tags": [
+        "prescription de l'action en nullité",
+        "délai de cinq ans"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-098",
+      "front": "Quels sont les effets de la nullité d'un contrat ?",
+      "back": "Lorsqu'un contrat est annulé, il disparaît rétroactivement, chaque partie doit restituer ce qu'elle a reçu, et le contrat est censé n'avoir jamais existé : c'est ce qu'on appelle la rétroactivité de l'annulation.",
+      "tags": [
+        "effets de la nullité",
+        "rétroactivité de l'annulation"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-099",
+      "front": "Qu'est-ce qu'une obligation et quelles formes peut prendre la prestation due ?",
+      "back": "L'obligation est un lien de droit entre deux personnes en vertu duquel l'une, le débiteur, doit exécuter une prestation au profit de l'autre, le créancier. La prestation peut consister à donner, à faire, ou à ne pas faire.",
+      "tags": [
+        "obligation",
+        "débiteur créancier"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-100",
+      "front": "Qu'est-ce que l'opposabilité du contrat et en quoi se distingue-t-elle de l'effet relatif ?",
+      "back": "Le contrat ne crée en principe d'obligations qu'entre les parties, c'est l'effet relatif, mais il est opposable aux tiers : ceux-ci doivent respecter son existence et ne peuvent en ignorer les effets lorsqu'ils interfèrent avec leur propre situation juridique. Il faut la distinguer de l'effet relatif, les tiers n'étant pas débiteurs des obligations contractuelles.",
+      "tags": [
+        "opposabilité du contrat",
+        "effet relatif"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-101",
+      "front": "Qu'est-ce que le paiement de l'indu ?",
+      "back": "Le paiement de l'indu est le fait de verser une somme ou d'exécuter une prestation qui n'était pas due ; celui qui a payé peut en demander la restitution grâce à l'action en répétition de l'indu.",
+      "tags": [
+        "paiement de l'indu",
+        "restitution"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-102",
+      "front": "Qu'est-ce que la perte de chance et sur quoi porte l'indemnisation ?",
+      "back": "La perte de chance est un préjudice consistant dans la disparition d'une probabilité réelle et sérieuse d'obtenir un avantage ou d'éviter un dommage. L'indemnisation porte sur la chance perdue, et non sur le résultat final, par exemple lorsqu'un avocat laisse expirer un délai d'appel, faisant perdre à son client une chance sérieuse d'obtenir gain de cause.",
+      "tags": [
+        "perte de chance",
+        "probabilité sérieuse"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-103",
+      "front": "Qu'est-ce que le préjudice et quelles conditions doit-il remplir pour être indemnisable ?",
+      "back": "Le préjudice est le dommage subi par une personne et susceptible d'être réparé ; il peut être patrimonial, comme une perte financière, ou extrapatrimonial, comme un préjudice moral ou une atteinte à l'image. Pour être indemnisable, il doit être certain, personnel et direct.",
+      "tags": [
+        "préjudice",
+        "préjudice extrapatrimonial"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-104",
+      "front": "Qu'est-ce qu'un préposé ?",
+      "back": "Le préposé est la personne qui agit sous l'autorité d'un commettant, comme un salarié ou un employé ; le commettant est, en principe, responsable des dommages causés par son préposé dans l'exercice de ses fonctions.",
+      "tags": [
+        "préposé",
+        "commettant"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-105",
+      "front": "Qu'est-ce que la prescription acquisitive ?",
+      "back": "La prescription acquisitive, ou usucapion, permet d'acquérir un droit, le plus souvent la propriété, par une possession répondant aux conditions légales pendant un certain délai.",
+      "tags": [
+        "prescription acquisitive",
+        "usucapion"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-106",
+      "front": "Qu'est-ce que la prescription extinctive ?",
+      "back": "La prescription extinctive est le mécanisme par lequel l'écoulement du temps fait perdre le droit d'agir en justice ; elle n'éteint pas toujours le droit lui-même, mais elle empêche son exercice devant le juge.",
+      "tags": [
+        "prescription extinctive",
+        "droit d'agir"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-107",
+      "front": "Qu'est-ce que la promesse de porte-fort ?",
+      "back": "La promesse de porte-fort est un contrat par lequel une personne promet qu'un tiers accomplira un acte ou s'engagera. Si le tiers refuse finalement, le porte-fort engage sa propre responsabilité, par exemple lorsqu'une personne promet qu'un associé signera ultérieurement un contrat.",
+      "tags": [
+        "promesse de porte-fort",
+        "engagement d'un tiers"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-108",
+      "front": "Qu'est-ce qu'un quasi-délit et en quoi se distingue-t-il du délit civil ?",
+      "back": "Le quasi-délit est un fait juridique dommageable commis sans intention de nuire, par imprudence ou négligence ; il se distingue du délit civil, qui suppose un comportement volontaire. Aujourd'hui, la distinction est surtout historique, le Code civil traitant globalement de la responsabilité extracontractuelle.",
+      "tags": [
+        "quasi-délit",
+        "délit civil"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-109",
+      "front": "Qu'est-ce qu'une clause réputée non écrite et en quoi se distingue-t-elle de la nullité ?",
+      "back": "Une clause réputée non écrite est considérée comme n'ayant jamais existé. Contrairement à la nullité, seule la clause disparaît, le reste du contrat demeurant valable, par exemple une clause abusive dans un contrat de consommation.",
+      "tags": [
+        "réputé non écrit",
+        "clause abusive"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-110",
+      "front": "Qu'est-ce que la révision du contrat et de quoi peut-elle résulter ?",
+      "back": "La révision du contrat est la modification du contrat après sa conclusion ; elle peut résulter d'un accord entre les parties, d'une clause de révision, ou exceptionnellement de l'intervention du juge, notamment en cas d'imprévision.",
+      "tags": [
+        "révision du contrat",
+        "imprévision"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-111",
+      "front": "Qu'est-ce que la résiliation et pour quel type de contrat s'applique-t-elle ?",
+      "back": "La résiliation met fin à un contrat à exécution successive pour l'avenir uniquement ; les prestations déjà exécutées restent acquises, par exemple la résiliation d'un contrat de bail ou d'un abonnement.",
+      "tags": [
+        "résiliation",
+        "contrat à exécution successive"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-112",
+      "front": "Qu'est-ce que la résolution du contrat ?",
+      "back": "La résolution sanctionne l'inexécution d'un contrat. En principe, elle entraîne la disparition rétroactive du contrat, surtout pour les contrats à exécution instantanée ; pour les contrats à exécution successive, ses effets se rapprochent souvent de ceux de la résiliation.",
+      "tags": [
+        "résolution",
+        "inexécution du contrat"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-113",
+      "front": "Qu'est-ce que la réticence dolosive ?",
+      "back": "La réticence dolosive est une forme de dol consistant à taire volontairement une information déterminante que l'on avait l'obligation de révéler : le silence devient ici une véritable tromperie, par exemple vendre une maison en dissimulant volontairement une importante infiltration d'eau.",
+      "tags": [
+        "réticence dolosive",
+        "silence trompeur"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-114",
+      "front": "Qu'est-ce que la rétroactivité de l'annulation ?",
+      "back": "Lorsqu'un contrat est annulé, il est censé n'avoir jamais existé et chaque partie doit restituer ce qu'elle a reçu : c'est l'un des principaux effets de la nullité, appelé rétroactivité de l'annulation.",
+      "tags": [
+        "rétroactivité de l'annulation",
+        "restitution"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-115",
+      "front": "Qu'est-ce que la révocation du contrat et en quoi se distingue-t-elle de la résolution ?",
+      "back": "La révocation met fin au contrat dans les cas prévus par la loi ou par les parties ; elle concerne surtout certains contrats particuliers ou certaines libéralités, par exemple la révocation d'un mandat. Elle se distingue de la résolution, qui sanctionne une inexécution.",
+      "tags": [
+        "révocation du contrat",
+        "résolution"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-116",
+      "front": "Le silence vaut-il acceptation en matière contractuelle ?",
+      "back": "En principe, le silence ne vaut pas acceptation ; il existe toutefois des exceptions prévues par la loi, les usages, ou les relations antérieures entre les parties.",
+      "tags": [
+        "silence contractuel",
+        "acceptation"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-117",
+      "front": "Qu'est-ce que la simulation et sur quels deux actes repose-t-elle ?",
+      "back": "La simulation consiste pour les parties à donner l'apparence d'un acte différent de celui qu'elles ont réellement voulu ; elle repose généralement sur deux actes, un acte apparent et une contre-lettre secrète.",
+      "tags": [
+        "simulation",
+        "contre-lettre"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-118",
+      "front": "Qu'est-ce que la subrogation ?",
+      "back": "La subrogation est le mécanisme par lequel une personne est remplacée par une autre dans un droit ou une créance ; le nouveau créancier bénéficie des mêmes droits que l'ancien, par exemple un assureur indemnisant son assuré puis agissant contre le responsable.",
+      "tags": [
+        "subrogation",
+        "nouveau créancier"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-119",
+      "front": "Qu'est-ce que la théorie de la garantie ?",
+      "back": "La théorie de la garantie est la théorie selon laquelle certaines responsabilités reposent moins sur la faute que sur la nécessité d'assurer une réparation efficace de la victime ; elle a fortement influencé l'évolution moderne du droit de la responsabilité.",
+      "tags": [
+        "théorie de la garantie",
+        "réparation efficace"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-120",
+      "front": "Qu'est-ce que la théorie de la réception ?",
+      "back": "Selon la théorie de la réception, en droit des contrats, une déclaration de volonté produit ses effets lorsqu'elle parvient à son destinataire ; c'est aujourd'hui la théorie principalement retenue en droit français.",
+      "tags": [
+        "théorie de la réception",
+        "déclaration de volonté"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-121",
+      "front": "Qu'est-ce que la théorie de l'émission ?",
+      "back": "Selon la théorie de l'émission, la déclaration de volonté produit ses effets dès qu'elle est émise, sans attendre sa réception ; elle est aujourd'hui rarement retenue en droit français.",
+      "tags": [
+        "théorie de l'émission",
+        "déclaration de volonté"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-122",
+      "front": "Qu'est-ce que la théorie des risques en droit des contrats ?",
+      "back": "En droit des contrats, la théorie des risques détermine qui supporte les conséquences de la perte de la chose lorsqu'un événement indépendant de la volonté des parties survient ; elle est particulièrement importante en matière de vente.",
+      "tags": [
+        "théorie des risques",
+        "perte de la chose"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-123",
+      "front": "Qu'est-ce que la théorie du risque et en quoi se distingue-t-elle de la théorie des risques ?",
+      "back": "La théorie du risque est une notion plus générale selon laquelle celui qui crée ou maîtrise un risque peut être tenu d'en assumer les conséquences, même sans faute dans certains régimes de responsabilité ; elle a inspiré plusieurs évolutions de la responsabilité civile et se distingue de la théorie des risques, qui concerne spécifiquement les contrats.",
+      "tags": [
+        "théorie du risque",
+        "théorie des risques"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-124",
+      "front": "Qu'est-ce que le trouble anormal du voisinage ?",
+      "back": "Le trouble anormal du voisinage est le principe selon lequel nul ne doit causer à son voisin des troubles dépassant les inconvénients normaux du voisinage ; la responsabilité peut être engagée même sans faute, dès lors que le trouble est anormal, par exemple des nuisances sonores importantes, des fumées excessives, ou des odeurs persistantes.",
+      "tags": [
+        "trouble anormal du voisinage",
+        "responsabilité sans faute"
+      ]
+    },
+    {
+      "id": "lexique-obl-fc-125",
+      "front": "Qu'est-ce qu'un véhicule terrestre à moteur et pour quelle loi cette notion est-elle essentielle ?",
+      "back": "Un véhicule terrestre à moteur est tout véhicule circulant sur le sol grâce à un moteur ; cette notion est essentielle pour l'application de la loi Badinter, par exemple une voiture, une moto, un camion, ou un scooter.",
+      "tags": [
+        "véhicule terrestre à moteur",
+        "loi Badinter"
+      ]
+    }
+  ],
+  "qcm": []
+}

@@ -431,6 +431,42 @@
       "file": "frais-instance-aide-juridique.json",
       "title": "Les frais de l'instance et l'aide juridique",
       "category": "Procédure civile"
+    },
+    {
+      "id": "lexique-procedure-civile",
+      "file": "lexique-procedure-civile.json",
+      "title": "Lexique de procédure civile",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "aspects-droit-union-europeenne",
+      "file": "aspects-droit-union-europeenne.json",
+      "title": "Les aspects de droit de l'Union européenne en procédure civile",
+      "category": "Procédure civile"
+    },
+    {
+      "id": "lexique-introduction-personnes-famille",
+      "file": "lexique-introduction-personnes-famille.json",
+      "title": "Lexique d'introduction au droit, des personnes et de la famille",
+      "category": "Droit civil — Les personnes"
+    },
+    {
+      "id": "lexique-droit-obligations",
+      "file": "lexique-droit-obligations.json",
+      "title": "Lexique de droit des obligations",
+      "category": "Droit civil — Obligations"
+    },
+    {
+      "id": "lexique-droit-des-biens",
+      "file": "lexique-droit-des-biens.json",
+      "title": "Lexique de droit des biens",
+      "category": "Droit civil — Les biens"
+    },
+    {
+      "id": "modes-amiables-resolution-differends",
+      "file": "modes-amiables-resolution-differends.json",
+      "title": "Les modes amiables de résolution des différends (MARD)",
+      "category": "Procédure civile"
     }
   ]
 }

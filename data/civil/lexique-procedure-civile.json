@@ -1,0 +1,1088 @@
+{
+  "id": "lexique-procedure-civile",
+  "title": "Lexique de procédure civile",
+  "category": "Procédure civile",
+  "flashcards": [
+    {
+      "id": "lexique-fc-001",
+      "front": "Qu'est-ce que l'abus de droit en procédure civile ?",
+      "back": "L'abus de droit consiste à exercer un droit d'une manière qui dépasse sa finalité normale et cause un préjudice à autrui. En procédure civile, il s'agit principalement de l'exercice abusif d'une action en justice ou d'une voie de recours : une partie peut alors être condamnée à des dommages-intérêts et éventuellement à une amende civile, par exemple si elle multiplie volontairement des procédures manifestement vouées à l'échec pour harceler son adversaire.",
+      "tags": [
+        "abus de droit",
+        "amende civile"
+      ]
+    },
+    {
+      "id": "lexique-fc-002",
+      "front": "Qu'est-ce que le principe accusatoire ?",
+      "back": "Le principe accusatoire est le principe selon lequel ce sont les parties qui dirigent le procès : elles apportent les faits, les preuves et les arguments, le juge restant en principe neutre et tranchant le litige sur la base de ce qui lui est présenté, même s'il dispose de certains pouvoirs d'instruction. En procédure civile française, le système est principalement accusatoire, mais comporte quelques aspects inquisitoires, le juge pouvant ordonner certaines mesures d'instruction.",
+      "tags": [
+        "principe accusatoire",
+        "principe dispositif"
+      ]
+    },
+    {
+      "id": "lexique-fc-003",
+      "front": "Qu'est-ce que l'acquiescement et quelles en sont les deux formes ?",
+      "back": "L'acquiescement est l'acceptation par une partie d'une décision de justice ou des prétentions de son adversaire. Il existe deux formes : l'acquiescement au jugement, par lequel la partie accepte la décision et renonce à exercer une voie de recours, et l'acquiescement à la demande, par lequel la partie reconnaît le bien-fondé de la demande adverse. Sauf exception, l'acquiescement empêche ensuite de contester ce qui a été accepté.",
+      "tags": [
+        "acquiescement",
+        "renonciation"
+      ]
+    },
+    {
+      "id": "lexique-fc-004",
+      "front": "Qu'est-ce qu'un acte de procédure ?",
+      "back": "Un acte de procédure est un acte accompli au cours d'un procès afin de faire avancer l'instance ou d'exercer un droit procédural, comme l'assignation, les conclusions, la déclaration d'appel ou la requête. Les actes de procédure doivent respecter des conditions de forme et de fond, sous peine de nullité.",
+      "tags": [
+        "acte de procédure",
+        "nullité"
+      ]
+    },
+    {
+      "id": "lexique-fc-005",
+      "front": "Qu'est-ce qu'un acte extrajudiciaire ?",
+      "back": "Un acte extrajudiciaire est un acte établi par un commissaire de justice, ancien huissier, en dehors d'une décision du juge, comme une assignation, une signification de jugement ou une sommation de payer. Il se distingue de l'acte judiciaire, qui émane directement d'une juridiction.",
+      "tags": [
+        "acte extrajudiciaire",
+        "commissaire de justice"
+      ]
+    },
+    {
+      "id": "lexique-fc-006",
+      "front": "Qu'est-ce qu'une action déclaratoire ?",
+      "back": "Une action déclaratoire est une action ayant pour seul objet de faire constater par le juge l'existence ou l'absence d'un droit, sans demander de condamnation, par exemple demander au juge de constater qu'on est propriétaire d'un terrain.",
+      "tags": [
+        "action déclaratoire",
+        "constatation"
+      ]
+    },
+    {
+      "id": "lexique-fc-007",
+      "front": "Qu'est-ce qu'une action résolutoire ?",
+      "back": "Une action résolutoire est une action tendant à obtenir la résolution d'un contrat en raison de son inexécution ; la résolution entraîne en principe la disparition rétroactive du contrat, par exemple lorsqu'un acheteur demande la résolution de la vente parce que le vendeur n'a jamais livré le bien.",
+      "tags": [
+        "action résolutoire",
+        "résolution du contrat"
+      ]
+    },
+    {
+      "id": "lexique-fc-008",
+      "front": "Qu'est-ce que l'action en revendication ?",
+      "back": "L'action en revendication est une action réelle par laquelle le propriétaire demande la restitution d'un bien détenu par une autre personne, ce qui permet de faire reconnaître son droit de propriété, par exemple pour récupérer un meuble volé retrouvé chez un tiers.",
+      "tags": [
+        "action en revendication",
+        "action réelle"
+      ]
+    },
+    {
+      "id": "lexique-fc-009",
+      "front": "Qu'est-ce que l'action oblique ?",
+      "back": "L'action oblique est une action permettant à un créancier d'exercer les droits de son débiteur lorsque celui-ci reste inactif et que cette inaction compromet le recouvrement de la créance ; le créancier agit alors au nom de son débiteur mais dans son propre intérêt, par exemple lorsqu'un débiteur refuse volontairement de réclamer une somme qui lui est due.",
+      "tags": [
+        "action oblique",
+        "créancier"
+      ]
+    },
+    {
+      "id": "lexique-fc-010",
+      "front": "Qu'est-ce que l'action pétitoire ?",
+      "back": "L'action pétitoire est une action destinée à faire reconnaître ou protéger un droit de propriété ou un autre droit réel immobilier ; le juge examine qui est véritablement propriétaire. Elle se distingue de l'action possessoire, qui protège seulement la possession.",
+      "tags": [
+        "action pétitoire",
+        "droit réel immobilier"
+      ]
+    },
+    {
+      "id": "lexique-fc-011",
+      "front": "Qu'est-ce que l'action possessoire et qu'est devenue cette catégorie depuis 2015 ?",
+      "back": "L'action possessoire était une ancienne action destinée à protéger la possession indépendamment de la propriété. Depuis la réforme de 2015, les actions possessoires ont disparu en tant que régime autonome : la protection de la possession passe désormais essentiellement par le référé ou les actions de droit commun, l'idée restant importante en doctrine puisqu'on protège le possesseur sans avoir à démontrer qu'il est propriétaire.",
+      "tags": [
+        "action possessoire",
+        "réforme de 2015"
+      ]
+    },
+    {
+      "id": "lexique-fc-012",
+      "front": "Qu'est-ce que l'action provocatoire ?",
+      "back": "L'action provocatoire est une action permettant de contraindre une personne à prendre position sur un droit qu'elle prétend éventuellement détenir, afin de faire cesser une incertitude juridique, par exemple pour obliger quelqu'un qui prétend être héritier à agir dans un certain délai.",
+      "tags": [
+        "action provocatoire",
+        "incertitude juridique"
+      ]
+    },
+    {
+      "id": "lexique-fc-013",
+      "front": "Qu'est-ce qu'une action réelle et en quoi s'oppose-t-elle à l'action personnelle ?",
+      "back": "Une action réelle est une action fondée sur un droit réel, tel que la propriété, l'usufruit ou une servitude ; elle s'oppose à l'action personnelle, qui est fondée sur un contrat ou une obligation.",
+      "tags": [
+        "action réelle",
+        "action personnelle"
+      ]
+    },
+    {
+      "id": "lexique-fc-014",
+      "front": "Qu'est-ce que la technique de l'arrêt pilote devant la CEDH ?",
+      "back": "L'arrêt pilote est une technique utilisée par la Cour européenne des droits de l'homme lorsqu'un même problème provoque un très grand nombre de requêtes : la Cour statue sur une affaire représentative et indique à l'État les mesures générales qu'il doit adopter afin d'éviter de nouvelles violations.",
+      "tags": [
+        "arrêt pilote",
+        "CEDH"
+      ]
+    },
+    {
+      "id": "lexique-fc-015",
+      "front": "Qu'est-ce que l'assignation et quel est son rôle ?",
+      "back": "L'assignation est un acte de commissaire de justice par lequel un demandeur cite son adversaire devant une juridiction. Elle informe le défendeur, expose les demandes et fixe la date d'audience lorsqu'elle est connue : c'est l'acte introductif d'instance le plus fréquent.",
+      "tags": [
+        "assignation",
+        "acte introductif d'instance"
+      ]
+    },
+    {
+      "id": "lexique-fc-016",
+      "front": "Qu'est-ce que l'autorité de la chose jugée et à quel moment naît-elle ?",
+      "back": "L'autorité de la chose jugée est l'effet attaché à une décision de justice qui interdit de rejuger le même litige entre les mêmes parties, portant sur le même objet et la même cause ; elle naît dès que le jugement est rendu. Elle se distingue de la force de chose jugée, qui suppose qu'aucune voie de recours suspensive ne soit plus possible.",
+      "tags": [
+        "autorité de la chose jugée",
+        "force de chose jugée"
+      ]
+    },
+    {
+      "id": "lexique-fc-017",
+      "front": "Qu'est-ce qu'un ayant cause et quelles en sont les deux catégories ?",
+      "back": "Un ayant cause est une personne qui tient ses droits d'une autre. Il existe deux catégories : l'ayant cause universel, comme l'héritier, et l'ayant cause particulier, comme l'acquéreur d'un bien. Les ayants cause sont souvent liés par les effets des décisions rendues contre leur auteur.",
+      "tags": [
+        "ayant cause",
+        "ayant cause universel"
+      ]
+    },
+    {
+      "id": "lexique-fc-018",
+      "front": "Qu'est-ce que la caducité d'un acte de procédure et en quoi se distingue-t-elle de la nullité ?",
+      "back": "La caducité est la disparition d'un acte de procédure parce qu'une formalité indispensable n'a pas été accomplie dans le délai prévu, l'acte devenant alors sans effet, par exemple une assignation devenue caduque faute d'avoir été remise au greffe dans les délais. Elle se distingue de la nullité : la nullité sanctionne un vice, tandis que la caducité sanctionne le non-respect d'une formalité ou d'un délai postérieur.",
+      "tags": [
+        "caducité",
+        "nullité"
+      ]
+    },
+    {
+      "id": "lexique-fc-019",
+      "front": "Qu'est-ce que la capacité d'ester en justice et de quelles notions voisines faut-il la distinguer ?",
+      "back": "La capacité d'ester en justice est l'aptitude à agir soi-même devant les juridictions : une personne majeure capable peut agir seule, tandis que les mineurs et majeurs protégés doivent généralement être représentés ou assistés. Il faut la distinguer de la capacité de jouissance, de la capacité d'exercice, et de la qualité pour agir.",
+      "tags": [
+        "capacité d'ester en justice",
+        "qualité pour agir"
+      ]
+    },
+    {
+      "id": "lexique-fc-020",
+      "front": "Qu'est-ce que la clôture partielle décidée par le juge de la mise en état ?",
+      "back": "La clôture partielle est une décision du juge de la mise en état qui clôt seulement une partie de l'affaire ou certaines prétentions, tandis que le reste de l'instruction continue ; elle est surtout utilisée pour simplifier les dossiers complexes.",
+      "tags": [
+        "clôture partielle",
+        "juge de la mise en état"
+      ]
+    },
+    {
+      "id": "lexique-fc-021",
+      "front": "Qu'est-ce que le Comité des ministres et quel est son rôle vis-à-vis de la CEDH ?",
+      "back": "Le Comité des ministres est l'organe du Conseil de l'Europe chargé de surveiller l'exécution des arrêts de la Cour européenne des droits de l'homme. Il vérifie que l'État condamné verse les indemnités, modifie sa législation si nécessaire, et adopte les mesures générales imposées par la Cour.",
+      "tags": [
+        "Comité des ministres",
+        "exécution des arrêts"
+      ]
+    },
+    {
+      "id": "lexique-fc-022",
+      "front": "Qu'est-ce que la connexité et en quoi se distingue-t-elle de la litispendance ?",
+      "back": "Il y a connexité lorsque deux affaires différentes présentent un lien si étroit qu'il est préférable de les faire juger ensemble afin d'éviter des décisions incohérentes, par exemple un litige sur un contrat de vente et un autre sur la garantie liée à cette même vente. Contrairement à la litispendance, les deux affaires ne sont pas identiques.",
+      "tags": [
+        "connexité",
+        "litispendance"
+      ]
+    },
+    {
+      "id": "lexique-fc-023",
+      "front": "Qu'est-ce que la contrariété de jugements et quels mécanismes permettent de l'éviter ?",
+      "back": "La contrariété de jugements est la situation dans laquelle deux décisions de justice sont incompatibles entre elles. Le droit cherche à éviter ces contradictions grâce à des mécanismes comme la litispendance, la connexité, et certaines voies de recours.",
+      "tags": [
+        "contrariété de jugements",
+        "litispendance"
+      ]
+    },
+    {
+      "id": "lexique-fc-024",
+      "front": "Qu'est-ce qu'un contrat de procédure et quelle en est la limite ?",
+      "back": "Un contrat de procédure est un accord conclu entre les parties afin d'organiser le déroulement du procès dans les limites autorisées par la loi : les parties peuvent notamment convenir d'un calendrier, d'échanges de pièces, ou de certaines modalités procédurales, mais elles ne peuvent pas écarter des règles d'ordre public.",
+      "tags": [
+        "contrat de procédure",
+        "ordre public"
+      ]
+    },
+    {
+      "id": "lexique-fc-025",
+      "front": "Que sont les débours et en quoi diffèrent-ils des émoluments ?",
+      "back": "Les débours sont les sommes avancées par un professionnel de justice, principalement le commissaire de justice ou l'avocat, pour le compte de son client afin de réaliser des actes de procédure ; ils correspondent à des dépenses effectuées au profit de tiers, comme des frais de signification, de copie, de déplacement, ou la rémunération d'un expert avancée par une partie. Les débours sont différents des émoluments, qui rémunèrent directement le professionnel.",
+      "tags": [
+        "débours",
+        "émoluments"
+      ]
+    },
+    {
+      "id": "lexique-fc-026",
+      "front": "Qu'est-ce que le déclinatoire ?",
+      "back": "Le déclinatoire est le moyen par lequel une partie soutient que la juridiction saisie ne doit pas connaître du litige : il s'agit donc d'une contestation de la compétence du juge, qui prend plusieurs formes selon le motif invoqué.",
+      "tags": [
+        "déclinatoire",
+        "compétence"
+      ]
+    },
+    {
+      "id": "lexique-fc-027",
+      "front": "Qu'est-ce que le déclinatoire de compétence ?",
+      "back": "Le déclinatoire de compétence est une exception de procédure par laquelle une partie soutient que le tribunal saisi est incompétent, cette incompétence pouvant être matérielle (mauvais ordre ou mauvaise juridiction) ou territoriale (mauvais tribunal géographiquement), par exemple lorsqu'un tribunal judiciaire est saisi alors que le litige relève du tribunal de commerce.",
+      "tags": [
+        "déclinatoire de compétence",
+        "incompétence"
+      ]
+    },
+    {
+      "id": "lexique-fc-028",
+      "front": "Qu'est-ce que le déclinatoire de connexité ?",
+      "back": "Le déclinatoire de connexité est une demande tendant à faire renvoyer une affaire devant une autre juridiction parce qu'elle présente un lien étroit avec une autre affaire déjà pendante devant cette juridiction, afin d'éviter des décisions contradictoires. Contrairement à la litispendance, les deux affaires ne sont pas identiques.",
+      "tags": [
+        "déclinatoire de connexité",
+        "bonne administration de la justice"
+      ]
+    },
+    {
+      "id": "lexique-fc-029",
+      "front": "Qu'est-ce que le déclinatoire de litispendance et quelles en sont les conditions ?",
+      "back": "Le déclinatoire de litispendance est une demande tendant à dessaisir une juridiction parce qu'une autre juridiction également compétente est déjà saisie du même litige. Il faut, pour qu'il y ait litispendance, les mêmes parties, le même objet et la même cause ; le second juge saisi renvoie généralement l'affaire au premier.",
+      "tags": [
+        "déclinatoire de litispendance",
+        "litispendance"
+      ]
+    },
+    {
+      "id": "lexique-fc-030",
+      "front": "Que comprennent les dépens et en quoi se distinguent-ils des honoraires d'avocat ?",
+      "back": "Les dépens sont les frais du procès légalement définis et récupérables auprès de la partie perdante : ils comprennent notamment les frais de commissaire de justice, les frais d'expertise judiciaire, les frais de traduction, et certains frais de greffe. Ils sont distincts des honoraires d'avocat, qui ne sont pas des dépens ; en principe, les dépens sont mis à la charge de la partie qui succombe.",
+      "tags": [
+        "dépens",
+        "partie perdante"
+      ]
+    },
+    {
+      "id": "lexique-fc-031",
+      "front": "Qu'est-ce que le dépôt en procédure civile ?",
+      "back": "Le dépôt désigne la remise matérielle d'un document, d'une pièce ou d'un acte au greffe ou auprès d'un auxiliaire de justice, par exemple le dépôt d'un rapport d'expertise, le dépôt des pièces au greffe, ou le dépôt d'un mémoire.",
+      "tags": [
+        "dépôt",
+        "greffe"
+      ]
+    },
+    {
+      "id": "lexique-fc-032",
+      "front": "Qu'est-ce que le dessaisissement du juge et en quoi se distingue-t-il de la force de chose jugée ?",
+      "back": "Le juge est dessaisi lorsqu'il ne peut plus modifier sa décision, ce qui intervient en principe dès le prononcé du jugement ; il ne peut ensuite intervenir que dans des cas limités, comme la rectification d'erreur matérielle, l'interprétation, ou l'omission de statuer. Le dessaisissement concerne le juge, tandis que la force de chose jugée concerne la décision.",
+      "tags": [
+        "dessaisissement",
+        "force de chose jugée"
+      ]
+    },
+    {
+      "id": "lexique-fc-033",
+      "front": "Qu'est-ce que le dispositif du jugement et quelle est sa portée particulière ?",
+      "back": "Le dispositif constitue la partie finale du jugement : c'est lui qui contient les décisions du juge, comme condamne, déboute, annule, ordonne, ou prononce. Seul le dispositif bénéficie de l'autorité de la chose jugée, les motifs servant seulement à expliquer la décision sans trancher eux-mêmes le litige.",
+      "tags": [
+        "dispositif du jugement",
+        "autorité de la chose jugée"
+      ]
+    },
+    {
+      "id": "lexique-fc-034",
+      "front": "Qu'est-ce que la distraction des dépens ?",
+      "back": "La distraction des dépens permet à l'avocat de demander que les dépens lui soient directement versés lorsqu'il les a avancés pour son client ; ainsi, la partie condamnée paiera directement l'avocat au lieu de rembourser d'abord son adversaire.",
+      "tags": [
+        "distraction des dépens",
+        "avocat"
+      ]
+    },
+    {
+      "id": "lexique-fc-035",
+      "front": "Qu'est-ce que l'effet dévolutif et quelle voie de recours caractérise-t-il principalement ?",
+      "back": "L'effet dévolutif est l'effet par lequel une juridiction supérieure est saisie des points contestés devant elle ; il caractérise principalement l'appel, la cour d'appel rejugeant uniquement les chefs du jugement critiqués dans la déclaration d'appel. L'appel ne remet donc pas automatiquement toute l'affaire en cause.",
+      "tags": [
+        "effet dévolutif",
+        "appel"
+      ]
+    },
+    {
+      "id": "lexique-fc-036",
+      "front": "Qu'est-ce qu'une voie de recours suspensive ?",
+      "back": "Une voie de recours est suspensive lorsqu'elle empêche provisoirement l'exécution de la décision attaquée ; l'appel est, en principe, suspensif, mais il existe de nombreuses exceptions, notamment lorsque le jugement bénéficie de l'exécution provisoire. Le pourvoi en cassation n'est généralement pas suspensif.",
+      "tags": [
+        "effet suspensif",
+        "exécution provisoire"
+      ]
+    },
+    {
+      "id": "lexique-fc-037",
+      "front": "Que sont les émoluments et en quoi diffèrent-ils des honoraires et des débours ?",
+      "back": "Les émoluments sont la rémunération tarifée de certains professionnels de justice, fixée par des textes réglementaires ; ils rémunèrent notamment les commissaires de justice et certains actes des notaires. Ils sont différents des honoraires, librement fixés, et des débours, qui sont des sommes avancées.",
+      "tags": [
+        "émoluments",
+        "honoraires"
+      ]
+    },
+    {
+      "id": "lexique-fc-038",
+      "front": "Qu'est-ce que l'enrôlement d'une affaire ?",
+      "back": "L'enrôlement consiste à inscrire une affaire au registre de la juridiction : c'est cette formalité qui permet au tribunal d'être officiellement saisi dans certaines procédures. Après la délivrance d'une assignation, celle-ci doit être remise au greffe pour être enrôlée, à défaut de quoi elle peut devenir caduque.",
+      "tags": [
+        "enrôlement",
+        "greffe"
+      ]
+    },
+    {
+      "id": "lexique-fc-039",
+      "front": "Qu'est-ce que l'estoppel ?",
+      "back": "L'estoppel est un principe issu des droits anglo-saxons désormais admis en droit français, qui interdit à une partie de se contredire au détriment de son adversaire : une partie ne peut donc pas adopter successivement deux positions incompatibles si ce changement porte atteinte aux droits de l'autre. En droit français, l'estoppel est admis de manière assez restrictive.",
+      "tags": [
+        "estoppel",
+        "contradiction"
+      ]
+    },
+    {
+      "id": "lexique-fc-040",
+      "front": "Qu'est-ce que l'évocation par la cour d'appel ?",
+      "back": "L'évocation est le pouvoir reconnu à la cour d'appel de statuer elle-même sur le fond d'un litige alors que le premier juge ne s'était prononcé que sur une question préalable, comme une exception de procédure ; au lieu de renvoyer l'affaire devant le premier juge, la cour tranche directement le fond afin de gagner du temps. L'évocation reste une faculté de la cour d'appel, non une obligation.",
+      "tags": [
+        "évocation",
+        "cour d'appel"
+      ]
+    },
+    {
+      "id": "lexique-fc-041",
+      "front": "Qu'est-ce que l'exception de garantie ?",
+      "back": "L'exception de garantie est une demande incidente par laquelle une partie appelle un tiers dans le procès afin qu'il la garantisse des condamnations qui pourraient être prononcées contre elle, par exemple lorsqu'un vendeur poursuivi par son acheteur appelle son assureur ou son fournisseur en garantie.",
+      "tags": [
+        "exception de garantie",
+        "appel en garantie"
+      ]
+    },
+    {
+      "id": "lexique-fc-042",
+      "front": "Qu'est-ce que l'exception de nullité et quelles sont ses deux formes ?",
+      "back": "L'exception de nullité est le moyen par lequel une partie demande l'annulation d'un acte de procédure irrégulier ; elle sanctionne un vice affectant l'acte. Selon les cas, il s'agit d'une nullité pour vice de forme, qui suppose la preuve d'un grief, ou d'une nullité pour vice de fond, plus grave.",
+      "tags": [
+        "exception de nullité",
+        "vice de forme"
+      ]
+    },
+    {
+      "id": "lexique-fc-043",
+      "front": "Qu'est-ce qu'une exception de procédure et à quel moment doit-elle être soulevée ?",
+      "back": "Une exception de procédure est un moyen de défense tendant non pas à faire rejeter définitivement la demande, mais à empêcher temporairement ou définitivement le déroulement normal de l'instance. Les principales sont l'incompétence, la litispendance, la connexité, les exceptions dilatoires, et les nullités de procédure ; elles doivent, sauf exception, être soulevées avant toute défense au fond et simultanément.",
+      "tags": [
+        "exception de procédure",
+        "défense au fond"
+      ]
+    },
+    {
+      "id": "lexique-fc-044",
+      "front": "Qu'est-ce qu'une exception dilatoire ?",
+      "back": "Une exception dilatoire est une exception de procédure tendant uniquement à suspendre temporairement le procès : elle ne remet pas en cause le droit invoqué mais demande que le juge attende un événement, par exemple attendre qu'un héritier accepte officiellement une succession avant de poursuivre la procédure.",
+      "tags": [
+        "exception dilatoire",
+        "suspension du procès"
+      ]
+    },
+    {
+      "id": "lexique-fc-045",
+      "front": "Qu'est-ce que l'excès de pouvoir et quel effet peut-il produire sur les voies de recours ?",
+      "back": "Il y a excès de pouvoir lorsqu'une juridiction accomplit un acte qui dépasse les pouvoirs que la loi lui reconnaît, par exemple lorsqu'un juge statue sur une affaire relevant manifestement d'un autre ordre de juridiction. L'excès de pouvoir peut ouvrir certaines voies de recours exceptionnelles, même lorsqu'aucun recours ordinaire n'est normalement possible.",
+      "tags": [
+        "excès de pouvoir",
+        "recours exceptionnel"
+      ]
+    },
+    {
+      "id": "lexique-fc-046",
+      "front": "Qu'est-ce que l'exécution des jugements et quelles en sont les deux formes ?",
+      "back": "L'exécution d'un jugement consiste à mettre concrètement en œuvre ce qui a été décidé par le juge. Elle peut être volontaire, lorsque la partie condamnée s'exécute spontanément, ou forcée, lorsqu'un commissaire de justice met en œuvre des mesures d'exécution telles qu'une saisie ou une expulsion ; l'exécution suppose généralement que la décision soit revêtue de la force exécutoire.",
+      "tags": [
+        "exécution des jugements",
+        "force exécutoire"
+      ]
+    },
+    {
+      "id": "lexique-fc-047",
+      "front": "Qu'est-ce que l'exécution provisoire et depuis quand est-elle de droit ?",
+      "back": "L'exécution provisoire permet d'exécuter une décision sans attendre que les voies de recours soient épuisées. Depuis la réforme de 2020, elle est de droit, sauf si la loi ou le juge en décide autrement, son objectif étant d'éviter que les recours retardent inutilement l'exécution des décisions.",
+      "tags": [
+        "exécution provisoire",
+        "réforme de 2020"
+      ]
+    },
+    {
+      "id": "lexique-fc-048",
+      "front": "Qu'est-ce que l'exécution sur minute ?",
+      "back": "L'exécution sur minute permet d'exécuter la décision avant même que la copie exécutoire ne soit délivrée ; elle reste exceptionnelle et n'est autorisée que dans les cas prévus par la loi ou lorsqu'elle est expressément ordonnée par le juge en raison de l'urgence.",
+      "tags": [
+        "exécution sur minute",
+        "urgence"
+      ]
+    },
+    {
+      "id": "lexique-fc-049",
+      "front": "Qu'est-ce que l'exequatur ?",
+      "back": "L'exequatur est la décision par laquelle une juridiction française reconnaît qu'une décision rendue à l'étranger peut produire ses effets en France et, si nécessaire, être exécutée. Sans exequatur lorsqu'il est requis, un jugement étranger ne peut pas être exécuté de force en France ; au sein de l'Union européenne, de nombreux règlements ont toutefois supprimé l'exequatur pour certaines décisions afin de faciliter leur circulation.",
+      "tags": [
+        "exequatur",
+        "jugement étranger"
+      ]
+    },
+    {
+      "id": "lexique-fc-050",
+      "front": "Qu'est-ce qu'une fin de non-recevoir et quelle est sa spécificité par rapport aux exceptions de procédure ?",
+      "back": "La fin de non-recevoir est un moyen de défense qui tend à faire déclarer la demande irrecevable, sans examen du fond : elle ne conteste ni les faits ni le droit invoqué, mais le droit d'agir lui-même. Les principales sont le défaut d'intérêt à agir, le défaut de qualité pour agir, la prescription, le délai de forclusion, et l'autorité de la chose jugée. Contrairement aux exceptions de procédure, une fin de non-recevoir peut, en principe, être soulevée en tout état de cause.",
+      "tags": [
+        "fin de non-recevoir",
+        "défaut d'intérêt à agir"
+      ]
+    },
+    {
+      "id": "lexique-fc-051",
+      "front": "Qu'est-ce que la force de la chose jugée et en quoi se distingue-t-elle de l'autorité de la chose jugée ?",
+      "back": "La force de la chose jugée est le moment où une décision ne peut plus être remise en cause par une voie de recours suspensive d'exécution ; elle permet notamment l'exécution forcée du jugement. La différence avec l'autorité de la chose jugée est essentielle : l'autorité naît dès que le jugement est rendu et interdit de rejuger le même litige, tandis que la force intervient lorsque les recours suspensifs ne sont plus possibles.",
+      "tags": [
+        "force de la chose jugée",
+        "autorité de la chose jugée"
+      ]
+    },
+    {
+      "id": "lexique-fc-052",
+      "front": "Qu'est-ce que la force exécutoire ?",
+      "back": "La force exécutoire est la qualité qui permet de recourir à l'exécution forcée : une décision revêtue de la formule exécutoire peut être exécutée par un commissaire de justice. Elle concerne également certains actes, comme les actes notariés revêtus de la formule exécutoire ou certaines décisions administratives.",
+      "tags": [
+        "force exécutoire",
+        "exécution forcée"
+      ]
+    },
+    {
+      "id": "lexique-fc-053",
+      "front": "Qu'est-ce que la forclusion et en quoi se distingue-t-elle de la prescription ?",
+      "back": "La forclusion est la perte du droit d'exercer une action ou une voie de recours parce que le délai prévu par la loi est expiré. Contrairement à la prescription, la forclusion éteint le droit procédural lui-même, par exemple un appel formé après le délai d'un mois qui est forclos ; le relevé de forclusion concerne essentiellement les voies de recours ordinaires dans les cas prévus par la loi.",
+      "tags": [
+        "forclusion",
+        "prescription"
+      ]
+    },
+    {
+      "id": "lexique-fc-054",
+      "front": "Qu'est-ce que le principe d'immutabilité du litige ?",
+      "back": "Le principe d'immutabilité du litige signifie que l'objet du procès est fixé par les prétentions des parties : le juge ne peut pas modifier lui-même ce qui lui est demandé, et les parties ne peuvent pas non plus transformer complètement leur litige en cours d'instance. Elles peuvent en revanche modifier certains fondements juridiques, ajouter des demandes accessoires, ou présenter des demandes incidentes autorisées par le code de procédure civile.",
+      "tags": [
+        "immutabilité du litige",
+        "objet du litige"
+      ]
+    },
+    {
+      "id": "lexique-fc-055",
+      "front": "Qu'est-ce que la prorogation de compétence et quelles en sont les deux formes ?",
+      "back": "La prorogation de compétence est la possibilité pour les parties de rendre compétente une juridiction qui ne l'était pas initialement. Elle peut être conventionnelle, lorsque les parties choisissent à l'avance le tribunal compétent, par exemple par une clause attributive entre commerçants, ou légale, lorsque la loi elle-même permet qu'une juridiction devienne compétente dans certaines hypothèses. La compétence d'ordre public ne peut jamais être prorogée par les parties.",
+      "tags": [
+        "prorogation de compétence",
+        "clause attributive"
+      ]
+    },
+    {
+      "id": "lexique-fc-056",
+      "front": "Qu'est-ce que l'inscription de faux et en quoi se distingue-t-elle de la vérification d'écriture ?",
+      "back": "L'inscription de faux est la procédure permettant de contester l'authenticité d'un acte authentique ; comme un tel acte fait foi jusqu'à inscription de faux, il faut engager cette procédure spécifique pour démontrer qu'il est falsifié, par exemple lorsqu'une partie affirme qu'un acte notarié a été frauduleusement modifié. La vérification d'écriture concerne l'acte sous signature privée, tandis que l'inscription de faux concerne l'acte authentique.",
+      "tags": [
+        "inscription de faux",
+        "vérification d'écriture"
+      ]
+    },
+    {
+      "id": "lexique-fc-057",
+      "front": "Qu'est-ce que l'irrecevabilité et de quoi résulte-t-elle principalement ?",
+      "back": "L'irrecevabilité est la sanction qui empêche le juge d'examiner une demande : le juge s'arrête avant le fond. Elle résulte notamment d'une fin de non-recevoir, d'un défaut d'intérêt, d'un défaut de qualité, ou d'un délai expiré.",
+      "tags": [
+        "irrecevabilité",
+        "fin de non-recevoir"
+      ]
+    },
+    {
+      "id": "lexique-fc-058",
+      "front": "Qu'est-ce qu'une décision irrévocable ?",
+      "back": "Une décision est irrévocable lorsqu'elle ne peut plus être remise en cause par aucune voie de recours ordinaire ou extraordinaire : elle devient donc définitivement définitive. Toutes les décisions ayant force de chose jugée ne sont pas encore irrévocables pour autant.",
+      "tags": [
+        "irrévocable",
+        "force de chose jugée"
+      ]
+    },
+    {
+      "id": "lexique-fc-059",
+      "front": "Qu'est-ce qu'un jugement avant-dire droit ?",
+      "back": "Le jugement avant-dire droit est un jugement qui ne tranche pas le fond du litige mais prépare la décision définitive : il ordonne généralement une mesure d'instruction, telle qu'une expertise, une enquête, ou une consultation. Il ne dessaisit pas le juge.",
+      "tags": [
+        "jugement avant-dire droit",
+        "mesure d'instruction"
+      ]
+    },
+    {
+      "id": "lexique-fc-060",
+      "front": "Qu'est-ce qu'un jugement d'expédient ?",
+      "back": "Le jugement d'expédient est un jugement qui homologue l'accord conclu entre les parties : le juge ne tranche pas le litige, il constate simplement l'accord et lui donne force exécutoire. On le rencontre notamment après une médiation, une conciliation, ou une transaction.",
+      "tags": [
+        "jugement d'expédient",
+        "homologation"
+      ]
+    },
+    {
+      "id": "lexique-fc-061",
+      "front": "Qu'est-ce qu'un jugement de donner acte ?",
+      "back": "Par le jugement de donner acte, le juge constate officiellement une déclaration ou un engagement d'une partie, sans trancher aucun litige, par exemple lorsque le juge donne acte qu'une partie renonce à une prétention. Ce jugement n'a généralement pas autorité de chose jugée sur le fond.",
+      "tags": [
+        "jugement de donner acte",
+        "déclaration"
+      ]
+    },
+    {
+      "id": "lexique-fc-062",
+      "front": "Qu'est-ce qu'un jugement réputé contradictoire et en quoi se distingue-t-il du jugement par défaut ?",
+      "back": "Un jugement réputé contradictoire est un jugement rendu en l'absence d'une partie mais dans une situation où la loi considère qu'elle a eu la possibilité de se défendre, par exemple lorsque le défendeur a été régulièrement cité mais ne comparaît pas. Ce jugement n'est pas susceptible d'opposition : il faudra exercer les voies de recours ordinaires, notamment l'appel. Il se distingue du jugement par défaut, qui ouvre la voie de l'opposition.",
+      "tags": [
+        "jugement réputé contradictoire",
+        "jugement par défaut"
+      ]
+    },
+    {
+      "id": "lexique-fc-063",
+      "front": "Qu'est-ce que la matière gracieuse ?",
+      "back": "La matière gracieuse désigne les procédures où il n'existe aucun véritable conflit entre deux parties : le juge intervient pour contrôler ou autoriser une situation, par exemple un changement de régime matrimonial, une rectification d'un acte d'état civil, ou certaines adoptions. Le juge protège principalement un intérêt général ou un intérêt privé particulier.",
+      "tags": [
+        "matière gracieuse",
+        "juridiction gracieuse"
+      ]
+    },
+    {
+      "id": "lexique-fc-064",
+      "front": "Que regroupent les modes amiables de résolution des litiges (MARL) ?",
+      "back": "Les MARL regroupent les mécanismes permettant de régler un différend sans jugement : la négociation, la conciliation, la médiation, et la procédure participative. Leur objectif est de désengorger les tribunaux, d'accélérer les solutions, et de préserver les relations entre les parties.",
+      "tags": [
+        "MARL",
+        "médiation"
+      ]
+    },
+    {
+      "id": "lexique-fc-065",
+      "front": "Que sont les motifs de la décision et ont-ils autorité de la chose jugée ?",
+      "back": "Les motifs sont les explications du juge : ils indiquent pourquoi il décide, en analysant les faits, les preuves et les règles de droit. Les motifs n'ont pas, en principe, autorité de la chose jugée : seul le dispositif tranche le litige.",
+      "tags": [
+        "motifs de la décision",
+        "dispositif"
+      ]
+    },
+    {
+      "id": "lexique-fc-066",
+      "front": "Qu'est-ce qu'un moyen en procédure civile ?",
+      "back": "Le moyen est l'argument présenté devant le juge pour soutenir une prétention ou une défense : c'est un élément fondamental de la procédure civile, qui existe sous plusieurs catégories.",
+      "tags": [
+        "moyen",
+        "prétention"
+      ]
+    },
+    {
+      "id": "lexique-fc-067",
+      "front": "Qu'est-ce qu'un moyen de fait ?",
+      "back": "Un moyen de fait est un argument fondé sur les faits : il consiste à soutenir qu'un événement s'est produit ou non, par exemple affirmer que « le contrat n'a jamais été signé ».",
+      "tags": [
+        "moyen de fait",
+        "argument"
+      ]
+    },
+    {
+      "id": "lexique-fc-068",
+      "front": "Qu'est-ce qu'un moyen de droit ?",
+      "back": "Un moyen de droit est un argument fondé sur une règle juridique, par exemple soutenir que « le contrat est nul car il manque une condition de validité prévue par le Code civil ».",
+      "tags": [
+        "moyen de droit",
+        "règle juridique"
+      ]
+    },
+    {
+      "id": "lexique-fc-069",
+      "front": "Qu'est-ce qu'un moyen de pur droit ?",
+      "back": "Un moyen de pur droit est un moyen exclusivement juridique qui ne nécessite aucune nouvelle constatation de fait ; le juge peut parfois le relever d'office après avoir respecté le principe du contradictoire, par exemple lorsqu'il constate que l'action est prescrite au regard des dates déjà établies dans le dossier.",
+      "tags": [
+        "moyen de pur droit",
+        "relevé d'office"
+      ]
+    },
+    {
+      "id": "lexique-fc-070",
+      "front": "Qu'est-ce qu'un moyen de défense et quelles formes peut-il prendre ?",
+      "back": "Le moyen de défense est l'argument utilisé par le défendeur pour s'opposer à la demande : il peut prendre plusieurs formes, comme la défense au fond, l'exception de procédure, ou la fin de non-recevoir.",
+      "tags": [
+        "moyen de défense",
+        "défense au fond"
+      ]
+    },
+    {
+      "id": "lexique-fc-071",
+      "front": "Que désigne l'expression « moyens dans la cause » ?",
+      "back": "Les moyens dans la cause sont les moyens régulièrement soumis au débat contradictoire entre les parties : ils font donc partie du procès, et le juge peut statuer dessus.",
+      "tags": [
+        "moyens dans la cause",
+        "débat contradictoire"
+      ]
+    },
+    {
+      "id": "lexique-fc-072",
+      "front": "Que désigne l'expression « moyens dans le débat » et quelle exigence s'y rattache ?",
+      "back": "L'expression « moyens dans le débat » est très proche de celle de « moyens dans la cause » : elle insiste sur le fait que les moyens ont effectivement été discutés contradictoirement par les parties. Le juge ne peut normalement pas fonder sa décision sur un moyen qui n'a jamais été mis en débat, sauf après avoir invité les parties à présenter leurs observations.",
+      "tags": [
+        "moyens dans le débat",
+        "contradictoire"
+      ]
+    },
+    {
+      "id": "lexique-fc-073",
+      "front": "Qu'est-ce qu'une note en délibéré et dans quelles hypothèses est-elle admise ?",
+      "back": "La note en délibéré est un document écrit remis au juge après la clôture des débats, alors que l'affaire est déjà en délibéré ; elle constitue une exception au principe selon lequel les parties ne peuvent plus présenter de nouveaux arguments après la clôture. Elle n'est admise que dans des hypothèses limitées, notamment lorsque le juge la demande ou lorsque les parties doivent répondre à un moyen relevé d'office.",
+      "tags": [
+        "note en délibéré",
+        "clôture des débats"
+      ]
+    },
+    {
+      "id": "lexique-fc-074",
+      "front": "Qu'est-ce que la notification et en quoi se distingue-t-elle de la signification ?",
+      "back": "La notification est le fait de porter officiellement un acte ou une décision à la connaissance d'une personne ; elle peut être réalisée par le greffe, notamment par lettre recommandée ou notification électronique, ou par un commissaire de justice, on parle alors de signification. De nombreux délais, tels que ceux de l'appel, de l'opposition, ou du pourvoi, commencent à courir à compter de la notification. Toutes les significations sont des notifications, mais toutes les notifications ne sont pas des significations.",
+      "tags": [
+        "notification",
+        "signification"
+      ]
+    },
+    {
+      "id": "lexique-fc-075",
+      "front": "Qu'est-ce que la nullité des actes de procédure et quelles en sont les deux catégories ?",
+      "back": "La nullité sanctionne un acte de procédure irrégulier. Il existe deux catégories : la nullité pour vice de forme, qui suppose un texte prévoyant la nullité et un grief, c'est-à-dire un préjudice causé à celui qui l'invoque ; et la nullité pour vice de fond, plus grave, dont les principaux cas sont le défaut de capacité d'ester en justice ou le défaut de pouvoir d'un représentant, et qui n'exige pas la preuve d'un grief.",
+      "tags": [
+        "nullité pour vice de forme",
+        "nullité pour vice de fond"
+      ]
+    },
+    {
+      "id": "lexique-fc-076",
+      "front": "Qu'est-ce que l'opposition et contre quel type de jugement est-elle impossible ?",
+      "back": "L'opposition est une voie de recours ordinaire permettant à une personne condamnée par un jugement rendu par défaut de demander au même juge de rejuger l'affaire, afin de permettre au défendeur absent de faire enfin valoir ses arguments. L'opposition est impossible contre un jugement réputé contradictoire.",
+      "tags": [
+        "opposition",
+        "jugement par défaut"
+      ]
+    },
+    {
+      "id": "lexique-fc-077",
+      "front": "Qu'est-ce que l'ordonnance de clôture et quel est son effet ?",
+      "back": "L'ordonnance de clôture est rendue par le juge de la mise en état ; elle met fin à l'instruction de l'affaire. À partir de ce moment, les parties ne peuvent plus déposer de conclusions ni communiquer de nouvelles pièces, l'affaire étant alors prête pour l'audience de plaidoirie. Dans certains cas exceptionnels, la clôture peut être révoquée.",
+      "tags": [
+        "ordonnance de clôture",
+        "juge de la mise en état"
+      ]
+    },
+    {
+      "id": "lexique-fc-078",
+      "front": "Qu'est-ce qu'une ordonnance de référé et a-t-elle autorité de chose jugée au principal ?",
+      "back": "L'ordonnance de référé est la décision rendue par le juge des référés : elle statue rapidement, sans préjuger du fond du litige. Elle permet notamment de faire cesser un trouble manifestement illicite, de prévenir un dommage imminent, d'ordonner une expertise, ou d'accorder une provision. Elle n'a, en principe, pas autorité de chose jugée au principal.",
+      "tags": [
+        "ordonnance de référé",
+        "juge des référés"
+      ]
+    },
+    {
+      "id": "lexique-fc-079",
+      "front": "Qu'est-ce qu'une ordonnance sur requête ?",
+      "back": "L'ordonnance sur requête est une décision rendue sans entendre la partie adverse : elle constitue une exception au principe du contradictoire, n'étant admise que lorsque les circonstances exigent que l'adversaire ne soit pas informé, par exemple pour autoriser un huissier à effectuer des constatations avant que des preuves ne disparaissent. La personne concernée pourra ensuite demander la rétractation de l'ordonnance.",
+      "tags": [
+        "ordonnance sur requête",
+        "rétractation"
+      ]
+    },
+    {
+      "id": "lexique-fc-080",
+      "front": "Qu'est-ce que la péremption d'instance et que distingue-t-elle de la prescription, de la caducité et de la radiation ?",
+      "back": "La péremption sanctionne l'inaction des parties : lorsqu'aucune diligence n'est accomplie pendant deux ans, l'instance s'éteint. Elle ne fait pas disparaître le droit d'agir lui-même, mais éteint seulement l'instance en cours, le demandeur pouvant souvent recommencer une nouvelle procédure si son action n'est pas prescrite. À ne pas confondre avec la prescription, qui éteint l'action, la caducité, qui frappe un acte de procédure, ou la radiation, qui suspend simplement l'instance.",
+      "tags": [
+        "péremption d'instance",
+        "prescription"
+      ]
+    },
+    {
+      "id": "lexique-fc-081",
+      "front": "Qu'est-ce que la plaidoirie ?",
+      "back": "La plaidoirie est l'exposé oral des arguments des parties devant le juge. Aujourd'hui, en procédure écrite, elle sert principalement à mettre en valeur les arguments déjà développés dans les conclusions ; elle ne remplace pas les écritures.",
+      "tags": [
+        "plaidoirie",
+        "conclusions"
+      ]
+    },
+    {
+      "id": "lexique-fc-082",
+      "front": "Qu'est-ce que le plumitif d'audience ?",
+      "back": "Le plumitif est le registre dans lequel sont consignés les principaux événements de l'audience : il mentionne notamment la date, les parties présentes, les incidents, et les décisions prises à l'audience. Il sert à conserver une trace officielle du déroulement des débats.",
+      "tags": [
+        "plumitif d'audience",
+        "registre"
+      ]
+    },
+    {
+      "id": "lexique-fc-083",
+      "front": "Qu'est-ce que la prescription extinctive et en quoi se distingue-t-elle de la forclusion ?",
+      "back": "La prescription extinctive est le mécanisme par lequel l'écoulement d'un délai fait perdre le droit d'agir en justice ; le délai de droit commun est de cinq ans pour les actions personnelles ou mobilières. La prescription ne fait pas toujours disparaître le droit lui-même, elle éteint principalement l'action en justice, à la différence de la forclusion, qui fait perdre directement le droit procédural d'agir.",
+      "tags": [
+        "prescription",
+        "forclusion"
+      ]
+    },
+    {
+      "id": "lexique-fc-084",
+      "front": "Que rappelle le principe d'immutabilité du litige, en tant que principe directeur du procès ?",
+      "back": "Le principe d'immutabilité du litige signifie que le juge ne peut pas modifier l'objet du litige fixé par les parties ; ce principe est souvent cité comme l'un des principes directeurs du procès civil.",
+      "tags": [
+        "principe d'immutabilité du litige",
+        "principes directeurs du procès"
+      ]
+    },
+    {
+      "id": "lexique-fc-085",
+      "front": "Qu'est-ce que le principe d'indisponibilité de l'objet du litige ?",
+      "back": "Dans certaines matières, les parties ne disposent pas librement de leurs droits et ne peuvent donc pas mettre fin au procès comme elles le souhaitent, le juge exerçant un contrôle particulier ; c'est le cas notamment de la filiation, de l'état des personnes, ou de certaines procédures concernant les mineurs. À l'inverse, dans la plupart des litiges patrimoniaux, les parties disposent librement de leurs droits, par exemple par désistement ou transaction.",
+      "tags": [
+        "indisponibilité de l'objet du litige",
+        "état des personnes"
+      ]
+    },
+    {
+      "id": "lexique-fc-086",
+      "front": "Qu'est-ce que le principe d'initiative ?",
+      "back": "Le principe d'initiative signifie que le procès appartient d'abord aux parties : ce sont elles qui introduisent l'instance, déterminent leurs demandes, et apportent les preuves, le juge ne pouvant généralement pas agir de lui-même. C'est l'un des grands principes directeurs du procès civil.",
+      "tags": [
+        "principe d'initiative",
+        "principes directeurs du procès"
+      ]
+    },
+    {
+      "id": "lexique-fc-087",
+      "front": "Qu'est-ce que le principe de juridiction ?",
+      "back": "Le principe de juridiction signifie qu'un litige doit être tranché par une juridiction compétente offrant les garanties d'un procès équitable ; il garantit notamment l'indépendance, l'impartialité, et le respect du contradictoire.",
+      "tags": [
+        "principe de juridiction",
+        "procès équitable"
+      ]
+    },
+    {
+      "id": "lexique-fc-088",
+      "front": "Qu'est-ce que le principe du double degré de juridiction et connaît-il des exceptions ?",
+      "back": "Le principe du double degré de juridiction permet qu'une affaire soit examinée deux fois : une première fois par le tribunal, une seconde fois par la cour d'appel. Ce principe connaît plusieurs exceptions, par exemple les jugements rendus en dernier ressort ou certaines décisions insusceptibles d'appel, où seul un pourvoi en cassation est alors possible.",
+      "tags": [
+        "double degré de juridiction",
+        "dernier ressort"
+      ]
+    },
+    {
+      "id": "lexique-fc-089",
+      "front": "Qu'est-ce que la prorogation, à ne pas confondre avec la prorogation de compétence ?",
+      "back": "La prorogation consiste simplement à prolonger un délai ou à reporter une échéance ; elle peut être prévue par la loi ou décidée par le juge. Il ne faut pas la confondre avec la prorogation de compétence, qui concerne la compétence des juridictions.",
+      "tags": [
+        "prorogation",
+        "délai"
+      ]
+    },
+    {
+      "id": "lexique-fc-090",
+      "front": "Qu'est-ce qu'un quasi-contrat et quels en sont les principaux exemples ?",
+      "back": "Le quasi-contrat est un fait purement volontaire dont il résulte une obligation sans qu'il existe de contrat. Les principaux quasi-contrats sont la gestion d'affaires, le paiement de l'indu, et l'enrichissement injustifié ; bien que cette notion relève surtout du droit des obligations, elle peut être le fondement d'une action devant le juge civil.",
+      "tags": [
+        "quasi-contrat",
+        "gestion d'affaires"
+      ]
+    },
+    {
+      "id": "lexique-fc-091",
+      "front": "Qu'est-ce que la question prioritaire de constitutionnalité et quel est son cheminement procédural ?",
+      "back": "La QPC permet à une partie de soutenir qu'une disposition législative porte atteinte aux droits et libertés garantis par la Constitution ; elle peut être soulevée au cours d'un procès. Le juge vérifie certaines conditions puis transmet éventuellement la question à la Cour de cassation ou au Conseil d'État, puis, si les conditions sont réunies, au Conseil constitutionnel. Si la disposition est déclarée inconstitutionnelle, elle peut être abrogée.",
+      "tags": [
+        "QPC",
+        "Conseil constitutionnel"
+      ]
+    },
+    {
+      "id": "lexique-fc-092",
+      "front": "Qu'est-ce qu'une question préjudicielle ?",
+      "back": "Une question préjudicielle apparaît lorsqu'un juge doit attendre qu'une autre juridiction tranche une question qui relève exclusivement de sa compétence ; le premier juge sursoit alors à statuer, par exemple lorsqu'un juge civil attend qu'une juridiction administrative statue sur la légalité d'un acte administratif indispensable à la solution du litige civil.",
+      "tags": [
+        "question préjudicielle",
+        "sursis à statuer"
+      ]
+    },
+    {
+      "id": "lexique-fc-093",
+      "front": "Qu'est-ce que la radiation-sanction et comment peut-on obtenir le rétablissement de l'affaire ?",
+      "back": "La radiation est la décision par laquelle une affaire est retirée du rôle du tribunal ; la radiation-sanction est prononcée lorsqu'une partie ne respecte pas une obligation procédurale, par exemple lorsque l'appelant n'exécute pas le jugement assorti de l'exécution provisoire. La radiation n'éteint pas l'instance, elle la suspend simplement : la partie doit justifier avoir accompli la diligence qui lui était reprochée pour demander le rétablissement de l'affaire au rôle.",
+      "tags": [
+        "radiation-sanction",
+        "rétablissement au rôle"
+      ]
+    },
+    {
+      "id": "lexique-fc-094",
+      "front": "Qu'est-ce que le recours en rectification ?",
+      "back": "Le recours en rectification permet de corriger une erreur purement matérielle contenue dans une décision de justice : il ne s'agit pas de modifier ce que le juge a voulu décider, mais simplement de corriger une erreur de plume ou de calcul, comme l'inversion d'un prénom ou une erreur de date. Ce recours ne remet jamais en cause le fond de la décision.",
+      "tags": [
+        "recours en rectification",
+        "erreur matérielle"
+      ]
+    },
+    {
+      "id": "lexique-fc-095",
+      "front": "Qu'est-ce que le recours en révision et quels en sont les principaux cas d'ouverture ?",
+      "back": "Le recours en révision est une voie de recours extraordinaire permettant de remettre en cause une décision devenue définitive lorsqu'elle a été obtenue dans des conditions frauduleuses ou particulièrement graves. Les principaux cas sont la fraude de la partie gagnante, la découverte de pièces décisives retenues par l'adversaire, ou un faux témoignage ou faux document. Le recours est porté devant la juridiction qui a rendu la décision.",
+      "tags": [
+        "recours en révision",
+        "fraude"
+      ]
+    },
+    {
+      "id": "lexique-fc-096",
+      "front": "Qu'est-ce que le recours-nullité ?",
+      "back": "Le recours-nullité est une voie de recours exceptionnelle admise lorsqu'aucun recours ordinaire n'est ouvert alors que la décision est entachée d'un excès de pouvoir ou d'une irrégularité particulièrement grave ; il permet d'obtenir l'annulation de la décision et reste très rare en pratique.",
+      "tags": [
+        "recours-nullité",
+        "excès de pouvoir"
+      ]
+    },
+    {
+      "id": "lexique-fc-097",
+      "front": "Qu'est-ce que le recours restauré et à quel mécanisme renvoie-t-il essentiellement ?",
+      "back": "Le recours restauré est le mécanisme par lequel une personne retrouve exceptionnellement la possibilité d'exercer une voie de recours qu'elle avait perdue. En pratique, cette idée renvoie essentiellement au relevé de forclusion : le recours n'était plus possible, mais la loi permet exceptionnellement de le restaurer.",
+      "tags": [
+        "recours restauré",
+        "relevé de forclusion"
+      ]
+    },
+    {
+      "id": "lexique-fc-098",
+      "front": "Qu'est-ce qu'une réquisition en procédure civile ?",
+      "back": "La réquisition est la demande officielle adressée à une autorité ou à un professionnel afin qu'il accomplisse un acte. En procédure civile, on parle notamment des réquisitions adressées à un commissaire de justice pour procéder à une mesure d'exécution.",
+      "tags": [
+        "réquisition",
+        "commissaire de justice"
+      ]
+    },
+    {
+      "id": "lexique-fc-099",
+      "front": "Qu'est-ce que le référé ?",
+      "back": "Le référé est une procédure rapide permettant d'obtenir une décision provisoire lorsqu'il existe une urgence ou qu'une mesure immédiate est nécessaire ; le juge des référés ne tranche pas le fond du litige. Il peut notamment ordonner une expertise, faire cesser un trouble manifestement illicite, prévenir un dommage imminent, ou accorder une provision.",
+      "tags": [
+        "référé",
+        "urgence"
+      ]
+    },
+    {
+      "id": "lexique-fc-100",
+      "front": "Qu'est-ce que le référé-liberté et relève-t-il de la procédure civile ?",
+      "back": "Le référé-liberté relève du contentieux administratif, et non de la procédure civile : il permet au juge administratif d'ordonner, dans les quarante-huit heures, toute mesure nécessaire à la sauvegarde d'une liberté fondamentale gravement et manifestement atteinte par une personne publique.",
+      "tags": [
+        "référé-liberté",
+        "contentieux administratif"
+      ]
+    },
+    {
+      "id": "lexique-fc-101",
+      "front": "Qu'est-ce que le référé-provision ?",
+      "back": "Le référé-provision permet au juge d'accorder immédiatement une somme d'argent lorsque l'obligation n'est pas sérieusement contestable, le créancier n'ayant donc pas besoin d'attendre le jugement sur le fond, par exemple lorsqu'une compagnie d'assurance reconnaît devoir une indemnité mais tarde à payer.",
+      "tags": [
+        "référé-provision",
+        "provision"
+      ]
+    },
+    {
+      "id": "lexique-fc-102",
+      "front": "Qu'est-ce que la réformation ?",
+      "back": "La réformation est le pouvoir reconnu à la juridiction de recours, principalement la cour d'appel, de modifier la décision rendue en première instance : elle peut confirmer totalement, infirmer totalement, ou infirmer partiellement. La partie modifiée correspond à la réformation du jugement.",
+      "tags": [
+        "réformation",
+        "cour d'appel"
+      ]
+    },
+    {
+      "id": "lexique-fc-103",
+      "front": "Qu'est-ce que le relevé de forclusion et à quelles voies de recours s'applique-t-il essentiellement ?",
+      "back": "Le relevé de forclusion permet exceptionnellement à une personne qui a laissé expirer un délai de recours de retrouver la possibilité d'exercer ce recours ; il n'est admis que dans les cas prévus par la loi et concerne essentiellement les voies de recours ordinaires, lorsque la loi prévoit cette possibilité.",
+      "tags": [
+        "relevé de forclusion",
+        "délai de recours"
+      ]
+    },
+    {
+      "id": "lexique-fc-104",
+      "front": "Qu'est-ce qu'une requête et dans quels cas est-elle utilisée ?",
+      "back": "La requête est un acte par lequel une personne saisit directement le juge, sans assigner son adversaire. Elle est utilisée notamment en matière gracieuse, dans certaines procédures simplifiées, et pour les ordonnances sur requête.",
+      "tags": [
+        "requête",
+        "matière gracieuse"
+      ]
+    },
+    {
+      "id": "lexique-fc-105",
+      "front": "Qu'est-ce que la rétractation et en quoi se distingue-t-elle de la réformation ?",
+      "back": "La rétractation est une voie de recours permettant au juge qui a rendu une décision de revenir lui-même sur cette décision ; elle existe principalement pour les ordonnances sur requête et pour l'opposition, qui conduit également le même juge à rejuger l'affaire. Contrairement à la réformation, la décision est réexaminée par le même juge.",
+      "tags": [
+        "rétractation",
+        "réformation"
+      ]
+    },
+    {
+      "id": "lexique-fc-106",
+      "front": "Qu'est-ce que le retrait du rôle et en quoi se distingue-t-il de la radiation-sanction ?",
+      "back": "Le retrait du rôle consiste à retirer provisoirement une affaire du registre du tribunal ; contrairement à la radiation-sanction, il résulte généralement d'une demande ou d'un accord des parties. Il suspend l'instance, l'affaire pouvant ensuite être réinscrite.",
+      "tags": [
+        "retrait du rôle",
+        "radiation-sanction"
+      ]
+    },
+    {
+      "id": "lexique-fc-107",
+      "front": "Qu'est-ce que la saisie conservatoire ?",
+      "back": "La saisie conservatoire est une mesure conservatoire permettant de bloquer provisoirement les biens du débiteur afin d'éviter leur disparition avant qu'une décision définitive soit rendue ; elle protège le créancier, par exemple par le blocage d'un compte bancaire.",
+      "tags": [
+        "saisie conservatoire",
+        "mesure conservatoire"
+      ]
+    },
+    {
+      "id": "lexique-fc-108",
+      "front": "Qu'est-ce que la saisine d'une juridiction ?",
+      "back": "La saisine est l'acte par lequel une juridiction est officiellement appelée à connaître d'un litige ; elle peut résulter d'une assignation, d'une requête, ou d'une déclaration d'appel. À partir de la saisine, le juge devient compétent pour traiter l'affaire.",
+      "tags": [
+        "saisine",
+        "assignation"
+      ]
+    },
+    {
+      "id": "lexique-fc-109",
+      "front": "Qu'est-ce que le serment judiciaire et quelles en sont les deux formes ?",
+      "back": "Le serment judiciaire est un mode de preuve. Il existe principalement le serment décisoire, par lequel une partie défie l'autre de prêter serment, le serment décidant alors du litige, et le serment supplétoire, par lequel le juge demande lui-même le serment afin de compléter des preuves insuffisantes.",
+      "tags": [
+        "serment décisoire",
+        "serment supplétoire"
+      ]
+    },
+    {
+      "id": "lexique-fc-110",
+      "front": "Qu'est-ce qu'une sommation ?",
+      "back": "La sommation est un acte de commissaire de justice par lequel une personne est officiellement invitée à faire ou à ne pas faire quelque chose, par exemple une sommation de payer, de quitter les lieux, ou de communiquer un document.",
+      "tags": [
+        "sommation",
+        "commissaire de justice"
+      ]
+    },
+    {
+      "id": "lexique-fc-111",
+      "front": "Qu'est-ce que le sursis à statuer ?",
+      "back": "Le sursis à statuer consiste pour le juge à suspendre temporairement sa décision en attendant qu'un événement survienne, par exemple attendre la décision d'une autre juridiction, le résultat d'une expertise, ou une décision du Conseil constitutionnel dans le cadre d'une QPC. Le procès n'est pas terminé : il est simplement interrompu.",
+      "tags": [
+        "sursis à statuer",
+        "QPC"
+      ]
+    },
+    {
+      "id": "lexique-fc-112",
+      "front": "Qu'est-ce que le taux du ressort ?",
+      "back": "Le taux du ressort détermine si une décision est susceptible d'appel : lorsque le montant du litige est inférieur au taux fixé par la loi, le jugement est rendu en dernier ressort et n'est donc pas appelable.",
+      "tags": [
+        "taux du ressort",
+        "dernier ressort"
+      ]
+    },
+    {
+      "id": "lexique-fc-113",
+      "front": "Qu'est-ce que le taux de compétence et quelle est son importance actuelle ?",
+      "back": "Le taux de compétence détermine si une juridiction est compétente en fonction de la valeur du litige. Cette notion a aujourd'hui largement perdu de son importance avec les réformes ayant supprimé de nombreux seuils de compétence ; certaines fiches distinguent encore le taux de compétence, le taux du ressort, le taux procédural, et le taux de conciliation, ces distinctions étant surtout pédagogiques.",
+      "tags": [
+        "taux de compétence",
+        "taux du ressort"
+      ]
+    },
+    {
+      "id": "lexique-fc-114",
+      "front": "Qu'est-ce que la tierce opposition et devant quelle juridiction est-elle en principe portée ?",
+      "back": "La tierce opposition est une voie de recours extraordinaire ouverte à une personne qui n'était pas partie au procès, mais dont les droits sont affectés par la décision ; elle lui permet de faire rejuger uniquement ce qui lui porte préjudice. En principe, la tierce opposition est portée devant la juridiction qui a rendu la décision, sauf exceptions prévues par la loi.",
+      "tags": [
+        "tierce opposition",
+        "voie de recours extraordinaire"
+      ]
+    },
+    {
+      "id": "lexique-fc-115",
+      "front": "Qu'est-ce que le statut ultra petita et de quelles notions voisines faut-il le distinguer ?",
+      "back": "Le juge statue ultra petita lorsqu'il accorde davantage que ce qui lui était demandé, ce qui est interdit : le juge doit respecter les limites fixées par les prétentions des parties. Il faut distinguer l'infra petita, lorsque le juge accorde moins, de l'extra petita, lorsqu'il statue sur quelque chose qui ne lui était pas demandé.",
+      "tags": [
+        "ultra petita",
+        "infra petita"
+      ]
+    },
+    {
+      "id": "lexique-fc-116",
+      "front": "Qu'est-ce que la vérification d'écriture et en quoi se distingue-t-elle de l'inscription de faux ?",
+      "back": "La vérification d'écriture est la procédure permettant de vérifier l'authenticité d'un acte sous signature privée lorsque l'une des parties conteste son écriture ou sa signature ; le juge peut comparer les écritures ou ordonner une expertise graphologique. Elle se distingue de l'inscription de faux, qui concerne les actes authentiques.",
+      "tags": [
+        "vérification d'écriture",
+        "inscription de faux"
+      ]
+    },
+    {
+      "id": "lexique-fc-117",
+      "front": "Qu'est-ce que la voie de fait ?",
+      "back": "En procédure civile, cette expression est peu utilisée, appartenant surtout au droit administratif : la voie de fait désigne une atteinte particulièrement grave portée par l'administration à une liberté fondamentale ou au droit de propriété, justifiant exceptionnellement l'intervention du juge judiciaire.",
+      "tags": [
+        "voie de fait",
+        "droit administratif"
+      ]
+    },
+    {
+      "id": "lexique-fc-118",
+      "front": "Que sont les voies de recours et comment se divisent-elles ?",
+      "back": "Les voies de recours permettent de contester une décision de justice ; elles se divisent en deux catégories : les voies de recours ordinaires, comme l'appel et l'opposition, et les voies de recours extraordinaires, comme le pourvoi en cassation, la tierce opposition, et le recours en révision.",
+      "tags": [
+        "voie de recours ordinaire",
+        "voie de recours extraordinaire"
+      ]
+    },
+    {
+      "id": "lexique-fc-119",
+      "front": "Qu'est-ce que la voie de réformation ?",
+      "back": "La voie de réformation est une voie de recours dans laquelle la juridiction supérieure remplace la décision de la juridiction inférieure par sa propre décision ; le meilleur exemple en est l'appel.",
+      "tags": [
+        "voie de réformation",
+        "appel"
+      ]
+    },
+    {
+      "id": "lexique-fc-120",
+      "front": "Qu'est-ce que la voie de rétractation ?",
+      "back": "La voie de rétractation est une voie de recours dans laquelle le même juge revient sur sa propre décision ; les principaux exemples sont l'opposition et la rétractation d'une ordonnance sur requête.",
+      "tags": [
+        "voie de rétractation",
+        "opposition"
+      ]
+    }
+  ],
+  "qcm": []
+}
