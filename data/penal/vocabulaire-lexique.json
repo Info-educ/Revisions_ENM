@@ -1,0 +1,1241 @@
+{
+  "id": "vocabulaire-lexique",
+  "title": "Vocabulaire juridique — Lexiques droit pénal et procédure pénale",
+  "category": "Droit pénal général",
+  "flashcards": [
+    {
+      "id": "vocab-fc-001",
+      "front": "Définissez : ABANDON",
+      "back": "En droit pénal spécial, l'abandon consiste à délaisser une personne ou une chose dans des circonstances prévues par la loi.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-002",
+      "front": "Définissez : ABROGATION DE LA LOI PÉNALE",
+      "back": "L'abrogation est la suppression d'une loi pénale par une nouvelle loi.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-003",
+      "front": "Définissez : ABSTENTION",
+      "back": "En droit pénal, l'abstention est le fait de ne pas accomplir un acte alors que la loi imposait d'agir.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-004",
+      "front": "Définissez : ABUS",
+      "back": "L'abus correspond à l'utilisation détournée ou excessive d'un droit, d'un pouvoir ou d'une fonction dans un but illicite.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-005",
+      "front": "Définissez : ABUS DE CONFIANCE",
+      "back": "L'abus de confiance consiste à détourner un bien qui a été remis volontairement, à charge de le rendre, de le représenter ou d'en faire un usage déterminé.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-006",
+      "front": "Définissez : ACCUSATION",
+      "back": "L'accusation consiste à soutenir qu'une personne a commis une infraction et doit être jugée.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-007",
+      "front": "Définissez : ACTE HUMILIANT OU DÉGRADANT",
+      "back": "Acte portant gravement atteinte à la dignité d'une personne sans nécessairement lui causer une souffrance physique importante.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-008",
+      "front": "Définissez : ACTE OPÉRANT OBLIGATION OU DÉCHARGE",
+      "back": "Cette notion est utilisée notamment en matière de faux en écriture.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-009",
+      "front": "Définissez : ACTE PRÉPARATOIRE",
+      "back": "L'acte préparatoire est un acte qui précède la tentative d'une infraction.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-010",
+      "front": "Définissez : ACTE SUBSÉQUENT",
+      "back": "L'acte subséquent est un acte accompli après la commission de l'infraction.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-011",
+      "front": "Définissez : ACTION CIVILE",
+      "back": "L'action civile permet à la victime de demander la réparation du préjudice causé par une infraction.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-012",
+      "front": "Définissez : ACTION PUBLIQUE",
+      "back": "L'action publique a pour objet de faire appliquer la loi pénale et de poursuivre l'auteur d'une infraction.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-013",
+      "front": "Définissez : ACTION À FINS CIVILES",
+      "back": "Action exercée devant la juridiction pénale afin d'obtenir uniquement la réparation du dommage subi.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-014",
+      "front": "Définissez : ADJUDICATION PUBLIQUE",
+      "back": "Mode de vente par lequel un bien est attribué au plus offrant à l'issue d'une procédure publique.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-015",
+      "front": "Définissez : AMENDE FORFAITAIRE",
+      "back": "Procédure simplifiée permettant d'éteindre l'action publique par le paiement d'une somme fixée par la loi.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-016",
+      "front": "Définissez : AMNISTIE",
+      "back": "L'amnistie est une mesure législative qui efface rétroactivement le caractère pénal de certains faits.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-017",
+      "front": "Définissez : ANIMUS NECANDI",
+      "back": "Expression latine signifiant « intention de tuer ».",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-018",
+      "front": "Définissez : APPLICATION DE LA LOI PÉNALE DANS L'ESPACE",
+      "back": "La loi pénale française s'applique principalement selon le principe de territorialité.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-019",
+      "front": "Définissez : APPLICATION DE LA LOI PÉNALE DANS LE TEMPS",
+      "back": "La loi pénale s'applique selon plusieurs principes :",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-020",
+      "front": "Définissez : APPRÉCIATION IN ABSTRACTO",
+      "back": "Méthode consistant à apprécier un comportement par référence à une personne normalement prudente et diligente.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-021",
+      "front": "Définissez : APPRÉCIATION IN CONCRETO",
+      "back": "Méthode consistant à apprécier le comportement en tenant compte des caractéristiques propres de la personne concernée : âge, profession, expérience, compétences.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-022",
+      "front": "Définissez : ATTEINTE À L'HONNEUR",
+      "back": "L'honneur correspond à l'estime morale due à une personne.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-023",
+      "front": "Définissez : ATTEINTE À LA DIGNITÉ",
+      "back": "L'atteinte à la dignité consiste à traiter une personne d'une manière portant gravement atteinte à sa valeur d'être humain.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-024",
+      "front": "Définissez : AUTORITÉ DE LA CHOSE JUGÉE AU CRIMINEL SUR LE CIVIL",
+      "back": "Principe selon lequel ce qui a été définitivement jugé par le juge pénal s'impose au juge civil concernant :",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-025",
+      "front": "Définissez : AUTORITÉ DE LA CHOSE JUGÉE AU CRIMINEL SUR LE CRIMINEL",
+      "back": "Une décision pénale définitive ne peut pas être remise en cause entre les mêmes parties pour les mêmes faits, sauf recours exceptionnel (révision, par exemple).",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-026",
+      "front": "Définissez : BIEN IMMEUBLE",
+      "back": "Bien qui ne peut être déplacé.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-027",
+      "front": "Définissez : BIEN MEUBLE",
+      "back": "En droit pénal spécial, la qualification de bien meuble est essentielle, notamment pour les infractions contre les biens.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-028",
+      "front": "Définissez : CAUSES DE NON-IMPUTABILITÉ",
+      "back": "Les causes de non-imputabilité empêchent qu'une personne soit déclarée pénalement responsable, bien qu'elle ait matériellement commis les faits.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-029",
+      "front": "Définissez : CHOSE",
+      "back": "En droit pénal spécial, une chose est tout bien susceptible d'appropriation.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-030",
+      "front": "Définissez : CHOSE ABANDONNÉE",
+      "back": "Chose dont le propriétaire a volontairement renoncé à la propriété.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-031",
+      "front": "Définissez : CHOSE COMMUNE",
+      "back": "Chose appartenant à tous et dont l'usage est commun.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-032",
+      "front": "Définissez : CHOSE SANS MAÎTRE",
+      "back": "Bien n'ayant jamais eu de propriétaire ou dont le propriétaire est inconnu.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-033",
+      "front": "Définissez : CITATION DIRECTE",
+      "back": "La citation directe est un mode de saisine du tribunal correctionnel ou du tribunal de police permettant de faire juger directement une personne, sans instruction préalable.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-034",
+      "front": "Définissez : CLASSEMENT SANS SUITE",
+      "back": "Décision du procureur de la République de ne pas engager de poursuites.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-035",
+      "front": "Définissez : COMMISSION PAR OMISSION",
+      "back": "La commission par omission désigne une infraction réalisée par une abstention alors que l'auteur avait l'obligation juridique d'agir.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-036",
+      "front": "Définissez : COMMISSION ROGATOIRE",
+      "back": "Décision par laquelle un juge d'instruction confie à un officier de police judiciaire la réalisation de certains actes d'enquête.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-037",
+      "front": "Définissez : COMPARUTION IMMÉDIATE",
+      "back": "Procédure permettant de juger très rapidement une personne à l'issue de sa garde à vue lorsque l'affaire est en état d'être jugée.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-038",
+      "front": "Définissez : COMPARUTION SUR RECONNAISSANCE PRÉALABLE DE CULPABILITÉ (CRPC)",
+      "back": "Procédure parfois appelée « plaider-coupable ».",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-039",
+      "front": "Définissez : COMPARUTION À DÉLAI DIFFÉRÉ",
+      "back": "Procédure permettant de juger rapidement une personne tout en laissant un court délai pour compléter le dossier ou préparer la défense.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-040",
+      "front": "Définissez : COMPLICITÉ",
+      "back": "La complicité consiste à aider ou provoquer volontairement une personne à commettre une infraction.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-041",
+      "front": "Définissez : CONCOURS D'INFRACTIONS",
+      "back": "Le concours d'infractions existe lorsqu'une même personne commet plusieurs infractions avant d'avoir été définitivement condamnée pour l'une d'elles.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-042",
+      "front": "Définissez : CONCOURS DE QUALIFICATIONS",
+      "back": "Le concours de qualifications apparaît lorsqu'un même fait semble pouvoir recevoir plusieurs qualifications pénales.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-043",
+      "front": "Définissez : CORRUPTION",
+      "back": "La corruption consiste à proposer, offrir, solliciter ou accepter un avantage afin qu'une personne accomplisse ou s'abstienne d'accomplir un acte relevant de sa fonction.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-044",
+      "front": "Définissez : CRIME CONTRE L'HUMANITÉ",
+      "back": "Infraction d'une gravité exceptionnelle commise dans le cadre d'une attaque généralisée ou systématique contre une population civile.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-045",
+      "front": "Définissez : Comparution immédiate ≠ CRPC",
+      "back": "- Comparution immédiate → procès classique très rapide.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-046",
+      "front": "Définissez : DIFFAMATION",
+      "back": "La diffamation est l'allégation ou l'imputation d'un fait précis portant atteinte à l'honneur ou à la considération d'une personne.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-047",
+      "front": "Définissez : DISSIPATION JURIDIQUE",
+      "back": "La dissipation juridique consiste à faire disparaître juridiquement un bien sans nécessairement le détruire matériellement.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-048",
+      "front": "Définissez : DISSIPATION MATÉRIELLE",
+      "back": "La dissipation matérielle consiste à faire disparaître physiquement le bien.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-049",
+      "front": "Définissez : DOL INDÉTERMINÉ",
+      "back": "Le dol est dit indéterminé lorsque l'auteur veut causer un dommage sans viser une victime déterminée ou sans connaître précisément l'étendue du résultat.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-050",
+      "front": "Définissez : DOL SPÉCIAL",
+      "back": "Le dol spécial exige, en plus du dol général, un objectif particulier prévu par la loi.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-051",
+      "front": "Définissez : DOL ÉVENTUEL",
+      "back": "Le dol éventuel désigne la situation dans laquelle une personne prévoit la possibilité qu'un dommage survienne mais accepte ce risque.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-052",
+      "front": "Définissez : DROIT RÉEL",
+      "back": "Le droit réel est un droit exercé directement sur une chose.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-053",
+      "front": "Définissez : DÉLAISSEMENT",
+      "back": "Le délaissement consiste à abandonner volontairement une personne qui ne peut pas se protéger elle-même en raison de son âge, de son état physique ou mental.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-054",
+      "front": "Définissez : DÉLIT DE FUITE",
+      "back": "Le délit de fuite est commis lorsqu'un conducteur impliqué dans un accident quitte volontairement les lieux afin d'échapper à son identification ou à sa responsabilité.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-055",
+      "front": "Définissez : DÉNI DE JUSTICE",
+      "back": "Le déni de justice consiste, pour un magistrat, à refuser de répondre aux demandes dont il est saisi ou à retarder abusivement sa décision.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-056",
+      "front": "Définissez : DÉNONCIATION CALOMNIEUSE",
+      "back": "La dénonciation calomnieuse consiste à dénoncer une personne à une autorité compétente en sachant que les faits dénoncés sont totalement ou partiellement faux.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-057",
+      "front": "Définissez : ENTRAVE",
+      "back": "L'entrave consiste à empêcher ou à gêner illégalement l'exercice d'un droit ou le fonctionnement d'une activité protégée par la loi.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-058",
+      "front": "Définissez : HARCÈLEMENT (NOTION GÉNÉRALE)",
+      "back": "Comportement consistant à imposer à une personne des actes, paroles ou comportements répétés dégradant ses conditions de vie ou de travail.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-059",
+      "front": "Définissez : HARCÈLEMENT MORAL",
+      "back": "Le harcèlement moral consiste en des agissements répétés ayant pour objet ou pour effet une dégradation des conditions de vie ou de travail de la victime.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-060",
+      "front": "Définissez : HARCÈLEMENT SEXUEL",
+      "back": "Le harcèlement sexuel consiste à imposer à une personne des propos ou comportements à connotation sexuelle ou sexiste portant atteinte à sa dignité ou créant une situation intimidante, hostile ou offensante.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-061",
+      "front": "Définissez : IMMUNITÉ JURIDIQUE",
+      "back": "L'immunité juridique est une règle empêchant exceptionnellement les poursuites ou la condamnation d'une personne.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-062",
+      "front": "Définissez : IMPRESCRIPTIBILITÉ DES PEINES",
+      "back": "L'expression mérite une précision importante.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-063",
+      "front": "Définissez : IMPRUDENCE",
+      "back": "L'imprudence est une faute non intentionnelle consistant à ne pas respecter une obligation de prudence ou de sécurité.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-064",
+      "front": "Définissez : INDIFFÉRENCE DU SORT D'AUTRUI",
+      "back": "Cette expression doctrinale désigne l'attitude d'une personne qui agit en sachant qu'elle expose autrui à un risque, sans se soucier des conséquences.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-065",
+      "front": "Définissez : INTERRUPTION DE LA PRESCRIPTION",
+      "back": "L'interruption efface le délai déjà écoulé.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-066",
+      "front": "Définissez : JUGEMENT CONSTITUTIF",
+      "back": "Le jugement constitutif crée une situation juridique nouvelle.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-067",
+      "front": "Définissez : JUGEMENT DÉCLARATIF",
+      "back": "Le jugement déclaratif ne crée pas un droit nouveau.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-068",
+      "front": "Définissez : LE HARCÈLEMENT",
+      "back": "Le harcèlement consiste en des agissements répétés (ou, dans certains cas prévus par la loi, un acte unique) ayant des conséquences graves pour la victime.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-069",
+      "front": "Définissez : LES DIFFÉRENTS DOLS",
+      "back": "DOL GÉNÉRAL",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-070",
+      "front": "Définissez : LES NULLITÉS EN PROCÉDURE PÉNALE",
+      "back": "La nullité est la sanction d'un acte de procédure irrégulier lorsqu'il a porté atteinte aux droits des parties ou lorsqu'un texte le prévoit.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-071",
+      "front": "Définissez : LÉGITIME DÉFENSE",
+      "back": "La légitime défense est un fait justificatif.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-072",
+      "front": "Définissez : MANDAT CRIMINEL",
+      "back": "⚠️ Cette notion n'est pas une incrimination autonome du Code pénal.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-073",
+      "front": "Définissez : MANDATS PÉNAUX",
+      "back": "Les mandats sont des ordres écrits délivrés par un magistrat afin de faire comparaître ou détenir une personne.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-074",
+      "front": "Définissez : MANŒUVRE FRAUDULEUSE",
+      "back": "La manœuvre frauduleuse est un procédé destiné à tromper une personne afin d'obtenir un avantage illicite.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-075",
+      "front": "Définissez : MENDICITÉ",
+      "back": "La mendicité est le fait de solliciter l'aumône.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-076",
+      "front": "Définissez : MESURE DE SÛRETÉ",
+      "back": "La mesure de sûreté n'a pas pour objet de punir, mais de protéger la société contre une personne considérée comme dangereuse.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-077",
+      "front": "Définissez : MISE EN ACCUSATION",
+      "back": "La mise en accusation est la décision par laquelle une personne est renvoyée devant la cour d'assises pour y être jugée d'un crime.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-078",
+      "front": "Définissez : MISE EN DANGER",
+      "back": "La mise en danger consiste à exposer directement une personne à un risque immédiat de mort ou de blessures graves par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-079",
+      "front": "Définissez : MISE EN EXAMEN",
+      "back": "La mise en examen est la décision par laquelle le juge d'instruction attribue officiellement à une personne la qualité de mis en examen lorsqu'il existe contre elle des indices graves ou concordants laissant penser qu'elle a participé à une infraction.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-080",
+      "front": "Définissez : MOTIVATION DES DÉCISIONS",
+      "back": "La motivation est l'obligation faite au juge d'expliquer les raisons de sa décision.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-081",
+      "front": "Définissez : MOTIVATION DES JUGEMENTS",
+      "back": "Le jugement doit exposer les raisons de droit et de fait qui justifient la décision.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-082",
+      "front": "Définissez : MOTIVATION DES ORDONNANCES",
+      "back": "Les ordonnances rendues par les magistrats (juge d'instruction, juge des libertés et de la détention...) doivent également être motivées lorsqu'elles portent atteinte aux droits des personnes.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-083",
+      "front": "Définissez : MOTIVATION DES PEINES",
+      "back": "Depuis plusieurs années, le juge doit spécialement motiver le choix et le montant de la peine prononcée.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-084",
+      "front": "Définissez : MÉDIATION PÉNALE",
+      "back": "Mesure alternative aux poursuites proposée par le procureur.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-085",
+      "front": "Définissez : NON-CUMUL DES PEINES",
+      "back": "Le principe de non-cumul des peines signifie que, lorsqu'une même personne est poursuivie pour plusieurs infractions en concours, toutes les peines de même nature ne s'additionnent pas automatiquement.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-086",
+      "front": "Définissez : NON-RÉTROACTIVITÉ DE LA LOI PÉNALE",
+      "back": "Principe fondamental selon lequel une loi pénale plus sévère ne peut pas s'appliquer à des faits commis avant son entrée en vigueur.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-087",
+      "front": "Définissez : NULLITÉ DES ACTES SUBSÉQUENTS",
+      "back": "Lorsqu'un acte est annulé, les actes accomplis sur son fondement peuvent également être annulés.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-088",
+      "front": "Définissez : NULLITÉ DU JUGEMENT",
+      "back": "Le jugement peut être annulé lorsqu'il est entaché d'une irrégularité particulièrement grave affectant la procédure ou les droits de la défense.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-089",
+      "front": "Définissez : NULLITÉ SUBSTANTIELLE",
+      "back": "Nullité prononcée lorsqu'une formalité essentielle a été méconnue et que cette irrégularité a porté atteinte aux intérêts de la personne concernée.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-090",
+      "front": "Définissez : NULLITÉ TEXTUELLE",
+      "back": "Nullité expressément prévue par un texte.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-091",
+      "front": "Définissez : NULLUM CRIMEN, NULLA POENA SINE LEGE",
+      "back": "Expression latine signifiant :",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-092",
+      "front": "Définissez : OFFICIER DE POLICE JUDICIAIRE (OPJ)",
+      "back": "L'OPJ est un policier ou un gendarme disposant de pouvoirs particuliers en matière d'enquête pénale.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-093",
+      "front": "Définissez : ORALITÉ",
+      "back": "Principe selon lequel les débats devant la juridiction pénale se déroulent oralement.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-094",
+      "front": "Définissez : ORDONNANCE JURIDICTIONNELLE",
+      "back": "Décision par laquelle un magistrat tranche une question relevant de sa fonction juridictionnelle.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-095",
+      "front": "Définissez : ORDONNANCE NON JURIDICTIONNELLE",
+      "back": "Décision relative à l'organisation ou à l'administration de la procédure, sans trancher un litige.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-096",
+      "front": "Définissez : ORDONNANCE PÉNALE",
+      "back": "Procédure simplifiée permettant à un juge de statuer sans audience sur certaines contraventions et certains délits.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-097",
+      "front": "Définissez : ORDRE DE LA LOI",
+      "back": "L'ordre de la loi est un fait justificatif.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-098",
+      "front": "Définissez : PANTOUFLAGE",
+      "back": "Le pantouflage désigne la situation dans laquelle un agent public rejoint une entreprise privée dans des conditions susceptibles de créer un conflit d'intérêts.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-099",
+      "front": "Définissez : PARQUET",
+      "back": "Le parquet, ou ministère public, représente les intérêts de la société.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-100",
+      "front": "Définissez : PLÉNITUDE DE JURIDICTION",
+      "back": "Une juridiction dispose de la plénitude de juridiction lorsqu'elle peut examiner entièrement l'affaire :",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-101",
+      "front": "Définissez : PRESCRIPTION EN MATIÈRE PÉNALE",
+      "back": "La prescription est le délai au-delà duquel les poursuites ou l'exécution d'une peine ne sont plus possibles.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-102",
+      "front": "Définissez : PRINCIPE D'ÉGALITÉ DES ARMES",
+      "back": "Chaque partie doit disposer des mêmes possibilités de présenter ses arguments et de discuter les preuves.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-103",
+      "front": "Définissez : PRINCIPE DE LIBERTÉ DE LA PREUVE",
+      "back": "En matière pénale, les infractions peuvent en principe être prouvées par tout moyen, sauf lorsque la loi prévoit une règle particulière.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-104",
+      "front": "Définissez : PRINCIPE DE LOYAUTÉ DANS LA RECHERCHE DE LA PREUVE",
+      "back": "Les autorités ne peuvent pas obtenir une preuve en utilisant des procédés déloyaux ou portant une atteinte excessive aux droits fondamentaux.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-105",
+      "front": "Définissez : PRINCIPE DE LÉGALITÉ",
+      "back": "Le principe de légalité impose que seules la loi (pour les crimes et délits) et le règlement (pour les contraventions) peuvent créer des infractions et fixer les peines.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-106",
+      "front": "Définissez : PRINCIPE DE SÉPARATION DES FONCTIONS",
+      "back": "La personne qui poursuit, celle qui instruit et celle qui juge ne doivent pas exercer les mêmes fonctions dans une même affaire.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-107",
+      "front": "Définissez : PRÉSOMPTION D'INNOCENCE",
+      "back": "Toute personne est présumée innocente tant que sa culpabilité n'a pas été légalement établie par une décision définitive.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-108",
+      "front": "Définissez : PUBLICITÉ DES DÉBATS",
+      "back": "En principe, les audiences pénales sont publiques.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-109",
+      "front": "Définissez : PURGE DES NULLITÉS",
+      "back": "Lorsqu'une irrégularité n'est pas invoquée dans les délais ou selon les formes prévues, il devient ensuite impossible de s'en prévaloir.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-110",
+      "front": "Définissez : QUALIFICATION ALTERNATIVE",
+      "back": "La qualification alternative existe lorsque plusieurs qualifications sont juridiquement possibles, mais qu'une seule pourra finalement être retenue.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-111",
+      "front": "Définissez : QUALIFICATION DES FAITS",
+      "back": "La qualification des faits consiste à rattacher un comportement à une incrimination prévue par la loi pénale.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-112",
+      "front": "Définissez : QUALIFICATION INCOMPATIBLE",
+      "back": "Deux qualifications sont incompatibles lorsqu'elles ne peuvent pas être retenues simultanément pour les mêmes faits.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-113",
+      "front": "Définissez : RELAXE",
+      "back": "La relaxe est la décision par laquelle une juridiction correctionnelle ou de police déclare le prévenu non coupable.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-114",
+      "front": "Définissez : REPENTIR ACTIF",
+      "back": "Le repentir actif est le comportement de l'auteur d'une infraction qui agit volontairement pour empêcher la réalisation de l'infraction ou en limiter les conséquences.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-115",
+      "front": "Définissez : RESPONSABILITÉ PÉNALE DES PERSONNES MORALES",
+      "back": "Les personnes morales (sociétés, associations, collectivités dans certains cas...) peuvent être pénalement responsables des infractions commises pour leur compte par leurs organes ou représentants.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-116",
+      "front": "Définissez : RESTITUTION",
+      "back": "La restitution consiste à rendre à son propriétaire le bien qui a été saisi, détourné ou volé.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-117",
+      "front": "Définissez : RÉCLUSION CRIMINELLE",
+      "back": "La réclusion criminelle est la peine privative de liberté applicable aux crimes de droit commun.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-118",
+      "front": "Définissez : RÉFÉRÉ-DÉTENTION",
+      "back": "Le référé-détention est une procédure permettant au procureur de demander au premier président de la cour d'appel de suspendre les effets d'une décision de remise en liberté.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-119",
+      "front": "Définissez : RÉFÉRÉ-LIBERTÉ",
+      "back": "⚠️ Le référé-liberté n'est pas une procédure pénale.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-120",
+      "front": "Définissez : RÉQUISITOIRE INTRODUCTIF",
+      "back": "Le réquisitoire introductif est l'acte par lequel le procureur de la République demande officiellement au juge d'instruction d'ouvrir une information judiciaire.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-121",
+      "front": "Définissez : RÉTRIBUTION",
+      "back": "La rétribution est une théorie de la peine selon laquelle la sanction constitue la contrepartie morale de l'infraction commise.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-122",
+      "front": "Définissez : RÉTROACTIVITÉ IN MITIUS",
+      "back": "Principe selon lequel une loi pénale plus douce s'applique immédiatement aux faits commis avant son entrée en vigueur.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-123",
+      "front": "Définissez : SAISINE IN REM",
+      "back": "Signifie que le juge d'instruction est saisi des faits, et non d'une personne déterminée.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-124",
+      "front": "Définissez : SIGNIFICATION DE LA DÉCISION",
+      "back": "La signification est la notification officielle d'une décision de justice par un commissaire de justice.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-125",
+      "front": "Définissez : SOUSTRACTION D'ENFANT",
+      "back": "La soustraction d'enfant consiste à enlever ou retenir un enfant en violation des droits de la personne qui exerce l'autorité parentale.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-126",
+      "front": "Définissez : SUBORNATION",
+      "back": "La subornation consiste à amener une personne, par des pressions, des promesses, des dons ou d'autres moyens, à modifier son témoignage ou à faire une déclaration mensongère.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-127",
+      "front": "Définissez : SUBSTITUTION D'ENFANT",
+      "back": "La substitution d'enfant consiste à remplacer volontairement un enfant par un autre afin de tromper sur son identité.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-128",
+      "front": "Définissez : SUIVI SOCIO-JUDICIAIRE",
+      "back": "Le suivi socio-judiciaire est une mesure prononcée après certaines condamnations, principalement pour des infractions graves, notamment sexuelles.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-129",
+      "front": "Définissez : SUPPOSITION D'ENFANT",
+      "back": "La supposition d'enfant consiste à attribuer frauduleusement à une femme un enfant qu'elle n'a pas mis au monde.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-130",
+      "front": "Définissez : SUSPENSION DE LA PRESCRIPTION",
+      "back": "La suspension arrête temporairement le délai sans effacer le temps déjà écoulé.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-131",
+      "front": "Définissez : TENTATIVE",
+      "back": "La tentative est le commencement d'exécution d'une infraction qui n'a échoué ou n'a été interrompue qu'en raison de circonstances indépendantes de la volonté de son auteur.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-132",
+      "front": "Définissez : TERRITORIALITÉ DE LA LOI PÉNALE",
+      "back": "Principe selon lequel la loi pénale française s'applique à toutes les infractions commises sur le territoire français, quelle que soit la nationalité de leur auteur ou de la victime.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-133",
+      "front": "Définissez : TRAFIC D'INFLUENCE",
+      "back": "Le trafic d'influence consiste à solliciter, accepter, proposer ou remettre un avantage afin qu'une personne abuse de son influence, réelle ou supposée, sur une autorité publique pour obtenir une décision favorable.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-134",
+      "front": "Définissez : USURPATION",
+      "back": "L'usurpation consiste à prendre frauduleusement la qualité, l'identité ou les droits d'une autre personne afin d'en tirer un avantage ou de lui causer un préjudice.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-135",
+      "front": "Définissez : VOIE D'ACTION",
+      "back": "La voie d'action consiste à saisir directement un juge afin d'obtenir la reconnaissance ou la protection d'un droit.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-136",
+      "front": "Définissez : VOIE D'EXCEPTION",
+      "back": "La voie d'exception consiste à invoquer un moyen de défense au cours d'un procès déjà engagé, sans introduire une nouvelle action.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    },
+    {
+      "id": "vocab-fc-137",
+      "front": "Définissez : VULNÉRABILITÉ",
+      "back": "La vulnérabilité est l'état d'une personne qui, en raison de son âge, de sa maladie, de son handicap, de sa grossesse ou de sa particulière fragilité, est moins en mesure de se protéger.",
+      "tags": [
+        "vocabulaire",
+        "définition"
+      ]
+    }
+  ],
+  "qcm": []
+}

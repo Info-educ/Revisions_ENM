@@ -269,6 +269,12 @@
       "file": "autorite-publique.json",
       "title": "Les atteintes à l'autorité publique — Agents publics et particuliers",
       "category": "Droit pénal spécial"
+    },
+    {
+      "id": "vocabulaire-lexique",
+      "file": "vocabulaire-lexique.json",
+      "title": "Vocabulaire juridique — Lexiques droit pénal et procédure pénale",
+      "category": "Droit pénal général"
     }
   ]
 }
