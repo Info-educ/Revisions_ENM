@@ -1,0 +1,70 @@
+{
+  "id": "snbc3-juillet-2026",
+  "title": "Stratégie nationale bas-carbone n°3 (SNBC 3) — Juillet 2026",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "snbc-fc-001",
+      "front": "Qu'est-ce que la Stratégie nationale bas-carbone (SNBC) et quels sont ses sept objectifs stratégiques?",
+      "back": "La SNBC est la feuille de route de la France pour réduire ses émissions de gaz à effet de serre et accroître ses puits de carbone. Elle est révisée tous les 5 ans par concertation d'acteurs et consultations publiques. Les sept objectifs stratégiques de la SNBC 3 sont: (1) réduire de 50% les émissions territoriales d'ici 2030 par rapport à 1990; (2) atteindre la neutralité carbone en 2050; (3) garantir la souveraineté énergétique et sortir des énergies fossiles (charbon 2027, pétrole 2045, gaz 2050); (4) réduire l'empreinte carbone de la France (émissions liées à la totalité de la consommation, y compris importations); (5) consolider le puits de carbone naturel (forêts, sols, prairies); (6) garantir une transition juste, soutenable et compétitive; (7) réduire la consommation d'énergie finale. La SNBC fixe des budgets carbone (plafonds d'émissions) et des orientations pour tous les secteurs: transports, agriculture, industrie, bâtiments, énergie, déchets et puits de carbone (UTCATF).",
+      "tags": [
+        "snbc",
+        "stratégie-climat",
+        "objectifs-2030-2050"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "snbc-qcm-001",
+      "question": "En 2024, quel secteur représente la plus grande part des émissions brutes françaises, et quel est l'objectif de réduction d'ici 2030?",
+      "options": [
+        "L'agriculture avec une réduction de 26% (de 93 Mt à 68 Mt CO₂e)",
+        "Les transports avec une réduction de 26% (de 125 Mt à 92 Mt CO₂e)",
+        "L'industrie avec une réduction de 70% (de 140 Mt à 42 Mt CO₂e)",
+        "L'énergie avec une réduction de 69% (de 79 Mt à 25 Mt CO₂e)"
+      ],
+      "answer": 1,
+      "explanation": "Les transports représentent 34% des émissions brutes françaises (125 Mt CO₂e en 2024) et doivent réduire leurs émissions de 26% d'ici 2030 pour atteindre 92 Mt CO₂e, puis quasi-neutralité en 2050 avec 0,6 Mt CO₂e. L'agriculture (21%), l'industrie (17%) et l'énergie (10%) ont des objectifs différents mais tous contribuent à l'objectif global de 50% de réduction en 2030.",
+      "tags": [
+        "transports",
+        "objectifs-sectoriels",
+        "émissions-2024"
+      ]
+    },
+    {
+      "id": "snbc-qcm-002",
+      "question": "Quel est l'objectif de la SNBC 3 concernant l'empreinte carbone de la France d'ici 2050 par rapport à 2010?",
+      "options": [
+        "Réduire de 50% l'empreinte carbone (de 749 Mt à 375 Mt CO₂e)",
+        "Stabiliser l'empreinte carbone sans augmentation (749 Mt CO₂e)",
+        "Réduire de 71% à 79% l'empreinte carbone (de 563 à 215-160 Mt CO₂e)",
+        "Atteindre zéro émission d'empreinte carbone en 2050 (0 Mt CO₂e)"
+      ],
+      "answer": 2,
+      "explanation": "La SNBC 3 fixe pour la première fois des objectifs chiffrés indicatifs sur l'empreinte carbone. En 2024, l'empreinte carbone de la France est estimée à 563 Mt CO₂e (8,2 tonnes par habitant). L'objectif visé est une réduction de 71% à 79% d'ici 2050 par rapport à 2010, ce qui correspond à 215-160 Mt CO₂e nationalement et 3,1-2,3 t CO₂e par habitant. Cet objectif est exprimé sous forme de fourchette, cohérent avec l'accord de Paris.",
+      "tags": [
+        "empreinte-carbone",
+        "objectifs-2050",
+        "consommation"
+      ]
+    },
+    {
+      "id": "snbc-qcm-003",
+      "question": "Selon la SNBC 3, quels sont les deux leviers principaux de la sortie des énergies fossiles en France d'ici 2050?",
+      "options": [
+        "Augmenter la production de gaz naturel et réduire les importations de charbon",
+        "Développer le nucléaire et les énergies renouvelables pour une électricité 100% décarbonée",
+        "Promouvoir les biocarburants exclusivement pour tous les transports",
+        "Investir dans le captage et stockage du CO₂ pour les centrales à charbon"
+      ],
+      "answer": 1,
+      "explanation": "La SNBC 3 vise à garantir la souveraineté énergétique et sortir des énergies fossiles par: (1) une sortie progressive: charbon 2027, pétrole brut et gaz fossile en 2040 sur le territoire national, pétrole 2045, gaz fossile 2050; (2) la production d'électricité décarbonée: 585 TWh en 2030 et environ 800 TWh en 2050 via le développement du nucléaire et des énergies renouvelables, ciblant 100% d'électricité décarbonée; (3) le développement de gaz bas-carbone (biométhane) et de biocarburants pour combler le besoin énergétique résiduel, notamment pour l'aviation et le fret lourd.",
+      "tags": [
+        "énergies-fossiles",
+        "électrification",
+        "souveraineté-énergétique"
+      ]
+    }
+  ]
+}
