@@ -1,0 +1,169 @@
+{
+  "id": "giec-ar6-2023",
+  "title": "Le GIEC AR6 : état des lieux climatique et perspectives d'action",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "giec-ar6-fc-001",
+      "front": "Quelles sont les trois missions principales du GIEC ?",
+      "back": "Le GIEC a trois missions : compiler et synthétiser les recherches scientifiques sur le climat, évaluer les conséquences et les risques du changement climatique pour les écosystèmes et les sociétés humaines, et proposer des options pour l'adaptation aux changements climatiques et l'atténuation de leurs effets.",
+      "tags": ["missions", "giec", "fondamentaux"]
+    },
+    {
+      "id": "giec-ar6-fc-002",
+      "front": "Quel est le rôle du sixième rapport d'évaluation (AR6) du GIEC ?",
+      "back": "L'AR6 est un rapport de synthèse qui rassemble les conclusions des trois rapports spécialisés des groupes de travail (fondements scientifiques, impacts-adaptation-vulnérabilité, atténuation) et des rapports spéciaux publiés depuis 2014, fournissant une vue d'ensemble cohérente des connaissances scientifiques actuelles sur le changement climatique.",
+      "tags": ["ar6", "synthèse", "structure"]
+    },
+    {
+      "id": "giec-ar6-fc-003",
+      "front": "Quels sont les trois groupes de travail du GIEC et leurs domaines respectifs ?",
+      "back": "Le groupe I couvre les fondements scientifiques du système climatique ; le groupe II traite des conséquences, de l'adaptation et de la vulnérabilité des systèmes naturels et humains ; le groupe III se concentre sur les stratégies d'atténuation du changement climatique et la réduction des émissions de gaz à effet de serre.",
+      "tags": ["groupes", "travail", "structure"]
+    },
+    {
+      "id": "giec-ar6-fc-004",
+      "front": "Quelles sont les orientations stratégiques principales pour l'action climatique d'ici 2030 selon l'AR6 ?",
+      "back": "L'AR6 insiste sur la nécessité de réductions drastiques et immédiates des émissions de GES avant 2030, la mise en œuvre accélérée des mesures d'adaptation, et la mobilisation de ressources financières et technologiques massives. Le maintien des émissions aux niveaux de 2019 jusqu'en 2030 consommerait la majorité du budget carbone restant pour limiter le réchauffement à 1,5°C.",
+      "tags": ["2030", "atténuation", "adaptation", "urgence"]
+    },
+    {
+      "id": "giec-ar6-fc-005",
+      "front": "Quel est l'objectif climatique critique formulé par l'AR6 pour rester sous différents seuils de réchauffement ?",
+      "back": "Pour rester sous 1,5°C, le monde doit atteindre la neutralité carbone (net zéro) vers 2050. Pour 2°C, cet objectif est repoussé vers 2070. En 2020, le budget carbone pour rester sous 1,5°C était de 500 Gt de CO2 et de 1150 Gt pour 2°C, montrant la fenêtre d'action étroite qui se referme rapidement.",
+      "tags": ["net-zéro", "2050", "budget-carbone", "trajectoires"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "giec-ar6-qcm-001",
+      "question": "En quelle année le GIEC a-t-il été créé et quel événement majeur a marqué le sixième cycle d'évaluation ?",
+      "options": [
+        "Créé en 1988 par le PNUE et l'OMM, l'AR6 a été finalisé le 20 mars 2023",
+        "Fondé en 1995 par accord international, l'AR6 publié le 15 octobre 2022   ",
+        "Établi en 1992 par initiative onusienne, l'AR6 publié le 30 novembre 2023 ",
+        "Créé en 2000 par organisation mondiale, l'AR6 finalisé le 25 janvier 2024 "
+      ],
+      "answer": 0,
+      "explanation": "Le GIEC a été créé en 1988 par le PNUE et l'OMM. Le rapport de synthèse du sixième rapport d'évaluation (AR6) a été officiellement publié le 20 mars 2023, marquant la fin du sixième cycle d'évaluation qui a débuté après l'AR5 en 2014.",
+      "tags": ["histoire", "dates", "ar6"]
+    },
+    {
+      "id": "giec-ar6-qcm-002",
+      "question": "Selon l'AR6, quel est le niveau de réchauffement moyen mondial observé au cours de la période 2011-2020 par rapport à 1850-1900 ?",
+      "options": [
+        "Le réchauffement moyen était de 1,1°C avec +1,6°C continents et +0,9°C océans",
+        "Le réchauffement global s'élevait à 0,8°C avec une distribution mondiale homogène",
+        "La température mondiale a augmenté de 1,5°C surtout océans et zones côtières",
+        "Le niveau de réchauffement atteignait 2,0°C avec accélération marine principale"
+      ],
+      "answer": 0,
+      "explanation": "La température mondiale sur 2011-2020 était 1,1°C plus élevée qu'en 1850-1900, avec des disparités régionales marquées : réchauffement de 1,6°C sur les continents mais seulement 0,9°C au-dessus des océans. Ce rythme de 50 ans est sans précédent depuis au moins 2000 ans.",
+      "tags": ["température", "observation", "chiffres"]
+    },
+    {
+      "id": "giec-ar6-qcm-003",
+      "question": "Quelle concentration de CO2 l'atmosphère atteignait-elle en 2019 selon l'AR6 et comment compare-t-elle aux périodes historiques ?",
+      "options": [
+        "La concentration de CO2 en 2019 atteignait 410 ppm, la plus élevée en 2 millions années",
+        "Le CO2 mesurée en 2019 s'élevait à 350 ppm comparable à période géologique Jurassique",
+        "L'atmosphère en 2019 contient 475 ppm de CO2 équivalent niveau Pliocène géologique",
+        "Le taux de CO2 en 2019 était de 280 ppm inférieur niveaux pré-industriels 1850"
+      ],
+      "answer": 0,
+      "explanation": "La concentration de CO2 en 2019 atteignait 410 ppm, la plus haute concentration mesurée depuis au moins 2 millions d'années. Entre 1850 et 2019, l'humanité a émis 2400 Gt de CO2, dont 42% entre 1990 et 2019.",
+      "tags": ["co2", "émissions", "concentration"]
+    },
+    {
+      "id": "giec-ar6-qcm-004",
+      "question": "Selon l'AR6, quel est le taux de réduction des émissions de GES nécessaire d'ici 2030 pour avoir une chance sur deux de limiter le réchauffement à 1,5°C ?",
+      "options": [
+        "Les GES doivent baisser de 43% et CO2 de 48% avant 2030 pour 1,5°C chance/deux",
+        "Une diminution de 21% des GES et 22% du CO2 avant 2030 suffisante pour objectif",
+        "Les réductions nécessaires avant 2030 s'élèvent à 60% des GES et 65% du CO2",
+        "Une baisse de 84% des GES et 99% du CO2 avant 2030 reste seul scénario viable"
+      ],
+      "answer": 0,
+      "explanation": "Pour limiter le réchauffement à 1,5°C avec une chance sur deux, les émissions de GES doivent diminuer de 43% et les émissions de CO2 de 48% d'ici 2030 (par rapport aux niveaux de 2019). Ces réductions doivent être drastiques et immédiates pour rester dans le budget carbone disponible.",
+      "tags": ["réduction", "2030", "1.5c", "cibles"]
+    },
+    {
+      "id": "giec-ar6-qcm-005",
+      "question": "Selon l'AR6, le niveau de la mer s'est élevé de combien entre 1901 et 2018 et à quel rythme actuel ?",
+      "options": [
+        "Élévation de 20 cm (1901-2018) avec accélération 1,3 mm/an puis 3,7 mm/an actuels",
+        "Montée totale de 50 cm avec accélération de 2 mm/an vers 5 mm/an depuis derniers",
+        "Hausse mesurée de 10 cm avec un rythme constant de 1 mm/an très régulier partout",
+        "Augmentation de 100 cm avec accélération de 5 mm/an vers 8 mm/an dernières années"
+      ],
+      "answer": 0,
+      "explanation": "Le niveau de la mer s'est élevé de 20 cm entre 1901 et 2018, avec une accélération dramatique : de 1,3 mm/an entre 1901-1971 à +3,7 mm/an sur 2006-2018. C'est la montée la plus rapide depuis 3000 ans.",
+      "tags": ["niveau-mer", "élévation", "accélération"]
+    },
+    {
+      "id": "giec-ar6-qcm-006",
+      "question": "Comment l'AR6 caractérise-t-il les inégalités entre pays en termes d'émissions de GES par habitant ?",
+      "options": [
+        "Les 10% les plus riches responsables de 40% des émissions soit 15 fois par personne",
+        "Les 20% les plus riches génèrent 60% des émissions soit 20 fois plus par habitants",
+        "Les émissions sont réparties équitablement entre tous pays du monde sans disparité",
+        "Le 1% le plus riche représente 50% toutes émissions mondiales actuelles totales"
+      ],
+      "answer": 0,
+      "explanation": "L'AR6 met en lumière les disparités extrêmes : les 10% les plus riches de la population mondiale sont responsables d'environ 40% des émissions de GES, soit 15 fois plus par personne que les 50% les plus pauvres. À l'inverse, ce sont les systèmes les plus vulnérables qui sont les plus affectés.",
+      "tags": ["inégalités", "justice", "émissions-par-habitant"]
+    },
+    {
+      "id": "giec-ar6-qcm-007",
+      "question": "Selon l'AR6, quand la limite de +1,5°C sera-t-elle vraisemblablement franchie si les émissions continuent au rythme actuel ?",
+      "options": [
+        "La limite de +1,5°C sera franchie d'ici 2035 avec dépassement ponctuel plus tôt",
+        "Dépassement +1,5°C prévu d'ici 2040 avec certitude scientifique très élevée monde",
+        "Le seuil de +1,5°C franchi depuis 2023 avec impacts mesurables partout Terre monde",
+        "Franchissement attendu d'ici 2050 avec impacts limités jusqu'à cet horizon temporal"
+      ],
+      "answer": 0,
+      "explanation": "L'AR6 indique que la limite des +1,5°C sera probablement franchie d'ici 2035. Les émissions de GES s'accumulent dans l'atmosphère et le réchauffement s'aggrave. Les +1,5°C pourraient même être franchis ponctuellement plus tôt sous l'effet de phénomènes naturels comme El Niño.",
+      "tags": ["1.5c", "dépassement", "timeline"]
+    },
+    {
+      "id": "giec-ar6-qcm-008",
+      "question": "Pour chaque gigatonne de CO2 émise, de combien l'atmosphère se réchauffe-t-elle selon l'AR6 ?",
+      "options": [
+        "Chaque 1000 Gt CO2 entraîne +0,45°C de réchauffement montrant relation directe",
+        "Chaque Gt de CO2 produit +0,25°C avec effet diminuant progressivement au fil temps",
+        "Chaque Gt de CO2 génère hausse +0,75°C avec accélération très importante climat",
+        "Une Gt CO2 provoque réchauffement +1°C indépendamment tous autres facteurs nature"
+      ],
+      "answer": 0,
+      "explanation": "Pour chaque 1000 Gt de CO2 émis, l'atmosphère se réchauffe d'environ 0,45°C. Cette relation linéaire et cumulative montre pourquoi chaque tonne compte et pourquoi le budget carbone restant diminue rapidement avec chaque année d'émissions maintenues au niveau de 2019.",
+      "tags": ["co2-budget", "réchauffement", "relation"]
+    },
+    {
+      "id": "giec-ar6-qcm-009",
+      "question": "Quel montant d'investissements climatiques supplémentaires l'AR6 estime-t-il nécessaire pour la décennie 2020-2030 par rapport au niveau de 2020 ?",
+      "options": [
+        "Entre 3 à 6 fois plus d'investissements climatiques nécessaires 2020-2030 versus",
+        "Le doublement des investissements actuels suffirait pour tous objectifs climatique",
+        "Aucun investissement supplémentaire requis si politiques actuelles bien exécutées",
+        "Seulement investissements privés suffisent sans mobiliser financement public"
+      ],
+      "answer": 0,
+      "explanation": "L'AR6 estime que 3 à 6 fois plus d'investissements en faveur du climat sont nécessaires sur la décennie 2020-2030 pour limiter le réchauffement à 1,5°C ou 2°C. Bien que les volumes financiers mondiaux le permettent, les pays riches doivent montrer la volonté de soutenir les pays plus pauvres.",
+      "tags": ["finance", "investissements", "2030"]
+    },
+    {
+      "id": "giec-ar6-qcm-010",
+      "question": "Selon l'AR6, combien de milliards de personnes vivent actuellement dans des conditions de forte vulnérabilité au réchauffement climatique ?",
+      "options": [
+        "Entre 3,3 et 3,6 milliards personnes vivent forte vulnérabilité climatique mondiale",
+        "Environ 1 milliard de personnes surtout dans pays les moins développés planète",
+        "Plus de 5 milliards habitants avec exposition croissante chaque décennie successive",
+        "Moins de 500 millions personnes concentrées principalement zones côtières mondiales"
+      ],
+      "answer": 0,
+      "explanation": "L'AR6 rappelle que de 3,3 à 3,6 milliards d'humains vivent dans des conditions de forte vulnérabilité au réchauffement climatique, et environ la moitié de la population mondiale subit une pénurie d'eau sévère au moins une partie de l'année. Paradoxalement, ce sont les populations les moins responsables des émissions qui sont les plus affectées.",
+      "tags": ["vulnérabilité", "population", "exposition"]
+    }
+  ]
+}
