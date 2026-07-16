@@ -1,0 +1,216 @@
+{
+  "id": "inst-fr-2024",
+  "title": "Institutions françaises : Sénat, Assemblée nationale, pouvoirs du président",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "inst-fr-fc-001",
+      "front": "Quels sont les 8 pouvoirs propres du président de la République française ?",
+      "back": "Les 8 pouvoirs propres du président sont : (1) nommer le Premier ministre (art. 8), (2) décider un référendum (art. 11), (3) dissoudre l'Assemblée nationale (art. 12), (4) mettre en œuvre les pouvoirs exceptionnels (art. 16), (5) communiquer directement avec le Parlement (art. 18), (6) saisir le Conseil constitutionnel sur un traité (art. 54), (7) nommer trois membres du Conseil constitutionnel et son président (art. 56), (8) saisir le Conseil constitutionnel avant la promulgation d'une loi (art. 61).",
+      "tags": ["president", "pouvoirs-propres", "8-pouvoirs"]
+    },
+    {
+      "id": "inst-fr-fc-002",
+      "front": "Quels sont les modalités d'élection des députés et sénateurs français ?",
+      "back": "Sénateurs : élus par les grands électeurs (essentiellement conseillers municipaux) pour un mandat de 6 ans, avec renouvellement par moitié tous les 3 ans (deux séries alternées). Députés : élus directement par le peuple dans 577 circonscriptions, un par circonscription, pour un mandat de 5 ans avec renouvellement intégral à chaque élection. Âge minimum : 24 ans pour sénateur, 18 ans pour député.",
+      "tags": ["election", "senat", "assemblee-nationale", "modalites"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "inst-fr-qcm-001",
+      "question": "Quel est le mode d'élection du Sénat français et la durée du mandat sénatorial ?",
+      "options": [
+        "Élus par grands électeurs (conseillers municipaux) mandat 6 ans, renouvellement moitié 3 ans",
+        "Élus directement peuple mandat 5 ans renouvellement total quinquennal comme Assemblée nationale",
+        "Élus par députés mandat 7 ans renouvellement partiel tous deux ans avec scrutin proportionnel",
+        "Élus scrutin proportionnel niveau national mandat 3 ans changement annuel séries alternées"
+      ],
+      "answer": 0,
+      "explanation": "Le Sénat est composé de sénateurs élus par les grands électeurs (principalement conseillers municipaux). Le mandat dure 6 ans. L'Assemblée se renouvelle par moitié tous les 3 ans en deux séries alternées, chaque département étant représenté par un ou plusieurs sénateurs selon sa taille.",
+      "tags": ["senat", "election", "mandat"]
+    },
+    {
+      "id": "inst-fr-qcm-002",
+      "question": "Combien de circonscriptions y a-t-il en France pour l'élection des députés Assemblée nationale ?",
+      "options": [
+        "Il y a 577 circonscriptions, une par député, élus peuple mandat 5 ans changement total",
+        "Il y a 331 circonscriptions élisant deux députés chacune mandat 5 ans renouvellement partiel",
+        "Il y a 577 sénateurs divisés deux séries alternées renouvellement tous 3 ans mandat 6 ans",
+        "Il y a 289 circonscriptions scrutin proportionnel mandat 4 ans changement annuel système"
+      ],
+      "answer": 0,
+      "explanation": "L'Assemblée nationale compte 577 députés élus dans 577 circonscriptions. Chaque citoyen vote dans sa circonscription locale pour élire un député. Le mandat dure 5 ans et l'ensemble des députés se renouvelle totalement à chaque élection, formant ainsi l'Assemblée nationale.",
+      "tags": ["assemblee-nationale", "circonscription", "deputes"]
+    },
+    {
+      "id": "inst-fr-qcm-003",
+      "question": "Quelle différence fondamentale entre élection Sénat et élection Assemblée nationale France ?",
+      "options": [
+        "Sénat : grands électeurs renouvellement moitié 3 ans ; AN : peuple direct renouvellement 5 ans",
+        "Sénat : peuple direct moitié renouvellement ; AN : grands électeurs renouvellement total 5 ans",
+        "Sénat : proportionnelle mandat 4 ans total ; AN : uninominal mandat 7 ans moitié renouvellement",
+        "Sénat : élection directe peuple quorum 70% ; AN : assemblées locales quorum 50% minimum "
+      ],
+      "answer": 0,
+      "explanation": "Le Sénat est élu par les grands électeurs (conseillers municipaux) tandis que l'Assemblée nationale l'est directement par le peuple. Le Sénat se renouvelle partiellement (moitié) tous 3 ans, tandis que l'AN se renouvelle totalement tous 5 ans. Cela crée une meilleure stabilité au Sénat et une plus grande réactivité à l'AN.",
+      "tags": ["senat", "assemblee-nationale", "election"]
+    },
+    {
+      "id": "inst-fr-qcm-004",
+      "question": "Quel est l'âge minimum pour candidat sénateur et candidat député France ?",
+      "options": [
+        "Sénateur 24 ans minimum ; Député 18 ans minimum pour candidature nationale élection générale",
+        "Sénateur 18 ans minimum ; Député 21 ans avec expérience locale requise consultation municipale",
+        "Sénateur 30 ans minimum ; Député 25 ans avec inscription conseil municipal obligatoire préalable",
+        "Sénateur 21 ans minimum ; Député 30 ans avec expérience électorale préalable 5 années minimum"
+      ],
+      "answer": 0,
+      "explanation": "L'âge minimum pour être sénateur est de 24 ans, tandis que l'âge minimum pour être député est de 18 ans. Ces conditions différentes reflètent la structure et la stabilité requises pour chaque chambre du Parlement français.",
+      "tags": ["age-candidature", "senat", "assemblee"]
+    },
+    {
+      "id": "inst-fr-qcm-005",
+      "question": "Qui remplace le président en vacances ou indisponible selon Constitution française ?",
+      "options": [
+        "Président du Sénat assure provisoirement fonctions sauf impossible premier ministre remplace alors",
+        "Premier ministre assume immédiatement présidence avec pouvoirs exceptionnels étendus période indisponibilité",
+        "Conseil des ministres élit chef d'État provisoire pour durée indisponibilité fonction gouvernement",
+        "Peuple élit immédiatement nouveau président scrutin spécial délai constitutionnel 20 jours maximum"
+      ],
+      "answer": 0,
+      "explanation": "Lorsque le président est en vacances ou indisponible, c'est le président du Sénat qui le remplace provisoirement. En cas d'indisponibilité prolongée ou si le président du Sénat est également indisponible, le Premier ministre assure la continuité gouvernementale. Pendant cette période, il ne peut y avoir ni dissolution de l'AN ni référendum.",
+      "tags": ["president", "vacances", "constitution"]
+    },
+    {
+      "id": "inst-fr-qcm-006",
+      "question": "Qu'est-ce qu'un référendum selon article 11 Constitution française explique mécanisme ?",
+      "options": [
+        "Parlement débat loi mais n'adopte pas ; peuple vote directement texte proposé article référendum",
+        "Parlement adopte loi normalement puis soumet au peuple pour ratification finale approuvée vote",
+        "Référendum révise Constitution directement sans vote parlementaire préalable aucun possible jamais",
+        "Parlement vote loi secret puis soumet au peuple qui modifie contenu librement réécrit approuvé"
+      ],
+      "answer": 0,
+      "explanation": "Selon l'article 11 de la Constitution, pour un référendum ordinaire, le Parlement débat le texte proposé mais ne l'adopte pas en tant que loi. C'est le peuple, par le vote référendaire, qui se prononce directement sur la loi. Cela diffère de la révision constitutionnelle (art. 89) où le Parlement doit d'abord adopter le texte.",
+      "tags": ["referendum", "article-11", "parlement"]
+    },
+    {
+      "id": "inst-fr-qcm-007",
+      "question": "Qui nomme préfets recteurs ambassadeurs selon Constitution française sans intervention ?",
+      "options": [
+        "Président République nomme ces fonctionnaires sans intervention Parlement aucune intervention présidentielle",
+        "Premier ministre nomme avec accord ministres spécialisés consulte assemblées collectivités territoriales locales",
+        "Parlement élit ces personnes majorité qualifiée veto possible président République intervention générale",
+        "Collectivités territoriales ministères nomment directement sans avis gouvernement central intervention minimale"
+      ],
+      "answer": 0,
+      "explanation": "Le président de la République nomme directement les préfets, recteurs, ambassadeurs et autres hauts fonctionnaires sans intervention du Parlement. Cela constitue un pouvoir propre du chef de l'État. Seules les fonctions stratégiques prévues par loi organique (article 13) requièrent une audition parlementaire avec possibilité de veto.",
+      "tags": ["president", "nomination", "fonction-publique"]
+    },
+    {
+      "id": "inst-fr-qcm-008",
+      "question": "Que prévoit article 13 pour nominations fonctions stratégiques loi organique audition ?",
+      "options": [
+        "Audition commissions parlementaires avec veto possible majorité 3/5 suffrages exprimés vote national",
+        "Approbation nécessaire majorité 3/5 Parlement avant nomination présidentielle fonction publique générale",
+        "Audition publique débat mais sans veto possible vote consultatif avis non-contraignant politique",
+        "Nomination présidentielle directe ratification automatique assemblée nationale scrutin secret vote personnel"
+      ],
+      "answer": 0,
+      "explanation": "L'article 13 de la Constitution prévoit qu'à titre d'exception pour certaines fonctions stratégiques (fixées par loi organique), il y a une audition devant les commissions parlementaires compétentes. Importante nuance : ce n'est pas une approbation aux 3/5, mais une possibilité de veto à majorité des 3/5 qui empêcherait la nomination. C'est un contrôle négatif.",
+      "tags": ["article-13", "nomination", "parlement"]
+    },
+    {
+      "id": "inst-fr-qcm-009",
+      "question": "Quelle différence révision Constitution article 89 et référendum article 11 mécanisme ?",
+      "options": [
+        "Art. 89 : Parlement adopte d'abord puis référendum possible ; Art. 11 : Parlement débat seulement",
+        "Art. 89 : Peuple seul décide ; Art. 11 : Parlement approuve majorité qualifiée obligatoire générale",
+        "Art. 89 : Référendum obligatoire toute modification ; Art. 11 : Parlement décide directement loi",
+        "Art. 89 : Congrès vote seul ; Art. 11 : assemblée nationale vote référendum peuple consultation"
+      ],
+      "answer": 0,
+      "explanation": "L'article 89 (révision constitutionnelle) exige que le Parlement adopte d'abord le texte, qui peut ensuite être soumis au référendum ou au Congrès. L'article 11 (loi ordinaire par référendum) stipule que le Parlement débat mais n'adopte pas : c'est directement le peuple qui vote. Cette distinction est fondamentale pour comprendre les deux mécanismes référendaires.",
+      "tags": ["article-11", "article-89", "revision-constitution"]
+    },
+    {
+      "id": "inst-fr-qcm-010",
+      "question": "Depuis quelle année Assemblée nationale approuvé non-cumul mandats électoraux incompatibilité total ?",
+      "options": [
+        "Réforme 2014 appliquée 2017 : non-cumul maire/deputy/senator/exécutif local fonction générale politique",
+        "Réforme 1995 appliquée 2002 : interdiction totale cumul municipal avec députation nationale fonction",
+        "Réforme 2008 appliquée 2010 : simple limitation non-interdiction cumul trois mandats maximum autorisé",
+        "Réforme 2020 appliquée 2023 : cumul encore autorisé conseiller municipal simple conditions minimales"
+      ],
+      "answer": 0,
+      "explanation": "La grande réforme du non-cumul des mandats date de 2014 et a été appliquée à partir de 2017. Depuis, un député ou sénateur ne peut plus cumuler son mandat avec : maire, président de conseil départemental, président de conseil régional ou autre fonction exécutive locale importante. En revanche, il peut rester simple conseiller municipal, départemental ou régional sous conditions.",
+      "tags": ["non-cumul", "2017", "mandats"]
+    },
+    {
+      "id": "inst-fr-qcm-011",
+      "question": "Quel article Constitution fixe incompatibilités mandats élus fonctions publiques détails ?",
+      "options": [
+        "Article 25 prévoit loi organique fixe incompatibilités détails Code électoral national français",
+        "Article 13 énumère directement toutes incompatibilités sans besoin loi organique complémentaire générale",
+        "Article 89 révise Constitution interdire cumul cas conflit d'intérêt présumé violations nationales",
+        "Article 11 référendum permet peuple décider incompatibilités selon volonté électorale directe vote"
+      ],
+      "answer": 0,
+      "explanation": "L'article 25 de la Constitution ne crée pas directement les incompatibilités ; il prévoit qu'elles sont fixées par une loi organique. C'est le Code électoral qui précise concrètement quelles activités et quels mandats sont incompatibles avec les fonctions de député ou de sénateur. Cette approche permet une flexibilité législative.",
+      "tags": ["article-25", "incompatibilites", "loi-organique"]
+    },
+    {
+      "id": "inst-fr-qcm-012",
+      "question": "Qu'est-ce qu'une résolution droit constitutionnel français pouvoir juridique effets ?",
+      "options": [
+        "Texte assemblée exprime position politique sans créer droits imposer obligations citoyens contrainte général",
+        "Loi ordinaire modifie droit requiert débat préalable plus long lois ordinaires procédure spéciale",
+        "Décret présidentiel force gouvernement agir sujet déterminé appliqué directement exécution générale nationale",
+        "Accord international ratifié Parlement créant obligations citoyens modifiant code interne national français"
+      ],
+      "answer": 0,
+      "explanation": "Une résolution est un texte par lequel une assemblée (comme l'Assemblée nationale ou le Sénat) exprime une position politique. À la différence d'une loi : elle ne crée pas de droits, n'impose aucune obligation aux citoyens et ne modifie pas le droit. Elle exprime simplement une opinion ou une volonté politique, comme condamner un coup d'État étranger ou appeler le gouvernement à agir.",
+      "tags": ["resolution", "nature-juridique", "parlement"]
+    },
+    {
+      "id": "inst-fr-qcm-013",
+      "question": "Depuis 2008 quelle restriction s'applique envoi soldats français mission armée étrangère décision ?",
+      "options": [
+        "Au-delà 4 mois consentement parlementaire requis ; chef État décide initial mission armée possible",
+        "Tous missions armées exigent vote préalable Assemblée nationale avant moindre envoi militaire forces",
+        "Chef État décide seul ; Parlement consulté après 3 mois mission prolongation dépasse durée initiale",
+        "Référendum obligatoire mission dépasse 1 mois vote peuple direct prolongation autorisation démocratique"
+      ],
+      "answer": 0,
+      "explanation": "Aucun soldat français ne peut être envoyé en mission armée à l'étranger sans que le chef d'État en décide. Mais depuis la révision constitutionnelle de 2008, il faut un consentement parlementaire au-delà de quatre mois. Cette mesure crée un équilibre entre le pouvoir de guerre du président et le contrôle démocratique du Parlement.",
+      "tags": ["missions-armees", "2008", "parlement"]
+    },
+    {
+      "id": "inst-fr-qcm-014",
+      "question": "Que stipule article 18 Constitution concernant communication président Parlement peuple public ?",
+      "options": [
+        "Président communique directement Parlement par messages discours Congrès assemblé réunion générale",
+        "Président doit passer Premier ministre tout discours Parlement communication publique générale France",
+        "Parlement peut refuser audience président message politique jugé contraire projet gouvernemental politique",
+        "Communication référendum peuple bypasse Parlement débat préalable aucun vote test popularité direct"
+      ],
+      "answer": 0,
+      "explanation": "L'article 18 de la Constitution permet au président de communiquer directement avec le Parlement, soit en envoyant des messages, soit en venant prononcer un discours devant le Congrès (réunion de l'Assemblée nationale et du Sénat). C'est un pouvoir propre du président qui lui permet de s'adresser directement aux parlementaires et au peuple, contournant potentiellement le Premier ministre.",
+      "tags": ["article-18", "president", "parlement"]
+    },
+    {
+      "id": "inst-fr-qcm-015",
+      "question": "Quels 3 actes concernant Conseil constitutionnel sont pouvoirs propres président République ?",
+      "options": [
+        "Saisir CC traité (art. 54) ; nommer 3 membres+président (art. 56) ; saisir avant promulgation loi",
+        "Dissoudre AN (art. 12) ; nommer gouvernement (art. 8) ; décider référendum (art. 11) sans CC",
+        "Nommer tous conseillers ; modifier composition ; refuser recommandations avis CC tout sujet politique",
+        "Audition CC avant décision ; veto CC décisions ; dissolution Conseil désaccord politique gouvernement"
+      ],
+      "answer": 0,
+      "explanation": "Les pouvoirs du président vis-à-vis du Conseil constitutionnel sont : (1) saisir le CC sur un traité (art. 54), (2) nommer trois membres du CC et son président (art. 56), (3) saisir le CC avant la promulgation d'une loi pour vérifier sa constitutionnalité (art. 61). Ces trois pouvoirs constituent un contrôle important du chef de l'État.",
+      "tags": ["conseil-constitutionnel", "article-54", "article-56", "article-61"]
+    }
+  ]
+}
