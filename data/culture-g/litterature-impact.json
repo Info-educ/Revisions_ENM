@@ -1,0 +1,137 @@
+{
+  "id": "litterature-impact-societal",
+  "title": "Littérature et impact sociétal : 4 chefs-d'œuvre critiques",
+  "category": "Culture générale",
+  "flashcards": [
+    {
+      "id": "lit-impact-fc-001",
+      "front": "Quel est le contexte et la principale critique de 1984 d'Orwell ?",
+      "back": "1984, écrit en 1949 après la Seconde Guerre mondiale, dénonce le totalitarisme absolu via la surveillance permanente, la manipulation du langage (novlangue) et la falsification systématique de la vérité. Orwell critique notamment le nazisme et le stalinisme, mais son œuvre agit comme avertissement universel contre la concentration du pouvoir absolu.",
+      "tags": ["1984", "orwell", "totalitarisme", "surveillance"]
+    },
+    {
+      "id": "lit-impact-fc-002",
+      "front": "Quel est l'apport principal de Moby Dick au-delà de l'aventure maritime ?",
+      "back": "Moby Dick critique le capitalisme sauvage du XIXe siècle (industrie baleinière), dénonce l'exploitation des travailleurs et la destruction reckless des ressources naturelles. Le roman explore aussi la folie obsessionnelle, la diversité humaine (équipage cosmopolite) et pose la question philosophique des limites de la connaissance humaine face à la nature indomptable.",
+      "tags": ["moby-dick", "melville", "capitalisme", "écologie"]
+    },
+    {
+      "id": "lit-impact-fc-003",
+      "front": "Quels sont les trois piliers de la critique rabelaisienne dans Pantagruel ?",
+      "back": "Rabelais attaque l'obscurantisme religieux et le dogmatisme rigide via la satire. Il défend l'éducation humaniste (curiosité, esprit critique, savoir universel) et dénonce le conformisme collectif à travers l'épisode des moutons de Panurge, qui devint l'archétype littéraire de la pensée grégaire. Il invente aussi des mots nouveaux, révolutionnant la liberté d'expression linguistique.",
+      "tags": ["pantagruel", "rabelais", "humanisme", "moutons-panurge"]
+    },
+    {
+      "id": "lit-impact-fc-004",
+      "front": "Quelle est la portée philosophique de La Métamorphose de Kafka ?",
+      "back": "La Métamorphose critique la bureaucratie déshumanisante qui réduit l'individu à sa fonction productive. Gregor devient indésirable dès lors qu'il ne peut plus travailler, symbolisant l'aliénation moderne. Le roman refuse toute explication rationnelle à la transformation, incarnant l'absurdité de l'existence. Il dénonce aussi le patriarcat, l'isolement social et la discrimination envers les marginalisés.",
+      "tags": ["metamorphose", "kafka", "aliénation", "absurdité"]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "lit-impact-qcm-001",
+      "question": "Quels mécanismes de contrôle totalitaire Orwell dénonce-t-il dans 1984 ?",
+      "options": [
+        "Surveillance permanente télécrans, manipulation langage novlangue, falsification vérité systématique état",
+        "Orwell approuve système totalitaire considère efficace pour maintenir ordre social nation stable",
+        "Le roman critique uniquement régimes soviétiques sans application autres formes autoritarisme états modernes",
+        "Liberté pensée absolue garantie tout citoyen sans restrictions morale politique gouvernementale aucune"
+      ],
+      "answer": 0,
+      "explanation": "Orwell dénonce trois piliers du totalitarisme : surveillance permanente (télécrans), manipulation du langage (novlangue pour réduire la capacité de pensée critique) et falsification systématique de la vérité. Ces concepts restent pertinents face à la surveillance numérique, reconnaissance faciale et manipulation informationnelle contemporaines.",
+      "tags": ["1984", "totalitarisme", "surveillance", "novlangue"]
+    },
+    {
+      "id": "lit-impact-qcm-002",
+      "question": "Comment les concepts d'Orwell influencent-ils la critique politique moderne actuelle ?",
+      "options": [
+        "Novlangue et doublepensée outils universels critique politique manipulation information régimes modernes",
+        "Ces concepts uniquement valables contexte Guerre froide inapplicables débats démocratiques contemporains actuels",
+        "Orwell affirme impossible réduire liberté pensée manipulation langage systématique aucune restriction possible",
+        "Langage neutre science assure objectivité vérité sans risque manipulation politique autorités gouvernement"
+      ],
+      "answer": 0,
+      "explanation": "Les termes 'novlangue' et 'doublepensée' sont devenus des outils universels de critique politique pour identifier la manipulation de l'information. Ces concepts s'appliquent à tous les régimes autoritaires, à la désinformation contemporaine et aux débats démocratiques modernes sur la manipulation médiatique et algorithmique.",
+      "tags": ["1984", "langage", "critique-politique", "manipulation"]
+    },
+    {
+      "id": "lit-impact-qcm-003",
+      "question": "Quelle critique sociale écologique Melville formule-t-il dans Moby Dick roman ?",
+      "options": [
+        "Critique industrie baleinière capitalisme sauvage exploitation travailleurs destruction ressources naturelles effrenée",
+        "Melville approuve expansion économique américaine XIXe siècle chasse baleine progrès industriel technologie",
+        "Roman célèbre conquête nature par homme supériorité technologie industrielle moderne civilisation américaine",
+        "Melville indifférent questions économiques sociales intéresse seulement aventures maritimes exploration épique nautique"
+      ],
+      "answer": 0,
+      "explanation": "Melville critique l'industrie baleinière comme symbole du capitalisme sauvage : exploitation effrénée des travailleurs, destruction irresponsable des ressources naturelles, cupidité sans limite. Cette critique anticipe les débats environnementaux modernes (extraction minière, déforestation, surpêche) et les analyses de l'aliénation économique.",
+      "tags": ["moby-dick", "capitalisme", "écologie", "exploitation"]
+    },
+    {
+      "id": "lit-impact-qcm-004",
+      "question": "Quel rôle joue la diversité équipage Pequod projet philosophique Melville roman ?",
+      "options": [
+        "Équipage multilingue multiculturel révolutionnaire 1851 anticipe débats égalité inclusion diversité moderne",
+        "Melville rejetait diversité préférait homogénéité culturelle navire efficacité professionnelle hiérarchie stricte",
+        "Baleine représente nature indomptable indique limites connaissance humaine humilité face inconnu",
+        "Roman affirme science conquerra tout maitrisera nature complètement totalement progressivement domination absolue"
+      ],
+      "answer": 0,
+      "explanation": "L'équipage du Pequod réunit des hommes de toutes origines (Européens, Africains, Asiatiques, Polynésiens) — composition révolutionnaire pour 1851. Cela anticipe les débats modernes sur l'égalité, la diversité et l'inclusion. La baleine symbolise la nature indomptable, rappelant les limites de la connaissance et l'humilité humaine face à l'inconnu.",
+      "tags": ["moby-dick", "diversité", "humanisme", "nature"]
+    },
+    {
+      "id": "lit-impact-qcm-005",
+      "question": "Quelles sont les trois formes critique Rabelais exerce dans Pantagruel roman ?",
+      "options": [
+        "Attaque obscurantisme religieux dogmatisme, défense humanisme curiosité, dénonciation conformisme collectif moutons",
+        "Rabelais défend tradition religieuse médiévale ordres monastiques discipline ecclésiale complète stricte ancienne",
+        "Roman uniquement fiction divertissement amusement sans critique sociale politique intention satirique aucune",
+        "Rabelais approuve système éducatif médiéval rejet humanisme Renaissance curiosité intellectuelle curiosité nouvelle"
+      ],
+      "answer": 0,
+      "explanation": "Rabelais pratique une triple critique : attaque de l'obscurantisme religieux et du dogmatisme rigide (via satire et grotesque), défense de l'humanisme Renaissance (curiosité, esprit critique, éducation universelle) et dénonciation du conformisme collectif notamment via l'épisode des moutons de Panurge qui devint archétypal.",
+      "tags": ["pantagruel", "rabelais", "humanisme", "satire"]
+    },
+    {
+      "id": "lit-impact-qcm-006",
+      "question": "Quel est l'héritage expression moutons Panurge dans critique moderne actuelle ?",
+      "options": [
+        "Archétype littéraire conformisme irrationnel pensée grégaire réseaux sociaux bulles informationnelles algorithmes",
+        "Expression ancienne datée inapplicable contexte moderne techno réseaux sociaux communication numérique",
+        "Rabelais invente mots nouveaux révolution linguistique liberté expression langage vivant créatif dynamique",
+        "Épisode moutons approuve imitation naturelle hiérarchie sociale ordre établi stabilité gouvernement traditionnel"
+      ],
+      "answer": 0,
+      "explanation": "L'épisode où le troupeau suit aveuglément le bélier à la mer est devenu l'archétype littéraire du conformisme irrationnel. L'expression dénonce la pensée grégaire, la manipulation de masse, et reste d'actualité brûlante face aux réseaux sociaux, bulles informationnelles, viralité des fausses informations et imitation algorithmique comportementale.",
+      "tags": ["pantagruel", "moutons-panurge", "conformisme", "réseaux-sociaux"]
+    },
+    {
+      "id": "lit-impact-qcm-007",
+      "question": "Comment Kafka critique-t-il modernité bureaucratique dans Métamorphose roman ?",
+      "options": [
+        "Kafka montre structures bureaucratiques réduisent individu fonction productive aliénation travail déshumanisation",
+        "Kafka approuve efficacité bureaucratique organisation rationnelle état providence bien-être social garantis modernes",
+        "Gregor indispensable travailleur devient indésirable inconvénient rejet familial indifférence employeur absolu complet",
+        "Métamorphose montre isolement incommunicabilité solitude psychologique société moderne contemporaine urbaine alienation"
+      ],
+      "answer": 0,
+      "explanation": "Kafka montre comment les structures bureaucratiques réduisent l'individu à sa fonction productive : Gregor était précieux tant qu'il gagnait de l'argent, indésirable dès l'incapacité. Cette critique anticipe l'analyse marxiste de l'aliénation au travail, les débats sur la précarité économique et la déshumanisation des institutions modernes.",
+      "tags": ["metamorphose", "kafka", "bureaucratie", "aliénation-travail"]
+    },
+    {
+      "id": "lit-impact-qcm-008",
+      "question": "Quels problèmes sociaux contemporains Métamorphose Kafka éclaire-t-elle ? roman",
+      "options": [
+        "Absurdité existence discrimination marginalisés handicap violence patriarcale isolation psychologique modern social",
+        "Roman aborde seulement aventures fantastiques transformation insecte sans critique sociale profonde intention",
+        "Kafka défend capitalisme industriel travail usine conditions emploi moderne progrès technique général complet",
+        "Métamorphose affirme bureaucratie nécessaire progrès humanité bien-être égalité justice sociale application"
+      ],
+      "answer": 0,
+      "explanation": "Le roman aborde l'absurdité de l'existence (existentialisme), la discrimination envers les marginalisés (handicap, LGBTQ+, minorités), la violence patriarcale (père brutal), et l'isolation psychologique moderne. Gregor devient métaphore universelle de l'exclusion et de l'incommunicabilité dans la société contemporaine.",
+      "tags": ["metamorphose", "kafka", "absurdité", "discrimination"]
+    }
+  ]
+}

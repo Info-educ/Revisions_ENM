@@ -287,6 +287,18 @@
       "file": "inst-fr-2024.json",
       "title": "Institutions françaises : Sénat, Assemblée nationale, pouvoirs du président",
       "category": "Culture générale"
+    },
+    {
+      "id": "giec-ar6-2023",
+      "file": "giec-ar6-2023.json",
+      "title": "Le GIEC AR6 : état des lieux climatique et perspectives d'action",
+      "category": "Culture générale"
+    },
+    {
+      "id": "litterature-impact-societal",
+      "file": "litterature-impact.json",
+      "title": "Littérature et impact sociétal : 4 chefs-d'œuvre critiques",
+      "category": "Culture générale"
     }
   ]
 }
