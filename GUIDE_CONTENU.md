@@ -18,26 +18,55 @@ directement dans Cabinet ENM, sans réglage supplémentaire.
 3. *(Optionnel)* Une **catégorie** si elle diffère des chapitres déjà
    existants (ex. « Droit pénal général », « Procédure pénale », « Droit
    civil — Famille »...). Si rien n'est précisé, Claude propose une catégorie
-   cohérente avec les chapitres déjà présents dans `data/manifest.json`.
+   cohérente avec les chapitres déjà présents dans le manifest du module
+   concerné.
+4. **Le module concerné** (`culture-g`, `penal` ou `civil`) **et le contenu
+   actuel de son `manifest.json`** (`data/<module>/manifest.json`), collé
+   intégralement dans la conversation. Sans ce fichier, Claude n'a aucune
+   visibilité sur les chapitres déjà existants et ne doit jamais tenter de le
+   reconstituer de mémoire — voir l'avertissement en section 2.
 
 ---
 
 ## 2. Ce que Claude livre pour chaque chapitre
 
-- Un fichier `data/<id-chapitre>.json` complet, conforme au schéma ci-dessous.
-- La mise à jour de `data/manifest.json` (ajout de l'entrée correspondante).
+- Un fichier `data/<module>/<id-chapitre>.json` complet, conforme au schéma
+  ci-dessous.
+- **La seule nouvelle entrée** à ajouter au tableau `chapters` de
+  `data/<module>/manifest.json` (au format indiqué en 3.1) — **jamais un
+  fichier `manifest.json` complet regénéré**.
 - Un court résumé des thèmes couverts par les flashcards et par les QCM, pour
   vérification rapide.
 
-Il vous suffit ensuite de déposer/committer ces fichiers dans `/data` de votre
-dépôt GitHub (remplacement de `manifest.json`, ajout du nouveau fichier de
-chapitre). GitHub Pages se met à jour automatiquement.
+> ⚠️ **Règle impérative — ne jamais faire régénérer le manifest en entier.**
+> Claude (dans une conversation qui n'a pas accès au dépôt) n'a pas de
+> visibilité sur les chapitres déjà présents tant que vous ne les lui avez
+> pas transmis. Si on lui demande de « livrer le manifest.json mis à jour »
+> sans lui donner le fichier actuel, il ne peut que le recomposer de mémoire
+> ou à partir d'un autre module — ce qui **écrase silencieusement tous les
+> chapitres existants** au moment du commit. C'est exactement ce qui a
+> provoqué la perte des chapitres de Culture générale.
+>
+> La bonne pratique : Claude ne livre **que la nouvelle entrée** (un objet
+> JSON de 4 champs). Vous l'ajoutez vous-même manuellement à la fin du
+> tableau `chapters` du vrai fichier `data/<module>/manifest.json` dans votre
+> dépôt, sans toucher au reste.
+
+Il vous suffit ensuite de déposer/committer le nouveau fichier de chapitre
+dans `data/<module>/`, et d'ajouter la nouvelle entrée dans
+`data/<module>/manifest.json` existant. GitHub Pages se met à jour
+automatiquement.
 
 ---
 
 ## 3. Schéma attendu
 
-### 3.1 Entrée dans `data/manifest.json`
+### 3.1 Entrée dans `data/<module>/manifest.json`
+
+Le site utilise **un manifest distinct par module** :
+`data/culture-g/manifest.json`, `data/penal/manifest.json`,
+`data/civil/manifest.json`. Chaque nouvelle notion ne concerne qu'un seul de
+ces fichiers — ne jamais confondre ou fusionner les modules entre eux.
 
 ```json
 {
@@ -48,8 +77,9 @@ chapitre). GitHub Pages se met à jour automatiquement.
 }
 ```
 
-Cette entrée s'ajoute au tableau `chapters` du fichier `data/manifest.json`,
-dont la structure globale est :
+C'est **uniquement cette entrée** que Claude doit livrer. Elle s'ajoute à la
+fin du tableau `chapters` du fichier `data/<module>/manifest.json`
+correspondant, dont la structure globale est :
 
 ```json
 {
@@ -195,8 +225,11 @@ Avant de livrer un chapitre, Claude vérifie que :
       entre 75 et 90 caractères** — sauf si la question appelle des réponses
       naturellement courtes (date, terme court, chiffre), auquel cas les
       options peuvent être brèves à condition d'être homogènes entre elles ;
-- [ ] `data/manifest.json` contient bien la nouvelle entrée, avec le même
-      `id` et le même `title` que dans le fichier de chapitre.
+- [ ] Claude a livré **uniquement la nouvelle entrée** pour
+      `data/<module>/manifest.json` (jamais un fichier manifest complet
+      regénéré) ;
+- [ ] cette entrée a le même `id` et le même `title` que dans le fichier de
+      chapitre, et vise le bon module (`culture-g`, `penal` ou `civil`).
 
 ---
 
