@@ -461,6 +461,12 @@
       "file": "modes-amiables-resolution-differends.json",
       "title": "Les modes amiables de résolution des différends (MARD)",
       "category": "Procédure civile"
+    },
+    {
+      "id": "resp-regimes-speciaux",
+      "file": "resp-regimes-speciaux.json",
+      "title": "Les régimes spéciaux de responsabilité : loi Badinter, produits défectueux et troubles de voisinage",
+      "category": "Droit civil — Responsabilité civile"
     }
   ]
 }
