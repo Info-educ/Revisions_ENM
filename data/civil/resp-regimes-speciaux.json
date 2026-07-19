@@ -1,0 +1,173 @@
+{
+  "id": "resp-regimes-speciaux",
+  "title": "Les régimes spéciaux de responsabilité : loi Badinter, produits défectueux et troubles de voisinage",
+  "category": "Droit civil — Responsabilité civile",
+  "flashcards": [
+    {
+      "id": "respreg-fc-001",
+      "front": "Quelles sont les 4 conditions cumulatives d'application de la loi Badinter ?",
+      "back": "Article 1er de la loi n°85-677 du 5 juillet 1985 : (A) un accident de la circulation, (B) impliquant un véhicule terrestre à moteur (VTAM), (C) une implication du véhicule dans l'accident (simple participation, indépendante de toute causalité), et (D) un dommage imputable à cet accident. Réunies, ces conditions rendent le régime Badinter exclusif du droit commun (Civ. 2e, 31 mars 2022).",
+      "tags": [
+        "loi badinter",
+        "conditions"
+      ]
+    },
+    {
+      "id": "respreg-fc-002",
+      "front": "Sur quel fondement et selon quel régime la responsabilité du fait des produits défectueux est-elle engagée ?",
+      "back": "Loi du 19 mai 1998, codifiée aux articles 1245 et suivants du Code civil. Il s'agit d'une responsabilité sans faute du producteur, exclusive du droit commun dès que ses conditions sont réunies (CJUE 25 avril 2002 ; Civ. 1re, 11 juillet 2018) : la victime ne peut pas choisir d'agir sur le fondement de la faute ou de la garantie des vices cachés.",
+      "tags": [
+        "produits défectueux",
+        "responsabilité sans faute"
+      ]
+    },
+    {
+      "id": "respreg-fc-003",
+      "front": "Quelles sont les conditions d'engagement de la responsabilité pour troubles anormaux de voisinage ?",
+      "back": "Article 1253, alinéa 1er, du Code civil (codification, depuis la loi du 15 avril 2024, de la jurisprudence issue de Civ. 2e, 19 novembre 1986) : un trouble excédant les inconvénients normaux du voisinage, apprécié souverainement par les juges du fond (intensité, durée, lieu, moment), et une relation de voisinage entendue largement, sans exigence de contiguïté des fonds. La responsabilité est objective : elle n'exige ni faute ni absence de faute.",
+      "tags": [
+        "troubles de voisinage",
+        "responsabilité objective"
+      ]
+    },
+    {
+      "id": "respreg-fc-004",
+      "front": "Quels sont les délais applicables à la responsabilité du fait des produits défectueux ?",
+      "back": "Deux délais distincts, article 1245-15 et 1245-16 du Code civil : un délai de péremption de 10 ans à compter de la mise en circulation du produit (au-delà, plus aucune action possible), et un délai de prescription de 3 ans à compter de la connaissance du dommage, du défaut et de l'identité du producteur, apprécié avec bienveillance (Civ. 1re, 27 novembre 2019).",
+      "tags": [
+        "produits défectueux",
+        "délais"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "respreg-qcm-001",
+      "question": "En matière de loi Badinter, un véhicule stationné qui est heurté par un autre véhicule en mouvement est-il considéré comme impliqué dans l'accident ?",
+      "options": [
+        "Oui, tout contact avec un véhicule vaut implication automatique dans l'accident",
+        "Non, un véhicule à l'arrêt ne peut jamais être impliqué dans un accident de la route",
+        "Oui, mais seulement si son conducteur commet une faute de stationnement caractérisée",
+        "Non, sauf si le propriétaire du véhicule stationné était présent sur les lieux"
+      ],
+      "answer": 0,
+      "explanation": "Depuis Civ. 2e, 23 mars 1994, un véhicule en stationnement heurté par un autre est impliqué : l'implication ne se confond pas avec la causalité, elle résulte de toute participation quelconque au fait accidentel, et le contact suffit à la caractériser automatiquement.",
+      "tags": [
+        "loi badinter",
+        "implication"
+      ]
+    },
+    {
+      "id": "respreg-qcm-002",
+      "question": "Comment la jurisprudence définit-elle la faute inexcusable susceptible d'être opposée à une victime non conductrice spécialement protégée, dans le cadre de la loi Badinter ?",
+      "options": [
+        "Une simple négligence ayant contribué de façon significative à la survenance du dommage",
+        "Une faute volontaire d'exceptionnelle gravité, cause exclusive, presque jamais retenue",
+        "Toute imprudence commise en traversant une voie de circulation en dehors des passages",
+        "Une faute grave commise sciemment, appréciée souplement selon l'âge de la victime"
+      ],
+      "answer": 1,
+      "explanation": "Civ. 2e, 20 juillet 1987 (GAJC n°268) : la faute inexcusable est une faute volontaire d'exceptionnelle gravité exposant sans raison son auteur à un danger dont il devait avoir conscience, et elle doit être la cause exclusive de l'accident — un standard rarement rempli en pratique.",
+      "tags": [
+        "loi badinter",
+        "faute inexcusable"
+      ]
+    },
+    {
+      "id": "respreg-qcm-003",
+      "question": "Dans le régime de la loi Badinter, la faute commise par un conducteur victime est-elle traitée de la même façon que celle d'un piéton victime ?",
+      "options": [
+        "Non, le conducteur voit toute faute lui être opposable, même légère, appréciée in concreto",
+        "Oui, les deux bénéficient de la même protection renforcée dès lors qu'ils sont blessés",
+        "Non, seul le piéton peut voir sa faute lui être opposée en cas de dommage corporel",
+        "Oui, aucune faute ne peut leur être opposée si le dommage corporel est important"
+      ],
+      "answer": 0,
+      "explanation": "Le conducteur victime relève d'un régime moins protecteur (art. 4 de la loi de 1985) : toute faute lui est opposable, même légère, sans exigence d'inexcusabilité, et appréciée in concreto sans tenir compte du comportement des autres conducteurs (Civ. 2e, 13 octobre 2005).",
+      "tags": [
+        "loi badinter",
+        "conducteur victime"
+      ]
+    },
+    {
+      "id": "respreg-qcm-004",
+      "question": "Lequel de ces engins est exclu de la notion de véhicule terrestre à moteur au sens de la loi Badinter ?",
+      "options": [
+        "Une voiture particulière circulant sur une route ouverte à la circulation publique",
+        "Une motocyclette circulant dans une cour privée accessible aux tiers autorisés",
+        "Un tracteur agricole circulant sur un chemin rural ouvert à la circulation publique",
+        "Un fauteuil roulant électrique à usage médical destiné au transport d'une personne"
+      ],
+      "answer": 3,
+      "explanation": "Le fauteuil roulant électrique à usage médical est exclu de la notion de VTAM (Civ. 2e, 6 mai 2021), tout comme l'avion, le bateau ou le train circulant sur ses voies propres ; le sort des trottinettes électriques reste en revanche incertain en jurisprudence.",
+      "tags": [
+        "loi badinter",
+        "véhicule terrestre à moteur"
+      ]
+    },
+    {
+      "id": "respreg-qcm-005",
+      "question": "En matière de responsabilité du fait des produits défectueux, à quel moment un produit est-il considéré comme mis en circulation ?",
+      "options": [
+        "Dès que le producteur en obtient l'autorisation administrative de mise sur le marché",
+        "Dès le dessaisissement volontaire du producteur qui entre dans le circuit commercial",
+        "Uniquement lorsque le produit atteint effectivement le consommateur final identifié",
+        "Dès la fabrication complète du produit, avant même toute décision commerciale"
+      ],
+      "answer": 1,
+      "explanation": "La mise en circulation suppose un dessaisissement volontaire du producteur et l'entrée du produit dans le processus de commercialisation (CJCE 9 février 2006) ; une autorisation administrative de mise sur le marché ne se confond pas avec cette notion (Ch. mixte, 7 juillet 2017).",
+      "tags": [
+        "produits défectueux",
+        "mise en circulation"
+      ]
+    },
+    {
+      "id": "respreg-qcm-006",
+      "question": "Le producteur peut-il s'exonérer en invoquant le risque de développement, lorsque le dommage causé par le défaut concerne le corps humain ?",
+      "options": [
+        "Oui, cette exonération s'applique sans restriction quelle que soit la nature du dommage",
+        "Non, cette cause d'exonération est purement théorique et jamais admise en pratique",
+        "Non, elle est écartée pour les dommages causés par des éléments du corps humain",
+        "Oui, mais uniquement si le dommage corporel reste inférieur à un certain seuil"
+      ],
+      "answer": 2,
+      "explanation": "Le risque de développement (défaut impossible à déceler selon l'état des connaissances scientifiques) exonère le producteur en principe, mais cette cause d'exonération est écartée pour les dommages causés par des éléments du corps humain, conformément à la décision QPC du Conseil constitutionnel du 10 mars 2023.",
+      "tags": [
+        "produits défectueux",
+        "exonération"
+      ]
+    },
+    {
+      "id": "respreg-qcm-007",
+      "question": "Un produit a été mis en circulation le 1er janvier 2018. Jusqu'à quelle date la victime peut-elle en principe engager une action fondée sur sa défectuosité ?",
+      "options": [
+        "Jusqu'au 1er janvier 2021, trois ans après la mise en circulation du produit concerné",
+        "Sans limitation de durée, tant que le producteur exerce toujours son activité commerciale",
+        "Jusqu'au 1er janvier 2028, sous réserve du respect du délai de prescription applicable",
+        "Jusqu'au 1er janvier 2033, quinze ans après la mise en circulation du produit concerné"
+      ],
+      "answer": 2,
+      "explanation": "Le délai de péremption est de 10 ans à compter de la mise en circulation du produit : au 1er janvier 2028, l'action fondée sur la défectuosité est éteinte, sous réserve du délai de prescription de 3 ans à compter de la connaissance du dommage, du défaut et de l'identité du producteur.",
+      "tags": [
+        "produits défectueux",
+        "péremption"
+      ]
+    },
+    {
+      "id": "respreg-qcm-008",
+      "question": "Un propriétaire s'installe à proximité d'une usine bruyante en fonctionnement depuis vingt ans, puis se plaint d'un trouble anormal. L'usine peut-elle invoquer la préoccupation ?",
+      "options": [
+        "Non, la préoccupation ne peut jamais faire obstacle à l'indemnisation d'un trouble",
+        "Non, sauf si l'usine relève du régime spécial des activités agricoles antérieures",
+        "Oui, mais seulement si le plaignant connaissait personnellement l'existence de l'usine",
+        "Oui, car l'usine exerce une activité antérieure à l'installation du plaignant"
+      ],
+      "answer": 3,
+      "explanation": "La préoccupation (art. 1253, al. 2, C. civ.) écarte la responsabilité lorsque le trouble provient d'une activité existant antérieurement à l'acte transférant la propriété ou l'entrée en possession du demandeur : celui qui s'installe près d'une activité préexistante ne peut s'en plaindre.",
+      "tags": [
+        "troubles de voisinage",
+        "préoccupation"
+      ]
+    }
+  ]
+}
