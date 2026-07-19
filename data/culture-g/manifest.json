@@ -299,6 +299,12 @@
       "file": "litterature-impact.json",
       "title": "Littérature et impact sociétal : 4 chefs-d'œuvre critiques",
       "category": "Culture générale"
+    },
+    {
+      "id": "constitution-1958",
+      "file": "constitution-1958.json",
+      "title": "La Constitution du 4 octobre 1958 — Articles 1 à 89 commentés",
+      "category": "Droit constitutionnel"
     }
   ]
 }
