@@ -1,0 +1,448 @@
+{
+  "id": "bloc-constitutionnalite-1946-1789-2004",
+  "title": "Le bloc de constitutionnalité — Préambule de 1946, DDHC de 1789 et Charte de l'environnement de 2004",
+  "category": "Droit constitutionnel",
+  "flashcards": [
+    {
+      "id": "blocconst-fc-001",
+      "front": "Que réaffirme le paragraphe 1 du Préambule de 1946 ?",
+      "back": "Il réaffirme que tout être humain, sans distinction de race, de religion ni de croyance, possède des droits inaliénables et sacrés, consacrés par la Déclaration de 1789, et y ajoute les « principes fondamentaux reconnus par les lois de la République » (PFRLR), source de droits comme la liberté d'association ou le respect de la vie privée.",
+      "tags": [
+        "préambule 1946",
+        "pfrlr"
+      ]
+    },
+    {
+      "id": "blocconst-fc-002",
+      "front": "Que proclame le paragraphe 2 du Préambule de 1946 ?",
+      "back": "Il proclame comme « particulièrement nécessaires à notre temps » les principes politiques, économiques et sociaux énumérés ensuite : ce sont des droits-créances, qui nécessitent une action positive de l'État, à la différence des droits-libertés de 1789.",
+      "tags": [
+        "préambule 1946",
+        "droits-créances"
+      ]
+    },
+    {
+      "id": "blocconst-fc-003",
+      "front": "Que garantit le paragraphe 3 du Préambule de 1946 ?",
+      "back": "La loi garantit à la femme, dans tous les domaines, des droits égaux à ceux de l'homme ; ce principe, repris à l'article 1 de la Constitution de 1958, a permis au Conseil constitutionnel d'imposer la parité en politique (loi de 2000 sur la parité électorale).",
+      "tags": [
+        "préambule 1946",
+        "égalité femme-homme"
+      ]
+    },
+    {
+      "id": "blocconst-fc-004",
+      "front": "Que prévoit le paragraphe 4 du Préambule de 1946 sur le droit d'asile ?",
+      "back": "Toute personne persécutée en raison de son action en faveur de la liberté a droit d'asile sur le territoire de la République ; ce droit, précisé par l'article 53-1 de la Constitution et la Convention de Genève de 1951, est mis en œuvre par l'OFPRA.",
+      "tags": [
+        "préambule 1946",
+        "droit d'asile"
+      ]
+    },
+    {
+      "id": "blocconst-fc-005",
+      "front": "Que prévoit le paragraphe 5 du Préambule de 1946 ?",
+      "back": "Chacun a le devoir de travailler et le droit d'obtenir un emploi, sans être lésé en raison de ses origines, opinions ou croyances ; c'est un droit-créance qui engage l'État à lutter contre le chômage et les discriminations à l'embauche.",
+      "tags": [
+        "préambule 1946",
+        "droit au travail"
+      ]
+    },
+    {
+      "id": "blocconst-fc-006",
+      "front": "Que garantit le paragraphe 6 du Préambule de 1946 ?",
+      "back": "Chacun peut défendre ses droits par l'action syndicale et adhérer librement au syndicat de son choix ; un salarié ne peut être licencié pour son adhésion syndicale, sous peine de violation de cette liberté.",
+      "tags": [
+        "préambule 1946",
+        "liberté syndicale"
+      ]
+    },
+    {
+      "id": "blocconst-fc-007",
+      "front": "Comment le paragraphe 7 du Préambule de 1946 encadre-t-il le droit de grève ?",
+      "back": "Le droit de grève est reconnu mais s'exerce « dans le cadre des lois qui le réglementent » : il n'est pas absolu et doit respecter les obligations de préavis et le maintien d'un service minimum dans les services publics essentiels.",
+      "tags": [
+        "préambule 1946",
+        "droit de grève"
+      ]
+    },
+    {
+      "id": "blocconst-fc-008",
+      "front": "Que prévoit le paragraphe 8 du Préambule de 1946 ?",
+      "back": "Tout travailleur participe, par ses délégués, à la détermination des conditions de travail et à la gestion des entreprises ; ce principe fonde les institutions représentatives du personnel et la négociation collective.",
+      "tags": [
+        "préambule 1946",
+        "participation des travailleurs"
+      ]
+    },
+    {
+      "id": "blocconst-fc-009",
+      "front": "Que prévoit le paragraphe 9 du Préambule de 1946 ?",
+      "back": "Tout bien ou entreprise devenu service public national ou monopole de fait doit devenir la propriété de la collectivité ; ce principe a justifié les grandes nationalisations de l'après-guerre (EDF, GDF, banques).",
+      "tags": [
+        "préambule 1946",
+        "nationalisation"
+      ]
+    },
+    {
+      "id": "blocconst-fc-010",
+      "front": "Que garantit le paragraphe 10 du Préambule de 1946 ?",
+      "back": "La Nation assure à l'individu et à la famille les conditions nécessaires à leur développement, ce qui engage l'État à mener des politiques de logement, de santé, d'éducation et de soutien à la parentalité.",
+      "tags": [
+        "préambule 1946",
+        "politique familiale"
+      ]
+    },
+    {
+      "id": "blocconst-fc-011",
+      "front": "Que garantit le paragraphe 11 du Préambule de 1946 ?",
+      "back": "La Nation garantit à tous, notamment à l'enfant, à la mère et aux vieux travailleurs, la protection de la santé, la sécurité matérielle, le repos et les loisirs, ainsi que des moyens convenables d'existence en cas d'incapacité de travailler ; ce paragraphe fonde la sécurité sociale (AAH, ASPA...).",
+      "tags": [
+        "préambule 1946",
+        "sécurité sociale"
+      ]
+    },
+    {
+      "id": "blocconst-fc-012",
+      "front": "Que proclame le paragraphe 12 du Préambule de 1946 ?",
+      "back": "La Nation proclame la solidarité et l'égalité de tous les Français devant les charges résultant des calamités nationales, fondant par exemple le fonds de garantie des catastrophes naturelles ou l'indemnisation des victimes d'attentats.",
+      "tags": [
+        "préambule 1946",
+        "solidarité nationale"
+      ]
+    },
+    {
+      "id": "blocconst-fc-013",
+      "front": "Que garantit le paragraphe 13 du Préambule de 1946 ?",
+      "back": "La Nation garantit l'égal accès de l'enfant et de l'adulte à l'instruction, à la formation professionnelle et à la culture, et fait de l'enseignement public gratuit et laïque à tous les degrés un devoir de l'État.",
+      "tags": [
+        "préambule 1946",
+        "droit à l'instruction"
+      ]
+    },
+    {
+      "id": "blocconst-fc-014",
+      "front": "Que prévoit le paragraphe 14 du Préambule de 1946 ?",
+      "back": "La France se conforme aux règles du droit public international, renonce à toute guerre de conquête et n'emploiera jamais ses forces contre la liberté d'un peuple ; ce principe pacifiste impose que toute action militaire française soit défensive ou humanitaire.",
+      "tags": [
+        "préambule 1946",
+        "droit international"
+      ]
+    },
+    {
+      "id": "blocconst-fc-015",
+      "front": "Que permet le paragraphe 15 du Préambule de 1946 ?",
+      "back": "Sous réserve de réciprocité, la France consent aux limitations de souveraineté nécessaires à l'organisation et à la défense de la paix, ce qui fonde sa participation à des organisations internationales comme l'ONU, l'UE ou l'OTAN.",
+      "tags": [
+        "préambule 1946",
+        "souveraineté"
+      ]
+    },
+    {
+      "id": "blocconst-fc-016",
+      "front": "Que prévoit le paragraphe 16 du Préambule de 1946 ?",
+      "back": "La France forme avec les peuples d'outre-mer une union fondée sur l'égalité des droits et des devoirs, sans distinction de race ni de religion ; ce principe d'égalité subsiste aujourd'hui dans le statut des DOM-ROM.",
+      "tags": [
+        "préambule 1946",
+        "outre-mer"
+      ]
+    },
+    {
+      "id": "blocconst-fc-017",
+      "front": "Que définissait le paragraphe 17 du Préambule de 1946, aujourd'hui obsolète ?",
+      "back": "Il définissait l'Union française comme une communauté de nations et de peuples mettant en commun leurs ressources pour développer leurs civilisations et assurer leur sécurité ; cette union a depuis été remplacée par la Communauté française (1958) puis la Francophonie.",
+      "tags": [
+        "préambule 1946",
+        "union française"
+      ]
+    },
+    {
+      "id": "blocconst-fc-018",
+      "front": "Que prévoyait le paragraphe 18 du Préambule de 1946, aujourd'hui obsolète ?",
+      "back": "Il engageait la France à conduire les peuples dont elle avait la charge vers la liberté de s'administrer eux-mêmes, en rejetant tout système de colonisation fondé sur l'arbitraire ; ce principe a fondé le processus de décolonisation.",
+      "tags": [
+        "préambule 1946",
+        "décolonisation"
+      ]
+    },
+    {
+      "id": "blocconst-fc-019",
+      "front": "Quelle est la portée du Préambule de la DDHC de 1789 ?",
+      "back": "Il justifie l'existence de la Déclaration en affirmant que l'ignorance, l'oubli ou le mépris des droits de l'homme sont la cause des malheurs publics ; les droits proclamés sont « naturels, inaliénables et sacrés », antérieurs à tout pouvoir, que la Révolution ne fait que constater et non créer.",
+      "tags": [
+        "ddhc 1789",
+        "préambule"
+      ]
+    },
+    {
+      "id": "blocconst-fc-020",
+      "front": "Que proclame l'article 1er de la DDHC de 1789 ?",
+      "back": "Les hommes naissent et demeurent libres et égaux en droits ; les distinctions sociales ne peuvent être fondées que sur l'utilité commune. Cet article abolit la société d'ordres de l'Ancien Régime et fonde l'égalité devant la loi.",
+      "tags": [
+        "ddhc 1789",
+        "article 1",
+        "égalité"
+      ]
+    },
+    {
+      "id": "blocconst-fc-021",
+      "front": "Quels sont les quatre droits naturels énoncés par l'article 2 de la DDHC de 1789 ?",
+      "back": "La liberté, la propriété, la sûreté et la résistance à l'oppression, que toute association politique a pour but de conserver ; la résistance à l'oppression légitime la Révolution et fonde le droit de révolte contre un pouvoir tyrannique.",
+      "tags": [
+        "ddhc 1789",
+        "article 2",
+        "droits naturels"
+      ]
+    },
+    {
+      "id": "blocconst-fc-022",
+      "front": "Que consacre l'article 3 de la DDHC de 1789 ?",
+      "back": "Le principe de la souveraineté nationale : elle réside essentiellement dans la nation, et nul corps ni individu ne peut exercer une autorité qui n'en émane expressément ; ce principe est repris à l'article 3 de la Constitution de 1958.",
+      "tags": [
+        "ddhc 1789",
+        "article 3",
+        "souveraineté nationale"
+      ]
+    },
+    {
+      "id": "blocconst-fc-023",
+      "front": "Comment l'article 4 de la DDHC de 1789 définit-il la liberté ?",
+      "back": "La liberté consiste à faire tout ce qui ne nuit pas à autrui ; ses seules limites sont celles qui assurent aux autres la jouissance des mêmes droits, et seule la loi peut les fixer — ce qui exclut l'arbitraire et fonde l'État de droit.",
+      "tags": [
+        "ddhc 1789",
+        "article 4",
+        "liberté"
+      ]
+    },
+    {
+      "id": "blocconst-fc-024",
+      "front": "Quel principe pénal fondamental pose l'article 5 de la DDHC de 1789 ?",
+      "back": "La loi ne peut défendre que les actions nuisibles à la société ; tout ce qu'elle n'interdit pas est permis. Cet article consacre le principe de légalité en matière répressive (nullum crimen sine lege).",
+      "tags": [
+        "ddhc 1789",
+        "article 5",
+        "légalité pénale"
+      ]
+    },
+    {
+      "id": "blocconst-fc-025",
+      "front": "Que pose l'article 6 de la DDHC de 1789 ?",
+      "back": "La loi est l'expression de la volonté générale, à laquelle chaque citoyen concourt directement ou par ses représentants ; elle est la même pour tous, et les emplois publics sont accessibles selon les seules vertus et talents.",
+      "tags": [
+        "ddhc 1789",
+        "article 6",
+        "volonté générale"
+      ]
+    },
+    {
+      "id": "blocconst-fc-026",
+      "front": "Que garantit l'article 7 de la DDHC de 1789 en matière de détention ?",
+      "back": "Nul ne peut être accusé, arrêté ou détenu que dans les cas et formes prévus par la loi ; ceux qui exécutent des ordres arbitraires doivent être punis. Cet article condamne les lettres de cachet de l'Ancien Régime.",
+      "tags": [
+        "ddhc 1789",
+        "article 7",
+        "détention"
+      ]
+    },
+    {
+      "id": "blocconst-fc-027",
+      "front": "Quels principes pénaux consacre l'article 8 de la DDHC de 1789 ?",
+      "back": "La loi ne doit établir que des peines strictement nécessaires, et nul ne peut être puni qu'en vertu d'une loi établie avant le délit ; il consacre la légalité et la non-rétroactivité de la loi pénale plus sévère.",
+      "tags": [
+        "ddhc 1789",
+        "article 8",
+        "non-rétroactivité"
+      ]
+    },
+    {
+      "id": "blocconst-fc-028",
+      "front": "Quel principe fondamental du procès pénal pose l'article 9 de la DDHC de 1789 ?",
+      "back": "La présomption d'innocence : tout homme est présumé innocent jusqu'à ce qu'il soit déclaré coupable, et toute rigueur non nécessaire pour s'assurer de sa personne doit être sévèrement réprimée.",
+      "tags": [
+        "ddhc 1789",
+        "article 9",
+        "présomption d'innocence"
+      ]
+    },
+    {
+      "id": "blocconst-fc-029",
+      "front": "Que garantit l'article 10 de la DDHC de 1789 ?",
+      "back": "Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la loi ; il fonde la liberté de conscience et la laïcité.",
+      "tags": [
+        "ddhc 1789",
+        "article 10",
+        "liberté d'opinion"
+      ]
+    },
+    {
+      "id": "blocconst-fc-030",
+      "front": "Que consacre l'article 11 de la DDHC de 1789 ?",
+      "back": "La libre communication des pensées et des opinions, l'un des droits les plus précieux de l'homme : chacun peut parler, écrire et imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas prévus par la loi.",
+      "tags": [
+        "ddhc 1789",
+        "article 11",
+        "liberté d'expression"
+      ]
+    },
+    {
+      "id": "blocconst-fc-031",
+      "front": "Que justifie l'article 12 de la DDHC de 1789 ?",
+      "back": "L'existence d'une force publique, instituée pour l'avantage de tous et non pour l'utilité particulière de ceux à qui elle est confiée ; il condamne l'usage privé de la force au profit d'un groupe ou d'un individu.",
+      "tags": [
+        "ddhc 1789",
+        "article 12",
+        "force publique"
+      ]
+    },
+    {
+      "id": "blocconst-fc-032",
+      "front": "Quel principe fiscal pose l'article 13 de la DDHC de 1789 ?",
+      "back": "La contribution commune, nécessaire à l'entretien de la force publique et aux dépenses d'administration, doit être également répartie entre les citoyens selon leurs facultés — fondement de la progressivité de l'impôt.",
+      "tags": [
+        "ddhc 1789",
+        "article 13",
+        "équité fiscale"
+      ]
+    },
+    {
+      "id": "blocconst-fc-033",
+      "front": "Que consacre l'article 14 de la DDHC de 1789 sur l'impôt ?",
+      "back": "Le droit des citoyens, par leurs représentants, de constater la nécessité de la contribution publique, de la consentir librement et d'en suivre l'emploi ; c'est le fondement du consentement à l'impôt et du vote annuel de la loi de finances.",
+      "tags": [
+        "ddhc 1789",
+        "article 14",
+        "consentement à l'impôt"
+      ]
+    },
+    {
+      "id": "blocconst-fc-034",
+      "front": "Que prévoit l'article 15 de la DDHC de 1789 ?",
+      "back": "La société a le droit de demander compte à tout agent public de son administration ; ce principe de reddition des comptes fonde le contrôle de l'administration par la Cour des comptes ou le Défenseur des droits.",
+      "tags": [
+        "ddhc 1789",
+        "article 15",
+        "reddition des comptes"
+      ]
+    },
+    {
+      "id": "blocconst-fc-035",
+      "front": "Comment l'article 16 de la DDHC de 1789 définit-il une Constitution ?",
+      "back": "Toute société où la garantie des droits n'est pas assurée, ni la séparation des pouvoirs déterminée, n'a point de Constitution ; cet article, célèbre, définit l'État de droit par la garantie des droits et la séparation des pouvoirs.",
+      "tags": [
+        "ddhc 1789",
+        "article 16",
+        "état de droit"
+      ]
+    },
+    {
+      "id": "blocconst-fc-036",
+      "front": "Que protège l'article 17 de la DDHC de 1789 et à quelles conditions peut-on y déroger ?",
+      "back": "La propriété, droit inviolable et sacré ; nul ne peut en être privé sauf nécessité publique légalement constatée et sous condition d'une juste et préalable indemnité — c'est le cadre de l'expropriation.",
+      "tags": [
+        "ddhc 1789",
+        "article 17",
+        "droit de propriété"
+      ]
+    },
+    {
+      "id": "blocconst-fc-037",
+      "front": "Quels principes fondamentaux pose le Préambule de la Charte de l'environnement de 2004 ?",
+      "back": "Il affirme l'interdépendance entre l'humanité et son milieu naturel, le caractère de patrimoine commun de l'environnement, et le principe de développement durable : répondre aux besoins présents sans compromettre ceux des générations futures.",
+      "tags": [
+        "charte environnement 2004",
+        "préambule"
+      ]
+    },
+    {
+      "id": "blocconst-fc-038",
+      "front": "Que garantit l'article 1er de la Charte de l'environnement de 2004 ?",
+      "back": "Le droit de chacun à vivre dans un environnement équilibré et respectueux de la santé ; c'est un droit-créance qui engage l'État à préserver la qualité de l'environnement et la santé publique.",
+      "tags": [
+        "charte environnement 2004",
+        "article 1"
+      ]
+    },
+    {
+      "id": "blocconst-fc-039",
+      "front": "Que prévoit l'article 2 de la Charte de l'environnement de 2004 ?",
+      "back": "Toute personne a le devoir de prendre part à la préservation et à l'amélioration de l'environnement ; ce devoir de participation, comme le tri sélectif des déchets, s'impose aux citoyens, aux entreprises et aux collectivités.",
+      "tags": [
+        "charte environnement 2004",
+        "article 2"
+      ]
+    },
+    {
+      "id": "blocconst-fc-040",
+      "front": "Quel principe pose l'article 3 de la Charte de l'environnement de 2004 ?",
+      "back": "Le principe de prévention : chacun doit prévenir les atteintes qu'il est susceptible de porter à l'environnement ou, à défaut, en limiter les conséquences, dans les conditions définies par la loi.",
+      "tags": [
+        "charte environnement 2004",
+        "principe de prévention"
+      ]
+    },
+    {
+      "id": "blocconst-fc-041",
+      "front": "Quel principe consacre l'article 4 de la Charte de l'environnement de 2004 ?",
+      "back": "Le principe du pollueur-payeur : toute personne doit contribuer à la réparation des dommages qu'elle cause à l'environnement, dans les conditions définies par la loi.",
+      "tags": [
+        "charte environnement 2004",
+        "pollueur-payeur"
+      ]
+    },
+    {
+      "id": "blocconst-fc-042",
+      "front": "Quel principe fondamental consacre l'article 5 de la Charte de l'environnement de 2004 ?",
+      "back": "Le principe de précaution : face à un risque incertain mais susceptible d'affecter gravement et irréversiblement l'environnement, les autorités publiques doivent évaluer les risques et adopter des mesures provisoires et proportionnées, comme pour l'interdiction des OGM en culture.",
+      "tags": [
+        "charte environnement 2004",
+        "principe de précaution"
+      ]
+    },
+    {
+      "id": "blocconst-fc-043",
+      "front": "Que pose l'article 6 de la Charte de l'environnement de 2004 sur les politiques publiques ?",
+      "back": "Les politiques publiques doivent promouvoir un développement durable en conciliant protection de l'environnement, développement économique et progrès social ; un projet d'infrastructure doit ainsi comporter une étude d'impact environnemental.",
+      "tags": [
+        "charte environnement 2004",
+        "développement durable"
+      ]
+    },
+    {
+      "id": "blocconst-fc-044",
+      "front": "Quels droits garantit l'article 7 de la Charte de l'environnement de 2004 ?",
+      "back": "Le droit d'accéder aux informations environnementales détenues par les autorités publiques et de participer à l'élaboration des décisions publiques ayant une incidence sur l'environnement, dans les conditions fixées par la loi.",
+      "tags": [
+        "charte environnement 2004",
+        "participation du public"
+      ]
+    },
+    {
+      "id": "blocconst-fc-045",
+      "front": "Que prévoit l'article 8 de la Charte de l'environnement de 2004 ?",
+      "back": "L'éducation et la formation à l'environnement doivent contribuer à l'exercice des droits et devoirs définis par la Charte, ce qui fonde par exemple l'enseignement du développement durable à l'école.",
+      "tags": [
+        "charte environnement 2004",
+        "éducation à l'environnement"
+      ]
+    },
+    {
+      "id": "blocconst-fc-046",
+      "front": "Que prévoit l'article 9 de la Charte de l'environnement de 2004 ?",
+      "back": "La recherche et l'innovation doivent apporter leur concours à la préservation et à la mise en valeur de l'environnement ; l'État soutient ainsi la recherche sur les énergies renouvelables ou l'agroécologie.",
+      "tags": [
+        "charte environnement 2004",
+        "recherche"
+      ]
+    },
+    {
+      "id": "blocconst-fc-047",
+      "front": "Que prévoit l'article 10 de la Charte de l'environnement de 2004 ?",
+      "back": "La Charte inspire l'action européenne et internationale de la France, qui doit promouvoir ses principes dans ses relations internationales, comme lors des négociations climatiques (COP21, COP15).",
+      "tags": [
+        "charte environnement 2004",
+        "action internationale"
+      ]
+    }
+  ],
+  "qcm": []
+}
