@@ -21,7 +21,7 @@
     {
       "id": "qualification-faits",
       "file": "qualification-faits.json",
-      "title": "La Qualification des faits",
+      "title": "La qualification des faits",
       "category": "Droit pénal général"
     },
     {
@@ -275,6 +275,12 @@
       "file": "vocabulaire-lexique.json",
       "title": "Vocabulaire juridique — Lexiques droit pénal et procédure pénale",
       "category": "Droit pénal général"
+    },
+    {
+      "id": "exemple-institutions",
+      "file": "exemple-institutions.json",
+      "title": "Exemple — Institutions de la Ve République",
+      "category": "Droit constitutionnel"
     }
   ]
 }
