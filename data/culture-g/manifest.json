@@ -365,6 +365,12 @@
       "file": "temps-travail-debat.json",
       "title": "Temps de travail : travailler moins pour travailler mieux ?",
       "category": "Culture générale"
+    },
+    {
+      "id": "bloc-constitutionnalite-1946-1789-2004",
+      "file": "bloc-constitutionnalite-1946-1789-2004.json",
+      "title": "Le bloc de constitutionnalité — Préambule de 1946, DDHC de 1789 et Charte de l'environnement de 2004",
+      "category": "Droit constitutionnel"
     }
   ]
 }
