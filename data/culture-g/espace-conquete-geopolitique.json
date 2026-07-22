@@ -4,7 +4,7 @@
   "category": "Culture générale",
   "flashcards": [
     {
-      "id": "espace-fc-001",
+      "id": "espace-geo-fc-001",
       "front": "Qu'est-ce qui définit un État comme « puissance spatiale » ?",
       "back": "Le fait d'avoir fabriqué et placé en orbite un satellite de manière autonome, par ses propres moyens techniques, sans dépendre d'un autre pays.",
       "tags": [
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "id": "espace-fc-002",
+      "id": "espace-geo-fc-002",
       "front": "Que prévoit le traité de l'espace de 1967 concernant les armes ?",
       "back": "Il interdit de mettre en orbite tout objet porteur d'armes nucléaires ou d'armes de destruction massive, mais il ne prohibe pas le simple transit de missiles nucléaires dans l'espace.",
       "tags": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": "espace-fc-003",
+      "id": "espace-geo-fc-003",
       "front": "Qu'est-ce que le « New Space » ?",
       "back": "L'ouverture du secteur spatial à de nouveaux acteurs privés (SpaceX, Blue Origin, Virgin Galactic), caractérisée par des financements privés, l'innovation technologique et la baisse des coûts.",
       "tags": [
@@ -30,7 +30,7 @@
   ],
   "qcm": [
     {
-      "id": "espace-qcm-001",
+      "id": "espace-geo-qcm-001",
       "question": "Quel événement marque précisément le début de l'ère spatiale en octobre 1957 ?",
       "options": [
         "Le lancement réussi par l'URSS du tout premier satellite artificiel, Spoutnik 1",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "id": "espace-qcm-002",
+      "id": "espace-geo-qcm-002",
       "question": "Quelle particularité présente le premier ravitaillement privé de l'ISS par la capsule Dragon en 2012 ?",
       "options": [
         "C'est le premier vaisseau habité jamais conçu sans aucun financement public",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "id": "espace-qcm-003",
+      "id": "espace-geo-qcm-003",
       "question": "Quelle prouesse la Chine réalise-t-elle en janvier 2019 dans le domaine lunaire ?",
       "options": [
         "Elle envoie le tout premier équipage humain en orbite autour de la Lune entière",
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "id": "espace-qcm-004",
+      "id": "espace-geo-qcm-004",
       "question": "Pourquoi les débris spatiaux constituent-ils un enjeu de sécurité croissant aujourd'hui ?",
       "options": [
         "Ils perturbent uniquement les communications radio reçues au sol par les antennes",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "id": "espace-qcm-005",
+      "id": "espace-geo-qcm-005",
       "question": "Quel terme désigne spécifiquement un astronaute possédant la nationalité française ?",
       "options": [
         "Cosmonaute, un terme en réalité réservé aux seules nationalités francophones",
