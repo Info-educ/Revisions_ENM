@@ -1,0 +1,130 @@
+{
+  "id": "commission-cjue-cedh",
+  "title": "La Commission européenne, la CJUE et la CEDH — institutions et Conseil de l'Europe",
+  "category": "Institutions politiques comparées",
+  "flashcards": [
+    {
+      "id": "eucedh-fc-001",
+      "front": "Quel est le rôle principal de la Commission européenne au sein de l'Union européenne ?",
+      "back": "La Commission propose les lois européennes, quasi seule à disposer de l'initiative législative ; elle veille à l'application du droit de l'Union, contrôle le respect des traités par les États et représente l'intérêt général de l'Union, sans jamais juger ni voter les textes.",
+      "tags": [
+        "commission européenne",
+        "institutions ue"
+      ]
+    },
+    {
+      "id": "eucedh-fc-002",
+      "front": "Quelle différence fondamentale distingue la CJUE de la Cour européenne des droits de l'homme ?",
+      "back": "La CJUE appartient à l'Union européenne et juge le respect du droit de l'Union (litiges États/Union, recours contre les institutions, renvois préjudiciels). La Cour européenne des droits de l'homme appartient au Conseil de l'Europe et vérifie le respect de la Convention de 1950 par les États.",
+      "tags": [
+        "cjue",
+        "cedh"
+      ]
+    },
+    {
+      "id": "eucedh-fc-003",
+      "front": "Qu'est-ce que le Conseil de l'Europe et en quoi diffère-t-il de l'Union européenne ?",
+      "back": "Créé en 1949, le Conseil de l'Europe est une organisation distincte de l'Union européenne, chargée de protéger les droits de l'homme, promouvoir la démocratie et défendre l'État de droit ; il compte davantage d'États membres que l'UE, par exemple la Turquie.",
+      "tags": [
+        "conseil de l'europe"
+      ]
+    }
+  ],
+  "qcm": [
+    {
+      "id": "eucedh-qcm-001",
+      "question": "Quelle institution dispose du quasi-monopole de l'initiative législative dans l'Union européenne ?",
+      "options": [
+        "Le Conseil de l'Union européenne, qui négocie ensuite les textes avec le Parlement",
+        "La Commission européenne, chargée de rédiger et proposer les textes législatifs",
+        "La Cour de justice de l'Union européenne, qui interprète les traités fondateurs",
+        "Le Parlement européen, seul organe directement élu par les citoyens de l'Union"
+      ],
+      "answer": 1,
+      "explanation": "La Commission européenne détient presque le monopole de l'initiative législative : elle rédige les propositions de règlement ou de directive, ensuite examinées par le Parlement européen et le Conseil de l'Union européenne, qui les adoptent ou non.",
+      "tags": [
+        "commission européenne"
+      ]
+    },
+    {
+      "id": "eucedh-qcm-002",
+      "question": "Parmi ces missions, laquelle relève de la Commission européenne et non de la CJUE ?",
+      "options": [
+        "Trancher les litiges qui opposent un État membre aux institutions de l'Union",
+        "Répondre aux questions préjudicielles posées par les juridictions nationales",
+        "Contrôler que les États membres respectent correctement les traités qu'ils ont signés",
+        "Statuer sur les recours formés contre les décisions prises par les institutions"
+      ],
+      "answer": 2,
+      "explanation": "Contrôler le respect des traités par les États relève de la Commission, gardienne des traités, tandis que trancher les litiges, répondre aux renvois préjudiciels et statuer sur les recours contre les institutions sont des fonctions juridictionnelles propres à la CJUE.",
+      "tags": [
+        "commission européenne",
+        "cjue"
+      ]
+    },
+    {
+      "id": "eucedh-qcm-003",
+      "question": "Qu'est-ce que le renvoi préjudiciel devant la Cour de justice de l'Union européenne ?",
+      "options": [
+        "Un recours direct qu'un citoyen peut former seul contre une loi de son pays",
+        "Une question posée par un juge national à la CJUE sur l'interprétation du droit de l'Union",
+        "Une procédure de sanction financière engagée par la Commission contre un État",
+        "Un vote du Parlement européen validant une proposition faite par la Commission"
+      ],
+      "answer": 1,
+      "explanation": "Le renvoi préjudiciel permet à un juge national, saisi d'un litige, de demander à la CJUE comment interpréter le droit de l'Union avant de statuer lui-même ; la Cour répond, puis le juge national applique cette interprétation.",
+      "tags": [
+        "cjue",
+        "renvoi préjudiciel"
+      ]
+    },
+    {
+      "id": "eucedh-qcm-004",
+      "question": "À quelle organisation appartient la Convention européenne des droits de l'homme, signée en 1950 ?",
+      "options": [
+        "À l'Union européenne, au même titre que la Commission et le Parlement européen",
+        "Au Conseil de l'Europe, une organisation bien distincte de l'Union européenne",
+        "À l'Organisation des Nations unies, comme la plupart des grands traités humains",
+        "À l'Organisation pour la sécurité et la coopération en Europe, l'OSCE uniquement"
+      ],
+      "answer": 1,
+      "explanation": "La Convention européenne des droits de l'homme est un traité international rattaché au Conseil de l'Europe, créé en 1949, et non à l'Union européenne ; les deux organisations sont totalement distinctes malgré des sigles proches.",
+      "tags": [
+        "conseil de l'europe",
+        "cedh"
+      ]
+    },
+    {
+      "id": "eucedh-qcm-005",
+      "question": "Pourquoi la Turquie illustre-t-elle la différence entre Conseil de l'Europe et Union européenne ?",
+      "options": [
+        "Parce qu'elle a quitté l'Union européenne tout en restant au Conseil de l'Europe",
+        "Parce qu'elle est membre du Conseil de l'Europe sans appartenir à l'Union européenne",
+        "Parce qu'elle préside actuellement la Cour européenne des droits de l'homme",
+        "Parce qu'elle a refusé de signer la Convention européenne des droits de l'homme"
+      ],
+      "answer": 1,
+      "explanation": "Le Conseil de l'Europe compte davantage d'États membres que l'Union européenne ; la Turquie en fait partie sans jamais avoir adhéré à l'Union européenne, ce qui illustre bien que les deux organisations ne se recoupent pas.",
+      "tags": [
+        "conseil de l'europe",
+        "turquie"
+      ]
+    },
+    {
+      "id": "eucedh-qcm-006",
+      "question": "Un justiciable français ayant épuisé les recours internes peut saisir quelle juridiction pour un procès trop long ?",
+      "options": [
+        "La Cour de justice de l'Union européenne, pour violation du droit de l'Union",
+        "Le Conseil constitutionnel, par la voie d'une question prioritaire de constitutionnalité",
+        "La Cour européenne des droits de l'homme, pour violation du droit à un procès équitable",
+        "La Commission européenne, en tant que gardienne des traités de l'Union européenne"
+      ],
+      "answer": 2,
+      "explanation": "Après épuisement des voies de recours internes, un justiciable peut saisir la Cour européenne des droits de l'homme, qui examine si l'État a violé le droit à un procès dans un délai raisonnable garanti par la Convention.",
+      "tags": [
+        "cedh",
+        "procès équitable"
+      ]
+    }
+  ]
+}

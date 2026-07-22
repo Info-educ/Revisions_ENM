@@ -371,6 +371,12 @@
       "file": "bloc-constitutionnalite-1946-1789-2004.json",
       "title": "Le bloc de constitutionnalité — Préambule de 1946, DDHC de 1789 et Charte de l'environnement de 2004",
       "category": "Droit constitutionnel"
+    },
+    {
+      "id": "commission-cjue-cedh",
+      "file": "commission-cjue-cedh.json",
+      "title": "La Commission européenne, la CJUE et la CEDH — institutions et Conseil de l'Europe",
+      "category": "Institutions politiques comparées"
     }
   ]
 }
