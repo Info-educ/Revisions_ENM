@@ -4,39 +4,55 @@
   "category": "Procédure civile",
   "flashcards": [
     {
-      "id": "preuve-fc-001",
+      "id": "preuve-pc-fc-001",
       "front": "Quel est le rôle respectif des articles 9, 10 et 11 du code de procédure civile dans l'administration de la preuve ?",
       "back": "L'article 9 pose la charge de la preuve pesant sur chaque partie, prolongement du principe d'allégation. L'article 10 donne au juge le pouvoir d'ordonner d'office toutes les mesures d'instruction légalement admissibles, ce qui infléchit le principe dispositif en permettant au juge de faire entrer indirectement des éléments de preuve. L'article 11 impose une obligation de coopérer à toutes les parties et aux tiers, le juge pouvant tirer toute conséquence d'une abstention ou exiger une production sous astreinte.",
-      "tags": ["article 9", "article 10", "article 11"]
+      "tags": [
+        "article 9",
+        "article 10",
+        "article 11"
+      ]
     },
     {
-      "id": "preuve-fc-002",
+      "id": "preuve-pc-fc-002",
       "front": "Quelles sont les trois conditions de licéité de la preuve identifiées par la jurisprudence ?",
       "back": "La première condition est la loyauté dans l'obtention de la preuve, qui interdit tout procédé déloyal ou clandestin. La deuxième est le respect de la vie privée, qui interdit de produire des éléments touchant à l'intimité d'une partie ou d'un tiers. La troisième est le respect de la confidentialité protégée par le droit, qui interdit de révéler une information couverte par un secret professionnel, bancaire, des affaires, ou par le règlement général sur la protection des données.",
-      "tags": ["licéité de la preuve", "loyauté"]
+      "tags": [
+        "licéité de la preuve",
+        "loyauté"
+      ]
     },
     {
-      "id": "preuve-fc-003",
+      "id": "preuve-pc-fc-003",
       "front": "Qu'a jugé l'assemblée plénière le 22 décembre 2023 à propos des preuves déloyales ?",
       "back": "L'assemblée plénière a opéré un revirement majeur en étendant aux preuves déloyales le régime jusque-là réservé aux preuves illicites : désormais, en présence d'une preuve déloyale, le juge doit, lorsque cela lui est demandé, apprécier si cette preuve porte atteinte au caractère équitable de la procédure dans son ensemble, en mettant en balance le droit à la preuve et les droits antinomiques, à condition que sa production soit indispensable et l'atteinte strictement proportionnée au but poursuivi.",
-      "tags": ["preuve déloyale", "assemblée plénière 2023"]
+      "tags": [
+        "preuve déloyale",
+        "assemblée plénière 2023"
+      ]
     },
     {
-      "id": "preuve-fc-004",
+      "id": "preuve-pc-fc-004",
       "front": "Quelles sont les quatre catégories de mesures d'instruction prévues par le code de procédure civile ?",
       "back": "La première catégorie regroupe les vérifications personnelles du juge, qui se transporte lui-même pour constater, évaluer ou reconstituer des faits litigieux. La deuxième est la comparution personnelle des parties, destinée notamment à obtenir un aveu ou à éclairer le tribunal. La troisième regroupe les déclarations de tiers, sous forme d'attestations écrites ou d'enquête orale. La quatrième regroupe les mesures exécutées par un technicien, selon trois degrés de complexité croissante : les constatations, la consultation et l'expertise.",
-      "tags": ["mesures d'instruction", "catégories"]
+      "tags": [
+        "mesures d'instruction",
+        "catégories"
+      ]
     },
     {
-      "id": "preuve-fc-005",
+      "id": "preuve-pc-fc-005",
       "front": "Quelle est la portée du principe du contradictoire dans le déroulement de l'expertise judiciaire, selon la jurisprudence Mantovanelli de la CEDH ?",
       "back": "L'arrêt Mantovanelli du 18 mars 1997 impose que le contradictoire soit obligatoire tout au long des opérations d'expertise : les parties doivent être convoquées, pouvoir commenter les constatations de l'expert, présenter leurs observations et faire valoir leurs propres éléments. Le juge n'est en outre pas lié par les constatations de l'expert et conserve son libre pouvoir d'appréciation, l'expert ne pouvant lui-même porter d'appréciation d'ordre juridique sur le litige.",
-      "tags": ["expertise judiciaire", "Mantovanelli"]
+      "tags": [
+        "expertise judiciaire",
+        "Mantovanelli"
+      ]
     }
   ],
   "qcm": [
     {
-      "id": "preuve-qcm-001",
+      "id": "preuve-pc-qcm-001",
       "question": "Un juge estime ne pas disposer d'éléments suffisants pour statuer sur un fait déterminant du litige, sans qu'aucune partie ne l'ait sollicité. Peut-il ordonner lui-même une mesure d'instruction ?",
       "options": [
         "Non, seule une partie peut solliciter une mesure d'instruction devant le juge civil",
@@ -46,10 +62,13 @@
       ],
       "answer": 1,
       "explanation": "Selon l'article 10 du code de procédure civile, le juge a le pouvoir d'ordonner d'office toutes les mesures d'instruction légalement admissibles, ce qui constitue un infléchissement du principe dispositif permettant au juge de faire entrer indirectement des éléments de preuve dans le débat.",
-      "tags": ["mesures d'instruction", "office du juge"]
+      "tags": [
+        "mesures d'instruction",
+        "office du juge"
+      ]
     },
     {
-      "id": "preuve-qcm-002",
+      "id": "preuve-pc-qcm-002",
       "question": "Une partie a obtenu une preuve par un procédé jugé déloyal, sans que cette preuve ne viole directement un texte légal ou réglementaire. Le juge doit-il automatiquement l'écarter des débats ?",
       "options": [
         "Non, il doit mettre en balance le droit à la preuve et les droits antinomiques en cause",
@@ -59,10 +78,13 @@
       ],
       "answer": 0,
       "explanation": "Depuis l'arrêt de l'assemblée plénière du 22 décembre 2023, le juge doit, lorsque cela lui est demandé, apprécier si une preuve déloyale porte atteinte au caractère équitable de la procédure en mettant en balance le droit à la preuve et les droits antinomiques, sans écarter automatiquement la preuve.",
-      "tags": ["preuve déloyale", "proportionnalité"]
+      "tags": [
+        "preuve déloyale",
+        "proportionnalité"
+      ]
     },
     {
-      "id": "preuve-qcm-003",
+      "id": "preuve-pc-qcm-003",
       "question": "Un plaideur refuse, sans motif légitime, de produire une pièce que le juge lui a enjoint de communiquer à peine d'astreinte. Quelle conséquence le juge peut-il en tirer ?",
       "options": [
         "Aucune, le refus d'une partie restant sans incidence sur l'appréciation du litige",
@@ -72,10 +94,13 @@
       ],
       "answer": 2,
       "explanation": "En application de l'article 11 du code de procédure civile, le juge peut tirer toute conséquence d'une abstention ou d'un refus de produire un élément de preuve, cette faculté visant précisément le cas de non-concours d'une partie à une mesure d'instruction ordonnée.",
-      "tags": ["obligation de coopérer", "article 11"]
+      "tags": [
+        "obligation de coopérer",
+        "article 11"
+      ]
     },
     {
-      "id": "preuve-qcm-004",
+      "id": "preuve-pc-qcm-004",
       "question": "Un tiers détient une pièce utile à la solution du litige mais invoque un empêchement légitime tiré d'un secret juridiquement protégé. Le juge peut-il malgré tout ordonner sa production ?",
       "options": [
         "Non, l'invocation d'un empêchement légitime interdit systématiquement toute injonction",
@@ -85,10 +110,13 @@
       ],
       "answer": 2,
       "explanation": "Le juge dispose d'un pouvoir discrétionnaire pour ordonner ou refuser la production d'une pièce détenue par un tiers, ce dernier pouvant invoquer un empêchement légitime tiré d'un secret juridiquement protégé, dont l'appréciation reste soumise au contrôle du juge saisi de la demande.",
-      "tags": ["production forcée", "empêchement légitime"]
+      "tags": [
+        "production forcée",
+        "empêchement légitime"
+      ]
     },
     {
-      "id": "preuve-qcm-005",
+      "id": "preuve-pc-qcm-005",
       "question": "Une mesure d'instruction est ordonnée par le juge alors qu'une partie n'a produit aucun élément à l'appui de son allégation. Cette mesure peut-elle suppléer cette carence ?",
       "options": [
         "Non, la mesure d'instruction ne peut pas suppléer la carence du plaideur défaillant",
@@ -98,10 +126,13 @@
       ],
       "answer": 0,
       "explanation": "Selon l'article 146, alinéa 2, du code de procédure civile, la mesure d'instruction ne peut être ordonnée pour suppléer la carence de la partie dans l'administration de la preuve, celle-ci devant présenter des éléments suffisants pour justifier le fait allégué avant que le juge n'intervienne.",
-      "tags": ["carence du plaideur", "article 146"]
+      "tags": [
+        "carence du plaideur",
+        "article 146"
+      ]
     },
     {
-      "id": "preuve-qcm-006",
+      "id": "preuve-pc-qcm-006",
       "question": "Une ordonnance ordonnant une expertise judiciaire est rendue par le juge de la mise en état. Le jugement sur le fond n'est pas encore intervenu. Un appel immédiat de cette ordonnance est-il possible ?",
       "options": [
         "Non, l'appel n'est possible qu'en même temps que le jugement statuant sur le fond",
@@ -111,10 +142,13 @@
       ],
       "answer": 3,
       "explanation": "Si le principe est que l'appel contre une mesure d'instruction n'est possible qu'avec le jugement sur le fond selon l'article 150, l'article 272 prévoit une exception pour l'expertise, permettant un appel immédiat sur autorisation du premier président de la cour d'appel pour motif grave et légitime.",
-      "tags": ["expertise judiciaire", "voies de recours"]
+      "tags": [
+        "expertise judiciaire",
+        "voies de recours"
+      ]
     },
     {
-      "id": "preuve-qcm-007",
+      "id": "preuve-pc-qcm-007",
       "question": "Un rapport d'expertise extrajudiciaire est produit par une partie, discuté contradictoirement devant le juge. Peut-il constituer le fondement exclusif de la décision du juge ?",
       "options": [
         "Non, il ne peut en principe constituer le fondement exclusif de la décision rendue",
@@ -124,10 +158,13 @@
       ],
       "answer": 0,
       "explanation": "Un rapport d'expertise extrajudiciaire est recevable comme simple pièce s'il est discuté contradictoirement devant le juge, mais il ne peut en principe constituer le fondement exclusif de la décision, sauf si toutes les parties sont à l'origine de cette expertise ou en cas d'expertise amiable relevant de l'article 131-8.",
-      "tags": ["expertise extrajudiciaire", "fondement de la décision"]
+      "tags": [
+        "expertise extrajudiciaire",
+        "fondement de la décision"
+      ]
     },
     {
-      "id": "preuve-qcm-008",
+      "id": "preuve-pc-qcm-008",
       "question": "Un témoin souhaite déposer de manière anonyme dans une enquête ordonnée par le juge civil. Cette anonymisation est-elle admise ?",
       "options": [
         "Oui, l'anonymat du témoin est admis dès lors qu'un motif légitime est invoqué",
@@ -137,10 +174,13 @@
       ],
       "answer": 1,
       "explanation": "Le témoignage anonyme est interdit devant le juge civil, comme l'ont rappelé des arrêts de la chambre sociale du 4 juillet 2018 et du 19 mars 2025, une dispense pour motif légitime tel qu'un secret professionnel ne permettant pas pour autant l'anonymat total du témoin.",
-      "tags": ["témoignage anonyme", "enquête"]
+      "tags": [
+        "témoignage anonyme",
+        "enquête"
+      ]
     },
     {
-      "id": "preuve-qcm-009",
+      "id": "preuve-pc-qcm-009",
       "question": "Une partie prête un serment décisoire déféré par son adversaire dans un litige civil. Quel est l'effet de cette prestation de serment sur l'issue du procès ?",
       "options": [
         "Aucun effet déterminant, le serment décisoire ne constituant qu'un indice parmi d'autres",
@@ -150,10 +190,13 @@
       ],
       "answer": 3,
       "explanation": "Le serment décisoire, déféré par un plaideur à l'autre, produit les effets les plus forts du droit probatoire : la partie qui prête serment gagne le procès, la décision étant en outre susceptible de recours immédiat indépendamment du sort réservé au fond du litige.",
-      "tags": ["serment décisoire", "effets"]
+      "tags": [
+        "serment décisoire",
+        "effets"
+      ]
     },
     {
-      "id": "preuve-qcm-010",
+      "id": "preuve-pc-qcm-010",
       "question": "Une partie conteste un acte sous seing privé en niant l'avoir écrit ou signé. Quelle procédure permet de trancher cette contestation ?",
       "options": [
         "L'inscription de faux, réservée exclusivement à la contestation des actes authentiques",
@@ -163,7 +206,10 @@
       ],
       "answer": 1,
       "explanation": "La vérification d'écriture, régie par les articles 287 à 302 du code de procédure civile, s'applique lorsqu'un acte sous seing privé est contesté par son prétendu auteur, tandis que l'inscription de faux, régie par les articles 303 à 316, concerne les actes authentiques argués de faux.",
-      "tags": ["vérification d'écriture", "acte sous seing privé"]
+      "tags": [
+        "vérification d'écriture",
+        "acte sous seing privé"
+      ]
     }
   ]
 }
