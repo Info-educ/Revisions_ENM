@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785164550022,
+  "updatedAt": 1785164572928,
   "themes": {
     "civil": {
       "items": {
@@ -4718,6 +4718,13 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1785164546007
+        },
+        "arctique-qcm-002": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1785164568914
         }
       }
     },
