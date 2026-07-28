@@ -329,6 +329,7 @@ function backToThemes() {
   }
   state.session = null;
   state.theme = null;
+  setSkipVisible(false);
   showView("themes");
 }
 
@@ -558,6 +559,7 @@ function startRevisionSession() {
     queue,
     total: queue.length,
     validatedCount: 0,
+    skippedCount: 0,
     current: null,
     mode: "revision",
   };
@@ -837,6 +839,7 @@ function startSession() {
     queue,
     total: queue.length,
     validatedCount: 0,
+    skippedCount: 0,
     current: null,
     mode: "learning",
   };
@@ -853,10 +856,18 @@ function endSession() {
   $("#qcm-card").hidden = true;
   $("#fc-controls").hidden = true;
   $("#qcm-controls").hidden = true;
+  setSkipVisible(false);
 
   const end = $("#session-end");
   end.hidden = false;
-  const count = `${state.session.total} item${state.session.total > 1 ? "s" : ""} traité${state.session.total > 1 ? "s" : ""}.`;
+
+  const skipped = state.session.skippedCount || 0;
+  const answered = Math.max(0, state.session.total - skipped);
+  const count =
+    `${answered} item${answered > 1 ? "s" : ""} traité${answered > 1 ? "s" : ""}` +
+    (skipped > 0
+      ? `, ${skipped} passé${skipped > 1 ? "s" : ""} (sans effet sur la progression).`
+      : ".");
   const followUp =
     state.session.mode === "revision"
       ? "Revenez quand vous voulez pour une nouvelle session de révision."
@@ -879,12 +890,19 @@ function nextCard() {
   const item = session.queue[0];
   session.current = item;
 
-  // Met à jour la barre de progression
-  $("#session-progress-fill").style.width = `${(session.validatedCount / session.total) * 100}%`;
-  $("#session-progress-text").textContent = `${session.validatedCount} / ${session.total}`;
+  // Met à jour la barre de progression. Les items passés comptent comme
+  // « sortis de la file » : sans cela, la barre ne pourrait jamais
+  // atteindre 100 % dès qu'une question a été passée.
+  const done = session.validatedCount + (session.skippedCount || 0);
+  const ratio = session.total > 0 ? done / session.total : 0;
+  $("#session-progress-fill").style.width = `${ratio * 100}%`;
+  $("#session-progress-text").textContent = `${done} / ${session.total}`;
   $("#session-mode-label").textContent = item.type === "flashcard" ? "Flashcard" : "QCM";
 
   $("#stamp").className = "stamp";
+
+  // Nouvel item : aucune réponse donnée, on peut donc le passer.
+  setSkipVisible(true);
 
   if (item.type === "flashcard") {
     renderFlashcard(item);
@@ -958,6 +976,9 @@ function handleQcmAnswer(item, chosenIdx) {
     explanation.innerHTML = `<span class="qcm-explanation__label">Explication</span>${escapeHtml(item.explanation)}`;
   }
 
+  // La réponse est donnée : le résultat est enregistré, l'item ne peut
+  // plus être passé.
+  setSkipVisible(false);
   $("#qcm-controls").hidden = false;
   playStamp(correct);
   recordResult(item, correct);
@@ -981,6 +1002,7 @@ function setupFlashcardHandlers() {
       playStamp(correct);
       recordResult(item, correct);
       $("#fc-controls").hidden = true;
+      setSkipVisible(false);
       // Léger délai pour laisser voir le tampon avant de passer à la suite.
       setTimeout(() => advanceSession(item, correct), 650);
     });
@@ -1018,12 +1040,53 @@ function advanceSession(item, correct) {
   nextCard();
 }
 
+// ------------------------------------------------------------
+// Passer un item
+//
+// Un item passé est simplement retiré de la file de la session en
+// cours. Aucune écriture n'est faite dans la progression : ni
+// réussite, ni échec, ni niveau de maîtrise modifié. L'item reste
+// donc exactement dans l'état où il était (y compris « jamais
+// réussi »), et réapparaîtra normalement lors d'une prochaine
+// session. C'est volontaire : passer signifie « je ne me prononce
+// pas », ce qui ne doit pas polluer les statistiques.
+// ------------------------------------------------------------
+function setSkipVisible(visible) {
+  const el = $("#skip-controls");
+  if (el) el.hidden = !visible;
+}
+
+function skipCurrent() {
+  const session = state.session;
+  if (!session || !session.current) return;
+
+  // Retire l'item courant de la file, sans le remettre plus loin :
+  // le repasser en boucle dans la même session n'aurait pas de sens
+  // et pourrait empêcher la session de se terminer.
+  session.queue.shift();
+  session.skippedCount = (session.skippedCount || 0) + 1;
+  session.current = null;
+
+  setSkipVisible(false);
+  nextCard();
+}
+
+function setupSkip() {
+  const btn = $("#btn-skip");
+  if (!btn) return;
+  btn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    skipCurrent();
+  });
+}
+
 function setupQuitSession() {
   $("#btn-quit-session").addEventListener("click", () => {
     if (state.session && state.session.queue.length > 0) {
       if (!confirm("Quitter la session en cours ? Votre progression sur les items déjà traités est conservée.")) return;
     }
     state.session = null;
+    setSkipVisible(false);
     showView("accueil");
   });
 
@@ -1055,6 +1118,7 @@ async function init() {
   setupSessionSize();
   setupRevisions();
   setupFlashcardHandlers();
+  setupSkip();
   setupQuitSession();
   setupSyncToastRetry();
 
