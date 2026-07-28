@@ -15,7 +15,7 @@
 
 // Le numéro de version DOIT être incrémenté à chaque déploiement
 // modifiant le HTML/CSS/JS, afin de purger l'ancien cache.
-const CACHE_NAME = "cabinet-enm-v3";
+const CACHE_NAME = "cabinet-enm-v4";
 
 self.addEventListener("install", (event) => {
   self.skipWaiting();

@@ -164,6 +164,15 @@
       <button class="btn btn--primary btn--block" id="qcm-continue">Question suivante</button>
     </div>
 
+    <!-- Passer l'item courant : visible tant qu'aucune réponse n'a été
+         donnée. Un item passé n'est jamais enregistré dans la
+         progression (ni réussite, ni échec). -->
+    <div class="skip-controls" id="skip-controls" hidden>
+      <button class="btn btn--skip" id="btn-skip" type="button">
+        Passer cette question
+      </button>
+    </div>
+
     <!-- End of session -->
     <div class="session-end" id="session-end" hidden>
       <div class="session-end__stamp">DOSSIER TRAITÉ</div>
