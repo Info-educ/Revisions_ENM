@@ -254,6 +254,15 @@ h1,h2,h3{ font-family: var(--font-display); margin: 0; }
 /* Answer controls */
 .answer-controls{ display:flex; gap:12px; margin-top: 16px; }
 
+/* Bouton « Passer » : volontairement discret, pour rester un recours
+   et non l'action principale. */
+.skip-controls{ display:flex; justify-content:center; margin-top: 12px; }
+.btn--skip{
+  background: transparent; color: var(--muted); border-color: var(--paper-edge);
+  font-size:.85rem; font-weight:600; padding: 9px 20px;
+}
+.btn--skip:hover{ color: var(--ink); border-color: var(--ink); }
+
 /* ===================== STAMP (signature element) ===================== */
 .stamp{
   position:absolute; top:14%; left:50%;
