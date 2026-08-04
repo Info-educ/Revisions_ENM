@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785853900953,
+  "updatedAt": 1785853924659,
   "themes": {
     "civil": {
       "items": {
@@ -5551,6 +5551,20 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1785853896941
+        },
+        "partie-qcm-010": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1785853906300
+        },
+        "voiture-electrique-qcm-002": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1785853920648
         }
       }
     },
