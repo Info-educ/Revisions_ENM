@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785854424364,
+  "updatedAt": 1785854439870,
   "themes": {
     "civil": {
       "items": {
@@ -5761,6 +5761,13 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1785854420352
+        },
+        "destitution-qcm-004": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1785854435858
         }
       }
     },
