@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785854536423,
+  "updatedAt": 1785854560638,
   "themes": {
     "civil": {
       "items": {
@@ -5810,6 +5810,13 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1785854532410
+        },
+        "election-us-qcm-001": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1785854556626
         }
       }
     },
