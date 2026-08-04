@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785854136441,
+  "updatedAt": 1785854143353,
   "themes": {
     "civil": {
       "items": {
@@ -5642,6 +5642,13 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1785854121331
+        },
+        "israel24-qcm-005": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1785854139341
         }
       }
     },
