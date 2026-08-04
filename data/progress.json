@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785854016772,
+  "updatedAt": 1785854025294,
   "themes": {
     "civil": {
       "items": {
@@ -5581,11 +5581,11 @@
           "lastSeenAt": 1785853943908
         },
         "finvie-qcm-004": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1785853956683
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1785854021278
         },
         "constitution-qcm-097": {
           "level": 1,
