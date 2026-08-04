@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785854600393,
+  "updatedAt": 1785854605999,
   "themes": {
     "civil": {
       "items": {
@@ -5238,11 +5238,11 @@
           "lastSeenAt": 1785852962872
         },
         "ukraine-qcm-002": {
-          "level": 0,
-          "seenCount": 1,
-          "correctCount": 0,
-          "lastResult": "miss",
-          "lastSeenAt": 1785852976436
+          "level": 1,
+          "seenCount": 2,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1785854601974
         },
         "tps-travail-qcm-002": {
           "level": 0,
