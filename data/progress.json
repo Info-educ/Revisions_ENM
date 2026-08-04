@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785854587391,
+  "updatedAt": 1785854600393,
   "themes": {
     "civil": {
       "items": {
@@ -5824,6 +5824,13 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1785854573510
+        },
+        "ukraine-qcm-004": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1785854596381
         }
       }
     },
