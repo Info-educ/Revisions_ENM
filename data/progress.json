@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785854628807,
+  "updatedAt": 1785854665573,
   "themes": {
     "civil": {
       "items": {
@@ -5838,6 +5838,20 @@
           "correctCount": 1,
           "lastResult": "hit",
           "lastSeenAt": 1785854624795
+        },
+        "droits-subjectifs-qcm-002": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1785854640698
+        },
+        "cocorico-qcm-002": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1785854647971
         }
       }
     },
