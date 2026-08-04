@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785853323637,
+  "updatedAt": 1785853432247,
   "themes": {
     "civil": {
       "items": {
@@ -5376,6 +5376,41 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1785853319625
+        },
+        "giec-ar6-qcm-005": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1785853343201
+        },
+        "lit-impact-qcm-006": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1785853356236
+        },
+        "climat-qcm-001": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1785853390529
+        },
+        "marches-financiers-qcm-005": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1785853421879
+        },
+        "cocorico-qcm-003": {
+          "level": 1,
+          "seenCount": 1,
+          "correctCount": 1,
+          "lastResult": "hit",
+          "lastSeenAt": 1785853428233
         }
       }
     },
