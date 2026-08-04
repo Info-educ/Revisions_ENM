@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": 1785853090954,
+  "updatedAt": 1785853107662,
   "themes": {
     "civil": {
       "items": {
@@ -5271,6 +5271,13 @@
           "correctCount": 0,
           "lastResult": "miss",
           "lastSeenAt": 1785853039418
+        },
+        "blockchain-qcm-001": {
+          "level": 0,
+          "seenCount": 1,
+          "correctCount": 0,
+          "lastResult": "miss",
+          "lastSeenAt": 1785853103642
         }
       }
     },
